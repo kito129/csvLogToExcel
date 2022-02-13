@@ -207,7 +207,8 @@ Under game A and B (columns V and W) we place the point:
 runnerA: 0
 runnerB: 0
 
-For SER colum (X columns) we place A if aServing =1 and bServing = 0 , B if bServing = 2 and aServing = 0
+For SER colum (X columns) we place A if aServing =1 and bServing = 0 , B if bServing = 2 and aServing = 0.
+
 Keep in mind that other info it's only to refer to the bets, so for example price =1.32 is for the first matched bet @ 1.32 added in row 4 of the excel.
 
 ![tennis point](/images/6.png?raw=true "tennis points")
@@ -217,8 +218,10 @@ For each matched bets added we add the tennis point
 ## 4.1 - Repeated point logs
 Is possible in the logs to have two or more repeated info, like in the example:
 
-block form row 45 - 56 and block 57 - 68 refer to the same matched bets, but as you can see the value TOTAL STAKE (row 53 and 65) are not changed, so isn't a new matched bet but the same. 
+Block form row 45 - 56 and block 57 - 68 refer to the same matched bets, but as you can see the value TOTAL STAKE (row 53 and 65) are not changed, so isn't a new matched bet but the same. 
+
 Always take the info from the first block. 
+
 Always check if the new block have the same TOTAL STAKE, so it refer to the same matched bets, even if other values are changed (time or point or other values).
 
 ![tennis point2](/images/7.png?raw=true "tennis points2")
@@ -245,7 +248,7 @@ we have these block (row 81 to 92):
 The point are now 
 aSet: 1, bSet:0, so we are in second set:
 
-we gonna put in columns L and M (first set) 1 and 0, and in column N and O (second set) the curent game point, so: 0 and 0
+we gonna put in columns L and M (first set) 1 and 0, and in column N and O (second set) the current game point, so: 0 and 0
 
 The same for third and eventually fourth or fifth set
 
@@ -254,6 +257,14 @@ The same for third and eventually fourth or fifth set
 NOTE 1: if the games are 6 for runnerA and runnerB we are in the tie break, and the log don't put the point, just leave at 0 the values for the columns V and W
 
 NOTE 2: if aPoint: == 99 or bPoint: == 99 we have an Advantage for the runner so we gonna put "AD" for the runner that have 99 as a value, and 40 for the runner that have 40
+
+## 4.3 - Another points example 2
+
+![tennis point4](/images/11.png?raw=true "tennis points4")
+
+In that example we are in the third set, so column L and M for the first and N and O for the second are set to 1 1 and 1 1, and we are 1-1 in the third
+
+![tennis point5](/images/12.png?raw=true "tennis points5")
 
 
 # 5 - Final result for the example
