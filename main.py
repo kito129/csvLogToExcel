@@ -50,6 +50,7 @@ for date in os.listdir(path):
             if len(mContent.splitlines())<2:
                 continue
             content = logger.read()
+            print("File: ",logFile)
             marketName,marketDate = getField('marketName',content)
             market = {}
             market['runnerA'] = getField('runnerA',content)
