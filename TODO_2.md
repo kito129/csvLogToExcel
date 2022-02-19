@@ -12,4 +12,6 @@ we have for bet id 4
 76, 10,99,40,B
 
 but in your logger mathc
-10, --, 
+10, --, ad 40 b 
+
+and the logs file confirm 
