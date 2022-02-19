@@ -1,7 +1,7 @@
 from openpyxl import Workbook
 from datetime import datetime
 from itertools import zip_longest
-import os,csv
+import os,csv,sys
 def getField(field,content,index=0):
     try:
         try:
@@ -18,6 +18,12 @@ def getField(field,content,index=0):
         return None
 path = "./MarketReports/"
 exportPath = "./ExportReport/"
+if not os.path.exists(exportPath):
+    try:
+        os.mkdir(exportPath)
+    except:
+        print("Export Path not exists and unable to Create")
+        sys.exit(0)
 book = Workbook()
 sheet = book.active
 sheet.title = 'report'
@@ -122,6 +128,6 @@ for date in os.listdir(path):
                     stacks = []
                 row = [data[0],None,data[1],None,None,None,None,data[2],data[3],None,None]+setList+stacks+[None]+prList
                 sheet.append(row)
-            sheet.append(([None]*26)+['Final'])
-
-book.save('report.xlsx')    
+            sheet.append(([None]*26)+['FINAL'])
+dateOfRun = datetime.now().strftime('%d_%m_%Y_%H_%M')
+book.save(os.path.join(os.path.abspath(exportPath),f'REPORT_{dateOfRun}.xlsx'))    
