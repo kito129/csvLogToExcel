@@ -51,7 +51,10 @@ for date in os.listdir(path):
                 continue
             content = logger.read()
             print("File: ",logFile)
-            marketName,marketDate = getField('marketName',content)
+            try:
+                marketName,marketDate = getField('marketName',content)
+            except:
+                continue
             market = {}
             market['runnerA'] = getField('runnerA',content)
             market['runnerB'] = getField('runnerB',content)
