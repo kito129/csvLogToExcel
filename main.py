@@ -50,11 +50,13 @@ for date in os.listdir(path):
             if len(mContent.splitlines())<2:
                 continue
             content = logger.read()
-            print("File: ",logFile)
+            print("File: ",logFile,end='')
             try:
                 marketName,marketDate = getField('marketName',content)
             except:
+                print(" (Skipped)")
                 continue
+            print()
             market = {}
             market['runnerA'] = getField('runnerA',content)
             market['runnerB'] = getField('runnerB',content)
