@@ -79,10 +79,10 @@ for date in os.listdir(path):
                 aPoint = getField('aPoints = point',content,points)
                 aServing = getField('aServing = serving',content,points)
                 aGame = getField(f'games',gameContent)
-                aSet = getField(f'sets',content,points+1 if points else points)
+                aSet = getField(f'sets',gameContent)
                 bPoint = getField('bPoints = point',content,points)
                 bGame = getField(f'games',gameContent,1)
-                bSet = getField(f'sets',content,points+2 if points else points+1)
+                bSet = getField(f'sets',gameContent,1)
                 bServing = getField('bServing = serving',content,points)
                 serv = ['A','B'][0 if int(aServing) else 1]
                 sets = [[None,None]]*5
@@ -122,7 +122,8 @@ for date in os.listdir(path):
                 entry = None
                 if i==1:
                     entry = 'OPEN'
-                market['stacks'][date] = [i,date,entry,flag,runner,odds,float(stack)]
+                market['stacks'][date] = [i,date,entry,runner,flag,odds,float(stack)]
+            final = False
             for data in zip_longest([marketDate],[marketName,market['volume']],[market['runnerA'],market['aBsp'],market['aId']],[market['runnerB'],market['bBsp'],market['bId']],market['sets'],market['stacks'].values(),market['profit']):
                 setList = []
                 prList = data[6] or []
@@ -130,10 +131,14 @@ for date in os.listdir(path):
                     [setList.extend(set_) for set_ in data[4]]
                 setList = setList or [None]*13
                 stacks = data[5]
+                if not stacks and not data[4] and not prList and not final:
+                    stacks = ([None]*2)+['FINAL']+[None]*4
+                    final = True
                 if not stacks:
-                    stacks = []
+                    stacks = [None]*7
                 row = [data[0],None,data[1],None,None,None,None,data[2],data[3],None,None]+setList+stacks+[None]+prList
                 sheet.append(row)
-            sheet.append(([None]*26)+['FINAL'])
+            if not final:
+                sheet.append(([None]*26)+['FINAL'])
 dateOfRun = datetime.now().strftime('%d_%m_%Y_%H_%M')
 book.save(os.path.join(os.path.abspath(exportPath),f'REPORT_{dateOfRun}.xlsx'))    
