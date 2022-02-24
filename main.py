@@ -112,7 +112,7 @@ for date in os.listdir(path):
             for row in mList:
                 date = row[0].split(' ')[-1]
                 flag = row[1][0]
-                runner = ['A','B'][row[2][0].strip()==market['runnerB']]
+                runner = ['A','B'][row[2].strip().lower()==market['runnerB'].lower()]
                 odds = row[3]
                 stack = row[4]
                 if market['stacks'].get(date):
