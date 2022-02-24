@@ -6,7 +6,7 @@ def getField(field,content,index=0):
     try:
         try:
             line = content.split(f'{field}:',index+1)
-            value = line[index+1].split(';')[0].split(' - ')[0].split('\n')[0].strip()
+            value = line[index+1].split(';')[0].split(' - Match Odds')[0].split('\n')[0].strip()
             if 'marketName' == field:
                 dateString = line[index].split('\n')[-1].split(' ')[0]
                 return value,dateString
