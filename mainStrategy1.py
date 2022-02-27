@@ -70,12 +70,11 @@ for date in os.listdir(path):
             for row in pReader:
                 market['profit'].append(row[-2:])
             totalPoints = content.count('totalStake =')
-            market['sets'] = []
+            market['sets'] = {}
             for points in range(totalPoints):
                 totalStake = getField('totalStake',content,points)
-                if totalStake == getField('totalStake',content,points+1):
-                    continue
                 gameContent = content.split(f'(Shared) for {market["runnerA"]}: aPoints',points+1)[-1]
+                pointTime = gameContent.split(': [')[0].split('\n')[-1].split(' ')[-1]
                 aPoint = getField('aPoints = point',content,points)
                 aServing = getField('aServing = serving',content,points)
                 aGame = getField(f'games',gameContent)
@@ -105,7 +104,8 @@ for date in os.listdir(path):
                 else:
                     sets.append([aPoint,bPoint])
                 sets.append([serv])
-                market['sets'].append(sets)
+                setList = []
+                market['sets'][pointTime] = sets
             mList = sorted([m for m in csv.reader(mContent.splitlines()[1:])],key=lambda x: x[0].split(' ')[1])
             market['stacks'] = {}
             i=0
@@ -124,11 +124,13 @@ for date in os.listdir(path):
                     entry = 'OPEN'
                 market['stacks'][date+"__"+odds] = [i,date,entry,runner,flag,odds,float(stack)]
             final = False
-            for data in zip_longest([marketDate],[marketName,market['volume']],[market['runnerA'],market['aBsp'],market['aId']],[market['runnerB'],market['bBsp'],market['bId']],market['sets'],market['stacks'].values(),market['profit']):
+            for data in zip_longest([marketDate],[marketName,market['volume']],[market['runnerA'],market['aBsp'],market['aId']],[market['runnerB'],market['bBsp'],market['bId']],market['sets'].items(),market['stacks'].values(),market['profit']):
                 setList = []
                 prList = data[6] or []
-                if data[4]:
-                    [setList.extend(set_) for set_ in data[4]]
+                if data[5] and market['sets'].get(data[5][1]):
+                    [setList.extend(set_) for set_ in market['sets'].get(data[5][1],[])]
+                elif data[4]:
+                    [setList.extend(set_) for set_ in data[4][1]]
                 setList = setList or [None]*13
                 stacks = data[5]
                 if not stacks and not data[4] and not prList and not final:
