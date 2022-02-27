@@ -16,7 +16,7 @@ def getField(field,content,index=0):
             return content.split(f'{field} = ',index+1)[index+1].split('\n')[0].strip()
     except:
         return None
-path = "./Strategy1MarketReports/"
+path = "./Strategy2MarketReports/"
 exportPath = "./Strategy1ExportReport/"
 if not os.path.exists(exportPath):
     try:
@@ -112,17 +112,17 @@ for date in os.listdir(path):
             for row in mList:
                 date = row[0].split(' ')[-1]
                 flag = row[1][0]
-                runner = ['A','B'][row[2][0].strip()==market['runnerB']]
+                runner = ['A','B'][row[2].strip()==market['runnerB']]
                 odds = row[3]
                 stack = row[4]
-                if market['stacks'].get(date):
-                    market['stacks'][date][-1]+=float(stack)
+                if market['stacks'].get(date+"__"+odds):
+                    market['stacks'][date+"__"+odds][-1]+=float(stack)
                     continue
                 i+=1
                 entry = None
                 if i==1:
                     entry = 'OPEN'
-                market['stacks'][date] = [i,date,entry,runner,flag,odds,float(stack)]
+                market['stacks'][date+"__"+odds] = [i,date,entry,runner,flag,odds,float(stack)]
             final = False
             for data in zip_longest([marketDate],[marketName,market['volume']],[market['runnerA'],market['aBsp'],market['aId']],[market['runnerB'],market['bBsp'],market['bId']],market['sets'],market['stacks'].values(),market['profit']):
                 setList = []

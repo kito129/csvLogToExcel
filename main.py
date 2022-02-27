@@ -115,14 +115,14 @@ for date in os.listdir(path):
                 runner = ['A','B'][row[2].strip().lower()==market['runnerB'].lower()]
                 odds = row[3]
                 stack = row[4]
-                if market['stacks'].get(date):
-                    market['stacks'][date][-1]+=float(stack)
+                if market['stacks'].get(date+"__"+odds):
+                    market['stacks'][date+"__"+odds][-1]+=float(stack)
                     continue
                 i+=1
                 entry = None
                 if i==1:
                     entry = 'OPEN'
-                market['stacks'][date] = [i,date,entry,runner,flag,odds,float(stack)]
+                market['stacks'][date+"__"+odds] = [i,date,entry,runner,flag,odds,float(stack)]
             final = False
             for data in zip_longest([marketDate],[marketName,market['volume']],[market['runnerA'],market['aBsp'],market['aId']],[market['runnerB'],market['bBsp'],market['bId']],market['sets'],market['stacks'].values(),market['profit']):
                 setList = []
