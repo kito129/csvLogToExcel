@@ -1,0 +1,408 @@
+3/1/2022 12:15:41: [G_Auto 1] :  Store Text Value (Shared) for Kristina Mladenovic: info = marketName: Mladenovic v S Zhang - Match Odds; runnerA: Kristina Mladenovic; runnerB: Shuai Zhang 
+3/1/2022 12:15:41: [G_Auto 1] :  Store Value (Shared) for market: aId = 3622052
+3/1/2022 12:15:41: [G_Auto 1] :  Store Value (Shared) for market: bId = 2386498
+3/1/2022 13:11:00:  Guardian has detected that the market is in-play
+3/1/2022 13:11:00:  Guardian has detected that the market is suspended
+3/1/2022 13:11:01: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 2.76; bBsp: 1.57; volume: 31123.43 
+3/1/2022 13:11:01: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 2.76; bBsp: 1.57; volume: 31123.43 
+3/1/2022 13:11:01:  Guardian has detected that the market is now unsuspended
+3/1/2022 13:11:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 13:11:15: [G_Auto 2] :  1 Automation Signals Cleared
+3/1/2022 13:11:16: [G_Auto 2] :  € 13.11 Lay bet placed on Shuai Zhang at 1.61. Entirely unmatched when it initially reached the market.   Ref: 10970          ( Fill or kill bet with 15 seconds delay.   )
+3/1/2022 13:11:17: [G_Auto 1] :  Store Text Value (Shared) for Kristina Mladenovic: aPoints = point: 15; games: 0; sets: 0 
+3/1/2022 13:11:17: [G_Auto 1] :  Store Text Value (Shared) for Kristina Mladenovic: aServing = serving:0
+3/1/2022 13:11:17: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: bPoints = point: 0; games: 0; sets: 0 
+3/1/2022 13:11:17: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: bServing = serving:2
+3/1/2022 13:11:17: [G_Auto 1] :  Store Value (Shared) for market: price = 1.61
+3/1/2022 13:11:17: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 0
+3/1/2022 13:11:17: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 0.0
+3/1/2022 13:11:17: [G_Auto 1] :  Store Value (Shared) for market: stake = 0.0
+3/1/2022 13:11:17: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 0.0
+3/1/2022 13:11:17: [G_Auto 1] :  Store Value (Shared) for market: pl = 0
+3/1/2022 13:11:17: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.7
+3/1/2022 13:11:17: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.61
+3/1/2022 13:11:31: [G_Auto 2] :  € 3.37507799486048E-14 of unmatched bet (Ref:10970) was filled before remainder was killed.
+3/1/2022 13:15:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 13:16:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 13:17:09: [G_Auto 2] :  1 Automation Signals Cleared
+3/1/2022 13:20:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 13:20:14: [G_Auto 2] :  € 13.11 Lay bet placed on Shuai Zhang at 1.61. Fully matched at 1.61.  Ref: 10972          ( Fill or kill bet with 15 seconds delay.   )
+3/1/2022 13:20:15: [G_Auto 1] :  Store Text Value (Shared) for Kristina Mladenovic: aPoints = point: 0; games: 1; sets: 0 
+3/1/2022 13:20:15: [G_Auto 1] :  Store Text Value (Shared) for Kristina Mladenovic: aServing = serving:0
+3/1/2022 13:20:15: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: bPoints = point: 0; games: 1; sets: 0 
+3/1/2022 13:20:15: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: bServing = serving:2
+3/1/2022 13:20:15: [G_Auto 1] :  Store Value (Shared) for market: price = 1.61
+3/1/2022 13:20:15: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 0
+3/1/2022 13:20:15: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 13.11
+3/1/2022 13:20:15: [G_Auto 1] :  Store Value (Shared) for market: stake = 13.11
+3/1/2022 13:20:15: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 13.11
+3/1/2022 13:20:15: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.08
+3/1/2022 13:20:15: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.64
+3/1/2022 13:20:15: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.6
+3/1/2022 13:20:41: [G_Auto 2] :  1 Automation Signals Cleared
+3/1/2022 13:23:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 13:24:11: [G_Auto 2] :  Placed closure bet with greening on Shuai Zhang by Backing 10.61 at 1.99
+3/1/2022 13:24:12: [G_Auto 1] :  Store Text Value (Shared) for Kristina Mladenovic: aPoints = point: 0; games: 2; sets: 0 
+3/1/2022 13:24:12: [G_Auto 1] :  Store Text Value (Shared) for Kristina Mladenovic: aServing = serving:1
+3/1/2022 13:24:12: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: bPoints = point: 0; games: 1; sets: 0 
+3/1/2022 13:24:12: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: bServing = serving:0
+3/1/2022 13:24:12: [G_Auto 1] :  Store Value (Shared) for market: price = 2
+3/1/2022 13:24:12: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 10.61
+3/1/2022 13:24:12: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 13.11
+3/1/2022 13:24:12: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.61
+3/1/2022 13:24:12: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 23.72
+3/1/2022 13:24:12: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.51
+3/1/2022 13:24:12: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2
+3/1/2022 13:24:12: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2
+3/1/2022 13:24:12: [G_Auto 2] :  € 7.84 Lay bet placed on Kristina Mladenovic at 2.02. Fully matched at 2.  Ref: 10974          ( Fill or kill bet with 15 seconds delay.   )
+3/1/2022 13:24:13: [G_Auto 1] :  Store Text Value (Shared) for Kristina Mladenovic: aPoints = point: 0; games: 2; sets: 0 
+3/1/2022 13:24:13: [G_Auto 1] :  Store Text Value (Shared) for Kristina Mladenovic: aServing = serving:1
+3/1/2022 13:24:13: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: bPoints = point: 0; games: 1; sets: 0 
+3/1/2022 13:24:13: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: bServing = serving:0
+3/1/2022 13:24:13: [G_Auto 1] :  Store Value (Shared) for market: price = 2
+3/1/2022 13:24:13: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 10.61
+3/1/2022 13:24:13: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 20.95
+3/1/2022 13:24:13: [G_Auto 1] :  Store Value (Shared) for market: stake = 7.84
+3/1/2022 13:24:13: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 31.56
+3/1/2022 13:24:13: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.47
+3/1/2022 13:24:13: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.99
+3/1/2022 13:24:13: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2
+3/1/2022 13:24:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 13:26:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 13:26:24: [G_Auto 2] :  1 Automation Signals Cleared
+3/1/2022 13:34:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 13:34:27: [G_Auto 2] :  Placed closure bet with greening on Kristina Mladenovic by Backing 9.06 at 1.73
+3/1/2022 13:34:28: [G_Auto 1] :  Store Text Value (Shared) for Kristina Mladenovic: aPoints = point: 0; games: 3; sets: 0 
+3/1/2022 13:34:28: [G_Auto 1] :  Store Text Value (Shared) for Kristina Mladenovic: aServing = serving:0
+3/1/2022 13:34:28: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: bPoints = point: 0; games: 1; sets: 0 
+3/1/2022 13:34:28: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: bServing = serving:2
+3/1/2022 13:34:28: [G_Auto 1] :  Store Value (Shared) for market: price = 1.75
+3/1/2022 13:34:28: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 19.67
+3/1/2022 13:34:28: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 20.95
+3/1/2022 13:34:28: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.06
+3/1/2022 13:34:28: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 40.62
+3/1/2022 13:34:28: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.4
+3/1/2022 13:34:28: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.76
+3/1/2022 13:34:28: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.34
+3/1/2022 13:34:46: [G_Auto 2] :  1 Automation Signals Cleared
+3/1/2022 13:37:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 13:38:00: [G_Auto 2] :  € 8.70 Lay bet placed on Kristina Mladenovic at 1.92. Fully matched at 1.9.  Ref: 10976          ( Fill or kill bet with 15 seconds delay.   )
+3/1/2022 13:38:00: [G_Auto 1] :  Store Text Value (Shared) for Kristina Mladenovic: aPoints = point: 0; games: 3; sets: 0 
+3/1/2022 13:38:00: [G_Auto 1] :  Store Text Value (Shared) for Kristina Mladenovic: aServing = serving:1
+3/1/2022 13:38:00: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: bPoints = point: 0; games: 2; sets: 0 
+3/1/2022 13:38:00: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: bServing = serving:0
+3/1/2022 13:38:00: [G_Auto 1] :  Store Value (Shared) for market: price = 1.9
+3/1/2022 13:38:00: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 19.67
+3/1/2022 13:38:00: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 29.65
+3/1/2022 13:38:00: [G_Auto 1] :  Store Value (Shared) for market: stake = 8.7
+3/1/2022 13:38:00: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 49.32
+3/1/2022 13:38:00: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.35
+3/1/2022 13:38:00: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.89
+3/1/2022 13:38:00: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.06
+3/1/2022 13:38:03: [G_Auto 2] :  Placed closure bet with greening on Shuai Zhang by Laying 0.05 at 2.12
+3/1/2022 13:38:09: [G_Auto 1] :  Store Text Value (Shared) for Kristina Mladenovic: aPoints = point: 0; games: 3; sets: 0 
+3/1/2022 13:38:09: [G_Auto 1] :  Store Text Value (Shared) for Kristina Mladenovic: aServing = serving:1
+3/1/2022 13:38:09: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: bPoints = point: 0; games: 2; sets: 0 
+3/1/2022 13:38:09: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: bServing = serving:0
+3/1/2022 13:38:09: [G_Auto 1] :  Store Value (Shared) for market: price = 2.12
+3/1/2022 13:38:09: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 19.67
+3/1/2022 13:38:09: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 29.7
+3/1/2022 13:38:09: [G_Auto 1] :  Store Value (Shared) for market: stake = 0.05
+3/1/2022 13:38:09: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 49.37
+3/1/2022 13:38:09: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.3
+3/1/2022 13:38:09: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.88
+3/1/2022 13:38:09: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.12
+3/1/2022 13:38:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 13:39:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 13:40:10: [G_Auto 2] :  1 Automation Signals Cleared
+3/1/2022 13:43:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 13:43:53: [G_Auto 2] :  € 11.43 Lay bet placed on Shuai Zhang at 1.7. Fully matched at 1.7.  Ref: 10979          ( Fill or kill bet with 15 seconds delay.   )
+3/1/2022 13:43:53: [G_Auto 2] :  Placed closure bet with greening on Kristina Mladenovic by Backing 6.81 at 2.4
+3/1/2022 13:43:54: [G_Auto 1] :  Store Text Value (Shared) for Kristina Mladenovic: aPoints = point: 0; games: 3; sets: 0 
+3/1/2022 13:43:54: [G_Auto 1] :  Store Text Value (Shared) for Kristina Mladenovic: aServing = serving:0
+3/1/2022 13:43:54: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: bPoints = point: 0; games: 3; sets: 0 
+3/1/2022 13:43:54: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: bServing = serving:2
+3/1/2022 13:43:54: [G_Auto 1] :  Store Value (Shared) for market: price = 2.42
+3/1/2022 13:43:54: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 26.48
+3/1/2022 13:43:54: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 41.13
+3/1/2022 13:43:54: [G_Auto 1] :  Store Value (Shared) for market: stake = 6.81
+3/1/2022 13:43:54: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 67.61
+3/1/2022 13:43:54: [G_Auto 1] :  Store Value (Shared) for market: pl = 3.08
+3/1/2022 13:43:54: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.4
+3/1/2022 13:43:54: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.71
+3/1/2022 13:44:14: [G_Auto 2] :  1 Automation Signals Cleared
+3/1/2022 13:47:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 13:47:36: [G_Auto 2] :  Placed closure bet with greening on Shuai Zhang by Backing 12.78 at 1.52
+3/1/2022 13:47:37: [G_Auto 1] :  Store Text Value (Shared) for Kristina Mladenovic: aPoints = point: 0; games: 3; sets: 0 
+3/1/2022 13:47:37: [G_Auto 1] :  Store Text Value (Shared) for Kristina Mladenovic: aServing = serving:1
+3/1/2022 13:47:37: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: bPoints = point: 0; games: 4; sets: 0 
+3/1/2022 13:47:37: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: bServing = serving:0
+3/1/2022 13:47:37: [G_Auto 1] :  Store Value (Shared) for market: price = 1.52
+3/1/2022 13:47:37: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 39.26
+3/1/2022 13:47:37: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 41.13
+3/1/2022 13:47:37: [G_Auto 1] :  Store Value (Shared) for market: stake = 12.78
+3/1/2022 13:47:37: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 80.39
+3/1/2022 13:47:37: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.87
+3/1/2022 13:47:37: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.9
+3/1/2022 13:47:37: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.53
+3/1/2022 13:48:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 13:49:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 13:49:31: [G_Auto 2] :  1 Automation Signals Cleared
+3/1/2022 13:51:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 13:52:09: [G_Auto 2] :  € 10.67 Lay bet placed on Shuai Zhang at 1.75. Fully matched at 1.72.  Ref: 10982          ( Fill or kill bet with 15 seconds delay.   )
+3/1/2022 13:52:09: [G_Auto 1] :  Store Text Value (Shared) for Kristina Mladenovic: aPoints = point: 0; games: 4; sets: 0 
+3/1/2022 13:52:09: [G_Auto 1] :  Store Text Value (Shared) for Kristina Mladenovic: aServing = serving:0
+3/1/2022 13:52:09: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: bPoints = point: 0; games: 4; sets: 0 
+3/1/2022 13:52:09: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: bServing = serving:2
+3/1/2022 13:52:09: [G_Auto 1] :  Store Value (Shared) for market: price = 1.72
+3/1/2022 13:52:09: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 39.26
+3/1/2022 13:52:09: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 51.8
+3/1/2022 13:52:09: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.67
+3/1/2022 13:52:09: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 91.06
+3/1/2022 13:52:09: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.82
+3/1/2022 13:52:09: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.38
+3/1/2022 13:52:09: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.73
+3/1/2022 13:52:12: [G_Auto 2] :  Placed closure bet with greening on Kristina Mladenovic by Laying 0.05 at 2.38
+3/1/2022 13:52:12: [G_Auto 1] :  Store Text Value (Shared) for Kristina Mladenovic: aPoints = point: 0; games: 4; sets: 0 
+3/1/2022 13:52:12: [G_Auto 1] :  Store Text Value (Shared) for Kristina Mladenovic: aServing = serving:0
+3/1/2022 13:52:12: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: bPoints = point: 0; games: 4; sets: 0 
+3/1/2022 13:52:12: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: bServing = serving:2
+3/1/2022 13:52:12: [G_Auto 1] :  Store Value (Shared) for market: price = 2.38
+3/1/2022 13:52:12: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 39.26
+3/1/2022 13:52:12: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 51.85
+3/1/2022 13:52:12: [G_Auto 1] :  Store Value (Shared) for market: stake = 0.05
+3/1/2022 13:52:12: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 91.11
+3/1/2022 13:52:12: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.95
+3/1/2022 13:52:12: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.38
+3/1/2022 13:52:12: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.73
+3/1/2022 13:52:48: [G_Auto 2] :  1 Automation Signals Cleared
+3/1/2022 13:55:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 13:55:43: [G_Auto 2] :  Placed closure bet with greening on Shuai Zhang by Backing 12.15 at 1.51
+3/1/2022 13:55:44: [G_Auto 1] :  Store Text Value (Shared) for Kristina Mladenovic: aPoints = point: 0; games: 4; sets: 0 
+3/1/2022 13:55:44: [G_Auto 1] :  Store Text Value (Shared) for Kristina Mladenovic: aServing = serving:1
+3/1/2022 13:55:44: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: bPoints = point: 0; games: 5; sets: 0 
+3/1/2022 13:55:44: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: bServing = serving:0
+3/1/2022 13:55:44: [G_Auto 1] :  Store Value (Shared) for market: price = 1.52
+3/1/2022 13:55:44: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 51.41
+3/1/2022 13:55:44: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 51.85
+3/1/2022 13:55:44: [G_Auto 1] :  Store Value (Shared) for market: stake = 12.15
+3/1/2022 13:55:44: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 103.26
+3/1/2022 13:55:44: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.51
+3/1/2022 13:55:44: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.88
+3/1/2022 13:55:44: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.53
+3/1/2022 13:56:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 13:57:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 13:57:47: [G_Auto 2] :  1 Automation Signals Cleared
+3/1/2022 13:59:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 13:59:29: [G_Auto 2] :  € 9.30 Lay bet placed on Shuai Zhang at 1.86. Fully matched at 1.85.  Ref: 10986          ( Fill or kill bet with 15 seconds delay.   )
+3/1/2022 13:59:30: [G_Auto 1] :  Store Text Value (Shared) for Kristina Mladenovic: aPoints = point: 0; games: 5; sets: 0 
+3/1/2022 13:59:30: [G_Auto 1] :  Store Text Value (Shared) for Kristina Mladenovic: aServing = serving:0
+3/1/2022 13:59:30: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: bPoints = point: 0; games: 5; sets: 0 
+3/1/2022 13:59:30: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: bServing = serving:2
+3/1/2022 13:59:30: [G_Auto 1] :  Store Value (Shared) for market: price = 1.85
+3/1/2022 13:59:30: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 51.41
+3/1/2022 13:59:30: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 61.15
+3/1/2022 13:59:30: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.3
+3/1/2022 13:59:30: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 112.56
+3/1/2022 13:59:30: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.4
+3/1/2022 13:59:30: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.22
+3/1/2022 13:59:30: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.83
+3/1/2022 13:59:49: [G_Auto 2] :  1 Automation Signals Cleared
+3/1/2022 14:02:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 14:02:37: [G_Auto 2] :  € 14.55 Lay bet placed on Kristina Mladenovic at 1.55. Entirely unmatched when it initially reached the market.   Ref: 10987          ( Fill or kill bet with 15 seconds delay.   )
+3/1/2022 14:02:37: [G_Auto 2] :  Placed closure bet with greening on Shuai Zhang by Backing 6.10 at 2.8
+3/1/2022 14:02:38: [G_Auto 1] :  Store Text Value (Shared) for Kristina Mladenovic: aPoints = point: 0; games: 6; sets: 0 
+3/1/2022 14:02:38: [G_Auto 1] :  Store Text Value (Shared) for Kristina Mladenovic: aServing = serving:1
+3/1/2022 14:02:38: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: bPoints = point: 0; games: 5; sets: 0 
+3/1/2022 14:02:38: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: bServing = serving:0
+3/1/2022 14:02:38: [G_Auto 1] :  Store Value (Shared) for market: price = 2.8
+3/1/2022 14:02:38: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 57.51
+3/1/2022 14:02:38: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 61.15
+3/1/2022 14:02:38: [G_Auto 1] :  Store Value (Shared) for market: stake = 6.1
+3/1/2022 14:02:38: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 118.66
+3/1/2022 14:02:38: [G_Auto 1] :  Store Value (Shared) for market: pl = 3.58
+3/1/2022 14:02:38: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.54
+3/1/2022 14:02:38: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.8
+3/1/2022 14:02:52: [G_Auto 2] :  € 14.55 unmatched bet (Ref:10987) was killed.
+3/1/2022 14:03:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 14:04:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 14:04:50: [G_Auto 2] :  1 Automation Signals Cleared
+3/1/2022 14:08:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 14:14:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 14:14:53: [G_Auto 2] :  Store Value (Shared) for Kristina Mladenovic: PRICE SET 2 = 4.4
+3/1/2022 14:14:53: [G_Auto 2] :  Alert: STORE PRICE AT SET 2 [ Kristina Mladenovic ]
+3/1/2022 14:14:53: [G_Auto 2] :  Automation Signal for market: VALID = 1
+3/1/2022 14:14:53: [G_Auto 2] :  Store Value (Shared) for Shuai Zhang: PRICE SET 2 = 1.31
+3/1/2022 14:14:53: [G_Auto 2] :  Alert: STORE PRICE AT SET 2 [ Shuai Zhang ]
+3/1/2022 14:14:53: [G_Auto 2] :  Automation Signal for market: VALID = 1
+3/1/2022 14:14:53: [G_Auto 1] :  Store Value (Shared) for market: aFirstSetPrice = 4.4
+3/1/2022 14:14:53: [G_Auto 1] :  Store Value (Shared) for market: bFirstSetPrice = 1.31
+3/1/2022 14:15:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 14:16:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 14:17:27: [G_Auto 2] :  2 Automation Signals Cleared
+3/1/2022 14:23:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 14:23:55: [G_Auto 2] :  € 20.00 Lay bet placed on Shuai Zhang at 1.4. Fully matched at 1.39.  Ref: 10993          ( Fill or kill bet with 15 seconds delay.   )
+3/1/2022 14:23:56: [G_Auto 1] :  Store Text Value (Shared) for Kristina Mladenovic: aPoints = point: 0; games: 1; sets: 0 
+3/1/2022 14:23:56: [G_Auto 1] :  Store Text Value (Shared) for Kristina Mladenovic: aServing = serving:0
+3/1/2022 14:23:56: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: bPoints = point: 0; games: 0; sets: 1 
+3/1/2022 14:23:56: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: bServing = serving:2
+3/1/2022 14:23:56: [G_Auto 1] :  Store Value (Shared) for market: price = 1.39
+3/1/2022 14:23:56: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 57.51
+3/1/2022 14:23:56: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 81.15
+3/1/2022 14:23:56: [G_Auto 1] :  Store Value (Shared) for market: stake = 20
+3/1/2022 14:23:56: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 138.66
+3/1/2022 14:23:56: [G_Auto 1] :  Store Value (Shared) for market: pl = 3.43
+3/1/2022 14:23:56: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.65
+3/1/2022 14:23:56: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.38
+3/1/2022 14:24:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 14:25:18: [G_Auto 2] :  1 Automation Signals Cleared
+3/1/2022 14:26:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 14:26:36: [G_Auto 2] :  Placed closure bet with greening on Shuai Zhang by Backing 21.56 at 1.29
+3/1/2022 14:26:36: [G_Auto 1] :  Store Text Value (Shared) for Kristina Mladenovic: aPoints = point: 0; games: 1; sets: 0 
+3/1/2022 14:26:36: [G_Auto 1] :  Store Text Value (Shared) for Kristina Mladenovic: aServing = serving:1
+3/1/2022 14:26:36: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: bPoints = point: 0; games: 1; sets: 1 
+3/1/2022 14:26:36: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: bServing = serving:0
+3/1/2022 14:26:36: [G_Auto 1] :  Store Value (Shared) for market: price = 1.29
+3/1/2022 14:26:36: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 79.07
+3/1/2022 14:26:36: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 81.15
+3/1/2022 14:26:36: [G_Auto 1] :  Store Value (Shared) for market: stake = 21.56
+3/1/2022 14:26:36: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 160.22
+3/1/2022 14:26:36: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.05
+3/1/2022 14:26:36: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 4.3
+3/1/2022 14:26:36: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.29
+3/1/2022 14:27:03: [G_Auto 2] :  1 Automation Signals Cleared
+3/1/2022 14:29:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 14:30:04: [G_Auto 2] :  € 20.51 Lay bet placed on Shuai Zhang at 1.39. Fully matched at 1.39.  Ref: 10995          ( Fill or kill bet with 15 seconds delay.   )
+3/1/2022 14:30:05: [G_Auto 1] :  Store Text Value (Shared) for Kristina Mladenovic: aPoints = point: 0; games: 2; sets: 0 
+3/1/2022 14:30:05: [G_Auto 1] :  Store Text Value (Shared) for Kristina Mladenovic: aServing = serving:0
+3/1/2022 14:30:05: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: bPoints = point: 0; games: 1; sets: 1 
+3/1/2022 14:30:05: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: bServing = serving:2
+3/1/2022 14:30:05: [G_Auto 1] :  Store Value (Shared) for market: price = 1.39
+3/1/2022 14:30:05: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 79.07
+3/1/2022 14:30:05: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 101.66
+3/1/2022 14:30:05: [G_Auto 1] :  Store Value (Shared) for market: stake = 20.51
+3/1/2022 14:30:05: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 180.73
+3/1/2022 14:30:05: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.75
+3/1/2022 14:30:05: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.7
+3/1/2022 14:30:05: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.37
+3/1/2022 14:30:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 14:31:48: [G_Auto 2] :  1 Automation Signals Cleared
+3/1/2022 14:36:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 14:36:45: [G_Auto 2] :  Placed closure bet with greening on Shuai Zhang by Backing 21.93 at 1.3
+3/1/2022 14:36:45: [G_Auto 1] :  Store Text Value (Shared) for Kristina Mladenovic: aPoints = point: 0; games: 2; sets: 0 
+3/1/2022 14:36:45: [G_Auto 1] :  Store Text Value (Shared) for Kristina Mladenovic: aServing = serving:1
+3/1/2022 14:36:45: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: bPoints = point: 0; games: 2; sets: 1 
+3/1/2022 14:36:45: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: bServing = serving:0
+3/1/2022 14:36:45: [G_Auto 1] :  Store Value (Shared) for market: price = 1.3
+3/1/2022 14:36:45: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 101
+3/1/2022 14:36:45: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 101.66
+3/1/2022 14:36:45: [G_Auto 1] :  Store Value (Shared) for market: stake = 21.93
+3/1/2022 14:36:45: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 202.66
+3/1/2022 14:36:45: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.66
+3/1/2022 14:36:45: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 4.3
+3/1/2022 14:36:45: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.31
+3/1/2022 14:37:26: [G_Auto 2] :  1 Automation Signals Cleared
+3/1/2022 14:39:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 14:39:18: [G_Auto 2] :  € 17.78 Lay bet placed on Shuai Zhang at 1.45. Fully matched at 1.45.  Ref: 10997          ( Fill or kill bet with 15 seconds delay.   )
+3/1/2022 14:39:18: [G_Auto 1] :  Store Text Value (Shared) for Kristina Mladenovic: aPoints = point: 0; games: 3; sets: 0 
+3/1/2022 14:39:18: [G_Auto 1] :  Store Text Value (Shared) for Kristina Mladenovic: aServing = serving:0
+3/1/2022 14:39:18: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: bPoints = point: 0; games: 2; sets: 1 
+3/1/2022 14:39:18: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: bServing = serving:2
+3/1/2022 14:39:18: [G_Auto 1] :  Store Value (Shared) for market: price = 1.45
+3/1/2022 14:39:18: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 101
+3/1/2022 14:39:18: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 119.44
+3/1/2022 14:39:18: [G_Auto 1] :  Store Value (Shared) for market: stake = 17.78
+3/1/2022 14:39:18: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 220.44
+3/1/2022 14:39:18: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.41
+3/1/2022 14:39:18: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.3
+3/1/2022 14:39:18: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.43
+3/1/2022 14:40:06: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 14:41:06: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 14:41:18: [G_Auto 2] :  1 Automation Signals Cleared
+3/1/2022 14:44:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 14:45:05: [G_Auto 2] :  Placed closure bet with greening on Shuai Zhang by Backing 14.73 at 1.75
+3/1/2022 14:45:05: [G_Auto 1] :  Store Text Value (Shared) for Kristina Mladenovic: aPoints = point: 0; games: 4; sets: 0 
+3/1/2022 14:45:05: [G_Auto 1] :  Store Text Value (Shared) for Kristina Mladenovic: aServing = serving:1
+3/1/2022 14:45:05: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: bPoints = point: 0; games: 2; sets: 1 
+3/1/2022 14:45:05: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: bServing = serving:0
+3/1/2022 14:45:05: [G_Auto 1] :  Store Value (Shared) for market: price = 1.75
+3/1/2022 14:45:05: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 115.73
+3/1/2022 14:45:05: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 119.44
+3/1/2022 14:45:05: [G_Auto 1] :  Store Value (Shared) for market: stake = 14.73
+3/1/2022 14:45:05: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 235.17
+3/1/2022 14:45:05: [G_Auto 1] :  Store Value (Shared) for market: pl = 3.65
+3/1/2022 14:45:05: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.32
+3/1/2022 14:45:05: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.76
+3/1/2022 14:45:43: [G_Auto 2] :  1 Automation Signals Cleared
+3/1/2022 14:48:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 14:48:49: [G_Auto 2] :  € 17.02 Lay bet placed on Shuai Zhang at 1.47. Fully matched at 1.46.  Ref: 10999          ( Fill or kill bet with 15 seconds delay.   )
+3/1/2022 14:48:50: [G_Auto 1] :  Store Text Value (Shared) for Kristina Mladenovic: aPoints = point: 0; games: 4; sets: 0 
+3/1/2022 14:48:50: [G_Auto 1] :  Store Text Value (Shared) for Kristina Mladenovic: aServing = serving:0
+3/1/2022 14:48:50: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: bPoints = point: 0; games: 3; sets: 1 
+3/1/2022 14:48:50: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: bServing = serving:2
+3/1/2022 14:48:50: [G_Auto 1] :  Store Value (Shared) for market: price = 1.46
+3/1/2022 14:48:50: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 115.73
+3/1/2022 14:48:50: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 136.46
+3/1/2022 14:48:50: [G_Auto 1] :  Store Value (Shared) for market: stake = 17.02
+3/1/2022 14:48:50: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 252.19
+3/1/2022 14:48:50: [G_Auto 1] :  Store Value (Shared) for market: pl = 3.53
+3/1/2022 14:48:50: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.2
+3/1/2022 14:48:50: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.46
+3/1/2022 14:49:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 14:50:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 14:50:41: [G_Auto 2] :  1 Automation Signals Cleared
+3/1/2022 14:52:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 14:52:51: [G_Auto 2] :  Placed closure bet with greening on Shuai Zhang by Backing 19.26 at 1.29
+3/1/2022 14:52:52: [G_Auto 1] :  Store Text Value (Shared) for Kristina Mladenovic: aPoints = point: 0; games: 4; sets: 0 
+3/1/2022 14:52:52: [G_Auto 1] :  Store Text Value (Shared) for Kristina Mladenovic: aServing = serving:1
+3/1/2022 14:52:52: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: bPoints = point: 0; games: 4; sets: 1 
+3/1/2022 14:52:52: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: bServing = serving:0
+3/1/2022 14:52:52: [G_Auto 1] :  Store Value (Shared) for market: price = 1.29
+3/1/2022 14:52:52: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 134.99
+3/1/2022 14:52:52: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 136.46
+3/1/2022 14:52:52: [G_Auto 1] :  Store Value (Shared) for market: stake = 19.26
+3/1/2022 14:52:52: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 271.45
+3/1/2022 14:52:52: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.45
+3/1/2022 14:52:52: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 4.3
+3/1/2022 14:52:52: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.3
+3/1/2022 14:53:28: [G_Auto 2] :  1 Automation Signals Cleared
+3/1/2022 14:58:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 14:59:04: [G_Auto 2] :  € 17.39 Lay bet placed on Shuai Zhang at 1.46. Fully matched at 1.45.  Ref: 11001          ( Fill or kill bet with 15 seconds delay.   )
+3/1/2022 14:59:05: [G_Auto 1] :  Store Text Value (Shared) for Kristina Mladenovic: aPoints = point: 0; games: 5; sets: 0 
+3/1/2022 14:59:05: [G_Auto 1] :  Store Text Value (Shared) for Kristina Mladenovic: aServing = serving:0
+3/1/2022 14:59:05: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: bPoints = point: 0; games: 4; sets: 1 
+3/1/2022 14:59:05: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: bServing = serving:2
+3/1/2022 14:59:05: [G_Auto 1] :  Store Value (Shared) for market: price = 1.45
+3/1/2022 14:59:05: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 134.99
+3/1/2022 14:59:05: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 153.85
+3/1/2022 14:59:05: [G_Auto 1] :  Store Value (Shared) for market: stake = 17.39
+3/1/2022 14:59:05: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 288.84
+3/1/2022 14:59:05: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.32
+3/1/2022 14:59:05: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.25
+3/1/2022 14:59:05: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.44
+3/1/2022 14:59:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 15:00:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 15:00:53: [G_Auto 2] :  1 Automation Signals Cleared
+3/1/2022 15:05:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 15:05:20: [G_Auto 2] :  Placed closure bet with greening on Shuai Zhang by Backing 19.55 at 1.29
+3/1/2022 15:05:20: [G_Auto 1] :  Store Text Value (Shared) for Kristina Mladenovic: aPoints = point: 0; games: 5; sets: 0 
+3/1/2022 15:05:20: [G_Auto 1] :  Store Text Value (Shared) for Kristina Mladenovic: aServing = serving:1
+3/1/2022 15:05:20: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: bPoints = point: 0; games: 5; sets: 1 
+3/1/2022 15:05:20: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: bServing = serving:0
+3/1/2022 15:05:20: [G_Auto 1] :  Store Value (Shared) for market: price = 1.29
+3/1/2022 15:05:20: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 154.54
+3/1/2022 15:05:20: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 153.85
+3/1/2022 15:05:20: [G_Auto 1] :  Store Value (Shared) for market: stake = 19.55
+3/1/2022 15:05:20: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 308.39
+3/1/2022 15:05:20: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.68
+3/1/2022 15:05:20: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 4.4
+3/1/2022 15:05:20: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.3
+3/1/2022 15:06:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 15:06:16: [G_Auto 2] :  1 Automation Signals Cleared
+3/1/2022 15:07:17: [G_Auto 2] :  0 Automation Signals Cleared
+3/1/2022 15:09:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 15:10:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 15:11:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 15:11:53: [G_Auto 2] :  1 Automation Signals Cleared
+3/1/2022 15:13:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 15:14:30:  Guardian has detected that the market is suspended
