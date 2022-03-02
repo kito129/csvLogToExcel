@@ -1,0 +1,438 @@
+3/1/2022 12:15:43: [G_Auto 1] :  Store Text Value (Shared) for Tamara Korpatsch: info = marketName: Tama Korpatsch v Dodin - Match Odds; runnerA: Tamara Korpatsch; runnerB: Oceane Dodin 
+3/1/2022 12:15:43: [G_Auto 1] :  Store Value (Shared) for market: aId = 9166525
+3/1/2022 12:15:43: [G_Auto 1] :  Store Value (Shared) for market: bId = 7289631
+3/1/2022 21:21:57:  Guardian has detected that the market is in-play
+3/1/2022 21:21:57:  Guardian has detected that the market is suspended
+3/1/2022 21:21:58: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 3.25; bBsp: 1.44; volume: 220443.13 
+3/1/2022 21:21:58: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 3.25; bBsp: 1.44; volume: 220443.13 
+3/1/2022 21:21:58:  Guardian has detected that the market is now unsuspended
+3/1/2022 21:22:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 21:22:10: [G_Auto 2] :  1 Automation Signals Cleared
+3/1/2022 21:23:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 21:23:41: [G_Auto 2] :  € 12.12 Lay bet placed on Oceane Dodin at 1.66. Fully matched at 1.65.  Ref: 11121          ( Fill or kill bet with 15 seconds delay.   )
+3/1/2022 21:23:42: [G_Auto 1] :  Store Text Value (Shared) for Tamara Korpatsch: aPoints = point: 0; games: 1; sets: 0 
+3/1/2022 21:23:42: [G_Auto 1] :  Store Text Value (Shared) for Tamara Korpatsch: aServing = serving:0
+3/1/2022 21:23:42: [G_Auto 1] :  Store Text Value (Shared) for Oceane Dodin: bPoints = point: 0; games: 0; sets: 0 
+3/1/2022 21:23:42: [G_Auto 1] :  Store Text Value (Shared) for Oceane Dodin: bServing = serving:2
+3/1/2022 21:23:42: [G_Auto 1] :  Store Value (Shared) for market: price = 1.65
+3/1/2022 21:23:42: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 0
+3/1/2022 21:23:42: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 12.12
+3/1/2022 21:23:42: [G_Auto 1] :  Store Value (Shared) for market: stake = 12.12
+3/1/2022 21:23:42: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 12.12
+3/1/2022 21:23:42: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.07
+3/1/2022 21:23:42: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.58
+3/1/2022 21:23:42: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.64
+3/1/2022 21:24:23: [G_Auto 2] :  1 Automation Signals Cleared
+3/1/2022 21:27:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 21:28:10: [G_Auto 2] :  Placed closure bet with greening on Oceane Dodin by Backing 10.47 at 1.91
+3/1/2022 21:28:11: [G_Auto 1] :  Store Text Value (Shared) for Tamara Korpatsch: aPoints = point: 0; games: 2; sets: 0 
+3/1/2022 21:28:11: [G_Auto 1] :  Store Text Value (Shared) for Tamara Korpatsch: aServing = serving:1
+3/1/2022 21:28:11: [G_Auto 1] :  Store Text Value (Shared) for Oceane Dodin: bPoints = point: 0; games: 0; sets: 0 
+3/1/2022 21:28:11: [G_Auto 1] :  Store Text Value (Shared) for Oceane Dodin: bServing = serving:0
+3/1/2022 21:28:11: [G_Auto 1] :  Store Value (Shared) for market: price = 1.91
+3/1/2022 21:28:11: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 10.47
+3/1/2022 21:28:11: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 12.12
+3/1/2022 21:28:11: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.47
+3/1/2022 21:28:11: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 22.59
+3/1/2022 21:28:11: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.62
+3/1/2022 21:28:11: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.1
+3/1/2022 21:28:11: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.91
+3/1/2022 21:28:35: [G_Auto 2] :  1 Automation Signals Cleared
+3/1/2022 21:32:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 21:32:45: [G_Auto 2] :  € 12.50 Lay bet placed on Oceane Dodin at 1.64. Entirely unmatched when it initially reached the market.   Ref: 11129          ( Fill or kill bet with 15 seconds delay.   )
+3/1/2022 21:32:45: [G_Auto 2] :  € 12.5 of unmatched bet (Ref:11129) was filled before remainder was killed.
+3/1/2022 21:32:45: [G_Auto 1] :  Store Text Value (Shared) for Tamara Korpatsch: aPoints = point: 0; games: 2; sets: 0 
+3/1/2022 21:32:45: [G_Auto 1] :  Store Text Value (Shared) for Tamara Korpatsch: aServing = serving:0
+3/1/2022 21:32:45: [G_Auto 1] :  Store Text Value (Shared) for Oceane Dodin: bPoints = point: 0; games: 1; sets: 0 
+3/1/2022 21:32:45: [G_Auto 1] :  Store Text Value (Shared) for Oceane Dodin: bServing = serving:2
+3/1/2022 21:32:45: [G_Auto 1] :  Store Value (Shared) for market: price = 1.64
+3/1/2022 21:32:45: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 10.47
+3/1/2022 21:32:45: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 24.62
+3/1/2022 21:32:45: [G_Auto 1] :  Store Value (Shared) for market: stake = 12.5
+3/1/2022 21:32:45: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 35.09
+3/1/2022 21:32:45: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.54
+3/1/2022 21:32:45: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.56
+3/1/2022 21:32:45: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.63
+3/1/2022 21:33:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 21:34:21: [G_Auto 2] :  1 Automation Signals Cleared
+3/1/2022 21:45:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 21:45:17: [G_Auto 2] :  Placed closure bet with greening on Oceane Dodin by Backing 13.95 at 1.47
+3/1/2022 21:45:18: [G_Auto 1] :  Store Text Value (Shared) for Tamara Korpatsch: aPoints = point: 0; games: 2; sets: 0 
+3/1/2022 21:45:18: [G_Auto 1] :  Store Text Value (Shared) for Tamara Korpatsch: aServing = serving:1
+3/1/2022 21:45:18: [G_Auto 1] :  Store Text Value (Shared) for Oceane Dodin: bPoints = point: 0; games: 2; sets: 0 
+3/1/2022 21:45:18: [G_Auto 1] :  Store Text Value (Shared) for Oceane Dodin: bServing = serving:0
+3/1/2022 21:45:18: [G_Auto 1] :  Store Value (Shared) for market: price = 1.47
+3/1/2022 21:45:18: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 24.42
+3/1/2022 21:45:18: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 24.62
+3/1/2022 21:45:18: [G_Auto 1] :  Store Value (Shared) for market: stake = 13.95
+3/1/2022 21:45:18: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 49.04
+3/1/2022 21:45:18: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.2
+3/1/2022 21:45:18: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.05
+3/1/2022 21:45:18: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.47
+3/1/2022 21:45:45: [G_Auto 2] :  1 Automation Signals Cleared
+3/1/2022 21:48:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 21:48:31: [G_Auto 2] :  € 11.94 Lay bet placed on Oceane Dodin at 1.67. Fully matched at 1.63.  Ref: 11135          ( Fill or kill bet with 15 seconds delay.   )
+3/1/2022 21:48:32: [G_Auto 1] :  Store Text Value (Shared) for Tamara Korpatsch: aPoints = point: 0; games: 3; sets: 0 
+3/1/2022 21:48:32: [G_Auto 1] :  Store Text Value (Shared) for Tamara Korpatsch: aServing = serving:0
+3/1/2022 21:48:32: [G_Auto 1] :  Store Text Value (Shared) for Oceane Dodin: bPoints = point: 0; games: 2; sets: 0 
+3/1/2022 21:48:32: [G_Auto 1] :  Store Text Value (Shared) for Oceane Dodin: bServing = serving:2
+3/1/2022 21:48:32: [G_Auto 1] :  Store Value (Shared) for market: price = 1.63
+3/1/2022 21:48:32: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 24.42
+3/1/2022 21:48:32: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 36.56
+3/1/2022 21:48:32: [G_Auto 1] :  Store Value (Shared) for market: stake = 11.94
+3/1/2022 21:48:32: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 60.98
+3/1/2022 21:48:32: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.13
+3/1/2022 21:48:32: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.58
+3/1/2022 21:48:32: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.66
+3/1/2022 21:49:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 21:50:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 21:50:21: [G_Auto 2] :  1 Automation Signals Cleared
+3/1/2022 21:54:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 21:54:27: [G_Auto 2] :  Placed closure bet with greening on Oceane Dodin by Backing 9.88 at 1.97
+3/1/2022 21:54:34: [G_Auto 1] :  Store Text Value (Shared) for Tamara Korpatsch: aPoints = point: 0; games: 4; sets: 0 
+3/1/2022 21:54:34: [G_Auto 1] :  Store Text Value (Shared) for Tamara Korpatsch: aServing = serving:1
+3/1/2022 21:54:34: [G_Auto 1] :  Store Text Value (Shared) for Oceane Dodin: bPoints = point: 0; games: 2; sets: 0 
+3/1/2022 21:54:34: [G_Auto 1] :  Store Text Value (Shared) for Oceane Dodin: bServing = serving:0
+3/1/2022 21:54:34: [G_Auto 1] :  Store Value (Shared) for market: price = 1.97
+3/1/2022 21:54:34: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 24.985
+3/1/2022 21:54:34: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 36.56
+3/1/2022 21:54:34: [G_Auto 1] :  Store Value (Shared) for market: stake = 0.565
+3/1/2022 21:54:34: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 61.545
+3/1/2022 21:54:34: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.08
+3/1/2022 21:54:34: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.02
+3/1/2022 21:54:34: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.97
+3/1/2022 21:55:07: [G_Auto 2] :  1 Automation Signals Cleared
+3/1/2022 21:56:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 21:57:06: [G_Auto 2] :  € 12.70 Lay bet placed on Oceane Dodin at 1.63. Fully matched at 1.62.  Ref: 11140          ( Fill or kill bet with 15 seconds delay.   )
+3/1/2022 21:57:06: [G_Auto 1] :  Store Text Value (Shared) for Tamara Korpatsch: aPoints = point: 0; games: 4; sets: 0 
+3/1/2022 21:57:06: [G_Auto 1] :  Store Text Value (Shared) for Tamara Korpatsch: aServing = serving:0
+3/1/2022 21:57:06: [G_Auto 1] :  Store Text Value (Shared) for Oceane Dodin: bPoints = point: 0; games: 3; sets: 0 
+3/1/2022 21:57:06: [G_Auto 1] :  Store Text Value (Shared) for Oceane Dodin: bServing = serving:2
+3/1/2022 21:57:06: [G_Auto 1] :  Store Value (Shared) for market: price = 1.62
+3/1/2022 21:57:06: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 25.0
+3/1/2022 21:57:06: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 49.26
+3/1/2022 21:57:06: [G_Auto 1] :  Store Value (Shared) for market: stake = 12.7
+3/1/2022 21:57:06: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 74.26
+3/1/2022 21:57:06: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.04
+3/1/2022 21:57:06: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.62
+3/1/2022 21:57:06: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.61
+3/1/2022 21:57:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 21:58:53: [G_Auto 2] :  1 Automation Signals Cleared
+3/1/2022 22:00:06: [G_Auto 1] :  Store Text Value (Shared) for Tamara Korpatsch: aPoints = point: 40; games: 4; sets: 0 
+3/1/2022 22:00:06: [G_Auto 1] :  Store Text Value (Shared) for Tamara Korpatsch: aServing = serving:0
+3/1/2022 22:00:06: [G_Auto 1] :  Store Text Value (Shared) for Oceane Dodin: bPoints = point: 0; games: 3; sets: 0 
+3/1/2022 22:00:06: [G_Auto 1] :  Store Text Value (Shared) for Oceane Dodin: bServing = serving:2
+3/1/2022 22:00:06: [G_Auto 1] :  Store Value (Shared) for market: price = 1.97
+3/1/2022 22:00:06: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 34.3
+3/1/2022 22:00:06: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 49.26
+3/1/2022 22:00:06: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.88
+3/1/2022 22:00:06: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 83.56
+3/1/2022 22:00:06: [G_Auto 1] :  Store Value (Shared) for market: pl = 4.97
+3/1/2022 22:00:06: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.97
+3/1/2022 22:00:06: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2
+3/1/2022 22:01:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 22:01:25: [G_Auto 2] :  € 9.09 Lay bet placed on Tamara Korpatsch at 1.88. Entirely unmatched when it initially reached the market.   Ref: 11144          ( Fill or kill bet with 15 seconds delay.   )
+3/1/2022 22:01:25: [G_Auto 2] :  Placed closure bet with greening on Oceane Dodin by Backing 9.79 at 2.1
+3/1/2022 22:01:25: [G_Auto 1] :  Store Text Value (Shared) for Tamara Korpatsch: aPoints = point: 0; games: 5; sets: 0 
+3/1/2022 22:01:25: [G_Auto 1] :  Store Text Value (Shared) for Tamara Korpatsch: aServing = serving:1
+3/1/2022 22:01:25: [G_Auto 1] :  Store Text Value (Shared) for Oceane Dodin: bPoints = point: 0; games: 3; sets: 0 
+3/1/2022 22:01:25: [G_Auto 1] :  Store Text Value (Shared) for Oceane Dodin: bServing = serving:0
+3/1/2022 22:01:25: [G_Auto 1] :  Store Value (Shared) for market: price = 2.1
+3/1/2022 22:01:25: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 44.09
+3/1/2022 22:01:25: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 49.26
+3/1/2022 22:01:25: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.79
+3/1/2022 22:01:25: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 93.35
+3/1/2022 22:01:25: [G_Auto 1] :  Store Value (Shared) for market: pl = 5.07
+3/1/2022 22:01:25: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.9
+3/1/2022 22:01:25: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.1
+3/1/2022 22:01:35: [G_Auto 1] :  Store Text Value (Shared) for Tamara Korpatsch: aPoints = point: 0; games: 5; sets: 0 
+3/1/2022 22:01:35: [G_Auto 1] :  Store Text Value (Shared) for Tamara Korpatsch: aServing = serving:1
+3/1/2022 22:01:35: [G_Auto 1] :  Store Text Value (Shared) for Oceane Dodin: bPoints = point: 0; games: 3; sets: 0 
+3/1/2022 22:01:35: [G_Auto 1] :  Store Text Value (Shared) for Oceane Dodin: bServing = serving:0
+3/1/2022 22:01:35: [G_Auto 1] :  Store Value (Shared) for market: price = 1.88
+3/1/2022 22:01:35: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 44.09
+3/1/2022 22:01:35: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 53.305
+3/1/2022 22:01:35: [G_Auto 1] :  Store Value (Shared) for market: stake = 4.045
+3/1/2022 22:01:35: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 97.395
+3/1/2022 22:01:35: [G_Auto 1] :  Store Value (Shared) for market: pl = 5.07
+3/1/2022 22:01:35: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.88
+3/1/2022 22:01:35: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.1
+3/1/2022 22:01:36: [G_Auto 2] :  € 9.09 of unmatched bet (Ref:11144) was filled before remainder was killed.
+3/1/2022 22:01:48: [G_Auto 2] :  1 Automation Signals Cleared
+3/1/2022 22:04:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 22:04:13: [G_Auto 2] :  Store Value (Shared) for Tamara Korpatsch: PRICE SET 2 = 1.63
+3/1/2022 22:04:13: [G_Auto 2] :  Alert: STORE PRICE AT SET 2 [ Tamara Korpatsch ]
+3/1/2022 22:04:13: [G_Auto 2] :  Automation Signal for market: VALID = 1
+3/1/2022 22:04:13: [G_Auto 2] :  Store Value (Shared) for Oceane Dodin: PRICE SET 2 = 2.6
+3/1/2022 22:04:13: [G_Auto 2] :  Alert: STORE PRICE AT SET 2 [ Oceane Dodin ]
+3/1/2022 22:04:13: [G_Auto 2] :  Automation Signal for market: VALID = 1
+3/1/2022 22:04:13: [G_Auto 1] :  Store Value (Shared) for market: aFirstSetPrice = 1.65
+3/1/2022 22:04:13: [G_Auto 1] :  Store Value (Shared) for market: bFirstSetPrice = 2.56
+3/1/2022 22:04:16: [G_Auto 2] :  Placed closure bet with greening on Tamara Korpatsch by Backing 10.48 at 1.63
+3/1/2022 22:04:16: [G_Auto 1] :  Store Text Value (Shared) for Tamara Korpatsch: aPoints = point: 0; games: 0; sets: 1 
+3/1/2022 22:04:16: [G_Auto 1] :  Store Text Value (Shared) for Tamara Korpatsch: aServing = serving:0
+3/1/2022 22:04:16: [G_Auto 1] :  Store Text Value (Shared) for Oceane Dodin: bPoints = point: 0; games: 0; sets: 0 
+3/1/2022 22:04:16: [G_Auto 1] :  Store Text Value (Shared) for Oceane Dodin: bServing = serving:2
+3/1/2022 22:04:16: [G_Auto 1] :  Store Value (Shared) for market: price = 1.71
+3/1/2022 22:04:16: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 54.57
+3/1/2022 22:04:16: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 58.35
+3/1/2022 22:04:16: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.48
+3/1/2022 22:04:16: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 112.92
+3/1/2022 22:04:16: [G_Auto 1] :  Store Value (Shared) for market: pl = 4.16
+3/1/2022 22:04:16: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.71
+3/1/2022 22:04:16: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.56
+3/1/2022 22:05:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 22:06:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 22:06:31: [G_Auto 2] :  2 Automation Signals Cleared
+3/1/2022 22:08:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 22:09:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 22:09:07: [G_Auto 2] :  1 Automation Signals Cleared
+3/1/2022 22:11:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 22:12:09: [G_Auto 2] :  € 11.43 Lay bet placed on Oceane Dodin at 1.7. Fully matched at 1.7.  Ref: 11156          ( Fill or kill bet with 15 seconds delay.   )
+3/1/2022 22:12:09: [G_Auto 1] :  Store Text Value (Shared) for Tamara Korpatsch: aPoints = point: 0; games: 0; sets: 1 
+3/1/2022 22:12:09: [G_Auto 1] :  Store Text Value (Shared) for Tamara Korpatsch: aServing = serving:0
+3/1/2022 22:12:09: [G_Auto 1] :  Store Text Value (Shared) for Oceane Dodin: bPoints = point: 0; games: 2; sets: 0 
+3/1/2022 22:12:09: [G_Auto 1] :  Store Text Value (Shared) for Oceane Dodin: bServing = serving:2
+3/1/2022 22:12:09: [G_Auto 1] :  Store Value (Shared) for market: price = 1.7
+3/1/2022 22:12:09: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 54.57
+3/1/2022 22:12:09: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 69.78
+3/1/2022 22:12:09: [G_Auto 1] :  Store Value (Shared) for market: stake = 11.43
+3/1/2022 22:12:09: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 124.35
+3/1/2022 22:12:09: [G_Auto 1] :  Store Value (Shared) for market: pl = 3.97
+3/1/2022 22:12:09: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.4
+3/1/2022 22:12:09: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.7
+3/1/2022 22:12:12: [G_Auto 2] :  Placed closure bet with greening on Tamara Korpatsch by Laying 0.34 at 2.46
+3/1/2022 22:12:12: [G_Auto 1] :  Store Text Value (Shared) for Tamara Korpatsch: aPoints = point: 0; games: 0; sets: 1 
+3/1/2022 22:12:12: [G_Auto 1] :  Store Text Value (Shared) for Tamara Korpatsch: aServing = serving:0
+3/1/2022 22:12:12: [G_Auto 1] :  Store Text Value (Shared) for Oceane Dodin: bPoints = point: 0; games: 2; sets: 0 
+3/1/2022 22:12:12: [G_Auto 1] :  Store Text Value (Shared) for Oceane Dodin: bServing = serving:2
+3/1/2022 22:12:12: [G_Auto 1] :  Store Value (Shared) for market: price = 2.44
+3/1/2022 22:12:12: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 54.57
+3/1/2022 22:12:12: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 70.12
+3/1/2022 22:12:12: [G_Auto 1] :  Store Value (Shared) for market: stake = 0.34
+3/1/2022 22:12:12: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 124.69
+3/1/2022 22:12:12: [G_Auto 1] :  Store Value (Shared) for market: pl = 4.04
+3/1/2022 22:12:12: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.4
+3/1/2022 22:12:12: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.72
+3/1/2022 22:12:39: [G_Auto 2] :  1 Automation Signals Cleared
+3/1/2022 22:14:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 22:15:12: [G_Auto 2] :  Placed closure bet with greening on Oceane Dodin by Backing 12.54 at 1.55
+3/1/2022 22:15:12: [G_Auto 1] :  Store Text Value (Shared) for Tamara Korpatsch: aPoints = point: 0; games: 0; sets: 1 
+3/1/2022 22:15:12: [G_Auto 1] :  Store Text Value (Shared) for Tamara Korpatsch: aServing = serving:1
+3/1/2022 22:15:12: [G_Auto 1] :  Store Text Value (Shared) for Oceane Dodin: bPoints = point: 0; games: 3; sets: 0 
+3/1/2022 22:15:12: [G_Auto 1] :  Store Text Value (Shared) for Oceane Dodin: bServing = serving:0
+3/1/2022 22:15:12: [G_Auto 1] :  Store Value (Shared) for market: price = 1.55
+3/1/2022 22:15:12: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 67.11
+3/1/2022 22:15:12: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 70.12
+3/1/2022 22:15:12: [G_Auto 1] :  Store Value (Shared) for market: stake = 12.54
+3/1/2022 22:15:12: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 137.23
+3/1/2022 22:15:12: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.95
+3/1/2022 22:15:12: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.82
+3/1/2022 22:15:12: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.55
+3/1/2022 22:16:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 22:16:58: [G_Auto 2] :  1 Automation Signals Cleared
+3/1/2022 22:20:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 22:20:55: [G_Auto 2] :  € 18.18 Lay bet placed on Oceane Dodin at 1.44. Fully matched at 1.43.  Ref: 11163          ( Fill or kill bet with 15 seconds delay.   )
+3/1/2022 22:20:56: [G_Auto 1] :  Store Text Value (Shared) for Tamara Korpatsch: aPoints = point: 0; games: 0; sets: 1 
+3/1/2022 22:20:56: [G_Auto 1] :  Store Text Value (Shared) for Tamara Korpatsch: aServing = serving:0
+3/1/2022 22:20:56: [G_Auto 1] :  Store Text Value (Shared) for Oceane Dodin: bPoints = point: 0; games: 4; sets: 0 
+3/1/2022 22:20:56: [G_Auto 1] :  Store Text Value (Shared) for Oceane Dodin: bServing = serving:2
+3/1/2022 22:20:56: [G_Auto 1] :  Store Value (Shared) for market: price = 1.43
+3/1/2022 22:20:56: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 67.11
+3/1/2022 22:20:56: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 88.3
+3/1/2022 22:20:56: [G_Auto 1] :  Store Value (Shared) for market: stake = 18.18
+3/1/2022 22:20:56: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 155.41
+3/1/2022 22:20:56: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.82
+3/1/2022 22:20:56: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.25
+3/1/2022 22:20:56: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.42
+3/1/2022 22:21:15: [G_Auto 2] :  1 Automation Signals Cleared
+3/1/2022 22:25:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 22:26:11: [G_Auto 2] :  Placed closure bet with greening on Oceane Dodin by Backing 17.93 at 1.45
+3/1/2022 22:26:11: [G_Auto 1] :  Store Text Value (Shared) for Tamara Korpatsch: aPoints = point: 0; games: 0; sets: 1 
+3/1/2022 22:26:11: [G_Auto 1] :  Store Text Value (Shared) for Tamara Korpatsch: aServing = serving:1
+3/1/2022 22:26:11: [G_Auto 1] :  Store Text Value (Shared) for Oceane Dodin: bPoints = point: 0; games: 5; sets: 0 
+3/1/2022 22:26:11: [G_Auto 1] :  Store Text Value (Shared) for Oceane Dodin: bServing = serving:0
+3/1/2022 22:26:11: [G_Auto 1] :  Store Value (Shared) for market: price = 1.45
+3/1/2022 22:26:11: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 85.04
+3/1/2022 22:26:11: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 88.3
+3/1/2022 22:26:11: [G_Auto 1] :  Store Value (Shared) for market: stake = 17.93
+3/1/2022 22:26:11: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 173.34
+3/1/2022 22:26:11: [G_Auto 1] :  Store Value (Shared) for market: pl = 3.19
+3/1/2022 22:26:11: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.25
+3/1/2022 22:26:11: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.45
+3/1/2022 22:26:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 22:27:55: [G_Auto 2] :  1 Automation Signals Cleared
+3/1/2022 22:29:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 22:30:04: [G_Auto 2] :  € 16.33 Lay bet placed on Oceane Dodin at 1.49. Fully matched at 1.48.  Ref: 11169          ( Fill or kill bet with 15 seconds delay.   )
+3/1/2022 22:30:04: [G_Auto 1] :  Store Text Value (Shared) for Tamara Korpatsch: aPoints = point: 0; games: 1; sets: 1 
+3/1/2022 22:30:04: [G_Auto 1] :  Store Text Value (Shared) for Tamara Korpatsch: aServing = serving:0
+3/1/2022 22:30:04: [G_Auto 1] :  Store Text Value (Shared) for Oceane Dodin: bPoints = point: 0; games: 5; sets: 0 
+3/1/2022 22:30:04: [G_Auto 1] :  Store Text Value (Shared) for Oceane Dodin: bServing = serving:2
+3/1/2022 22:30:04: [G_Auto 1] :  Store Value (Shared) for market: price = 1.48
+3/1/2022 22:30:04: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 85.04
+3/1/2022 22:30:04: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 104.63
+3/1/2022 22:30:04: [G_Auto 1] :  Store Value (Shared) for market: stake = 16.33
+3/1/2022 22:30:04: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 189.67
+3/1/2022 22:30:04: [G_Auto 1] :  Store Value (Shared) for market: pl = 3.09
+3/1/2022 22:30:04: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.15
+3/1/2022 22:30:04: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.47
+3/1/2022 22:30:24: [G_Auto 2] :  1 Automation Signals Cleared
+3/1/2022 22:32:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 22:32:09: [G_Auto 1] :  Store Value (Shared) for market: aSecondSetPrice = 3.1
+3/1/2022 22:32:09: [G_Auto 1] :  Store Value (Shared) for market: bSecondSetPrice = 1.48
+3/1/2022 22:32:12: [G_Auto 2] :  Placed closure bet with greening on Oceane Dodin by Backing 16.44 at 1.47
+3/1/2022 22:32:13: [G_Auto 1] :  Store Text Value (Shared) for Tamara Korpatsch: aPoints = point: 0; games: 0; sets: 1 
+3/1/2022 22:32:13: [G_Auto 1] :  Store Text Value (Shared) for Tamara Korpatsch: aServing = serving:1
+3/1/2022 22:32:13: [G_Auto 1] :  Store Text Value (Shared) for Oceane Dodin: bPoints = point: 0; games: 0; sets: 1 
+3/1/2022 22:32:13: [G_Auto 1] :  Store Text Value (Shared) for Oceane Dodin: bServing = serving:0
+3/1/2022 22:32:13: [G_Auto 1] :  Store Value (Shared) for market: price = 1.47
+3/1/2022 22:32:13: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 87.165
+3/1/2022 22:32:13: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 104.63
+3/1/2022 22:32:13: [G_Auto 1] :  Store Value (Shared) for market: stake = 2.125
+3/1/2022 22:32:13: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 191.795
+3/1/2022 22:32:13: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.99
+3/1/2022 22:32:13: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.2
+3/1/2022 22:32:13: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.46
+3/1/2022 22:33:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 22:34:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 22:35:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 22:36:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 22:37:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 22:38:16: [G_Auto 2] :  1 Automation Signals Cleared
+3/1/2022 22:39:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 22:39:54: [G_Auto 2] :  € 11.59 Lay bet placed on Oceane Dodin at 1.69. Fully matched at 1.69.  Ref: 11172          ( Fill or kill bet with 15 seconds delay.   )
+3/1/2022 22:39:55: [G_Auto 1] :  Store Text Value (Shared) for Tamara Korpatsch: aPoints = point: 0; games: 1; sets: 1 
+3/1/2022 22:39:55: [G_Auto 1] :  Store Text Value (Shared) for Tamara Korpatsch: aServing = serving:0
+3/1/2022 22:39:55: [G_Auto 1] :  Store Text Value (Shared) for Oceane Dodin: bPoints = point: 0; games: 0; sets: 1 
+3/1/2022 22:39:55: [G_Auto 1] :  Store Text Value (Shared) for Oceane Dodin: bServing = serving:2
+3/1/2022 22:39:55: [G_Auto 1] :  Store Value (Shared) for market: price = 1.69
+3/1/2022 22:39:55: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 101.48
+3/1/2022 22:39:55: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 116.22
+3/1/2022 22:39:55: [G_Auto 1] :  Store Value (Shared) for market: stake = 11.59
+3/1/2022 22:39:55: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 217.7
+3/1/2022 22:39:55: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.81
+3/1/2022 22:39:55: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.46
+3/1/2022 22:39:55: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.66
+3/1/2022 22:40:33: [G_Auto 2] :  1 Automation Signals Cleared
+3/1/2022 22:43:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 22:43:16: [G_Auto 2] :  € 12.70 Lay bet placed on Tamara Korpatsch at 1.63. Entirely unmatched when it initially reached the market.   Ref: 11174          ( Fill or kill bet with 15 seconds delay.   )
+3/1/2022 22:43:16: [G_Auto 2] :  Placed closure bet with greening on Oceane Dodin by Backing 8.16 at 2.4
+3/1/2022 22:43:17: [G_Auto 1] :  Store Text Value (Shared) for Tamara Korpatsch: aPoints = point: 0; games: 2; sets: 1 
+3/1/2022 22:43:17: [G_Auto 1] :  Store Text Value (Shared) for Tamara Korpatsch: aServing = serving:1
+3/1/2022 22:43:17: [G_Auto 1] :  Store Text Value (Shared) for Oceane Dodin: bPoints = point: 0; games: 0; sets: 1 
+3/1/2022 22:43:17: [G_Auto 1] :  Store Text Value (Shared) for Oceane Dodin: bServing = serving:0
+3/1/2022 22:43:17: [G_Auto 1] :  Store Value (Shared) for market: price = 2.5
+3/1/2022 22:43:17: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 109.64
+3/1/2022 22:43:17: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 116.22
+3/1/2022 22:43:17: [G_Auto 1] :  Store Value (Shared) for market: stake = 8.16
+3/1/2022 22:43:17: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 225.86
+3/1/2022 22:43:17: [G_Auto 1] :  Store Value (Shared) for market: pl = 6.75
+3/1/2022 22:43:17: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.66
+3/1/2022 22:43:17: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.5
+3/1/2022 22:43:21: [G_Auto 2] :  € 12.7 of unmatched bet (Ref:11174) was filled before remainder was killed.
+3/1/2022 22:43:21: [G_Auto 1] :  Store Text Value (Shared) for Tamara Korpatsch: aPoints = point: 0; games: 2; sets: 1 
+3/1/2022 22:43:21: [G_Auto 1] :  Store Text Value (Shared) for Tamara Korpatsch: aServing = serving:1
+3/1/2022 22:43:21: [G_Auto 1] :  Store Text Value (Shared) for Oceane Dodin: bPoints = point: 0; games: 0; sets: 1 
+3/1/2022 22:43:21: [G_Auto 1] :  Store Text Value (Shared) for Oceane Dodin: bServing = serving:0
+3/1/2022 22:43:21: [G_Auto 1] :  Store Value (Shared) for market: price = 1.63
+3/1/2022 22:43:21: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 109.64
+3/1/2022 22:43:21: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 128.92
+3/1/2022 22:43:21: [G_Auto 1] :  Store Value (Shared) for market: stake = 12.7
+3/1/2022 22:43:21: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 238.56
+3/1/2022 22:43:21: [G_Auto 1] :  Store Value (Shared) for market: pl = 7
+3/1/2022 22:43:21: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.66
+3/1/2022 22:43:21: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.5
+3/1/2022 22:43:51: [G_Auto 2] :  1 Automation Signals Cleared
+3/1/2022 22:45:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 22:46:04: [G_Auto 2] :  Placed closure bet with greening on Tamara Korpatsch by Backing 15.11 at 1.37
+3/1/2022 22:46:05: [G_Auto 1] :  Store Text Value (Shared) for Tamara Korpatsch: aPoints = point: 0; games: 3; sets: 1 
+3/1/2022 22:46:05: [G_Auto 1] :  Store Text Value (Shared) for Tamara Korpatsch: aServing = serving:0
+3/1/2022 22:46:05: [G_Auto 1] :  Store Text Value (Shared) for Oceane Dodin: bPoints = point: 0; games: 0; sets: 1 
+3/1/2022 22:46:05: [G_Auto 1] :  Store Text Value (Shared) for Oceane Dodin: bServing = serving:2
+3/1/2022 22:46:05: [G_Auto 1] :  Store Value (Shared) for market: price = 1.38
+3/1/2022 22:46:05: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 124.75
+3/1/2022 22:46:05: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 128.92
+3/1/2022 22:46:05: [G_Auto 1] :  Store Value (Shared) for market: stake = 15.11
+3/1/2022 22:46:05: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 253.67
+3/1/2022 22:46:05: [G_Auto 1] :  Store Value (Shared) for market: pl = 4.42
+3/1/2022 22:46:05: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.39
+3/1/2022 22:46:05: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.55
+3/1/2022 22:46:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 22:47:52: [G_Auto 2] :  1 Automation Signals Cleared
+3/1/2022 22:51:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 22:52:00: [G_Auto 2] :  € 17.39 Lay bet placed on Tamara Korpatsch at 1.46. Entirely unmatched when it initially reached the market.   Ref: 11176          ( Fill or kill bet with 15 seconds delay.   )
+3/1/2022 22:52:02: [G_Auto 1] :  Store Text Value (Shared) for Tamara Korpatsch: aPoints = point: 0; games: 3; sets: 1 
+3/1/2022 22:52:02: [G_Auto 1] :  Store Text Value (Shared) for Tamara Korpatsch: aServing = serving:1
+3/1/2022 22:52:02: [G_Auto 1] :  Store Text Value (Shared) for Oceane Dodin: bPoints = point: 0; games: 1; sets: 1 
+3/1/2022 22:52:02: [G_Auto 1] :  Store Text Value (Shared) for Oceane Dodin: bServing = serving:0
+3/1/2022 22:52:02: [G_Auto 1] :  Store Value (Shared) for market: price = 1.46
+3/1/2022 22:52:02: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 124.75
+3/1/2022 22:52:02: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 132.51
+3/1/2022 22:52:02: [G_Auto 1] :  Store Value (Shared) for market: stake = 3.59
+3/1/2022 22:52:02: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 257.26
+3/1/2022 22:52:02: [G_Auto 1] :  Store Value (Shared) for market: pl = 4.44
+3/1/2022 22:52:02: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.45
+3/1/2022 22:52:02: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.1
+3/1/2022 22:52:03: [G_Auto 2] :  Placed closure bet with greening on Oceane Dodin by Laying 0.25 at 3.25
+3/1/2022 22:52:04: [G_Auto 1] :  Store Text Value (Shared) for Tamara Korpatsch: aPoints = point: 0; games: 3; sets: 1 
+3/1/2022 22:52:04: [G_Auto 1] :  Store Text Value (Shared) for Tamara Korpatsch: aServing = serving:1
+3/1/2022 22:52:04: [G_Auto 1] :  Store Text Value (Shared) for Oceane Dodin: bPoints = point: 0; games: 1; sets: 1 
+3/1/2022 22:52:04: [G_Auto 1] :  Store Text Value (Shared) for Oceane Dodin: bServing = serving:0
+3/1/2022 22:52:04: [G_Auto 1] :  Store Value (Shared) for market: price = 3.2
+3/1/2022 22:52:04: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 124.75
+3/1/2022 22:52:04: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 132.76
+3/1/2022 22:52:04: [G_Auto 1] :  Store Value (Shared) for market: stake = 0.25
+3/1/2022 22:52:04: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 257.51
+3/1/2022 22:52:04: [G_Auto 1] :  Store Value (Shared) for market: pl = 4.43
+3/1/2022 22:52:04: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.45
+3/1/2022 22:52:04: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.1
+3/1/2022 22:52:06: [G_Auto 1] :  Store Text Value (Shared) for Tamara Korpatsch: aPoints = point: 0; games: 3; sets: 1 
+3/1/2022 22:52:06: [G_Auto 1] :  Store Text Value (Shared) for Tamara Korpatsch: aServing = serving:1
+3/1/2022 22:52:06: [G_Auto 1] :  Store Text Value (Shared) for Oceane Dodin: bPoints = point: 0; games: 1; sets: 1 
+3/1/2022 22:52:06: [G_Auto 1] :  Store Text Value (Shared) for Oceane Dodin: bServing = serving:0
+3/1/2022 22:52:06: [G_Auto 1] :  Store Value (Shared) for market: price = 1.46
+3/1/2022 22:52:06: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 124.75
+3/1/2022 22:52:06: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 133.625
+3/1/2022 22:52:06: [G_Auto 1] :  Store Value (Shared) for market: stake = 4.455
+3/1/2022 22:52:06: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 258.375
+3/1/2022 22:52:06: [G_Auto 1] :  Store Value (Shared) for market: pl = 4.43
+3/1/2022 22:52:06: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.47
+3/1/2022 22:52:06: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.1
+3/1/2022 22:52:12: [G_Auto 2] :  € 17.39 of unmatched bet (Ref:11176) was filled before remainder was killed.
+3/1/2022 22:52:22: [G_Auto 2] :  1 Automation Signals Cleared
+3/1/2022 22:54:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 22:54:27: [G_Auto 2] :  Placed closure bet with greening on Tamara Korpatsch by Backing 19.87 at 1.27
+3/1/2022 22:54:28: [G_Auto 1] :  Store Text Value (Shared) for Tamara Korpatsch: aPoints = point: 0; games: 4; sets: 1 
+3/1/2022 22:54:28: [G_Auto 1] :  Store Text Value (Shared) for Tamara Korpatsch: aServing = serving:0
+3/1/2022 22:54:28: [G_Auto 1] :  Store Text Value (Shared) for Oceane Dodin: bPoints = point: 0; games: 1; sets: 1 
+3/1/2022 22:54:28: [G_Auto 1] :  Store Text Value (Shared) for Oceane Dodin: bServing = serving:2
+3/1/2022 22:54:28: [G_Auto 1] :  Store Value (Shared) for market: price = 1.28
+3/1/2022 22:54:28: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 144.62
+3/1/2022 22:54:28: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 146.56
+3/1/2022 22:54:28: [G_Auto 1] :  Store Value (Shared) for market: stake = 19.87
+3/1/2022 22:54:28: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 291.18
+3/1/2022 22:54:28: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.05
+3/1/2022 22:54:28: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.28
+3/1/2022 22:54:28: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.5
+3/1/2022 22:55:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 22:55:59: [G_Auto 2] :  1 Automation Signals Cleared
+3/1/2022 23:00:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 23:00:29: [G_Auto 2] :  1 Automation Signals Cleared
+3/1/2022 23:08:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 23:09:04: [G_Auto 2] :  Placed closure bet with greening on Tamara Korpatsch by Laying 0.17 at 1.15
+3/1/2022 23:09:05: [G_Auto 1] :  Store Text Value (Shared) for Tamara Korpatsch: aPoints = point: 0; games: 5; sets: 1 
+3/1/2022 23:09:05: [G_Auto 1] :  Store Text Value (Shared) for Tamara Korpatsch: aServing = serving:0
+3/1/2022 23:09:05: [G_Auto 1] :  Store Text Value (Shared) for Oceane Dodin: bPoints = point: 0; games: 2; sets: 1 
+3/1/2022 23:09:05: [G_Auto 1] :  Store Text Value (Shared) for Oceane Dodin: bServing = serving:2
+3/1/2022 23:09:05: [G_Auto 1] :  Store Value (Shared) for market: price = 1.15
+3/1/2022 23:09:05: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 144.62
+3/1/2022 23:09:05: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 146.73
+3/1/2022 23:09:05: [G_Auto 1] :  Store Value (Shared) for market: stake = 0.17
+3/1/2022 23:09:05: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 291.35
+3/1/2022 23:09:05: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.07
+3/1/2022 23:09:05: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.15
+3/1/2022 23:09:05: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 7.6
+3/1/2022 23:09:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 23:10:43: [G_Auto 2] :  1 Automation Signals Cleared
+3/1/2022 23:13:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/1/2022 23:13:34:  Guardian has detected that the market is suspended
