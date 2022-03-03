@@ -1,5 +1,9 @@
 ## add to additional row and shift th present -> row K RUNNERS SET A, row L RUNNERS SET B
 
+
+Strategy2MarketReport
+mainStrategy2.py
+
 ![add new rows](./images/3/1.png?raw=true "add new row")
 
 - [ ] i added some the logs information, only in the new one logs but i need that the code works already in the older, so if it's not present the present the row in Logs, leave empty in the excel
