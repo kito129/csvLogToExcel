@@ -27,8 +27,8 @@ if not os.path.exists(exportPath):
 book = Workbook()
 sheet = book.active
 sheet.title = 'report'
-sheet.append(["DATE","TIME","MARKET","ACCOUNT","EXECUTOR","STRATEGY","EVENT","RUNNERS","","","NOTE","S1 A","S1 B","S2 A","S2 B","S3 A","S3 B","S4 A","S4 B","S5 A","S5 B","GAME A","GAME B","SER","ID","TIME","TYPE","RUN","BET","ODDS","STAKE","TOTAL RISK","COMM","NET PL"])
-sheet.append(["","","","","","","","A","B","WINNER"])
+sheet.append(["DATE","TIME","MARKET","ACCOUNT","EXECUTOR","STRATEGY","EVENT","RUNNERS","","",'RUNNER SET','RUNNER SET',"NOTE","S1 A","S1 B","S2 A","S2 B","S3 A","S3 B","S4 A","S4 B","S5 A","S5 B","GAME A","GAME B","SER","ID","TIME","TYPE","RUN","BET","ODDS","STAKE","TOTAL RISK","COMM","NET PL"])
+sheet.append(["","","","","","","","A","B","WINNER",'A','B'])
 for date in os.listdir(path):
     datePath = os.path.abspath(os.path.join(path,date))
     logsPath = os.path.join(datePath,'Logs')
@@ -71,12 +71,19 @@ for date in os.listdir(path):
                 market['profit'].append(row[-2:])
             totalPoints = content.count('totalStake =')
             market['sets'] = []
+            market['runnerSets'] = []
+            market['runnerSets'].append([getField('aFirstSetPrice',content),getField('bFirstSetPrice',content)])
+            market['runnerSets'].append([getField('aSecondSetPrice',content),getField('bSecondSetPrice',content)])
+            pointings = {}
+            i = 0
             for points in range(totalPoints):
                 totalStake = getField('totalStake',content,points)
                 if totalStake == getField('totalStake',content,points+1):
                     continue
                 gameContent = content.split(f'(Shared) for {market["runnerA"]}: aPoints',points+1)[-1]
                 aPoint = getField('aPoints = point',content,points)
+                pointTime = gameContent.split(': [')[0].split('\n')[-1].split(' ')[-1]
+                pointings[pointTime] = i
                 aServing = getField('aServing = serving',content,points)
                 aGame = getField(f'games',gameContent)
                 aSet = getField(f'sets',gameContent)
@@ -106,9 +113,11 @@ for date in os.listdir(path):
                     sets.append([aPoint,bPoint])
                 sets.append([serv])
                 market['sets'].append(sets)
+                i+=1
             mList = sorted([m for m in csv.reader(mContent.splitlines()[1:])],key=lambda x: x[0].split(' ')[1])
             market['stacks'] = {}
             i=0
+            stacks = []
             for row in mList:
                 date = row[0].split(' ')[-1]
                 flag = row[1][0]
@@ -120,11 +129,19 @@ for date in os.listdir(path):
                     continue
                 i+=1
                 entry = None
+                stacks.append(date)
                 if i==1:
                     entry = 'OPEN'
                 market['stacks'][date+"__"+odds] = [i,date,entry,runner,flag,odds,float(stack)]
+            inserted = []
+            i = 0
+            for stack in market['stacks'].values():
+                if stacks.count(stack[1])>1 and stack[1] not in inserted:
+                    [market['sets'].insert(i+x+1,market['sets'][i]) for x in range(stacks.count(stack[1])-1)]
+                    inserted.append(stack[1])
+                i+=1
             final = False
-            for data in zip_longest([marketDate],[marketName,market['volume']],[market['runnerA'],market['aBsp'],market['aId']],[market['runnerB'],market['bBsp'],market['bId']],market['sets'],market['stacks'].values(),market['profit']):
+            for data in zip_longest([marketDate],[marketName,market['volume']],[market['runnerA'],market['aBsp'],market['aId']],[market['runnerB'],market['bBsp'],market['bId']],market['sets'],market['stacks'].values(),market['profit'],market['runnerSets']):
                 setList = []
                 prList = data[6] or []
                 if data[4]:
@@ -136,7 +153,7 @@ for date in os.listdir(path):
                     final = True
                 if not stacks:
                     stacks = [None]*7
-                row = [data[0],None,data[1],None,None,None,None,data[2],data[3],None,None]+setList+stacks+[None]+prList
+                row = [data[0],None,data[1],None,None,None,None,data[2],data[3],None]+(data[-1] or [None,None])+[None]+setList+stacks+[None]+prList
                 sheet.append(row)
             if not final:
                 sheet.append(([None]*26)+['FINAL'])
