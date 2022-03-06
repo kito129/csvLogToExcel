@@ -114,7 +114,8 @@ for date in os.listdir(path):
                 sets.append([serv])
                 market['sets'].append(sets)
                 i+=1
-            mList = sorted([m for m in csv.reader(mContent.splitlines()[1:])],key=lambda x: x[0].split(' ')[1])
+            mList = sorted([m for m in csv.reader(mContent.splitlines()[1:])],key=lambda x: x[3])
+            mList = sorted([m for m in mList],key=lambda x: x[0].split(' ')[1])
             market['stacks'] = {}
             i=0
             stacks = []
@@ -149,13 +150,13 @@ for date in os.listdir(path):
                 setList = setList or [None]*13
                 stacks = data[5]
                 if not stacks and not data[4] and not prList and not final:
-                    stacks = ([None]*2)+['FINAL']+[None]*4
+                    stacks = ([None]*4)+['FINAL']+[None]*4
                     final = True
                 if not stacks:
                     stacks = [None]*7
                 row = [data[0],None,data[1],None,None,None,None,data[2],data[3],None]+(data[-1] or [None,None])+[None]+setList+stacks+[None]+prList
                 sheet.append(row)
             if not final:
-                sheet.append(([None]*26)+['FINAL'])
+                sheet.append(([None]*28)+['FINAL'])
 dateOfRun = datetime.now().strftime('%d_%m_%Y_%H_%M')
 book.save(os.path.join(os.path.abspath(exportPath),f'REPORT_{dateOfRun}.xlsx'))    
