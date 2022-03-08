@@ -1,0 +1,299 @@
+3/7/2022 09:43:09: [G_Auto 2] :  Store Text Value (Shared) for Daria Saville: info = marketName: D Saville v Rakhimova - Match Odds; runnerA: Daria Saville; runnerB: Kamilla Rakhimova 
+3/7/2022 09:43:09: [G_Auto 2] :  Store Value (Shared) for market: aId = 42231870
+3/7/2022 09:43:09: [G_Auto 2] :  Store Value (Shared) for market: bId = 11144238
+3/7/2022 19:10:01:  Guardian has detected that the market is in-play
+3/7/2022 19:10:01:  Guardian has detected that the market is suspended
+3/7/2022 19:10:06: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.65; bBsp: 2.56; volume: 3566.56 
+3/7/2022 19:10:06: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.65; bBsp: 2.56; volume: 3566.56 
+3/7/2022 19:10:06:  Guardian has detected that the market is now unsuspended
+3/7/2022 19:10:11: [G_Auto 1] :  0 Automation Signals Cleared
+3/7/2022 19:13:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/7/2022 19:13:48: [G_Auto 1] :  € 10.67 Lay bet placed on Daria Saville at 1.75. Fully matched at 1.75.  Ref: 10065          ( Fill or kill bet with 15 seconds delay.   )
+3/7/2022 19:13:50: [G_Auto 2] :  Store Text Value (Shared) for Daria Saville: aPoints = point: 0; games: 0; sets: 0 
+3/7/2022 19:13:50: [G_Auto 2] :  Store Text Value (Shared) for Daria Saville: aServing = serving:1
+3/7/2022 19:13:50: [G_Auto 2] :  Store Text Value (Shared) for Kamilla Rakhimova: bPoints = point: 0; games: 1; sets: 0 
+3/7/2022 19:13:50: [G_Auto 2] :  Store Text Value (Shared) for Kamilla Rakhimova: bServing = serving:0
+3/7/2022 19:13:50: [G_Auto 2] :  Store Value (Shared) for market: price = 1.75
+3/7/2022 19:13:50: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+3/7/2022 19:13:50: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 10.67
+3/7/2022 19:13:50: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.67
+3/7/2022 19:13:50: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 10.67
+3/7/2022 19:13:50: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.12
+3/7/2022 19:13:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.73
+3/7/2022 19:13:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.48
+3/7/2022 19:14:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/7/2022 19:14:50: [G_Auto 1] :  1 Automation Signals Cleared
+3/7/2022 19:17:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/7/2022 19:18:02: [G_Auto 1] :  € 9.30 Lay bet placed on Kamilla Rakhimova at 1.86. Fully matched at 1.86.  Ref: 10071          ( Fill or kill bet with 15 seconds delay.   )
+3/7/2022 19:18:02: [G_Auto 1] :  Placed closure bet with greening on Daria Saville by Backing 8.64 at 2.16
+3/7/2022 19:18:04: [G_Auto 2] :  Store Text Value (Shared) for Daria Saville: aPoints = point: 0; games: 0; sets: 0 
+3/7/2022 19:18:04: [G_Auto 2] :  Store Text Value (Shared) for Daria Saville: aServing = serving:0
+3/7/2022 19:18:04: [G_Auto 2] :  Store Text Value (Shared) for Kamilla Rakhimova: bPoints = point: 0; games: 2; sets: 0 
+3/7/2022 19:18:04: [G_Auto 2] :  Store Text Value (Shared) for Kamilla Rakhimova: bServing = serving:2
+3/7/2022 19:18:04: [G_Auto 2] :  Store Value (Shared) for market: price = 2.16
+3/7/2022 19:18:04: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 8.64
+3/7/2022 19:18:04: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 19.97
+3/7/2022 19:18:04: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.64
+3/7/2022 19:18:04: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 28.61
+3/7/2022 19:18:04: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.98
+3/7/2022 19:18:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.16
+3/7/2022 19:18:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.86
+3/7/2022 19:18:39: [G_Auto 1] :  1 Automation Signals Cleared
+3/7/2022 19:23:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/7/2022 19:23:59: [G_Auto 1] :  € 10.39 Lay bet placed on Daria Saville at 1.77. Entirely unmatched when it initially reached the market.   Ref: 10084          ( Fill or kill bet with 15 seconds delay.   )
+3/7/2022 19:23:59: [G_Auto 1] :  Placed closure bet with greening on Kamilla Rakhimova by Backing 7.72 at 2.24
+3/7/2022 19:24:01: [G_Auto 2] :  Store Text Value (Shared) for Daria Saville: aPoints = point: 0; games: 1; sets: 0 
+3/7/2022 19:24:01: [G_Auto 2] :  Store Text Value (Shared) for Daria Saville: aServing = serving:1
+3/7/2022 19:24:01: [G_Auto 2] :  Store Text Value (Shared) for Kamilla Rakhimova: bPoints = point: 0; games: 2; sets: 0 
+3/7/2022 19:24:01: [G_Auto 2] :  Store Text Value (Shared) for Kamilla Rakhimova: bServing = serving:0
+3/7/2022 19:24:01: [G_Auto 2] :  Store Value (Shared) for market: price = 2.24
+3/7/2022 19:24:01: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 16.36
+3/7/2022 19:24:01: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 19.97
+3/7/2022 19:24:01: [G_Auto 2] :  Store Value (Shared) for market: stake = 7.72
+3/7/2022 19:24:01: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 36.33
+3/7/2022 19:24:01: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.53
+3/7/2022 19:24:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.79
+3/7/2022 19:24:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.24
+3/7/2022 19:24:11: [G_Auto 2] :  Store Text Value (Shared) for Daria Saville: aPoints = point: 0; games: 1; sets: 0 
+3/7/2022 19:24:11: [G_Auto 2] :  Store Text Value (Shared) for Daria Saville: aServing = serving:1
+3/7/2022 19:24:11: [G_Auto 2] :  Store Text Value (Shared) for Kamilla Rakhimova: bPoints = point: 0; games: 2; sets: 0 
+3/7/2022 19:24:11: [G_Auto 2] :  Store Text Value (Shared) for Kamilla Rakhimova: bServing = serving:0
+3/7/2022 19:24:11: [G_Auto 2] :  Store Value (Shared) for market: price = 1.77
+3/7/2022 19:24:11: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 16.36
+3/7/2022 19:24:11: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 30.36
+3/7/2022 19:24:11: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.39
+3/7/2022 19:24:11: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 46.72
+3/7/2022 19:24:11: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.42
+3/7/2022 19:24:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.75
+3/7/2022 19:24:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.32
+3/7/2022 19:24:11: [G_Auto 1] :  € 10.39 of unmatched bet (Ref:10084) was filled before remainder was killed.
+3/7/2022 19:24:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/7/2022 19:25:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/7/2022 19:26:10: [G_Auto 1] :  1 Automation Signals Cleared
+3/7/2022 19:30:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/7/2022 19:30:55: [G_Auto 1] :  Placed closure bet with greening on Daria Saville by Backing 11.65 at 1.58
+3/7/2022 19:30:57: [G_Auto 2] :  Store Text Value (Shared) for Daria Saville: aPoints = point: 0; games: 2; sets: 0 
+3/7/2022 19:30:57: [G_Auto 2] :  Store Text Value (Shared) for Daria Saville: aServing = serving:0
+3/7/2022 19:30:57: [G_Auto 2] :  Store Text Value (Shared) for Kamilla Rakhimova: bPoints = point: 0; games: 2; sets: 0 
+3/7/2022 19:30:57: [G_Auto 2] :  Store Text Value (Shared) for Kamilla Rakhimova: bServing = serving:2
+3/7/2022 19:30:57: [G_Auto 2] :  Store Value (Shared) for market: price = 1.58
+3/7/2022 19:30:57: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 28.01
+3/7/2022 19:30:57: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 30.36
+3/7/2022 19:30:57: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.65
+3/7/2022 19:30:57: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 58.37
+3/7/2022 19:30:57: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.31
+3/7/2022 19:30:57: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.59
+3/7/2022 19:30:57: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.68
+3/7/2022 19:31:02: [G_Auto 2] :  Store Text Value (Shared) for Daria Saville: aPoints = point: 0; games: 2; sets: 0 
+3/7/2022 19:31:02: [G_Auto 2] :  Store Text Value (Shared) for Daria Saville: aServing = serving:0
+3/7/2022 19:31:02: [G_Auto 2] :  Store Text Value (Shared) for Kamilla Rakhimova: bPoints = point: 0; games: 2; sets: 0 
+3/7/2022 19:31:02: [G_Auto 2] :  Store Text Value (Shared) for Kamilla Rakhimova: bServing = serving:2
+3/7/2022 19:31:02: [G_Auto 2] :  Store Value (Shared) for market: price = 1.58
+3/7/2022 19:31:02: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 28.01
+3/7/2022 19:31:02: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 30.36
+3/7/2022 19:31:02: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.65
+3/7/2022 19:31:02: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 58.37
+3/7/2022 19:31:02: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.31
+3/7/2022 19:31:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.59
+3/7/2022 19:31:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.72
+3/7/2022 19:31:16: [G_Auto 1] :  1 Automation Signals Cleared
+3/7/2022 19:35:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/7/2022 19:35:47: [G_Auto 1] :  € 10.13 Lay bet placed on Daria Saville at 1.79. Fully matched at 1.78.  Ref: 10106          ( Fill or kill bet with 15 seconds delay.   )
+3/7/2022 19:35:49: [G_Auto 2] :  Store Text Value (Shared) for Daria Saville: aPoints = point: 0; games: 2; sets: 0 
+3/7/2022 19:35:49: [G_Auto 2] :  Store Text Value (Shared) for Daria Saville: aServing = serving:1
+3/7/2022 19:35:49: [G_Auto 2] :  Store Text Value (Shared) for Kamilla Rakhimova: bPoints = point: 0; games: 3; sets: 0 
+3/7/2022 19:35:49: [G_Auto 2] :  Store Text Value (Shared) for Kamilla Rakhimova: bServing = serving:0
+3/7/2022 19:35:49: [G_Auto 2] :  Store Value (Shared) for market: price = 1.78
+3/7/2022 19:35:49: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 28.01
+3/7/2022 19:35:49: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 40.49
+3/7/2022 19:35:49: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.13
+3/7/2022 19:35:49: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 68.5
+3/7/2022 19:35:49: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.2
+3/7/2022 19:35:49: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.77
+3/7/2022 19:35:49: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.3
+3/7/2022 19:36:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/7/2022 19:37:38: [G_Auto 1] :  1 Automation Signals Cleared
+3/7/2022 19:40:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/7/2022 19:40:15: [G_Auto 1] :  Placed closure bet with greening on Daria Saville by Backing 11.63 at 1.55
+3/7/2022 19:40:17: [G_Auto 2] :  Store Text Value (Shared) for Daria Saville: aPoints = point: 0; games: 3; sets: 0 
+3/7/2022 19:40:17: [G_Auto 2] :  Store Text Value (Shared) for Daria Saville: aServing = serving:0
+3/7/2022 19:40:17: [G_Auto 2] :  Store Text Value (Shared) for Kamilla Rakhimova: bPoints = point: 0; games: 3; sets: 0 
+3/7/2022 19:40:17: [G_Auto 2] :  Store Text Value (Shared) for Kamilla Rakhimova: bServing = serving:2
+3/7/2022 19:40:17: [G_Auto 2] :  Store Value (Shared) for market: price = 1.55
+3/7/2022 19:40:17: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 39.64
+3/7/2022 19:40:17: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 40.49
+3/7/2022 19:40:17: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.63
+3/7/2022 19:40:17: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 80.13
+3/7/2022 19:40:17: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.83
+3/7/2022 19:40:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.57
+3/7/2022 19:40:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.74
+3/7/2022 19:40:52: [G_Auto 1] :  1 Automation Signals Cleared
+3/7/2022 19:44:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/7/2022 19:44:18: [G_Auto 1] :  € 10.26 Lay bet placed on Daria Saville at 1.78. Entirely unmatched when it initially reached the market.   Ref: 10123          ( Fill or kill bet with 15 seconds delay.   )
+3/7/2022 19:44:35: [G_Auto 2] :  Store Text Value (Shared) for Daria Saville: aPoints = point: 0; games: 3; sets: 0 
+3/7/2022 19:44:35: [G_Auto 2] :  Store Text Value (Shared) for Daria Saville: aServing = serving:1
+3/7/2022 19:44:35: [G_Auto 2] :  Store Text Value (Shared) for Kamilla Rakhimova: bPoints = point: 0; games: 4; sets: 0 
+3/7/2022 19:44:35: [G_Auto 2] :  Store Text Value (Shared) for Kamilla Rakhimova: bServing = serving:0
+3/7/2022 19:44:35: [G_Auto 2] :  Store Value (Shared) for market: price = 1.78
+3/7/2022 19:44:35: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 39.64
+3/7/2022 19:44:35: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 50.75
+3/7/2022 19:44:35: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.26
+3/7/2022 19:44:35: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 90.39
+3/7/2022 19:44:35: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.67
+3/7/2022 19:44:35: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.76
+3/7/2022 19:44:35: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.24
+3/7/2022 19:44:35: [G_Auto 1] :  € 10.26 of unmatched bet (Ref:10123) was filled before remainder was killed.
+3/7/2022 19:45:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/7/2022 19:46:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/7/2022 19:46:34: [G_Auto 1] :  1 Automation Signals Cleared
+3/7/2022 19:47:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/7/2022 19:48:07: [G_Auto 1] :  Placed closure bet with greening on Daria Saville by Backing 12.09 at 1.51
+3/7/2022 19:48:09: [G_Auto 2] :  Store Text Value (Shared) for Daria Saville: aPoints = point: 0; games: 4; sets: 0 
+3/7/2022 19:48:09: [G_Auto 2] :  Store Text Value (Shared) for Daria Saville: aServing = serving:0
+3/7/2022 19:48:09: [G_Auto 2] :  Store Text Value (Shared) for Kamilla Rakhimova: bPoints = point: 0; games: 4; sets: 0 
+3/7/2022 19:48:09: [G_Auto 2] :  Store Text Value (Shared) for Kamilla Rakhimova: bServing = serving:2
+3/7/2022 19:48:09: [G_Auto 2] :  Store Value (Shared) for market: price = 1.51
+3/7/2022 19:48:09: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 51.73
+3/7/2022 19:48:09: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 50.75
+3/7/2022 19:48:09: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.09
+3/7/2022 19:48:09: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 102.48
+3/7/2022 19:48:09: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.99
+3/7/2022 19:48:09: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.51
+3/7/2022 19:48:09: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.88
+3/7/2022 19:48:14: [G_Auto 2] :  Store Text Value (Shared) for Daria Saville: aPoints = point: 0; games: 4; sets: 0 
+3/7/2022 19:48:14: [G_Auto 2] :  Store Text Value (Shared) for Daria Saville: aServing = serving:0
+3/7/2022 19:48:14: [G_Auto 2] :  Store Text Value (Shared) for Kamilla Rakhimova: bPoints = point: 0; games: 4; sets: 0 
+3/7/2022 19:48:14: [G_Auto 2] :  Store Text Value (Shared) for Kamilla Rakhimova: bServing = serving:2
+3/7/2022 19:48:14: [G_Auto 2] :  Store Value (Shared) for market: price = 1.51
+3/7/2022 19:48:14: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 51.73
+3/7/2022 19:48:14: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 50.75
+3/7/2022 19:48:14: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.09
+3/7/2022 19:48:14: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 102.48
+3/7/2022 19:48:14: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.99
+3/7/2022 19:48:14: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.51
+3/7/2022 19:48:14: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.88
+3/7/2022 19:48:44: [G_Auto 1] :  1 Automation Signals Cleared
+3/7/2022 19:50:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/7/2022 19:50:46: [G_Auto 1] :  € 9.52 Lay bet placed on Daria Saville at 1.84. Fully matched at 1.83.  Ref: 10135          ( Fill or kill bet with 15 seconds delay.   )
+3/7/2022 19:50:48: [G_Auto 2] :  Store Text Value (Shared) for Daria Saville: aPoints = point: 0; games: 4; sets: 0 
+3/7/2022 19:50:48: [G_Auto 2] :  Store Text Value (Shared) for Daria Saville: aServing = serving:1
+3/7/2022 19:50:48: [G_Auto 2] :  Store Text Value (Shared) for Kamilla Rakhimova: bPoints = point: 0; games: 5; sets: 0 
+3/7/2022 19:50:48: [G_Auto 2] :  Store Text Value (Shared) for Kamilla Rakhimova: bServing = serving:0
+3/7/2022 19:50:48: [G_Auto 2] :  Store Value (Shared) for market: price = 1.83
+3/7/2022 19:50:48: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 51.73
+3/7/2022 19:50:48: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 60.27
+3/7/2022 19:50:48: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.52
+3/7/2022 19:50:48: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 112
+3/7/2022 19:50:48: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.09
+3/7/2022 19:50:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.82
+3/7/2022 19:50:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.2
+3/7/2022 19:51:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/7/2022 19:52:32: [G_Auto 1] :  1 Automation Signals Cleared
+3/7/2022 19:53:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/7/2022 19:54:09: [G_Auto 1] :  Placed closure bet with greening on Daria Saville by Backing 11.17 at 1.56
+3/7/2022 19:54:11: [G_Auto 2] :  Store Text Value (Shared) for Daria Saville: aPoints = point: 0; games: 5; sets: 0 
+3/7/2022 19:54:11: [G_Auto 2] :  Store Text Value (Shared) for Daria Saville: aServing = serving:0
+3/7/2022 19:54:11: [G_Auto 2] :  Store Text Value (Shared) for Kamilla Rakhimova: bPoints = point: 0; games: 5; sets: 0 
+3/7/2022 19:54:11: [G_Auto 2] :  Store Text Value (Shared) for Kamilla Rakhimova: bServing = serving:2
+3/7/2022 19:54:11: [G_Auto 2] :  Store Value (Shared) for market: price = 1.56
+3/7/2022 19:54:11: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 62.9
+3/7/2022 19:54:11: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 60.27
+3/7/2022 19:54:11: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.17
+3/7/2022 19:54:11: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 123.17
+3/7/2022 19:54:11: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.63
+3/7/2022 19:54:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.58
+3/7/2022 19:54:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.72
+3/7/2022 19:54:41: [G_Auto 1] :  1 Automation Signals Cleared
+3/7/2022 19:56:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/7/2022 19:56:57: [G_Auto 1] :  € 27.59 Lay bet placed on Daria Saville at 1.29. Fully matched at 1.28.  Ref: 10150          ( Fill or kill bet with 15 seconds delay.   )
+3/7/2022 19:56:59: [G_Auto 2] :  Store Text Value (Shared) for Daria Saville: aPoints = point: 0; games: 6; sets: 0 
+3/7/2022 19:56:59: [G_Auto 2] :  Store Text Value (Shared) for Daria Saville: aServing = serving:1
+3/7/2022 19:56:59: [G_Auto 2] :  Store Text Value (Shared) for Kamilla Rakhimova: bPoints = point: 0; games: 5; sets: 0 
+3/7/2022 19:56:59: [G_Auto 2] :  Store Text Value (Shared) for Kamilla Rakhimova: bServing = serving:0
+3/7/2022 19:56:59: [G_Auto 2] :  Store Value (Shared) for market: price = 1.28
+3/7/2022 19:56:59: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 62.9
+3/7/2022 19:56:59: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 87.86
+3/7/2022 19:56:59: [G_Auto 2] :  Store Value (Shared) for market: stake = 27.59
+3/7/2022 19:56:59: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 150.76
+3/7/2022 19:56:59: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.85
+3/7/2022 19:56:59: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.27
+3/7/2022 19:56:59: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.6
+3/7/2022 19:57:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/7/2022 19:58:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/7/2022 19:59:09: [G_Auto 1] :  1 Automation Signals Cleared
+3/7/2022 20:00:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/7/2022 20:01:07: [G_Auto 1] :  Store Value (Shared) for Daria Saville: PRICE SET 2 = 1.17
+3/7/2022 20:01:07: [G_Auto 1] :  Alert: STORE PRICE AT SET 2 [ Daria Saville ]
+3/7/2022 20:01:07: [G_Auto 1] :  Automation Signal for market: VALID = 1
+3/7/2022 20:01:07: [G_Auto 1] :  Store Value (Shared) for Kamilla Rakhimova: PRICE SET 2 = 7.4
+3/7/2022 20:01:07: [G_Auto 1] :  Alert: STORE PRICE AT SET 2 [ Kamilla Rakhimova ]
+3/7/2022 20:01:07: [G_Auto 1] :  Automation Signal for market: VALID = 1
+3/7/2022 20:01:07: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 1.17
+3/7/2022 20:01:07: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 7.4
+3/7/2022 20:01:10: [G_Auto 1] :  Placed closure bet with greening on Daria Saville by Backing 30.45 at 1.16
+3/7/2022 20:01:12: [G_Auto 2] :  Store Text Value (Shared) for Daria Saville: aPoints = point: 0; games: 0; sets: 1 
+3/7/2022 20:01:12: [G_Auto 2] :  Store Text Value (Shared) for Daria Saville: aServing = serving:0
+3/7/2022 20:01:12: [G_Auto 2] :  Store Text Value (Shared) for Kamilla Rakhimova: bPoints = point: 0; games: 0; sets: 0 
+3/7/2022 20:01:12: [G_Auto 2] :  Store Text Value (Shared) for Kamilla Rakhimova: bServing = serving:2
+3/7/2022 20:01:12: [G_Auto 2] :  Store Value (Shared) for market: price = 1.16
+3/7/2022 20:01:12: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 93.35
+3/7/2022 20:01:12: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 87.86
+3/7/2022 20:01:12: [G_Auto 2] :  Store Value (Shared) for market: stake = 30.45
+3/7/2022 20:01:12: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 181.21
+3/7/2022 20:01:12: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.48
+3/7/2022 20:01:12: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.16
+3/7/2022 20:01:12: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 7
+3/7/2022 20:02:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/7/2022 20:03:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/7/2022 20:03:36: [G_Auto 1] :  2 Automation Signals Cleared
+3/7/2022 20:08:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/7/2022 20:09:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/7/2022 20:09:35: [G_Auto 1] :  1 Automation Signals Cleared
+3/7/2022 20:15:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/7/2022 20:15:40: [G_Auto 1] :  1 Automation Signals Cleared
+3/7/2022 20:17:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/7/2022 20:18:03: [G_Auto 1] :  € 26.67 Lay bet placed on Daria Saville at 1.3. Fully matched at 1.29.  Ref: 10177          ( Fill or kill bet with 15 seconds delay.   )
+3/7/2022 20:18:05: [G_Auto 2] :  Store Text Value (Shared) for Daria Saville: aPoints = point: 0; games: 1; sets: 1 
+3/7/2022 20:18:05: [G_Auto 2] :  Store Text Value (Shared) for Daria Saville: aServing = serving:1
+3/7/2022 20:18:05: [G_Auto 2] :  Store Text Value (Shared) for Kamilla Rakhimova: bPoints = point: 0; games: 2; sets: 0 
+3/7/2022 20:18:05: [G_Auto 2] :  Store Text Value (Shared) for Kamilla Rakhimova: bServing = serving:0
+3/7/2022 20:18:05: [G_Auto 2] :  Store Value (Shared) for market: price = 1.29
+3/7/2022 20:18:05: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 93.35
+3/7/2022 20:18:05: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 114.53
+3/7/2022 20:18:05: [G_Auto 2] :  Store Value (Shared) for market: stake = 26.67
+3/7/2022 20:18:05: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 207.88
+3/7/2022 20:18:05: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.69
+3/7/2022 20:18:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.28
+3/7/2022 20:18:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.4
+3/7/2022 20:18:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/7/2022 20:19:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/7/2022 20:20:15: [G_Auto 1] :  1 Automation Signals Cleared
+3/7/2022 20:23:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/7/2022 20:23:17: [G_Auto 1] :  Placed closure bet with greening on Daria Saville by Backing 28.67 at 1.2
+3/7/2022 20:23:19: [G_Auto 2] :  Store Text Value (Shared) for Daria Saville: aPoints = point: 0; games: 2; sets: 1 
+3/7/2022 20:23:19: [G_Auto 2] :  Store Text Value (Shared) for Daria Saville: aServing = serving:0
+3/7/2022 20:23:19: [G_Auto 2] :  Store Text Value (Shared) for Kamilla Rakhimova: bPoints = point: 0; games: 2; sets: 0 
+3/7/2022 20:23:19: [G_Auto 2] :  Store Text Value (Shared) for Kamilla Rakhimova: bServing = serving:2
+3/7/2022 20:23:19: [G_Auto 2] :  Store Value (Shared) for market: price = 1.2
+3/7/2022 20:23:19: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 122.02
+3/7/2022 20:23:19: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 114.53
+3/7/2022 20:23:19: [G_Auto 2] :  Store Value (Shared) for market: stake = 28.67
+3/7/2022 20:23:19: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 236.55
+3/7/2022 20:23:19: [G_Auto 2] :  Store Value (Shared) for market: pl = -7.49
+3/7/2022 20:23:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.22
+3/7/2022 20:23:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.7
+3/7/2022 20:24:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/7/2022 20:24:25: [G_Auto 1] :  1 Automation Signals Cleared
+3/7/2022 20:28:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/7/2022 20:30:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/7/2022 20:30:56: [G_Auto 1] :  1 Automation Signals Cleared
+3/7/2022 20:37:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/7/2022 20:38:52: [G_Auto 1] :  1 Automation Signals Cleared
+3/7/2022 20:44:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/7/2022 20:45:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/7/2022 20:46:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/7/2022 20:46:30: [G_Auto 1] :  1 Automation Signals Cleared
+3/7/2022 20:50:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/7/2022 20:51:34: [G_Auto 1] :  1 Automation Signals Cleared
+3/7/2022 20:56:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/7/2022 20:56:16:  Guardian has detected that the market is suspended
