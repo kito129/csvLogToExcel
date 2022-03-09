@@ -1,0 +1,327 @@
+3/8/2022 14:59:41: [G_Auto 1] :  Store Text Value (Shared) for Ramkumar Ramanathan: info = marketName: Ramanathan v L Broady - Match Odds; runnerA: Ramkumar Ramanathan; runnerB: Liam Broady 
+3/8/2022 14:59:41: [G_Auto 1] :  Store Value (Shared) for market: aId = 8173038
+3/8/2022 14:59:41: [G_Auto 1] :  Store Value (Shared) for market: bId = 5626816
+3/9/2022 03:58:29:  Guardian has detected that the market is in-play
+3/9/2022 03:58:29:  Guardian has detected that the market is suspended
+3/9/2022 03:58:31: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 4.2; bBsp: 1.31; volume: 768.56 
+3/9/2022 03:58:31: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 4.2; bBsp: 1.31; volume: 768.56 
+3/9/2022 03:58:31:  Guardian has detected that the market is now unsuspended
+3/9/2022 03:58:42: [G_Auto 2] :  0 Automation Signals Cleared
+3/9/2022 04:00:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 04:01:04: [G_Auto 2] :  € 29.63 Lay bet placed on Liam Broady at 1.27. Entirely unmatched when it initially reached the market.   Ref: 11007          ( Fill or kill bet with 15 seconds delay.   )
+3/9/2022 04:01:19: [G_Auto 2] :  € 29.63 unmatched bet (Ref:11007) was killed.
+3/9/2022 04:01:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 04:01:53: [G_Auto 2] :  1 Automation Signals Cleared
+3/9/2022 04:03:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 04:03:55: [G_Auto 2] :  1 Automation Signals Cleared
+3/9/2022 04:09:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 04:09:13: [G_Auto 2] :  € 25.81 Lay bet placed on Liam Broady at 1.31. Fully matched at 1.3.  Ref: 11014          ( Fill or kill bet with 15 seconds delay.   )
+3/9/2022 04:09:14: [G_Auto 1] :  Store Text Value (Shared) for Ramkumar Ramanathan: aPoints = point: 0; games: 2; sets: 0 
+3/9/2022 04:09:14: [G_Auto 1] :  Store Text Value (Shared) for Ramkumar Ramanathan: aServing = serving:0
+3/9/2022 04:09:14: [G_Auto 1] :  Store Text Value (Shared) for Liam Broady: bPoints = point: 0; games: 1; sets: 0 
+3/9/2022 04:09:14: [G_Auto 1] :  Store Text Value (Shared) for Liam Broady: bServing = serving:2
+3/9/2022 04:09:14: [G_Auto 1] :  Store Value (Shared) for market: price = 1.3
+3/9/2022 04:09:14: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 0
+3/9/2022 04:09:14: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 25.81
+3/9/2022 04:09:14: [G_Auto 1] :  Store Value (Shared) for market: stake = 25.81
+3/9/2022 04:09:14: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 25.81
+3/9/2022 04:09:14: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.2
+3/9/2022 04:09:14: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 4.5
+3/9/2022 04:09:14: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.3
+3/9/2022 04:10:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 04:10:39: [G_Auto 2] :  1 Automation Signals Cleared
+3/9/2022 04:12:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 04:12:26: [G_Auto 2] :  Placed closure bet with greening on Liam Broady by Backing 27.28 at 1.23
+3/9/2022 04:12:27: [G_Auto 1] :  Store Text Value (Shared) for Ramkumar Ramanathan: aPoints = point: 0; games: 2; sets: 0 
+3/9/2022 04:12:27: [G_Auto 1] :  Store Text Value (Shared) for Ramkumar Ramanathan: aServing = serving:1
+3/9/2022 04:12:27: [G_Auto 1] :  Store Text Value (Shared) for Liam Broady: bPoints = point: 0; games: 2; sets: 0 
+3/9/2022 04:12:27: [G_Auto 1] :  Store Text Value (Shared) for Liam Broady: bServing = serving:0
+3/9/2022 04:12:27: [G_Auto 1] :  Store Value (Shared) for market: price = 1.23
+3/9/2022 04:12:27: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 27.28
+3/9/2022 04:12:27: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 25.81
+3/9/2022 04:12:27: [G_Auto 1] :  Store Value (Shared) for market: stake = 27.28
+3/9/2022 04:12:27: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 53.09
+3/9/2022 04:12:27: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.47
+3/9/2022 04:12:27: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 5.4
+3/9/2022 04:12:27: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.23
+3/9/2022 04:13:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 04:13:32: [G_Auto 2] :  1 Automation Signals Cleared
+3/9/2022 04:16:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 04:16:35: [G_Auto 2] :  € 72.73 Lay bet placed on Liam Broady at 1.11. Fully matched at 1.11.  Ref: 11022          ( Fill or kill bet with 15 seconds delay.   )
+3/9/2022 04:16:36: [G_Auto 1] :  Store Text Value (Shared) for Ramkumar Ramanathan: aPoints = point: 0; games: 2; sets: 0 
+3/9/2022 04:16:36: [G_Auto 1] :  Store Text Value (Shared) for Ramkumar Ramanathan: aServing = serving:0
+3/9/2022 04:16:36: [G_Auto 1] :  Store Text Value (Shared) for Liam Broady: bPoints = point: 0; games: 3; sets: 0 
+3/9/2022 04:16:36: [G_Auto 1] :  Store Text Value (Shared) for Liam Broady: bServing = serving:2
+3/9/2022 04:16:36: [G_Auto 1] :  Store Value (Shared) for market: price = 1.11
+3/9/2022 04:16:36: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 27.28
+3/9/2022 04:16:36: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 98.54
+3/9/2022 04:16:36: [G_Auto 1] :  Store Value (Shared) for market: stake = 72.73
+3/9/2022 04:16:36: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 125.82
+3/9/2022 04:16:36: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.8
+3/9/2022 04:16:36: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 10
+3/9/2022 04:16:36: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.11
+3/9/2022 04:17:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 04:18:00: [G_Auto 2] :  1 Automation Signals Cleared
+3/9/2022 04:19:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 04:19:27: [G_Auto 2] :  Placed closure bet with greening on Liam Broady by Backing 75.45 at 1.07
+3/9/2022 04:19:27: [G_Auto 1] :  Store Text Value (Shared) for Ramkumar Ramanathan: aPoints = point: 0; games: 2; sets: 0 
+3/9/2022 04:19:27: [G_Auto 1] :  Store Text Value (Shared) for Ramkumar Ramanathan: aServing = serving:1
+3/9/2022 04:19:27: [G_Auto 1] :  Store Text Value (Shared) for Liam Broady: bPoints = point: 0; games: 4; sets: 0 
+3/9/2022 04:19:27: [G_Auto 1] :  Store Text Value (Shared) for Liam Broady: bServing = serving:0
+3/9/2022 04:19:27: [G_Auto 1] :  Store Value (Shared) for market: price = 1.07
+3/9/2022 04:19:27: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 102.73
+3/9/2022 04:19:27: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 98.54
+3/9/2022 04:19:27: [G_Auto 1] :  Store Value (Shared) for market: stake = 75.45
+3/9/2022 04:19:27: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 201.27
+3/9/2022 04:19:27: [G_Auto 1] :  Store Value (Shared) for market: pl = -4.19
+3/9/2022 04:19:27: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 12
+3/9/2022 04:19:27: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.07
+3/9/2022 04:19:46: [G_Auto 2] :  1 Automation Signals Cleared
+3/9/2022 04:23:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 04:24:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 04:25:00: [G_Auto 2] :  1 Automation Signals Cleared
+3/9/2022 04:25:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 04:26:04: [G_Auto 2] :  Store Value (Shared) for Ramkumar Ramanathan: PRICE SET 2 = 20
+3/9/2022 04:26:04: [G_Auto 2] :  Alert: STORE PRICE AT SET 2 [ Ramkumar Ramanathan ]
+3/9/2022 04:26:04: [G_Auto 2] :  Automation Signal for market: VALID = 1
+3/9/2022 04:26:04: [G_Auto 2] :  Store Value (Shared) for Liam Broady: PRICE SET 2 = 1.06
+3/9/2022 04:26:04: [G_Auto 2] :  Alert: STORE PRICE AT SET 2 [ Liam Broady ]
+3/9/2022 04:26:04: [G_Auto 2] :  Automation Signal for market: VALID = 1
+3/9/2022 04:26:05: [G_Auto 1] :  Store Value (Shared) for market: aFirstSetPrice = 20
+3/9/2022 04:26:05: [G_Auto 1] :  Store Value (Shared) for market: bFirstSetPrice = 1.06
+3/9/2022 04:26:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 04:27:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 04:28:07: [G_Auto 2] :  2 Automation Signals Cleared
+3/9/2022 04:36:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 04:37:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 04:38:23: [G_Auto 2] :  1 Automation Signals Cleared
+3/9/2022 04:40:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 04:41:28: [G_Auto 2] :  1 Automation Signals Cleared
+3/9/2022 04:44:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 04:45:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 04:46:09: [G_Auto 2] :  1 Automation Signals Cleared
+3/9/2022 04:52:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 04:52:54: [G_Auto 2] :  1 Automation Signals Cleared
+3/9/2022 04:54:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 04:54:44: [G_Auto 2] :  € 27.59 Lay bet placed on Liam Broady at 1.29. Fully matched at 1.29.  Ref: 11052          ( Fill or kill bet with 15 seconds delay.   )
+3/9/2022 04:54:44: [G_Auto 1] :  Store Text Value (Shared) for Ramkumar Ramanathan: aPoints = point: 0; games: 4; sets: 0 
+3/9/2022 04:54:44: [G_Auto 1] :  Store Text Value (Shared) for Ramkumar Ramanathan: aServing = serving:0
+3/9/2022 04:54:44: [G_Auto 1] :  Store Text Value (Shared) for Liam Broady: bPoints = point: 0; games: 1; sets: 1 
+3/9/2022 04:54:44: [G_Auto 1] :  Store Text Value (Shared) for Liam Broady: bServing = serving:2
+3/9/2022 04:54:44: [G_Auto 1] :  Store Value (Shared) for market: price = 1.29
+3/9/2022 04:54:44: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 102.73
+3/9/2022 04:54:44: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 126.13
+3/9/2022 04:54:44: [G_Auto 1] :  Store Value (Shared) for market: stake = 27.59
+3/9/2022 04:54:44: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 228.86
+3/9/2022 04:54:44: [G_Auto 1] :  Store Value (Shared) for market: pl = -4.62
+3/9/2022 04:54:44: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 4.7
+3/9/2022 04:54:44: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.27
+3/9/2022 04:55:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 04:56:19: [G_Auto 2] :  1 Automation Signals Cleared
+3/9/2022 04:58:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 04:58:22: [G_Auto 2] :  Placed closure bet with greening on Liam Broady by Backing 28.70 at 1.24
+3/9/2022 04:58:23: [G_Auto 1] :  Store Text Value (Shared) for Ramkumar Ramanathan: aPoints = point: 0; games: 4; sets: 0 
+3/9/2022 04:58:23: [G_Auto 1] :  Store Text Value (Shared) for Ramkumar Ramanathan: aServing = serving:1
+3/9/2022 04:58:23: [G_Auto 1] :  Store Text Value (Shared) for Liam Broady: bPoints = point: 0; games: 2; sets: 1 
+3/9/2022 04:58:23: [G_Auto 1] :  Store Text Value (Shared) for Liam Broady: bServing = serving:0
+3/9/2022 04:58:23: [G_Auto 1] :  Store Value (Shared) for market: price = 1.24
+3/9/2022 04:58:23: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 131.43
+3/9/2022 04:58:23: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 126.13
+3/9/2022 04:58:23: [G_Auto 1] :  Store Value (Shared) for market: stake = 28.7
+3/9/2022 04:58:23: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 257.56
+3/9/2022 04:58:23: [G_Auto 1] :  Store Value (Shared) for market: pl = -5.3
+3/9/2022 04:58:23: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 5.2
+3/9/2022 04:58:23: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.24
+3/9/2022 04:58:47: [G_Auto 2] :  1 Automation Signals Cleared
+3/9/2022 05:00:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 05:00:40: [G_Auto 2] :  € 26.67 Lay bet placed on Liam Broady at 1.3. Fully matched at 1.3.  Ref: 11061          ( Fill or kill bet with 15 seconds delay.   )
+3/9/2022 05:00:40: [G_Auto 1] :  Store Text Value (Shared) for Ramkumar Ramanathan: aPoints = point: 0; games: 5; sets: 0 
+3/9/2022 05:00:40: [G_Auto 1] :  Store Text Value (Shared) for Ramkumar Ramanathan: aServing = serving:0
+3/9/2022 05:00:40: [G_Auto 1] :  Store Text Value (Shared) for Liam Broady: bPoints = point: 0; games: 2; sets: 1 
+3/9/2022 05:00:40: [G_Auto 1] :  Store Text Value (Shared) for Liam Broady: bServing = serving:2
+3/9/2022 05:00:40: [G_Auto 1] :  Store Value (Shared) for market: price = 1.3
+3/9/2022 05:00:40: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 131.43
+3/9/2022 05:00:40: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 152.8
+3/9/2022 05:00:40: [G_Auto 1] :  Store Value (Shared) for market: stake = 26.67
+3/9/2022 05:00:40: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 284.23
+3/9/2022 05:00:40: [G_Auto 1] :  Store Value (Shared) for market: pl = -5.72
+3/9/2022 05:00:40: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 4.5
+3/9/2022 05:00:40: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.28
+3/9/2022 05:00:45: [G_Auto 1] :  Store Text Value (Shared) for Ramkumar Ramanathan: aPoints = point: 0; games: 5; sets: 0 
+3/9/2022 05:00:45: [G_Auto 1] :  Store Text Value (Shared) for Ramkumar Ramanathan: aServing = serving:0
+3/9/2022 05:00:45: [G_Auto 1] :  Store Text Value (Shared) for Liam Broady: bPoints = point: 0; games: 2; sets: 1 
+3/9/2022 05:00:45: [G_Auto 1] :  Store Text Value (Shared) for Liam Broady: bServing = serving:2
+3/9/2022 05:00:45: [G_Auto 1] :  Store Value (Shared) for market: price = 1.3
+3/9/2022 05:00:45: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 131.43
+3/9/2022 05:00:45: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 152.8
+3/9/2022 05:00:45: [G_Auto 1] :  Store Value (Shared) for market: stake = 26.67
+3/9/2022 05:00:45: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 284.23
+3/9/2022 05:00:45: [G_Auto 1] :  Store Value (Shared) for market: pl = -5.72
+3/9/2022 05:00:45: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 4.3
+3/9/2022 05:00:45: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.28
+3/9/2022 05:01:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 05:02:13: [G_Auto 2] :  1 Automation Signals Cleared
+3/9/2022 05:04:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 05:04:40: [G_Auto 2] :  Placed closure bet with greening on Liam Broady by Backing 27.30 at 1.27
+3/9/2022 05:04:40: [G_Auto 1] :  Store Text Value (Shared) for Ramkumar Ramanathan: aPoints = point: 0; games: 5; sets: 0 
+3/9/2022 05:04:40: [G_Auto 1] :  Store Text Value (Shared) for Ramkumar Ramanathan: aServing = serving:1
+3/9/2022 05:04:40: [G_Auto 1] :  Store Text Value (Shared) for Liam Broady: bPoints = point: 0; games: 3; sets: 1 
+3/9/2022 05:04:40: [G_Auto 1] :  Store Text Value (Shared) for Liam Broady: bServing = serving:0
+3/9/2022 05:04:40: [G_Auto 1] :  Store Value (Shared) for market: price = 1.27
+3/9/2022 05:04:40: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 158.73
+3/9/2022 05:04:40: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 152.8
+3/9/2022 05:04:40: [G_Auto 1] :  Store Value (Shared) for market: stake = 27.3
+3/9/2022 05:04:40: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 311.53
+3/9/2022 05:04:40: [G_Auto 1] :  Store Value (Shared) for market: pl = -5.93
+3/9/2022 05:04:40: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 4.6
+3/9/2022 05:04:40: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.26
+3/9/2022 05:04:45: [G_Auto 1] :  Store Text Value (Shared) for Ramkumar Ramanathan: aPoints = point: 0; games: 5; sets: 0 
+3/9/2022 05:04:45: [G_Auto 1] :  Store Text Value (Shared) for Ramkumar Ramanathan: aServing = serving:1
+3/9/2022 05:04:45: [G_Auto 1] :  Store Text Value (Shared) for Liam Broady: bPoints = point: 0; games: 3; sets: 1 
+3/9/2022 05:04:45: [G_Auto 1] :  Store Text Value (Shared) for Liam Broady: bServing = serving:0
+3/9/2022 05:04:45: [G_Auto 1] :  Store Value (Shared) for market: price = 1.27
+3/9/2022 05:04:45: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 158.73
+3/9/2022 05:04:45: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 152.8
+3/9/2022 05:04:45: [G_Auto 1] :  Store Value (Shared) for market: stake = 27.3
+3/9/2022 05:04:45: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 311.53
+3/9/2022 05:04:45: [G_Auto 1] :  Store Value (Shared) for market: pl = -5.93
+3/9/2022 05:04:45: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 4.6
+3/9/2022 05:04:45: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.29
+3/9/2022 05:05:09: [G_Auto 2] :  1 Automation Signals Cleared
+3/9/2022 05:07:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 05:07:38: [G_Auto 1] :  Store Value (Shared) for market: aSecondSetPrice = 4.2
+3/9/2022 05:07:38: [G_Auto 1] :  Store Value (Shared) for market: bSecondSetPrice = 1.31
+3/9/2022 05:07:41: [G_Auto 2] :  € 24.24 Lay bet placed on Liam Broady at 1.33. Fully matched at 1.33.  Ref: 11069          ( Fill or kill bet with 15 seconds delay.   )
+3/9/2022 05:07:41: [G_Auto 1] :  Store Text Value (Shared) for Ramkumar Ramanathan: aPoints = point: 0; games: 0; sets: 1 
+3/9/2022 05:07:41: [G_Auto 1] :  Store Text Value (Shared) for Ramkumar Ramanathan: aServing = serving:0
+3/9/2022 05:07:41: [G_Auto 1] :  Store Text Value (Shared) for Liam Broady: bPoints = point: 0; games: 0; sets: 1 
+3/9/2022 05:07:41: [G_Auto 1] :  Store Text Value (Shared) for Liam Broady: bServing = serving:2
+3/9/2022 05:07:41: [G_Auto 1] :  Store Value (Shared) for market: price = 1.33
+3/9/2022 05:07:41: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 158.73
+3/9/2022 05:07:41: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 177.04
+3/9/2022 05:07:41: [G_Auto 1] :  Store Value (Shared) for market: stake = 24.24
+3/9/2022 05:07:41: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 335.77
+3/9/2022 05:07:41: [G_Auto 1] :  Store Value (Shared) for market: pl = -6.3
+3/9/2022 05:07:41: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 4.2
+3/9/2022 05:07:41: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.31
+3/9/2022 05:07:47: [G_Auto 1] :  Store Text Value (Shared) for Ramkumar Ramanathan: aPoints = point: 0; games: 0; sets: 1 
+3/9/2022 05:07:47: [G_Auto 1] :  Store Text Value (Shared) for Ramkumar Ramanathan: aServing = serving:0
+3/9/2022 05:07:47: [G_Auto 1] :  Store Text Value (Shared) for Liam Broady: bPoints = point: 0; games: 0; sets: 1 
+3/9/2022 05:07:47: [G_Auto 1] :  Store Text Value (Shared) for Liam Broady: bServing = serving:2
+3/9/2022 05:07:47: [G_Auto 1] :  Store Value (Shared) for market: price = 1.33
+3/9/2022 05:07:47: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 158.73
+3/9/2022 05:07:47: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 177.04
+3/9/2022 05:07:47: [G_Auto 1] :  Store Value (Shared) for market: stake = 24.24
+3/9/2022 05:07:47: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 335.77
+3/9/2022 05:07:47: [G_Auto 1] :  Store Value (Shared) for market: pl = -6.49
+3/9/2022 05:07:47: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 4.2
+3/9/2022 05:07:47: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.31
+3/9/2022 05:08:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 05:09:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 05:09:41: [G_Auto 2] :  1 Automation Signals Cleared
+3/9/2022 05:12:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 05:12:58: [G_Auto 2] :  Placed closure bet with greening on Liam Broady by Backing 25.59 at 1.26
+3/9/2022 05:12:59: [G_Auto 1] :  Store Text Value (Shared) for Ramkumar Ramanathan: aPoints = point: 0; games: 0; sets: 1 
+3/9/2022 05:12:59: [G_Auto 1] :  Store Text Value (Shared) for Ramkumar Ramanathan: aServing = serving:1
+3/9/2022 05:12:59: [G_Auto 1] :  Store Text Value (Shared) for Liam Broady: bPoints = point: 0; games: 1; sets: 1 
+3/9/2022 05:12:59: [G_Auto 1] :  Store Text Value (Shared) for Liam Broady: bServing = serving:0
+3/9/2022 05:12:59: [G_Auto 1] :  Store Value (Shared) for market: price = 1.26
+3/9/2022 05:12:59: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 184.32
+3/9/2022 05:12:59: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 177.04
+3/9/2022 05:12:59: [G_Auto 1] :  Store Value (Shared) for market: stake = 25.59
+3/9/2022 05:12:59: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 361.36
+3/9/2022 05:12:59: [G_Auto 1] :  Store Value (Shared) for market: pl = -7.28
+3/9/2022 05:12:59: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 4.5
+3/9/2022 05:12:59: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.26
+3/9/2022 05:13:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 05:14:25: [G_Auto 2] :  1 Automation Signals Cleared
+3/9/2022 05:17:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 05:18:21: [G_Auto 2] :  1 Automation Signals Cleared
+3/9/2022 05:21:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 05:22:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 05:22:56: [G_Auto 2] :  1 Automation Signals Cleared
+3/9/2022 05:25:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 05:25:28: [G_Auto 2] :  € 19.51 Lay bet placed on Liam Broady at 1.41. Entirely unmatched when it initially reached the market.   Ref: 11078          ( Fill or kill bet with 15 seconds delay.   )
+3/9/2022 05:25:43: [G_Auto 2] :  € 19.51 unmatched bet (Ref:11078) was killed.
+3/9/2022 05:26:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 05:26:28: [G_Auto 2] :  1 Automation Signals Cleared
+3/9/2022 05:28:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 05:29:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 05:30:36: [G_Auto 2] :  1 Automation Signals Cleared
+3/9/2022 05:32:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 05:32:17: [G_Auto 2] :  € 17.02 Lay bet placed on Liam Broady at 1.47. Fully matched at 1.46.  Ref: 11079          ( Fill or kill bet with 15 seconds delay.   )
+3/9/2022 05:32:18: [G_Auto 1] :  Store Text Value (Shared) for Ramkumar Ramanathan: aPoints = point: 0; games: 3; sets: 1 
+3/9/2022 05:32:18: [G_Auto 1] :  Store Text Value (Shared) for Ramkumar Ramanathan: aServing = serving:0
+3/9/2022 05:32:18: [G_Auto 1] :  Store Text Value (Shared) for Liam Broady: bPoints = point: 0; games: 3; sets: 1 
+3/9/2022 05:32:18: [G_Auto 1] :  Store Text Value (Shared) for Liam Broady: bServing = serving:2
+3/9/2022 05:32:18: [G_Auto 1] :  Store Value (Shared) for market: price = 1.46
+3/9/2022 05:32:18: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 184.32
+3/9/2022 05:32:18: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 194.06
+3/9/2022 05:32:18: [G_Auto 1] :  Store Value (Shared) for market: stake = 17.02
+3/9/2022 05:32:18: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 378.38
+3/9/2022 05:32:18: [G_Auto 1] :  Store Value (Shared) for market: pl = -7.51
+3/9/2022 05:32:18: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.2
+3/9/2022 05:32:18: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.46
+3/9/2022 05:32:57: [G_Auto 2] :  1 Automation Signals Cleared
+3/9/2022 05:36:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 05:36:35: [G_Auto 2] :  Placed closure bet with greening on Liam Broady by Backing 18.68 at 1.33
+3/9/2022 05:36:35: [G_Auto 1] :  Store Text Value (Shared) for Ramkumar Ramanathan: aPoints = point: 0; games: 3; sets: 1 
+3/9/2022 05:36:35: [G_Auto 1] :  Store Text Value (Shared) for Ramkumar Ramanathan: aServing = serving:1
+3/9/2022 05:36:35: [G_Auto 1] :  Store Text Value (Shared) for Liam Broady: bPoints = point: 0; games: 4; sets: 1 
+3/9/2022 05:36:35: [G_Auto 1] :  Store Text Value (Shared) for Liam Broady: bServing = serving:0
+3/9/2022 05:36:35: [G_Auto 1] :  Store Value (Shared) for market: price = 1.33
+3/9/2022 05:36:35: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 203
+3/9/2022 05:36:35: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 194.06
+3/9/2022 05:36:35: [G_Auto 1] :  Store Value (Shared) for market: stake = 18.68
+3/9/2022 05:36:35: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 397.06
+3/9/2022 05:36:35: [G_Auto 1] :  Store Value (Shared) for market: pl = -8.94
+3/9/2022 05:36:35: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 4.1
+3/9/2022 05:36:35: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.33
+3/9/2022 05:36:40: [G_Auto 1] :  Store Text Value (Shared) for Ramkumar Ramanathan: aPoints = point: 0; games: 3; sets: 1 
+3/9/2022 05:36:40: [G_Auto 1] :  Store Text Value (Shared) for Ramkumar Ramanathan: aServing = serving:1
+3/9/2022 05:36:40: [G_Auto 1] :  Store Text Value (Shared) for Liam Broady: bPoints = point: 0; games: 4; sets: 1 
+3/9/2022 05:36:40: [G_Auto 1] :  Store Text Value (Shared) for Liam Broady: bServing = serving:0
+3/9/2022 05:36:40: [G_Auto 1] :  Store Value (Shared) for market: price = 1.33
+3/9/2022 05:36:40: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 203
+3/9/2022 05:36:40: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 194.06
+3/9/2022 05:36:40: [G_Auto 1] :  Store Value (Shared) for market: stake = 18.68
+3/9/2022 05:36:40: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 397.06
+3/9/2022 05:36:40: [G_Auto 1] :  Store Value (Shared) for market: pl = -8.94
+3/9/2022 05:36:40: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.9
+3/9/2022 05:36:40: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.35
+3/9/2022 05:37:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 05:38:16: [G_Auto 2] :  1 Automation Signals Cleared
+3/9/2022 05:40:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 05:40:48: [G_Auto 2] :  € 16.00 Lay bet placed on Liam Broady at 1.5. Fully matched at 1.49.  Ref: 11083          ( Fill or kill bet with 15 seconds delay.   )
+3/9/2022 05:40:49: [G_Auto 1] :  Store Text Value (Shared) for Ramkumar Ramanathan: aPoints = point: 0; games: 4; sets: 1 
+3/9/2022 05:40:49: [G_Auto 1] :  Store Text Value (Shared) for Ramkumar Ramanathan: aServing = serving:0
+3/9/2022 05:40:49: [G_Auto 1] :  Store Text Value (Shared) for Liam Broady: bPoints = point: 0; games: 4; sets: 1 
+3/9/2022 05:40:49: [G_Auto 1] :  Store Text Value (Shared) for Liam Broady: bServing = serving:2
+3/9/2022 05:40:49: [G_Auto 1] :  Store Value (Shared) for market: price = 1.49
+3/9/2022 05:40:49: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 203
+3/9/2022 05:40:49: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 210.06
+3/9/2022 05:40:49: [G_Auto 1] :  Store Value (Shared) for market: stake = 16
+3/9/2022 05:40:49: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 413.06
+3/9/2022 05:40:49: [G_Auto 1] :  Store Value (Shared) for market: pl = -9.05
+3/9/2022 05:40:49: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.1
+3/9/2022 05:40:49: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.49
+3/9/2022 05:41:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 05:41:38: [G_Auto 2] :  1 Automation Signals Cleared
+3/9/2022 05:47:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 05:47:36: [G_Auto 2] :  Placed closure bet with greening on Liam Broady by Backing 17.28 at 1.38
+3/9/2022 05:47:36: [G_Auto 1] :  Store Text Value (Shared) for Ramkumar Ramanathan: aPoints = point: 0; games: 4; sets: 1 
+3/9/2022 05:47:36: [G_Auto 1] :  Store Text Value (Shared) for Ramkumar Ramanathan: aServing = serving:1
+3/9/2022 05:47:36: [G_Auto 1] :  Store Text Value (Shared) for Liam Broady: bPoints = point: 0; games: 5; sets: 1 
+3/9/2022 05:47:36: [G_Auto 1] :  Store Text Value (Shared) for Liam Broady: bServing = serving:0
+3/9/2022 05:47:36: [G_Auto 1] :  Store Value (Shared) for market: price = 1.38
+3/9/2022 05:47:36: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 220.28
+3/9/2022 05:47:36: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 210.06
+3/9/2022 05:47:36: [G_Auto 1] :  Store Value (Shared) for market: stake = 17.28
+3/9/2022 05:47:36: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 430.34
+3/9/2022 05:47:36: [G_Auto 1] :  Store Value (Shared) for market: pl = -10.22
+3/9/2022 05:47:36: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.5
+3/9/2022 05:47:36: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.4
+3/9/2022 05:48:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 05:49:16: [G_Auto 2] :  1 Automation Signals Cleared
+3/9/2022 05:51:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 05:51:19:  Guardian has detected that the market is suspended
