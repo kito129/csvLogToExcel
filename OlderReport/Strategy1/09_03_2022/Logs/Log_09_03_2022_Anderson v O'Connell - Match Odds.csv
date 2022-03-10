@@ -1,0 +1,513 @@
+3/8/2022 14:59:40: [G_Auto 1] :  Store Text Value (Shared) for Kevin Anderson: info = marketName: Anderson v O'Connell - Match Odds; runnerA: Kevin Anderson; runnerB: Christopher O'Connell 
+3/8/2022 14:59:40: [G_Auto 1] :  Store Value (Shared) for market: aId = 2519549
+3/8/2022 14:59:40: [G_Auto 1] :  Store Value (Shared) for market: bId = 8942164
+3/9/2022 01:42:48:  Guardian has detected that the market is in-play
+3/9/2022 01:42:48:  Guardian has detected that the market is suspended
+3/9/2022 01:42:50: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 2.2; bBsp: 1.82; volume: 1599.91 
+3/9/2022 01:42:50: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 2.2; bBsp: 1.82; volume: 1599.91 
+3/9/2022 01:42:50:  Guardian has detected that the market is now unsuspended
+3/9/2022 01:42:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 01:42:59: [G_Auto 2] :  1 Automation Signals Cleared
+3/9/2022 01:45:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 01:45:45: [G_Auto 2] :  € 13.79 Lay bet placed on Kevin Anderson at 1.58. Entirely unmatched when it initially reached the market.   Ref: 10880          ( Fill or kill bet with 15 seconds delay.   )
+3/9/2022 01:45:50: [G_Auto 2] :  € 13.79 of unmatched bet (Ref:10880) was filled before remainder was killed.
+3/9/2022 01:45:50: [G_Auto 1] :  Store Text Value (Shared) for Kevin Anderson: aPoints = point: 0; games: 1; sets: 0 
+3/9/2022 01:45:50: [G_Auto 1] :  Store Text Value (Shared) for Kevin Anderson: aServing = serving:1
+3/9/2022 01:45:50: [G_Auto 1] :  Store Text Value (Shared) for Christopher O'Connell: bPoints = point: 0; games: 0; sets: 0 
+3/9/2022 01:45:50: [G_Auto 1] :  Store Text Value (Shared) for Christopher O'Connell: bServing = serving:0
+3/9/2022 01:45:50: [G_Auto 1] :  Store Value (Shared) for market: price = 1.58
+3/9/2022 01:45:50: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 0
+3/9/2022 01:45:50: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 13.79
+3/9/2022 01:45:50: [G_Auto 1] :  Store Value (Shared) for market: stake = 13.79
+3/9/2022 01:45:50: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 13.79
+3/9/2022 01:45:50: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.18
+3/9/2022 01:45:50: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.59
+3/9/2022 01:45:50: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.7
+3/9/2022 01:46:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 01:46:48: [G_Auto 2] :  1 Automation Signals Cleared
+3/9/2022 01:50:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 01:50:31: [G_Auto 2] :  Placed closure bet with greening on Kevin Anderson by Backing 14.43 at 1.51
+3/9/2022 01:50:34: [G_Auto 1] :  Store Text Value (Shared) for Kevin Anderson: aPoints = point: 0; games: 2; sets: 0 
+3/9/2022 01:50:34: [G_Auto 1] :  Store Text Value (Shared) for Kevin Anderson: aServing = serving:0
+3/9/2022 01:50:34: [G_Auto 1] :  Store Text Value (Shared) for Christopher O'Connell: bPoints = point: 0; games: 0; sets: 0 
+3/9/2022 01:50:34: [G_Auto 1] :  Store Text Value (Shared) for Christopher O'Connell: bServing = serving:2
+3/9/2022 01:50:34: [G_Auto 1] :  Store Value (Shared) for market: price = 1.51
+3/9/2022 01:50:34: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 14.43
+3/9/2022 01:50:34: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 13.79
+3/9/2022 01:50:34: [G_Auto 1] :  Store Value (Shared) for market: stake = 14.43
+3/9/2022 01:50:34: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 28.22
+3/9/2022 01:50:34: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.64
+3/9/2022 01:50:34: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.52
+3/9/2022 01:50:34: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.88
+3/9/2022 01:51:11: [G_Auto 2] :  1 Automation Signals Cleared
+3/9/2022 01:58:06: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 01:58:20: [G_Auto 2] :  € 15.38 Lay bet placed on Kevin Anderson at 1.52. Fully matched at 1.52.  Ref: 10893          ( Fill or kill bet with 15 seconds delay.   )
+3/9/2022 01:58:23: [G_Auto 1] :  Store Text Value (Shared) for Kevin Anderson: aPoints = point: 0; games: 2; sets: 0 
+3/9/2022 01:58:23: [G_Auto 1] :  Store Text Value (Shared) for Kevin Anderson: aServing = serving:1
+3/9/2022 01:58:23: [G_Auto 1] :  Store Text Value (Shared) for Christopher O'Connell: bPoints = point: 0; games: 1; sets: 0 
+3/9/2022 01:58:23: [G_Auto 1] :  Store Text Value (Shared) for Christopher O'Connell: bServing = serving:0
+3/9/2022 01:58:23: [G_Auto 1] :  Store Value (Shared) for market: price = 1.52
+3/9/2022 01:58:23: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 14.43
+3/9/2022 01:58:23: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 29.17
+3/9/2022 01:58:23: [G_Auto 1] :  Store Value (Shared) for market: stake = 15.38
+3/9/2022 01:58:23: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 43.6
+3/9/2022 01:58:23: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.84
+3/9/2022 01:58:23: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.52
+3/9/2022 01:58:23: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.92
+3/9/2022 01:59:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 02:00:01: [G_Auto 2] :  1 Automation Signals Cleared
+3/9/2022 02:04:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 02:04:30: [G_Auto 2] :  Placed closure bet with greening on Kevin Anderson by Backing 15.79 at 1.48
+3/9/2022 02:04:32: [G_Auto 1] :  Store Text Value (Shared) for Kevin Anderson: aPoints = point: 0; games: 3; sets: 0 
+3/9/2022 02:04:32: [G_Auto 1] :  Store Text Value (Shared) for Kevin Anderson: aServing = serving:0
+3/9/2022 02:04:32: [G_Auto 1] :  Store Text Value (Shared) for Christopher O'Connell: bPoints = point: 0; games: 1; sets: 0 
+3/9/2022 02:04:32: [G_Auto 1] :  Store Text Value (Shared) for Christopher O'Connell: bServing = serving:2
+3/9/2022 02:04:32: [G_Auto 1] :  Store Value (Shared) for market: price = 1.48
+3/9/2022 02:04:32: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 30.22
+3/9/2022 02:04:32: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 29.17
+3/9/2022 02:04:32: [G_Auto 1] :  Store Value (Shared) for market: stake = 15.79
+3/9/2022 02:04:32: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 59.39
+3/9/2022 02:04:32: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.06
+3/9/2022 02:04:32: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.52
+3/9/2022 02:04:32: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.05
+3/9/2022 02:05:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 02:05:25: [G_Auto 2] :  1 Automation Signals Cleared
+3/9/2022 02:07:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 02:07:52: [G_Auto 2] :  € 14.81 Lay bet placed on Kevin Anderson at 1.54. Fully matched at 1.54.  Ref: 10899          ( Fill or kill bet with 15 seconds delay.   )
+3/9/2022 02:07:55: [G_Auto 1] :  Store Text Value (Shared) for Kevin Anderson: aPoints = point: 0; games: 3; sets: 0 
+3/9/2022 02:07:55: [G_Auto 1] :  Store Text Value (Shared) for Kevin Anderson: aServing = serving:1
+3/9/2022 02:07:55: [G_Auto 1] :  Store Text Value (Shared) for Christopher O'Connell: bPoints = point: 0; games: 2; sets: 0 
+3/9/2022 02:07:55: [G_Auto 1] :  Store Text Value (Shared) for Christopher O'Connell: bServing = serving:0
+3/9/2022 02:07:55: [G_Auto 1] :  Store Value (Shared) for market: price = 1.54
+3/9/2022 02:07:55: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 30.22
+3/9/2022 02:07:55: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 43.98
+3/9/2022 02:07:55: [G_Auto 1] :  Store Value (Shared) for market: stake = 14.81
+3/9/2022 02:07:55: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 74.2
+3/9/2022 02:07:55: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.25
+3/9/2022 02:07:55: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.49
+3/9/2022 02:07:55: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.86
+3/9/2022 02:08:00: [G_Auto 1] :  Store Text Value (Shared) for Kevin Anderson: aPoints = point: 0; games: 3; sets: 0 
+3/9/2022 02:08:00: [G_Auto 1] :  Store Text Value (Shared) for Kevin Anderson: aServing = serving:1
+3/9/2022 02:08:00: [G_Auto 1] :  Store Text Value (Shared) for Christopher O'Connell: bPoints = point: 0; games: 2; sets: 0 
+3/9/2022 02:08:00: [G_Auto 1] :  Store Text Value (Shared) for Christopher O'Connell: bServing = serving:0
+3/9/2022 02:08:00: [G_Auto 1] :  Store Value (Shared) for market: price = 1.54
+3/9/2022 02:08:00: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 30.22
+3/9/2022 02:08:00: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 43.98
+3/9/2022 02:08:00: [G_Auto 1] :  Store Value (Shared) for market: stake = 14.81
+3/9/2022 02:08:00: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 74.2
+3/9/2022 02:08:00: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.25
+3/9/2022 02:08:00: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.49
+3/9/2022 02:08:00: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.86
+3/9/2022 02:08:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 02:09:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 02:09:44: [G_Auto 2] :  1 Automation Signals Cleared
+3/9/2022 02:12:06: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 02:12:20: [G_Auto 2] :  Placed closure bet with greening on Kevin Anderson by Backing 15.73 at 1.45
+3/9/2022 02:12:22: [G_Auto 1] :  Store Text Value (Shared) for Kevin Anderson: aPoints = point: 0; games: 4; sets: 0 
+3/9/2022 02:12:22: [G_Auto 1] :  Store Text Value (Shared) for Kevin Anderson: aServing = serving:0
+3/9/2022 02:12:22: [G_Auto 1] :  Store Text Value (Shared) for Christopher O'Connell: bPoints = point: 0; games: 2; sets: 0 
+3/9/2022 02:12:22: [G_Auto 1] :  Store Text Value (Shared) for Christopher O'Connell: bServing = serving:2
+3/9/2022 02:12:22: [G_Auto 1] :  Store Value (Shared) for market: price = 1.45
+3/9/2022 02:12:22: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 45.95
+3/9/2022 02:12:22: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 43.98
+3/9/2022 02:12:22: [G_Auto 1] :  Store Value (Shared) for market: stake = 15.73
+3/9/2022 02:12:22: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 89.93
+3/9/2022 02:12:22: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.98
+3/9/2022 02:12:22: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.46
+3/9/2022 02:12:22: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.2
+3/9/2022 02:12:28: [G_Auto 1] :  Store Text Value (Shared) for Kevin Anderson: aPoints = point: 0; games: 4; sets: 0 
+3/9/2022 02:12:28: [G_Auto 1] :  Store Text Value (Shared) for Kevin Anderson: aServing = serving:0
+3/9/2022 02:12:28: [G_Auto 1] :  Store Text Value (Shared) for Christopher O'Connell: bPoints = point: 0; games: 2; sets: 0 
+3/9/2022 02:12:28: [G_Auto 1] :  Store Text Value (Shared) for Christopher O'Connell: bServing = serving:2
+3/9/2022 02:12:28: [G_Auto 1] :  Store Value (Shared) for market: price = 1.45
+3/9/2022 02:12:28: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 45.95
+3/9/2022 02:12:28: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 43.98
+3/9/2022 02:12:28: [G_Auto 1] :  Store Value (Shared) for market: stake = 15.73
+3/9/2022 02:12:28: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 89.93
+3/9/2022 02:12:28: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.98
+3/9/2022 02:12:28: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.46
+3/9/2022 02:12:28: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.15
+3/9/2022 02:12:44: [G_Auto 2] :  1 Automation Signals Cleared
+3/9/2022 02:15:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 02:15:31: [G_Auto 2] :  € 17.02 Lay bet placed on Kevin Anderson at 1.47. Fully matched at 1.47.  Ref: 10905          ( Fill or kill bet with 15 seconds delay.   )
+3/9/2022 02:15:34: [G_Auto 1] :  Store Text Value (Shared) for Kevin Anderson: aPoints = point: 0; games: 4; sets: 0 
+3/9/2022 02:15:34: [G_Auto 1] :  Store Text Value (Shared) for Kevin Anderson: aServing = serving:1
+3/9/2022 02:15:34: [G_Auto 1] :  Store Text Value (Shared) for Christopher O'Connell: bPoints = point: 0; games: 3; sets: 0 
+3/9/2022 02:15:34: [G_Auto 1] :  Store Text Value (Shared) for Christopher O'Connell: bServing = serving:0
+3/9/2022 02:15:34: [G_Auto 1] :  Store Value (Shared) for market: price = 1.47
+3/9/2022 02:15:34: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 45.95
+3/9/2022 02:15:34: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 61
+3/9/2022 02:15:34: [G_Auto 1] :  Store Value (Shared) for market: stake = 17.02
+3/9/2022 02:15:34: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 106.95
+3/9/2022 02:15:34: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.21
+3/9/2022 02:15:34: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.47
+3/9/2022 02:15:34: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.1
+3/9/2022 02:16:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 02:16:56: [G_Auto 2] :  1 Automation Signals Cleared
+3/9/2022 02:18:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 02:18:48: [G_Auto 2] :  Placed closure bet with greening on Kevin Anderson by Backing 18.13 at 1.38
+3/9/2022 02:18:50: [G_Auto 1] :  Store Text Value (Shared) for Kevin Anderson: aPoints = point: 0; games: 5; sets: 0 
+3/9/2022 02:18:50: [G_Auto 1] :  Store Text Value (Shared) for Kevin Anderson: aServing = serving:0
+3/9/2022 02:18:50: [G_Auto 1] :  Store Text Value (Shared) for Christopher O'Connell: bPoints = point: 0; games: 3; sets: 0 
+3/9/2022 02:18:50: [G_Auto 1] :  Store Text Value (Shared) for Christopher O'Connell: bServing = serving:2
+3/9/2022 02:18:50: [G_Auto 1] :  Store Value (Shared) for market: price = 1.38
+3/9/2022 02:18:50: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 64.08
+3/9/2022 02:18:50: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 61
+3/9/2022 02:18:50: [G_Auto 1] :  Store Value (Shared) for market: stake = 18.13
+3/9/2022 02:18:50: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 125.08
+3/9/2022 02:18:50: [G_Auto 1] :  Store Value (Shared) for market: pl = -3.09
+3/9/2022 02:18:50: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.38
+3/9/2022 02:18:50: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.6
+3/9/2022 02:19:03: [G_Auto 2] :  1 Automation Signals Cleared
+3/9/2022 02:22:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 02:22:27: [G_Auto 1] :  Store Value (Shared) for market: aFirstSetPrice = 1.28
+3/9/2022 02:22:27: [G_Auto 1] :  Store Value (Shared) for market: bFirstSetPrice = 4.6
+3/9/2022 02:22:27: [G_Auto 2] :  Store Value (Shared) for Kevin Anderson: PRICE SET 2 = 1.28
+3/9/2022 02:22:27: [G_Auto 2] :  Alert: STORE PRICE AT SET 2 [ Kevin Anderson ]
+3/9/2022 02:22:27: [G_Auto 2] :  Automation Signal for market: VALID = 1
+3/9/2022 02:22:27: [G_Auto 2] :  Store Value (Shared) for Christopher O'Connell: PRICE SET 2 = 4.6
+3/9/2022 02:22:27: [G_Auto 2] :  Alert: STORE PRICE AT SET 2 [ Christopher O'Connell ]
+3/9/2022 02:22:27: [G_Auto 2] :  Automation Signal for market: VALID = 1
+3/9/2022 02:22:30: [G_Auto 2] :  € 26.67 Lay bet placed on Kevin Anderson at 1.3. Fully matched at 1.29.  Ref: 10911          ( Fill or kill bet with 15 seconds delay.   )
+3/9/2022 02:22:32: [G_Auto 1] :  Store Text Value (Shared) for Kevin Anderson: aPoints = point: 0; games: 0; sets: 1 
+3/9/2022 02:22:32: [G_Auto 1] :  Store Text Value (Shared) for Kevin Anderson: aServing = serving:1
+3/9/2022 02:22:32: [G_Auto 1] :  Store Text Value (Shared) for Christopher O'Connell: bPoints = point: 0; games: 0; sets: 0 
+3/9/2022 02:22:32: [G_Auto 1] :  Store Text Value (Shared) for Christopher O'Connell: bServing = serving:0
+3/9/2022 02:22:32: [G_Auto 1] :  Store Value (Shared) for market: price = 1.29
+3/9/2022 02:22:32: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 64.08
+3/9/2022 02:22:32: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 87.67
+3/9/2022 02:22:32: [G_Auto 1] :  Store Value (Shared) for market: stake = 26.67
+3/9/2022 02:22:32: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 151.75
+3/9/2022 02:22:32: [G_Auto 1] :  Store Value (Shared) for market: pl = -3.72
+3/9/2022 02:22:32: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.26
+3/9/2022 02:22:32: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.6
+3/9/2022 02:22:37: [G_Auto 1] :  Store Text Value (Shared) for Kevin Anderson: aPoints = point: 0; games: 0; sets: 1 
+3/9/2022 02:22:37: [G_Auto 1] :  Store Text Value (Shared) for Kevin Anderson: aServing = serving:1
+3/9/2022 02:22:37: [G_Auto 1] :  Store Text Value (Shared) for Christopher O'Connell: bPoints = point: 0; games: 0; sets: 0 
+3/9/2022 02:22:37: [G_Auto 1] :  Store Text Value (Shared) for Christopher O'Connell: bServing = serving:0
+3/9/2022 02:22:37: [G_Auto 1] :  Store Value (Shared) for market: price = 1.29
+3/9/2022 02:22:37: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 64.08
+3/9/2022 02:22:37: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 87.67
+3/9/2022 02:22:37: [G_Auto 1] :  Store Value (Shared) for market: stake = 26.67
+3/9/2022 02:22:37: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 151.75
+3/9/2022 02:22:37: [G_Auto 1] :  Store Value (Shared) for market: pl = -3.29
+3/9/2022 02:22:37: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.29
+3/9/2022 02:22:37: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.6
+3/9/2022 02:23:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 02:24:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 02:24:37: [G_Auto 2] :  2 Automation Signals Cleared
+3/9/2022 02:28:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 02:28:37: [G_Auto 2] :  Placed closure bet with greening on Kevin Anderson by Backing 20.73 at 1.66
+3/9/2022 02:28:39: [G_Auto 1] :  Store Text Value (Shared) for Kevin Anderson: aPoints = point: 0; games: 0; sets: 1 
+3/9/2022 02:28:39: [G_Auto 1] :  Store Text Value (Shared) for Kevin Anderson: aServing = serving:0
+3/9/2022 02:28:39: [G_Auto 1] :  Store Text Value (Shared) for Christopher O'Connell: bPoints = point: 0; games: 1; sets: 0 
+3/9/2022 02:28:39: [G_Auto 1] :  Store Text Value (Shared) for Christopher O'Connell: bServing = serving:2
+3/9/2022 02:28:39: [G_Auto 1] :  Store Value (Shared) for market: price = 1.66
+3/9/2022 02:28:39: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 84.81
+3/9/2022 02:28:39: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 87.67
+3/9/2022 02:28:39: [G_Auto 1] :  Store Value (Shared) for market: stake = 20.73
+3/9/2022 02:28:39: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 172.48
+3/9/2022 02:28:39: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.8
+3/9/2022 02:28:39: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.66
+3/9/2022 02:28:39: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.5
+3/9/2022 02:29:25: [G_Auto 2] :  1 Automation Signals Cleared
+3/9/2022 02:33:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 02:33:41: [G_Auto 2] :  € 10.81 Lay bet placed on Kevin Anderson at 1.74. Entirely unmatched when it initially reached the market.   Ref: 10923          ( Fill or kill bet with 15 seconds delay.   )
+3/9/2022 02:33:47: [G_Auto 2] :  € 10.81 of unmatched bet (Ref:10923) was filled before remainder was killed.
+3/9/2022 02:33:47: [G_Auto 1] :  Store Text Value (Shared) for Kevin Anderson: aPoints = point: 0; games: 0; sets: 1 
+3/9/2022 02:33:47: [G_Auto 1] :  Store Text Value (Shared) for Kevin Anderson: aServing = serving:1
+3/9/2022 02:33:47: [G_Auto 1] :  Store Text Value (Shared) for Christopher O'Connell: bPoints = point: 0; games: 2; sets: 0 
+3/9/2022 02:33:47: [G_Auto 1] :  Store Text Value (Shared) for Christopher O'Connell: bServing = serving:0
+3/9/2022 02:33:47: [G_Auto 1] :  Store Value (Shared) for market: price = 1.74
+3/9/2022 02:33:47: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 84.81
+3/9/2022 02:33:47: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 98.48
+3/9/2022 02:33:47: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.81
+3/9/2022 02:33:47: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 183.29
+3/9/2022 02:33:47: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.69
+3/9/2022 02:33:47: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.76
+3/9/2022 02:33:47: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.3
+3/9/2022 02:34:09: [G_Auto 2] :  1 Automation Signals Cleared
+3/9/2022 02:38:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 02:38:18: [G_Auto 2] :  Placed closure bet with greening on Kevin Anderson by Backing 11.13 at 1.69
+3/9/2022 02:38:20: [G_Auto 1] :  Store Text Value (Shared) for Kevin Anderson: aPoints = point: 0; games: 1; sets: 1 
+3/9/2022 02:38:20: [G_Auto 1] :  Store Text Value (Shared) for Kevin Anderson: aServing = serving:0
+3/9/2022 02:38:20: [G_Auto 1] :  Store Text Value (Shared) for Christopher O'Connell: bPoints = point: 0; games: 2; sets: 0 
+3/9/2022 02:38:20: [G_Auto 1] :  Store Text Value (Shared) for Christopher O'Connell: bServing = serving:2
+3/9/2022 02:38:20: [G_Auto 1] :  Store Value (Shared) for market: price = 1.69
+3/9/2022 02:38:20: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 95.94
+3/9/2022 02:38:20: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 98.48
+3/9/2022 02:38:20: [G_Auto 1] :  Store Value (Shared) for market: stake = 11.13
+3/9/2022 02:38:20: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 194.42
+3/9/2022 02:38:20: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.49
+3/9/2022 02:38:20: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.7
+3/9/2022 02:38:20: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.42
+3/9/2022 02:38:25: [G_Auto 1] :  Store Text Value (Shared) for Kevin Anderson: aPoints = point: 0; games: 1; sets: 1 
+3/9/2022 02:38:25: [G_Auto 1] :  Store Text Value (Shared) for Kevin Anderson: aServing = serving:0
+3/9/2022 02:38:25: [G_Auto 1] :  Store Text Value (Shared) for Christopher O'Connell: bPoints = point: 0; games: 2; sets: 0 
+3/9/2022 02:38:25: [G_Auto 1] :  Store Text Value (Shared) for Christopher O'Connell: bServing = serving:2
+3/9/2022 02:38:25: [G_Auto 1] :  Store Value (Shared) for market: price = 1.69
+3/9/2022 02:38:25: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 95.94
+3/9/2022 02:38:25: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 98.48
+3/9/2022 02:38:25: [G_Auto 1] :  Store Value (Shared) for market: stake = 11.13
+3/9/2022 02:38:25: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 194.42
+3/9/2022 02:38:25: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.49
+3/9/2022 02:38:25: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.7
+3/9/2022 02:38:25: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.38
+3/9/2022 02:39:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 02:39:53: [G_Auto 2] :  1 Automation Signals Cleared
+3/9/2022 02:42:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 02:43:03: [G_Auto 2] :  € 9.76 Lay bet placed on Kevin Anderson at 1.82. Fully matched at 1.81.  Ref: 10931          ( Fill or kill bet with 15 seconds delay.   )
+3/9/2022 02:43:05: [G_Auto 1] :  Store Text Value (Shared) for Kevin Anderson: aPoints = point: 0; games: 1; sets: 1 
+3/9/2022 02:43:05: [G_Auto 1] :  Store Text Value (Shared) for Kevin Anderson: aServing = serving:1
+3/9/2022 02:43:05: [G_Auto 1] :  Store Text Value (Shared) for Christopher O'Connell: bPoints = point: 0; games: 3; sets: 0 
+3/9/2022 02:43:05: [G_Auto 1] :  Store Text Value (Shared) for Christopher O'Connell: bServing = serving:0
+3/9/2022 02:43:05: [G_Auto 1] :  Store Value (Shared) for market: price = 1.81
+3/9/2022 02:43:05: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 95.94
+3/9/2022 02:43:05: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 108.24
+3/9/2022 02:43:05: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.76
+3/9/2022 02:43:05: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 204.18
+3/9/2022 02:43:05: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.38
+3/9/2022 02:43:05: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.8
+3/9/2022 02:43:05: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.26
+3/9/2022 02:43:12: [G_Auto 1] :  Store Text Value (Shared) for Kevin Anderson: aPoints = point: 0; games: 1; sets: 1 
+3/9/2022 02:43:12: [G_Auto 1] :  Store Text Value (Shared) for Kevin Anderson: aServing = serving:1
+3/9/2022 02:43:12: [G_Auto 1] :  Store Text Value (Shared) for Christopher O'Connell: bPoints = point: 0; games: 3; sets: 0 
+3/9/2022 02:43:12: [G_Auto 1] :  Store Text Value (Shared) for Christopher O'Connell: bServing = serving:0
+3/9/2022 02:43:12: [G_Auto 1] :  Store Value (Shared) for market: price = 1.81
+3/9/2022 02:43:12: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 95.94
+3/9/2022 02:43:12: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 108.24
+3/9/2022 02:43:12: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.76
+3/9/2022 02:43:12: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 204.18
+3/9/2022 02:43:12: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.33
+3/9/2022 02:43:12: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.78
+3/9/2022 02:43:12: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.28
+3/9/2022 02:43:42: [G_Auto 2] :  1 Automation Signals Cleared
+3/9/2022 02:49:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 02:49:59: [G_Auto 2] :  Placed closure bet with greening on Kevin Anderson by Backing 8.03 at 2.2
+3/9/2022 02:49:59: [G_Auto 2] :  € 9.76 Lay bet placed on Christopher O'Connell at 1.82. Entirely unmatched when it initially reached the market.   Ref: 10939          ( Fill or kill bet with 15 seconds delay.   )
+3/9/2022 02:50:01: [G_Auto 1] :  Store Text Value (Shared) for Kevin Anderson: aPoints = point: 0; games: 1; sets: 1 
+3/9/2022 02:50:01: [G_Auto 1] :  Store Text Value (Shared) for Kevin Anderson: aServing = serving:0
+3/9/2022 02:50:01: [G_Auto 1] :  Store Text Value (Shared) for Christopher O'Connell: bPoints = point: 0; games: 4; sets: 0 
+3/9/2022 02:50:01: [G_Auto 1] :  Store Text Value (Shared) for Christopher O'Connell: bServing = serving:2
+3/9/2022 02:50:01: [G_Auto 1] :  Store Value (Shared) for market: price = 2.2
+3/9/2022 02:50:01: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 103.97
+3/9/2022 02:50:01: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 108.24
+3/9/2022 02:50:01: [G_Auto 1] :  Store Value (Shared) for market: stake = 8.03
+3/9/2022 02:50:01: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 212.21
+3/9/2022 02:50:01: [G_Auto 1] :  Store Value (Shared) for market: pl = 4.18
+3/9/2022 02:50:01: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.24
+3/9/2022 02:50:01: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.8
+3/9/2022 02:50:08: [G_Auto 1] :  Store Text Value (Shared) for Kevin Anderson: aPoints = point: 0; games: 1; sets: 1 
+3/9/2022 02:50:08: [G_Auto 1] :  Store Text Value (Shared) for Kevin Anderson: aServing = serving:0
+3/9/2022 02:50:08: [G_Auto 1] :  Store Text Value (Shared) for Christopher O'Connell: bPoints = point: 0; games: 4; sets: 0 
+3/9/2022 02:50:08: [G_Auto 1] :  Store Text Value (Shared) for Christopher O'Connell: bServing = serving:2
+3/9/2022 02:50:08: [G_Auto 1] :  Store Value (Shared) for market: price = 2.2
+3/9/2022 02:50:08: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 103.97
+3/9/2022 02:50:08: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 108.24
+3/9/2022 02:50:08: [G_Auto 1] :  Store Value (Shared) for market: stake = 8.03
+3/9/2022 02:50:08: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 212.21
+3/9/2022 02:50:08: [G_Auto 1] :  Store Value (Shared) for market: pl = 4.18
+3/9/2022 02:50:08: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.2
+3/9/2022 02:50:08: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.8
+3/9/2022 02:50:14: [G_Auto 2] :  € 9.76 unmatched bet (Ref:10939) was killed.
+3/9/2022 02:50:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 02:51:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 02:52:06: [G_Auto 2] :  1 Automation Signals Cleared
+3/9/2022 02:54:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 02:55:40: [G_Auto 2] :  1 Automation Signals Cleared
+3/9/2022 02:59:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 02:59:28: [G_Auto 2] :  € 10.13 Lay bet placed on Christopher O'Connell at 1.79. Fully matched at 1.78.  Ref: 10944          ( Fill or kill bet with 15 seconds delay.   )
+3/9/2022 02:59:29: [G_Auto 1] :  Store Text Value (Shared) for Kevin Anderson: aPoints = point: 0; games: 2; sets: 1 
+3/9/2022 02:59:29: [G_Auto 1] :  Store Text Value (Shared) for Kevin Anderson: aServing = serving:0
+3/9/2022 02:59:29: [G_Auto 1] :  Store Text Value (Shared) for Christopher O'Connell: bPoints = point: 0; games: 5; sets: 0 
+3/9/2022 02:59:29: [G_Auto 1] :  Store Text Value (Shared) for Christopher O'Connell: bServing = serving:2
+3/9/2022 02:59:29: [G_Auto 1] :  Store Value (Shared) for market: price = 1.78
+3/9/2022 02:59:29: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 103.97
+3/9/2022 02:59:29: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 118.37
+3/9/2022 02:59:29: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.13
+3/9/2022 02:59:29: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 222.34
+3/9/2022 02:59:29: [G_Auto 1] :  Store Value (Shared) for market: pl = 4.13
+3/9/2022 02:59:29: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.28
+3/9/2022 02:59:29: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.77
+3/9/2022 02:59:35: [G_Auto 1] :  Store Text Value (Shared) for Kevin Anderson: aPoints = point: 0; games: 2; sets: 1 
+3/9/2022 02:59:35: [G_Auto 1] :  Store Text Value (Shared) for Kevin Anderson: aServing = serving:0
+3/9/2022 02:59:35: [G_Auto 1] :  Store Text Value (Shared) for Christopher O'Connell: bPoints = point: 0; games: 5; sets: 0 
+3/9/2022 02:59:35: [G_Auto 1] :  Store Text Value (Shared) for Christopher O'Connell: bServing = serving:2
+3/9/2022 02:59:35: [G_Auto 1] :  Store Value (Shared) for market: price = 1.78
+3/9/2022 02:59:35: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 103.97
+3/9/2022 02:59:35: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 118.37
+3/9/2022 02:59:35: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.13
+3/9/2022 02:59:35: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 222.34
+3/9/2022 02:59:35: [G_Auto 1] :  Store Value (Shared) for market: pl = 4.02
+3/9/2022 02:59:35: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.28
+3/9/2022 02:59:35: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.77
+3/9/2022 03:00:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 03:00:59: [G_Auto 2] :  1 Automation Signals Cleared
+3/9/2022 03:03:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 03:03:56: [G_Auto 1] :  Store Value (Shared) for market: aSecondSetPrice = 2.26
+3/9/2022 03:03:56: [G_Auto 1] :  Store Value (Shared) for market: bSecondSetPrice = 1.78
+3/9/2022 03:03:58: [G_Auto 2] :  Placed closure bet with greening on Christopher O'Connell by Backing 10.13 at 1.78
+3/9/2022 03:04:00: [G_Auto 1] :  Store Text Value (Shared) for Kevin Anderson: aPoints = point: 0; games: 0; sets: 1 
+3/9/2022 03:04:00: [G_Auto 1] :  Store Text Value (Shared) for Kevin Anderson: aServing = serving:1
+3/9/2022 03:04:00: [G_Auto 1] :  Store Text Value (Shared) for Christopher O'Connell: bPoints = point: 0; games: 0; sets: 1 
+3/9/2022 03:04:00: [G_Auto 1] :  Store Text Value (Shared) for Christopher O'Connell: bServing = serving:0
+3/9/2022 03:04:00: [G_Auto 1] :  Store Value (Shared) for market: price = 1.78
+3/9/2022 03:04:00: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 114.1
+3/9/2022 03:04:00: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 118.37
+3/9/2022 03:04:00: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.13
+3/9/2022 03:04:00: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 232.47
+3/9/2022 03:04:00: [G_Auto 1] :  Store Value (Shared) for market: pl = 4.18
+3/9/2022 03:04:00: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.26
+3/9/2022 03:04:00: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.78
+3/9/2022 03:04:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 03:05:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 03:06:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 03:07:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 03:08:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 03:09:37: [G_Auto 2] :  1 Automation Signals Cleared
+3/9/2022 03:14:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 03:14:43: [G_Auto 2] :  € 40.00 Lay bet placed on Christopher O'Connell at 1.2. Fully matched at 1.19.  Ref: 10958          ( Fill or kill bet with 15 seconds delay.   )
+3/9/2022 03:14:44: [G_Auto 1] :  Store Text Value (Shared) for Kevin Anderson: aPoints = point: 0; games: 0; sets: 1 
+3/9/2022 03:14:44: [G_Auto 1] :  Store Text Value (Shared) for Kevin Anderson: aServing = serving:0
+3/9/2022 03:14:44: [G_Auto 1] :  Store Text Value (Shared) for Christopher O'Connell: bPoints = point: 0; games: 1; sets: 1 
+3/9/2022 03:14:44: [G_Auto 1] :  Store Text Value (Shared) for Christopher O'Connell: bServing = serving:2
+3/9/2022 03:14:44: [G_Auto 1] :  Store Value (Shared) for market: price = 1.19
+3/9/2022 03:14:44: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 114.1
+3/9/2022 03:14:44: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 158.37
+3/9/2022 03:14:44: [G_Auto 1] :  Store Value (Shared) for market: stake = 40
+3/9/2022 03:14:44: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 272.47
+3/9/2022 03:14:44: [G_Auto 1] :  Store Value (Shared) for market: pl = 3.85
+3/9/2022 03:14:44: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 6
+3/9/2022 03:14:44: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.19
+3/9/2022 03:14:50: [G_Auto 1] :  Store Text Value (Shared) for Kevin Anderson: aPoints = point: 0; games: 0; sets: 1 
+3/9/2022 03:14:50: [G_Auto 1] :  Store Text Value (Shared) for Kevin Anderson: aServing = serving:0
+3/9/2022 03:14:50: [G_Auto 1] :  Store Text Value (Shared) for Christopher O'Connell: bPoints = point: 0; games: 1; sets: 1 
+3/9/2022 03:14:50: [G_Auto 1] :  Store Text Value (Shared) for Christopher O'Connell: bServing = serving:2
+3/9/2022 03:14:50: [G_Auto 1] :  Store Value (Shared) for market: price = 1.19
+3/9/2022 03:14:50: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 114.1
+3/9/2022 03:14:50: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 158.37
+3/9/2022 03:14:50: [G_Auto 1] :  Store Value (Shared) for market: stake = 40
+3/9/2022 03:14:50: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 272.47
+3/9/2022 03:14:50: [G_Auto 1] :  Store Value (Shared) for market: pl = 4.18
+3/9/2022 03:14:50: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 6
+3/9/2022 03:14:50: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.2
+3/9/2022 03:15:24: [G_Auto 2] :  1 Automation Signals Cleared
+3/9/2022 03:17:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 03:17:37: [G_Auto 2] :  Placed closure bet with greening on Christopher O'Connell by Backing 41.75 at 1.14
+3/9/2022 03:17:38: [G_Auto 1] :  Store Text Value (Shared) for Kevin Anderson: aPoints = point: 0; games: 0; sets: 1 
+3/9/2022 03:17:38: [G_Auto 1] :  Store Text Value (Shared) for Kevin Anderson: aServing = serving:1
+3/9/2022 03:17:38: [G_Auto 1] :  Store Text Value (Shared) for Christopher O'Connell: bPoints = point: 0; games: 2; sets: 1 
+3/9/2022 03:17:38: [G_Auto 1] :  Store Text Value (Shared) for Christopher O'Connell: bServing = serving:0
+3/9/2022 03:17:38: [G_Auto 1] :  Store Value (Shared) for market: price = 1.14
+3/9/2022 03:17:38: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 155.85
+3/9/2022 03:17:38: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 158.37
+3/9/2022 03:17:38: [G_Auto 1] :  Store Value (Shared) for market: stake = 41.75
+3/9/2022 03:17:38: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 314.22
+3/9/2022 03:17:38: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.47
+3/9/2022 03:17:38: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 8
+3/9/2022 03:17:38: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.15
+3/9/2022 03:18:06: [G_Auto 2] :  1 Automation Signals Cleared
+3/9/2022 03:21:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 03:21:23: [G_Auto 2] :  € 42.11 Lay bet placed on Christopher O'Connell at 1.19. Fully matched at 1.18.  Ref: 10966          ( Fill or kill bet with 15 seconds delay.   )
+3/9/2022 03:21:23: [G_Auto 1] :  Store Text Value (Shared) for Kevin Anderson: aPoints = point: 0; games: 1; sets: 1 
+3/9/2022 03:21:23: [G_Auto 1] :  Store Text Value (Shared) for Kevin Anderson: aServing = serving:0
+3/9/2022 03:21:23: [G_Auto 1] :  Store Text Value (Shared) for Christopher O'Connell: bPoints = point: 0; games: 2; sets: 1 
+3/9/2022 03:21:23: [G_Auto 1] :  Store Text Value (Shared) for Christopher O'Connell: bServing = serving:2
+3/9/2022 03:21:23: [G_Auto 1] :  Store Value (Shared) for market: price = 1.18
+3/9/2022 03:21:23: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 155.85
+3/9/2022 03:21:23: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 200.48
+3/9/2022 03:21:23: [G_Auto 1] :  Store Value (Shared) for market: stake = 42.11
+3/9/2022 03:21:23: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 356.33
+3/9/2022 03:21:23: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.12
+3/9/2022 03:21:23: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 6.6
+3/9/2022 03:21:23: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.18
+3/9/2022 03:21:29: [G_Auto 1] :  Store Text Value (Shared) for Kevin Anderson: aPoints = point: 0; games: 1; sets: 1 
+3/9/2022 03:21:29: [G_Auto 1] :  Store Text Value (Shared) for Kevin Anderson: aServing = serving:0
+3/9/2022 03:21:29: [G_Auto 1] :  Store Text Value (Shared) for Christopher O'Connell: bPoints = point: 0; games: 2; sets: 1 
+3/9/2022 03:21:29: [G_Auto 1] :  Store Text Value (Shared) for Christopher O'Connell: bServing = serving:2
+3/9/2022 03:21:29: [G_Auto 1] :  Store Value (Shared) for market: price = 1.18
+3/9/2022 03:21:29: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 155.85
+3/9/2022 03:21:29: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 200.48
+3/9/2022 03:21:29: [G_Auto 1] :  Store Value (Shared) for market: stake = 42.11
+3/9/2022 03:21:29: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 356.33
+3/9/2022 03:21:29: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.12
+3/9/2022 03:21:29: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 6.6
+3/9/2022 03:21:29: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.17
+3/9/2022 03:22:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 03:23:07: [G_Auto 2] :  1 Automation Signals Cleared
+3/9/2022 03:25:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 03:26:01: [G_Auto 2] :  Placed closure bet with greening on Christopher O'Connell by Backing 44.37 at 1.12
+3/9/2022 03:26:02: [G_Auto 1] :  Store Text Value (Shared) for Kevin Anderson: aPoints = point: 0; games: 1; sets: 1 
+3/9/2022 03:26:02: [G_Auto 1] :  Store Text Value (Shared) for Kevin Anderson: aServing = serving:1
+3/9/2022 03:26:02: [G_Auto 1] :  Store Text Value (Shared) for Christopher O'Connell: bPoints = point: 0; games: 3; sets: 1 
+3/9/2022 03:26:02: [G_Auto 1] :  Store Text Value (Shared) for Christopher O'Connell: bServing = serving:0
+3/9/2022 03:26:02: [G_Auto 1] :  Store Value (Shared) for market: price = 1.12
+3/9/2022 03:26:02: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 200.22
+3/9/2022 03:26:02: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 200.48
+3/9/2022 03:26:02: [G_Auto 1] :  Store Value (Shared) for market: stake = 44.37
+3/9/2022 03:26:02: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 400.7
+3/9/2022 03:26:02: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.25
+3/9/2022 03:26:02: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 8.6
+3/9/2022 03:26:02: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.13
+3/9/2022 03:26:07: [G_Auto 1] :  Store Text Value (Shared) for Kevin Anderson: aPoints = point: 0; games: 1; sets: 1 
+3/9/2022 03:26:07: [G_Auto 1] :  Store Text Value (Shared) for Kevin Anderson: aServing = serving:1
+3/9/2022 03:26:07: [G_Auto 1] :  Store Text Value (Shared) for Christopher O'Connell: bPoints = point: 0; games: 3; sets: 1 
+3/9/2022 03:26:07: [G_Auto 1] :  Store Text Value (Shared) for Christopher O'Connell: bServing = serving:0
+3/9/2022 03:26:07: [G_Auto 1] :  Store Value (Shared) for market: price = 1.12
+3/9/2022 03:26:07: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 200.22
+3/9/2022 03:26:07: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 200.48
+3/9/2022 03:26:07: [G_Auto 1] :  Store Value (Shared) for market: stake = 44.37
+3/9/2022 03:26:07: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 400.7
+3/9/2022 03:26:07: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.25
+3/9/2022 03:26:07: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 8.6
+3/9/2022 03:26:07: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.12
+3/9/2022 03:26:32: [G_Auto 2] :  1 Automation Signals Cleared
+3/9/2022 03:29:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 03:30:02: [G_Auto 2] :  € 47.06 Lay bet placed on Christopher O'Connell at 1.17. Fully matched at 1.16.  Ref: 10976          ( Fill or kill bet with 15 seconds delay.   )
+3/9/2022 03:30:03: [G_Auto 1] :  Store Text Value (Shared) for Kevin Anderson: aPoints = point: 0; games: 2; sets: 1 
+3/9/2022 03:30:03: [G_Auto 1] :  Store Text Value (Shared) for Kevin Anderson: aServing = serving:0
+3/9/2022 03:30:03: [G_Auto 1] :  Store Text Value (Shared) for Christopher O'Connell: bPoints = point: 0; games: 3; sets: 1 
+3/9/2022 03:30:03: [G_Auto 1] :  Store Text Value (Shared) for Christopher O'Connell: bServing = serving:2
+3/9/2022 03:30:03: [G_Auto 1] :  Store Value (Shared) for market: price = 1.16
+3/9/2022 03:30:03: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 200.22
+3/9/2022 03:30:03: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 247.54
+3/9/2022 03:30:03: [G_Auto 1] :  Store Value (Shared) for market: stake = 47.06
+3/9/2022 03:30:03: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 447.76
+3/9/2022 03:30:03: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.15
+3/9/2022 03:30:03: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 7.2
+3/9/2022 03:30:03: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.16
+3/9/2022 03:30:08: [G_Auto 1] :  Store Text Value (Shared) for Kevin Anderson: aPoints = point: 0; games: 2; sets: 1 
+3/9/2022 03:30:08: [G_Auto 1] :  Store Text Value (Shared) for Kevin Anderson: aServing = serving:0
+3/9/2022 03:30:08: [G_Auto 1] :  Store Text Value (Shared) for Christopher O'Connell: bPoints = point: 0; games: 3; sets: 1 
+3/9/2022 03:30:08: [G_Auto 1] :  Store Text Value (Shared) for Christopher O'Connell: bServing = serving:2
+3/9/2022 03:30:08: [G_Auto 1] :  Store Value (Shared) for market: price = 1.16
+3/9/2022 03:30:08: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 200.22
+3/9/2022 03:30:08: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 247.54
+3/9/2022 03:30:08: [G_Auto 1] :  Store Value (Shared) for market: stake = 47.06
+3/9/2022 03:30:08: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 447.76
+3/9/2022 03:30:08: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.15
+3/9/2022 03:30:08: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 7.2
+3/9/2022 03:30:08: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.15
+3/9/2022 03:30:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 03:31:22: [G_Auto 2] :  1 Automation Signals Cleared
+3/9/2022 03:33:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 03:33:23: [G_Auto 2] :  Placed closure bet with greening on Christopher O'Connell by Backing 50.08 at 1.09
+3/9/2022 03:33:24: [G_Auto 1] :  Store Text Value (Shared) for Kevin Anderson: aPoints = point: 0; games: 2; sets: 1 
+3/9/2022 03:33:24: [G_Auto 1] :  Store Text Value (Shared) for Kevin Anderson: aServing = serving:1
+3/9/2022 03:33:24: [G_Auto 1] :  Store Text Value (Shared) for Christopher O'Connell: bPoints = point: 0; games: 4; sets: 1 
+3/9/2022 03:33:24: [G_Auto 1] :  Store Text Value (Shared) for Christopher O'Connell: bServing = serving:0
+3/9/2022 03:33:24: [G_Auto 1] :  Store Value (Shared) for market: price = 1.09
+3/9/2022 03:33:24: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 250.3
+3/9/2022 03:33:24: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 247.54
+3/9/2022 03:33:24: [G_Auto 1] :  Store Value (Shared) for market: stake = 50.08
+3/9/2022 03:33:24: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 497.84
+3/9/2022 03:33:24: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.76
+3/9/2022 03:33:24: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 11
+3/9/2022 03:33:24: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.1
+3/9/2022 03:34:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 03:34:14: [G_Auto 2] :  1 Automation Signals Cleared
+3/9/2022 03:36:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 03:37:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 03:38:35: [G_Auto 2] :  1 Automation Signals Cleared
+3/9/2022 03:40:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/9/2022 03:40:14:  Guardian has detected that the market is suspended
