@@ -1,0 +1,312 @@
+3/13/2022 12:34:14: [G_Auto 1] :  Store Text Value (Shared) for Alexander Bublik: info = marketName: Bublik v Murray - Match Odds; runnerA: Alexander Bublik; runnerB: Andy Murray 
+3/13/2022 12:34:14: [G_Auto 1] :  Store Value (Shared) for market: aId = 8907933
+3/13/2022 12:34:14: [G_Auto 1] :  Store Value (Shared) for market: bId = 2256509
+3/13/2022 19:59:26:  Guardian has detected that the market is in-play
+3/13/2022 19:59:26:  Guardian has detected that the market is suspended
+3/13/2022 19:59:30: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 2.56; bBsp: 1.63; volume: 40037.79 
+3/13/2022 19:59:30: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 2.56; bBsp: 1.63; volume: 40037.79 
+3/13/2022 19:59:30:  Guardian has detected that the market is now unsuspended
+3/13/2022 19:59:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 19:59:43: [G_Auto 2] :  1 Automation Signals Cleared
+3/13/2022 20:02:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 20:03:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 20:03:51: [G_Auto 2] :  1 Automation Signals Cleared
+3/13/2022 20:07:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 20:08:11: [G_Auto 2] :  € 11.59 Lay bet placed on Andy Murray at 1.69. Fully matched at 1.68.  Ref: 12174          ( Fill or kill bet with 15 seconds delay.   )
+3/13/2022 20:08:12: [G_Auto 1] :  Store Text Value (Shared) for Alexander Bublik: aPoints = point: 0; games: 1; sets: 0 
+3/13/2022 20:08:12: [G_Auto 1] :  Store Text Value (Shared) for Alexander Bublik: aServing = serving:0
+3/13/2022 20:08:12: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: bPoints = point: 0; games: 1; sets: 0 
+3/13/2022 20:08:12: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: bServing = serving:2
+3/13/2022 20:08:12: [G_Auto 1] :  Store Value (Shared) for market: price = 1.68
+3/13/2022 20:08:12: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 0
+3/13/2022 20:08:12: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 11.59
+3/13/2022 20:08:12: [G_Auto 1] :  Store Value (Shared) for market: stake = 11.59
+3/13/2022 20:08:12: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 11.59
+3/13/2022 20:08:12: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.07
+3/13/2022 20:08:12: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.5
+3/13/2022 20:08:12: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.67
+3/13/2022 20:08:46: [G_Auto 2] :  1 Automation Signals Cleared
+3/13/2022 20:10:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 20:11:06: [G_Auto 2] :  Placed closure bet with greening on Andy Murray by Backing 12.64 at 1.54
+3/13/2022 20:11:07: [G_Auto 1] :  Store Text Value (Shared) for Alexander Bublik: aPoints = point: 0; games: 1; sets: 0 
+3/13/2022 20:11:07: [G_Auto 1] :  Store Text Value (Shared) for Alexander Bublik: aServing = serving:1
+3/13/2022 20:11:07: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: bPoints = point: 0; games: 2; sets: 0 
+3/13/2022 20:11:07: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: bServing = serving:0
+3/13/2022 20:11:07: [G_Auto 1] :  Store Value (Shared) for market: price = 1.54
+3/13/2022 20:11:07: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 12.64
+3/13/2022 20:11:07: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 11.59
+3/13/2022 20:11:07: [G_Auto 1] :  Store Value (Shared) for market: stake = 12.64
+3/13/2022 20:11:07: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 24.23
+3/13/2022 20:11:07: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.05
+3/13/2022 20:11:07: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.8
+3/13/2022 20:11:07: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.54
+3/13/2022 20:11:13: [G_Auto 1] :  Store Text Value (Shared) for Alexander Bublik: aPoints = point: 0; games: 1; sets: 0 
+3/13/2022 20:11:13: [G_Auto 1] :  Store Text Value (Shared) for Alexander Bublik: aServing = serving:1
+3/13/2022 20:11:13: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: bPoints = point: 0; games: 2; sets: 0 
+3/13/2022 20:11:13: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: bServing = serving:0
+3/13/2022 20:11:13: [G_Auto 1] :  Store Value (Shared) for market: price = 1.54
+3/13/2022 20:11:13: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 12.64
+3/13/2022 20:11:13: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 11.59
+3/13/2022 20:11:13: [G_Auto 1] :  Store Value (Shared) for market: stake = 12.64
+3/13/2022 20:11:13: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 24.23
+3/13/2022 20:11:13: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.05
+3/13/2022 20:11:13: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.8
+3/13/2022 20:11:13: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.55
+3/13/2022 20:11:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 20:12:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 20:13:13: [G_Auto 2] :  1 Automation Signals Cleared
+3/13/2022 20:16:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 20:16:57: [G_Auto 2] :  € 13.33 Lay bet placed on Andy Murray at 1.6. Fully matched at 1.6.  Ref: 12178          ( Fill or kill bet with 15 seconds delay.   )
+3/13/2022 20:16:58: [G_Auto 1] :  Store Text Value (Shared) for Alexander Bublik: aPoints = point: 0; games: 2; sets: 0 
+3/13/2022 20:16:58: [G_Auto 1] :  Store Text Value (Shared) for Alexander Bublik: aServing = serving:0
+3/13/2022 20:16:58: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: bPoints = point: 0; games: 2; sets: 0 
+3/13/2022 20:16:58: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: bServing = serving:2
+3/13/2022 20:16:58: [G_Auto 1] :  Store Value (Shared) for market: price = 1.6
+3/13/2022 20:16:58: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 12.64
+3/13/2022 20:16:58: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 24.92
+3/13/2022 20:16:58: [G_Auto 1] :  Store Value (Shared) for market: stake = 13.33
+3/13/2022 20:16:58: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 37.56
+3/13/2022 20:16:58: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.22
+3/13/2022 20:16:58: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.76
+3/13/2022 20:16:58: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.6
+3/13/2022 20:17:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 20:17:48: [G_Auto 2] :  1 Automation Signals Cleared
+3/13/2022 20:19:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 20:20:08: [G_Auto 2] :  Placed closure bet with greening on Andy Murray by Backing 14.61 at 1.46
+3/13/2022 20:20:09: [G_Auto 1] :  Store Text Value (Shared) for Alexander Bublik: aPoints = point: 0; games: 2; sets: 0 
+3/13/2022 20:20:09: [G_Auto 1] :  Store Text Value (Shared) for Alexander Bublik: aServing = serving:1
+3/13/2022 20:20:09: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: bPoints = point: 0; games: 3; sets: 0 
+3/13/2022 20:20:09: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: bServing = serving:0
+3/13/2022 20:20:09: [G_Auto 1] :  Store Value (Shared) for market: price = 1.46
+3/13/2022 20:20:09: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 27.25
+3/13/2022 20:20:09: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 24.92
+3/13/2022 20:20:09: [G_Auto 1] :  Store Value (Shared) for market: stake = 14.61
+3/13/2022 20:20:09: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 52.17
+3/13/2022 20:20:09: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.33
+3/13/2022 20:20:09: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.1
+3/13/2022 20:20:09: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.47
+3/13/2022 20:20:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 20:21:57: [G_Auto 2] :  1 Automation Signals Cleared
+3/13/2022 20:27:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 20:27:23: [G_Auto 2] :  € 15.38 Lay bet placed on Andy Murray at 1.52. Fully matched at 1.51.  Ref: 12185          ( Fill or kill bet with 15 seconds delay.   )
+3/13/2022 20:27:24: [G_Auto 1] :  Store Text Value (Shared) for Alexander Bublik: aPoints = point: 0; games: 3; sets: 0 
+3/13/2022 20:27:24: [G_Auto 1] :  Store Text Value (Shared) for Alexander Bublik: aServing = serving:0
+3/13/2022 20:27:24: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: bPoints = point: 0; games: 3; sets: 0 
+3/13/2022 20:27:24: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: bServing = serving:2
+3/13/2022 20:27:24: [G_Auto 1] :  Store Value (Shared) for market: price = 1.51
+3/13/2022 20:27:24: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 27.25
+3/13/2022 20:27:24: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 40.3
+3/13/2022 20:27:24: [G_Auto 1] :  Store Value (Shared) for market: stake = 15.38
+3/13/2022 20:27:24: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 67.55
+3/13/2022 20:27:24: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.54
+3/13/2022 20:27:24: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3
+3/13/2022 20:27:24: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.5
+3/13/2022 20:27:53: [G_Auto 2] :  1 Automation Signals Cleared
+3/13/2022 20:30:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 20:30:38: [G_Auto 2] :  Placed closure bet with greening on Andy Murray by Backing 16.71 at 1.39
+3/13/2022 20:30:39: [G_Auto 1] :  Store Text Value (Shared) for Alexander Bublik: aPoints = point: 0; games: 3; sets: 0 
+3/13/2022 20:30:39: [G_Auto 1] :  Store Text Value (Shared) for Alexander Bublik: aServing = serving:1
+3/13/2022 20:30:39: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: bPoints = point: 0; games: 4; sets: 0 
+3/13/2022 20:30:39: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: bServing = serving:0
+3/13/2022 20:30:39: [G_Auto 1] :  Store Value (Shared) for market: price = 1.39
+3/13/2022 20:30:39: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 43.96
+3/13/2022 20:30:39: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 40.3
+3/13/2022 20:30:39: [G_Auto 1] :  Store Value (Shared) for market: stake = 16.71
+3/13/2022 20:30:39: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 84.26
+3/13/2022 20:30:39: [G_Auto 1] :  Store Value (Shared) for market: pl = -3.66
+3/13/2022 20:30:39: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.5
+3/13/2022 20:30:39: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.4
+3/13/2022 20:31:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 20:32:19: [G_Auto 2] :  1 Automation Signals Cleared
+3/13/2022 20:34:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 20:34:51: [G_Auto 2] :  € 16.00 Lay bet placed on Andy Murray at 1.5. Fully matched at 1.49.  Ref: 12194          ( Fill or kill bet with 15 seconds delay.   )
+3/13/2022 20:34:52: [G_Auto 1] :  Store Text Value (Shared) for Alexander Bublik: aPoints = point: 0; games: 4; sets: 0 
+3/13/2022 20:34:52: [G_Auto 1] :  Store Text Value (Shared) for Alexander Bublik: aServing = serving:0
+3/13/2022 20:34:52: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: bPoints = point: 0; games: 4; sets: 0 
+3/13/2022 20:34:52: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: bServing = serving:2
+3/13/2022 20:34:52: [G_Auto 1] :  Store Value (Shared) for market: price = 1.49
+3/13/2022 20:34:52: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 43.96
+3/13/2022 20:34:52: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 56.3
+3/13/2022 20:34:52: [G_Auto 1] :  Store Value (Shared) for market: stake = 16
+3/13/2022 20:34:52: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 100.26
+3/13/2022 20:34:52: [G_Auto 1] :  Store Value (Shared) for market: pl = -3.77
+3/13/2022 20:34:52: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.1
+3/13/2022 20:34:52: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.48
+3/13/2022 20:35:33: [G_Auto 2] :  1 Automation Signals Cleared
+3/13/2022 20:39:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 20:40:02: [G_Auto 2] :  Placed closure bet with greening on Andy Murray by Backing 16.79 at 1.42
+3/13/2022 20:40:03: [G_Auto 1] :  Store Text Value (Shared) for Alexander Bublik: aPoints = point: 0; games: 4; sets: 0 
+3/13/2022 20:40:03: [G_Auto 1] :  Store Text Value (Shared) for Alexander Bublik: aServing = serving:1
+3/13/2022 20:40:03: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: bPoints = point: 0; games: 5; sets: 0 
+3/13/2022 20:40:03: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: bServing = serving:0
+3/13/2022 20:40:03: [G_Auto 1] :  Store Value (Shared) for market: price = 1.42
+3/13/2022 20:40:03: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 60.75
+3/13/2022 20:40:03: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 56.3
+3/13/2022 20:40:03: [G_Auto 1] :  Store Value (Shared) for market: stake = 16.79
+3/13/2022 20:40:03: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 117.05
+3/13/2022 20:40:03: [G_Auto 1] :  Store Value (Shared) for market: pl = -4.45
+3/13/2022 20:40:03: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.4
+3/13/2022 20:40:03: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.43
+3/13/2022 20:40:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 20:41:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 20:42:16: [G_Auto 2] :  1 Automation Signals Cleared
+3/13/2022 20:44:06: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 20:44:21: [G_Auto 2] :  € 13.11 Lay bet placed on Andy Murray at 1.61. Fully matched at 1.6.  Ref: 12203          ( Fill or kill bet with 15 seconds delay.   )
+3/13/2022 20:44:22: [G_Auto 1] :  Store Text Value (Shared) for Alexander Bublik: aPoints = point: 0; games: 5; sets: 0 
+3/13/2022 20:44:22: [G_Auto 1] :  Store Text Value (Shared) for Alexander Bublik: aServing = serving:0
+3/13/2022 20:44:22: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: bPoints = point: 0; games: 5; sets: 0 
+3/13/2022 20:44:22: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: bServing = serving:2
+3/13/2022 20:44:22: [G_Auto 1] :  Store Value (Shared) for market: price = 1.6
+3/13/2022 20:44:22: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 60.75
+3/13/2022 20:44:22: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 69.41
+3/13/2022 20:44:22: [G_Auto 1] :  Store Value (Shared) for market: stake = 13.11
+3/13/2022 20:44:22: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 130.16
+3/13/2022 20:44:22: [G_Auto 1] :  Store Value (Shared) for market: pl = -4.53
+3/13/2022 20:44:22: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.68
+3/13/2022 20:44:22: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.59
+3/13/2022 20:45:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 20:45:12: [G_Auto 2] :  1 Automation Signals Cleared
+3/13/2022 20:48:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 20:49:00: [G_Auto 2] :  Placed closure bet with greening on Andy Murray by Backing 14.08 at 1.49
+3/13/2022 20:49:01: [G_Auto 1] :  Store Text Value (Shared) for Alexander Bublik: aPoints = point: 0; games: 5; sets: 0 
+3/13/2022 20:49:01: [G_Auto 1] :  Store Text Value (Shared) for Alexander Bublik: aServing = serving:1
+3/13/2022 20:49:01: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: bPoints = point: 0; games: 6; sets: 0 
+3/13/2022 20:49:01: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: bServing = serving:0
+3/13/2022 20:49:01: [G_Auto 1] :  Store Value (Shared) for market: price = 1.49
+3/13/2022 20:49:01: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 74.83
+3/13/2022 20:49:01: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 69.41
+3/13/2022 20:49:01: [G_Auto 1] :  Store Value (Shared) for market: stake = 14.08
+3/13/2022 20:49:01: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 144.24
+3/13/2022 20:49:01: [G_Auto 1] :  Store Value (Shared) for market: pl = -5.42
+3/13/2022 20:49:01: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.1
+3/13/2022 20:49:01: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.48
+3/13/2022 20:49:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 20:50:43: [G_Auto 2] :  1 Automation Signals Cleared
+3/13/2022 20:53:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 21:10:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 21:10:46: [G_Auto 1] :  Store Value (Shared) for market: aFirstSetPrice = 1.59
+3/13/2022 21:10:46: [G_Auto 1] :  Store Value (Shared) for market: bFirstSetPrice = 2.68
+3/13/2022 21:10:46: [G_Auto 2] :  Store Value (Shared) for Alexander Bublik: PRICE SET 2 = 1.59
+3/13/2022 21:10:46: [G_Auto 2] :  Alert: STORE PRICE AT SET 2 [ Alexander Bublik ]
+3/13/2022 21:10:46: [G_Auto 2] :  Automation Signal for market: VALID = 1
+3/13/2022 21:10:46: [G_Auto 2] :  Store Value (Shared) for Andy Murray: PRICE SET 2 = 2.68
+3/13/2022 21:10:46: [G_Auto 2] :  Alert: STORE PRICE AT SET 2 [ Andy Murray ]
+3/13/2022 21:10:46: [G_Auto 2] :  Automation Signal for market: VALID = 1
+3/13/2022 21:10:49: [G_Auto 2] :  € 13.33 Lay bet placed on Alexander Bublik at 1.6. Fully matched at 1.59.  Ref: 12223          ( Fill or kill bet with 15 seconds delay.   )
+3/13/2022 21:10:50: [G_Auto 1] :  Store Text Value (Shared) for Alexander Bublik: aPoints = point: 0; games: 0; sets: 1 
+3/13/2022 21:10:50: [G_Auto 1] :  Store Text Value (Shared) for Alexander Bublik: aServing = serving:1
+3/13/2022 21:10:50: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: bPoints = point: 0; games: 0; sets: 0 
+3/13/2022 21:10:50: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: bServing = serving:0
+3/13/2022 21:10:50: [G_Auto 1] :  Store Value (Shared) for market: price = 1.59
+3/13/2022 21:10:50: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 74.83
+3/13/2022 21:10:50: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 82.74
+3/13/2022 21:10:50: [G_Auto 1] :  Store Value (Shared) for market: stake = 13.33
+3/13/2022 21:10:50: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 157.57
+3/13/2022 21:10:50: [G_Auto 1] :  Store Value (Shared) for market: pl = -5.5
+3/13/2022 21:10:50: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.59
+3/13/2022 21:10:50: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.68
+3/13/2022 21:10:57: [G_Auto 1] :  Store Text Value (Shared) for Alexander Bublik: aPoints = point: 0; games: 0; sets: 1 
+3/13/2022 21:10:57: [G_Auto 1] :  Store Text Value (Shared) for Alexander Bublik: aServing = serving:1
+3/13/2022 21:10:57: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: bPoints = point: 0; games: 0; sets: 0 
+3/13/2022 21:10:57: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: bServing = serving:0
+3/13/2022 21:10:57: [G_Auto 1] :  Store Value (Shared) for market: price = 1.59
+3/13/2022 21:10:57: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 74.83
+3/13/2022 21:10:57: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 82.74
+3/13/2022 21:10:57: [G_Auto 1] :  Store Value (Shared) for market: stake = 13.33
+3/13/2022 21:10:57: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 157.57
+3/13/2022 21:10:57: [G_Auto 1] :  Store Value (Shared) for market: pl = -5.42
+3/13/2022 21:10:57: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.6
+3/13/2022 21:10:57: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.66
+3/13/2022 21:11:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 21:12:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 21:13:10: [G_Auto 2] :  2 Automation Signals Cleared
+3/13/2022 21:16:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 21:16:40: [G_Auto 2] :  Placed closure bet with greening on Alexander Bublik by Backing 13.76 at 1.54
+3/13/2022 21:16:40: [G_Auto 1] :  Store Text Value (Shared) for Alexander Bublik: aPoints = point: 0; games: 1; sets: 1 
+3/13/2022 21:16:40: [G_Auto 1] :  Store Text Value (Shared) for Alexander Bublik: aServing = serving:0
+3/13/2022 21:16:40: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: bPoints = point: 0; games: 0; sets: 0 
+3/13/2022 21:16:40: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: bServing = serving:2
+3/13/2022 21:16:40: [G_Auto 1] :  Store Value (Shared) for market: price = 1.54
+3/13/2022 21:16:40: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 88.59
+3/13/2022 21:16:40: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 82.74
+3/13/2022 21:16:40: [G_Auto 1] :  Store Value (Shared) for market: stake = 13.76
+3/13/2022 21:16:40: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 171.33
+3/13/2022 21:16:40: [G_Auto 1] :  Store Value (Shared) for market: pl = -5.85
+3/13/2022 21:16:40: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.55
+3/13/2022 21:16:40: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.8
+3/13/2022 21:17:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 21:17:47: [G_Auto 2] :  1 Automation Signals Cleared
+3/13/2022 21:24:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 21:24:43: [G_Auto 2] :  € 12.90 Lay bet placed on Alexander Bublik at 1.62. Fully matched at 1.61.  Ref: 12232          ( Fill or kill bet with 15 seconds delay.   )
+3/13/2022 21:24:43: [G_Auto 1] :  Store Text Value (Shared) for Alexander Bublik: aPoints = point: 0; games: 1; sets: 1 
+3/13/2022 21:24:43: [G_Auto 1] :  Store Text Value (Shared) for Alexander Bublik: aServing = serving:1
+3/13/2022 21:24:43: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: bPoints = point: 0; games: 1; sets: 0 
+3/13/2022 21:24:43: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: bServing = serving:0
+3/13/2022 21:24:43: [G_Auto 1] :  Store Value (Shared) for market: price = 1.61
+3/13/2022 21:24:43: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 88.59
+3/13/2022 21:24:43: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 95.64
+3/13/2022 21:24:43: [G_Auto 1] :  Store Value (Shared) for market: stake = 12.9
+3/13/2022 21:24:43: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 184.23
+3/13/2022 21:24:43: [G_Auto 1] :  Store Value (Shared) for market: pl = -5.93
+3/13/2022 21:24:43: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.59
+3/13/2022 21:24:43: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.64
+3/13/2022 21:25:01: [G_Auto 2] :  1 Automation Signals Cleared
+3/13/2022 21:26:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 21:26:36: [G_Auto 2] :  Placed closure bet with greening on Alexander Bublik by Backing 14.04 at 1.48
+3/13/2022 21:26:36: [G_Auto 1] :  Store Text Value (Shared) for Alexander Bublik: aPoints = point: 0; games: 2; sets: 1 
+3/13/2022 21:26:36: [G_Auto 1] :  Store Text Value (Shared) for Alexander Bublik: aServing = serving:0
+3/13/2022 21:26:36: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: bPoints = point: 0; games: 1; sets: 0 
+3/13/2022 21:26:36: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: bServing = serving:2
+3/13/2022 21:26:36: [G_Auto 1] :  Store Value (Shared) for market: price = 1.48
+3/13/2022 21:26:36: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 102.63
+3/13/2022 21:26:36: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 95.64
+3/13/2022 21:26:36: [G_Auto 1] :  Store Value (Shared) for market: stake = 14.04
+3/13/2022 21:26:36: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 198.27
+3/13/2022 21:26:36: [G_Auto 1] :  Store Value (Shared) for market: pl = -6.98
+3/13/2022 21:26:36: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.48
+3/13/2022 21:26:36: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.15
+3/13/2022 21:27:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 21:28:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 21:28:42: [G_Auto 2] :  1 Automation Signals Cleared
+3/13/2022 21:33:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 21:33:57: [G_Auto 2] :  € 50.00 Lay bet placed on Alexander Bublik at 1.16. Fully matched at 1.16.  Ref: 12238          ( Fill or kill bet with 15 seconds delay.   )
+3/13/2022 21:33:57: [G_Auto 1] :  Store Text Value (Shared) for Alexander Bublik: aPoints = point: 0; games: 3; sets: 1 
+3/13/2022 21:33:57: [G_Auto 1] :  Store Text Value (Shared) for Alexander Bublik: aServing = serving:1
+3/13/2022 21:33:57: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: bPoints = point: 0; games: 1; sets: 0 
+3/13/2022 21:33:57: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: bServing = serving:0
+3/13/2022 21:33:57: [G_Auto 1] :  Store Value (Shared) for market: price = 1.16
+3/13/2022 21:33:57: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 102.63
+3/13/2022 21:33:57: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 145.64
+3/13/2022 21:33:57: [G_Auto 1] :  Store Value (Shared) for market: stake = 50
+3/13/2022 21:33:57: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 248.27
+3/13/2022 21:33:57: [G_Auto 1] :  Store Value (Shared) for market: pl = -7.86
+3/13/2022 21:33:57: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.15
+3/13/2022 21:33:57: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 8.2
+3/13/2022 21:34:32: [G_Auto 2] :  1 Automation Signals Cleared
+3/13/2022 21:36:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 21:37:05: [G_Auto 2] :  Placed closure bet with greening on Alexander Bublik by Backing 54.20 at 1.07
+3/13/2022 21:37:06: [G_Auto 1] :  Store Text Value (Shared) for Alexander Bublik: aPoints = point: 0; games: 4; sets: 1 
+3/13/2022 21:37:06: [G_Auto 1] :  Store Text Value (Shared) for Alexander Bublik: aServing = serving:0
+3/13/2022 21:37:06: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: bPoints = point: 0; games: 1; sets: 0 
+3/13/2022 21:37:06: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: bServing = serving:2
+3/13/2022 21:37:06: [G_Auto 1] :  Store Value (Shared) for market: price = 1.07
+3/13/2022 21:37:06: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 156.83
+3/13/2022 21:37:06: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 145.64
+3/13/2022 21:37:06: [G_Auto 1] :  Store Value (Shared) for market: stake = 54.2
+3/13/2022 21:37:06: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 302.47
+3/13/2022 21:37:06: [G_Auto 1] :  Store Value (Shared) for market: pl = -11.19
+3/13/2022 21:37:06: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.08
+3/13/2022 21:37:06: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 13.5
+3/13/2022 21:37:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 21:38:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 21:39:31: [G_Auto 2] :  1 Automation Signals Cleared
+3/13/2022 21:48:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 21:49:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 21:49:32: [G_Auto 2] :  1 Automation Signals Cleared
+3/13/2022 21:52:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 21:53:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 21:54:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 21:55:12: [G_Auto 2] :  1 Automation Signals Cleared
+3/13/2022 21:57:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 21:58:07: [G_Auto 2] :  1 Automation Signals Cleared
+3/13/2022 22:00:52:  Guardian has detected that the market is suspended

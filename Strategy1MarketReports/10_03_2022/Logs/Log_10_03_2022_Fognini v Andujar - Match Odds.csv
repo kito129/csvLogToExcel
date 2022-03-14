@@ -1,0 +1,420 @@
+3/10/2022 12:13:51: [G_Auto 1] :  Store Text Value (Shared) for Fabio Fognini: info = marketName: Fognini v Andujar - Match Odds; runnerA: Fabio Fognini; runnerB: Pablo Andujar 
+3/10/2022 12:13:51: [G_Auto 1] :  Store Value (Shared) for market: aId = 2319544
+3/10/2022 12:13:51: [G_Auto 1] :  Store Value (Shared) for market: bId = 2303153
+3/10/2022 19:10:25:  Guardian has detected that the market is in-play
+3/10/2022 19:10:25:  Guardian has detected that the market is suspended
+3/10/2022 19:10:31: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.57; bBsp: 2.76; volume: 41079.55 
+3/10/2022 19:10:31: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.57; bBsp: 2.76; volume: 41079.55 
+3/10/2022 19:10:31:  Guardian has detected that the market is now unsuspended
+3/10/2022 19:10:37: [G_Auto 2] :  0 Automation Signals Cleared
+3/10/2022 19:16:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/10/2022 19:17:15: [G_Auto 2] :  € 21.05 Lay bet placed on Fabio Fognini at 1.38. Fully matched at 1.37.  Ref: 10498          ( Fill or kill bet with 15 seconds delay.   )
+3/10/2022 19:17:18: [G_Auto 1] :  Store Text Value (Shared) for Fabio Fognini: aPoints = point: 0; games: 1; sets: 0 
+3/10/2022 19:17:18: [G_Auto 1] :  Store Text Value (Shared) for Fabio Fognini: aServing = serving:1
+3/10/2022 19:17:18: [G_Auto 1] :  Store Text Value (Shared) for Pablo Andujar: bPoints = point: 0; games: 0; sets: 0 
+3/10/2022 19:17:18: [G_Auto 1] :  Store Text Value (Shared) for Pablo Andujar: bServing = serving:0
+3/10/2022 19:17:18: [G_Auto 1] :  Store Value (Shared) for market: price = 1.37
+3/10/2022 19:17:18: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 0
+3/10/2022 19:17:18: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 21.05
+3/10/2022 19:17:18: [G_Auto 1] :  Store Value (Shared) for market: stake = 21.05
+3/10/2022 19:17:18: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 21.05
+3/10/2022 19:17:18: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.15
+3/10/2022 19:17:18: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.36
+3/10/2022 19:17:18: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.95
+3/10/2022 19:18:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/10/2022 19:18:29: [G_Auto 2] :  1 Automation Signals Cleared
+3/10/2022 19:23:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/10/2022 19:23:45: [G_Auto 2] :  Placed closure bet with greening on Fabio Fognini by Backing 22.01 at 1.31
+3/10/2022 19:23:49: [G_Auto 1] :  Store Text Value (Shared) for Fabio Fognini: aPoints = point: 0; games: 2; sets: 0 
+3/10/2022 19:23:49: [G_Auto 1] :  Store Text Value (Shared) for Fabio Fognini: aServing = serving:0
+3/10/2022 19:23:49: [G_Auto 1] :  Store Text Value (Shared) for Pablo Andujar: bPoints = point: 0; games: 0; sets: 0 
+3/10/2022 19:23:49: [G_Auto 1] :  Store Text Value (Shared) for Pablo Andujar: bServing = serving:2
+3/10/2022 19:23:49: [G_Auto 1] :  Store Value (Shared) for market: price = 1.31
+3/10/2022 19:23:49: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 22.01
+3/10/2022 19:23:49: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 21.05
+3/10/2022 19:23:49: [G_Auto 1] :  Store Value (Shared) for market: stake = 22.01
+3/10/2022 19:23:49: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 43.06
+3/10/2022 19:23:49: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.97
+3/10/2022 19:23:49: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.32
+3/10/2022 19:23:49: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.2
+3/10/2022 19:23:55: [G_Auto 1] :  Store Text Value (Shared) for Fabio Fognini: aPoints = point: 0; games: 2; sets: 0 
+3/10/2022 19:23:55: [G_Auto 1] :  Store Text Value (Shared) for Fabio Fognini: aServing = serving:0
+3/10/2022 19:23:55: [G_Auto 1] :  Store Text Value (Shared) for Pablo Andujar: bPoints = point: 0; games: 0; sets: 0 
+3/10/2022 19:23:55: [G_Auto 1] :  Store Text Value (Shared) for Pablo Andujar: bServing = serving:2
+3/10/2022 19:23:55: [G_Auto 1] :  Store Value (Shared) for market: price = 1.31
+3/10/2022 19:23:55: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 22.01
+3/10/2022 19:23:55: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 21.05
+3/10/2022 19:23:55: [G_Auto 1] :  Store Value (Shared) for market: stake = 22.01
+3/10/2022 19:23:55: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 43.06
+3/10/2022 19:23:55: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.97
+3/10/2022 19:23:55: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.32
+3/10/2022 19:23:55: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.2
+3/10/2022 19:24:20: [G_Auto 2] :  1 Automation Signals Cleared
+3/10/2022 19:27:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/10/2022 19:27:54: [G_Auto 2] :  € 21.05 Lay bet placed on Fabio Fognini at 1.38. Fully matched at 1.37.  Ref: 10514          ( Fill or kill bet with 15 seconds delay.   )
+3/10/2022 19:27:57: [G_Auto 1] :  Store Text Value (Shared) for Fabio Fognini: aPoints = point: 0; games: 2; sets: 0 
+3/10/2022 19:27:57: [G_Auto 1] :  Store Text Value (Shared) for Fabio Fognini: aServing = serving:1
+3/10/2022 19:27:57: [G_Auto 1] :  Store Text Value (Shared) for Pablo Andujar: bPoints = point: 0; games: 1; sets: 0 
+3/10/2022 19:27:57: [G_Auto 1] :  Store Text Value (Shared) for Pablo Andujar: bServing = serving:0
+3/10/2022 19:27:57: [G_Auto 1] :  Store Value (Shared) for market: price = 1.37
+3/10/2022 19:27:57: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 22.01
+3/10/2022 19:27:57: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 42.1
+3/10/2022 19:27:57: [G_Auto 1] :  Store Value (Shared) for market: stake = 21.05
+3/10/2022 19:27:57: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 64.11
+3/10/2022 19:27:57: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.12
+3/10/2022 19:27:57: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.37
+3/10/2022 19:27:57: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.8
+3/10/2022 19:28:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/10/2022 19:29:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/10/2022 19:30:11: [G_Auto 2] :  1 Automation Signals Cleared
+3/10/2022 19:32:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/10/2022 19:33:14: [G_Auto 2] :  Placed closure bet with greening on Fabio Fognini by Backing 22.36 at 1.29
+3/10/2022 19:33:18: [G_Auto 1] :  Store Text Value (Shared) for Fabio Fognini: aPoints = point: 0; games: 3; sets: 0 
+3/10/2022 19:33:18: [G_Auto 1] :  Store Text Value (Shared) for Fabio Fognini: aServing = serving:0
+3/10/2022 19:33:18: [G_Auto 1] :  Store Text Value (Shared) for Pablo Andujar: bPoints = point: 0; games: 1; sets: 0 
+3/10/2022 19:33:18: [G_Auto 1] :  Store Text Value (Shared) for Pablo Andujar: bServing = serving:2
+3/10/2022 19:33:18: [G_Auto 1] :  Store Value (Shared) for market: price = 1.29
+3/10/2022 19:33:18: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 44.37
+3/10/2022 19:33:18: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 42.1
+3/10/2022 19:33:18: [G_Auto 1] :  Store Value (Shared) for market: stake = 22.36
+3/10/2022 19:33:18: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 86.47
+3/10/2022 19:33:18: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.27
+3/10/2022 19:33:18: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.29
+3/10/2022 19:33:18: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.4
+3/10/2022 19:34:02: [G_Auto 2] :  1 Automation Signals Cleared
+3/10/2022 19:39:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/10/2022 19:40:03: [G_Auto 2] :  € 21.62 Lay bet placed on Fabio Fognini at 1.37. Fully matched at 1.36.  Ref: 10533          ( Fill or kill bet with 15 seconds delay.   )
+3/10/2022 19:40:07: [G_Auto 1] :  Store Text Value (Shared) for Fabio Fognini: aPoints = point: 0; games: 3; sets: 0 
+3/10/2022 19:40:07: [G_Auto 1] :  Store Text Value (Shared) for Fabio Fognini: aServing = serving:1
+3/10/2022 19:40:07: [G_Auto 1] :  Store Text Value (Shared) for Pablo Andujar: bPoints = point: 0; games: 2; sets: 0 
+3/10/2022 19:40:07: [G_Auto 1] :  Store Text Value (Shared) for Pablo Andujar: bServing = serving:0
+3/10/2022 19:40:07: [G_Auto 1] :  Store Value (Shared) for market: price = 1.36
+3/10/2022 19:40:07: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 44.37
+3/10/2022 19:40:07: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 63.72
+3/10/2022 19:40:07: [G_Auto 1] :  Store Value (Shared) for market: stake = 21.62
+3/10/2022 19:40:07: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 108.09
+3/10/2022 19:40:07: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.43
+3/10/2022 19:40:07: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.35
+3/10/2022 19:40:07: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.9
+3/10/2022 19:40:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/10/2022 19:41:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/10/2022 19:42:08: [G_Auto 2] :  1 Automation Signals Cleared
+3/10/2022 19:47:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/10/2022 19:48:10: [G_Auto 2] :  Placed closure bet with greening on Fabio Fognini by Backing 17.71 at 1.66
+3/10/2022 19:48:14: [G_Auto 1] :  Store Text Value (Shared) for Fabio Fognini: aPoints = point: 0; games: 3; sets: 0 
+3/10/2022 19:48:14: [G_Auto 1] :  Store Text Value (Shared) for Fabio Fognini: aServing = serving:0
+3/10/2022 19:48:14: [G_Auto 1] :  Store Text Value (Shared) for Pablo Andujar: bPoints = point: 0; games: 3; sets: 0 
+3/10/2022 19:48:14: [G_Auto 1] :  Store Text Value (Shared) for Pablo Andujar: bServing = serving:2
+3/10/2022 19:48:14: [G_Auto 1] :  Store Value (Shared) for market: price = 1.66
+3/10/2022 19:48:14: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 62.08
+3/10/2022 19:48:14: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 63.72
+3/10/2022 19:48:14: [G_Auto 1] :  Store Value (Shared) for market: stake = 17.71
+3/10/2022 19:48:14: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 125.8
+3/10/2022 19:48:14: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.61
+3/10/2022 19:48:14: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.66
+3/10/2022 19:48:14: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.54
+3/10/2022 19:48:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/10/2022 19:49:04: [G_Auto 2] :  1 Automation Signals Cleared
+3/10/2022 19:52:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/10/2022 19:53:03: [G_Auto 2] :  € 9.09 Lay bet placed on Fabio Fognini at 1.88. Fully matched at 1.87.  Ref: 10551          ( Fill or kill bet with 15 seconds delay.   )
+3/10/2022 19:53:06: [G_Auto 1] :  Store Text Value (Shared) for Fabio Fognini: aPoints = point: 0; games: 3; sets: 0 
+3/10/2022 19:53:06: [G_Auto 1] :  Store Text Value (Shared) for Fabio Fognini: aServing = serving:1
+3/10/2022 19:53:06: [G_Auto 1] :  Store Text Value (Shared) for Pablo Andujar: bPoints = point: 0; games: 4; sets: 0 
+3/10/2022 19:53:06: [G_Auto 1] :  Store Text Value (Shared) for Pablo Andujar: bServing = serving:0
+3/10/2022 19:53:06: [G_Auto 1] :  Store Value (Shared) for market: price = 1.87
+3/10/2022 19:53:06: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 62.08
+3/10/2022 19:53:06: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 72.81
+3/10/2022 19:53:06: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.09
+3/10/2022 19:53:06: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 134.89
+3/10/2022 19:53:06: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.56
+3/10/2022 19:53:06: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.86
+3/10/2022 19:53:06: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.16
+3/10/2022 19:53:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/10/2022 19:54:55: [G_Auto 2] :  1 Automation Signals Cleared
+3/10/2022 19:56:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/10/2022 19:56:59: [G_Auto 2] :  Placed closure bet with greening on Fabio Fognini by Backing 6.34 at 2.68
+3/10/2022 19:56:59: [G_Auto 2] :  € 13.33 Lay bet placed on Pablo Andujar at 1.6. Fully matched at 1.59.  Ref: 10557          ( Fill or kill bet with 15 seconds delay.   )
+3/10/2022 19:57:02: [G_Auto 1] :  Store Text Value (Shared) for Fabio Fognini: aPoints = point: 0; games: 3; sets: 0 
+3/10/2022 19:57:02: [G_Auto 1] :  Store Text Value (Shared) for Fabio Fognini: aServing = serving:0
+3/10/2022 19:57:02: [G_Auto 1] :  Store Text Value (Shared) for Pablo Andujar: bPoints = point: 0; games: 5; sets: 0 
+3/10/2022 19:57:02: [G_Auto 1] :  Store Text Value (Shared) for Pablo Andujar: bServing = serving:2
+3/10/2022 19:57:02: [G_Auto 1] :  Store Value (Shared) for market: price = 2.68
+3/10/2022 19:57:02: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 68.42
+3/10/2022 19:57:02: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 86.14
+3/10/2022 19:57:02: [G_Auto 1] :  Store Value (Shared) for market: stake = 6.34
+3/10/2022 19:57:02: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 154.56
+3/10/2022 19:57:02: [G_Auto 1] :  Store Value (Shared) for market: pl = 4.2
+3/10/2022 19:57:02: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.68
+3/10/2022 19:57:02: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.59
+3/10/2022 19:57:09: [G_Auto 1] :  Store Text Value (Shared) for Fabio Fognini: aPoints = point: 0; games: 3; sets: 0 
+3/10/2022 19:57:09: [G_Auto 1] :  Store Text Value (Shared) for Fabio Fognini: aServing = serving:0
+3/10/2022 19:57:09: [G_Auto 1] :  Store Text Value (Shared) for Pablo Andujar: bPoints = point: 0; games: 5; sets: 0 
+3/10/2022 19:57:09: [G_Auto 1] :  Store Text Value (Shared) for Pablo Andujar: bServing = serving:2
+3/10/2022 19:57:09: [G_Auto 1] :  Store Value (Shared) for market: price = 2.68
+3/10/2022 19:57:09: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 68.42
+3/10/2022 19:57:09: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 86.14
+3/10/2022 19:57:09: [G_Auto 1] :  Store Value (Shared) for market: stake = 6.34
+3/10/2022 19:57:09: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 154.56
+3/10/2022 19:57:09: [G_Auto 1] :  Store Value (Shared) for market: pl = 4.13
+3/10/2022 19:57:09: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.7
+3/10/2022 19:57:09: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.58
+3/10/2022 19:57:42: [G_Auto 2] :  1 Automation Signals Cleared
+3/10/2022 20:04:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/10/2022 20:05:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/10/2022 20:06:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/10/2022 20:07:23: [G_Auto 2] :  1 Automation Signals Cleared
+3/10/2022 20:09:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/10/2022 20:10:06: [G_Auto 2] :  € 13.56 Lay bet placed on Pablo Andujar at 1.59. Fully matched at 1.59.  Ref: 10568          ( Fill or kill bet with 15 seconds delay.   )
+3/10/2022 20:10:10: [G_Auto 1] :  Store Text Value (Shared) for Fabio Fognini: aPoints = point: 0; games: 1; sets: 0 
+3/10/2022 20:10:10: [G_Auto 1] :  Store Text Value (Shared) for Fabio Fognini: aServing = serving:0
+3/10/2022 20:10:10: [G_Auto 1] :  Store Text Value (Shared) for Pablo Andujar: bPoints = point: 0; games: 0; sets: 1 
+3/10/2022 20:10:10: [G_Auto 1] :  Store Text Value (Shared) for Pablo Andujar: bServing = serving:2
+3/10/2022 20:10:10: [G_Auto 1] :  Store Value (Shared) for market: price = 1.59
+3/10/2022 20:10:10: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 68.42
+3/10/2022 20:10:10: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 99.7
+3/10/2022 20:10:10: [G_Auto 1] :  Store Value (Shared) for market: stake = 13.56
+3/10/2022 20:10:10: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 168.12
+3/10/2022 20:10:10: [G_Auto 1] :  Store Value (Shared) for market: pl = 3.96
+3/10/2022 20:10:10: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.72
+3/10/2022 20:10:10: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.58
+3/10/2022 20:10:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/10/2022 20:10:59: [G_Auto 2] :  1 Automation Signals Cleared
+3/10/2022 20:14:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/10/2022 20:15:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/10/2022 20:15:17: [G_Auto 2] :  1 Automation Signals Cleared
+3/10/2022 20:17:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/10/2022 20:18:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/10/2022 20:19:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/10/2022 20:19:51: [G_Auto 2] :  1 Automation Signals Cleared
+3/10/2022 20:20:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/10/2022 20:21:03: [G_Auto 2] :  Placed closure bet with greening on Pablo Andujar by Backing 22.27 at 1.92
+3/10/2022 20:21:06: [G_Auto 1] :  Store Text Value (Shared) for Fabio Fognini: aPoints = point: 0; games: 3; sets: 0 
+3/10/2022 20:21:06: [G_Auto 1] :  Store Text Value (Shared) for Fabio Fognini: aServing = serving:1
+3/10/2022 20:21:06: [G_Auto 1] :  Store Text Value (Shared) for Pablo Andujar: bPoints = point: 0; games: 1; sets: 1 
+3/10/2022 20:21:06: [G_Auto 1] :  Store Text Value (Shared) for Pablo Andujar: bServing = serving:0
+3/10/2022 20:21:06: [G_Auto 1] :  Store Value (Shared) for market: price = 1.92
+3/10/2022 20:21:06: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 90.69
+3/10/2022 20:21:06: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 99.7
+3/10/2022 20:21:06: [G_Auto 1] :  Store Value (Shared) for market: stake = 22.27
+3/10/2022 20:21:06: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 190.39
+3/10/2022 20:21:06: [G_Auto 1] :  Store Value (Shared) for market: pl = 8.82
+3/10/2022 20:21:06: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.08
+3/10/2022 20:21:06: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.91
+3/10/2022 20:21:12: [G_Auto 1] :  Store Text Value (Shared) for Fabio Fognini: aPoints = point: 0; games: 3; sets: 0 
+3/10/2022 20:21:12: [G_Auto 1] :  Store Text Value (Shared) for Fabio Fognini: aServing = serving:1
+3/10/2022 20:21:12: [G_Auto 1] :  Store Text Value (Shared) for Pablo Andujar: bPoints = point: 0; games: 1; sets: 1 
+3/10/2022 20:21:12: [G_Auto 1] :  Store Text Value (Shared) for Pablo Andujar: bServing = serving:0
+3/10/2022 20:21:12: [G_Auto 1] :  Store Value (Shared) for market: price = 1.92
+3/10/2022 20:21:12: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 90.69
+3/10/2022 20:21:12: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 99.7
+3/10/2022 20:21:12: [G_Auto 1] :  Store Value (Shared) for market: stake = 22.27
+3/10/2022 20:21:12: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 190.39
+3/10/2022 20:21:12: [G_Auto 1] :  Store Value (Shared) for market: pl = 8.82
+3/10/2022 20:21:12: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.08
+3/10/2022 20:21:12: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.94
+3/10/2022 20:21:31: [G_Auto 2] :  1 Automation Signals Cleared
+3/10/2022 20:25:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/10/2022 20:26:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/10/2022 20:27:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/10/2022 20:28:13: [G_Auto 2] :  1 Automation Signals Cleared
+3/10/2022 20:30:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/10/2022 20:30:59: [G_Auto 2] :  € 7.84 Lay bet placed on Fabio Fognini at 2.02. Fully matched at 2.  Ref: 10583          ( Fill or kill bet with 15 seconds delay.   )
+3/10/2022 20:31:01: [G_Auto 1] :  Store Text Value (Shared) for Fabio Fognini: aPoints = point: 0; games: 4; sets: 0 
+3/10/2022 20:31:01: [G_Auto 1] :  Store Text Value (Shared) for Fabio Fognini: aServing = serving:1
+3/10/2022 20:31:01: [G_Auto 1] :  Store Text Value (Shared) for Pablo Andujar: bPoints = point: 0; games: 2; sets: 1 
+3/10/2022 20:31:01: [G_Auto 1] :  Store Text Value (Shared) for Pablo Andujar: bServing = serving:0
+3/10/2022 20:31:01: [G_Auto 1] :  Store Value (Shared) for market: price = 2
+3/10/2022 20:31:01: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 90.69
+3/10/2022 20:31:01: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 107.54
+3/10/2022 20:31:01: [G_Auto 1] :  Store Value (Shared) for market: stake = 7.84
+3/10/2022 20:31:01: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 198.23
+3/10/2022 20:31:01: [G_Auto 1] :  Store Value (Shared) for market: pl = 8.82
+3/10/2022 20:31:01: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2
+3/10/2022 20:31:01: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2
+3/10/2022 20:31:07: [G_Auto 1] :  Store Text Value (Shared) for Fabio Fognini: aPoints = point: 0; games: 4; sets: 0 
+3/10/2022 20:31:07: [G_Auto 1] :  Store Text Value (Shared) for Fabio Fognini: aServing = serving:1
+3/10/2022 20:31:07: [G_Auto 1] :  Store Text Value (Shared) for Pablo Andujar: bPoints = point: 0; games: 2; sets: 1 
+3/10/2022 20:31:07: [G_Auto 1] :  Store Text Value (Shared) for Pablo Andujar: bServing = serving:0
+3/10/2022 20:31:07: [G_Auto 1] :  Store Value (Shared) for market: price = 2
+3/10/2022 20:31:07: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 90.69
+3/10/2022 20:31:07: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 107.54
+3/10/2022 20:31:07: [G_Auto 1] :  Store Value (Shared) for market: stake = 7.84
+3/10/2022 20:31:07: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 198.23
+3/10/2022 20:31:07: [G_Auto 1] :  Store Value (Shared) for market: pl = 8.82
+3/10/2022 20:31:07: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2
+3/10/2022 20:31:07: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2
+3/10/2022 20:31:19: [G_Auto 2] :  1 Automation Signals Cleared
+3/10/2022 20:33:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/10/2022 20:33:36: [G_Auto 2] :  Placed closure bet with greening on Fabio Fognini by Backing 8.48 at 1.85
+3/10/2022 20:33:39: [G_Auto 1] :  Store Text Value (Shared) for Fabio Fognini: aPoints = point: 0; games: 5; sets: 0 
+3/10/2022 20:33:39: [G_Auto 1] :  Store Text Value (Shared) for Fabio Fognini: aServing = serving:0
+3/10/2022 20:33:39: [G_Auto 1] :  Store Text Value (Shared) for Pablo Andujar: bPoints = point: 0; games: 2; sets: 1 
+3/10/2022 20:33:39: [G_Auto 1] :  Store Text Value (Shared) for Pablo Andujar: bServing = serving:2
+3/10/2022 20:33:39: [G_Auto 1] :  Store Value (Shared) for market: price = 1.85
+3/10/2022 20:33:39: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 99.17
+3/10/2022 20:33:39: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 107.54
+3/10/2022 20:33:39: [G_Auto 1] :  Store Value (Shared) for market: stake = 8.48
+3/10/2022 20:33:39: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 206.71
+3/10/2022 20:33:39: [G_Auto 1] :  Store Value (Shared) for market: pl = 8.2
+3/10/2022 20:33:39: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.85
+3/10/2022 20:33:39: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.16
+3/10/2022 20:33:45: [G_Auto 1] :  Store Text Value (Shared) for Fabio Fognini: aPoints = point: 0; games: 5; sets: 0 
+3/10/2022 20:33:45: [G_Auto 1] :  Store Text Value (Shared) for Fabio Fognini: aServing = serving:0
+3/10/2022 20:33:45: [G_Auto 1] :  Store Text Value (Shared) for Pablo Andujar: bPoints = point: 0; games: 2; sets: 1 
+3/10/2022 20:33:45: [G_Auto 1] :  Store Text Value (Shared) for Pablo Andujar: bServing = serving:2
+3/10/2022 20:33:45: [G_Auto 1] :  Store Value (Shared) for market: price = 1.85
+3/10/2022 20:33:45: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 99.17
+3/10/2022 20:33:45: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 107.54
+3/10/2022 20:33:45: [G_Auto 1] :  Store Value (Shared) for market: stake = 8.48
+3/10/2022 20:33:45: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 206.71
+3/10/2022 20:33:45: [G_Auto 1] :  Store Value (Shared) for market: pl = 8.2
+3/10/2022 20:33:45: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.87
+3/10/2022 20:33:45: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.12
+3/10/2022 20:34:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/10/2022 20:35:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/10/2022 20:35:46: [G_Auto 2] :  1 Automation Signals Cleared
+3/10/2022 20:38:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/10/2022 20:39:05: [G_Auto 2] :  € 8.79 Lay bet placed on Fabio Fognini at 1.91. Fully matched at 1.9.  Ref: 10590          ( Fill or kill bet with 15 seconds delay.   )
+3/10/2022 20:39:11: [G_Auto 1] :  Store Text Value (Shared) for Fabio Fognini: aPoints = point: 0; games: 5; sets: 0 
+3/10/2022 20:39:11: [G_Auto 1] :  Store Text Value (Shared) for Fabio Fognini: aServing = serving:1
+3/10/2022 20:39:11: [G_Auto 1] :  Store Text Value (Shared) for Pablo Andujar: bPoints = point: 0; games: 3; sets: 1 
+3/10/2022 20:39:11: [G_Auto 1] :  Store Text Value (Shared) for Pablo Andujar: bServing = serving:0
+3/10/2022 20:39:11: [G_Auto 1] :  Store Value (Shared) for market: price = 1.9
+3/10/2022 20:39:11: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 99.17
+3/10/2022 20:39:11: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 116.33
+3/10/2022 20:39:11: [G_Auto 1] :  Store Value (Shared) for market: stake = 8.79
+3/10/2022 20:39:11: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 215.5
+3/10/2022 20:39:11: [G_Auto 1] :  Store Value (Shared) for market: pl = 8.29
+3/10/2022 20:39:11: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.91
+3/10/2022 20:39:11: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.14
+3/10/2022 20:39:22: [G_Auto 2] :  1 Automation Signals Cleared
+3/10/2022 20:40:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/10/2022 20:41:10: [G_Auto 1] :  Store Value (Shared) for market: aSecondSetPrice = 1.74
+3/10/2022 20:41:10: [G_Auto 1] :  Store Value (Shared) for market: bSecondSetPrice = 2.32
+3/10/2022 20:41:13: [G_Auto 2] :  Placed closure bet with greening on Fabio Fognini by Backing 9.60 at 1.74
+3/10/2022 20:41:16: [G_Auto 1] :  Store Text Value (Shared) for Fabio Fognini: aPoints = point: 0; games: 0; sets: 1 
+3/10/2022 20:41:16: [G_Auto 1] :  Store Text Value (Shared) for Fabio Fognini: aServing = serving:0
+3/10/2022 20:41:16: [G_Auto 1] :  Store Text Value (Shared) for Pablo Andujar: bPoints = point: 0; games: 0; sets: 1 
+3/10/2022 20:41:16: [G_Auto 1] :  Store Text Value (Shared) for Pablo Andujar: bServing = serving:2
+3/10/2022 20:41:16: [G_Auto 1] :  Store Value (Shared) for market: price = 1.74
+3/10/2022 20:41:16: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 108.77
+3/10/2022 20:41:16: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 116.33
+3/10/2022 20:41:16: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.6
+3/10/2022 20:41:16: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 225.1
+3/10/2022 20:41:16: [G_Auto 1] :  Store Value (Shared) for market: pl = 7.41
+3/10/2022 20:41:16: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.74
+3/10/2022 20:41:16: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.32
+3/10/2022 20:42:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/10/2022 20:43:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/10/2022 20:43:57: [G_Auto 2] :  1 Automation Signals Cleared
+3/10/2022 20:45:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/10/2022 20:46:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/10/2022 20:46:24: [G_Auto 2] :  1 Automation Signals Cleared
+3/10/2022 20:47:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/10/2022 20:48:42: [G_Auto 2] :  1 Automation Signals Cleared
+3/10/2022 20:50:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/10/2022 20:51:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/10/2022 20:53:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/10/2022 20:53:10: [G_Auto 2] :  1 Automation Signals Cleared
+3/10/2022 20:55:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/10/2022 20:56:26: [G_Auto 2] :  1 Automation Signals Cleared
+3/10/2022 21:00:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/10/2022 21:01:08: [G_Auto 2] :  € 34.78 Lay bet placed on Fabio Fognini at 1.23. Fully matched at 1.23.  Ref: 10609          ( Fill or kill bet with 15 seconds delay.   )
+3/10/2022 21:01:10: [G_Auto 1] :  Store Text Value (Shared) for Fabio Fognini: aPoints = point: 0; games: 3; sets: 1 
+3/10/2022 21:01:10: [G_Auto 1] :  Store Text Value (Shared) for Fabio Fognini: aServing = serving:1
+3/10/2022 21:01:10: [G_Auto 1] :  Store Text Value (Shared) for Pablo Andujar: bPoints = point: 0; games: 2; sets: 1 
+3/10/2022 21:01:10: [G_Auto 1] :  Store Text Value (Shared) for Pablo Andujar: bServing = serving:0
+3/10/2022 21:01:10: [G_Auto 1] :  Store Value (Shared) for market: price = 1.23
+3/10/2022 21:01:10: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 108.77
+3/10/2022 21:01:10: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 151.11
+3/10/2022 21:01:10: [G_Auto 1] :  Store Value (Shared) for market: stake = 34.78
+3/10/2022 21:01:10: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 259.88
+3/10/2022 21:01:10: [G_Auto 1] :  Store Value (Shared) for market: pl = 6.84
+3/10/2022 21:01:10: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.23
+3/10/2022 21:01:10: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 5.5
+3/10/2022 21:01:15: [G_Auto 1] :  Store Text Value (Shared) for Fabio Fognini: aPoints = point: 0; games: 3; sets: 1 
+3/10/2022 21:01:15: [G_Auto 1] :  Store Text Value (Shared) for Fabio Fognini: aServing = serving:1
+3/10/2022 21:01:15: [G_Auto 1] :  Store Text Value (Shared) for Pablo Andujar: bPoints = point: 0; games: 2; sets: 1 
+3/10/2022 21:01:15: [G_Auto 1] :  Store Text Value (Shared) for Pablo Andujar: bServing = serving:0
+3/10/2022 21:01:15: [G_Auto 1] :  Store Value (Shared) for market: price = 1.23
+3/10/2022 21:01:15: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 108.77
+3/10/2022 21:01:15: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 151.11
+3/10/2022 21:01:15: [G_Auto 1] :  Store Value (Shared) for market: stake = 34.78
+3/10/2022 21:01:15: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 259.88
+3/10/2022 21:01:15: [G_Auto 1] :  Store Value (Shared) for market: pl = 7.12
+3/10/2022 21:01:15: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.22
+3/10/2022 21:01:15: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 5.6
+3/10/2022 21:01:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/10/2022 21:02:59: [G_Auto 2] :  1 Automation Signals Cleared
+3/10/2022 21:04:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/10/2022 21:04:16: [G_Auto 2] :  Placed closure bet with greening on Fabio Fognini by Backing 38.20 at 1.12
+3/10/2022 21:04:18: [G_Auto 1] :  Store Text Value (Shared) for Fabio Fognini: aPoints = point: 0; games: 4; sets: 1 
+3/10/2022 21:04:18: [G_Auto 1] :  Store Text Value (Shared) for Fabio Fognini: aServing = serving:0
+3/10/2022 21:04:18: [G_Auto 1] :  Store Text Value (Shared) for Pablo Andujar: bPoints = point: 0; games: 2; sets: 1 
+3/10/2022 21:04:18: [G_Auto 1] :  Store Text Value (Shared) for Pablo Andujar: bServing = serving:2
+3/10/2022 21:04:18: [G_Auto 1] :  Store Value (Shared) for market: price = 1.12
+3/10/2022 21:04:18: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 146.97
+3/10/2022 21:04:18: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 151.11
+3/10/2022 21:04:18: [G_Auto 1] :  Store Value (Shared) for market: stake = 38.2
+3/10/2022 21:04:18: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 298.08
+3/10/2022 21:04:18: [G_Auto 1] :  Store Value (Shared) for market: pl = 4.06
+3/10/2022 21:04:18: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.13
+3/10/2022 21:04:18: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 8.6
+3/10/2022 21:04:23: [G_Auto 1] :  Store Text Value (Shared) for Fabio Fognini: aPoints = point: 0; games: 4; sets: 1 
+3/10/2022 21:04:23: [G_Auto 1] :  Store Text Value (Shared) for Fabio Fognini: aServing = serving:0
+3/10/2022 21:04:23: [G_Auto 1] :  Store Text Value (Shared) for Pablo Andujar: bPoints = point: 0; games: 2; sets: 1 
+3/10/2022 21:04:23: [G_Auto 1] :  Store Text Value (Shared) for Pablo Andujar: bServing = serving:2
+3/10/2022 21:04:23: [G_Auto 1] :  Store Value (Shared) for market: price = 1.12
+3/10/2022 21:04:23: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 146.97
+3/10/2022 21:04:23: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 151.11
+3/10/2022 21:04:23: [G_Auto 1] :  Store Value (Shared) for market: stake = 38.2
+3/10/2022 21:04:23: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 298.08
+3/10/2022 21:04:23: [G_Auto 1] :  Store Value (Shared) for market: pl = 4.06
+3/10/2022 21:04:23: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.13
+3/10/2022 21:04:23: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 8.8
+3/10/2022 21:04:44: [G_Auto 2] :  1 Automation Signals Cleared
+3/10/2022 21:07:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/10/2022 21:07:13: [G_Auto 2] :  € 38.10 Lay bet placed on Fabio Fognini at 1.21. Fully matched at 1.2.  Ref: 10616          ( Fill or kill bet with 15 seconds delay.   )
+3/10/2022 21:07:15: [G_Auto 1] :  Store Text Value (Shared) for Fabio Fognini: aPoints = point: 0; games: 4; sets: 1 
+3/10/2022 21:07:15: [G_Auto 1] :  Store Text Value (Shared) for Fabio Fognini: aServing = serving:1
+3/10/2022 21:07:15: [G_Auto 1] :  Store Text Value (Shared) for Pablo Andujar: bPoints = point: 0; games: 3; sets: 1 
+3/10/2022 21:07:15: [G_Auto 1] :  Store Text Value (Shared) for Pablo Andujar: bServing = serving:0
+3/10/2022 21:07:15: [G_Auto 1] :  Store Value (Shared) for market: price = 1.2
+3/10/2022 21:07:15: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 146.97
+3/10/2022 21:07:15: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 189.21
+3/10/2022 21:07:15: [G_Auto 1] :  Store Value (Shared) for market: stake = 38.1
+3/10/2022 21:07:15: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 336.18
+3/10/2022 21:07:15: [G_Auto 1] :  Store Value (Shared) for market: pl = 3.74
+3/10/2022 21:07:15: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.19
+3/10/2022 21:07:15: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 6.2
+3/10/2022 21:07:21: [G_Auto 1] :  Store Text Value (Shared) for Fabio Fognini: aPoints = point: 0; games: 4; sets: 1 
+3/10/2022 21:07:21: [G_Auto 1] :  Store Text Value (Shared) for Fabio Fognini: aServing = serving:1
+3/10/2022 21:07:21: [G_Auto 1] :  Store Text Value (Shared) for Pablo Andujar: bPoints = point: 0; games: 3; sets: 1 
+3/10/2022 21:07:21: [G_Auto 1] :  Store Text Value (Shared) for Pablo Andujar: bServing = serving:0
+3/10/2022 21:07:21: [G_Auto 1] :  Store Value (Shared) for market: price = 1.2
+3/10/2022 21:07:21: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 146.97
+3/10/2022 21:07:21: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 189.21
+3/10/2022 21:07:21: [G_Auto 1] :  Store Value (Shared) for market: stake = 38.1
+3/10/2022 21:07:21: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 336.18
+3/10/2022 21:07:21: [G_Auto 1] :  Store Value (Shared) for market: pl = 4.06
+3/10/2022 21:07:21: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.2
+3/10/2022 21:07:21: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 6
+3/10/2022 21:08:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/10/2022 21:09:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/10/2022 21:09:25: [G_Auto 2] :  1 Automation Signals Cleared
+3/10/2022 21:10:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/10/2022 21:11:06: [G_Auto 2] :  Placed closure bet with greening on Fabio Fognini by Backing 42.72 at 1.07
+3/10/2022 21:11:08: [G_Auto 1] :  Store Text Value (Shared) for Fabio Fognini: aPoints = point: 0; games: 5; sets: 1 
+3/10/2022 21:11:08: [G_Auto 1] :  Store Text Value (Shared) for Fabio Fognini: aServing = serving:0
+3/10/2022 21:11:08: [G_Auto 1] :  Store Text Value (Shared) for Pablo Andujar: bPoints = point: 0; games: 3; sets: 1 
+3/10/2022 21:11:08: [G_Auto 1] :  Store Text Value (Shared) for Pablo Andujar: bServing = serving:2
+3/10/2022 21:11:08: [G_Auto 1] :  Store Value (Shared) for market: price = 1.07
+3/10/2022 21:11:08: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 189.69
+3/10/2022 21:11:08: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 189.21
+3/10/2022 21:11:08: [G_Auto 1] :  Store Value (Shared) for market: stake = 42.72
+3/10/2022 21:11:08: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 378.9
+3/10/2022 21:11:08: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.49
+3/10/2022 21:11:08: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.07
+3/10/2022 21:11:08: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 15
+3/10/2022 21:11:44: [G_Auto 2] :  1 Automation Signals Cleared
+3/10/2022 21:16:36:  Guardian has detected that the market is suspended

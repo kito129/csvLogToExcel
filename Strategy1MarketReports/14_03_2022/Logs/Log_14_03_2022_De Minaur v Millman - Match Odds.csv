@@ -1,0 +1,392 @@
+3/13/2022 12:34:10: [G_Auto 1] :  Store Text Value (Shared) for Alex De Minaur: info = marketName: De Minaur v Millman - Match Odds; runnerA: Alex De Minaur; runnerB: John Millman 
+3/13/2022 12:34:10: [G_Auto 1] :  Store Value (Shared) for market: aId = 10109527
+3/13/2022 12:34:10: [G_Auto 1] :  Store Value (Shared) for market: bId = 4415206
+3/14/2022 00:17:57:  Guardian has detected that the market is in-play
+3/14/2022 00:17:57:  Guardian has detected that the market is suspended
+3/14/2022 00:17:59: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.35; bBsp: 3.75; volume: 57534.13 
+3/14/2022 00:17:59: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.35; bBsp: 3.75; volume: 57534.13 
+3/14/2022 00:17:59:  Guardian has detected that the market is now unsuspended
+3/14/2022 00:18:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/14/2022 00:18:26: [G_Auto 2] :  1 Automation Signals Cleared
+3/14/2022 00:20:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/14/2022 00:20:31: [G_Auto 2] :  € 15.69 Lay bet placed on Alex De Minaur at 1.51. Fully matched at 1.5.  Ref: 12393          ( Fill or kill bet with 15 seconds delay.   )
+3/14/2022 00:20:32: [G_Auto 1] :  Store Text Value (Shared) for Alex De Minaur: aPoints = point: 0; games: 0; sets: 0 
+3/14/2022 00:20:32: [G_Auto 1] :  Store Text Value (Shared) for Alex De Minaur: aServing = serving:1
+3/14/2022 00:20:32: [G_Auto 1] :  Store Text Value (Shared) for John Millman: bPoints = point: 0; games: 1; sets: 0 
+3/14/2022 00:20:32: [G_Auto 1] :  Store Text Value (Shared) for John Millman: bServing = serving:0
+3/14/2022 00:20:32: [G_Auto 1] :  Store Value (Shared) for market: price = 1.5
+3/14/2022 00:20:32: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 0
+3/14/2022 00:20:32: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 15.69
+3/14/2022 00:20:32: [G_Auto 1] :  Store Value (Shared) for market: stake = 15.69
+3/14/2022 00:20:32: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 15.69
+3/14/2022 00:20:32: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.21
+3/14/2022 00:20:32: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.49
+3/14/2022 00:20:32: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3
+3/14/2022 00:21:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/14/2022 00:21:27: [G_Auto 2] :  1 Automation Signals Cleared
+3/14/2022 00:23:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/14/2022 00:23:27: [G_Auto 2] :  Placed closure bet with greening on Alex De Minaur by Backing 16.69 at 1.41
+3/14/2022 00:23:28: [G_Auto 1] :  Store Text Value (Shared) for Alex De Minaur: aPoints = point: 0; games: 1; sets: 0 
+3/14/2022 00:23:28: [G_Auto 1] :  Store Text Value (Shared) for Alex De Minaur: aServing = serving:0
+3/14/2022 00:23:28: [G_Auto 1] :  Store Text Value (Shared) for John Millman: bPoints = point: 0; games: 1; sets: 0 
+3/14/2022 00:23:28: [G_Auto 1] :  Store Text Value (Shared) for John Millman: bServing = serving:2
+3/14/2022 00:23:28: [G_Auto 1] :  Store Value (Shared) for market: price = 1.41
+3/14/2022 00:23:28: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 16.69
+3/14/2022 00:23:28: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 15.69
+3/14/2022 00:23:28: [G_Auto 1] :  Store Value (Shared) for market: stake = 16.69
+3/14/2022 00:23:28: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 32.38
+3/14/2022 00:23:28: [G_Auto 1] :  Store Value (Shared) for market: pl = -1
+3/14/2022 00:23:28: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.41
+3/14/2022 00:23:28: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.4
+3/14/2022 00:23:34: [G_Auto 1] :  Store Text Value (Shared) for Alex De Minaur: aPoints = point: 0; games: 1; sets: 0 
+3/14/2022 00:23:34: [G_Auto 1] :  Store Text Value (Shared) for Alex De Minaur: aServing = serving:0
+3/14/2022 00:23:34: [G_Auto 1] :  Store Text Value (Shared) for John Millman: bPoints = point: 0; games: 1; sets: 0 
+3/14/2022 00:23:34: [G_Auto 1] :  Store Text Value (Shared) for John Millman: bServing = serving:2
+3/14/2022 00:23:34: [G_Auto 1] :  Store Value (Shared) for market: price = 1.41
+3/14/2022 00:23:34: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 16.69
+3/14/2022 00:23:34: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 15.69
+3/14/2022 00:23:34: [G_Auto 1] :  Store Value (Shared) for market: stake = 16.69
+3/14/2022 00:23:34: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 32.38
+3/14/2022 00:23:34: [G_Auto 1] :  Store Value (Shared) for market: pl = -1
+3/14/2022 00:23:34: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.42
+3/14/2022 00:23:34: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.4
+3/14/2022 00:24:10: [G_Auto 2] :  1 Automation Signals Cleared
+3/14/2022 00:26:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/14/2022 00:27:03: [G_Auto 2] :  € 16.33 Lay bet placed on Alex De Minaur at 1.49. Fully matched at 1.48.  Ref: 12399          ( Fill or kill bet with 15 seconds delay.   )
+3/14/2022 00:27:04: [G_Auto 1] :  Store Text Value (Shared) for Alex De Minaur: aPoints = point: 0; games: 1; sets: 0 
+3/14/2022 00:27:04: [G_Auto 1] :  Store Text Value (Shared) for Alex De Minaur: aServing = serving:1
+3/14/2022 00:27:04: [G_Auto 1] :  Store Text Value (Shared) for John Millman: bPoints = point: 0; games: 2; sets: 0 
+3/14/2022 00:27:04: [G_Auto 1] :  Store Text Value (Shared) for John Millman: bServing = serving:0
+3/14/2022 00:27:04: [G_Auto 1] :  Store Value (Shared) for market: price = 1.48
+3/14/2022 00:27:04: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 16.69
+3/14/2022 00:27:04: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 32.02
+3/14/2022 00:27:04: [G_Auto 1] :  Store Value (Shared) for market: stake = 16.33
+3/14/2022 00:27:04: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 48.71
+3/14/2022 00:27:04: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.11
+3/14/2022 00:27:04: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.47
+3/14/2022 00:27:04: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.15
+3/14/2022 00:27:10: [G_Auto 1] :  Store Text Value (Shared) for Alex De Minaur: aPoints = point: 0; games: 1; sets: 0 
+3/14/2022 00:27:10: [G_Auto 1] :  Store Text Value (Shared) for Alex De Minaur: aServing = serving:1
+3/14/2022 00:27:10: [G_Auto 1] :  Store Text Value (Shared) for John Millman: bPoints = point: 0; games: 2; sets: 0 
+3/14/2022 00:27:10: [G_Auto 1] :  Store Text Value (Shared) for John Millman: bServing = serving:0
+3/14/2022 00:27:10: [G_Auto 1] :  Store Value (Shared) for market: price = 1.48
+3/14/2022 00:27:10: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 16.69
+3/14/2022 00:27:10: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 32.02
+3/14/2022 00:27:10: [G_Auto 1] :  Store Value (Shared) for market: stake = 16.33
+3/14/2022 00:27:10: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 48.71
+3/14/2022 00:27:10: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.11
+3/14/2022 00:27:10: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.47
+3/14/2022 00:27:10: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.15
+3/14/2022 00:27:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/14/2022 00:28:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/14/2022 00:29:02: [G_Auto 2] :  1 Automation Signals Cleared
+3/14/2022 00:30:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/14/2022 00:30:35: [G_Auto 2] :  Placed closure bet with greening on Alex De Minaur by Backing 17.51 at 1.38
+3/14/2022 00:30:36: [G_Auto 1] :  Store Text Value (Shared) for Alex De Minaur: aPoints = point: 0; games: 2; sets: 0 
+3/14/2022 00:30:36: [G_Auto 1] :  Store Text Value (Shared) for Alex De Minaur: aServing = serving:0
+3/14/2022 00:30:36: [G_Auto 1] :  Store Text Value (Shared) for John Millman: bPoints = point: 0; games: 2; sets: 0 
+3/14/2022 00:30:36: [G_Auto 1] :  Store Text Value (Shared) for John Millman: bServing = serving:2
+3/14/2022 00:30:36: [G_Auto 1] :  Store Value (Shared) for market: price = 1.38
+3/14/2022 00:30:36: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 34.2
+3/14/2022 00:30:36: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 32.02
+3/14/2022 00:30:36: [G_Auto 1] :  Store Value (Shared) for market: stake = 17.51
+3/14/2022 00:30:36: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 66.22
+3/14/2022 00:30:36: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.19
+3/14/2022 00:30:36: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.38
+3/14/2022 00:30:36: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.6
+3/14/2022 00:30:42: [G_Auto 1] :  Store Text Value (Shared) for Alex De Minaur: aPoints = point: 0; games: 2; sets: 0 
+3/14/2022 00:30:42: [G_Auto 1] :  Store Text Value (Shared) for Alex De Minaur: aServing = serving:0
+3/14/2022 00:30:42: [G_Auto 1] :  Store Text Value (Shared) for John Millman: bPoints = point: 0; games: 2; sets: 0 
+3/14/2022 00:30:42: [G_Auto 1] :  Store Text Value (Shared) for John Millman: bServing = serving:2
+3/14/2022 00:30:42: [G_Auto 1] :  Store Value (Shared) for market: price = 1.38
+3/14/2022 00:30:42: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 34.2
+3/14/2022 00:30:42: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 32.02
+3/14/2022 00:30:42: [G_Auto 1] :  Store Value (Shared) for market: stake = 17.51
+3/14/2022 00:30:42: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 66.22
+3/14/2022 00:30:42: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.19
+3/14/2022 00:30:42: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.38
+3/14/2022 00:30:42: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.6
+3/14/2022 00:31:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/14/2022 00:31:30: [G_Auto 2] :  1 Automation Signals Cleared
+3/14/2022 00:34:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/14/2022 00:34:50: [G_Auto 2] :  € 40.00 Lay bet placed on Alex De Minaur at 1.2. Fully matched at 1.19.  Ref: 12406          ( Fill or kill bet with 15 seconds delay.   )
+3/14/2022 00:34:51: [G_Auto 1] :  Store Text Value (Shared) for Alex De Minaur: aPoints = point: 0; games: 3; sets: 0 
+3/14/2022 00:34:51: [G_Auto 1] :  Store Text Value (Shared) for Alex De Minaur: aServing = serving:1
+3/14/2022 00:34:51: [G_Auto 1] :  Store Text Value (Shared) for John Millman: bPoints = point: 0; games: 2; sets: 0 
+3/14/2022 00:34:51: [G_Auto 1] :  Store Text Value (Shared) for John Millman: bServing = serving:0
+3/14/2022 00:34:51: [G_Auto 1] :  Store Value (Shared) for market: price = 1.19
+3/14/2022 00:34:51: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 34.2
+3/14/2022 00:34:51: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 72.02
+3/14/2022 00:34:51: [G_Auto 1] :  Store Value (Shared) for market: stake = 40
+3/14/2022 00:34:51: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 106.22
+3/14/2022 00:34:51: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.52
+3/14/2022 00:34:51: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.18
+3/14/2022 00:34:51: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 6.4
+3/14/2022 00:35:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/14/2022 00:36:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/14/2022 00:36:42: [G_Auto 2] :  1 Automation Signals Cleared
+3/14/2022 00:37:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/14/2022 00:37:52: [G_Auto 2] :  Placed closure bet with greening on Alex De Minaur by Backing 41.76 at 1.14
+3/14/2022 00:37:53: [G_Auto 1] :  Store Text Value (Shared) for Alex De Minaur: aPoints = point: 0; games: 4; sets: 0 
+3/14/2022 00:37:53: [G_Auto 1] :  Store Text Value (Shared) for Alex De Minaur: aServing = serving:0
+3/14/2022 00:37:53: [G_Auto 1] :  Store Text Value (Shared) for John Millman: bPoints = point: 0; games: 2; sets: 0 
+3/14/2022 00:37:53: [G_Auto 1] :  Store Text Value (Shared) for John Millman: bServing = serving:2
+3/14/2022 00:37:53: [G_Auto 1] :  Store Value (Shared) for market: price = 1.14
+3/14/2022 00:37:53: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 75.96
+3/14/2022 00:37:53: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 72.02
+3/14/2022 00:37:53: [G_Auto 1] :  Store Value (Shared) for market: stake = 41.76
+3/14/2022 00:37:53: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 147.98
+3/14/2022 00:37:53: [G_Auto 1] :  Store Value (Shared) for market: pl = -3.94
+3/14/2022 00:37:53: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.14
+3/14/2022 00:37:53: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 7.8
+3/14/2022 00:38:30: [G_Auto 2] :  1 Automation Signals Cleared
+3/14/2022 00:40:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/14/2022 00:41:08: [G_Auto 2] :  € 42.11 Lay bet placed on Alex De Minaur at 1.19. Fully matched at 1.17.  Ref: 12412          ( Fill or kill bet with 15 seconds delay.   )
+3/14/2022 00:41:09: [G_Auto 1] :  Store Text Value (Shared) for Alex De Minaur: aPoints = point: 0; games: 4; sets: 0 
+3/14/2022 00:41:09: [G_Auto 1] :  Store Text Value (Shared) for Alex De Minaur: aServing = serving:1
+3/14/2022 00:41:09: [G_Auto 1] :  Store Text Value (Shared) for John Millman: bPoints = point: 0; games: 3; sets: 0 
+3/14/2022 00:41:09: [G_Auto 1] :  Store Text Value (Shared) for John Millman: bServing = serving:0
+3/14/2022 00:41:09: [G_Auto 1] :  Store Value (Shared) for market: price = 1.17
+3/14/2022 00:41:09: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 75.96
+3/14/2022 00:41:09: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 114.13
+3/14/2022 00:41:09: [G_Auto 1] :  Store Value (Shared) for market: stake = 42.11
+3/14/2022 00:41:09: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 190.09
+3/14/2022 00:41:09: [G_Auto 1] :  Store Value (Shared) for market: pl = -4.3
+3/14/2022 00:41:09: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.17
+3/14/2022 00:41:09: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 7
+3/14/2022 00:41:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/14/2022 00:42:56: [G_Auto 2] :  1 Automation Signals Cleared
+3/14/2022 00:48:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/14/2022 00:48:26: [G_Auto 2] :  Placed closure bet with greening on Alex De Minaur by Backing 43.60 at 1.13
+3/14/2022 00:48:27: [G_Auto 1] :  Store Text Value (Shared) for Alex De Minaur: aPoints = point: 0; games: 5; sets: 0 
+3/14/2022 00:48:27: [G_Auto 1] :  Store Text Value (Shared) for Alex De Minaur: aServing = serving:0
+3/14/2022 00:48:27: [G_Auto 1] :  Store Text Value (Shared) for John Millman: bPoints = point: 0; games: 3; sets: 0 
+3/14/2022 00:48:27: [G_Auto 1] :  Store Text Value (Shared) for John Millman: bServing = serving:2
+3/14/2022 00:48:27: [G_Auto 1] :  Store Value (Shared) for market: price = 1.13
+3/14/2022 00:48:27: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 119.56
+3/14/2022 00:48:27: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 114.13
+3/14/2022 00:48:27: [G_Auto 1] :  Store Value (Shared) for market: stake = 43.6
+3/14/2022 00:48:27: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 233.69
+3/14/2022 00:48:27: [G_Auto 1] :  Store Value (Shared) for market: pl = -5.43
+3/14/2022 00:48:27: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.14
+3/14/2022 00:48:27: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 7
+3/14/2022 00:48:58: [G_Auto 2] :  1 Automation Signals Cleared
+3/14/2022 00:51:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/14/2022 00:52:00: [G_Auto 2] :  € 47.06 Lay bet placed on Alex De Minaur at 1.17. Fully matched at 1.17.  Ref: 12421          ( Fill or kill bet with 15 seconds delay.   )
+3/14/2022 00:52:01: [G_Auto 1] :  Store Text Value (Shared) for Alex De Minaur: aPoints = point: 0; games: 5; sets: 0 
+3/14/2022 00:52:01: [G_Auto 1] :  Store Text Value (Shared) for Alex De Minaur: aServing = serving:1
+3/14/2022 00:52:01: [G_Auto 1] :  Store Text Value (Shared) for John Millman: bPoints = point: 0; games: 4; sets: 0 
+3/14/2022 00:52:01: [G_Auto 1] :  Store Text Value (Shared) for John Millman: bServing = serving:0
+3/14/2022 00:52:01: [G_Auto 1] :  Store Value (Shared) for market: price = 1.17
+3/14/2022 00:52:01: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 119.56
+3/14/2022 00:52:01: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 161.19
+3/14/2022 00:52:01: [G_Auto 1] :  Store Value (Shared) for market: stake = 47.06
+3/14/2022 00:52:01: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 280.75
+3/14/2022 00:52:01: [G_Auto 1] :  Store Value (Shared) for market: pl = -5.84
+3/14/2022 00:52:01: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.17
+3/14/2022 00:52:01: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 7.6
+3/14/2022 00:52:06: [G_Auto 1] :  Store Text Value (Shared) for Alex De Minaur: aPoints = point: 0; games: 5; sets: 0 
+3/14/2022 00:52:06: [G_Auto 1] :  Store Text Value (Shared) for Alex De Minaur: aServing = serving:1
+3/14/2022 00:52:06: [G_Auto 1] :  Store Text Value (Shared) for John Millman: bPoints = point: 0; games: 4; sets: 0 
+3/14/2022 00:52:06: [G_Auto 1] :  Store Text Value (Shared) for John Millman: bServing = serving:0
+3/14/2022 00:52:06: [G_Auto 1] :  Store Value (Shared) for market: price = 1.17
+3/14/2022 00:52:06: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 119.56
+3/14/2022 00:52:06: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 161.19
+3/14/2022 00:52:06: [G_Auto 1] :  Store Value (Shared) for market: stake = 47.06
+3/14/2022 00:52:06: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 280.75
+3/14/2022 00:52:06: [G_Auto 1] :  Store Value (Shared) for market: pl = -5.84
+3/14/2022 00:52:06: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.16
+3/14/2022 00:52:06: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 7.2
+3/14/2022 00:52:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/14/2022 00:53:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/14/2022 00:54:03: [G_Auto 2] :  1 Automation Signals Cleared
+3/14/2022 00:57:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/14/2022 00:57:40: [G_Auto 2] :  Placed closure bet with greening on Alex De Minaur by Backing 37.71 at 1.46
+3/14/2022 00:57:43: [G_Auto 1] :  Store Text Value (Shared) for Alex De Minaur: aPoints = point: 0; games: 5; sets: 0 
+3/14/2022 00:57:43: [G_Auto 1] :  Store Text Value (Shared) for Alex De Minaur: aServing = serving:0
+3/14/2022 00:57:43: [G_Auto 1] :  Store Text Value (Shared) for John Millman: bPoints = point: 0; games: 5; sets: 0 
+3/14/2022 00:57:43: [G_Auto 1] :  Store Text Value (Shared) for John Millman: bServing = serving:2
+3/14/2022 00:57:43: [G_Auto 1] :  Store Value (Shared) for market: price = 1.46
+3/14/2022 00:57:43: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 157.27
+3/14/2022 00:57:43: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 161.19
+3/14/2022 00:57:43: [G_Auto 1] :  Store Value (Shared) for market: stake = 37.71
+3/14/2022 00:57:43: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 318.46
+3/14/2022 00:57:43: [G_Auto 1] :  Store Value (Shared) for market: pl = 3.84
+3/14/2022 00:57:43: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.46
+3/14/2022 00:57:43: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.15
+3/14/2022 00:57:49: [G_Auto 1] :  Store Text Value (Shared) for Alex De Minaur: aPoints = point: 0; games: 5; sets: 0 
+3/14/2022 00:57:49: [G_Auto 1] :  Store Text Value (Shared) for Alex De Minaur: aServing = serving:0
+3/14/2022 00:57:49: [G_Auto 1] :  Store Text Value (Shared) for John Millman: bPoints = point: 0; games: 5; sets: 0 
+3/14/2022 00:57:49: [G_Auto 1] :  Store Text Value (Shared) for John Millman: bServing = serving:2
+3/14/2022 00:57:49: [G_Auto 1] :  Store Value (Shared) for market: price = 1.46
+3/14/2022 00:57:49: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 157.27
+3/14/2022 00:57:49: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 161.19
+3/14/2022 00:57:49: [G_Auto 1] :  Store Value (Shared) for market: stake = 37.71
+3/14/2022 00:57:49: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 318.46
+3/14/2022 00:57:49: [G_Auto 1] :  Store Value (Shared) for market: pl = 3.84
+3/14/2022 00:57:49: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.45
+3/14/2022 00:57:49: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.15
+3/14/2022 00:58:29: [G_Auto 2] :  1 Automation Signals Cleared
+3/14/2022 01:01:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/14/2022 01:01:18: [G_Auto 2] :  € 13.33 Lay bet placed on Alex De Minaur at 1.6. Fully matched at 1.59.  Ref: 12430          ( Fill or kill bet with 15 seconds delay.   )
+3/14/2022 01:01:18: [G_Auto 1] :  Store Text Value (Shared) for Alex De Minaur: aPoints = point: 0; games: 5; sets: 0 
+3/14/2022 01:01:18: [G_Auto 1] :  Store Text Value (Shared) for Alex De Minaur: aServing = serving:1
+3/14/2022 01:01:18: [G_Auto 1] :  Store Text Value (Shared) for John Millman: bPoints = point: 0; games: 6; sets: 0 
+3/14/2022 01:01:18: [G_Auto 1] :  Store Text Value (Shared) for John Millman: bServing = serving:0
+3/14/2022 01:01:18: [G_Auto 1] :  Store Value (Shared) for market: price = 1.59
+3/14/2022 01:01:18: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 157.27
+3/14/2022 01:01:18: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 174.52
+3/14/2022 01:01:18: [G_Auto 1] :  Store Value (Shared) for market: stake = 13.33
+3/14/2022 01:01:18: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 331.79
+3/14/2022 01:01:18: [G_Auto 1] :  Store Value (Shared) for market: pl = 3.75
+3/14/2022 01:01:18: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.58
+3/14/2022 01:01:18: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.74
+3/14/2022 01:02:06: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/14/2022 01:03:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/14/2022 01:03:27: [G_Auto 2] :  1 Automation Signals Cleared
+3/14/2022 01:05:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/14/2022 01:05:15: [G_Auto 2] :  Placed closure bet with greening on Alex De Minaur by Backing 14.62 at 1.45
+3/14/2022 01:05:16: [G_Auto 1] :  Store Text Value (Shared) for Alex De Minaur: aPoints = point: 0; games: 6; sets: 0 
+3/14/2022 01:05:16: [G_Auto 1] :  Store Text Value (Shared) for Alex De Minaur: aServing = serving:0
+3/14/2022 01:05:16: [G_Auto 1] :  Store Text Value (Shared) for John Millman: bPoints = point: 0; games: 6; sets: 0 
+3/14/2022 01:05:16: [G_Auto 1] :  Store Text Value (Shared) for John Millman: bServing = serving:2
+3/14/2022 01:05:16: [G_Auto 1] :  Store Value (Shared) for market: price = 1.45
+3/14/2022 01:05:16: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 171.89
+3/14/2022 01:05:16: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 174.52
+3/14/2022 01:05:16: [G_Auto 1] :  Store Value (Shared) for market: stake = 14.62
+3/14/2022 01:05:16: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 346.41
+3/14/2022 01:05:16: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.58
+3/14/2022 01:05:16: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.45
+3/14/2022 01:05:16: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3
+3/14/2022 01:06:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/14/2022 01:17:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/14/2022 01:17:24: [G_Auto 1] :  Store Value (Shared) for market: aFirstSetPrice = 1.15
+3/14/2022 01:17:24: [G_Auto 1] :  Store Value (Shared) for market: bFirstSetPrice = 7.4
+3/14/2022 01:18:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/14/2022 01:19:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/14/2022 01:20:00: [G_Auto 2] :  1 Automation Signals Cleared
+3/14/2022 01:21:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/14/2022 01:22:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/14/2022 01:22:22: [G_Auto 2] :  1 Automation Signals Cleared
+3/14/2022 01:30:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/14/2022 01:30:32: [G_Auto 2] :  € 50.00 Lay bet placed on Alex De Minaur at 1.16. Fully matched at 1.15.  Ref: 12450          ( Fill or kill bet with 15 seconds delay.   )
+3/14/2022 01:30:33: [G_Auto 1] :  Store Text Value (Shared) for Alex De Minaur: aPoints = point: 0; games: 1; sets: 1 
+3/14/2022 01:30:33: [G_Auto 1] :  Store Text Value (Shared) for Alex De Minaur: aServing = serving:1
+3/14/2022 01:30:33: [G_Auto 1] :  Store Text Value (Shared) for John Millman: bPoints = point: 0; games: 1; sets: 0 
+3/14/2022 01:30:33: [G_Auto 1] :  Store Text Value (Shared) for John Millman: bServing = serving:0
+3/14/2022 01:30:33: [G_Auto 1] :  Store Value (Shared) for market: price = 1.15
+3/14/2022 01:30:33: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 171.89
+3/14/2022 01:30:33: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 224.52
+3/14/2022 01:30:33: [G_Auto 1] :  Store Value (Shared) for market: stake = 50
+3/14/2022 01:30:33: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 396.41
+3/14/2022 01:30:33: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.15
+3/14/2022 01:30:33: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.14
+3/14/2022 01:30:33: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 8
+3/14/2022 01:30:38: [G_Auto 1] :  Store Text Value (Shared) for Alex De Minaur: aPoints = point: 0; games: 1; sets: 1 
+3/14/2022 01:30:38: [G_Auto 1] :  Store Text Value (Shared) for Alex De Minaur: aServing = serving:1
+3/14/2022 01:30:38: [G_Auto 1] :  Store Text Value (Shared) for John Millman: bPoints = point: 0; games: 1; sets: 0 
+3/14/2022 01:30:38: [G_Auto 1] :  Store Text Value (Shared) for John Millman: bServing = serving:0
+3/14/2022 01:30:38: [G_Auto 1] :  Store Value (Shared) for market: price = 1.15
+3/14/2022 01:30:38: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 171.89
+3/14/2022 01:30:38: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 224.52
+3/14/2022 01:30:38: [G_Auto 1] :  Store Value (Shared) for market: stake = 50
+3/14/2022 01:30:38: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 396.41
+3/14/2022 01:30:38: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.15
+3/14/2022 01:30:38: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.14
+3/14/2022 01:30:38: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 7.6
+3/14/2022 01:31:01: [G_Auto 2] :  1 Automation Signals Cleared
+3/14/2022 01:33:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/14/2022 01:33:47: [G_Auto 2] :  Placed closure bet with greening on Alex De Minaur by Backing 51.34 at 1.12
+3/14/2022 01:33:48: [G_Auto 1] :  Store Text Value (Shared) for Alex De Minaur: aPoints = point: 0; games: 2; sets: 1 
+3/14/2022 01:33:48: [G_Auto 1] :  Store Text Value (Shared) for Alex De Minaur: aServing = serving:0
+3/14/2022 01:33:48: [G_Auto 1] :  Store Text Value (Shared) for John Millman: bPoints = point: 0; games: 1; sets: 0 
+3/14/2022 01:33:48: [G_Auto 1] :  Store Text Value (Shared) for John Millman: bServing = serving:2
+3/14/2022 01:33:48: [G_Auto 1] :  Store Value (Shared) for market: price = 1.12
+3/14/2022 01:33:48: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 223.23
+3/14/2022 01:33:48: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 224.52
+3/14/2022 01:33:48: [G_Auto 1] :  Store Value (Shared) for market: stake = 51.34
+3/14/2022 01:33:48: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 447.75
+3/14/2022 01:33:48: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.26
+3/14/2022 01:33:48: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.13
+3/14/2022 01:33:48: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 8.8
+3/14/2022 01:33:54: [G_Auto 1] :  Store Text Value (Shared) for Alex De Minaur: aPoints = point: 0; games: 2; sets: 1 
+3/14/2022 01:33:54: [G_Auto 1] :  Store Text Value (Shared) for Alex De Minaur: aServing = serving:0
+3/14/2022 01:33:54: [G_Auto 1] :  Store Text Value (Shared) for John Millman: bPoints = point: 0; games: 1; sets: 0 
+3/14/2022 01:33:54: [G_Auto 1] :  Store Text Value (Shared) for John Millman: bServing = serving:2
+3/14/2022 01:33:54: [G_Auto 1] :  Store Value (Shared) for market: price = 1.12
+3/14/2022 01:33:54: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 223.23
+3/14/2022 01:33:54: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 224.52
+3/14/2022 01:33:54: [G_Auto 1] :  Store Value (Shared) for market: stake = 51.34
+3/14/2022 01:33:54: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 447.75
+3/14/2022 01:33:54: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.26
+3/14/2022 01:33:54: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.13
+3/14/2022 01:33:54: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 8.8
+3/14/2022 01:34:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/14/2022 01:35:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/14/2022 01:35:54: [G_Auto 2] :  1 Automation Signals Cleared
+3/14/2022 01:38:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/14/2022 01:38:36: [G_Auto 2] :  € 47.06 Lay bet placed on Alex De Minaur at 1.17. Fully matched at 1.16.  Ref: 12454          ( Fill or kill bet with 15 seconds delay.   )
+3/14/2022 01:38:37: [G_Auto 1] :  Store Text Value (Shared) for Alex De Minaur: aPoints = point: 0; games: 2; sets: 1 
+3/14/2022 01:38:37: [G_Auto 1] :  Store Text Value (Shared) for Alex De Minaur: aServing = serving:1
+3/14/2022 01:38:37: [G_Auto 1] :  Store Text Value (Shared) for John Millman: bPoints = point: 0; games: 2; sets: 0 
+3/14/2022 01:38:37: [G_Auto 1] :  Store Text Value (Shared) for John Millman: bServing = serving:0
+3/14/2022 01:38:37: [G_Auto 1] :  Store Value (Shared) for market: price = 1.16
+3/14/2022 01:38:37: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 223.23
+3/14/2022 01:38:37: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 271.58
+3/14/2022 01:38:37: [G_Auto 1] :  Store Value (Shared) for market: stake = 47.06
+3/14/2022 01:38:37: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 494.81
+3/14/2022 01:38:37: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.86
+3/14/2022 01:38:37: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.16
+3/14/2022 01:38:37: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 7.6
+3/14/2022 01:38:43: [G_Auto 1] :  Store Text Value (Shared) for Alex De Minaur: aPoints = point: 0; games: 2; sets: 1 
+3/14/2022 01:38:43: [G_Auto 1] :  Store Text Value (Shared) for Alex De Minaur: aServing = serving:1
+3/14/2022 01:38:43: [G_Auto 1] :  Store Text Value (Shared) for John Millman: bPoints = point: 0; games: 2; sets: 0 
+3/14/2022 01:38:43: [G_Auto 1] :  Store Text Value (Shared) for John Millman: bServing = serving:0
+3/14/2022 01:38:43: [G_Auto 1] :  Store Value (Shared) for market: price = 1.16
+3/14/2022 01:38:43: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 223.23
+3/14/2022 01:38:43: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 271.58
+3/14/2022 01:38:43: [G_Auto 1] :  Store Value (Shared) for market: stake = 47.06
+3/14/2022 01:38:43: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 494.81
+3/14/2022 01:38:43: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.26
+3/14/2022 01:38:43: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.16
+3/14/2022 01:38:43: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 7.2
+3/14/2022 01:39:04: [G_Auto 2] :  1 Automation Signals Cleared
+3/14/2022 01:40:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/14/2022 01:40:32: [G_Auto 2] :  Placed closure bet with greening on Alex De Minaur by Backing 48.74 at 1.12
+3/14/2022 01:40:33: [G_Auto 1] :  Store Text Value (Shared) for Alex De Minaur: aPoints = point: 0; games: 3; sets: 1 
+3/14/2022 01:40:33: [G_Auto 1] :  Store Text Value (Shared) for Alex De Minaur: aServing = serving:0
+3/14/2022 01:40:33: [G_Auto 1] :  Store Text Value (Shared) for John Millman: bPoints = point: 0; games: 2; sets: 0 
+3/14/2022 01:40:33: [G_Auto 1] :  Store Text Value (Shared) for John Millman: bServing = serving:2
+3/14/2022 01:40:33: [G_Auto 1] :  Store Value (Shared) for market: price = 1.12
+3/14/2022 01:40:33: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 271.97
+3/14/2022 01:40:33: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 271.58
+3/14/2022 01:40:33: [G_Auto 1] :  Store Value (Shared) for market: stake = 48.74
+3/14/2022 01:40:33: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 543.55
+3/14/2022 01:40:33: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.39
+3/14/2022 01:40:33: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.13
+3/14/2022 01:40:33: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 9
+3/14/2022 01:40:39: [G_Auto 1] :  Store Text Value (Shared) for Alex De Minaur: aPoints = point: 0; games: 3; sets: 1 
+3/14/2022 01:40:39: [G_Auto 1] :  Store Text Value (Shared) for Alex De Minaur: aServing = serving:0
+3/14/2022 01:40:39: [G_Auto 1] :  Store Text Value (Shared) for John Millman: bPoints = point: 0; games: 2; sets: 0 
+3/14/2022 01:40:39: [G_Auto 1] :  Store Text Value (Shared) for John Millman: bServing = serving:2
+3/14/2022 01:40:39: [G_Auto 1] :  Store Value (Shared) for market: price = 1.12
+3/14/2022 01:40:39: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 271.97
+3/14/2022 01:40:39: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 271.58
+3/14/2022 01:40:39: [G_Auto 1] :  Store Value (Shared) for market: stake = 48.74
+3/14/2022 01:40:39: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 543.55
+3/14/2022 01:40:39: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.39
+3/14/2022 01:40:39: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.13
+3/14/2022 01:40:39: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 9
+3/14/2022 01:41:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/14/2022 01:42:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/14/2022 01:42:54: [G_Auto 2] :  1 Automation Signals Cleared
+3/14/2022 01:44:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/14/2022 01:45:04: [G_Auto 2] :  1 Automation Signals Cleared
+3/14/2022 01:48:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/14/2022 01:49:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/14/2022 01:50:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/14/2022 01:50:51: [G_Auto 2] :  1 Automation Signals Cleared
+3/14/2022 01:54:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/14/2022 01:55:23: [G_Auto 2] :  1 Automation Signals Cleared
+3/14/2022 01:58:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/14/2022 01:58:18:  Guardian has detected that the market is suspended

@@ -1,0 +1,453 @@
+3/11/2022 12:18:57: [G_Auto 1] :  Store Text Value (Shared) for Facundo Bagnis: info = marketName: Bagnis v Laaksonen - Match Odds; runnerA: Facundo Bagnis; runnerB: Henri Laaksonen 
+3/11/2022 12:18:57: [G_Auto 1] :  Store Value (Shared) for market: aId = 4520808
+3/11/2022 12:18:57: [G_Auto 1] :  Store Value (Shared) for market: bId = 6344314
+3/12/2022 01:18:45:  Guardian has detected that the market is in-play
+3/12/2022 01:18:45:  Guardian has detected that the market is suspended
+3/12/2022 01:18:47: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 2.56; bBsp: 1.64; volume: 16513.32 
+3/12/2022 01:18:47: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 2.56; bBsp: 1.64; volume: 16513.32 
+3/12/2022 01:18:47:  Guardian has detected that the market is now unsuspended
+3/12/2022 01:18:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 01:19:07: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 01:21:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 01:21:38: [G_Auto 2] :  € 10.96 Lay bet placed on Henri Laaksonen at 1.73. Fully matched at 1.72.  Ref: 11384          ( Fill or kill bet with 15 seconds delay.   )
+3/12/2022 01:21:39: [G_Auto 1] :  Store Text Value (Shared) for Facundo Bagnis: aPoints = point: 0; games: 1; sets: 0 
+3/12/2022 01:21:39: [G_Auto 1] :  Store Text Value (Shared) for Facundo Bagnis: aServing = serving:0
+3/12/2022 01:21:39: [G_Auto 1] :  Store Text Value (Shared) for Henri Laaksonen: bPoints = point: 0; games: 0; sets: 0 
+3/12/2022 01:21:39: [G_Auto 1] :  Store Text Value (Shared) for Henri Laaksonen: bServing = serving:2
+3/12/2022 01:21:39: [G_Auto 1] :  Store Value (Shared) for market: price = 1.72
+3/12/2022 01:21:39: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 0
+3/12/2022 01:21:39: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 10.96
+3/12/2022 01:21:39: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.96
+3/12/2022 01:21:39: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 10.96
+3/12/2022 01:21:39: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.06
+3/12/2022 01:21:39: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.4
+3/12/2022 01:21:39: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.72
+3/12/2022 01:21:44: [G_Auto 1] :  Store Text Value (Shared) for Facundo Bagnis: aPoints = point: 0; games: 1; sets: 0 
+3/12/2022 01:21:44: [G_Auto 1] :  Store Text Value (Shared) for Facundo Bagnis: aServing = serving:0
+3/12/2022 01:21:44: [G_Auto 1] :  Store Text Value (Shared) for Henri Laaksonen: bPoints = point: 0; games: 0; sets: 0 
+3/12/2022 01:21:44: [G_Auto 1] :  Store Text Value (Shared) for Henri Laaksonen: bServing = serving:2
+3/12/2022 01:21:44: [G_Auto 1] :  Store Value (Shared) for market: price = 1.72
+3/12/2022 01:21:44: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 0
+3/12/2022 01:21:44: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 10.96
+3/12/2022 01:21:44: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.96
+3/12/2022 01:21:44: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 10.96
+3/12/2022 01:21:44: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.06
+3/12/2022 01:21:44: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.4
+3/12/2022 01:21:44: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.72
+3/12/2022 01:22:14: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 01:23:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 01:23:43: [G_Auto 2] :  Placed closure bet with greening on Henri Laaksonen by Backing 11.78 at 1.6
+3/12/2022 01:23:45: [G_Auto 1] :  Store Text Value (Shared) for Facundo Bagnis: aPoints = point: 0; games: 1; sets: 0 
+3/12/2022 01:23:45: [G_Auto 1] :  Store Text Value (Shared) for Facundo Bagnis: aServing = serving:1
+3/12/2022 01:23:45: [G_Auto 1] :  Store Text Value (Shared) for Henri Laaksonen: bPoints = point: 0; games: 1; sets: 0 
+3/12/2022 01:23:45: [G_Auto 1] :  Store Text Value (Shared) for Henri Laaksonen: bServing = serving:0
+3/12/2022 01:23:45: [G_Auto 1] :  Store Value (Shared) for market: price = 1.6
+3/12/2022 01:23:45: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 11.78
+3/12/2022 01:23:45: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 10.96
+3/12/2022 01:23:45: [G_Auto 1] :  Store Value (Shared) for market: stake = 11.78
+3/12/2022 01:23:45: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 22.74
+3/12/2022 01:23:45: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.82
+3/12/2022 01:23:45: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.68
+3/12/2022 01:23:45: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.6
+3/12/2022 01:23:52: [G_Auto 1] :  Store Text Value (Shared) for Facundo Bagnis: aPoints = point: 0; games: 1; sets: 0 
+3/12/2022 01:23:52: [G_Auto 1] :  Store Text Value (Shared) for Facundo Bagnis: aServing = serving:1
+3/12/2022 01:23:52: [G_Auto 1] :  Store Text Value (Shared) for Henri Laaksonen: bPoints = point: 0; games: 1; sets: 0 
+3/12/2022 01:23:52: [G_Auto 1] :  Store Text Value (Shared) for Henri Laaksonen: bServing = serving:0
+3/12/2022 01:23:52: [G_Auto 1] :  Store Value (Shared) for market: price = 1.6
+3/12/2022 01:23:52: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 11.78
+3/12/2022 01:23:52: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 10.96
+3/12/2022 01:23:52: [G_Auto 1] :  Store Value (Shared) for market: stake = 11.78
+3/12/2022 01:23:52: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 22.74
+3/12/2022 01:23:52: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.82
+3/12/2022 01:23:52: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.66
+3/12/2022 01:23:52: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.61
+3/12/2022 01:24:14: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 01:25:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 01:26:00: [G_Auto 2] :  € 10.96 Lay bet placed on Henri Laaksonen at 1.73. Fully matched at 1.72.  Ref: 11388          ( Fill or kill bet with 15 seconds delay.   )
+3/12/2022 01:26:02: [G_Auto 1] :  Store Text Value (Shared) for Facundo Bagnis: aPoints = point: 0; games: 2; sets: 0 
+3/12/2022 01:26:02: [G_Auto 1] :  Store Text Value (Shared) for Facundo Bagnis: aServing = serving:0
+3/12/2022 01:26:02: [G_Auto 1] :  Store Text Value (Shared) for Henri Laaksonen: bPoints = point: 0; games: 1; sets: 0 
+3/12/2022 01:26:02: [G_Auto 1] :  Store Text Value (Shared) for Henri Laaksonen: bServing = serving:2
+3/12/2022 01:26:02: [G_Auto 1] :  Store Value (Shared) for market: price = 1.72
+3/12/2022 01:26:02: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 11.78
+3/12/2022 01:26:02: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 21.92
+3/12/2022 01:26:02: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.96
+3/12/2022 01:26:02: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 33.7
+3/12/2022 01:26:02: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.89
+3/12/2022 01:26:02: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.42
+3/12/2022 01:26:02: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.72
+3/12/2022 01:26:09: [G_Auto 1] :  Store Text Value (Shared) for Facundo Bagnis: aPoints = point: 0; games: 2; sets: 0 
+3/12/2022 01:26:09: [G_Auto 1] :  Store Text Value (Shared) for Facundo Bagnis: aServing = serving:0
+3/12/2022 01:26:09: [G_Auto 1] :  Store Text Value (Shared) for Henri Laaksonen: bPoints = point: 0; games: 1; sets: 0 
+3/12/2022 01:26:09: [G_Auto 1] :  Store Text Value (Shared) for Henri Laaksonen: bServing = serving:2
+3/12/2022 01:26:09: [G_Auto 1] :  Store Value (Shared) for market: price = 1.72
+3/12/2022 01:26:09: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 11.78
+3/12/2022 01:26:09: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 21.92
+3/12/2022 01:26:09: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.96
+3/12/2022 01:26:09: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 33.7
+3/12/2022 01:26:09: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.89
+3/12/2022 01:26:09: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.42
+3/12/2022 01:26:09: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.71
+3/12/2022 01:26:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 01:27:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 01:27:59: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 01:32:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 01:32:42: [G_Auto 2] :  Placed closure bet with greening on Henri Laaksonen by Backing 7.99 at 2.36
+3/12/2022 01:32:42: [G_Auto 2] :  € 10.96 Lay bet placed on Facundo Bagnis at 1.73. Fully matched at 1.73.  Ref: 11393          ( Fill or kill bet with 15 seconds delay.   )
+3/12/2022 01:32:44: [G_Auto 1] :  Store Text Value (Shared) for Facundo Bagnis: aPoints = point: 0; games: 3; sets: 0 
+3/12/2022 01:32:44: [G_Auto 1] :  Store Text Value (Shared) for Facundo Bagnis: aServing = serving:1
+3/12/2022 01:32:44: [G_Auto 1] :  Store Text Value (Shared) for Henri Laaksonen: bPoints = point: 0; games: 1; sets: 0 
+3/12/2022 01:32:44: [G_Auto 1] :  Store Text Value (Shared) for Henri Laaksonen: bServing = serving:0
+3/12/2022 01:32:44: [G_Auto 1] :  Store Value (Shared) for market: price = 1.73
+3/12/2022 01:32:44: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 19.77
+3/12/2022 01:32:44: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 32.88
+3/12/2022 01:32:44: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.96
+3/12/2022 01:32:44: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 52.65
+3/12/2022 01:32:44: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.05
+3/12/2022 01:32:44: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.73
+3/12/2022 01:32:44: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.4
+3/12/2022 01:33:09: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 01:34:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 01:34:36: [G_Auto 2] :  Placed closure bet with greening on Facundo Bagnis by Backing 12.23 at 1.55
+3/12/2022 01:34:38: [G_Auto 1] :  Store Text Value (Shared) for Facundo Bagnis: aPoints = point: 0; games: 4; sets: 0 
+3/12/2022 01:34:38: [G_Auto 1] :  Store Text Value (Shared) for Facundo Bagnis: aServing = serving:0
+3/12/2022 01:34:38: [G_Auto 1] :  Store Text Value (Shared) for Henri Laaksonen: bPoints = point: 0; games: 1; sets: 0 
+3/12/2022 01:34:38: [G_Auto 1] :  Store Text Value (Shared) for Henri Laaksonen: bServing = serving:2
+3/12/2022 01:34:38: [G_Auto 1] :  Store Value (Shared) for market: price = 1.55
+3/12/2022 01:34:38: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 32
+3/12/2022 01:34:38: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 32.88
+3/12/2022 01:34:38: [G_Auto 1] :  Store Value (Shared) for market: stake = 12.23
+3/12/2022 01:34:38: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 64.88
+3/12/2022 01:34:38: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.86
+3/12/2022 01:34:38: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.56
+3/12/2022 01:34:38: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.78
+3/12/2022 01:34:43: [G_Auto 1] :  Store Text Value (Shared) for Facundo Bagnis: aPoints = point: 0; games: 4; sets: 0 
+3/12/2022 01:34:43: [G_Auto 1] :  Store Text Value (Shared) for Facundo Bagnis: aServing = serving:0
+3/12/2022 01:34:43: [G_Auto 1] :  Store Text Value (Shared) for Henri Laaksonen: bPoints = point: 0; games: 1; sets: 0 
+3/12/2022 01:34:43: [G_Auto 1] :  Store Text Value (Shared) for Henri Laaksonen: bServing = serving:2
+3/12/2022 01:34:43: [G_Auto 1] :  Store Value (Shared) for market: price = 1.55
+3/12/2022 01:34:43: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 32
+3/12/2022 01:34:43: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 32.88
+3/12/2022 01:34:43: [G_Auto 1] :  Store Value (Shared) for market: stake = 12.23
+3/12/2022 01:34:43: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 64.88
+3/12/2022 01:34:43: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.86
+3/12/2022 01:34:43: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.56
+3/12/2022 01:34:43: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.78
+3/12/2022 01:35:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 01:36:25: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 01:38:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 01:38:40: [G_Auto 2] :  € 12.31 Lay bet placed on Facundo Bagnis at 1.65. Fully matched at 1.63.  Ref: 11402          ( Fill or kill bet with 15 seconds delay.   )
+3/12/2022 01:38:42: [G_Auto 1] :  Store Text Value (Shared) for Facundo Bagnis: aPoints = point: 0; games: 4; sets: 0 
+3/12/2022 01:38:42: [G_Auto 1] :  Store Text Value (Shared) for Facundo Bagnis: aServing = serving:1
+3/12/2022 01:38:42: [G_Auto 1] :  Store Text Value (Shared) for Henri Laaksonen: bPoints = point: 0; games: 2; sets: 0 
+3/12/2022 01:38:42: [G_Auto 1] :  Store Text Value (Shared) for Henri Laaksonen: bServing = serving:0
+3/12/2022 01:38:42: [G_Auto 1] :  Store Value (Shared) for market: price = 1.63
+3/12/2022 01:38:42: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 32
+3/12/2022 01:38:42: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 45.19
+3/12/2022 01:38:42: [G_Auto 1] :  Store Value (Shared) for market: stake = 12.31
+3/12/2022 01:38:42: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 77.19
+3/12/2022 01:38:42: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.78
+3/12/2022 01:38:42: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.63
+3/12/2022 01:38:42: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.6
+3/12/2022 01:39:07: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 01:41:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 01:41:17: [G_Auto 2] :  Placed closure bet with greening on Facundo Bagnis by Backing 13.38 at 1.5
+3/12/2022 01:41:19: [G_Auto 1] :  Store Text Value (Shared) for Facundo Bagnis: aPoints = point: 0; games: 5; sets: 0 
+3/12/2022 01:41:19: [G_Auto 1] :  Store Text Value (Shared) for Facundo Bagnis: aServing = serving:0
+3/12/2022 01:41:19: [G_Auto 1] :  Store Text Value (Shared) for Henri Laaksonen: bPoints = point: 0; games: 2; sets: 0 
+3/12/2022 01:41:19: [G_Auto 1] :  Store Text Value (Shared) for Henri Laaksonen: bServing = serving:2
+3/12/2022 01:41:19: [G_Auto 1] :  Store Value (Shared) for market: price = 1.5
+3/12/2022 01:41:19: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 45.38
+3/12/2022 01:41:19: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 45.19
+3/12/2022 01:41:19: [G_Auto 1] :  Store Value (Shared) for market: stake = 13.38
+3/12/2022 01:41:19: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 90.57
+3/12/2022 01:41:19: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.19
+3/12/2022 01:41:19: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.5
+3/12/2022 01:41:19: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3
+3/12/2022 01:42:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 01:43:07: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 01:49:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 01:49:50: [G_Auto 2] :  € 15.69 Lay bet placed on Facundo Bagnis at 1.51. Fully matched at 1.5.  Ref: 11407          ( Fill or kill bet with 15 seconds delay.   )
+3/12/2022 01:49:52: [G_Auto 1] :  Store Text Value (Shared) for Facundo Bagnis: aPoints = point: 0; games: 5; sets: 0 
+3/12/2022 01:49:52: [G_Auto 1] :  Store Text Value (Shared) for Facundo Bagnis: aServing = serving:1
+3/12/2022 01:49:52: [G_Auto 1] :  Store Text Value (Shared) for Henri Laaksonen: bPoints = point: 0; games: 3; sets: 0 
+3/12/2022 01:49:52: [G_Auto 1] :  Store Text Value (Shared) for Henri Laaksonen: bServing = serving:0
+3/12/2022 01:49:52: [G_Auto 1] :  Store Value (Shared) for market: price = 1.5
+3/12/2022 01:49:52: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 45.38
+3/12/2022 01:49:52: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 60.88
+3/12/2022 01:49:52: [G_Auto 1] :  Store Value (Shared) for market: stake = 15.69
+3/12/2022 01:49:52: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 106.26
+3/12/2022 01:49:52: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.3
+3/12/2022 01:49:52: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.49
+3/12/2022 01:49:52: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.05
+3/12/2022 01:50:24: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 01:53:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 01:53:39: [G_Auto 1] :  Store Value (Shared) for market: aFirstSetPrice = 1.4
+3/12/2022 01:53:39: [G_Auto 1] :  Store Value (Shared) for market: bFirstSetPrice = 3.5
+3/12/2022 01:53:39: [G_Auto 2] :  Store Value (Shared) for Facundo Bagnis: PRICE SET 2 = 1.4
+3/12/2022 01:53:39: [G_Auto 2] :  Alert: STORE PRICE AT SET 2 [ Facundo Bagnis ]
+3/12/2022 01:53:39: [G_Auto 2] :  Automation Signal for market: VALID = 1
+3/12/2022 01:53:39: [G_Auto 2] :  Store Value (Shared) for Henri Laaksonen: PRICE SET 2 = 3.5
+3/12/2022 01:53:39: [G_Auto 2] :  Alert: STORE PRICE AT SET 2 [ Henri Laaksonen ]
+3/12/2022 01:53:39: [G_Auto 2] :  Automation Signal for market: VALID = 1
+3/12/2022 01:53:42: [G_Auto 2] :  Placed closure bet with greening on Facundo Bagnis by Backing 16.81 at 1.4
+3/12/2022 01:53:44: [G_Auto 1] :  Store Text Value (Shared) for Facundo Bagnis: aPoints = point: 0; games: 0; sets: 1 
+3/12/2022 01:53:44: [G_Auto 1] :  Store Text Value (Shared) for Facundo Bagnis: aServing = serving:0
+3/12/2022 01:53:44: [G_Auto 1] :  Store Text Value (Shared) for Henri Laaksonen: bPoints = point: 0; games: 0; sets: 0 
+3/12/2022 01:53:44: [G_Auto 1] :  Store Text Value (Shared) for Henri Laaksonen: bServing = serving:2
+3/12/2022 01:53:44: [G_Auto 1] :  Store Value (Shared) for market: price = 1.41
+3/12/2022 01:53:44: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 62.19
+3/12/2022 01:53:44: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 60.88
+3/12/2022 01:53:44: [G_Auto 1] :  Store Value (Shared) for market: stake = 16.81
+3/12/2022 01:53:44: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 123.07
+3/12/2022 01:53:44: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.19
+3/12/2022 01:53:44: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.42
+3/12/2022 01:53:44: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.4
+3/12/2022 01:54:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 01:55:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 01:55:59: [G_Auto 2] :  2 Automation Signals Cleared
+3/12/2022 01:59:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 01:59:55: [G_Auto 2] :  € 16.67 Lay bet placed on Facundo Bagnis at 1.48. Fully matched at 1.48.  Ref: 11415          ( Fill or kill bet with 15 seconds delay.   )
+3/12/2022 01:59:57: [G_Auto 1] :  Store Text Value (Shared) for Facundo Bagnis: aPoints = point: 0; games: 0; sets: 1 
+3/12/2022 01:59:57: [G_Auto 1] :  Store Text Value (Shared) for Facundo Bagnis: aServing = serving:1
+3/12/2022 01:59:57: [G_Auto 1] :  Store Text Value (Shared) for Henri Laaksonen: bPoints = point: 0; games: 1; sets: 0 
+3/12/2022 01:59:57: [G_Auto 1] :  Store Text Value (Shared) for Henri Laaksonen: bServing = serving:0
+3/12/2022 01:59:57: [G_Auto 1] :  Store Value (Shared) for market: price = 1.48
+3/12/2022 01:59:57: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 62.19
+3/12/2022 01:59:57: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 77.55
+3/12/2022 01:59:57: [G_Auto 1] :  Store Value (Shared) for market: stake = 16.67
+3/12/2022 01:59:57: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 139.74
+3/12/2022 01:59:57: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.42
+3/12/2022 01:59:57: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.46
+3/12/2022 01:59:57: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.2
+3/12/2022 02:00:04: [G_Auto 1] :  Store Text Value (Shared) for Facundo Bagnis: aPoints = point: 0; games: 0; sets: 1 
+3/12/2022 02:00:04: [G_Auto 1] :  Store Text Value (Shared) for Facundo Bagnis: aServing = serving:1
+3/12/2022 02:00:04: [G_Auto 1] :  Store Text Value (Shared) for Henri Laaksonen: bPoints = point: 0; games: 1; sets: 0 
+3/12/2022 02:00:04: [G_Auto 1] :  Store Text Value (Shared) for Henri Laaksonen: bServing = serving:0
+3/12/2022 02:00:04: [G_Auto 1] :  Store Value (Shared) for market: price = 1.48
+3/12/2022 02:00:04: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 62.19
+3/12/2022 02:00:04: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 77.55
+3/12/2022 02:00:04: [G_Auto 1] :  Store Value (Shared) for market: stake = 16.67
+3/12/2022 02:00:04: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 139.74
+3/12/2022 02:00:04: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.42
+3/12/2022 02:00:04: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.46
+3/12/2022 02:00:04: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.1
+3/12/2022 02:00:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 02:01:08: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 02:03:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 02:03:54: [G_Auto 2] :  Placed closure bet with greening on Facundo Bagnis by Backing 13.39 at 1.83
+3/12/2022 02:03:56: [G_Auto 1] :  Store Text Value (Shared) for Facundo Bagnis: aPoints = point: 0; games: 0; sets: 1 
+3/12/2022 02:03:56: [G_Auto 1] :  Store Text Value (Shared) for Facundo Bagnis: aServing = serving:0
+3/12/2022 02:03:56: [G_Auto 1] :  Store Text Value (Shared) for Henri Laaksonen: bPoints = point: 0; games: 2; sets: 0 
+3/12/2022 02:03:56: [G_Auto 1] :  Store Text Value (Shared) for Henri Laaksonen: bServing = serving:2
+3/12/2022 02:03:56: [G_Auto 1] :  Store Value (Shared) for market: price = 1.83
+3/12/2022 02:03:56: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 75.58
+3/12/2022 02:03:56: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 77.55
+3/12/2022 02:03:56: [G_Auto 1] :  Store Value (Shared) for market: stake = 13.39
+3/12/2022 02:03:56: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 153.13
+3/12/2022 02:03:56: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.93
+3/12/2022 02:03:56: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.84
+3/12/2022 02:03:56: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.2
+3/12/2022 02:04:18: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 02:06:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 02:06:49: [G_Auto 2] :  € 8.00 Lay bet placed on Facundo Bagnis at 2. Fully matched at 2.  Ref: 11419          ( Fill or kill bet with 15 seconds delay.   )
+3/12/2022 02:06:51: [G_Auto 1] :  Store Text Value (Shared) for Facundo Bagnis: aPoints = point: 0; games: 0; sets: 1 
+3/12/2022 02:06:51: [G_Auto 1] :  Store Text Value (Shared) for Facundo Bagnis: aServing = serving:1
+3/12/2022 02:06:51: [G_Auto 1] :  Store Text Value (Shared) for Henri Laaksonen: bPoints = point: 0; games: 3; sets: 0 
+3/12/2022 02:06:51: [G_Auto 1] :  Store Text Value (Shared) for Henri Laaksonen: bServing = serving:0
+3/12/2022 02:06:51: [G_Auto 1] :  Store Value (Shared) for market: price = 2
+3/12/2022 02:06:51: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 75.58
+3/12/2022 02:06:51: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 85.55
+3/12/2022 02:06:51: [G_Auto 1] :  Store Value (Shared) for market: stake = 8
+3/12/2022 02:06:51: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 161.13
+3/12/2022 02:06:51: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.85
+3/12/2022 02:06:51: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.98
+3/12/2022 02:06:51: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.02
+3/12/2022 02:06:58: [G_Auto 1] :  Store Text Value (Shared) for Facundo Bagnis: aPoints = point: 0; games: 0; sets: 1 
+3/12/2022 02:06:58: [G_Auto 1] :  Store Text Value (Shared) for Facundo Bagnis: aServing = serving:1
+3/12/2022 02:06:58: [G_Auto 1] :  Store Text Value (Shared) for Henri Laaksonen: bPoints = point: 0; games: 3; sets: 0 
+3/12/2022 02:06:58: [G_Auto 1] :  Store Text Value (Shared) for Henri Laaksonen: bServing = serving:0
+3/12/2022 02:06:58: [G_Auto 1] :  Store Value (Shared) for market: price = 2
+3/12/2022 02:06:58: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 75.58
+3/12/2022 02:06:58: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 85.55
+3/12/2022 02:06:58: [G_Auto 1] :  Store Value (Shared) for market: stake = 8
+3/12/2022 02:06:58: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 161.13
+3/12/2022 02:06:58: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.77
+3/12/2022 02:06:58: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.98
+3/12/2022 02:06:58: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.02
+3/12/2022 02:07:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 02:08:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 02:08:52: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 02:11:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 02:11:36: [G_Auto 2] :  Placed closure bet with greening on Facundo Bagnis by Backing 8.33 at 1.92
+3/12/2022 02:11:37: [G_Auto 1] :  Store Text Value (Shared) for Facundo Bagnis: aPoints = point: 0; games: 1; sets: 1 
+3/12/2022 02:11:37: [G_Auto 1] :  Store Text Value (Shared) for Facundo Bagnis: aServing = serving:0
+3/12/2022 02:11:37: [G_Auto 1] :  Store Text Value (Shared) for Henri Laaksonen: bPoints = point: 0; games: 3; sets: 0 
+3/12/2022 02:11:37: [G_Auto 1] :  Store Text Value (Shared) for Henri Laaksonen: bServing = serving:2
+3/12/2022 02:11:37: [G_Auto 1] :  Store Value (Shared) for market: price = 1.92
+3/12/2022 02:11:37: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 83.91
+3/12/2022 02:11:37: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 85.55
+3/12/2022 02:11:37: [G_Auto 1] :  Store Value (Shared) for market: stake = 8.33
+3/12/2022 02:11:37: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 169.46
+3/12/2022 02:11:37: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.6
+3/12/2022 02:11:37: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.93
+3/12/2022 02:11:37: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.08
+3/12/2022 02:11:45: [G_Auto 1] :  Store Text Value (Shared) for Facundo Bagnis: aPoints = point: 0; games: 1; sets: 1 
+3/12/2022 02:11:45: [G_Auto 1] :  Store Text Value (Shared) for Facundo Bagnis: aServing = serving:0
+3/12/2022 02:11:45: [G_Auto 1] :  Store Text Value (Shared) for Henri Laaksonen: bPoints = point: 0; games: 3; sets: 0 
+3/12/2022 02:11:45: [G_Auto 1] :  Store Text Value (Shared) for Henri Laaksonen: bServing = serving:2
+3/12/2022 02:11:45: [G_Auto 1] :  Store Value (Shared) for market: price = 1.92
+3/12/2022 02:11:45: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 83.91
+3/12/2022 02:11:45: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 85.55
+3/12/2022 02:11:45: [G_Auto 1] :  Store Value (Shared) for market: stake = 8.33
+3/12/2022 02:11:45: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 169.46
+3/12/2022 02:11:45: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.6
+3/12/2022 02:11:45: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.93
+3/12/2022 02:11:45: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.08
+3/12/2022 02:12:02: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 02:13:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 02:14:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 02:15:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 02:15:30: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 02:19:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 02:19:41: [G_Auto 2] :  € 8.51 Lay bet placed on Henri Laaksonen at 1.94. Fully matched at 1.92.  Ref: 11427          ( Fill or kill bet with 15 seconds delay.   )
+3/12/2022 02:19:42: [G_Auto 1] :  Store Text Value (Shared) for Facundo Bagnis: aPoints = point: 0; games: 2; sets: 1 
+3/12/2022 02:19:42: [G_Auto 1] :  Store Text Value (Shared) for Facundo Bagnis: aServing = serving:0
+3/12/2022 02:19:42: [G_Auto 1] :  Store Text Value (Shared) for Henri Laaksonen: bPoints = point: 0; games: 4; sets: 0 
+3/12/2022 02:19:42: [G_Auto 1] :  Store Text Value (Shared) for Henri Laaksonen: bServing = serving:2
+3/12/2022 02:19:42: [G_Auto 1] :  Store Value (Shared) for market: price = 1.92
+3/12/2022 02:19:42: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 83.91
+3/12/2022 02:19:42: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 94.06
+3/12/2022 02:19:42: [G_Auto 1] :  Store Value (Shared) for market: stake = 8.51
+3/12/2022 02:19:42: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 177.97
+3/12/2022 02:19:42: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.47
+3/12/2022 02:19:42: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.1
+3/12/2022 02:19:42: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.93
+3/12/2022 02:20:05: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 02:23:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 02:23:25: [G_Auto 2] :  Placed closure bet with greening on Henri Laaksonen by Backing 9.03 at 1.81
+3/12/2022 02:23:28: [G_Auto 1] :  Store Text Value (Shared) for Facundo Bagnis: aPoints = point: 0; games: 2; sets: 1 
+3/12/2022 02:23:28: [G_Auto 1] :  Store Text Value (Shared) for Facundo Bagnis: aServing = serving:1
+3/12/2022 02:23:28: [G_Auto 1] :  Store Text Value (Shared) for Henri Laaksonen: bPoints = point: 0; games: 5; sets: 0 
+3/12/2022 02:23:28: [G_Auto 1] :  Store Text Value (Shared) for Henri Laaksonen: bServing = serving:0
+3/12/2022 02:23:28: [G_Auto 1] :  Store Value (Shared) for market: price = 1.81
+3/12/2022 02:23:28: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 84.485
+3/12/2022 02:23:28: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 94.06
+3/12/2022 02:23:28: [G_Auto 1] :  Store Value (Shared) for market: stake = 0.575
+3/12/2022 02:23:28: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 178.545
+3/12/2022 02:23:28: [G_Auto 1] :  Store Value (Shared) for market: pl = 1
+3/12/2022 02:23:28: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.2
+3/12/2022 02:23:28: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.83
+3/12/2022 02:24:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 02:25:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 02:25:23: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 02:26:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 02:26:45: [G_Auto 2] :  € 8.99 Lay bet placed on Henri Laaksonen at 1.89. Entirely unmatched when it initially reached the market.   Ref: 11432          ( Fill or kill bet with 15 seconds delay.   )
+3/12/2022 02:26:56: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 02:27:00: [G_Auto 2] :  € 8.99 of unmatched bet (Ref:11432) was filled before remainder was killed.
+3/12/2022 02:27:00: [G_Auto 1] :  Store Text Value (Shared) for Facundo Bagnis: aPoints = point: 0; games: 3; sets: 1 
+3/12/2022 02:27:00: [G_Auto 1] :  Store Text Value (Shared) for Facundo Bagnis: aServing = serving:0
+3/12/2022 02:27:00: [G_Auto 1] :  Store Text Value (Shared) for Henri Laaksonen: bPoints = point: 15; games: 5; sets: 0 
+3/12/2022 02:27:00: [G_Auto 1] :  Store Text Value (Shared) for Henri Laaksonen: bServing = serving:2
+3/12/2022 02:27:00: [G_Auto 1] :  Store Value (Shared) for market: price = 1.89
+3/12/2022 02:27:00: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 92.94
+3/12/2022 02:27:00: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 103.05
+3/12/2022 02:27:00: [G_Auto 1] :  Store Value (Shared) for market: stake = 8.99
+3/12/2022 02:27:00: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 195.99
+3/12/2022 02:27:00: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.8
+3/12/2022 02:27:00: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.16
+3/12/2022 02:27:00: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.83
+3/12/2022 02:33:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 02:33:36: [G_Auto 2] :  Placed closure bet with greening on Henri Laaksonen by Backing 5.66 at 3
+3/12/2022 02:33:36: [G_Auto 2] :  € 16.00 Lay bet placed on Facundo Bagnis at 1.5. Fully matched at 1.49.  Ref: 11436          ( Fill or kill bet with 15 seconds delay.   )
+3/12/2022 02:33:37: [G_Auto 1] :  Store Text Value (Shared) for Facundo Bagnis: aPoints = point: 0; games: 4; sets: 1 
+3/12/2022 02:33:37: [G_Auto 1] :  Store Text Value (Shared) for Facundo Bagnis: aServing = serving:1
+3/12/2022 02:33:37: [G_Auto 1] :  Store Text Value (Shared) for Henri Laaksonen: bPoints = point: 0; games: 5; sets: 0 
+3/12/2022 02:33:37: [G_Auto 1] :  Store Text Value (Shared) for Henri Laaksonen: bServing = serving:0
+3/12/2022 02:33:37: [G_Auto 1] :  Store Value (Shared) for market: price = 3
+3/12/2022 02:33:37: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 98.6
+3/12/2022 02:33:37: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 119.05
+3/12/2022 02:33:37: [G_Auto 1] :  Store Value (Shared) for market: stake = 5.66
+3/12/2022 02:33:37: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 217.65
+3/12/2022 02:33:37: [G_Auto 1] :  Store Value (Shared) for market: pl = 4.25
+3/12/2022 02:33:37: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.49
+3/12/2022 02:33:37: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3
+3/12/2022 02:34:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 02:35:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 02:35:34: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 02:36:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 02:36:40: [G_Auto 2] :  Placed closure bet with greening on Facundo Bagnis by Backing 18.07 at 1.32
+3/12/2022 02:36:41: [G_Auto 1] :  Store Text Value (Shared) for Facundo Bagnis: aPoints = point: 0; games: 5; sets: 1 
+3/12/2022 02:36:41: [G_Auto 1] :  Store Text Value (Shared) for Facundo Bagnis: aServing = serving:0
+3/12/2022 02:36:41: [G_Auto 1] :  Store Text Value (Shared) for Henri Laaksonen: bPoints = point: 0; games: 5; sets: 0 
+3/12/2022 02:36:41: [G_Auto 1] :  Store Text Value (Shared) for Henri Laaksonen: bServing = serving:2
+3/12/2022 02:36:41: [G_Auto 1] :  Store Value (Shared) for market: price = 1.32
+3/12/2022 02:36:41: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 116.67
+3/12/2022 02:36:41: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 119.05
+3/12/2022 02:36:41: [G_Auto 1] :  Store Value (Shared) for market: stake = 18.07
+3/12/2022 02:36:41: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 235.72
+3/12/2022 02:36:41: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.34
+3/12/2022 02:36:41: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.33
+3/12/2022 02:36:41: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.1
+3/12/2022 02:37:07: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 02:40:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 02:41:01: [G_Auto 2] :  € 17.39 Lay bet placed on Facundo Bagnis at 1.46. Entirely unmatched when it initially reached the market.   Ref: 11441          ( Fill or kill bet with 15 seconds delay.   )
+3/12/2022 02:41:04: [G_Auto 2] :  € 17.39 of unmatched bet (Ref:11441) was filled before remainder was killed.
+3/12/2022 02:41:04: [G_Auto 1] :  Store Text Value (Shared) for Facundo Bagnis: aPoints = point: 0; games: 5; sets: 1 
+3/12/2022 02:41:04: [G_Auto 1] :  Store Text Value (Shared) for Facundo Bagnis: aServing = serving:1
+3/12/2022 02:41:04: [G_Auto 1] :  Store Text Value (Shared) for Henri Laaksonen: bPoints = point: 0; games: 6; sets: 0 
+3/12/2022 02:41:04: [G_Auto 1] :  Store Text Value (Shared) for Henri Laaksonen: bServing = serving:0
+3/12/2022 02:41:04: [G_Auto 1] :  Store Value (Shared) for market: price = 1.46
+3/12/2022 02:41:04: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 116.67
+3/12/2022 02:41:04: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 136.44
+3/12/2022 02:41:04: [G_Auto 1] :  Store Value (Shared) for market: stake = 17.39
+3/12/2022 02:41:04: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 253.11
+3/12/2022 02:41:04: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.1
+3/12/2022 02:41:04: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.44
+3/12/2022 02:41:04: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.15
+3/12/2022 02:41:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 02:42:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 02:43:02: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 02:44:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 02:44:59: [G_Auto 2] :  Placed closure bet with greening on Facundo Bagnis by Backing 19.09 at 1.33
+3/12/2022 02:45:11: [G_Auto 2] :  Cancelling bets 11443  
+3/12/2022 02:45:14: [G_Auto 2] :  Placed closure bet with greening on Facundo Bagnis by Backing 19.38 at 1.31
+3/12/2022 02:45:14: [G_Auto 1] :  Store Text Value (Shared) for Facundo Bagnis: aPoints = point: 0; games: 6; sets: 1 
+3/12/2022 02:45:14: [G_Auto 1] :  Store Text Value (Shared) for Facundo Bagnis: aServing = serving:0
+3/12/2022 02:45:14: [G_Auto 1] :  Store Text Value (Shared) for Henri Laaksonen: bPoints = point: 0; games: 6; sets: 0 
+3/12/2022 02:45:14: [G_Auto 1] :  Store Text Value (Shared) for Henri Laaksonen: bServing = serving:2
+3/12/2022 02:45:14: [G_Auto 1] :  Store Value (Shared) for market: price = 1.32
+3/12/2022 02:45:14: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 136.05
+3/12/2022 02:45:14: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 136.44
+3/12/2022 02:45:14: [G_Auto 1] :  Store Value (Shared) for market: stake = 19.38
+3/12/2022 02:45:14: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 272.49
+3/12/2022 02:45:14: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.53
+3/12/2022 02:45:14: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.32
+3/12/2022 02:45:14: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.1
+3/12/2022 02:45:19: [G_Auto 1] :  Store Text Value (Shared) for Facundo Bagnis: aPoints = point: 0; games: 6; sets: 1 
+3/12/2022 02:45:19: [G_Auto 1] :  Store Text Value (Shared) for Facundo Bagnis: aServing = serving:0
+3/12/2022 02:45:19: [G_Auto 1] :  Store Text Value (Shared) for Henri Laaksonen: bPoints = point: 0; games: 6; sets: 0 
+3/12/2022 02:45:19: [G_Auto 1] :  Store Text Value (Shared) for Henri Laaksonen: bServing = serving:2
+3/12/2022 02:45:19: [G_Auto 1] :  Store Value (Shared) for market: price = 1.32
+3/12/2022 02:45:19: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 136.05
+3/12/2022 02:45:19: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 136.44
+3/12/2022 02:45:19: [G_Auto 1] :  Store Value (Shared) for market: stake = 19.38
+3/12/2022 02:45:19: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 272.49
+3/12/2022 02:45:19: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.53
+3/12/2022 02:45:19: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.32
+3/12/2022 02:45:19: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.1
+3/12/2022 02:45:32: [G_Auto 2] :  Placed closure bet with greening on Facundo Bagnis by Laying 0.15 at 1.33
+3/12/2022 02:46:02: [G_Auto 1] :  Store Text Value (Shared) for Facundo Bagnis: aPoints = point: 0; games: 6; sets: 1 
+3/12/2022 02:46:02: [G_Auto 1] :  Store Text Value (Shared) for Facundo Bagnis: aServing = serving:1
+3/12/2022 02:46:02: [G_Auto 1] :  Store Text Value (Shared) for Henri Laaksonen: bPoints = point: 0; games: 6; sets: 0 
+3/12/2022 02:46:02: [G_Auto 1] :  Store Text Value (Shared) for Henri Laaksonen: bServing = serving:0
+3/12/2022 02:46:02: [G_Auto 1] :  Store Value (Shared) for market: price = 1.33
+3/12/2022 02:46:02: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 136.05
+3/12/2022 02:46:02: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 136.47
+3/12/2022 02:46:02: [G_Auto 1] :  Store Value (Shared) for market: stake = 0.03
+3/12/2022 02:46:02: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 272.52
+3/12/2022 02:46:02: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.53
+3/12/2022 02:46:02: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.33
+3/12/2022 02:46:02: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.1
+3/12/2022 02:51:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 02:51:23:  Guardian has detected that the market is suspended

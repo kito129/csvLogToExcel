@@ -1,0 +1,420 @@
+3/9/2022 12:22:47: [G_Auto 2] :  Store Text Value (Shared) for Ann Li: info = marketName: An Li v Brengle - Match Odds; runnerA: Ann Li; runnerB: Madison Brengle 
+3/9/2022 12:22:47: [G_Auto 2] :  Store Value (Shared) for market: aId = 11313157
+3/9/2022 12:22:47: [G_Auto 2] :  Store Value (Shared) for market: bId = 2263603
+3/10/2022 04:08:06:  Guardian has detected that the market is in-play
+3/10/2022 04:08:06:  Guardian has detected that the market is suspended
+3/10/2022 04:08:07: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.72; bBsp: 2.38; volume: 23020.26 
+3/10/2022 04:08:07: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.72; bBsp: 2.38; volume: 23020.26 
+3/10/2022 04:08:07:  Guardian has detected that the market is now unsuspended
+3/10/2022 04:08:11: [G_Auto 1] :  0 Automation Signals Cleared
+3/10/2022 04:11:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 04:11:12: [G_Auto 1] :  € 8.51 Lay bet placed on Madison Brengle at 1.94. Entirely unmatched when it initially reached the market.   Ref: 10440          ( Fill or kill bet with 15 seconds delay.   )
+3/10/2022 04:11:26: [G_Auto 2] :  Store Text Value (Shared) for Ann Li: aPoints = point: 0; games: 0; sets: 0 
+3/10/2022 04:11:26: [G_Auto 2] :  Store Text Value (Shared) for Ann Li: aServing = serving:0
+3/10/2022 04:11:26: [G_Auto 2] :  Store Text Value (Shared) for Madison Brengle: bPoints = point: 0; games: 1; sets: 0 
+3/10/2022 04:11:26: [G_Auto 2] :  Store Text Value (Shared) for Madison Brengle: bServing = serving:2
+3/10/2022 04:11:26: [G_Auto 2] :  Store Value (Shared) for market: price = 1.94
+3/10/2022 04:11:26: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+3/10/2022 04:11:26: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 6.705
+3/10/2022 04:11:26: [G_Auto 2] :  Store Value (Shared) for market: stake = 6.705
+3/10/2022 04:11:26: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 6.705
+3/10/2022 04:11:26: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.07
+3/10/2022 04:11:26: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.02
+3/10/2022 04:11:26: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.97
+3/10/2022 04:11:27: [G_Auto 1] :  € 6.705 of unmatched bet (Ref:10440) was filled before remainder was killed.
+3/10/2022 04:11:49: [G_Auto 1] :  1 Automation Signals Cleared
+3/10/2022 04:14:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 04:14:36: [G_Auto 1] :  Placed closure bet with greening on Madison Brengle by Backing 5.61 at 2.32
+3/10/2022 04:14:36: [G_Auto 1] :  € 10.39 Lay bet placed on Ann Li at 1.77. Fully matched at 1.76.  Ref: 10442          ( Fill or kill bet with 15 seconds delay.   )
+3/10/2022 04:14:36: [G_Auto 2] :  Store Text Value (Shared) for Ann Li: aPoints = point: 0; games: 1; sets: 0 
+3/10/2022 04:14:36: [G_Auto 2] :  Store Text Value (Shared) for Ann Li: aServing = serving:1
+3/10/2022 04:14:36: [G_Auto 2] :  Store Text Value (Shared) for Madison Brengle: bPoints = point: 0; games: 1; sets: 0 
+3/10/2022 04:14:36: [G_Auto 2] :  Store Text Value (Shared) for Madison Brengle: bServing = serving:0
+3/10/2022 04:14:36: [G_Auto 2] :  Store Value (Shared) for market: price = 1.76
+3/10/2022 04:14:36: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 5.61
+3/10/2022 04:14:36: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 17.095
+3/10/2022 04:14:36: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.39
+3/10/2022 04:14:36: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 22.705
+3/10/2022 04:14:36: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.02
+3/10/2022 04:14:36: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.76
+3/10/2022 04:14:36: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.32
+3/10/2022 04:15:08: [G_Auto 1] :  1 Automation Signals Cleared
+3/10/2022 04:17:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 04:18:06: [G_Auto 1] :  Placed closure bet with greening on Ann Li by Backing 8.96 at 2.04
+3/10/2022 04:18:06: [G_Auto 1] :  € 8.60 Lay bet placed on Madison Brengle at 1.93. Entirely unmatched when it initially reached the market.   Ref: 10446          ( Fill or kill bet with 15 seconds delay.   )
+3/10/2022 04:18:06: [G_Auto 2] :  Store Text Value (Shared) for Ann Li: aPoints = point: 0; games: 1; sets: 0 
+3/10/2022 04:18:06: [G_Auto 2] :  Store Text Value (Shared) for Ann Li: aServing = serving:0
+3/10/2022 04:18:06: [G_Auto 2] :  Store Text Value (Shared) for Madison Brengle: bPoints = point: 0; games: 2; sets: 0 
+3/10/2022 04:18:06: [G_Auto 2] :  Store Text Value (Shared) for Madison Brengle: bServing = serving:2
+3/10/2022 04:18:06: [G_Auto 2] :  Store Value (Shared) for market: price = 2.04
+3/10/2022 04:18:06: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 14.57
+3/10/2022 04:18:06: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 17.095
+3/10/2022 04:18:06: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.96
+3/10/2022 04:18:06: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 31.665
+3/10/2022 04:18:06: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.47
+3/10/2022 04:18:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.04
+3/10/2022 04:18:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.91
+3/10/2022 04:18:13: [G_Auto 2] :  Store Text Value (Shared) for Ann Li: aPoints = point: 0; games: 1; sets: 0 
+3/10/2022 04:18:13: [G_Auto 2] :  Store Text Value (Shared) for Ann Li: aServing = serving:0
+3/10/2022 04:18:13: [G_Auto 2] :  Store Text Value (Shared) for Madison Brengle: bPoints = point: 0; games: 2; sets: 0 
+3/10/2022 04:18:13: [G_Auto 2] :  Store Text Value (Shared) for Madison Brengle: bServing = serving:2
+3/10/2022 04:18:13: [G_Auto 2] :  Store Value (Shared) for market: price = 1.93
+3/10/2022 04:18:13: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 14.57
+3/10/2022 04:18:13: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 25.695
+3/10/2022 04:18:13: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.6
+3/10/2022 04:18:13: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 40.265
+3/10/2022 04:18:13: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.29
+3/10/2022 04:18:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.1
+3/10/2022 04:18:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.9
+3/10/2022 04:18:13: [G_Auto 1] :  € 8.6 of unmatched bet (Ref:10446) was filled before remainder was killed.
+3/10/2022 04:18:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 04:19:54: [G_Auto 1] :  1 Automation Signals Cleared
+3/10/2022 04:21:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 04:21:21: [G_Auto 1] :  Placed closure bet with greening on Madison Brengle by Backing 10.18 at 1.63
+3/10/2022 04:21:21: [G_Auto 2] :  Store Text Value (Shared) for Ann Li: aPoints = point: 0; games: 1; sets: 0 
+3/10/2022 04:21:21: [G_Auto 2] :  Store Text Value (Shared) for Ann Li: aServing = serving:1
+3/10/2022 04:21:21: [G_Auto 2] :  Store Text Value (Shared) for Madison Brengle: bPoints = point: 0; games: 3; sets: 0 
+3/10/2022 04:21:21: [G_Auto 2] :  Store Text Value (Shared) for Madison Brengle: bServing = serving:0
+3/10/2022 04:21:21: [G_Auto 2] :  Store Value (Shared) for market: price = 1.63
+3/10/2022 04:21:21: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 24.75
+3/10/2022 04:21:21: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 25.695
+3/10/2022 04:21:21: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.18
+3/10/2022 04:21:21: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 50.445
+3/10/2022 04:21:21: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.92
+3/10/2022 04:21:21: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.54
+3/10/2022 04:21:21: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.65
+3/10/2022 04:21:43: [G_Auto 1] :  1 Automation Signals Cleared
+3/10/2022 04:24:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 04:24:13: [G_Auto 1] :  € 18.60 Lay bet placed on Madison Brengle at 1.43. Entirely unmatched when it initially reached the market.   Ref: 10450          ( Fill or kill bet with 15 seconds delay.   )
+3/10/2022 04:24:15: [G_Auto 2] :  Store Text Value (Shared) for Ann Li: aPoints = point: 0; games: 1; sets: 0 
+3/10/2022 04:24:15: [G_Auto 2] :  Store Text Value (Shared) for Ann Li: aServing = serving:0
+3/10/2022 04:24:15: [G_Auto 2] :  Store Text Value (Shared) for Madison Brengle: bPoints = point: 0; games: 4; sets: 0 
+3/10/2022 04:24:15: [G_Auto 2] :  Store Text Value (Shared) for Madison Brengle: bServing = serving:2
+3/10/2022 04:24:15: [G_Auto 2] :  Store Value (Shared) for market: price = 1.43
+3/10/2022 04:24:15: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 24.75
+3/10/2022 04:24:15: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 44.295
+3/10/2022 04:24:15: [G_Auto 2] :  Store Value (Shared) for market: stake = 18.6
+3/10/2022 04:24:15: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 69.045
+3/10/2022 04:24:15: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.79
+3/10/2022 04:24:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.25
+3/10/2022 04:24:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.44
+3/10/2022 04:24:15: [G_Auto 1] :  € 18.6 of unmatched bet (Ref:10450) was filled before remainder was killed.
+3/10/2022 04:25:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 04:26:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 04:26:32: [G_Auto 1] :  1 Automation Signals Cleared
+3/10/2022 04:30:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 04:31:06: [G_Auto 1] :  Placed closure bet with greening on Madison Brengle by Backing 20.00 at 1.33
+3/10/2022 04:31:07: [G_Auto 2] :  Store Text Value (Shared) for Ann Li: aPoints = point: 0; games: 1; sets: 0 
+3/10/2022 04:31:07: [G_Auto 2] :  Store Text Value (Shared) for Ann Li: aServing = serving:1
+3/10/2022 04:31:07: [G_Auto 2] :  Store Text Value (Shared) for Madison Brengle: bPoints = point: 0; games: 5; sets: 0 
+3/10/2022 04:31:07: [G_Auto 2] :  Store Text Value (Shared) for Madison Brengle: bServing = serving:0
+3/10/2022 04:31:07: [G_Auto 2] :  Store Value (Shared) for market: price = 1.33
+3/10/2022 04:31:07: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 44.75
+3/10/2022 04:31:07: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 44.295
+3/10/2022 04:31:07: [G_Auto 2] :  Store Value (Shared) for market: stake = 20
+3/10/2022 04:31:07: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 89.045
+3/10/2022 04:31:07: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.46
+3/10/2022 04:31:07: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.1
+3/10/2022 04:31:07: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.34
+3/10/2022 04:31:12: [G_Auto 2] :  Store Text Value (Shared) for Ann Li: aPoints = point: 0; games: 1; sets: 0 
+3/10/2022 04:31:12: [G_Auto 2] :  Store Text Value (Shared) for Ann Li: aServing = serving:1
+3/10/2022 04:31:12: [G_Auto 2] :  Store Text Value (Shared) for Madison Brengle: bPoints = point: 0; games: 5; sets: 0 
+3/10/2022 04:31:12: [G_Auto 2] :  Store Text Value (Shared) for Madison Brengle: bServing = serving:0
+3/10/2022 04:31:12: [G_Auto 2] :  Store Value (Shared) for market: price = 1.33
+3/10/2022 04:31:12: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 44.75
+3/10/2022 04:31:12: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 44.295
+3/10/2022 04:31:12: [G_Auto 2] :  Store Value (Shared) for market: stake = 20
+3/10/2022 04:31:12: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 89.045
+3/10/2022 04:31:12: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.46
+3/10/2022 04:31:12: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.1
+3/10/2022 04:31:12: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.33
+3/10/2022 04:31:36: [G_Auto 1] :  1 Automation Signals Cleared
+3/10/2022 04:33:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 04:34:02: [G_Auto 1] :  Store Value (Shared) for Ann Li: PRICE SET 2 = 4.7
+3/10/2022 04:34:02: [G_Auto 1] :  Alert: STORE PRICE AT SET 2 [ Ann Li ]
+3/10/2022 04:34:02: [G_Auto 1] :  Automation Signal for market: VALID = 1
+3/10/2022 04:34:02: [G_Auto 1] :  Store Value (Shared) for Madison Brengle: PRICE SET 2 = 1.27
+3/10/2022 04:34:02: [G_Auto 1] :  Alert: STORE PRICE AT SET 2 [ Madison Brengle ]
+3/10/2022 04:34:02: [G_Auto 1] :  Automation Signal for market: VALID = 1
+3/10/2022 04:34:02: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 4.7
+3/10/2022 04:34:02: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 1.27
+3/10/2022 04:34:05: [G_Auto 1] :  € 27.59 Lay bet placed on Madison Brengle at 1.29. Fully matched at 1.28.  Ref: 10454          ( Fill or kill bet with 15 seconds delay.   )
+3/10/2022 04:34:05: [G_Auto 2] :  Store Text Value (Shared) for Ann Li: aPoints = point: 0; games: 0; sets: 0 
+3/10/2022 04:34:05: [G_Auto 2] :  Store Text Value (Shared) for Ann Li: aServing = serving:0
+3/10/2022 04:34:05: [G_Auto 2] :  Store Text Value (Shared) for Madison Brengle: bPoints = point: 0; games: 0; sets: 1 
+3/10/2022 04:34:05: [G_Auto 2] :  Store Text Value (Shared) for Madison Brengle: bServing = serving:2
+3/10/2022 04:34:05: [G_Auto 2] :  Store Value (Shared) for market: price = 1.28
+3/10/2022 04:34:05: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 44.75
+3/10/2022 04:34:05: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 71.885
+3/10/2022 04:34:05: [G_Auto 2] :  Store Value (Shared) for market: stake = 27.59
+3/10/2022 04:34:05: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 116.635
+3/10/2022 04:34:05: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.68
+3/10/2022 04:34:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.8
+3/10/2022 04:34:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.27
+3/10/2022 04:34:11: [G_Auto 2] :  Store Text Value (Shared) for Ann Li: aPoints = point: 0; games: 0; sets: 0 
+3/10/2022 04:34:11: [G_Auto 2] :  Store Text Value (Shared) for Ann Li: aServing = serving:0
+3/10/2022 04:34:11: [G_Auto 2] :  Store Text Value (Shared) for Madison Brengle: bPoints = point: 0; games: 0; sets: 1 
+3/10/2022 04:34:11: [G_Auto 2] :  Store Text Value (Shared) for Madison Brengle: bServing = serving:2
+3/10/2022 04:34:11: [G_Auto 2] :  Store Value (Shared) for market: price = 1.28
+3/10/2022 04:34:11: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 44.75
+3/10/2022 04:34:11: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 71.885
+3/10/2022 04:34:11: [G_Auto 2] :  Store Value (Shared) for market: stake = 27.59
+3/10/2022 04:34:11: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 116.635
+3/10/2022 04:34:11: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.68
+3/10/2022 04:34:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.7
+3/10/2022 04:34:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.28
+3/10/2022 04:34:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 04:35:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 04:36:45: [G_Auto 1] :  2 Automation Signals Cleared
+3/10/2022 04:37:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 04:38:04: [G_Auto 1] :  Placed closure bet with greening on Madison Brengle by Backing 30.18 at 1.17
+3/10/2022 04:38:04: [G_Auto 2] :  Store Text Value (Shared) for Ann Li: aPoints = point: 0; games: 0; sets: 0 
+3/10/2022 04:38:04: [G_Auto 2] :  Store Text Value (Shared) for Ann Li: aServing = serving:1
+3/10/2022 04:38:04: [G_Auto 2] :  Store Text Value (Shared) for Madison Brengle: bPoints = point: 0; games: 1; sets: 1 
+3/10/2022 04:38:04: [G_Auto 2] :  Store Text Value (Shared) for Madison Brengle: bServing = serving:0
+3/10/2022 04:38:04: [G_Auto 2] :  Store Value (Shared) for market: price = 1.17
+3/10/2022 04:38:04: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 74.93
+3/10/2022 04:38:04: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 71.885
+3/10/2022 04:38:04: [G_Auto 2] :  Store Value (Shared) for market: stake = 30.18
+3/10/2022 04:38:04: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 146.815
+3/10/2022 04:38:04: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.05
+3/10/2022 04:38:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 6.6
+3/10/2022 04:38:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.18
+3/10/2022 04:38:34: [G_Auto 1] :  1 Automation Signals Cleared
+3/10/2022 04:41:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 04:41:49: [G_Auto 1] :  € 27.59 Lay bet placed on Madison Brengle at 1.29. Fully matched at 1.29.  Ref: 10456          ( Fill or kill bet with 15 seconds delay.   )
+3/10/2022 04:41:49: [G_Auto 2] :  Store Text Value (Shared) for Ann Li: aPoints = point: 0; games: 1; sets: 0 
+3/10/2022 04:41:49: [G_Auto 2] :  Store Text Value (Shared) for Ann Li: aServing = serving:0
+3/10/2022 04:41:49: [G_Auto 2] :  Store Text Value (Shared) for Madison Brengle: bPoints = point: 0; games: 1; sets: 1 
+3/10/2022 04:41:49: [G_Auto 2] :  Store Text Value (Shared) for Madison Brengle: bServing = serving:2
+3/10/2022 04:41:49: [G_Auto 2] :  Store Value (Shared) for market: price = 1.29
+3/10/2022 04:41:49: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 74.93
+3/10/2022 04:41:49: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 99.475
+3/10/2022 04:41:49: [G_Auto 2] :  Store Value (Shared) for market: stake = 27.59
+3/10/2022 04:41:49: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 174.405
+3/10/2022 04:41:49: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.49
+3/10/2022 04:41:49: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.4
+3/10/2022 04:41:49: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.29
+3/10/2022 04:41:54: [G_Auto 2] :  Store Text Value (Shared) for Ann Li: aPoints = point: 0; games: 1; sets: 0 
+3/10/2022 04:41:54: [G_Auto 2] :  Store Text Value (Shared) for Ann Li: aServing = serving:0
+3/10/2022 04:41:54: [G_Auto 2] :  Store Text Value (Shared) for Madison Brengle: bPoints = point: 0; games: 1; sets: 1 
+3/10/2022 04:41:54: [G_Auto 2] :  Store Text Value (Shared) for Madison Brengle: bServing = serving:2
+3/10/2022 04:41:54: [G_Auto 2] :  Store Value (Shared) for market: price = 1.29
+3/10/2022 04:41:54: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 74.93
+3/10/2022 04:41:54: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 99.475
+3/10/2022 04:41:54: [G_Auto 2] :  Store Value (Shared) for market: stake = 27.59
+3/10/2022 04:41:54: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 174.405
+3/10/2022 04:41:54: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.27
+3/10/2022 04:41:54: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.4
+3/10/2022 04:41:54: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.28
+3/10/2022 04:42:07: [G_Auto 1] :  1 Automation Signals Cleared
+3/10/2022 04:43:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 04:44:03: [G_Auto 1] :  Placed closure bet with greening on Madison Brengle by Backing 24.05 at 1.48
+3/10/2022 04:44:03: [G_Auto 2] :  Store Text Value (Shared) for Ann Li: aPoints = point: 0; games: 2; sets: 0 
+3/10/2022 04:44:03: [G_Auto 2] :  Store Text Value (Shared) for Ann Li: aServing = serving:1
+3/10/2022 04:44:03: [G_Auto 2] :  Store Text Value (Shared) for Madison Brengle: bPoints = point: 0; games: 1; sets: 1 
+3/10/2022 04:44:03: [G_Auto 2] :  Store Text Value (Shared) for Madison Brengle: bServing = serving:0
+3/10/2022 04:44:03: [G_Auto 2] :  Store Value (Shared) for market: price = 1.48
+3/10/2022 04:44:03: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 98.98
+3/10/2022 04:44:03: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 99.475
+3/10/2022 04:44:03: [G_Auto 2] :  Store Value (Shared) for market: stake = 24.05
+3/10/2022 04:44:03: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 198.455
+3/10/2022 04:44:03: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.48
+3/10/2022 04:44:03: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.1
+3/10/2022 04:44:03: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.48
+3/10/2022 04:44:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 04:45:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 04:46:00: [G_Auto 1] :  1 Automation Signals Cleared
+3/10/2022 04:49:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 04:49:13: [G_Auto 1] :  € 11.27 Lay bet placed on Madison Brengle at 1.71. Entirely unmatched when it initially reached the market.   Ref: 10458          ( Fill or kill bet with 15 seconds delay.   )
+3/10/2022 04:49:28: [G_Auto 1] :  € 11.27 unmatched bet (Ref:10458) was killed.
+3/10/2022 04:49:42: [G_Auto 1] :  1 Automation Signals Cleared
+3/10/2022 04:51:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 04:51:49: [G_Auto 1] :  € 8.60 Lay bet placed on Ann Li at 1.93. Entirely unmatched when it initially reached the market.   Ref: 10459          ( Fill or kill bet with 15 seconds delay.   )
+3/10/2022 04:52:00: [G_Auto 2] :  Store Text Value (Shared) for Ann Li: aPoints = point: 0; games: 4; sets: 0 
+3/10/2022 04:52:00: [G_Auto 2] :  Store Text Value (Shared) for Ann Li: aServing = serving:1
+3/10/2022 04:52:00: [G_Auto 2] :  Store Text Value (Shared) for Madison Brengle: bPoints = point: 0; games: 1; sets: 1 
+3/10/2022 04:52:00: [G_Auto 2] :  Store Text Value (Shared) for Madison Brengle: bServing = serving:0
+3/10/2022 04:52:00: [G_Auto 2] :  Store Value (Shared) for market: price = 1.93
+3/10/2022 04:52:00: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 98.98
+3/10/2022 04:52:00: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 108.075
+3/10/2022 04:52:00: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.6
+3/10/2022 04:52:00: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 207.055
+3/10/2022 04:52:00: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.39
+3/10/2022 04:52:00: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.96
+3/10/2022 04:52:00: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.04
+3/10/2022 04:52:00: [G_Auto 1] :  € 8.6 of unmatched bet (Ref:10459) was filled before remainder was killed.
+3/10/2022 04:52:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 04:53:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 04:53:49: [G_Auto 1] :  1 Automation Signals Cleared
+3/10/2022 04:56:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 04:56:48: [G_Auto 1] :  € 10.26 Lay bet placed on Madison Brengle at 1.78. Entirely unmatched when it initially reached the market.   Ref: 10461          ( Fill or kill bet with 15 seconds delay.   )
+3/10/2022 04:56:48: [G_Auto 1] :  Placed closure bet with greening on Ann Li by Backing 7.41 at 2.24
+3/10/2022 04:56:48: [G_Auto 2] :  Store Text Value (Shared) for Ann Li: aPoints = point: 0; games: 4; sets: 0 
+3/10/2022 04:56:48: [G_Auto 2] :  Store Text Value (Shared) for Ann Li: aServing = serving:0
+3/10/2022 04:56:48: [G_Auto 2] :  Store Text Value (Shared) for Madison Brengle: bPoints = point: 0; games: 2; sets: 1 
+3/10/2022 04:56:48: [G_Auto 2] :  Store Text Value (Shared) for Madison Brengle: bServing = serving:2
+3/10/2022 04:56:48: [G_Auto 2] :  Store Value (Shared) for market: price = 2.24
+3/10/2022 04:56:48: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 106.39
+3/10/2022 04:56:48: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 108.075
+3/10/2022 04:56:48: [G_Auto 2] :  Store Value (Shared) for market: stake = 7.41
+3/10/2022 04:56:48: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 214.465
+3/10/2022 04:56:48: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.65
+3/10/2022 04:56:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.24
+3/10/2022 04:56:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.8
+3/10/2022 04:56:54: [G_Auto 1] :  € 10.26 of unmatched bet (Ref:10461) was filled before remainder was killed.
+3/10/2022 04:56:54: [G_Auto 2] :  Store Text Value (Shared) for Ann Li: aPoints = point: 0; games: 4; sets: 0 
+3/10/2022 04:56:54: [G_Auto 2] :  Store Text Value (Shared) for Ann Li: aServing = serving:0
+3/10/2022 04:56:54: [G_Auto 2] :  Store Text Value (Shared) for Madison Brengle: bPoints = point: 0; games: 2; sets: 1 
+3/10/2022 04:56:54: [G_Auto 2] :  Store Text Value (Shared) for Madison Brengle: bServing = serving:2
+3/10/2022 04:56:54: [G_Auto 2] :  Store Value (Shared) for market: price = 1.78
+3/10/2022 04:56:54: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 106.39
+3/10/2022 04:56:54: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 118.335
+3/10/2022 04:56:54: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.26
+3/10/2022 04:56:54: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 224.725
+3/10/2022 04:56:54: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.47
+3/10/2022 04:56:54: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.26
+3/10/2022 04:56:54: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.76
+3/10/2022 04:57:20: [G_Auto 1] :  1 Automation Signals Cleared
+3/10/2022 04:59:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 05:00:07: [G_Auto 1] :  Placed closure bet with greening on Madison Brengle by Backing 11.93 at 1.53
+3/10/2022 05:00:07: [G_Auto 2] :  Store Text Value (Shared) for Ann Li: aPoints = point: 0; games: 4; sets: 0 
+3/10/2022 05:00:07: [G_Auto 2] :  Store Text Value (Shared) for Ann Li: aServing = serving:1
+3/10/2022 05:00:07: [G_Auto 2] :  Store Text Value (Shared) for Madison Brengle: bPoints = point: 0; games: 3; sets: 1 
+3/10/2022 05:00:07: [G_Auto 2] :  Store Text Value (Shared) for Madison Brengle: bServing = serving:0
+3/10/2022 05:00:07: [G_Auto 2] :  Store Value (Shared) for market: price = 1.53
+3/10/2022 05:00:07: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 118.32
+3/10/2022 05:00:07: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 118.335
+3/10/2022 05:00:07: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.93
+3/10/2022 05:00:07: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 236.655
+3/10/2022 05:00:07: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.01
+3/10/2022 05:00:07: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.78
+3/10/2022 05:00:07: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.56
+3/10/2022 05:00:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 05:01:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 05:02:01: [G_Auto 1] :  1 Automation Signals Cleared
+3/10/2022 05:04:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 05:04:28: [G_Auto 1] :  € 25.81 Lay bet placed on Madison Brengle at 1.31. Fully matched at 1.3.  Ref: 10465          ( Fill or kill bet with 15 seconds delay.   )
+3/10/2022 05:04:29: [G_Auto 2] :  Store Text Value (Shared) for Ann Li: aPoints = point: 0; games: 4; sets: 0 
+3/10/2022 05:04:29: [G_Auto 2] :  Store Text Value (Shared) for Ann Li: aServing = serving:0
+3/10/2022 05:04:29: [G_Auto 2] :  Store Text Value (Shared) for Madison Brengle: bPoints = point: 0; games: 4; sets: 1 
+3/10/2022 05:04:29: [G_Auto 2] :  Store Text Value (Shared) for Madison Brengle: bServing = serving:2
+3/10/2022 05:04:29: [G_Auto 2] :  Store Value (Shared) for market: price = 1.3
+3/10/2022 05:04:29: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 118.32
+3/10/2022 05:04:29: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 144.145
+3/10/2022 05:04:29: [G_Auto 2] :  Store Value (Shared) for market: stake = 25.81
+3/10/2022 05:04:29: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 262.465
+3/10/2022 05:04:29: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.4
+3/10/2022 05:04:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.5
+3/10/2022 05:04:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.29
+3/10/2022 05:05:02: [G_Auto 1] :  1 Automation Signals Cleared
+3/10/2022 05:08:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 05:09:01: [G_Auto 1] :  Placed closure bet with greening on Madison Brengle by Backing 20.72 at 1.62
+3/10/2022 05:09:02: [G_Auto 2] :  Store Text Value (Shared) for Ann Li: aPoints = point: 0; games: 5; sets: 0 
+3/10/2022 05:09:02: [G_Auto 2] :  Store Text Value (Shared) for Ann Li: aServing = serving:1
+3/10/2022 05:09:02: [G_Auto 2] :  Store Text Value (Shared) for Madison Brengle: bPoints = point: 0; games: 4; sets: 1 
+3/10/2022 05:09:02: [G_Auto 2] :  Store Text Value (Shared) for Madison Brengle: bServing = serving:0
+3/10/2022 05:09:02: [G_Auto 2] :  Store Value (Shared) for market: price = 1.62
+3/10/2022 05:09:02: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 139.04
+3/10/2022 05:09:02: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 144.145
+3/10/2022 05:09:02: [G_Auto 2] :  Store Value (Shared) for market: stake = 20.72
+3/10/2022 05:09:02: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 283.185
+3/10/2022 05:09:02: [G_Auto 2] :  Store Value (Shared) for market: pl = 5
+3/10/2022 05:09:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.56
+3/10/2022 05:09:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.62
+3/10/2022 05:09:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 05:10:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 05:10:51: [G_Auto 1] :  1 Automation Signals Cleared
+3/10/2022 05:13:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 05:13:33: [G_Auto 1] :  € 24.24 Lay bet placed on Madison Brengle at 1.33. Fully matched at 1.32.  Ref: 10470          ( Fill or kill bet with 15 seconds delay.   )
+3/10/2022 05:13:34: [G_Auto 2] :  Store Text Value (Shared) for Ann Li: aPoints = point: 0; games: 5; sets: 0 
+3/10/2022 05:13:34: [G_Auto 2] :  Store Text Value (Shared) for Ann Li: aServing = serving:0
+3/10/2022 05:13:34: [G_Auto 2] :  Store Text Value (Shared) for Madison Brengle: bPoints = point: 0; games: 5; sets: 1 
+3/10/2022 05:13:34: [G_Auto 2] :  Store Text Value (Shared) for Madison Brengle: bServing = serving:2
+3/10/2022 05:13:34: [G_Auto 2] :  Store Value (Shared) for market: price = 1.32
+3/10/2022 05:13:34: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 139.04
+3/10/2022 05:13:34: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 168.385
+3/10/2022 05:13:34: [G_Auto 2] :  Store Value (Shared) for market: stake = 24.24
+3/10/2022 05:13:34: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 307.425
+3/10/2022 05:13:34: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.82
+3/10/2022 05:13:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.1
+3/10/2022 05:13:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.32
+3/10/2022 05:13:58: [G_Auto 1] :  1 Automation Signals Cleared
+3/10/2022 05:15:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 05:15:31: [G_Auto 1] :  Placed closure bet with greening on Madison Brengle by Backing 28.56 at 1.12
+3/10/2022 05:15:32: [G_Auto 2] :  Store Text Value (Shared) for Ann Li: aPoints = point: 0; games: 5; sets: 0 
+3/10/2022 05:15:32: [G_Auto 2] :  Store Text Value (Shared) for Ann Li: aServing = serving:1
+3/10/2022 05:15:32: [G_Auto 2] :  Store Text Value (Shared) for Madison Brengle: bPoints = point: 0; games: 6; sets: 1 
+3/10/2022 05:15:32: [G_Auto 2] :  Store Text Value (Shared) for Madison Brengle: bServing = serving:0
+3/10/2022 05:15:32: [G_Auto 2] :  Store Value (Shared) for market: price = 1.12
+3/10/2022 05:15:32: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 167.6
+3/10/2022 05:15:32: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 168.385
+3/10/2022 05:15:32: [G_Auto 2] :  Store Value (Shared) for market: stake = 28.56
+3/10/2022 05:15:32: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 335.985
+3/10/2022 05:15:32: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.76
+3/10/2022 05:15:32: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 8.8
+3/10/2022 05:15:32: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.13
+3/10/2022 05:15:37: [G_Auto 2] :  Store Text Value (Shared) for Ann Li: aPoints = point: 0; games: 5; sets: 0 
+3/10/2022 05:15:37: [G_Auto 2] :  Store Text Value (Shared) for Ann Li: aServing = serving:1
+3/10/2022 05:15:37: [G_Auto 2] :  Store Text Value (Shared) for Madison Brengle: bPoints = point: 0; games: 6; sets: 1 
+3/10/2022 05:15:37: [G_Auto 2] :  Store Text Value (Shared) for Madison Brengle: bServing = serving:0
+3/10/2022 05:15:37: [G_Auto 2] :  Store Value (Shared) for market: price = 1.12
+3/10/2022 05:15:37: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 167.6
+3/10/2022 05:15:37: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 168.385
+3/10/2022 05:15:37: [G_Auto 2] :  Store Value (Shared) for market: stake = 28.56
+3/10/2022 05:15:37: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 335.985
+3/10/2022 05:15:37: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.76
+3/10/2022 05:15:37: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 8.6
+3/10/2022 05:15:37: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.13
+3/10/2022 05:16:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 05:17:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 05:17:42: [G_Auto 1] :  1 Automation Signals Cleared
+3/10/2022 05:21:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 05:28:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 05:29:06: [G_Auto 2] :  Store Value (Shared) for market: aSecondSetPrice = 2.04
+3/10/2022 05:29:06: [G_Auto 2] :  Store Value (Shared) for market: bSecondSetPrice = 2
+3/10/2022 05:29:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 05:30:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 05:31:35: [G_Auto 1] :  1 Automation Signals Cleared
+3/10/2022 05:33:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 05:34:00: [G_Auto 1] :  1 Automation Signals Cleared
+3/10/2022 05:36:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 05:36:18: [G_Auto 1] :  € 23.53 Lay bet placed on Ann Li at 1.34. Fully matched at 1.33.  Ref: 10477          ( Fill or kill bet with 15 seconds delay.   )
+3/10/2022 05:36:18: [G_Auto 2] :  Store Text Value (Shared) for Ann Li: aPoints = point: 0; games: 2; sets: 1 
+3/10/2022 05:36:18: [G_Auto 2] :  Store Text Value (Shared) for Ann Li: aServing = serving:1
+3/10/2022 05:36:18: [G_Auto 2] :  Store Text Value (Shared) for Madison Brengle: bPoints = point: 0; games: 0; sets: 1 
+3/10/2022 05:36:18: [G_Auto 2] :  Store Text Value (Shared) for Madison Brengle: bServing = serving:0
+3/10/2022 05:36:18: [G_Auto 2] :  Store Value (Shared) for market: price = 1.33
+3/10/2022 05:36:18: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 167.6
+3/10/2022 05:36:18: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 191.915
+3/10/2022 05:36:18: [G_Auto 2] :  Store Value (Shared) for market: stake = 23.53
+3/10/2022 05:36:18: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 359.515
+3/10/2022 05:36:18: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.59
+3/10/2022 05:36:18: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.33
+3/10/2022 05:36:18: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4
+3/10/2022 05:36:50: [G_Auto 1] :  1 Automation Signals Cleared
+3/10/2022 05:39:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 05:39:39: [G_Auto 1] :  Placed closure bet with greening on Ann Li by Backing 26.98 at 1.16
+3/10/2022 05:39:39: [G_Auto 2] :  Store Text Value (Shared) for Ann Li: aPoints = point: 0; games: 3; sets: 1 
+3/10/2022 05:39:39: [G_Auto 2] :  Store Text Value (Shared) for Ann Li: aServing = serving:0
+3/10/2022 05:39:39: [G_Auto 2] :  Store Text Value (Shared) for Madison Brengle: bPoints = point: 0; games: 0; sets: 1 
+3/10/2022 05:39:39: [G_Auto 2] :  Store Text Value (Shared) for Madison Brengle: bServing = serving:2
+3/10/2022 05:39:39: [G_Auto 2] :  Store Value (Shared) for market: price = 1.17
+3/10/2022 05:39:39: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 194.58
+3/10/2022 05:39:39: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 191.915
+3/10/2022 05:39:39: [G_Auto 2] :  Store Value (Shared) for market: stake = 26.98
+3/10/2022 05:39:39: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 386.495
+3/10/2022 05:39:39: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.44
+3/10/2022 05:39:39: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.18
+3/10/2022 05:39:39: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 6.8
+3/10/2022 05:40:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 05:41:22: [G_Auto 1] :  1 Automation Signals Cleared
+3/10/2022 05:43:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 05:44:13: [G_Auto 1] :  1 Automation Signals Cleared
+3/10/2022 05:47:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 05:47:21: [G_Auto 1] :  While Placing closure bet with greening on, unable to place € 0.26 Lay bet at 1.02 on Ann Li due to betfair's rules regarding payout/liability rounding.
+3/10/2022 05:48:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 05:49:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 05:49:13: [G_Auto 1] :  1 Automation Signals Cleared
+3/10/2022 05:51:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 05:51:59:  Guardian has detected that the market is suspended

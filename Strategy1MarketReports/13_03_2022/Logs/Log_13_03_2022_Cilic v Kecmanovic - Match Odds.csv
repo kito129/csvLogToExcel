@@ -1,0 +1,467 @@
+3/13/2022 12:34:13: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: info = marketName: Cilic v Kecmanovic - Match Odds; runnerA: Marin Cilic; runnerB: Miomir Kecmanovic 
+3/13/2022 12:34:13: [G_Auto 1] :  Store Value (Shared) for market: aId = 2263681
+3/13/2022 12:34:13: [G_Auto 1] :  Store Value (Shared) for market: bId = 9657480
+3/13/2022 18:11:43:  Guardian has detected that the market is in-play
+3/13/2022 18:11:43:  Guardian has detected that the market is suspended
+3/13/2022 18:11:48: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.64; bBsp: 2.52; volume: 96106.96 
+3/13/2022 18:11:48: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.64; bBsp: 2.52; volume: 96106.96 
+3/13/2022 18:11:48:  Guardian has detected that the market is now unsuspended
+3/13/2022 18:11:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 18:12:02: [G_Auto 2] :  1 Automation Signals Cleared
+3/13/2022 18:16:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 18:16:57: [G_Auto 2] :  1 Automation Signals Cleared
+3/13/2022 18:18:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 18:18:58: [G_Auto 2] :  € 10.39 Lay bet placed on Marin Cilic at 1.77. Fully matched at 1.76.  Ref: 12073          ( Fill or kill bet with 15 seconds delay.   )
+3/13/2022 18:19:00: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 0; games: 1; sets: 0 
+3/13/2022 18:19:00: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:1
+3/13/2022 18:19:00: [G_Auto 1] :  Store Text Value (Shared) for Miomir Kecmanovic: bPoints = point: 0; games: 1; sets: 0 
+3/13/2022 18:19:00: [G_Auto 1] :  Store Text Value (Shared) for Miomir Kecmanovic: bServing = serving:0
+3/13/2022 18:19:00: [G_Auto 1] :  Store Value (Shared) for market: price = 1.76
+3/13/2022 18:19:00: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 0
+3/13/2022 18:19:00: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 10.39
+3/13/2022 18:19:00: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.39
+3/13/2022 18:19:00: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 10.39
+3/13/2022 18:19:00: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.06
+3/13/2022 18:19:00: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.75
+3/13/2022 18:19:00: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.32
+3/13/2022 18:19:43: [G_Auto 2] :  1 Automation Signals Cleared
+3/13/2022 18:22:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 18:22:36: [G_Auto 2] :  Placed closure bet with greening on Marin Cilic by Backing 11.02 at 1.66
+3/13/2022 18:22:38: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 0; games: 2; sets: 0 
+3/13/2022 18:22:38: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:0
+3/13/2022 18:22:38: [G_Auto 1] :  Store Text Value (Shared) for Miomir Kecmanovic: bPoints = point: 0; games: 1; sets: 0 
+3/13/2022 18:22:38: [G_Auto 1] :  Store Text Value (Shared) for Miomir Kecmanovic: bServing = serving:2
+3/13/2022 18:22:38: [G_Auto 1] :  Store Value (Shared) for market: price = 1.66
+3/13/2022 18:22:38: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 11.02
+3/13/2022 18:22:38: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 10.39
+3/13/2022 18:22:38: [G_Auto 1] :  Store Value (Shared) for market: stake = 11.02
+3/13/2022 18:22:38: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 21.41
+3/13/2022 18:22:38: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.62
+3/13/2022 18:22:38: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.67
+3/13/2022 18:22:38: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.52
+3/13/2022 18:23:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 18:24:21: [G_Auto 2] :  1 Automation Signals Cleared
+3/13/2022 18:25:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 18:26:09: [G_Auto 2] :  € 10.00 Lay bet placed on Marin Cilic at 1.8. Fully matched at 1.79.  Ref: 12082          ( Fill or kill bet with 15 seconds delay.   )
+3/13/2022 18:26:10: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 0; games: 2; sets: 0 
+3/13/2022 18:26:10: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:1
+3/13/2022 18:26:10: [G_Auto 1] :  Store Text Value (Shared) for Miomir Kecmanovic: bPoints = point: 0; games: 2; sets: 0 
+3/13/2022 18:26:10: [G_Auto 1] :  Store Text Value (Shared) for Miomir Kecmanovic: bServing = serving:0
+3/13/2022 18:26:10: [G_Auto 1] :  Store Value (Shared) for market: price = 1.79
+3/13/2022 18:26:10: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 11.02
+3/13/2022 18:26:10: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 20.39
+3/13/2022 18:26:10: [G_Auto 1] :  Store Value (Shared) for market: stake = 10
+3/13/2022 18:26:10: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 31.41
+3/13/2022 18:26:10: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.68
+3/13/2022 18:26:10: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.78
+3/13/2022 18:26:10: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.28
+3/13/2022 18:26:44: [G_Auto 2] :  1 Automation Signals Cleared
+3/13/2022 18:30:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 18:30:34: [G_Auto 2] :  Placed closure bet with greening on Marin Cilic by Backing 10.78 at 1.66
+3/13/2022 18:30:36: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 0; games: 3; sets: 0 
+3/13/2022 18:30:36: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:0
+3/13/2022 18:30:36: [G_Auto 1] :  Store Text Value (Shared) for Miomir Kecmanovic: bPoints = point: 0; games: 2; sets: 0 
+3/13/2022 18:30:36: [G_Auto 1] :  Store Text Value (Shared) for Miomir Kecmanovic: bServing = serving:2
+3/13/2022 18:30:36: [G_Auto 1] :  Store Value (Shared) for market: price = 1.66
+3/13/2022 18:30:36: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 21.8
+3/13/2022 18:30:36: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 20.39
+3/13/2022 18:30:36: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.78
+3/13/2022 18:30:36: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 42.19
+3/13/2022 18:30:36: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.41
+3/13/2022 18:30:36: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.68
+3/13/2022 18:30:36: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.46
+3/13/2022 18:31:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 18:32:25: [G_Auto 2] :  1 Automation Signals Cleared
+3/13/2022 18:36:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 18:36:27: [G_Auto 2] :  € 23.53 Lay bet placed on Marin Cilic at 1.34. Fully matched at 1.33.  Ref: 12094          ( Fill or kill bet with 15 seconds delay.   )
+3/13/2022 18:36:29: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 0; games: 4; sets: 0 
+3/13/2022 18:36:29: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:1
+3/13/2022 18:36:29: [G_Auto 1] :  Store Text Value (Shared) for Miomir Kecmanovic: bPoints = point: 0; games: 2; sets: 0 
+3/13/2022 18:36:29: [G_Auto 1] :  Store Text Value (Shared) for Miomir Kecmanovic: bServing = serving:0
+3/13/2022 18:36:29: [G_Auto 1] :  Store Value (Shared) for market: price = 1.33
+3/13/2022 18:36:29: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 21.8
+3/13/2022 18:36:29: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 43.92
+3/13/2022 18:36:29: [G_Auto 1] :  Store Value (Shared) for market: stake = 23.53
+3/13/2022 18:36:29: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 65.72
+3/13/2022 18:36:29: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.59
+3/13/2022 18:36:29: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.33
+3/13/2022 18:36:29: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.1
+3/13/2022 18:37:12: [G_Auto 2] :  1 Automation Signals Cleared
+3/13/2022 18:39:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 18:39:52: [G_Auto 2] :  Placed closure bet with greening on Marin Cilic by Backing 24.45 at 1.28
+3/13/2022 18:39:54: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 0; games: 5; sets: 0 
+3/13/2022 18:39:54: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:0
+3/13/2022 18:39:54: [G_Auto 1] :  Store Text Value (Shared) for Miomir Kecmanovic: bPoints = point: 0; games: 2; sets: 0 
+3/13/2022 18:39:54: [G_Auto 1] :  Store Text Value (Shared) for Miomir Kecmanovic: bServing = serving:2
+3/13/2022 18:39:54: [G_Auto 1] :  Store Value (Shared) for market: price = 1.28
+3/13/2022 18:39:54: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 46.25
+3/13/2022 18:39:54: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 43.92
+3/13/2022 18:39:54: [G_Auto 1] :  Store Value (Shared) for market: stake = 24.45
+3/13/2022 18:39:54: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 90.17
+3/13/2022 18:39:54: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.33
+3/13/2022 18:39:54: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.29
+3/13/2022 18:39:54: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.5
+3/13/2022 18:40:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 18:41:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 18:41:48: [G_Auto 2] :  1 Automation Signals Cleared
+3/13/2022 18:43:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 18:43:55: [G_Auto 2] :  € 25.81 Lay bet placed on Marin Cilic at 1.31. Fully matched at 1.3.  Ref: 12105          ( Fill or kill bet with 15 seconds delay.   )
+3/13/2022 18:43:57: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 0; games: 5; sets: 0 
+3/13/2022 18:43:57: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:1
+3/13/2022 18:43:57: [G_Auto 1] :  Store Text Value (Shared) for Miomir Kecmanovic: bPoints = point: 0; games: 3; sets: 0 
+3/13/2022 18:43:57: [G_Auto 1] :  Store Text Value (Shared) for Miomir Kecmanovic: bServing = serving:0
+3/13/2022 18:43:57: [G_Auto 1] :  Store Value (Shared) for market: price = 1.3
+3/13/2022 18:43:57: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 46.25
+3/13/2022 18:43:57: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 69.73
+3/13/2022 18:43:57: [G_Auto 1] :  Store Value (Shared) for market: stake = 25.81
+3/13/2022 18:43:57: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 115.98
+3/13/2022 18:43:57: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.53
+3/13/2022 18:43:57: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.29
+3/13/2022 18:43:57: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.5
+3/13/2022 18:44:39: [G_Auto 2] :  1 Automation Signals Cleared
+3/13/2022 18:46:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 18:47:03: [G_Auto 2] :  Placed closure bet with greening on Marin Cilic by Backing 19.51 at 1.72
+3/13/2022 18:47:05: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 0; games: 5; sets: 0 
+3/13/2022 18:47:05: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:0
+3/13/2022 18:47:05: [G_Auto 1] :  Store Text Value (Shared) for Miomir Kecmanovic: bPoints = point: 0; games: 4; sets: 0 
+3/13/2022 18:47:05: [G_Auto 1] :  Store Text Value (Shared) for Miomir Kecmanovic: bServing = serving:2
+3/13/2022 18:47:05: [G_Auto 1] :  Store Value (Shared) for market: price = 1.72
+3/13/2022 18:47:05: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 65.76
+3/13/2022 18:47:05: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 69.73
+3/13/2022 18:47:05: [G_Auto 1] :  Store Value (Shared) for market: stake = 19.51
+3/13/2022 18:47:05: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 135.49
+3/13/2022 18:47:05: [G_Auto 1] :  Store Value (Shared) for market: pl = 3.9
+3/13/2022 18:47:05: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.72
+3/13/2022 18:47:05: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.42
+3/13/2022 18:47:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 18:48:53: [G_Auto 2] :  1 Automation Signals Cleared
+3/13/2022 18:50:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 18:50:21: [G_Auto 2] :  € 8.79 Lay bet placed on Marin Cilic at 1.91. Fully matched at 1.9.  Ref: 12110          ( Fill or kill bet with 15 seconds delay.   )
+3/13/2022 18:50:23: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 0; games: 5; sets: 0 
+3/13/2022 18:50:23: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:1
+3/13/2022 18:50:23: [G_Auto 1] :  Store Text Value (Shared) for Miomir Kecmanovic: bPoints = point: 0; games: 5; sets: 0 
+3/13/2022 18:50:23: [G_Auto 1] :  Store Text Value (Shared) for Miomir Kecmanovic: bServing = serving:0
+3/13/2022 18:50:23: [G_Auto 1] :  Store Value (Shared) for market: price = 1.9
+3/13/2022 18:50:23: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 65.76
+3/13/2022 18:50:23: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 78.52
+3/13/2022 18:50:23: [G_Auto 1] :  Store Value (Shared) for market: stake = 8.79
+3/13/2022 18:50:23: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 144.28
+3/13/2022 18:50:23: [G_Auto 1] :  Store Value (Shared) for market: pl = 3.85
+3/13/2022 18:50:23: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.89
+3/13/2022 18:50:23: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.12
+3/13/2022 18:50:46: [G_Auto 2] :  1 Automation Signals Cleared
+3/13/2022 18:53:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 18:53:59: [G_Auto 2] :  Placed closure bet with greening on Marin Cilic by Backing 9.54 at 1.75
+3/13/2022 18:54:00: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 0; games: 6; sets: 0 
+3/13/2022 18:54:00: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:0
+3/13/2022 18:54:00: [G_Auto 1] :  Store Text Value (Shared) for Miomir Kecmanovic: bPoints = point: 0; games: 5; sets: 0 
+3/13/2022 18:54:00: [G_Auto 1] :  Store Text Value (Shared) for Miomir Kecmanovic: bServing = serving:2
+3/13/2022 18:54:00: [G_Auto 1] :  Store Value (Shared) for market: price = 1.75
+3/13/2022 18:54:00: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 75.3
+3/13/2022 18:54:00: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 78.52
+3/13/2022 18:54:00: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.54
+3/13/2022 18:54:00: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 153.82
+3/13/2022 18:54:00: [G_Auto 1] :  Store Value (Shared) for market: pl = 3.16
+3/13/2022 18:54:00: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.77
+3/13/2022 18:54:00: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.28
+3/13/2022 18:54:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 18:55:39: [G_Auto 2] :  1 Automation Signals Cleared
+3/13/2022 18:56:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 19:10:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 19:10:32: [G_Auto 1] :  Store Value (Shared) for market: aFirstSetPrice = 1.34
+3/13/2022 19:10:32: [G_Auto 1] :  Store Value (Shared) for market: bFirstSetPrice = 4.2
+3/13/2022 19:10:32: [G_Auto 2] :  Store Value (Shared) for Marin Cilic: PRICE SET 2 = 1.34
+3/13/2022 19:10:32: [G_Auto 2] :  Alert: STORE PRICE AT SET 2 [ Marin Cilic ]
+3/13/2022 19:10:32: [G_Auto 2] :  Automation Signal for market: VALID = 1
+3/13/2022 19:10:32: [G_Auto 2] :  Store Value (Shared) for Miomir Kecmanovic: PRICE SET 2 = 4.2
+3/13/2022 19:10:32: [G_Auto 2] :  Alert: STORE PRICE AT SET 2 [ Miomir Kecmanovic ]
+3/13/2022 19:10:32: [G_Auto 2] :  Automation Signal for market: VALID = 1
+3/13/2022 19:11:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 19:12:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 19:13:04: [G_Auto 2] :  2 Automation Signals Cleared
+3/13/2022 19:17:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 19:17:38: [G_Auto 2] :  € 19.51 Lay bet placed on Marin Cilic at 1.41. Fully matched at 1.4.  Ref: 12133          ( Fill or kill bet with 15 seconds delay.   )
+3/13/2022 19:17:40: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 0; games: 0; sets: 1 
+3/13/2022 19:17:40: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:1
+3/13/2022 19:17:40: [G_Auto 1] :  Store Text Value (Shared) for Miomir Kecmanovic: bPoints = point: 0; games: 1; sets: 0 
+3/13/2022 19:17:40: [G_Auto 1] :  Store Text Value (Shared) for Miomir Kecmanovic: bServing = serving:0
+3/13/2022 19:17:40: [G_Auto 1] :  Store Value (Shared) for market: price = 1.4
+3/13/2022 19:17:40: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 75.3
+3/13/2022 19:17:40: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 98.03
+3/13/2022 19:17:40: [G_Auto 1] :  Store Value (Shared) for market: stake = 19.51
+3/13/2022 19:17:40: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 173.33
+3/13/2022 19:17:40: [G_Auto 1] :  Store Value (Shared) for market: pl = 3.02
+3/13/2022 19:17:40: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.39
+3/13/2022 19:17:40: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.55
+3/13/2022 19:18:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 19:19:00: [G_Auto 2] :  1 Automation Signals Cleared
+3/13/2022 19:21:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 19:21:48: [G_Auto 2] :  Placed closure bet with greening on Marin Cilic by Backing 15.43 at 1.77
+3/13/2022 19:21:49: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 0; games: 0; sets: 1 
+3/13/2022 19:21:49: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:0
+3/13/2022 19:21:49: [G_Auto 1] :  Store Text Value (Shared) for Miomir Kecmanovic: bPoints = point: 0; games: 2; sets: 0 
+3/13/2022 19:21:49: [G_Auto 1] :  Store Text Value (Shared) for Miomir Kecmanovic: bServing = serving:2
+3/13/2022 19:21:49: [G_Auto 1] :  Store Value (Shared) for market: price = 1.77
+3/13/2022 19:21:49: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 90.73
+3/13/2022 19:21:49: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 98.03
+3/13/2022 19:21:49: [G_Auto 1] :  Store Value (Shared) for market: stake = 15.43
+3/13/2022 19:21:49: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 188.76
+3/13/2022 19:21:49: [G_Auto 1] :  Store Value (Shared) for market: pl = 7.15
+3/13/2022 19:21:49: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.78
+3/13/2022 19:21:49: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.3
+3/13/2022 19:22:32: [G_Auto 2] :  1 Automation Signals Cleared
+3/13/2022 19:24:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 19:24:30: [G_Auto 2] :  € 9.09 Lay bet placed on Marin Cilic at 1.88. Entirely unmatched when it initially reached the market.   Ref: 12141          ( Fill or kill bet with 15 seconds delay.   )
+3/13/2022 19:24:36: [G_Auto 2] :  € 9.09 of unmatched bet (Ref:12141) was filled before remainder was killed.
+3/13/2022 19:24:36: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 0; games: 0; sets: 1 
+3/13/2022 19:24:36: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:1
+3/13/2022 19:24:36: [G_Auto 1] :  Store Text Value (Shared) for Miomir Kecmanovic: bPoints = point: 0; games: 3; sets: 0 
+3/13/2022 19:24:36: [G_Auto 1] :  Store Text Value (Shared) for Miomir Kecmanovic: bServing = serving:0
+3/13/2022 19:24:36: [G_Auto 1] :  Store Value (Shared) for market: price = 1.88
+3/13/2022 19:24:36: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 90.73
+3/13/2022 19:24:36: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 107.12
+3/13/2022 19:24:36: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.09
+3/13/2022 19:24:36: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 197.85
+3/13/2022 19:24:36: [G_Auto 1] :  Store Value (Shared) for market: pl = 7.06
+3/13/2022 19:24:36: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.86
+3/13/2022 19:24:36: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.16
+3/13/2022 19:25:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 19:26:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 19:26:53: [G_Auto 2] :  1 Automation Signals Cleared
+3/13/2022 19:30:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 19:30:36: [G_Auto 2] :  Placed closure bet with greening on Marin Cilic by Backing 9.39 at 1.82
+3/13/2022 19:30:37: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 0; games: 1; sets: 1 
+3/13/2022 19:30:37: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:0
+3/13/2022 19:30:37: [G_Auto 1] :  Store Text Value (Shared) for Miomir Kecmanovic: bPoints = point: 0; games: 3; sets: 0 
+3/13/2022 19:30:37: [G_Auto 1] :  Store Text Value (Shared) for Miomir Kecmanovic: bServing = serving:2
+3/13/2022 19:30:37: [G_Auto 1] :  Store Value (Shared) for market: price = 1.82
+3/13/2022 19:30:37: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 100.12
+3/13/2022 19:30:37: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 107.12
+3/13/2022 19:30:37: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.39
+3/13/2022 19:30:37: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 207.24
+3/13/2022 19:30:37: [G_Auto 1] :  Store Value (Shared) for market: pl = 6.86
+3/13/2022 19:30:37: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.84
+3/13/2022 19:30:37: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.2
+3/13/2022 19:30:56: [G_Auto 2] :  1 Automation Signals Cleared
+3/13/2022 19:32:06: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 19:32:19: [G_Auto 2] :  € 7.84 Lay bet placed on Marin Cilic at 2.02. Fully matched at 2.  Ref: 12149          ( Fill or kill bet with 15 seconds delay.   )
+3/13/2022 19:32:21: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 0; games: 1; sets: 1 
+3/13/2022 19:32:21: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:1
+3/13/2022 19:32:21: [G_Auto 1] :  Store Text Value (Shared) for Miomir Kecmanovic: bPoints = point: 0; games: 4; sets: 0 
+3/13/2022 19:32:21: [G_Auto 1] :  Store Text Value (Shared) for Miomir Kecmanovic: bServing = serving:0
+3/13/2022 19:32:21: [G_Auto 1] :  Store Value (Shared) for market: price = 2
+3/13/2022 19:32:21: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 100.12
+3/13/2022 19:32:21: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 114.96
+3/13/2022 19:32:21: [G_Auto 1] :  Store Value (Shared) for market: stake = 7.84
+3/13/2022 19:32:21: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 215.08
+3/13/2022 19:32:21: [G_Auto 1] :  Store Value (Shared) for market: pl = 6.82
+3/13/2022 19:32:21: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2
+3/13/2022 19:32:21: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2
+3/13/2022 19:33:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 19:34:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 19:34:38: [G_Auto 2] :  1 Automation Signals Cleared
+3/13/2022 19:36:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 19:36:27: [G_Auto 2] :  Placed closure bet with greening on Marin Cilic by Backing 8.39 at 1.87
+3/13/2022 19:36:28: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 0; games: 2; sets: 1 
+3/13/2022 19:36:28: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:0
+3/13/2022 19:36:28: [G_Auto 1] :  Store Text Value (Shared) for Miomir Kecmanovic: bPoints = point: 0; games: 4; sets: 0 
+3/13/2022 19:36:28: [G_Auto 1] :  Store Text Value (Shared) for Miomir Kecmanovic: bServing = serving:2
+3/13/2022 19:36:28: [G_Auto 1] :  Store Value (Shared) for market: price = 1.87
+3/13/2022 19:36:28: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 108.51
+3/13/2022 19:36:28: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 114.96
+3/13/2022 19:36:28: [G_Auto 1] :  Store Value (Shared) for market: stake = 8.39
+3/13/2022 19:36:28: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 223.47
+3/13/2022 19:36:28: [G_Auto 1] :  Store Value (Shared) for market: pl = 6.33
+3/13/2022 19:36:28: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.86
+3/13/2022 19:36:28: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.16
+3/13/2022 19:36:47: [G_Auto 2] :  1 Automation Signals Cleared
+3/13/2022 19:39:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 19:40:01: [G_Auto 2] :  € 8.25 Lay bet placed on Marin Cilic at 1.97. Fully matched at 1.96.  Ref: 12155          ( Fill or kill bet with 15 seconds delay.   )
+3/13/2022 19:40:03: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 0; games: 2; sets: 1 
+3/13/2022 19:40:03: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:1
+3/13/2022 19:40:03: [G_Auto 1] :  Store Text Value (Shared) for Miomir Kecmanovic: bPoints = point: 0; games: 5; sets: 0 
+3/13/2022 19:40:03: [G_Auto 1] :  Store Text Value (Shared) for Miomir Kecmanovic: bServing = serving:0
+3/13/2022 19:40:03: [G_Auto 1] :  Store Value (Shared) for market: price = 1.96
+3/13/2022 19:40:03: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 108.51
+3/13/2022 19:40:03: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 123.21
+3/13/2022 19:40:03: [G_Auto 1] :  Store Value (Shared) for market: stake = 8.25
+3/13/2022 19:40:03: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 231.72
+3/13/2022 19:40:03: [G_Auto 1] :  Store Value (Shared) for market: pl = 6.28
+3/13/2022 19:40:03: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.95
+3/13/2022 19:40:03: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.04
+3/13/2022 19:40:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 19:41:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 19:42:15: [G_Auto 2] :  1 Automation Signals Cleared
+3/13/2022 19:52:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 19:52:14: [G_Auto 2] :  € 7.84 Lay bet placed on Miomir Kecmanovic at 2.02. Fully matched at 2.  Ref: 12166          ( Fill or kill bet with 15 seconds delay.   )
+3/13/2022 19:52:14: [G_Auto 2] :  Placed closure bet with greening on Marin Cilic by Backing 8.08 at 2
+3/13/2022 19:52:16: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 0; games: 3; sets: 1 
+3/13/2022 19:52:16: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:0
+3/13/2022 19:52:16: [G_Auto 1] :  Store Text Value (Shared) for Miomir Kecmanovic: bPoints = point: 0; games: 5; sets: 0 
+3/13/2022 19:52:16: [G_Auto 1] :  Store Text Value (Shared) for Miomir Kecmanovic: bServing = serving:2
+3/13/2022 19:52:16: [G_Auto 1] :  Store Value (Shared) for market: price = 2
+3/13/2022 19:52:16: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 116.59
+3/13/2022 19:52:16: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 131.05
+3/13/2022 19:52:16: [G_Auto 1] :  Store Value (Shared) for market: stake = 8.08
+3/13/2022 19:52:16: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 247.64
+3/13/2022 19:52:16: [G_Auto 1] :  Store Value (Shared) for market: pl = 6.49
+3/13/2022 19:52:16: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2
+3/13/2022 19:52:16: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2
+3/13/2022 19:52:43: [G_Auto 2] :  1 Automation Signals Cleared
+3/13/2022 19:58:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 19:58:59: [G_Auto 1] :  Store Value (Shared) for market: aSecondSetPrice = 2.04
+3/13/2022 19:58:59: [G_Auto 1] :  Store Value (Shared) for market: bSecondSetPrice = 1.96
+3/13/2022 19:59:02: [G_Auto 2] :  Placed closure bet with greening on Miomir Kecmanovic by Backing 8.04 at 1.95
+3/13/2022 19:59:04: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 0; games: 0; sets: 1 
+3/13/2022 19:59:04: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:1
+3/13/2022 19:59:04: [G_Auto 1] :  Store Text Value (Shared) for Miomir Kecmanovic: bPoints = point: 0; games: 0; sets: 1 
+3/13/2022 19:59:04: [G_Auto 1] :  Store Text Value (Shared) for Miomir Kecmanovic: bServing = serving:0
+3/13/2022 19:59:04: [G_Auto 1] :  Store Value (Shared) for market: price = 1.95
+3/13/2022 19:59:04: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 124.63
+3/13/2022 19:59:04: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 131.05
+3/13/2022 19:59:04: [G_Auto 1] :  Store Value (Shared) for market: stake = 8.04
+3/13/2022 19:59:04: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 255.68
+3/13/2022 19:59:04: [G_Auto 1] :  Store Value (Shared) for market: pl = 6.29
+3/13/2022 19:59:04: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.04
+3/13/2022 19:59:04: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.96
+3/13/2022 19:59:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 20:00:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 20:01:41: [G_Auto 2] :  1 Automation Signals Cleared
+3/13/2022 20:07:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 20:08:29: [G_Auto 2] :  1 Automation Signals Cleared
+3/13/2022 20:10:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 20:11:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 20:11:54: [G_Auto 2] :  1 Automation Signals Cleared
+3/13/2022 20:15:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 20:16:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 20:17:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 20:17:31: [G_Auto 2] :  1 Automation Signals Cleared
+3/13/2022 20:23:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 20:24:13: [G_Auto 2] :  1 Automation Signals Cleared
+3/13/2022 20:25:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 20:26:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 20:27:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 20:27:36: [G_Auto 2] :  1 Automation Signals Cleared
+3/13/2022 20:30:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 20:30:25: [G_Auto 2] :  € 8.25 Lay bet placed on Marin Cilic at 1.97. Fully matched at 1.96.  Ref: 12188          ( Fill or kill bet with 15 seconds delay.   )
+3/13/2022 20:30:26: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 0; games: 3; sets: 1 
+3/13/2022 20:30:26: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:1
+3/13/2022 20:30:26: [G_Auto 1] :  Store Text Value (Shared) for Miomir Kecmanovic: bPoints = point: 0; games: 3; sets: 1 
+3/13/2022 20:30:26: [G_Auto 1] :  Store Text Value (Shared) for Miomir Kecmanovic: bServing = serving:0
+3/13/2022 20:30:26: [G_Auto 1] :  Store Value (Shared) for market: price = 1.96
+3/13/2022 20:30:26: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 124.63
+3/13/2022 20:30:26: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 139.3
+3/13/2022 20:30:26: [G_Auto 1] :  Store Value (Shared) for market: stake = 8.25
+3/13/2022 20:30:26: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 263.93
+3/13/2022 20:30:26: [G_Auto 1] :  Store Value (Shared) for market: pl = 6.2
+3/13/2022 20:30:26: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.95
+3/13/2022 20:30:26: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.04
+3/13/2022 20:31:08: [G_Auto 2] :  1 Automation Signals Cleared
+3/13/2022 20:32:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 20:33:11: [G_Auto 2] :  Placed closure bet with greening on Marin Cilic by Backing 9.51 at 1.7
+3/13/2022 20:33:12: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 0; games: 4; sets: 1 
+3/13/2022 20:33:12: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:0
+3/13/2022 20:33:12: [G_Auto 1] :  Store Text Value (Shared) for Miomir Kecmanovic: bPoints = point: 0; games: 3; sets: 1 
+3/13/2022 20:33:12: [G_Auto 1] :  Store Text Value (Shared) for Miomir Kecmanovic: bServing = serving:2
+3/13/2022 20:33:12: [G_Auto 1] :  Store Value (Shared) for market: price = 1.7
+3/13/2022 20:33:12: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 134.14
+3/13/2022 20:33:12: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 139.3
+3/13/2022 20:33:12: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.51
+3/13/2022 20:33:12: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 273.44
+3/13/2022 20:33:12: [G_Auto 1] :  Store Value (Shared) for market: pl = 5.05
+3/13/2022 20:33:12: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.69
+3/13/2022 20:33:12: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.42
+3/13/2022 20:33:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 20:35:00: [G_Auto 2] :  1 Automation Signals Cleared
+3/13/2022 20:38:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 20:38:38: [G_Auto 2] :  € 8.42 Lay bet placed on Marin Cilic at 1.95. Fully matched at 1.94.  Ref: 12197          ( Fill or kill bet with 15 seconds delay.   )
+3/13/2022 20:38:40: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 0; games: 4; sets: 1 
+3/13/2022 20:38:40: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:1
+3/13/2022 20:38:40: [G_Auto 1] :  Store Text Value (Shared) for Miomir Kecmanovic: bPoints = point: 0; games: 4; sets: 1 
+3/13/2022 20:38:40: [G_Auto 1] :  Store Text Value (Shared) for Miomir Kecmanovic: bServing = serving:0
+3/13/2022 20:38:40: [G_Auto 1] :  Store Value (Shared) for market: price = 1.94
+3/13/2022 20:38:40: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 134.14
+3/13/2022 20:38:40: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 147.72
+3/13/2022 20:38:40: [G_Auto 1] :  Store Value (Shared) for market: stake = 8.42
+3/13/2022 20:38:40: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 281.86
+3/13/2022 20:38:40: [G_Auto 1] :  Store Value (Shared) for market: pl = 5.01
+3/13/2022 20:38:40: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.94
+3/13/2022 20:38:40: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.08
+3/13/2022 20:39:17: [G_Auto 2] :  1 Automation Signals Cleared
+3/13/2022 20:41:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 20:41:50: [G_Auto 2] :  Placed closure bet with greening on Marin Cilic by Backing 9.78 at 1.67
+3/13/2022 20:41:51: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 0; games: 5; sets: 1 
+3/13/2022 20:41:51: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:0
+3/13/2022 20:41:51: [G_Auto 1] :  Store Text Value (Shared) for Miomir Kecmanovic: bPoints = point: 0; games: 4; sets: 1 
+3/13/2022 20:41:51: [G_Auto 1] :  Store Text Value (Shared) for Miomir Kecmanovic: bServing = serving:2
+3/13/2022 20:41:51: [G_Auto 1] :  Store Value (Shared) for market: price = 1.67
+3/13/2022 20:41:51: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 143.92
+3/13/2022 20:41:51: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 147.72
+3/13/2022 20:41:51: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.78
+3/13/2022 20:41:51: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 291.64
+3/13/2022 20:41:51: [G_Auto 1] :  Store Value (Shared) for market: pl = 3.71
+3/13/2022 20:41:51: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.67
+3/13/2022 20:41:51: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.46
+3/13/2022 20:42:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 20:43:29: [G_Auto 2] :  1 Automation Signals Cleared
+3/13/2022 20:45:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 20:45:23: [G_Auto 2] :  € 7.84 Lay bet placed on Marin Cilic at 2.02. Fully matched at 2.  Ref: 12205          ( Fill or kill bet with 15 seconds delay.   )
+3/13/2022 20:45:24: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 0; games: 5; sets: 1 
+3/13/2022 20:45:24: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:1
+3/13/2022 20:45:24: [G_Auto 1] :  Store Text Value (Shared) for Miomir Kecmanovic: bPoints = point: 0; games: 5; sets: 1 
+3/13/2022 20:45:24: [G_Auto 1] :  Store Text Value (Shared) for Miomir Kecmanovic: bServing = serving:0
+3/13/2022 20:45:24: [G_Auto 1] :  Store Value (Shared) for market: price = 2
+3/13/2022 20:45:24: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 143.92
+3/13/2022 20:45:24: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 155.56
+3/13/2022 20:45:24: [G_Auto 1] :  Store Value (Shared) for market: stake = 7.84
+3/13/2022 20:45:24: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 299.48
+3/13/2022 20:45:24: [G_Auto 1] :  Store Value (Shared) for market: pl = 3.61
+3/13/2022 20:45:24: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2
+3/13/2022 20:45:24: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2
+3/13/2022 20:46:05: [G_Auto 2] :  1 Automation Signals Cleared
+3/13/2022 20:48:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 20:48:35: [G_Auto 2] :  Placed closure bet with greening on Marin Cilic by Backing 9.39 at 1.67
+3/13/2022 20:48:36: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 0; games: 6; sets: 1 
+3/13/2022 20:48:36: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:0
+3/13/2022 20:48:36: [G_Auto 1] :  Store Text Value (Shared) for Miomir Kecmanovic: bPoints = point: 0; games: 5; sets: 1 
+3/13/2022 20:48:36: [G_Auto 1] :  Store Text Value (Shared) for Miomir Kecmanovic: bServing = serving:2
+3/13/2022 20:48:36: [G_Auto 1] :  Store Value (Shared) for market: price = 1.67
+3/13/2022 20:48:36: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 153.31
+3/13/2022 20:48:36: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 155.56
+3/13/2022 20:48:36: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.39
+3/13/2022 20:48:36: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 308.87
+3/13/2022 20:48:36: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.2
+3/13/2022 20:48:36: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.7
+3/13/2022 20:48:36: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.44
+3/13/2022 20:49:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 20:50:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 20:50:31: [G_Auto 2] :  1 Automation Signals Cleared
+3/13/2022 20:53:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/13/2022 20:53:29: [G_Auto 2] :  € 8.16 Lay bet placed on Marin Cilic at 1.98. Entirely unmatched when it initially reached the market.   Ref: 12213          ( Fill or kill bet with 15 seconds delay.   )
+3/13/2022 20:53:34: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 0; games: 6; sets: 1 
+3/13/2022 20:53:34: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:1
+3/13/2022 20:53:34: [G_Auto 1] :  Store Text Value (Shared) for Miomir Kecmanovic: bPoints = point: 0; games: 6; sets: 1 
+3/13/2022 20:53:34: [G_Auto 1] :  Store Text Value (Shared) for Miomir Kecmanovic: bServing = serving:0
+3/13/2022 20:53:34: [G_Auto 1] :  Store Value (Shared) for market: price = 1.98
+3/13/2022 20:53:34: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 153.31
+3/13/2022 20:53:34: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 163.72
+3/13/2022 20:53:34: [G_Auto 1] :  Store Value (Shared) for market: stake = 8.16
+3/13/2022 20:53:34: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 317.03
+3/13/2022 20:53:34: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.04
+3/13/2022 20:53:34: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.95
+3/13/2022 20:53:34: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.06
+3/13/2022 20:53:34: [G_Auto 2] :  € 8.16 of unmatched bet (Ref:12213) was filled before remainder was killed.  Position Closed therefore no offset/stop required.
+3/13/2022 20:53:49: [G_Auto 2] :  Placed closure bet with greening on Marin Cilic by Backing 8.33 at 1.94
+3/13/2022 20:53:50: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 0; games: 6; sets: 1 
+3/13/2022 20:53:50: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:1
+3/13/2022 20:53:50: [G_Auto 1] :  Store Text Value (Shared) for Miomir Kecmanovic: bPoints = point: 0; games: 6; sets: 1 
+3/13/2022 20:53:50: [G_Auto 1] :  Store Text Value (Shared) for Miomir Kecmanovic: bServing = serving:0
+3/13/2022 20:53:50: [G_Auto 1] :  Store Value (Shared) for market: price = 1.94
+3/13/2022 20:53:50: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 161.64
+3/13/2022 20:53:50: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 163.72
+3/13/2022 20:53:50: [G_Auto 1] :  Store Value (Shared) for market: stake = 8.33
+3/13/2022 20:53:50: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 325.36
+3/13/2022 20:53:50: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.04
+3/13/2022 20:53:50: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.94
+3/13/2022 20:53:50: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.06
+3/13/2022 21:03:28:  Guardian has detected that the market is suspended

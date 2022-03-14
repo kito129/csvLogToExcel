@@ -1,0 +1,314 @@
+3/11/2022 12:18:57: [G_Auto 1] :  Store Text Value (Shared) for Steve Johnson: info = marketName: Johnson v Altmaier - Match Odds; runnerA: Steve Johnson; runnerB: Daniel Altmaier 
+3/11/2022 12:18:57: [G_Auto 1] :  Store Value (Shared) for market: aId = 4876706
+3/11/2022 12:18:57: [G_Auto 1] :  Store Value (Shared) for market: bId = 9632088
+3/12/2022 01:33:21:  Guardian has detected that the market is in-play
+3/12/2022 01:33:21:  Guardian has detected that the market is suspended
+3/12/2022 01:33:24: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.92; bBsp: 2.08; volume: 16945.76 
+3/12/2022 01:33:24: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.92; bBsp: 2.08; volume: 16945.76 
+3/12/2022 01:33:24:  Guardian has detected that the market is now unsuspended
+3/12/2022 01:33:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 01:33:39: [G_Auto 2] :  € 8.51 Lay bet placed on Steve Johnson at 1.94. Fully matched at 1.94.  Ref: 11395          ( Fill or kill bet with 15 seconds delay.   )
+3/12/2022 01:33:41: [G_Auto 1] :  Store Text Value (Shared) for Steve Johnson: aPoints = point: 0; games: 0; sets: 0 
+3/12/2022 01:33:41: [G_Auto 1] :  Store Text Value (Shared) for Steve Johnson: aServing = serving:1
+3/12/2022 01:33:41: [G_Auto 1] :  Store Text Value (Shared) for Daniel Altmaier: bPoints = point: 0; games: 0; sets: 0 
+3/12/2022 01:33:41: [G_Auto 1] :  Store Text Value (Shared) for Daniel Altmaier: bServing = serving:0
+3/12/2022 01:33:41: [G_Auto 1] :  Store Value (Shared) for market: price = 1.94
+3/12/2022 01:33:41: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 0
+3/12/2022 01:33:41: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 8.51
+3/12/2022 01:33:41: [G_Auto 1] :  Store Value (Shared) for market: stake = 8.51
+3/12/2022 01:33:41: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 8.51
+3/12/2022 01:33:41: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.09
+3/12/2022 01:33:41: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.94
+3/12/2022 01:33:41: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.06
+3/12/2022 01:33:46: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 01:38:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 01:38:28: [G_Auto 2] :  Placed closure bet with greening on Steve Johnson by Backing 8.88 at 1.86
+3/12/2022 01:38:30: [G_Auto 1] :  Store Text Value (Shared) for Steve Johnson: aPoints = point: 0; games: 1; sets: 0 
+3/12/2022 01:38:30: [G_Auto 1] :  Store Text Value (Shared) for Steve Johnson: aServing = serving:0
+3/12/2022 01:38:30: [G_Auto 1] :  Store Text Value (Shared) for Daniel Altmaier: bPoints = point: 0; games: 0; sets: 0 
+3/12/2022 01:38:30: [G_Auto 1] :  Store Text Value (Shared) for Daniel Altmaier: bServing = serving:2
+3/12/2022 01:38:30: [G_Auto 1] :  Store Value (Shared) for market: price = 1.86
+3/12/2022 01:38:30: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 8.88
+3/12/2022 01:38:30: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 8.51
+3/12/2022 01:38:30: [G_Auto 1] :  Store Value (Shared) for market: stake = 8.88
+3/12/2022 01:38:30: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 17.39
+3/12/2022 01:38:30: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.36
+3/12/2022 01:38:30: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.86
+3/12/2022 01:38:30: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.12
+3/12/2022 01:39:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 01:39:22: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 01:40:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 01:41:52: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 01:44:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 01:45:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 01:46:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 01:46:40: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 01:48:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 01:49:15: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 01:51:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 01:51:49: [G_Auto 2] :  € 8.00 Lay bet placed on Daniel Altmaier at 2. Fully matched at 2.  Ref: 11409          ( Fill or kill bet with 15 seconds delay.   )
+3/12/2022 01:51:51: [G_Auto 1] :  Store Text Value (Shared) for Steve Johnson: aPoints = point: 0; games: 3; sets: 0 
+3/12/2022 01:51:51: [G_Auto 1] :  Store Text Value (Shared) for Steve Johnson: aServing = serving:0
+3/12/2022 01:51:51: [G_Auto 1] :  Store Text Value (Shared) for Daniel Altmaier: bPoints = point: 0; games: 2; sets: 0 
+3/12/2022 01:51:51: [G_Auto 1] :  Store Text Value (Shared) for Daniel Altmaier: bServing = serving:2
+3/12/2022 01:51:51: [G_Auto 1] :  Store Value (Shared) for market: price = 2
+3/12/2022 01:51:51: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 8.88
+3/12/2022 01:51:51: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 16.51
+3/12/2022 01:51:51: [G_Auto 1] :  Store Value (Shared) for market: stake = 8
+3/12/2022 01:51:51: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 25.39
+3/12/2022 01:51:51: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.44
+3/12/2022 01:51:51: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.02
+3/12/2022 01:51:51: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.98
+3/12/2022 01:51:58: [G_Auto 1] :  Store Text Value (Shared) for Steve Johnson: aPoints = point: 0; games: 3; sets: 0 
+3/12/2022 01:51:58: [G_Auto 1] :  Store Text Value (Shared) for Steve Johnson: aServing = serving:0
+3/12/2022 01:51:58: [G_Auto 1] :  Store Text Value (Shared) for Daniel Altmaier: bPoints = point: 0; games: 2; sets: 0 
+3/12/2022 01:51:58: [G_Auto 1] :  Store Text Value (Shared) for Daniel Altmaier: bServing = serving:2
+3/12/2022 01:51:58: [G_Auto 1] :  Store Value (Shared) for market: price = 2
+3/12/2022 01:51:58: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 8.88
+3/12/2022 01:51:58: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 16.51
+3/12/2022 01:51:58: [G_Auto 1] :  Store Value (Shared) for market: stake = 8
+3/12/2022 01:51:58: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 25.39
+3/12/2022 01:51:58: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.44
+3/12/2022 01:51:58: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.02
+3/12/2022 01:51:58: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.98
+3/12/2022 01:52:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 01:53:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 01:53:47: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 01:58:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 01:59:08: [G_Auto 2] :  Placed closure bet with greening on Daniel Altmaier by Backing 8.38 at 1.91
+3/12/2022 01:59:10: [G_Auto 1] :  Store Text Value (Shared) for Steve Johnson: aPoints = point: 0; games: 3; sets: 0 
+3/12/2022 01:59:10: [G_Auto 1] :  Store Text Value (Shared) for Steve Johnson: aServing = serving:1
+3/12/2022 01:59:10: [G_Auto 1] :  Store Text Value (Shared) for Daniel Altmaier: bPoints = point: 0; games: 3; sets: 0 
+3/12/2022 01:59:10: [G_Auto 1] :  Store Text Value (Shared) for Daniel Altmaier: bServing = serving:0
+3/12/2022 01:59:10: [G_Auto 1] :  Store Value (Shared) for market: price = 1.91
+3/12/2022 01:59:10: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 17.26
+3/12/2022 01:59:10: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 16.51
+3/12/2022 01:59:10: [G_Auto 1] :  Store Value (Shared) for market: stake = 8.38
+3/12/2022 01:59:10: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 33.77
+3/12/2022 01:59:10: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.74
+3/12/2022 01:59:10: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.06
+3/12/2022 01:59:10: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.91
+3/12/2022 01:59:47: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 02:02:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 02:03:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 02:04:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 02:04:48: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 02:07:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 02:07:51: [G_Auto 2] :  € 19.51 Lay bet placed on Steve Johnson at 1.41. Fully matched at 1.4.  Ref: 11421          ( Fill or kill bet with 15 seconds delay.   )
+3/12/2022 02:07:53: [G_Auto 1] :  Store Text Value (Shared) for Steve Johnson: aPoints = point: 0; games: 5; sets: 0 
+3/12/2022 02:07:53: [G_Auto 1] :  Store Text Value (Shared) for Steve Johnson: aServing = serving:1
+3/12/2022 02:07:53: [G_Auto 1] :  Store Text Value (Shared) for Daniel Altmaier: bPoints = point: 0; games: 3; sets: 0 
+3/12/2022 02:07:53: [G_Auto 1] :  Store Text Value (Shared) for Daniel Altmaier: bServing = serving:0
+3/12/2022 02:07:53: [G_Auto 1] :  Store Value (Shared) for market: price = 1.4
+3/12/2022 02:07:53: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 17.26
+3/12/2022 02:07:53: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 36.02
+3/12/2022 02:07:53: [G_Auto 1] :  Store Value (Shared) for market: stake = 19.51
+3/12/2022 02:07:53: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 53.28
+3/12/2022 02:07:53: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.03
+3/12/2022 02:07:53: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.4
+3/12/2022 02:07:53: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.55
+3/12/2022 02:08:25: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 02:09:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 02:09:39: [G_Auto 1] :  Store Value (Shared) for market: aFirstSetPrice = 1.3
+3/12/2022 02:09:39: [G_Auto 1] :  Store Value (Shared) for market: bFirstSetPrice = 4.4
+3/12/2022 02:09:39: [G_Auto 2] :  Store Value (Shared) for Steve Johnson: PRICE SET 2 = 1.3
+3/12/2022 02:09:39: [G_Auto 2] :  Alert: STORE PRICE AT SET 2 [ Steve Johnson ]
+3/12/2022 02:09:39: [G_Auto 2] :  Automation Signal for market: VALID = 1
+3/12/2022 02:09:39: [G_Auto 2] :  Store Value (Shared) for Daniel Altmaier: PRICE SET 2 = 4.4
+3/12/2022 02:09:39: [G_Auto 2] :  Alert: STORE PRICE AT SET 2 [ Daniel Altmaier ]
+3/12/2022 02:09:39: [G_Auto 2] :  Automation Signal for market: VALID = 1
+3/12/2022 02:09:42: [G_Auto 2] :  Placed closure bet with greening on Steve Johnson by Backing 21.01 at 1.3
+3/12/2022 02:09:44: [G_Auto 1] :  Store Text Value (Shared) for Steve Johnson: aPoints = point: 0; games: 0; sets: 1 
+3/12/2022 02:09:44: [G_Auto 1] :  Store Text Value (Shared) for Steve Johnson: aServing = serving:0
+3/12/2022 02:09:44: [G_Auto 1] :  Store Text Value (Shared) for Daniel Altmaier: bPoints = point: 0; games: 0; sets: 0 
+3/12/2022 02:09:44: [G_Auto 1] :  Store Text Value (Shared) for Daniel Altmaier: bServing = serving:2
+3/12/2022 02:09:44: [G_Auto 1] :  Store Value (Shared) for market: price = 1.3
+3/12/2022 02:09:44: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 38.27
+3/12/2022 02:09:44: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 36.02
+3/12/2022 02:09:44: [G_Auto 1] :  Store Value (Shared) for market: stake = 21.01
+3/12/2022 02:09:44: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 74.29
+3/12/2022 02:09:44: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.24
+3/12/2022 02:09:44: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.29
+3/12/2022 02:09:44: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.4
+3/12/2022 02:10:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 02:11:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 02:12:07: [G_Auto 2] :  2 Automation Signals Cleared
+3/12/2022 02:15:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 02:16:09: [G_Auto 2] :  € 61.54 Lay bet placed on Steve Johnson at 1.13. Fully matched at 1.12.  Ref: 11426          ( Fill or kill bet with 15 seconds delay.   )
+3/12/2022 02:16:11: [G_Auto 1] :  Store Text Value (Shared) for Steve Johnson: aPoints = point: 0; games: 1; sets: 1 
+3/12/2022 02:16:11: [G_Auto 1] :  Store Text Value (Shared) for Steve Johnson: aServing = serving:1
+3/12/2022 02:16:11: [G_Auto 1] :  Store Text Value (Shared) for Daniel Altmaier: bPoints = point: 0; games: 0; sets: 0 
+3/12/2022 02:16:11: [G_Auto 1] :  Store Text Value (Shared) for Daniel Altmaier: bServing = serving:0
+3/12/2022 02:16:11: [G_Auto 1] :  Store Value (Shared) for market: price = 1.12
+3/12/2022 02:16:11: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 38.27
+3/12/2022 02:16:11: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 97.56
+3/12/2022 02:16:11: [G_Auto 1] :  Store Value (Shared) for market: stake = 61.54
+3/12/2022 02:16:11: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 135.83
+3/12/2022 02:16:11: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.8
+3/12/2022 02:16:11: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.11
+3/12/2022 02:16:11: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 10.5
+3/12/2022 02:16:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 02:17:05: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 02:19:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 02:19:45: [G_Auto 2] :  Placed closure bet with greening on Steve Johnson by Backing 63.81 at 1.08
+3/12/2022 02:19:47: [G_Auto 1] :  Store Text Value (Shared) for Steve Johnson: aPoints = point: 0; games: 2; sets: 1 
+3/12/2022 02:19:47: [G_Auto 1] :  Store Text Value (Shared) for Steve Johnson: aServing = serving:0
+3/12/2022 02:19:47: [G_Auto 1] :  Store Text Value (Shared) for Daniel Altmaier: bPoints = point: 0; games: 0; sets: 0 
+3/12/2022 02:19:47: [G_Auto 1] :  Store Text Value (Shared) for Daniel Altmaier: bServing = serving:2
+3/12/2022 02:19:47: [G_Auto 1] :  Store Value (Shared) for market: price = 1.08
+3/12/2022 02:19:47: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 102.08
+3/12/2022 02:19:47: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 97.56
+3/12/2022 02:19:47: [G_Auto 1] :  Store Value (Shared) for market: stake = 63.81
+3/12/2022 02:19:47: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 199.64
+3/12/2022 02:19:47: [G_Auto 1] :  Store Value (Shared) for market: pl = -4.52
+3/12/2022 02:19:47: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.09
+3/12/2022 02:19:47: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 13.5
+3/12/2022 02:20:16: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 02:23:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 02:23:35: [G_Auto 2] :  € 66.67 Lay bet placed on Steve Johnson at 1.12. Fully matched at 1.11.  Ref: 11430          ( Fill or kill bet with 15 seconds delay.   )
+3/12/2022 02:23:37: [G_Auto 1] :  Store Text Value (Shared) for Steve Johnson: aPoints = point: 0; games: 2; sets: 1 
+3/12/2022 02:23:37: [G_Auto 1] :  Store Text Value (Shared) for Steve Johnson: aServing = serving:1
+3/12/2022 02:23:37: [G_Auto 1] :  Store Text Value (Shared) for Daniel Altmaier: bPoints = point: 0; games: 1; sets: 0 
+3/12/2022 02:23:37: [G_Auto 1] :  Store Text Value (Shared) for Daniel Altmaier: bServing = serving:0
+3/12/2022 02:23:37: [G_Auto 1] :  Store Value (Shared) for market: price = 1.11
+3/12/2022 02:23:37: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 102.08
+3/12/2022 02:23:37: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 164.23
+3/12/2022 02:23:37: [G_Auto 1] :  Store Value (Shared) for market: stake = 66.67
+3/12/2022 02:23:37: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 266.31
+3/12/2022 02:23:37: [G_Auto 1] :  Store Value (Shared) for market: pl = -5.13
+3/12/2022 02:23:37: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.1
+3/12/2022 02:23:37: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 11
+3/12/2022 02:23:43: [G_Auto 1] :  Store Text Value (Shared) for Steve Johnson: aPoints = point: 0; games: 2; sets: 1 
+3/12/2022 02:23:43: [G_Auto 1] :  Store Text Value (Shared) for Steve Johnson: aServing = serving:1
+3/12/2022 02:23:43: [G_Auto 1] :  Store Text Value (Shared) for Daniel Altmaier: bPoints = point: 0; games: 1; sets: 0 
+3/12/2022 02:23:43: [G_Auto 1] :  Store Text Value (Shared) for Daniel Altmaier: bServing = serving:0
+3/12/2022 02:23:43: [G_Auto 1] :  Store Value (Shared) for market: price = 1.11
+3/12/2022 02:23:43: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 102.08
+3/12/2022 02:23:43: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 164.23
+3/12/2022 02:23:43: [G_Auto 1] :  Store Value (Shared) for market: stake = 66.67
+3/12/2022 02:23:43: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 266.31
+3/12/2022 02:23:43: [G_Auto 1] :  Store Value (Shared) for market: pl = -5.13
+3/12/2022 02:23:43: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.1
+3/12/2022 02:23:43: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 10
+3/12/2022 02:24:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 02:25:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 02:25:38: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 02:28:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 02:29:07: [G_Auto 2] :  Placed closure bet with greening on Steve Johnson by Backing 69.17 at 1.07
+3/12/2022 02:29:08: [G_Auto 1] :  Store Text Value (Shared) for Steve Johnson: aPoints = point: 0; games: 3; sets: 1 
+3/12/2022 02:29:08: [G_Auto 1] :  Store Text Value (Shared) for Steve Johnson: aServing = serving:0
+3/12/2022 02:29:08: [G_Auto 1] :  Store Text Value (Shared) for Daniel Altmaier: bPoints = point: 0; games: 1; sets: 0 
+3/12/2022 02:29:08: [G_Auto 1] :  Store Text Value (Shared) for Daniel Altmaier: bServing = serving:2
+3/12/2022 02:29:08: [G_Auto 1] :  Store Value (Shared) for market: price = 1.07
+3/12/2022 02:29:08: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 171.25
+3/12/2022 02:29:08: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 164.23
+3/12/2022 02:29:08: [G_Auto 1] :  Store Value (Shared) for market: stake = 69.17
+3/12/2022 02:29:08: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 335.48
+3/12/2022 02:29:08: [G_Auto 1] :  Store Value (Shared) for market: pl = -7.02
+3/12/2022 02:29:08: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.08
+3/12/2022 02:29:08: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 12.5
+3/12/2022 02:29:37: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 02:31:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 02:31:56: [G_Auto 2] :  € 61.54 Lay bet placed on Steve Johnson at 1.13. Fully matched at 1.11.  Ref: 11435          ( Fill or kill bet with 15 seconds delay.   )
+3/12/2022 02:31:57: [G_Auto 1] :  Store Text Value (Shared) for Steve Johnson: aPoints = point: 0; games: 3; sets: 1 
+3/12/2022 02:31:57: [G_Auto 1] :  Store Text Value (Shared) for Steve Johnson: aServing = serving:1
+3/12/2022 02:31:57: [G_Auto 1] :  Store Text Value (Shared) for Daniel Altmaier: bPoints = point: 0; games: 2; sets: 0 
+3/12/2022 02:31:57: [G_Auto 1] :  Store Text Value (Shared) for Daniel Altmaier: bServing = serving:0
+3/12/2022 02:31:57: [G_Auto 1] :  Store Value (Shared) for market: price = 1.11
+3/12/2022 02:31:57: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 171.25
+3/12/2022 02:31:57: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 225.77
+3/12/2022 02:31:57: [G_Auto 1] :  Store Value (Shared) for market: stake = 61.54
+3/12/2022 02:31:57: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 397.02
+3/12/2022 02:31:57: [G_Auto 1] :  Store Value (Shared) for market: pl = -7.58
+3/12/2022 02:31:57: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.11
+3/12/2022 02:31:57: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 10
+3/12/2022 02:32:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 02:33:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 02:33:48: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 02:37:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 02:38:08: [G_Auto 2] :  Placed closure bet with greening on Steve Johnson by Backing 63.84 at 1.07
+3/12/2022 02:38:09: [G_Auto 1] :  Store Text Value (Shared) for Steve Johnson: aPoints = point: 0; games: 4; sets: 1 
+3/12/2022 02:38:09: [G_Auto 1] :  Store Text Value (Shared) for Steve Johnson: aServing = serving:0
+3/12/2022 02:38:09: [G_Auto 1] :  Store Text Value (Shared) for Daniel Altmaier: bPoints = point: 0; games: 2; sets: 0 
+3/12/2022 02:38:09: [G_Auto 1] :  Store Text Value (Shared) for Daniel Altmaier: bServing = serving:2
+3/12/2022 02:38:09: [G_Auto 1] :  Store Value (Shared) for market: price = 1.07
+3/12/2022 02:38:09: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 235.09
+3/12/2022 02:38:09: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 225.77
+3/12/2022 02:38:09: [G_Auto 1] :  Store Value (Shared) for market: stake = 63.84
+3/12/2022 02:38:09: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 460.86
+3/12/2022 02:38:09: [G_Auto 1] :  Store Value (Shared) for market: pl = -9.32
+3/12/2022 02:38:09: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.08
+3/12/2022 02:38:09: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 14.5
+3/12/2022 02:38:32: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 02:41:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 02:42:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 02:43:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 02:43:58: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 02:49:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 02:50:21: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 02:52:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 02:53:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 02:54:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 02:54:43: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 02:55:44: [G_Auto 2] :  0 Automation Signals Cleared
+3/12/2022 03:01:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 03:02:34: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 03:05:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 03:05:44: [G_Auto 2] :  € 14.04 Lay bet placed on Steve Johnson at 1.57. Fully matched at 1.55.  Ref: 11452          ( Fill or kill bet with 15 seconds delay.   )
+3/12/2022 03:05:45: [G_Auto 1] :  Store Text Value (Shared) for Steve Johnson: aPoints = point: 0; games: 5; sets: 1 
+3/12/2022 03:05:45: [G_Auto 1] :  Store Text Value (Shared) for Steve Johnson: aServing = serving:1
+3/12/2022 03:05:45: [G_Auto 1] :  Store Text Value (Shared) for Daniel Altmaier: bPoints = point: 0; games: 6; sets: 0 
+3/12/2022 03:05:45: [G_Auto 1] :  Store Text Value (Shared) for Daniel Altmaier: bServing = serving:0
+3/12/2022 03:05:45: [G_Auto 1] :  Store Value (Shared) for market: price = 1.55
+3/12/2022 03:05:45: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 235.09
+3/12/2022 03:05:45: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 239.81
+3/12/2022 03:05:45: [G_Auto 1] :  Store Value (Shared) for market: stake = 14.04
+3/12/2022 03:05:45: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 474.9
+3/12/2022 03:05:45: [G_Auto 1] :  Store Value (Shared) for market: pl = -9.41
+3/12/2022 03:05:45: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.54
+3/12/2022 03:05:45: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.8
+3/12/2022 03:05:50: [G_Auto 1] :  Store Text Value (Shared) for Steve Johnson: aPoints = point: 0; games: 5; sets: 1 
+3/12/2022 03:05:50: [G_Auto 1] :  Store Text Value (Shared) for Steve Johnson: aServing = serving:1
+3/12/2022 03:05:50: [G_Auto 1] :  Store Text Value (Shared) for Daniel Altmaier: bPoints = point: 0; games: 6; sets: 0 
+3/12/2022 03:05:50: [G_Auto 1] :  Store Text Value (Shared) for Daniel Altmaier: bServing = serving:0
+3/12/2022 03:05:50: [G_Auto 1] :  Store Value (Shared) for market: price = 1.55
+3/12/2022 03:05:50: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 235.09
+3/12/2022 03:05:50: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 239.81
+3/12/2022 03:05:50: [G_Auto 1] :  Store Value (Shared) for market: stake = 14.04
+3/12/2022 03:05:50: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 474.9
+3/12/2022 03:05:50: [G_Auto 1] :  Store Value (Shared) for market: pl = -9.5
+3/12/2022 03:05:50: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.54
+3/12/2022 03:05:50: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.84
+3/12/2022 03:06:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 03:07:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 03:07:37: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 03:09:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 03:09:56: [G_Auto 2] :  Placed closure bet with greening on Steve Johnson by Backing 14.80 at 1.47
+3/12/2022 03:09:59: [G_Auto 1] :  Store Text Value (Shared) for Steve Johnson: aPoints = point: 0; games: 6; sets: 1 
+3/12/2022 03:09:59: [G_Auto 1] :  Store Text Value (Shared) for Steve Johnson: aServing = serving:0
+3/12/2022 03:09:59: [G_Auto 1] :  Store Text Value (Shared) for Daniel Altmaier: bPoints = point: 0; games: 6; sets: 0 
+3/12/2022 03:09:59: [G_Auto 1] :  Store Text Value (Shared) for Daniel Altmaier: bServing = serving:2
+3/12/2022 03:09:59: [G_Auto 1] :  Store Value (Shared) for market: price = 1.47
+3/12/2022 03:09:59: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 245.08
+3/12/2022 03:09:59: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 239.81
+3/12/2022 03:09:59: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.99
+3/12/2022 03:09:59: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 484.89
+3/12/2022 03:09:59: [G_Auto 1] :  Store Value (Shared) for market: pl = -10.29
+3/12/2022 03:09:59: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.42
+3/12/2022 03:09:59: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.35
+3/12/2022 03:10:08: [G_Auto 2] :  Cancelling bets 11454  
+3/12/2022 03:10:11: [G_Auto 2] :  Placed closure bet with greening on Steve Johnson by Backing 5.05 at 1.4
+3/12/2022 03:10:12: [G_Auto 1] :  Store Text Value (Shared) for Steve Johnson: aPoints = point: 0; games: 6; sets: 1 
+3/12/2022 03:10:12: [G_Auto 1] :  Store Text Value (Shared) for Steve Johnson: aServing = serving:0
+3/12/2022 03:10:12: [G_Auto 1] :  Store Text Value (Shared) for Daniel Altmaier: bPoints = point: 0; games: 6; sets: 0 
+3/12/2022 03:10:12: [G_Auto 1] :  Store Text Value (Shared) for Daniel Altmaier: bServing = serving:2
+3/12/2022 03:10:12: [G_Auto 1] :  Store Value (Shared) for market: price = 1.4
+3/12/2022 03:10:12: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 250.13
+3/12/2022 03:10:12: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 239.81
+3/12/2022 03:10:12: [G_Auto 1] :  Store Value (Shared) for market: stake = 5.05
+3/12/2022 03:10:12: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 489.94
+3/12/2022 03:10:12: [G_Auto 1] :  Store Value (Shared) for market: pl = -10.32
+3/12/2022 03:10:12: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.42
+3/12/2022 03:10:12: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.35
+3/12/2022 03:17:06: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 03:17:08:  Guardian has detected that the market is suspended

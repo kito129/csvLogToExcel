@@ -1,0 +1,625 @@
+3/11/2022 12:18:58: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: info = marketName: T Griekspoor v Querrey - Match Odds; runnerA: Tallon Griekspoor; runnerB: Sam Querrey 
+3/11/2022 12:18:58: [G_Auto 1] :  Store Value (Shared) for market: aId = 9198585
+3/11/2022 12:18:58: [G_Auto 1] :  Store Value (Shared) for market: bId = 2263560
+3/12/2022 03:32:59:  Guardian has detected that the market is in-play
+3/12/2022 03:32:59:  Guardian has detected that the market is suspended
+3/12/2022 03:33:00: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.3; bBsp: 4.4; volume: 37539.51 
+3/12/2022 03:33:00: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.3; bBsp: 4.4; volume: 37539.51 
+3/12/2022 03:33:00:  Guardian has detected that the market is now unsuspended
+3/12/2022 03:33:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 03:33:10: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 03:34:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 03:34:32: [G_Auto 2] :  € 23.53 Lay bet placed on Tallon Griekspoor at 1.34. Fully matched at 1.33.  Ref: 11471          ( Fill or kill bet with 15 seconds delay.   )
+3/12/2022 03:34:32: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aPoints = point: 0; games: 0; sets: 0 
+3/12/2022 03:34:32: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aServing = serving:1
+3/12/2022 03:34:32: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bPoints = point: 0; games: 1; sets: 0 
+3/12/2022 03:34:32: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bServing = serving:0
+3/12/2022 03:34:32: [G_Auto 1] :  Store Value (Shared) for market: price = 1.33
+3/12/2022 03:34:32: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 0
+3/12/2022 03:34:32: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 23.53
+3/12/2022 03:34:32: [G_Auto 1] :  Store Value (Shared) for market: stake = 23.53
+3/12/2022 03:34:32: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 23.53
+3/12/2022 03:34:32: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.18
+3/12/2022 03:34:32: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.33
+3/12/2022 03:34:32: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4
+3/12/2022 03:34:39: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aPoints = point: 0; games: 0; sets: 0 
+3/12/2022 03:34:39: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aServing = serving:1
+3/12/2022 03:34:39: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bPoints = point: 0; games: 1; sets: 0 
+3/12/2022 03:34:39: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bServing = serving:0
+3/12/2022 03:34:39: [G_Auto 1] :  Store Value (Shared) for market: price = 1.33
+3/12/2022 03:34:39: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 0
+3/12/2022 03:34:39: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 23.53
+3/12/2022 03:34:39: [G_Auto 1] :  Store Value (Shared) for market: stake = 23.53
+3/12/2022 03:34:39: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 23.53
+3/12/2022 03:34:39: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.18
+3/12/2022 03:34:39: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.32
+3/12/2022 03:34:39: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4
+3/12/2022 03:35:09: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 03:38:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 03:38:32: [G_Auto 2] :  Placed closure bet with greening on Tallon Griekspoor by Backing 23.53 at 1.33
+3/12/2022 03:38:33: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aPoints = point: 0; games: 1; sets: 0 
+3/12/2022 03:38:33: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aServing = serving:0
+3/12/2022 03:38:33: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bPoints = point: 0; games: 1; sets: 0 
+3/12/2022 03:38:33: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bServing = serving:2
+3/12/2022 03:38:33: [G_Auto 1] :  Store Value (Shared) for market: price = 1.33
+3/12/2022 03:38:33: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 23.53
+3/12/2022 03:38:33: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 23.53
+3/12/2022 03:38:33: [G_Auto 1] :  Store Value (Shared) for market: stake = 23.53
+3/12/2022 03:38:33: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 47.06
+3/12/2022 03:38:33: [G_Auto 1] :  Store Value (Shared) for market: pl = 0
+3/12/2022 03:38:33: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.34
+3/12/2022 03:38:33: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4
+3/12/2022 03:38:53: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 03:39:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 03:40:11: [G_Auto 2] :  € 19.05 Lay bet placed on Tallon Griekspoor at 1.42. Fully matched at 1.41.  Ref: 11476          ( Fill or kill bet with 15 seconds delay.   )
+3/12/2022 03:40:12: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aPoints = point: 0; games: 1; sets: 0 
+3/12/2022 03:40:12: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aServing = serving:1
+3/12/2022 03:40:12: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bPoints = point: 0; games: 2; sets: 0 
+3/12/2022 03:40:12: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bServing = serving:0
+3/12/2022 03:40:12: [G_Auto 1] :  Store Value (Shared) for market: price = 1.41
+3/12/2022 03:40:12: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 23.53
+3/12/2022 03:40:12: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 42.58
+3/12/2022 03:40:12: [G_Auto 1] :  Store Value (Shared) for market: stake = 19.05
+3/12/2022 03:40:12: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 66.11
+3/12/2022 03:40:12: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.14
+3/12/2022 03:40:12: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.4
+3/12/2022 03:40:12: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.45
+3/12/2022 03:40:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 03:41:55: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 03:48:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 03:48:50: [G_Auto 2] :  Placed closure bet with greening on Tallon Griekspoor by Backing 19.19 at 1.4
+3/12/2022 03:48:51: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aPoints = point: 0; games: 2; sets: 0 
+3/12/2022 03:48:51: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aServing = serving:0
+3/12/2022 03:48:51: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bPoints = point: 0; games: 2; sets: 0 
+3/12/2022 03:48:51: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bServing = serving:2
+3/12/2022 03:48:51: [G_Auto 1] :  Store Value (Shared) for market: price = 1.4
+3/12/2022 03:48:51: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 42.72
+3/12/2022 03:48:51: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 42.58
+3/12/2022 03:48:51: [G_Auto 1] :  Store Value (Shared) for market: stake = 19.19
+3/12/2022 03:48:51: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 85.3
+3/12/2022 03:48:51: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.13
+3/12/2022 03:48:51: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.39
+3/12/2022 03:48:51: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.55
+3/12/2022 03:49:09: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 03:50:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 03:50:55: [G_Auto 2] :  € 16.00 Lay bet placed on Tallon Griekspoor at 1.5. Fully matched at 1.5.  Ref: 11488          ( Fill or kill bet with 15 seconds delay.   )
+3/12/2022 03:50:55: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aPoints = point: 0; games: 2; sets: 0 
+3/12/2022 03:50:55: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aServing = serving:1
+3/12/2022 03:50:55: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bPoints = point: 0; games: 3; sets: 0 
+3/12/2022 03:50:55: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bServing = serving:0
+3/12/2022 03:50:55: [G_Auto 1] :  Store Value (Shared) for market: price = 1.5
+3/12/2022 03:50:55: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 42.72
+3/12/2022 03:50:55: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 58.58
+3/12/2022 03:50:55: [G_Auto 1] :  Store Value (Shared) for market: stake = 16
+3/12/2022 03:50:55: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 101.3
+3/12/2022 03:50:55: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.35
+3/12/2022 03:50:55: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.49
+3/12/2022 03:50:55: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.05
+3/12/2022 03:51:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 03:52:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 03:52:44: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 03:54:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 03:55:12: [G_Auto 2] :  Placed closure bet with greening on Tallon Griekspoor by Backing 17.02 at 1.41
+3/12/2022 03:55:13: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aPoints = point: 0; games: 3; sets: 0 
+3/12/2022 03:55:13: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aServing = serving:0
+3/12/2022 03:55:13: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bPoints = point: 0; games: 3; sets: 0 
+3/12/2022 03:55:13: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bServing = serving:2
+3/12/2022 03:55:13: [G_Auto 1] :  Store Value (Shared) for market: price = 1.41
+3/12/2022 03:55:13: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 59.74
+3/12/2022 03:55:13: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 58.58
+3/12/2022 03:55:13: [G_Auto 1] :  Store Value (Shared) for market: stake = 17.02
+3/12/2022 03:55:13: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 118.32
+3/12/2022 03:55:13: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.16
+3/12/2022 03:55:13: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.41
+3/12/2022 03:55:13: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.45
+3/12/2022 03:55:33: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 04:01:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 04:02:01: [G_Auto 2] :  € 17.39 Lay bet placed on Tallon Griekspoor at 1.46. Fully matched at 1.46.  Ref: 11494          ( Fill or kill bet with 15 seconds delay.   )
+3/12/2022 04:02:03: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aPoints = point: 0; games: 3; sets: 0 
+3/12/2022 04:02:03: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aServing = serving:1
+3/12/2022 04:02:03: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bPoints = point: 0; games: 4; sets: 0 
+3/12/2022 04:02:03: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bServing = serving:0
+3/12/2022 04:02:03: [G_Auto 1] :  Store Value (Shared) for market: price = 1.46
+3/12/2022 04:02:03: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 59.74
+3/12/2022 04:02:03: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 75.97
+3/12/2022 04:02:03: [G_Auto 1] :  Store Value (Shared) for market: stake = 17.39
+3/12/2022 04:02:03: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 135.71
+3/12/2022 04:02:03: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.4
+3/12/2022 04:02:03: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.44
+3/12/2022 04:02:03: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.3
+3/12/2022 04:02:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 04:03:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 04:03:54: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 04:06:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 04:06:33: [G_Auto 2] :  Placed closure bet with greening on Tallon Griekspoor by Backing 18.00 at 1.41
+3/12/2022 04:06:34: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aPoints = point: 0; games: 4; sets: 0 
+3/12/2022 04:06:34: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aServing = serving:0
+3/12/2022 04:06:34: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bPoints = point: 0; games: 4; sets: 0 
+3/12/2022 04:06:34: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bServing = serving:2
+3/12/2022 04:06:34: [G_Auto 1] :  Store Value (Shared) for market: price = 1.41
+3/12/2022 04:06:34: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 77.74
+3/12/2022 04:06:34: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 75.97
+3/12/2022 04:06:34: [G_Auto 1] :  Store Value (Shared) for market: stake = 18
+3/12/2022 04:06:34: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 153.71
+3/12/2022 04:06:34: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.78
+3/12/2022 04:06:34: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.42
+3/12/2022 04:06:34: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.45
+3/12/2022 04:06:50: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 04:08:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 04:08:46: [G_Auto 2] :  € 15.09 Lay bet placed on Tallon Griekspoor at 1.53. Fully matched at 1.52.  Ref: 11498          ( Fill or kill bet with 15 seconds delay.   )
+3/12/2022 04:08:48: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aPoints = point: 0; games: 4; sets: 0 
+3/12/2022 04:08:48: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aServing = serving:1
+3/12/2022 04:08:48: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bPoints = point: 0; games: 5; sets: 0 
+3/12/2022 04:08:48: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bServing = serving:0
+3/12/2022 04:08:48: [G_Auto 1] :  Store Value (Shared) for market: price = 1.52
+3/12/2022 04:08:48: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 77.74
+3/12/2022 04:08:48: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 91.06
+3/12/2022 04:08:48: [G_Auto 1] :  Store Value (Shared) for market: stake = 15.09
+3/12/2022 04:08:48: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 168.8
+3/12/2022 04:08:48: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.87
+3/12/2022 04:08:48: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.51
+3/12/2022 04:08:48: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.96
+3/12/2022 04:09:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 04:10:32: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 04:11:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 04:12:09: [G_Auto 2] :  Placed closure bet with greening on Tallon Griekspoor by Backing 15.93 at 1.44
+3/12/2022 04:12:10: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aPoints = point: 0; games: 5; sets: 0 
+3/12/2022 04:12:10: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aServing = serving:0
+3/12/2022 04:12:10: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bPoints = point: 0; games: 5; sets: 0 
+3/12/2022 04:12:10: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bServing = serving:2
+3/12/2022 04:12:10: [G_Auto 1] :  Store Value (Shared) for market: price = 1.44
+3/12/2022 04:12:10: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 93.67
+3/12/2022 04:12:10: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 91.06
+3/12/2022 04:12:10: [G_Auto 1] :  Store Value (Shared) for market: stake = 15.93
+3/12/2022 04:12:10: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 184.73
+3/12/2022 04:12:10: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.61
+3/12/2022 04:12:10: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.45
+3/12/2022 04:12:10: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.3
+3/12/2022 04:12:16: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aPoints = point: 0; games: 5; sets: 0 
+3/12/2022 04:12:16: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aServing = serving:0
+3/12/2022 04:12:16: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bPoints = point: 0; games: 5; sets: 0 
+3/12/2022 04:12:16: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bServing = serving:2
+3/12/2022 04:12:16: [G_Auto 1] :  Store Value (Shared) for market: price = 1.44
+3/12/2022 04:12:16: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 93.67
+3/12/2022 04:12:16: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 91.06
+3/12/2022 04:12:16: [G_Auto 1] :  Store Value (Shared) for market: stake = 15.93
+3/12/2022 04:12:16: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 184.73
+3/12/2022 04:12:16: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.61
+3/12/2022 04:12:16: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.47
+3/12/2022 04:12:16: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.1
+3/12/2022 04:12:27: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 04:13:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 04:13:34: [G_Auto 2] :  € 13.79 Lay bet placed on Tallon Griekspoor at 1.58. Fully matched at 1.58.  Ref: 11502          ( Fill or kill bet with 15 seconds delay.   )
+3/12/2022 04:13:35: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aPoints = point: 0; games: 5; sets: 0 
+3/12/2022 04:13:35: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aServing = serving:1
+3/12/2022 04:13:35: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bPoints = point: 0; games: 6; sets: 0 
+3/12/2022 04:13:35: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bServing = serving:0
+3/12/2022 04:13:35: [G_Auto 1] :  Store Value (Shared) for market: price = 1.58
+3/12/2022 04:13:35: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 93.67
+3/12/2022 04:13:35: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 104.85
+3/12/2022 04:13:35: [G_Auto 1] :  Store Value (Shared) for market: stake = 13.79
+3/12/2022 04:13:35: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 198.52
+3/12/2022 04:13:35: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.79
+3/12/2022 04:13:35: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.58
+3/12/2022 04:13:35: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.78
+3/12/2022 04:14:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 04:15:15: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 04:20:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 04:20:52: [G_Auto 2] :  Placed closure bet with greening on Tallon Griekspoor by Backing 13.79 at 1.58
+3/12/2022 04:20:52: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aPoints = point: 0; games: 6; sets: 0 
+3/12/2022 04:20:52: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aServing = serving:0
+3/12/2022 04:20:52: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bPoints = point: 0; games: 6; sets: 0 
+3/12/2022 04:20:52: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bServing = serving:2
+3/12/2022 04:20:52: [G_Auto 1] :  Store Value (Shared) for market: price = 1.58
+3/12/2022 04:20:52: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 107.46
+3/12/2022 04:20:52: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 104.85
+3/12/2022 04:20:52: [G_Auto 1] :  Store Value (Shared) for market: stake = 13.79
+3/12/2022 04:20:52: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 212.31
+3/12/2022 04:20:52: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.61
+3/12/2022 04:20:52: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.55
+3/12/2022 04:20:52: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.66
+3/12/2022 04:20:58: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aPoints = point: 0; games: 6; sets: 0 
+3/12/2022 04:20:58: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aServing = serving:0
+3/12/2022 04:20:58: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bPoints = point: 0; games: 6; sets: 0 
+3/12/2022 04:20:58: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bServing = serving:2
+3/12/2022 04:20:58: [G_Auto 1] :  Store Value (Shared) for market: price = 1.58
+3/12/2022 04:20:58: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 107.46
+3/12/2022 04:20:58: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 104.85
+3/12/2022 04:20:58: [G_Auto 1] :  Store Value (Shared) for market: stake = 13.79
+3/12/2022 04:20:58: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 212.31
+3/12/2022 04:20:58: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.61
+3/12/2022 04:20:58: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.53
+3/12/2022 04:20:58: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.88
+3/12/2022 04:26:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 04:26:56: [G_Auto 2] :  Store Value (Shared) for Tallon Griekspoor: PRICE SET 2 = 1.16
+3/12/2022 04:26:56: [G_Auto 2] :  Alert: STORE PRICE AT SET 2 [ Tallon Griekspoor ]
+3/12/2022 04:26:56: [G_Auto 2] :  Automation Signal for market: VALID = 1
+3/12/2022 04:26:56: [G_Auto 2] :  Store Value (Shared) for Sam Querrey: PRICE SET 2 = 7.6
+3/12/2022 04:26:56: [G_Auto 2] :  Alert: STORE PRICE AT SET 2 [ Sam Querrey ]
+3/12/2022 04:26:56: [G_Auto 2] :  Automation Signal for market: VALID = 1
+3/12/2022 04:26:56: [G_Auto 1] :  Store Value (Shared) for market: aFirstSetPrice = 1.16
+3/12/2022 04:26:56: [G_Auto 1] :  Store Value (Shared) for market: bFirstSetPrice = 7.6
+3/12/2022 04:26:59: [G_Auto 2] :  € 50.00 Lay bet placed on Tallon Griekspoor at 1.16. Fully matched at 1.16.  Ref: 11508          ( Fill or kill bet with 15 seconds delay.   )
+3/12/2022 04:26:59: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aPoints = point: 0; games: 0; sets: 1 
+3/12/2022 04:26:59: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aServing = serving:1
+3/12/2022 04:26:59: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bPoints = point: 0; games: 0; sets: 0 
+3/12/2022 04:26:59: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bServing = serving:0
+3/12/2022 04:26:59: [G_Auto 1] :  Store Value (Shared) for market: price = 1.16
+3/12/2022 04:26:59: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 107.46
+3/12/2022 04:26:59: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 154.85
+3/12/2022 04:26:59: [G_Auto 1] :  Store Value (Shared) for market: stake = 50
+3/12/2022 04:26:59: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 262.31
+3/12/2022 04:26:59: [G_Auto 1] :  Store Value (Shared) for market: pl = -3.05
+3/12/2022 04:26:59: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.15
+3/12/2022 04:26:59: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 7.6
+3/12/2022 04:27:04: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aPoints = point: 0; games: 0; sets: 1 
+3/12/2022 04:27:04: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aServing = serving:1
+3/12/2022 04:27:04: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bPoints = point: 0; games: 0; sets: 0 
+3/12/2022 04:27:04: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bServing = serving:0
+3/12/2022 04:27:04: [G_Auto 1] :  Store Value (Shared) for market: price = 1.16
+3/12/2022 04:27:04: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 107.46
+3/12/2022 04:27:04: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 154.85
+3/12/2022 04:27:04: [G_Auto 1] :  Store Value (Shared) for market: stake = 50
+3/12/2022 04:27:04: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 262.31
+3/12/2022 04:27:04: [G_Auto 1] :  Store Value (Shared) for market: pl = -3.49
+3/12/2022 04:27:04: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.14
+3/12/2022 04:27:04: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 7.6
+3/12/2022 04:27:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 04:28:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 04:29:21: [G_Auto 2] :  2 Automation Signals Cleared
+3/12/2022 04:30:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 04:30:38: [G_Auto 2] :  Placed closure bet with greening on Tallon Griekspoor by Backing 51.79 at 1.12
+3/12/2022 04:30:39: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aPoints = point: 0; games: 1; sets: 1 
+3/12/2022 04:30:39: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aServing = serving:0
+3/12/2022 04:30:39: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bPoints = point: 0; games: 0; sets: 0 
+3/12/2022 04:30:39: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bServing = serving:2
+3/12/2022 04:30:39: [G_Auto 1] :  Store Value (Shared) for market: price = 1.12
+3/12/2022 04:30:39: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 159.25
+3/12/2022 04:30:39: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 154.85
+3/12/2022 04:30:39: [G_Auto 1] :  Store Value (Shared) for market: stake = 51.79
+3/12/2022 04:30:39: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 314.1
+3/12/2022 04:30:39: [G_Auto 1] :  Store Value (Shared) for market: pl = -4.4
+3/12/2022 04:30:39: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.13
+3/12/2022 04:30:39: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 9.2
+3/12/2022 04:31:15: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 04:33:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 04:33:43: [G_Auto 2] :  € 50.00 Lay bet placed on Tallon Griekspoor at 1.16. Fully matched at 1.15.  Ref: 11512          ( Fill or kill bet with 15 seconds delay.   )
+3/12/2022 04:33:44: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aPoints = point: 0; games: 1; sets: 1 
+3/12/2022 04:33:44: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aServing = serving:1
+3/12/2022 04:33:44: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bPoints = point: 0; games: 1; sets: 0 
+3/12/2022 04:33:44: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bServing = serving:0
+3/12/2022 04:33:44: [G_Auto 1] :  Store Value (Shared) for market: price = 1.15
+3/12/2022 04:33:44: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 159.25
+3/12/2022 04:33:44: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 204.85
+3/12/2022 04:33:44: [G_Auto 1] :  Store Value (Shared) for market: stake = 50
+3/12/2022 04:33:44: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 364.1
+3/12/2022 04:33:44: [G_Auto 1] :  Store Value (Shared) for market: pl = -4.84
+3/12/2022 04:33:44: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.14
+3/12/2022 04:33:44: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 8.2
+3/12/2022 04:34:11: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 04:37:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 04:38:05: [G_Auto 2] :  Placed closure bet with greening on Tallon Griekspoor by Backing 50.88 at 1.13
+3/12/2022 04:38:06: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aPoints = point: 0; games: 2; sets: 1 
+3/12/2022 04:38:06: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aServing = serving:0
+3/12/2022 04:38:06: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bPoints = point: 0; games: 1; sets: 0 
+3/12/2022 04:38:06: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bServing = serving:2
+3/12/2022 04:38:06: [G_Auto 1] :  Store Value (Shared) for market: price = 1.13
+3/12/2022 04:38:06: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 210.13
+3/12/2022 04:38:06: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 204.85
+3/12/2022 04:38:06: [G_Auto 1] :  Store Value (Shared) for market: stake = 50.88
+3/12/2022 04:38:06: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 414.98
+3/12/2022 04:38:06: [G_Auto 1] :  Store Value (Shared) for market: pl = -5.28
+3/12/2022 04:38:06: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.14
+3/12/2022 04:38:06: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 8.4
+3/12/2022 04:38:11: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aPoints = point: 0; games: 2; sets: 1 
+3/12/2022 04:38:11: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aServing = serving:0
+3/12/2022 04:38:11: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bPoints = point: 0; games: 1; sets: 0 
+3/12/2022 04:38:11: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bServing = serving:2
+3/12/2022 04:38:11: [G_Auto 1] :  Store Value (Shared) for market: price = 1.13
+3/12/2022 04:38:11: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 210.13
+3/12/2022 04:38:11: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 204.85
+3/12/2022 04:38:11: [G_Auto 1] :  Store Value (Shared) for market: stake = 50.88
+3/12/2022 04:38:11: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 414.98
+3/12/2022 04:38:11: [G_Auto 1] :  Store Value (Shared) for market: pl = -5.28
+3/12/2022 04:38:11: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.14
+3/12/2022 04:38:11: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 8.4
+3/12/2022 04:38:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 04:39:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 04:39:55: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 04:42:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 04:42:43: [G_Auto 2] :  € 47.06 Lay bet placed on Tallon Griekspoor at 1.17. Fully matched at 1.16.  Ref: 11518          ( Fill or kill bet with 15 seconds delay.   )
+3/12/2022 04:42:43: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aPoints = point: 0; games: 2; sets: 1 
+3/12/2022 04:42:43: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aServing = serving:1
+3/12/2022 04:42:43: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bPoints = point: 0; games: 2; sets: 0 
+3/12/2022 04:42:43: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bServing = serving:0
+3/12/2022 04:42:43: [G_Auto 1] :  Store Value (Shared) for market: price = 1.16
+3/12/2022 04:42:43: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 210.13
+3/12/2022 04:42:43: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 251.91
+3/12/2022 04:42:43: [G_Auto 1] :  Store Value (Shared) for market: stake = 47.06
+3/12/2022 04:42:43: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 462.04
+3/12/2022 04:42:43: [G_Auto 1] :  Store Value (Shared) for market: pl = -5.69
+3/12/2022 04:42:43: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.16
+3/12/2022 04:42:43: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 7.2
+3/12/2022 04:42:49: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aPoints = point: 0; games: 2; sets: 1 
+3/12/2022 04:42:49: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aServing = serving:1
+3/12/2022 04:42:49: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bPoints = point: 0; games: 2; sets: 0 
+3/12/2022 04:42:49: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bServing = serving:0
+3/12/2022 04:42:49: [G_Auto 1] :  Store Value (Shared) for market: price = 1.16
+3/12/2022 04:42:49: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 210.13
+3/12/2022 04:42:49: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 251.91
+3/12/2022 04:42:49: [G_Auto 1] :  Store Value (Shared) for market: stake = 47.06
+3/12/2022 04:42:49: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 462.04
+3/12/2022 04:42:49: [G_Auto 1] :  Store Value (Shared) for market: pl = -5.69
+3/12/2022 04:42:49: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.15
+3/12/2022 04:42:49: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 7.2
+3/12/2022 04:43:02: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 04:45:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 04:45:33: [G_Auto 2] :  Placed closure bet with greening on Tallon Griekspoor by Backing 39.28 at 1.39
+3/12/2022 04:45:34: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aPoints = point: 0; games: 2; sets: 1 
+3/12/2022 04:45:34: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aServing = serving:0
+3/12/2022 04:45:34: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bPoints = point: 0; games: 3; sets: 0 
+3/12/2022 04:45:34: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bServing = serving:2
+3/12/2022 04:45:34: [G_Auto 1] :  Store Value (Shared) for market: price = 1.39
+3/12/2022 04:45:34: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 249.41
+3/12/2022 04:45:34: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 251.91
+3/12/2022 04:45:34: [G_Auto 1] :  Store Value (Shared) for market: stake = 39.28
+3/12/2022 04:45:34: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 501.32
+3/12/2022 04:45:34: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.46
+3/12/2022 04:45:34: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.39
+3/12/2022 04:45:34: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.6
+3/12/2022 04:46:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 04:47:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 04:47:23: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 04:49:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 04:50:10: [G_Auto 2] :  € 16.67 Lay bet placed on Tallon Griekspoor at 1.48. Fully matched at 1.47.  Ref: 11525          ( Fill or kill bet with 15 seconds delay.   )
+3/12/2022 04:50:11: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aPoints = point: 0; games: 2; sets: 1 
+3/12/2022 04:50:11: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aServing = serving:1
+3/12/2022 04:50:11: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bPoints = point: 0; games: 4; sets: 0 
+3/12/2022 04:50:11: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bServing = serving:0
+3/12/2022 04:50:11: [G_Auto 1] :  Store Value (Shared) for market: price = 1.47
+3/12/2022 04:50:11: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 249.41
+3/12/2022 04:50:11: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 268.58
+3/12/2022 04:50:11: [G_Auto 1] :  Store Value (Shared) for market: stake = 16.67
+3/12/2022 04:50:11: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 517.99
+3/12/2022 04:50:11: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.22
+3/12/2022 04:50:11: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.45
+3/12/2022 04:50:11: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.15
+3/12/2022 04:50:41: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 04:51:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 04:51:59: [G_Auto 2] :  Placed closure bet with greening on Tallon Griekspoor by Backing 14.41 at 1.7
+3/12/2022 04:52:00: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aPoints = point: 0; games: 2; sets: 1 
+3/12/2022 04:52:00: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aServing = serving:0
+3/12/2022 04:52:00: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bPoints = point: 0; games: 5; sets: 0 
+3/12/2022 04:52:00: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bServing = serving:2
+3/12/2022 04:52:00: [G_Auto 1] :  Store Value (Shared) for market: price = 1.7
+3/12/2022 04:52:00: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 263.82
+3/12/2022 04:52:00: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 268.58
+3/12/2022 04:52:00: [G_Auto 1] :  Store Value (Shared) for market: stake = 14.41
+3/12/2022 04:52:00: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 532.4
+3/12/2022 04:52:00: [G_Auto 1] :  Store Value (Shared) for market: pl = 4.66
+3/12/2022 04:52:00: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.7
+3/12/2022 04:52:00: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.44
+3/12/2022 04:52:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 04:53:27: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 04:55:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 04:55:09: [G_Auto 1] :  Store Value (Shared) for market: aSecondSetPrice = 1.74
+3/12/2022 04:55:09: [G_Auto 1] :  Store Value (Shared) for market: bSecondSetPrice = 2.36
+3/12/2022 04:55:12: [G_Auto 2] :  € 10.53 Lay bet placed on Tallon Griekspoor at 1.76. Fully matched at 1.75.  Ref: 11529          ( Fill or kill bet with 15 seconds delay.   )
+3/12/2022 04:55:12: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aPoints = point: 0; games: 0; sets: 1 
+3/12/2022 04:55:12: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aServing = serving:1
+3/12/2022 04:55:12: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bPoints = point: 0; games: 0; sets: 1 
+3/12/2022 04:55:12: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bServing = serving:0
+3/12/2022 04:55:12: [G_Auto 1] :  Store Value (Shared) for market: price = 1.75
+3/12/2022 04:55:12: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 263.82
+3/12/2022 04:55:12: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 279.11
+3/12/2022 04:55:12: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.53
+3/12/2022 04:55:12: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 542.93
+3/12/2022 04:55:12: [G_Auto 1] :  Store Value (Shared) for market: pl = 4.55
+3/12/2022 04:55:12: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.73
+3/12/2022 04:55:12: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.38
+3/12/2022 04:56:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 04:57:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 04:57:20: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 04:59:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 04:59:27: [G_Auto 2] :  Placed closure bet with greening on Tallon Griekspoor by Backing 11.97 at 1.54
+3/12/2022 04:59:27: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aPoints = point: 0; games: 1; sets: 1 
+3/12/2022 04:59:27: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aServing = serving:0
+3/12/2022 04:59:27: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bPoints = point: 0; games: 0; sets: 1 
+3/12/2022 04:59:27: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bServing = serving:2
+3/12/2022 04:59:27: [G_Auto 1] :  Store Value (Shared) for market: price = 1.54
+3/12/2022 04:59:27: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 275.79
+3/12/2022 04:59:27: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 279.11
+3/12/2022 04:59:27: [G_Auto 1] :  Store Value (Shared) for market: stake = 11.97
+3/12/2022 04:59:27: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 554.9
+3/12/2022 04:59:27: [G_Auto 1] :  Store Value (Shared) for market: pl = 3.25
+3/12/2022 04:59:27: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.57
+3/12/2022 04:59:27: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.74
+3/12/2022 05:00:02: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 05:01:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 05:01:45: [G_Auto 2] :  € 10.81 Lay bet placed on Tallon Griekspoor at 1.74. Fully matched at 1.74.  Ref: 11534          ( Fill or kill bet with 15 seconds delay.   )
+3/12/2022 05:01:46: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aPoints = point: 0; games: 1; sets: 1 
+3/12/2022 05:01:46: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aServing = serving:1
+3/12/2022 05:01:46: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bPoints = point: 0; games: 1; sets: 1 
+3/12/2022 05:01:46: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bServing = serving:0
+3/12/2022 05:01:46: [G_Auto 1] :  Store Value (Shared) for market: price = 1.74
+3/12/2022 05:01:46: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 275.79
+3/12/2022 05:01:46: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 289.92
+3/12/2022 05:01:46: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.81
+3/12/2022 05:01:46: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 565.71
+3/12/2022 05:01:46: [G_Auto 1] :  Store Value (Shared) for market: pl = 3.14
+3/12/2022 05:01:46: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.72
+3/12/2022 05:01:46: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.4
+3/12/2022 05:02:16: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 05:04:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 05:04:40: [G_Auto 2] :  Placed closure bet with greening on Tallon Griekspoor by Backing 11.98 at 1.57
+3/12/2022 05:04:40: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aPoints = point: 0; games: 2; sets: 1 
+3/12/2022 05:04:40: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aServing = serving:0
+3/12/2022 05:04:40: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bPoints = point: 0; games: 1; sets: 1 
+3/12/2022 05:04:40: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bServing = serving:2
+3/12/2022 05:04:40: [G_Auto 1] :  Store Value (Shared) for market: price = 1.57
+3/12/2022 05:04:40: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 287.77
+3/12/2022 05:04:40: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 289.92
+3/12/2022 05:04:40: [G_Auto 1] :  Store Value (Shared) for market: stake = 11.98
+3/12/2022 05:04:40: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 577.69
+3/12/2022 05:04:40: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.11
+3/12/2022 05:04:40: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.6
+3/12/2022 05:04:40: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.68
+3/12/2022 05:04:46: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aPoints = point: 0; games: 2; sets: 1 
+3/12/2022 05:04:46: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aServing = serving:0
+3/12/2022 05:04:46: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bPoints = point: 0; games: 1; sets: 1 
+3/12/2022 05:04:46: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bServing = serving:2
+3/12/2022 05:04:46: [G_Auto 1] :  Store Value (Shared) for market: price = 1.57
+3/12/2022 05:04:46: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 287.77
+3/12/2022 05:04:46: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 289.92
+3/12/2022 05:04:46: [G_Auto 1] :  Store Value (Shared) for market: stake = 11.98
+3/12/2022 05:04:46: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 577.69
+3/12/2022 05:04:46: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.11
+3/12/2022 05:04:46: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.6
+3/12/2022 05:04:46: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.68
+3/12/2022 05:05:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 05:06:14: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 05:08:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 05:08:27: [G_Auto 2] :  € 10.26 Lay bet placed on Tallon Griekspoor at 1.78. Fully matched at 1.77.  Ref: 11539          ( Fill or kill bet with 15 seconds delay.   )
+3/12/2022 05:08:28: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aPoints = point: 0; games: 2; sets: 1 
+3/12/2022 05:08:28: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aServing = serving:1
+3/12/2022 05:08:28: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bPoints = point: 0; games: 2; sets: 1 
+3/12/2022 05:08:28: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bServing = serving:0
+3/12/2022 05:08:28: [G_Auto 1] :  Store Value (Shared) for market: price = 1.77
+3/12/2022 05:08:28: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 287.77
+3/12/2022 05:08:28: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 300.18
+3/12/2022 05:08:28: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.26
+3/12/2022 05:08:28: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 587.95
+3/12/2022 05:08:28: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.05
+3/12/2022 05:08:28: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.76
+3/12/2022 05:08:28: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.32
+3/12/2022 05:08:33: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aPoints = point: 0; games: 2; sets: 1 
+3/12/2022 05:08:33: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aServing = serving:1
+3/12/2022 05:08:33: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bPoints = point: 0; games: 2; sets: 1 
+3/12/2022 05:08:33: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bServing = serving:0
+3/12/2022 05:08:33: [G_Auto 1] :  Store Value (Shared) for market: price = 1.77
+3/12/2022 05:08:33: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 287.77
+3/12/2022 05:08:33: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 300.18
+3/12/2022 05:08:33: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.26
+3/12/2022 05:08:33: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 587.95
+3/12/2022 05:08:33: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.99
+3/12/2022 05:08:33: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.76
+3/12/2022 05:08:33: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.32
+3/12/2022 05:08:59: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 05:10:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 05:10:33: [G_Auto 2] :  Placed closure bet with greening on Tallon Griekspoor by Backing 11.79 at 1.54
+3/12/2022 05:10:33: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aPoints = point: 0; games: 3; sets: 1 
+3/12/2022 05:10:33: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aServing = serving:0
+3/12/2022 05:10:33: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bPoints = point: 0; games: 2; sets: 1 
+3/12/2022 05:10:33: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bServing = serving:2
+3/12/2022 05:10:33: [G_Auto 1] :  Store Value (Shared) for market: price = 1.54
+3/12/2022 05:10:33: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 299.56
+3/12/2022 05:10:33: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 300.18
+3/12/2022 05:10:33: [G_Auto 1] :  Store Value (Shared) for market: stake = 11.79
+3/12/2022 05:10:33: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 599.74
+3/12/2022 05:10:33: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.61
+3/12/2022 05:10:33: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.56
+3/12/2022 05:10:33: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.8
+3/12/2022 05:10:39: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aPoints = point: 0; games: 3; sets: 1 
+3/12/2022 05:10:39: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aServing = serving:0
+3/12/2022 05:10:39: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bPoints = point: 0; games: 2; sets: 1 
+3/12/2022 05:10:39: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bServing = serving:2
+3/12/2022 05:10:39: [G_Auto 1] :  Store Value (Shared) for market: price = 1.54
+3/12/2022 05:10:39: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 299.56
+3/12/2022 05:10:39: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 300.18
+3/12/2022 05:10:39: [G_Auto 1] :  Store Value (Shared) for market: stake = 11.79
+3/12/2022 05:10:39: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 599.74
+3/12/2022 05:10:39: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.61
+3/12/2022 05:10:39: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.56
+3/12/2022 05:10:39: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.8
+3/12/2022 05:11:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 05:12:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 05:12:23: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 05:13:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 05:13:54: [G_Auto 2] :  € 11.11 Lay bet placed on Tallon Griekspoor at 1.72. Fully matched at 1.72.  Ref: 11544          ( Fill or kill bet with 15 seconds delay.   )
+3/12/2022 05:13:54: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aPoints = point: 0; games: 3; sets: 1 
+3/12/2022 05:13:54: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aServing = serving:1
+3/12/2022 05:13:54: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bPoints = point: 0; games: 3; sets: 1 
+3/12/2022 05:13:54: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bServing = serving:0
+3/12/2022 05:13:54: [G_Auto 1] :  Store Value (Shared) for market: price = 1.72
+3/12/2022 05:13:54: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 299.56
+3/12/2022 05:13:54: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 311.29
+3/12/2022 05:13:54: [G_Auto 1] :  Store Value (Shared) for market: stake = 11.11
+3/12/2022 05:13:54: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 610.85
+3/12/2022 05:13:54: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.48
+3/12/2022 05:13:54: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.7
+3/12/2022 05:13:54: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.44
+3/12/2022 05:14:00: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aPoints = point: 0; games: 3; sets: 1 
+3/12/2022 05:14:00: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aServing = serving:1
+3/12/2022 05:14:00: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bPoints = point: 0; games: 3; sets: 1 
+3/12/2022 05:14:00: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bServing = serving:0
+3/12/2022 05:14:00: [G_Auto 1] :  Store Value (Shared) for market: price = 1.72
+3/12/2022 05:14:00: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 299.56
+3/12/2022 05:14:00: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 311.29
+3/12/2022 05:14:00: [G_Auto 1] :  Store Value (Shared) for market: stake = 11.11
+3/12/2022 05:14:00: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 610.85
+3/12/2022 05:14:00: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.48
+3/12/2022 05:14:00: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.7
+3/12/2022 05:14:00: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.44
+3/12/2022 05:14:22: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 05:17:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 05:17:20: [G_Auto 2] :  € 40.00 Lay bet placed on Sam Querrey at 1.2. Fully matched at 1.2.  Ref: 11547          ( Fill or kill bet with 15 seconds delay.   )
+3/12/2022 05:17:20: [G_Auto 2] :  Placed closure bet with greening on Tallon Griekspoor by Backing 3.18 at 6
+3/12/2022 05:17:20: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aPoints = point: 0; games: 3; sets: 1 
+3/12/2022 05:17:20: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aServing = serving:0
+3/12/2022 05:17:20: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bPoints = point: 0; games: 4; sets: 1 
+3/12/2022 05:17:20: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bServing = serving:2
+3/12/2022 05:17:20: [G_Auto 1] :  Store Value (Shared) for market: price = 6
+3/12/2022 05:17:20: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 302.74
+3/12/2022 05:17:20: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 351.29
+3/12/2022 05:17:20: [G_Auto 1] :  Store Value (Shared) for market: stake = 3.18
+3/12/2022 05:17:20: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 654.03
+3/12/2022 05:17:20: [G_Auto 1] :  Store Value (Shared) for market: pl = 7.68
+3/12/2022 05:17:20: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 6
+3/12/2022 05:17:20: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.2
+3/12/2022 05:18:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 05:18:56: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 05:20:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 05:20:28: [G_Auto 2] :  Placed closure bet with greening on Sam Querrey by Backing 44.44 at 1.08
+3/12/2022 05:20:29: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aPoints = point: 0; games: 3; sets: 1 
+3/12/2022 05:20:29: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aServing = serving:1
+3/12/2022 05:20:29: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bPoints = point: 0; games: 5; sets: 1 
+3/12/2022 05:20:29: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bServing = serving:0
+3/12/2022 05:20:29: [G_Auto 1] :  Store Value (Shared) for market: price = 1.08
+3/12/2022 05:20:29: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 347.18
+3/12/2022 05:20:29: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 351.29
+3/12/2022 05:20:29: [G_Auto 1] :  Store Value (Shared) for market: stake = 44.44
+3/12/2022 05:20:29: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 698.47
+3/12/2022 05:20:29: [G_Auto 1] :  Store Value (Shared) for market: pl = 4
+3/12/2022 05:20:29: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 13
+3/12/2022 05:20:29: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.08
+3/12/2022 05:20:55: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 05:21:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 05:21:55: [G_Auto 2] :  € 61.54 Lay bet placed on Sam Querrey at 1.13. Fully matched at 1.11.  Ref: 11553          ( Fill or kill bet with 15 seconds delay.   )
+3/12/2022 05:21:57: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aPoints = point: 0; games: 4; sets: 1 
+3/12/2022 05:21:57: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aServing = serving:0
+3/12/2022 05:21:57: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bPoints = point: 0; games: 5; sets: 1 
+3/12/2022 05:21:57: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bServing = serving:2
+3/12/2022 05:21:57: [G_Auto 1] :  Store Value (Shared) for market: price = 1.11
+3/12/2022 05:21:57: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 347.18
+3/12/2022 05:21:57: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 412.83
+3/12/2022 05:21:57: [G_Auto 1] :  Store Value (Shared) for market: stake = 61.54
+3/12/2022 05:21:57: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 760.01
+3/12/2022 05:21:57: [G_Auto 1] :  Store Value (Shared) for market: pl = 3.45
+3/12/2022 05:21:57: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 10
+3/12/2022 05:21:57: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.11
+3/12/2022 05:22:02: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aPoints = point: 0; games: 4; sets: 1 
+3/12/2022 05:22:02: [G_Auto 1] :  Store Text Value (Shared) for Tallon Griekspoor: aServing = serving:0
+3/12/2022 05:22:02: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bPoints = point: 0; games: 5; sets: 1 
+3/12/2022 05:22:02: [G_Auto 1] :  Store Text Value (Shared) for Sam Querrey: bServing = serving:2
+3/12/2022 05:22:02: [G_Auto 1] :  Store Value (Shared) for market: price = 1.11
+3/12/2022 05:22:02: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 347.18
+3/12/2022 05:22:02: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 412.83
+3/12/2022 05:22:02: [G_Auto 1] :  Store Value (Shared) for market: stake = 61.54
+3/12/2022 05:22:02: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 760.01
+3/12/2022 05:22:02: [G_Auto 1] :  Store Value (Shared) for market: pl = 3.45
+3/12/2022 05:22:02: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 10
+3/12/2022 05:22:02: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.11
+3/12/2022 05:22:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 05:23:32: [G_Auto 2] :  1 Automation Signals Cleared
+3/12/2022 05:24:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/12/2022 05:24:52:  Guardian has detected that the market is suspended

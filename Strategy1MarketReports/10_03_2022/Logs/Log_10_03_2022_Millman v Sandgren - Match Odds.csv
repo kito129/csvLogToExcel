@@ -1,0 +1,655 @@
+3/9/2022 12:22:44: [G_Auto 2] :  Store Text Value (Shared) for John Millman: info = marketName: Millman v Sandgren - Match Odds; runnerA: John Millman; runnerB: Tennys Sandgren 
+3/9/2022 12:22:44: [G_Auto 2] :  Store Value (Shared) for market: aId = 4415206
+3/9/2022 12:22:44: [G_Auto 2] :  Store Value (Shared) for market: bId = 6604266
+3/10/2022 00:08:41:  Guardian has detected that the market is in-play
+3/10/2022 00:08:41:  Guardian has detected that the market is suspended
+3/10/2022 00:08:45: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.38; bBsp: 3.6; volume: 7405.29 
+3/10/2022 00:08:45: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.38; bBsp: 3.6; volume: 7405.29 
+3/10/2022 00:08:45:  Guardian has detected that the market is now unsuspended
+3/10/2022 00:09:09: [G_Auto 1] :  0 Automation Signals Cleared
+3/10/2022 00:12:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 00:13:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 00:13:29: [G_Auto 1] :  1 Automation Signals Cleared
+3/10/2022 00:17:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 00:17:33: [G_Auto 1] :  € 9.41 Lay bet placed on John Millman at 1.85. Entirely unmatched when it initially reached the market.   Ref: 10267          ( Fill or kill bet with 15 seconds delay.   )
+3/10/2022 00:17:48: [G_Auto 1] :  € 9.41 unmatched bet (Ref:10267) was killed.
+3/10/2022 00:18:16: [G_Auto 1] :  1 Automation Signals Cleared
+3/10/2022 00:21:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 00:21:40: [G_Auto 1] :  € 10.81 Lay bet placed on Tennys Sandgren at 1.74. Entirely unmatched when it initially reached the market.   Ref: 10271          ( Fill or kill bet with 15 seconds delay.   )
+3/10/2022 00:21:51: [G_Auto 1] :  € 10.81 of unmatched bet (Ref:10271) was filled before remainder was killed.
+3/10/2022 00:21:51: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aPoints = point: 0; games: 0; sets: 0 
+3/10/2022 00:21:51: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aServing = serving:0
+3/10/2022 00:21:51: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bPoints = point: 0; games: 3; sets: 0 
+3/10/2022 00:21:51: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bServing = serving:2
+3/10/2022 00:21:51: [G_Auto 2] :  Store Value (Shared) for market: price = 1.74
+3/10/2022 00:21:51: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+3/10/2022 00:21:51: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 10.81
+3/10/2022 00:21:51: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.81
+3/10/2022 00:21:51: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 10.81
+3/10/2022 00:21:51: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.13
+3/10/2022 00:21:51: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.3
+3/10/2022 00:21:51: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.72
+3/10/2022 00:21:57: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aPoints = point: 0; games: 0; sets: 0 
+3/10/2022 00:21:57: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aServing = serving:0
+3/10/2022 00:21:57: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bPoints = point: 0; games: 3; sets: 0 
+3/10/2022 00:21:57: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bServing = serving:2
+3/10/2022 00:21:57: [G_Auto 2] :  Store Value (Shared) for market: price = 1.74
+3/10/2022 00:21:57: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+3/10/2022 00:21:57: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 10.81
+3/10/2022 00:21:57: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.81
+3/10/2022 00:21:57: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 10.81
+3/10/2022 00:21:57: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.13
+3/10/2022 00:21:57: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.32
+3/10/2022 00:21:57: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.72
+3/10/2022 00:22:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 00:23:17: [G_Auto 1] :  1 Automation Signals Cleared
+3/10/2022 00:25:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 00:26:06: [G_Auto 1] :  Placed closure bet with greening on Tennys Sandgren by Backing 8.87 at 2.12
+3/10/2022 00:26:06: [G_Auto 1] :  € 8.99 Lay bet placed on John Millman at 1.89. Fully matched at 1.89.  Ref: 10277          ( Fill or kill bet with 15 seconds delay.   )
+3/10/2022 00:26:09: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aPoints = point: 0; games: 1; sets: 0 
+3/10/2022 00:26:09: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aServing = serving:1
+3/10/2022 00:26:09: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bPoints = point: 0; games: 3; sets: 0 
+3/10/2022 00:26:09: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bServing = serving:0
+3/10/2022 00:26:09: [G_Auto 2] :  Store Value (Shared) for market: price = 2.12
+3/10/2022 00:26:09: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 8.87
+3/10/2022 00:26:09: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 19.8
+3/10/2022 00:26:09: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.87
+3/10/2022 00:26:09: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 28.67
+3/10/2022 00:26:09: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.8
+3/10/2022 00:26:09: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.87
+3/10/2022 00:26:09: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.14
+3/10/2022 00:26:40: [G_Auto 1] :  1 Automation Signals Cleared
+3/10/2022 00:28:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 00:29:04: [G_Auto 1] :  Placed closure bet with greening on John Millman by Backing 9.94 at 1.71
+3/10/2022 00:29:06: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aPoints = point: 0; games: 2; sets: 0 
+3/10/2022 00:29:06: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aServing = serving:0
+3/10/2022 00:29:06: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bPoints = point: 0; games: 3; sets: 0 
+3/10/2022 00:29:06: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bServing = serving:2
+3/10/2022 00:29:06: [G_Auto 2] :  Store Value (Shared) for market: price = 1.71
+3/10/2022 00:29:06: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 18.81
+3/10/2022 00:29:06: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 19.8
+3/10/2022 00:29:06: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.94
+3/10/2022 00:29:06: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 38.61
+3/10/2022 00:29:06: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.98
+3/10/2022 00:29:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.73
+3/10/2022 00:29:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.38
+3/10/2022 00:29:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 00:30:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 00:30:58: [G_Auto 1] :  1 Automation Signals Cleared
+3/10/2022 00:34:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 00:34:18: [G_Auto 1] :  € 8.70 Lay bet placed on John Millman at 1.92. Entirely unmatched when it initially reached the market.   Ref: 10286          ( Fill or kill bet with 15 seconds delay.   )
+3/10/2022 00:34:28: [G_Auto 1] :  € 8.7 of unmatched bet (Ref:10286) was filled before remainder was killed.
+3/10/2022 00:34:28: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aPoints = point: 0; games: 2; sets: 0 
+3/10/2022 00:34:28: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aServing = serving:1
+3/10/2022 00:34:28: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bPoints = point: 0; games: 4; sets: 0 
+3/10/2022 00:34:28: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bServing = serving:0
+3/10/2022 00:34:28: [G_Auto 2] :  Store Value (Shared) for market: price = 1.92
+3/10/2022 00:34:28: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 18.81
+3/10/2022 00:34:28: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 28.5
+3/10/2022 00:34:28: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.7
+3/10/2022 00:34:28: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 47.31
+3/10/2022 00:34:28: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.88
+3/10/2022 00:34:28: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.9
+3/10/2022 00:34:28: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.12
+3/10/2022 00:35:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 00:35:19: [G_Auto 1] :  1 Automation Signals Cleared
+3/10/2022 00:37:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 00:37:19: [G_Auto 1] :  Placed closure bet with greening on John Millman by Backing 9.49 at 1.76
+3/10/2022 00:37:21: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aPoints = point: 0; games: 3; sets: 0 
+3/10/2022 00:37:21: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aServing = serving:0
+3/10/2022 00:37:21: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bPoints = point: 0; games: 4; sets: 0 
+3/10/2022 00:37:21: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bServing = serving:2
+3/10/2022 00:37:21: [G_Auto 2] :  Store Value (Shared) for market: price = 1.76
+3/10/2022 00:37:21: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 28.3
+3/10/2022 00:37:21: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 28.5
+3/10/2022 00:37:21: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.49
+3/10/2022 00:37:21: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 56.8
+3/10/2022 00:37:21: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.2
+3/10/2022 00:37:21: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.76
+3/10/2022 00:37:21: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.32
+3/10/2022 00:37:26: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aPoints = point: 0; games: 3; sets: 0 
+3/10/2022 00:37:26: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aServing = serving:0
+3/10/2022 00:37:26: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bPoints = point: 0; games: 4; sets: 0 
+3/10/2022 00:37:26: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bServing = serving:2
+3/10/2022 00:37:26: [G_Auto 2] :  Store Value (Shared) for market: price = 1.76
+3/10/2022 00:37:26: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 28.3
+3/10/2022 00:37:26: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 28.5
+3/10/2022 00:37:26: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.49
+3/10/2022 00:37:26: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 56.8
+3/10/2022 00:37:26: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.2
+3/10/2022 00:37:26: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.78
+3/10/2022 00:37:26: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.32
+3/10/2022 00:38:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 00:39:02: [G_Auto 1] :  1 Automation Signals Cleared
+3/10/2022 00:42:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 00:43:14: [G_Auto 1] :  1 Automation Signals Cleared
+3/10/2022 00:44:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 00:45:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 00:46:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 00:46:49: [G_Auto 1] :  1 Automation Signals Cleared
+3/10/2022 00:51:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 00:51:48: [G_Auto 1] :  € 21.05 Lay bet placed on John Millman at 1.38. Fully matched at 1.37.  Ref: 10301          ( Fill or kill bet with 15 seconds delay.   )
+3/10/2022 00:51:50: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aPoints = point: 0; games: 5; sets: 0 
+3/10/2022 00:51:50: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aServing = serving:1
+3/10/2022 00:51:50: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bPoints = point: 0; games: 5; sets: 0 
+3/10/2022 00:51:50: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bServing = serving:0
+3/10/2022 00:51:50: [G_Auto 2] :  Store Value (Shared) for market: price = 1.37
+3/10/2022 00:51:50: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 28.3
+3/10/2022 00:51:50: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 49.55
+3/10/2022 00:51:50: [G_Auto 2] :  Store Value (Shared) for market: stake = 21.05
+3/10/2022 00:51:50: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 77.85
+3/10/2022 00:51:50: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.2
+3/10/2022 00:51:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.37
+3/10/2022 00:51:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.7
+3/10/2022 00:51:56: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aPoints = point: 0; games: 5; sets: 0 
+3/10/2022 00:51:56: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aServing = serving:1
+3/10/2022 00:51:56: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bPoints = point: 0; games: 5; sets: 0 
+3/10/2022 00:51:56: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bServing = serving:0
+3/10/2022 00:51:56: [G_Auto 2] :  Store Value (Shared) for market: price = 1.37
+3/10/2022 00:51:56: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 28.3
+3/10/2022 00:51:56: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 49.55
+3/10/2022 00:51:56: [G_Auto 2] :  Store Value (Shared) for market: stake = 21.05
+3/10/2022 00:51:56: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 77.85
+3/10/2022 00:51:56: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.2
+3/10/2022 00:51:56: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.38
+3/10/2022 00:51:56: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.7
+3/10/2022 00:52:22: [G_Auto 1] :  1 Automation Signals Cleared
+3/10/2022 00:54:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 00:54:14: [G_Auto 1] :  Placed closure bet with greening on John Millman by Backing 22.88 at 1.26
+3/10/2022 00:54:17: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aPoints = point: 0; games: 6; sets: 0 
+3/10/2022 00:54:17: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aServing = serving:0
+3/10/2022 00:54:17: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bPoints = point: 0; games: 5; sets: 0 
+3/10/2022 00:54:17: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bServing = serving:2
+3/10/2022 00:54:17: [G_Auto 2] :  Store Value (Shared) for market: price = 1.27
+3/10/2022 00:54:17: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 51.18
+3/10/2022 00:54:17: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 49.55
+3/10/2022 00:54:17: [G_Auto 2] :  Store Value (Shared) for market: stake = 22.88
+3/10/2022 00:54:17: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 100.73
+3/10/2022 00:54:17: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.46
+3/10/2022 00:54:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.28
+3/10/2022 00:54:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.8
+3/10/2022 00:55:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 00:55:34: [G_Auto 1] :  1 Automation Signals Cleared
+3/10/2022 00:56:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 01:03:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 01:03:17: [G_Auto 1] :  Store Value (Shared) for John Millman: PRICE SET 2 = 1.13
+3/10/2022 01:03:17: [G_Auto 1] :  Alert: STORE PRICE AT SET 2 [ John Millman ]
+3/10/2022 01:03:17: [G_Auto 1] :  Automation Signal for market: VALID = 1
+3/10/2022 01:03:17: [G_Auto 1] :  Store Value (Shared) for Tennys Sandgren: PRICE SET 2 = 9.4
+3/10/2022 01:03:17: [G_Auto 1] :  Alert: STORE PRICE AT SET 2 [ Tennys Sandgren ]
+3/10/2022 01:03:17: [G_Auto 1] :  Automation Signal for market: VALID = 1
+3/10/2022 01:03:17: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 1.13
+3/10/2022 01:03:17: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 9.4
+3/10/2022 01:03:23: [G_Auto 1] :  Placed closure bet with greening on John Millman by Laying 0.20 at 1.13
+3/10/2022 01:03:24: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aPoints = point: 0; games: 0; sets: 1 
+3/10/2022 01:03:24: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aServing = serving:0
+3/10/2022 01:03:24: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bPoints = point: 0; games: 0; sets: 0 
+3/10/2022 01:03:24: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bServing = serving:2
+3/10/2022 01:03:24: [G_Auto 2] :  Store Value (Shared) for market: price = 1.13
+3/10/2022 01:03:24: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 51.18
+3/10/2022 01:03:24: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 49.75
+3/10/2022 01:03:24: [G_Auto 2] :  Store Value (Shared) for market: stake = 0.2
+3/10/2022 01:03:24: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 100.93
+3/10/2022 01:03:24: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.43
+3/10/2022 01:03:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.12
+3/10/2022 01:03:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 9.4
+3/10/2022 01:04:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 01:05:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 01:05:44: [G_Auto 1] :  2 Automation Signals Cleared
+3/10/2022 01:08:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 01:08:46: [G_Auto 1] :  € 50.00 Lay bet placed on John Millman at 1.16. Fully matched at 1.15.  Ref: 10314          ( Fill or kill bet with 15 seconds delay.   )
+3/10/2022 01:08:48: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aPoints = point: 0; games: 0; sets: 1 
+3/10/2022 01:08:48: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aServing = serving:1
+3/10/2022 01:08:48: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bPoints = point: 0; games: 1; sets: 0 
+3/10/2022 01:08:48: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bServing = serving:0
+3/10/2022 01:08:48: [G_Auto 2] :  Store Value (Shared) for market: price = 1.15
+3/10/2022 01:08:48: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 51.18
+3/10/2022 01:08:48: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 99.75
+3/10/2022 01:08:48: [G_Auto 2] :  Store Value (Shared) for market: stake = 50
+3/10/2022 01:08:48: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 150.93
+3/10/2022 01:08:48: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.87
+3/10/2022 01:08:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.14
+3/10/2022 01:08:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 7.8
+3/10/2022 01:09:33: [G_Auto 1] :  1 Automation Signals Cleared
+3/10/2022 01:12:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 01:12:17: [G_Auto 1] :  Placed closure bet with greening on John Millman by Backing 51.34 at 1.12
+3/10/2022 01:12:19: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aPoints = point: 0; games: 1; sets: 1 
+3/10/2022 01:12:19: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aServing = serving:0
+3/10/2022 01:12:19: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bPoints = point: 0; games: 1; sets: 0 
+3/10/2022 01:12:19: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bServing = serving:2
+3/10/2022 01:12:19: [G_Auto 2] :  Store Value (Shared) for market: price = 1.12
+3/10/2022 01:12:19: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 102.52
+3/10/2022 01:12:19: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 99.75
+3/10/2022 01:12:19: [G_Auto 2] :  Store Value (Shared) for market: stake = 51.34
+3/10/2022 01:12:19: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 202.27
+3/10/2022 01:12:19: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.77
+3/10/2022 01:12:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.13
+3/10/2022 01:12:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 8.6
+3/10/2022 01:12:48: [G_Auto 1] :  1 Automation Signals Cleared
+3/10/2022 01:14:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 01:15:04: [G_Auto 1] :  € 42.11 Lay bet placed on John Millman at 1.19. Fully matched at 1.19.  Ref: 10319          ( Fill or kill bet with 15 seconds delay.   )
+3/10/2022 01:15:05: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aPoints = point: 0; games: 1; sets: 1 
+3/10/2022 01:15:05: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aServing = serving:1
+3/10/2022 01:15:05: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bPoints = point: 0; games: 2; sets: 0 
+3/10/2022 01:15:05: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bServing = serving:0
+3/10/2022 01:15:05: [G_Auto 2] :  Store Value (Shared) for market: price = 1.19
+3/10/2022 01:15:05: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 102.52
+3/10/2022 01:15:05: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 141.86
+3/10/2022 01:15:05: [G_Auto 2] :  Store Value (Shared) for market: stake = 42.11
+3/10/2022 01:15:05: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 244.38
+3/10/2022 01:15:05: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.49
+3/10/2022 01:15:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.17
+3/10/2022 01:15:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 6.8
+3/10/2022 01:15:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 01:16:54: [G_Auto 1] :  1 Automation Signals Cleared
+3/10/2022 01:22:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 01:23:08: [G_Auto 1] :  Placed closure bet with greening on John Millman by Backing 43.58 at 1.15
+3/10/2022 01:23:09: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aPoints = point: 0; games: 2; sets: 1 
+3/10/2022 01:23:09: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aServing = serving:0
+3/10/2022 01:23:09: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bPoints = point: 0; games: 2; sets: 0 
+3/10/2022 01:23:09: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bServing = serving:2
+3/10/2022 01:23:09: [G_Auto 2] :  Store Value (Shared) for market: price = 1.16
+3/10/2022 01:23:09: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 146.1
+3/10/2022 01:23:09: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 141.86
+3/10/2022 01:23:09: [G_Auto 2] :  Store Value (Shared) for market: stake = 43.58
+3/10/2022 01:23:09: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 287.96
+3/10/2022 01:23:09: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.86
+3/10/2022 01:23:09: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.17
+3/10/2022 01:23:09: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 7.4
+3/10/2022 01:23:44: [G_Auto 1] :  1 Automation Signals Cleared
+3/10/2022 01:24:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 01:25:12: [G_Auto 1] :  € 34.78 Lay bet placed on John Millman at 1.23. Fully matched at 1.22.  Ref: 10324          ( Fill or kill bet with 15 seconds delay.   )
+3/10/2022 01:25:13: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aPoints = point: 0; games: 2; sets: 1 
+3/10/2022 01:25:13: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aServing = serving:1
+3/10/2022 01:25:13: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bPoints = point: 0; games: 3; sets: 0 
+3/10/2022 01:25:13: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bServing = serving:0
+3/10/2022 01:25:13: [G_Auto 2] :  Store Value (Shared) for market: price = 1.22
+3/10/2022 01:25:13: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 146.1
+3/10/2022 01:25:13: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 176.64
+3/10/2022 01:25:13: [G_Auto 2] :  Store Value (Shared) for market: stake = 34.78
+3/10/2022 01:25:13: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 322.74
+3/10/2022 01:25:13: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.16
+3/10/2022 01:25:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.22
+3/10/2022 01:25:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.6
+3/10/2022 01:26:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 01:27:02: [G_Auto 1] :  1 Automation Signals Cleared
+3/10/2022 01:29:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 01:29:18: [G_Auto 1] :  Placed closure bet with greening on John Millman by Backing 35.89 at 1.17
+3/10/2022 01:29:24: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aPoints = point: 0; games: 3; sets: 1 
+3/10/2022 01:29:24: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aServing = serving:0
+3/10/2022 01:29:24: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bPoints = point: 0; games: 3; sets: 0 
+3/10/2022 01:29:24: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bServing = serving:2
+3/10/2022 01:29:24: [G_Auto 2] :  Store Value (Shared) for market: price = 1.17
+3/10/2022 01:29:24: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 181.99
+3/10/2022 01:29:24: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 176.64
+3/10/2022 01:29:24: [G_Auto 2] :  Store Value (Shared) for market: stake = 35.89
+3/10/2022 01:29:24: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 358.63
+3/10/2022 01:29:24: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.35
+3/10/2022 01:29:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.18
+3/10/2022 01:29:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 6.4
+3/10/2022 01:29:38: [G_Auto 1] :  1 Automation Signals Cleared
+3/10/2022 01:31:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 01:31:28: [G_Auto 1] :  € 32.00 Lay bet placed on John Millman at 1.25. Fully matched at 1.24.  Ref: 10327          ( Fill or kill bet with 15 seconds delay.   )
+3/10/2022 01:31:29: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aPoints = point: 0; games: 3; sets: 1 
+3/10/2022 01:31:29: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aServing = serving:1
+3/10/2022 01:31:29: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bPoints = point: 0; games: 4; sets: 0 
+3/10/2022 01:31:29: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bServing = serving:0
+3/10/2022 01:31:29: [G_Auto 2] :  Store Value (Shared) for market: price = 1.24
+3/10/2022 01:31:29: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 181.99
+3/10/2022 01:31:29: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 208.64
+3/10/2022 01:31:29: [G_Auto 2] :  Store Value (Shared) for market: stake = 32
+3/10/2022 01:31:29: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 390.63
+3/10/2022 01:31:29: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.87
+3/10/2022 01:31:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.22
+3/10/2022 01:31:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.5
+3/10/2022 01:32:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 01:33:12: [G_Auto 1] :  1 Automation Signals Cleared
+3/10/2022 01:34:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 01:34:59: [G_Auto 1] :  Placed closure bet with greening on John Millman by Backing 34.21 at 1.16
+3/10/2022 01:35:00: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aPoints = point: 0; games: 4; sets: 1 
+3/10/2022 01:35:00: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aServing = serving:0
+3/10/2022 01:35:00: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bPoints = point: 0; games: 4; sets: 0 
+3/10/2022 01:35:00: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bServing = serving:2
+3/10/2022 01:35:00: [G_Auto 2] :  Store Value (Shared) for market: price = 1.16
+3/10/2022 01:35:00: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 216.2
+3/10/2022 01:35:00: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 208.64
+3/10/2022 01:35:00: [G_Auto 2] :  Store Value (Shared) for market: stake = 34.21
+3/10/2022 01:35:00: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 424.84
+3/10/2022 01:35:00: [G_Auto 2] :  Store Value (Shared) for market: pl = -7.56
+3/10/2022 01:35:00: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.18
+3/10/2022 01:35:00: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 7
+3/10/2022 01:35:41: [G_Auto 1] :  1 Automation Signals Cleared
+3/10/2022 01:38:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 01:38:59: [G_Auto 1] :  € 33.33 Lay bet placed on John Millman at 1.24. Fully matched at 1.24.  Ref: 10332          ( Fill or kill bet with 15 seconds delay.   )
+3/10/2022 01:39:00: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aPoints = point: 0; games: 4; sets: 1 
+3/10/2022 01:39:00: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aServing = serving:1
+3/10/2022 01:39:00: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bPoints = point: 0; games: 5; sets: 0 
+3/10/2022 01:39:00: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bServing = serving:0
+3/10/2022 01:39:00: [G_Auto 2] :  Store Value (Shared) for market: price = 1.24
+3/10/2022 01:39:00: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 216.2
+3/10/2022 01:39:00: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 241.97
+3/10/2022 01:39:00: [G_Auto 2] :  Store Value (Shared) for market: stake = 33.33
+3/10/2022 01:39:00: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 458.17
+3/10/2022 01:39:00: [G_Auto 2] :  Store Value (Shared) for market: pl = -7.83
+3/10/2022 01:39:00: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.23
+3/10/2022 01:39:00: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.3
+3/10/2022 01:39:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 01:40:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 01:41:07: [G_Auto 1] :  1 Automation Signals Cleared
+3/10/2022 01:42:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 01:42:42: [G_Auto 1] :  Placed closure bet with greening on John Millman by Backing 35.94 at 1.15
+3/10/2022 01:42:42: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aPoints = point: 0; games: 5; sets: 1 
+3/10/2022 01:42:42: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aServing = serving:0
+3/10/2022 01:42:42: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bPoints = point: 0; games: 5; sets: 0 
+3/10/2022 01:42:42: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bServing = serving:2
+3/10/2022 01:42:42: [G_Auto 2] :  Store Value (Shared) for market: price = 1.15
+3/10/2022 01:42:42: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 252.14
+3/10/2022 01:42:42: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 241.97
+3/10/2022 01:42:42: [G_Auto 2] :  Store Value (Shared) for market: stake = 35.94
+3/10/2022 01:42:42: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 494.11
+3/10/2022 01:42:42: [G_Auto 2] :  Store Value (Shared) for market: pl = -10.16
+3/10/2022 01:42:42: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.16
+3/10/2022 01:42:42: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 7.2
+3/10/2022 01:43:12: [G_Auto 1] :  1 Automation Signals Cleared
+3/10/2022 01:47:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 01:47:13: [G_Auto 1] :  € 36.36 Lay bet placed on John Millman at 1.22. Fully matched at 1.21.  Ref: 10338          ( Fill or kill bet with 15 seconds delay.   )
+3/10/2022 01:47:14: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aPoints = point: 0; games: 5; sets: 1 
+3/10/2022 01:47:14: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aServing = serving:1
+3/10/2022 01:47:14: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bPoints = point: 0; games: 6; sets: 0 
+3/10/2022 01:47:14: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bServing = serving:0
+3/10/2022 01:47:14: [G_Auto 2] :  Store Value (Shared) for market: price = 1.21
+3/10/2022 01:47:14: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 252.14
+3/10/2022 01:47:14: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 278.33
+3/10/2022 01:47:14: [G_Auto 2] :  Store Value (Shared) for market: stake = 36.36
+3/10/2022 01:47:14: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 530.47
+3/10/2022 01:47:14: [G_Auto 2] :  Store Value (Shared) for market: pl = -10.47
+3/10/2022 01:47:14: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.21
+3/10/2022 01:47:14: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 6
+3/10/2022 01:48:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 01:48:49: [G_Auto 1] :  1 Automation Signals Cleared
+3/10/2022 01:51:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 01:51:56: [G_Auto 1] :  Placed closure bet with greening on John Millman by Backing 38.25 at 1.15
+3/10/2022 01:51:56: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aPoints = point: 0; games: 6; sets: 1 
+3/10/2022 01:51:56: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aServing = serving:0
+3/10/2022 01:51:56: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bPoints = point: 0; games: 6; sets: 0 
+3/10/2022 01:51:56: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bServing = serving:2
+3/10/2022 01:51:56: [G_Auto 2] :  Store Value (Shared) for market: price = 1.15
+3/10/2022 01:51:56: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 290.39
+3/10/2022 01:51:56: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 278.33
+3/10/2022 01:51:56: [G_Auto 2] :  Store Value (Shared) for market: stake = 38.25
+3/10/2022 01:51:56: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 568.72
+3/10/2022 01:51:56: [G_Auto 2] :  Store Value (Shared) for market: pl = -12.06
+3/10/2022 01:51:56: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.16
+3/10/2022 01:51:56: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 7.2
+3/10/2022 02:04:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 02:04:15: [G_Auto 2] :  Store Value (Shared) for market: aSecondSetPrice = 1.45
+3/10/2022 02:04:15: [G_Auto 2] :  Store Value (Shared) for market: bSecondSetPrice = 4.4
+3/10/2022 02:05:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 02:06:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 02:07:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 02:08:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 02:09:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 02:10:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 02:10:38: [G_Auto 1] :  1 Automation Signals Cleared
+3/10/2022 02:11:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 02:12:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 02:13:08: [G_Auto 1] :  1 Automation Signals Cleared
+3/10/2022 02:14:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 02:15:06: [G_Auto 1] :  € 15.09 Lay bet placed on John Millman at 1.53. Fully matched at 1.53.  Ref: 10358          ( Fill or kill bet with 15 seconds delay.   )
+3/10/2022 02:15:06: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aPoints = point: 0; games: 1; sets: 1 
+3/10/2022 02:15:06: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aServing = serving:1
+3/10/2022 02:15:06: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bPoints = point: 0; games: 1; sets: 1 
+3/10/2022 02:15:06: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bServing = serving:0
+3/10/2022 02:15:06: [G_Auto 2] :  Store Value (Shared) for market: price = 1.53
+3/10/2022 02:15:06: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 290.39
+3/10/2022 02:15:06: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 293.42
+3/10/2022 02:15:06: [G_Auto 2] :  Store Value (Shared) for market: stake = 15.09
+3/10/2022 02:15:06: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 583.81
+3/10/2022 02:15:06: [G_Auto 2] :  Store Value (Shared) for market: pl = -12.26
+3/10/2022 02:15:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.51
+3/10/2022 02:15:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3
+3/10/2022 02:15:13: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aPoints = point: 0; games: 1; sets: 1 
+3/10/2022 02:15:13: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aServing = serving:1
+3/10/2022 02:15:13: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bPoints = point: 0; games: 1; sets: 1 
+3/10/2022 02:15:13: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bServing = serving:0
+3/10/2022 02:15:13: [G_Auto 2] :  Store Value (Shared) for market: price = 1.53
+3/10/2022 02:15:13: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 290.39
+3/10/2022 02:15:13: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 293.42
+3/10/2022 02:15:13: [G_Auto 2] :  Store Value (Shared) for market: stake = 15.09
+3/10/2022 02:15:13: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 583.81
+3/10/2022 02:15:13: [G_Auto 2] :  Store Value (Shared) for market: pl = -12.36
+3/10/2022 02:15:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.5
+3/10/2022 02:15:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3
+3/10/2022 02:15:31: [G_Auto 1] :  1 Automation Signals Cleared
+3/10/2022 02:19:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 02:19:34: [G_Auto 1] :  Placed closure bet with greening on John Millman by Backing 16.38 at 1.41
+3/10/2022 02:19:35: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aPoints = point: 0; games: 2; sets: 1 
+3/10/2022 02:19:35: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aServing = serving:0
+3/10/2022 02:19:35: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bPoints = point: 0; games: 1; sets: 1 
+3/10/2022 02:19:35: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bServing = serving:2
+3/10/2022 02:19:35: [G_Auto 2] :  Store Value (Shared) for market: price = 1.42
+3/10/2022 02:19:35: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 306.77
+3/10/2022 02:19:35: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 293.42
+3/10/2022 02:19:35: [G_Auto 2] :  Store Value (Shared) for market: stake = 16.38
+3/10/2022 02:19:35: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 600.19
+3/10/2022 02:19:35: [G_Auto 2] :  Store Value (Shared) for market: pl = -13.23
+3/10/2022 02:19:35: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.43
+3/10/2022 02:19:35: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3
+3/10/2022 02:20:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 02:21:20: [G_Auto 1] :  1 Automation Signals Cleared
+3/10/2022 02:22:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 02:23:08: [G_Auto 1] :  € 13.56 Lay bet placed on John Millman at 1.59. Fully matched at 1.58.  Ref: 10368          ( Fill or kill bet with 15 seconds delay.   )
+3/10/2022 02:23:09: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aPoints = point: 0; games: 2; sets: 1 
+3/10/2022 02:23:09: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aServing = serving:1
+3/10/2022 02:23:09: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bPoints = point: 0; games: 2; sets: 1 
+3/10/2022 02:23:09: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bServing = serving:0
+3/10/2022 02:23:09: [G_Auto 2] :  Store Value (Shared) for market: price = 1.58
+3/10/2022 02:23:09: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 306.77
+3/10/2022 02:23:09: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 306.98
+3/10/2022 02:23:09: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.56
+3/10/2022 02:23:09: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 613.75
+3/10/2022 02:23:09: [G_Auto 2] :  Store Value (Shared) for market: pl = -13.33
+3/10/2022 02:23:09: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.57
+3/10/2022 02:23:09: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.76
+3/10/2022 02:23:52: [G_Auto 1] :  1 Automation Signals Cleared
+3/10/2022 02:26:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 02:26:48: [G_Auto 1] :  Placed closure bet with greening on John Millman by Backing 14.76 at 1.44
+3/10/2022 02:26:49: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aPoints = point: 0; games: 3; sets: 1 
+3/10/2022 02:26:49: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aServing = serving:0
+3/10/2022 02:26:49: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bPoints = point: 0; games: 2; sets: 1 
+3/10/2022 02:26:49: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bServing = serving:2
+3/10/2022 02:26:49: [G_Auto 2] :  Store Value (Shared) for market: price = 1.44
+3/10/2022 02:26:49: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 321.53
+3/10/2022 02:26:49: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 306.98
+3/10/2022 02:26:49: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.76
+3/10/2022 02:26:49: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 628.51
+3/10/2022 02:26:49: [G_Auto 2] :  Store Value (Shared) for market: pl = -14.55
+3/10/2022 02:26:49: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.46
+3/10/2022 02:26:49: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.15
+3/10/2022 02:26:55: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aPoints = point: 0; games: 3; sets: 1 
+3/10/2022 02:26:55: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aServing = serving:0
+3/10/2022 02:26:55: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bPoints = point: 0; games: 2; sets: 1 
+3/10/2022 02:26:55: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bServing = serving:2
+3/10/2022 02:26:55: [G_Auto 2] :  Store Value (Shared) for market: price = 1.44
+3/10/2022 02:26:55: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 321.53
+3/10/2022 02:26:55: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 306.98
+3/10/2022 02:26:55: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.76
+3/10/2022 02:26:55: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 628.51
+3/10/2022 02:26:55: [G_Auto 2] :  Store Value (Shared) for market: pl = -14.55
+3/10/2022 02:26:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.46
+3/10/2022 02:26:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.15
+3/10/2022 02:27:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 02:28:27: [G_Auto 1] :  1 Automation Signals Cleared
+3/10/2022 02:30:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 02:30:54: [G_Auto 1] :  € 12.50 Lay bet placed on John Millman at 1.64. Entirely unmatched when it initially reached the market.   Ref: 10377          ( Fill or kill bet with 15 seconds delay.   )
+3/10/2022 02:31:00: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aPoints = point: 0; games: 3; sets: 1 
+3/10/2022 02:31:00: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aServing = serving:1
+3/10/2022 02:31:00: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bPoints = point: 0; games: 3; sets: 1 
+3/10/2022 02:31:00: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bServing = serving:0
+3/10/2022 02:31:00: [G_Auto 2] :  Store Value (Shared) for market: price = 1.64
+3/10/2022 02:31:00: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 321.53
+3/10/2022 02:31:00: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 319.48
+3/10/2022 02:31:00: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.5
+3/10/2022 02:31:00: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 641.01
+3/10/2022 02:31:00: [G_Auto 2] :  Store Value (Shared) for market: pl = -14.63
+3/10/2022 02:31:00: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.63
+3/10/2022 02:31:00: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.5
+3/10/2022 02:31:01: [G_Auto 1] :  € 12.5 of unmatched bet (Ref:10377) was filled before remainder was killed.
+3/10/2022 02:31:07: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aPoints = point: 0; games: 3; sets: 1 
+3/10/2022 02:31:07: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aServing = serving:1
+3/10/2022 02:31:07: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bPoints = point: 0; games: 3; sets: 1 
+3/10/2022 02:31:07: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bServing = serving:0
+3/10/2022 02:31:07: [G_Auto 2] :  Store Value (Shared) for market: price = 1.64
+3/10/2022 02:31:07: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 321.53
+3/10/2022 02:31:07: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 319.48
+3/10/2022 02:31:07: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.5
+3/10/2022 02:31:07: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 641.01
+3/10/2022 02:31:07: [G_Auto 2] :  Store Value (Shared) for market: pl = -14.7
+3/10/2022 02:31:07: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.63
+3/10/2022 02:31:07: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.58
+3/10/2022 02:31:40: [G_Auto 1] :  1 Automation Signals Cleared
+3/10/2022 02:33:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 02:33:16: [G_Auto 1] :  Placed closure bet with greening on John Millman by Backing 14.34 at 1.43
+3/10/2022 02:33:17: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aPoints = point: 0; games: 4; sets: 1 
+3/10/2022 02:33:17: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aServing = serving:0
+3/10/2022 02:33:17: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bPoints = point: 0; games: 3; sets: 1 
+3/10/2022 02:33:17: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bServing = serving:2
+3/10/2022 02:33:17: [G_Auto 2] :  Store Value (Shared) for market: price = 1.43
+3/10/2022 02:33:17: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 335.87
+3/10/2022 02:33:17: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 319.48
+3/10/2022 02:33:17: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.34
+3/10/2022 02:33:17: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 655.35
+3/10/2022 02:33:17: [G_Auto 2] :  Store Value (Shared) for market: pl = -16.38
+3/10/2022 02:33:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.43
+3/10/2022 02:33:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.25
+3/10/2022 02:33:23: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aPoints = point: 0; games: 4; sets: 1 
+3/10/2022 02:33:23: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aServing = serving:0
+3/10/2022 02:33:23: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bPoints = point: 0; games: 3; sets: 1 
+3/10/2022 02:33:23: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bServing = serving:2
+3/10/2022 02:33:23: [G_Auto 2] :  Store Value (Shared) for market: price = 1.43
+3/10/2022 02:33:23: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 335.87
+3/10/2022 02:33:23: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 319.48
+3/10/2022 02:33:23: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.34
+3/10/2022 02:33:23: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 655.35
+3/10/2022 02:33:23: [G_Auto 2] :  Store Value (Shared) for market: pl = -16.38
+3/10/2022 02:33:23: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.44
+3/10/2022 02:33:23: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.2
+3/10/2022 02:34:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 02:34:51: [G_Auto 1] :  1 Automation Signals Cleared
+3/10/2022 02:39:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 02:39:41: [G_Auto 1] :  € 12.90 Lay bet placed on John Millman at 1.62. Fully matched at 1.61.  Ref: 10385          ( Fill or kill bet with 15 seconds delay.   )
+3/10/2022 02:39:42: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aPoints = point: 0; games: 4; sets: 1 
+3/10/2022 02:39:42: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aServing = serving:1
+3/10/2022 02:39:42: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bPoints = point: 0; games: 4; sets: 1 
+3/10/2022 02:39:42: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bServing = serving:0
+3/10/2022 02:39:42: [G_Auto 2] :  Store Value (Shared) for market: price = 1.61
+3/10/2022 02:39:42: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 335.87
+3/10/2022 02:39:42: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 332.38
+3/10/2022 02:39:42: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.9
+3/10/2022 02:39:42: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 668.25
+3/10/2022 02:39:42: [G_Auto 2] :  Store Value (Shared) for market: pl = -16.39
+3/10/2022 02:39:42: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.61
+3/10/2022 02:39:42: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.66
+3/10/2022 02:40:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 02:40:39: [G_Auto 1] :  1 Automation Signals Cleared
+3/10/2022 02:45:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 02:45:52: [G_Auto 1] :  Placed closure bet with greening on John Millman by Backing 14.42 at 1.44
+3/10/2022 02:45:53: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aPoints = point: 0; games: 5; sets: 1 
+3/10/2022 02:45:53: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aServing = serving:0
+3/10/2022 02:45:53: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bPoints = point: 0; games: 4; sets: 1 
+3/10/2022 02:45:53: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bServing = serving:2
+3/10/2022 02:45:53: [G_Auto 2] :  Store Value (Shared) for market: price = 1.44
+3/10/2022 02:45:53: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 350.29
+3/10/2022 02:45:53: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 332.38
+3/10/2022 02:45:53: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.42
+3/10/2022 02:45:53: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 682.67
+3/10/2022 02:45:53: [G_Auto 2] :  Store Value (Shared) for market: pl = -17.91
+3/10/2022 02:45:53: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.45
+3/10/2022 02:45:53: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.2
+3/10/2022 02:45:59: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aPoints = point: 0; games: 5; sets: 1 
+3/10/2022 02:45:59: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aServing = serving:0
+3/10/2022 02:45:59: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bPoints = point: 0; games: 4; sets: 1 
+3/10/2022 02:45:59: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bServing = serving:2
+3/10/2022 02:45:59: [G_Auto 2] :  Store Value (Shared) for market: price = 1.44
+3/10/2022 02:45:59: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 350.29
+3/10/2022 02:45:59: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 332.38
+3/10/2022 02:45:59: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.42
+3/10/2022 02:45:59: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 682.67
+3/10/2022 02:45:59: [G_Auto 2] :  Store Value (Shared) for market: pl = -17.91
+3/10/2022 02:45:59: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.45
+3/10/2022 02:45:59: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.25
+3/10/2022 02:46:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 02:47:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 02:47:51: [G_Auto 1] :  1 Automation Signals Cleared
+3/10/2022 02:51:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 02:51:20: [G_Auto 1] :  € 11.94 Lay bet placed on John Millman at 1.67. Fully matched at 1.66.  Ref: 10393          ( Fill or kill bet with 15 seconds delay.   )
+3/10/2022 02:51:21: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aPoints = point: 0; games: 5; sets: 1 
+3/10/2022 02:51:21: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aServing = serving:1
+3/10/2022 02:51:21: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bPoints = point: 0; games: 5; sets: 1 
+3/10/2022 02:51:21: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bServing = serving:0
+3/10/2022 02:51:21: [G_Auto 2] :  Store Value (Shared) for market: price = 1.66
+3/10/2022 02:51:21: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 350.29
+3/10/2022 02:51:21: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 344.32
+3/10/2022 02:51:21: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.94
+3/10/2022 02:51:21: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 694.61
+3/10/2022 02:51:21: [G_Auto 2] :  Store Value (Shared) for market: pl = -18.06
+3/10/2022 02:51:21: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.64
+3/10/2022 02:51:21: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.58
+3/10/2022 02:51:27: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aPoints = point: 0; games: 5; sets: 1 
+3/10/2022 02:51:27: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aServing = serving:1
+3/10/2022 02:51:27: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bPoints = point: 0; games: 5; sets: 1 
+3/10/2022 02:51:27: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bServing = serving:0
+3/10/2022 02:51:27: [G_Auto 2] :  Store Value (Shared) for market: price = 1.66
+3/10/2022 02:51:27: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 350.29
+3/10/2022 02:51:27: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 344.32
+3/10/2022 02:51:27: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.94
+3/10/2022 02:51:27: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 694.61
+3/10/2022 02:51:27: [G_Auto 2] :  Store Value (Shared) for market: pl = -18.06
+3/10/2022 02:51:27: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.64
+3/10/2022 02:51:27: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.5
+3/10/2022 02:52:02: [G_Auto 1] :  1 Automation Signals Cleared
+3/10/2022 02:53:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 02:53:20: [G_Auto 1] :  Placed closure bet with greening on John Millman by Backing 13.76 at 1.44
+3/10/2022 02:53:21: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aPoints = point: 0; games: 6; sets: 1 
+3/10/2022 02:53:21: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aServing = serving:0
+3/10/2022 02:53:21: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bPoints = point: 0; games: 5; sets: 1 
+3/10/2022 02:53:21: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bServing = serving:2
+3/10/2022 02:53:21: [G_Auto 2] :  Store Value (Shared) for market: price = 1.44
+3/10/2022 02:53:21: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 364.05
+3/10/2022 02:53:21: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 344.32
+3/10/2022 02:53:21: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.76
+3/10/2022 02:53:21: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 708.37
+3/10/2022 02:53:21: [G_Auto 2] :  Store Value (Shared) for market: pl = -19.74
+3/10/2022 02:53:21: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.45
+3/10/2022 02:53:21: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.25
+3/10/2022 02:54:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 02:55:02: [G_Auto 1] :  1 Automation Signals Cleared
+3/10/2022 02:57:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 02:57:32: [G_Auto 1] :  € 11.43 Lay bet placed on John Millman at 1.7. Fully matched at 1.7.  Ref: 10404          ( Fill or kill bet with 15 seconds delay.   )
+3/10/2022 02:57:32: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aPoints = point: 0; games: 6; sets: 1 
+3/10/2022 02:57:32: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aServing = serving:1
+3/10/2022 02:57:32: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bPoints = point: 0; games: 6; sets: 1 
+3/10/2022 02:57:32: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bServing = serving:0
+3/10/2022 02:57:32: [G_Auto 2] :  Store Value (Shared) for market: price = 1.7
+3/10/2022 02:57:32: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 364.05
+3/10/2022 02:57:32: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 355.75
+3/10/2022 02:57:32: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.43
+3/10/2022 02:57:32: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 719.8
+3/10/2022 02:57:32: [G_Auto 2] :  Store Value (Shared) for market: pl = -19.87
+3/10/2022 02:57:32: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.68
+3/10/2022 02:57:32: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.46
+3/10/2022 02:57:38: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aPoints = point: 0; games: 6; sets: 1 
+3/10/2022 02:57:38: [G_Auto 2] :  Store Text Value (Shared) for John Millman: aServing = serving:1
+3/10/2022 02:57:38: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bPoints = point: 0; games: 6; sets: 1 
+3/10/2022 02:57:38: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: bServing = serving:0
+3/10/2022 02:57:38: [G_Auto 2] :  Store Value (Shared) for market: price = 1.7
+3/10/2022 02:57:38: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 364.05
+3/10/2022 02:57:38: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 355.75
+3/10/2022 02:57:38: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.43
+3/10/2022 02:57:38: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 719.8
+3/10/2022 02:57:38: [G_Auto 2] :  Store Value (Shared) for market: pl = -19.8
+3/10/2022 02:57:38: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.69
+3/10/2022 02:57:38: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.46
+3/10/2022 02:58:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 03:06:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/10/2022 03:06:27:  Guardian has detected that the market is suspended
