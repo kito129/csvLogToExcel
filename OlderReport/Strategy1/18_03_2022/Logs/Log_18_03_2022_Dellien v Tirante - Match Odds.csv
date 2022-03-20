@@ -1,0 +1,220 @@
+3/18/2022 16:38:37: [G_Auto 1] :  Store Text Value (Shared) for Hugo Dellien: info = marketName: Dellien v Tirante - Match Odds; runnerA: Hugo Dellien; runnerB: Thiago Agustin Tirante 
+3/18/2022 16:38:37: [G_Auto 1] :  Store Value (Shared) for market: aId = 8226987
+3/18/2022 16:38:37: [G_Auto 1] :  Store Value (Shared) for market: bId = 11233238
+3/18/2022 20:19:40:  Guardian has detected that the market is in-play
+3/18/2022 20:19:40:  Guardian has detected that the market is suspended
+3/18/2022 20:19:41: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.38; bBsp: 3.8; volume: 123296.55 
+3/18/2022 20:19:41: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.38; bBsp: 3.8; volume: 123296.55 
+3/18/2022 20:19:41:  Guardian has detected that the market is now unsuspended
+3/18/2022 20:19:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 20:19:55: [G_Auto 2] :  € 23.53 Lay bet placed on Hugo Dellien at 1.34. Entirely unmatched when it initially reached the market.   Ref: 10086          ( Fill or kill bet with 15 seconds delay.   )
+3/18/2022 20:19:58: [G_Auto 2] :  € 23.53 of unmatched bet (Ref:10086) was filled before remainder was killed.
+3/18/2022 20:19:58: [G_Auto 1] :  Store Text Value (Shared) for Hugo Dellien: aPoints = point: 0; games: 0; sets: 0 
+3/18/2022 20:19:58: [G_Auto 1] :  Store Text Value (Shared) for Hugo Dellien: aServing = serving:1
+3/18/2022 20:19:58: [G_Auto 1] :  Store Text Value (Shared) for Thiago Agustin Tirante: bPoints = point: 0; games: 0; sets: 0 
+3/18/2022 20:19:58: [G_Auto 1] :  Store Text Value (Shared) for Thiago Agustin Tirante: bServing = serving:0
+3/18/2022 20:19:58: [G_Auto 1] :  Store Value (Shared) for market: price = 1.34
+3/18/2022 20:19:58: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 0
+3/18/2022 20:19:58: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 23.53
+3/18/2022 20:19:58: [G_Auto 1] :  Store Value (Shared) for market: stake = 23.53
+3/18/2022 20:19:58: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 23.53
+3/18/2022 20:19:58: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.75
+3/18/2022 20:19:58: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.32
+3/18/2022 20:19:58: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.8
+3/18/2022 20:19:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 20:20:01: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/18/2022 20:20:16: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/18/2022 20:20:32: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/18/2022 20:27:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 20:27:59: [G_Auto 2] :  Placed closure bet with greening on Hugo Dellien by Backing 23.71 at 1.33
+3/18/2022 20:27:59: [G_Auto 1] :  Store Text Value (Shared) for Hugo Dellien: aPoints = point: 0; games: 1; sets: 0 
+3/18/2022 20:27:59: [G_Auto 1] :  Store Text Value (Shared) for Hugo Dellien: aServing = serving:0
+3/18/2022 20:27:59: [G_Auto 1] :  Store Text Value (Shared) for Thiago Agustin Tirante: bPoints = point: 0; games: 0; sets: 0 
+3/18/2022 20:27:59: [G_Auto 1] :  Store Text Value (Shared) for Thiago Agustin Tirante: bServing = serving:2
+3/18/2022 20:27:59: [G_Auto 1] :  Store Value (Shared) for market: price = 1.33
+3/18/2022 20:27:59: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 23.71
+3/18/2022 20:27:59: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 23.53
+3/18/2022 20:27:59: [G_Auto 1] :  Store Value (Shared) for market: stake = 23.71
+3/18/2022 20:27:59: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 47.24
+3/18/2022 20:27:59: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.18
+3/18/2022 20:27:59: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.34
+3/18/2022 20:27:59: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4
+3/18/2022 20:28:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 20:28:06: [G_Auto 1] :  Store Text Value (Shared) for Hugo Dellien: aPoints = point: 0; games: 1; sets: 0 
+3/18/2022 20:28:06: [G_Auto 1] :  Store Text Value (Shared) for Hugo Dellien: aServing = serving:0
+3/18/2022 20:28:06: [G_Auto 1] :  Store Text Value (Shared) for Thiago Agustin Tirante: bPoints = point: 0; games: 0; sets: 0 
+3/18/2022 20:28:06: [G_Auto 1] :  Store Text Value (Shared) for Thiago Agustin Tirante: bServing = serving:2
+3/18/2022 20:28:06: [G_Auto 1] :  Store Value (Shared) for market: price = 1.33
+3/18/2022 20:28:06: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 23.71
+3/18/2022 20:28:06: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 23.53
+3/18/2022 20:28:06: [G_Auto 1] :  Store Value (Shared) for market: stake = 23.71
+3/18/2022 20:28:06: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 47.24
+3/18/2022 20:28:06: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.18
+3/18/2022 20:28:06: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.33
+3/18/2022 20:28:06: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4
+3/18/2022 20:28:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 20:28:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 20:28:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 20:28:55: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/18/2022 20:29:12: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/18/2022 20:29:28: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/18/2022 20:34:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 20:34:39: [G_Auto 2] :  € 40.00 Lay bet placed on Hugo Dellien at 1.2. Fully matched at 1.2.  Ref: 10091          ( Fill or kill bet with 15 seconds delay.   )
+3/18/2022 20:34:39: [G_Auto 1] :  Store Text Value (Shared) for Hugo Dellien: aPoints = point: 0; games: 2; sets: 0 
+3/18/2022 20:34:39: [G_Auto 1] :  Store Text Value (Shared) for Hugo Dellien: aServing = serving:1
+3/18/2022 20:34:39: [G_Auto 1] :  Store Text Value (Shared) for Thiago Agustin Tirante: bPoints = point: 0; games: 0; sets: 0 
+3/18/2022 20:34:39: [G_Auto 1] :  Store Text Value (Shared) for Thiago Agustin Tirante: bServing = serving:0
+3/18/2022 20:34:39: [G_Auto 1] :  Store Value (Shared) for market: price = 1.2
+3/18/2022 20:34:39: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 23.71
+3/18/2022 20:34:39: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 63.53
+3/18/2022 20:34:39: [G_Auto 1] :  Store Value (Shared) for market: stake = 40
+3/18/2022 20:34:39: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 87.24
+3/18/2022 20:34:39: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.85
+3/18/2022 20:34:39: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.19
+3/18/2022 20:34:39: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 6
+3/18/2022 20:34:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 20:34:44: [G_Auto 1] :  Store Text Value (Shared) for Hugo Dellien: aPoints = point: 0; games: 2; sets: 0 
+3/18/2022 20:34:44: [G_Auto 1] :  Store Text Value (Shared) for Hugo Dellien: aServing = serving:1
+3/18/2022 20:34:44: [G_Auto 1] :  Store Text Value (Shared) for Thiago Agustin Tirante: bPoints = point: 0; games: 0; sets: 0 
+3/18/2022 20:34:44: [G_Auto 1] :  Store Text Value (Shared) for Thiago Agustin Tirante: bServing = serving:0
+3/18/2022 20:34:44: [G_Auto 1] :  Store Value (Shared) for market: price = 1.2
+3/18/2022 20:34:44: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 23.71
+3/18/2022 20:34:44: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 63.53
+3/18/2022 20:34:44: [G_Auto 1] :  Store Value (Shared) for market: stake = 40
+3/18/2022 20:34:44: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 87.24
+3/18/2022 20:34:44: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.51
+3/18/2022 20:34:44: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.19
+3/18/2022 20:34:44: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 6.4
+3/18/2022 20:34:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 20:35:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 20:35:14: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/18/2022 20:35:29: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/18/2022 20:35:45: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/18/2022 20:37:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 20:37:50: [G_Auto 2] :  Placed closure bet with greening on Hugo Dellien by Backing 41.74 at 1.15
+3/18/2022 20:37:50: [G_Auto 1] :  Store Text Value (Shared) for Hugo Dellien: aPoints = point: 0; games: 3; sets: 0 
+3/18/2022 20:37:50: [G_Auto 1] :  Store Text Value (Shared) for Hugo Dellien: aServing = serving:0
+3/18/2022 20:37:50: [G_Auto 1] :  Store Text Value (Shared) for Thiago Agustin Tirante: bPoints = point: 0; games: 0; sets: 0 
+3/18/2022 20:37:50: [G_Auto 1] :  Store Text Value (Shared) for Thiago Agustin Tirante: bServing = serving:2
+3/18/2022 20:37:50: [G_Auto 1] :  Store Value (Shared) for market: price = 1.15
+3/18/2022 20:37:50: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 65.45
+3/18/2022 20:37:50: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 63.53
+3/18/2022 20:37:50: [G_Auto 1] :  Store Value (Shared) for market: stake = 41.74
+3/18/2022 20:37:50: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 128.98
+3/18/2022 20:37:50: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.91
+3/18/2022 20:37:50: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.15
+3/18/2022 20:37:50: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 7.8
+3/18/2022 20:37:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 20:38:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 20:38:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 20:38:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 20:38:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 20:39:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 20:39:13: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/18/2022 20:39:30: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/18/2022 20:39:45: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/18/2022 20:42:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 20:42:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 20:42:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 20:43:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 20:43:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 20:43:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 20:43:43: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/18/2022 20:44:00: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/18/2022 20:44:16: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/18/2022 20:45:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 20:46:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 20:46:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 20:46:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 20:46:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 20:47:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 20:47:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 20:47:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 20:47:56: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/18/2022 20:48:12: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/18/2022 20:49:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 20:49:45: [G_Auto 1] :  Store Value (Shared) for market: aFirstSetPrice = 1.06
+3/18/2022 20:49:45: [G_Auto 1] :  Store Value (Shared) for market: bFirstSetPrice = 16
+3/18/2022 20:49:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 20:50:06: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 20:50:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 20:50:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 20:50:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 20:51:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 20:51:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 20:51:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 20:51:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 20:52:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 20:52:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 20:52:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 20:52:55: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/18/2022 20:53:10: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/18/2022 20:53:26: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/18/2022 20:54:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 20:54:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 20:55:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 20:55:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 20:55:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 20:55:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 20:55:55: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/18/2022 20:56:12: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/18/2022 20:56:27: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/18/2022 20:58:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 20:59:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 20:59:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 20:59:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 20:59:56: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/18/2022 21:00:11: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/18/2022 21:02:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 21:02:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 21:02:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 21:03:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 21:03:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 21:03:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 21:03:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 21:04:05: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/18/2022 21:04:21: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/18/2022 21:09:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 21:09:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 21:10:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 21:10:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 21:10:35: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/18/2022 21:10:51: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/18/2022 21:11:06: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/18/2022 21:13:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 21:13:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 21:13:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 21:14:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 21:14:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 21:14:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 21:14:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 21:14:58: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/18/2022 21:15:14: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/18/2022 21:18:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 21:18:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 21:18:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 21:19:11: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/18/2022 21:19:27: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/18/2022 21:19:43: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/18/2022 21:19:58: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/18/2022 21:21:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 21:22:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 21:22:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 21:22:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 21:22:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 21:23:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 21:23:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 21:23:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 21:23:49: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/18/2022 21:24:05: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/18/2022 21:24:21: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/18/2022 21:27:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 21:27:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 21:28:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 21:28:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 21:28:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 21:28:39: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/18/2022 21:28:54: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/18/2022 21:29:10: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/18/2022 21:32:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/18/2022 21:32:46:  Guardian has detected that the market is suspended
