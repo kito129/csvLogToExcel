@@ -1,0 +1,545 @@
+3/21/2022 12:11:05: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: info = marketName: Sandgren v E Ymer - Match Odds; runnerA: Tennys Sandgren; runnerB: Elias Ymer 
+3/21/2022 12:11:05: [G_Auto 2] :  Store Value (Shared) for market: aId = 6604266
+3/21/2022 12:11:05: [G_Auto 2] :  Store Value (Shared) for market: bId = 7414305
+3/21/2022 15:04:53:  Guardian has detected that the market is in-play
+3/21/2022 15:04:53:  Guardian has detected that the market is suspended
+3/21/2022 15:05:02: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 2.14; bBsp: 1.88; volume: 5501.82 
+3/21/2022 15:05:02: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 2.14; bBsp: 1.88; volume: 5501.82 
+3/21/2022 15:05:02:  Guardian has detected that the market is now unsuspended
+3/21/2022 15:05:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 15:05:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 15:07:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 15:08:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 15:08:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 15:08:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 15:09:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 15:09:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 15:09:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 15:10:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 15:10:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 15:11:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 15:12:01: [G_Auto 1] :  € 9.09 Lay bet placed on Elias Ymer at 1.88. Fully matched at 1.88.  Ref: 10000          ( Fill or kill bet with 15 seconds delay.   )
+3/21/2022 15:12:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 15:12:08: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: aPoints = point: 0; games: 1; sets: 0 
+3/21/2022 15:12:08: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: aServing = serving:0
+3/21/2022 15:12:08: [G_Auto 2] :  Store Text Value (Shared) for Elias Ymer: bPoints = point: 0; games: 1; sets: 0 
+3/21/2022 15:12:08: [G_Auto 2] :  Store Text Value (Shared) for Elias Ymer: bServing = serving:2
+3/21/2022 15:12:08: [G_Auto 2] :  Store Value (Shared) for market: price = 1.88
+3/21/2022 15:12:08: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+3/21/2022 15:12:08: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 9.09
+3/21/2022 15:12:08: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.09
+3/21/2022 15:12:08: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 9.09
+3/21/2022 15:12:08: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.1
+3/21/2022 15:12:08: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.16
+3/21/2022 15:12:08: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.86
+3/21/2022 15:12:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 15:16:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 15:16:24: [G_Auto 1] :  Placed closure bet with greening on Elias Ymer by Backing 9.71 at 1.76
+3/21/2022 15:16:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 15:16:30: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: aPoints = point: 0; games: 1; sets: 0 
+3/21/2022 15:16:30: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: aServing = serving:1
+3/21/2022 15:16:30: [G_Auto 2] :  Store Text Value (Shared) for Elias Ymer: bPoints = point: 0; games: 2; sets: 0 
+3/21/2022 15:16:30: [G_Auto 2] :  Store Text Value (Shared) for Elias Ymer: bServing = serving:0
+3/21/2022 15:16:30: [G_Auto 2] :  Store Value (Shared) for market: price = 1.76
+3/21/2022 15:16:30: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 9.71
+3/21/2022 15:16:30: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 9.09
+3/21/2022 15:16:30: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.71
+3/21/2022 15:16:30: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 18.8
+3/21/2022 15:16:30: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.62
+3/21/2022 15:16:30: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.28
+3/21/2022 15:16:30: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.78
+3/21/2022 15:16:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 15:17:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 15:17:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 15:17:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 15:18:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 15:18:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 15:18:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 15:18:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 15:19:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 15:21:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 15:21:25: [G_Auto 1] :  € 8.89 Lay bet placed on Elias Ymer at 1.9. Fully matched at 1.9.  Ref: 10005          ( Fill or kill bet with 15 seconds delay.   )
+3/21/2022 15:21:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 15:21:31: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: aPoints = point: 0; games: 2; sets: 0 
+3/21/2022 15:21:31: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: aServing = serving:0
+3/21/2022 15:21:31: [G_Auto 2] :  Store Text Value (Shared) for Elias Ymer: bPoints = point: 0; games: 2; sets: 0 
+3/21/2022 15:21:31: [G_Auto 2] :  Store Text Value (Shared) for Elias Ymer: bServing = serving:2
+3/21/2022 15:21:31: [G_Auto 2] :  Store Value (Shared) for market: price = 1.9
+3/21/2022 15:21:31: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 9.71
+3/21/2022 15:21:31: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 17.98
+3/21/2022 15:21:31: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.89
+3/21/2022 15:21:31: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 27.69
+3/21/2022 15:21:31: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.71
+3/21/2022 15:21:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.12
+3/21/2022 15:21:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.89
+3/21/2022 15:21:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 15:22:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 15:22:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 15:23:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 15:23:50: [G_Auto 1] :  Placed closure bet with greening on Elias Ymer by Backing 9.99 at 1.69
+3/21/2022 15:23:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 15:23:57: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: aPoints = point: 0; games: 2; sets: 0 
+3/21/2022 15:23:57: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: aServing = serving:1
+3/21/2022 15:23:57: [G_Auto 2] :  Store Text Value (Shared) for Elias Ymer: bPoints = point: 0; games: 3; sets: 0 
+3/21/2022 15:23:57: [G_Auto 2] :  Store Text Value (Shared) for Elias Ymer: bServing = serving:0
+3/21/2022 15:23:57: [G_Auto 2] :  Store Value (Shared) for market: price = 1.69
+3/21/2022 15:23:57: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 19.7
+3/21/2022 15:23:57: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 17.98
+3/21/2022 15:23:57: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.99
+3/21/2022 15:23:57: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 37.68
+3/21/2022 15:23:57: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.72
+3/21/2022 15:23:57: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.48
+3/21/2022 15:23:57: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.67
+3/21/2022 15:24:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 15:24:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 15:24:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 15:25:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 15:25:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 15:25:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 15:26:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 15:29:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 15:29:58: [G_Auto 1] :  € 10.53 Lay bet placed on Elias Ymer at 1.76. Fully matched at 1.75.  Ref: 10012          ( Fill or kill bet with 15 seconds delay.   )
+3/21/2022 15:30:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 15:30:05: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: aPoints = point: 0; games: 3; sets: 0 
+3/21/2022 15:30:05: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: aServing = serving:0
+3/21/2022 15:30:05: [G_Auto 2] :  Store Text Value (Shared) for Elias Ymer: bPoints = point: 0; games: 3; sets: 0 
+3/21/2022 15:30:05: [G_Auto 2] :  Store Text Value (Shared) for Elias Ymer: bServing = serving:2
+3/21/2022 15:30:05: [G_Auto 2] :  Store Value (Shared) for market: price = 1.75
+3/21/2022 15:30:05: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 19.7
+3/21/2022 15:30:05: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 28.51
+3/21/2022 15:30:05: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.53
+3/21/2022 15:30:05: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 48.21
+3/21/2022 15:30:05: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.72
+3/21/2022 15:30:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.34
+3/21/2022 15:30:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.75
+3/21/2022 15:30:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 15:37:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 15:37:13: [G_Auto 1] :  Placed closure bet with greening on Elias Ymer by Backing 10.97 at 1.68
+3/21/2022 15:37:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 15:37:20: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: aPoints = point: 0; games: 3; sets: 0 
+3/21/2022 15:37:20: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: aServing = serving:1
+3/21/2022 15:37:20: [G_Auto 2] :  Store Text Value (Shared) for Elias Ymer: bPoints = point: 0; games: 4; sets: 0 
+3/21/2022 15:37:20: [G_Auto 2] :  Store Text Value (Shared) for Elias Ymer: bServing = serving:0
+3/21/2022 15:37:20: [G_Auto 2] :  Store Value (Shared) for market: price = 1.68
+3/21/2022 15:37:20: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 30.67
+3/21/2022 15:37:20: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 28.51
+3/21/2022 15:37:20: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.97
+3/21/2022 15:37:20: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 59.18
+3/21/2022 15:37:20: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.16
+3/21/2022 15:37:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.44
+3/21/2022 15:37:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.7
+3/21/2022 15:37:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 15:37:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 15:38:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 15:38:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 15:38:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 15:39:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 15:39:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 15:39:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 15:42:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 15:42:23: [G_Auto 1] :  € 8.89 Lay bet placed on Elias Ymer at 1.9. Fully matched at 1.9.  Ref: 10021          ( Fill or kill bet with 15 seconds delay.   )
+3/21/2022 15:42:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 15:42:30: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: aPoints = point: 0; games: 4; sets: 0 
+3/21/2022 15:42:30: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: aServing = serving:0
+3/21/2022 15:42:30: [G_Auto 2] :  Store Text Value (Shared) for Elias Ymer: bPoints = point: 0; games: 4; sets: 0 
+3/21/2022 15:42:30: [G_Auto 2] :  Store Text Value (Shared) for Elias Ymer: bServing = serving:2
+3/21/2022 15:42:30: [G_Auto 2] :  Store Value (Shared) for market: price = 1.9
+3/21/2022 15:42:30: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 30.67
+3/21/2022 15:42:30: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 37.4
+3/21/2022 15:42:30: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.89
+3/21/2022 15:42:30: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 68.07
+3/21/2022 15:42:30: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.31
+3/21/2022 15:42:30: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.12
+3/21/2022 15:42:30: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.88
+3/21/2022 15:42:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 15:44:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 15:44:48: [G_Auto 1] :  Placed closure bet with greening on Elias Ymer by Backing 9.94 at 1.7
+3/21/2022 15:44:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 15:44:54: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: aPoints = point: 0; games: 4; sets: 0 
+3/21/2022 15:44:54: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: aServing = serving:1
+3/21/2022 15:44:54: [G_Auto 2] :  Store Text Value (Shared) for Elias Ymer: bPoints = point: 0; games: 5; sets: 0 
+3/21/2022 15:44:54: [G_Auto 2] :  Store Text Value (Shared) for Elias Ymer: bServing = serving:0
+3/21/2022 15:44:54: [G_Auto 2] :  Store Value (Shared) for market: price = 1.7
+3/21/2022 15:44:54: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 40.61
+3/21/2022 15:44:54: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 37.4
+3/21/2022 15:44:54: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.94
+3/21/2022 15:44:54: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 78.01
+3/21/2022 15:44:54: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.21
+3/21/2022 15:44:54: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.44
+3/21/2022 15:44:54: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.7
+3/21/2022 15:45:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 15:45:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 15:45:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 15:46:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 15:46:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 15:46:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 15:47:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 15:48:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 15:48:52: [G_Auto 1] :  € 9.09 Lay bet placed on Elias Ymer at 1.88. Fully matched at 1.87.  Ref: 10025          ( Fill or kill bet with 15 seconds delay.   )
+3/21/2022 15:48:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 15:48:59: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: aPoints = point: 0; games: 5; sets: 0 
+3/21/2022 15:48:59: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: aServing = serving:0
+3/21/2022 15:48:59: [G_Auto 2] :  Store Text Value (Shared) for Elias Ymer: bPoints = point: 0; games: 5; sets: 0 
+3/21/2022 15:48:59: [G_Auto 2] :  Store Text Value (Shared) for Elias Ymer: bServing = serving:2
+3/21/2022 15:48:59: [G_Auto 2] :  Store Value (Shared) for market: price = 1.87
+3/21/2022 15:48:59: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 40.61
+3/21/2022 15:48:59: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 46.49
+3/21/2022 15:48:59: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.09
+3/21/2022 15:48:59: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 87.1
+3/21/2022 15:48:59: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.31
+3/21/2022 15:48:59: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.16
+3/21/2022 15:48:59: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.85
+3/21/2022 15:49:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 15:50:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 15:50:58: [G_Auto 1] :  Placed closure bet with greening on Elias Ymer by Backing 10.06 at 1.69
+3/21/2022 15:51:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 15:51:05: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: aPoints = point: 0; games: 5; sets: 0 
+3/21/2022 15:51:05: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: aServing = serving:1
+3/21/2022 15:51:05: [G_Auto 2] :  Store Text Value (Shared) for Elias Ymer: bPoints = point: 0; games: 6; sets: 0 
+3/21/2022 15:51:05: [G_Auto 2] :  Store Text Value (Shared) for Elias Ymer: bServing = serving:0
+3/21/2022 15:51:05: [G_Auto 2] :  Store Value (Shared) for market: price = 1.69
+3/21/2022 15:51:05: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 50.67
+3/21/2022 15:51:05: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 46.49
+3/21/2022 15:51:05: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.06
+3/21/2022 15:51:05: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 97.16
+3/21/2022 15:51:05: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.18
+3/21/2022 15:51:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.5
+3/21/2022 15:51:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.65
+3/21/2022 15:51:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 15:51:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 15:52:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 15:52:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 15:52:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 15:52:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 15:53:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 15:54:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 15:54:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 15:55:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 15:55:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 15:55:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 15:56:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 15:56:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 15:56:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 15:57:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 15:57:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 15:57:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 15:58:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 15:58:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 15:58:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 15:59:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 15:59:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 15:59:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 15:59:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 16:00:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 16:00:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 16:00:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 16:01:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 16:01:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 16:01:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 16:02:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 16:02:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 16:02:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 16:03:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 16:03:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 16:03:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 16:04:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 16:04:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 16:04:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 16:05:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 16:05:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 16:05:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 16:06:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 16:06:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 16:06:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 16:07:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:07:20: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 1.42
+3/21/2022 16:07:20: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 3.4
+3/21/2022 16:07:23: [G_Auto 1] :  € 18.60 Lay bet placed on Tennys Sandgren at 1.43. Fully matched at 1.42.  Ref: 10032          ( Fill or kill bet with 15 seconds delay.   )
+3/21/2022 16:07:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:07:30: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: aPoints = point: 0; games: 0; sets: 1 
+3/21/2022 16:07:30: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: aServing = serving:1
+3/21/2022 16:07:30: [G_Auto 2] :  Store Text Value (Shared) for Elias Ymer: bPoints = point: 0; games: 0; sets: 0 
+3/21/2022 16:07:30: [G_Auto 2] :  Store Text Value (Shared) for Elias Ymer: bServing = serving:0
+3/21/2022 16:07:30: [G_Auto 2] :  Store Value (Shared) for market: price = 1.42
+3/21/2022 16:07:30: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 50.67
+3/21/2022 16:07:30: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 65.09
+3/21/2022 16:07:30: [G_Auto 2] :  Store Value (Shared) for market: stake = 18.6
+3/21/2022 16:07:30: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 115.76
+3/21/2022 16:07:30: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.18
+3/21/2022 16:07:30: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.41
+3/21/2022 16:07:30: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.35
+3/21/2022 16:07:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:08:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:08:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:08:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:09:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:09:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:09:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 16:10:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 16:13:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:13:50: [G_Auto 1] :  Placed closure bet with greening on Tennys Sandgren by Backing 14.12 at 1.87
+3/21/2022 16:13:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:13:57: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: aPoints = point: 0; games: 0; sets: 1 
+3/21/2022 16:13:57: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: aServing = serving:0
+3/21/2022 16:13:57: [G_Auto 2] :  Store Text Value (Shared) for Elias Ymer: bPoints = point: 0; games: 1; sets: 0 
+3/21/2022 16:13:57: [G_Auto 2] :  Store Text Value (Shared) for Elias Ymer: bServing = serving:2
+3/21/2022 16:13:57: [G_Auto 2] :  Store Value (Shared) for market: price = 1.87
+3/21/2022 16:13:57: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 64.79
+3/21/2022 16:13:57: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 65.09
+3/21/2022 16:13:57: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.12
+3/21/2022 16:13:57: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 129.88
+3/21/2022 16:13:57: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.28
+3/21/2022 16:13:57: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.88
+3/21/2022 16:13:57: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.14
+3/21/2022 16:14:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:14:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 16:17:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:17:24: [G_Auto 1] :  € 7.84 Lay bet placed on Tennys Sandgren at 2.02. Fully matched at 2.  Ref: 10034          ( Fill or kill bet with 15 seconds delay.   )
+3/21/2022 16:17:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:17:31: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: aPoints = point: 0; games: 0; sets: 1 
+3/21/2022 16:17:31: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: aServing = serving:1
+3/21/2022 16:17:31: [G_Auto 2] :  Store Text Value (Shared) for Elias Ymer: bPoints = point: 0; games: 2; sets: 0 
+3/21/2022 16:17:31: [G_Auto 2] :  Store Text Value (Shared) for Elias Ymer: bServing = serving:0
+3/21/2022 16:17:31: [G_Auto 2] :  Store Value (Shared) for market: price = 2
+3/21/2022 16:17:31: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 64.79
+3/21/2022 16:17:31: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 72.93
+3/21/2022 16:17:31: [G_Auto 2] :  Store Value (Shared) for market: stake = 7.84
+3/21/2022 16:17:31: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 137.72
+3/21/2022 16:17:31: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.18
+3/21/2022 16:17:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2
+3/21/2022 16:17:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2
+3/21/2022 16:17:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 16:24:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:25:06: [G_Auto 1] :  Placed closure bet with greening on Tennys Sandgren by Backing 8.04 at 1.95
+3/21/2022 16:25:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:25:13: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: aPoints = point: 0; games: 1; sets: 1 
+3/21/2022 16:25:13: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: aServing = serving:0
+3/21/2022 16:25:13: [G_Auto 2] :  Store Text Value (Shared) for Elias Ymer: bPoints = point: 0; games: 2; sets: 0 
+3/21/2022 16:25:13: [G_Auto 2] :  Store Text Value (Shared) for Elias Ymer: bServing = serving:2
+3/21/2022 16:25:13: [G_Auto 2] :  Store Value (Shared) for market: price = 1.95
+3/21/2022 16:25:13: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 72.83
+3/21/2022 16:25:13: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 72.93
+3/21/2022 16:25:13: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.04
+3/21/2022 16:25:13: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 145.76
+3/21/2022 16:25:13: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.09
+3/21/2022 16:25:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.99
+3/21/2022 16:25:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.02
+3/21/2022 16:25:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:25:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:26:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:26:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:26:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:27:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:27:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 16:27:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 16:29:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:30:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:30:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:30:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 16:33:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:33:12: [G_Auto 1] :  € 9.41 Lay bet placed on Elias Ymer at 1.85. Entirely unmatched when it initially reached the market.   Ref: 10037          ( Fill or kill bet with 15 seconds delay.   )
+3/21/2022 16:33:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:33:27: [G_Auto 1] :  € 9.41 of unmatched bet (Ref:10037) was filled before remainder was killed.
+3/21/2022 16:33:27: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: aPoints = point: 0; games: 2; sets: 1 
+3/21/2022 16:33:27: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: aServing = serving:0
+3/21/2022 16:33:27: [G_Auto 2] :  Store Text Value (Shared) for Elias Ymer: bPoints = point: 0; games: 3; sets: 0 
+3/21/2022 16:33:27: [G_Auto 2] :  Store Text Value (Shared) for Elias Ymer: bServing = serving:2
+3/21/2022 16:33:27: [G_Auto 2] :  Store Value (Shared) for market: price = 1.85
+3/21/2022 16:33:27: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 72.83
+3/21/2022 16:33:27: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 82.34
+3/21/2022 16:33:27: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.41
+3/21/2022 16:33:27: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 155.17
+3/21/2022 16:33:27: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.09
+3/21/2022 16:33:27: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.18
+3/21/2022 16:33:27: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.85
+3/21/2022 16:33:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:33:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:34:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:34:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:34:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:35:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:35:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 16:35:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 16:36:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:36:50: [G_Auto 1] :  Placed closure bet with greening on Elias Ymer by Backing 10.00 at 1.74
+3/21/2022 16:36:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:36:56: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: aPoints = point: 0; games: 2; sets: 1 
+3/21/2022 16:36:56: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: aServing = serving:1
+3/21/2022 16:36:56: [G_Auto 2] :  Store Text Value (Shared) for Elias Ymer: bPoints = point: 0; games: 4; sets: 0 
+3/21/2022 16:36:56: [G_Auto 2] :  Store Text Value (Shared) for Elias Ymer: bServing = serving:0
+3/21/2022 16:36:56: [G_Auto 2] :  Store Value (Shared) for market: price = 1.74
+3/21/2022 16:36:56: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 82.83
+3/21/2022 16:36:56: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 82.34
+3/21/2022 16:36:56: [G_Auto 2] :  Store Value (Shared) for market: stake = 10
+3/21/2022 16:36:56: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 165.17
+3/21/2022 16:36:56: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.5
+3/21/2022 16:36:56: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.3
+3/21/2022 16:36:56: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.76
+3/21/2022 16:37:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:37:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 16:39:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:40:01: [G_Auto 1] :  € 14.04 Lay bet placed on Elias Ymer at 1.57. Fully matched at 1.56.  Ref: 10041          ( Fill or kill bet with 15 seconds delay.   )
+3/21/2022 16:40:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:40:07: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: aPoints = point: 0; games: 2; sets: 1 
+3/21/2022 16:40:07: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: aServing = serving:0
+3/21/2022 16:40:07: [G_Auto 2] :  Store Text Value (Shared) for Elias Ymer: bPoints = point: 0; games: 5; sets: 0 
+3/21/2022 16:40:07: [G_Auto 2] :  Store Text Value (Shared) for Elias Ymer: bServing = serving:2
+3/21/2022 16:40:07: [G_Auto 2] :  Store Value (Shared) for market: price = 1.56
+3/21/2022 16:40:07: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 82.83
+3/21/2022 16:40:07: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 96.38
+3/21/2022 16:40:07: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.04
+3/21/2022 16:40:07: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 179.21
+3/21/2022 16:40:07: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.68
+3/21/2022 16:40:07: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.84
+3/21/2022 16:40:07: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.54
+3/21/2022 16:40:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:40:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:41:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:41:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:41:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:41:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:42:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 16:44:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:44:31: [G_Auto 2] :  Store Value (Shared) for market: aSecondSetPrice = 3.15
+3/21/2022 16:44:31: [G_Auto 2] :  Store Value (Shared) for market: bSecondSetPrice = 1.46
+3/21/2022 16:44:34: [G_Auto 1] :  Placed closure bet with greening on Elias Ymer by Backing 15.00 at 1.46
+3/21/2022 16:44:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:44:41: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: aPoints = point: 0; games: 0; sets: 1 
+3/21/2022 16:44:41: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: aServing = serving:1
+3/21/2022 16:44:41: [G_Auto 2] :  Store Text Value (Shared) for Elias Ymer: bPoints = point: 0; games: 0; sets: 1 
+3/21/2022 16:44:41: [G_Auto 2] :  Store Text Value (Shared) for Elias Ymer: bServing = serving:0
+3/21/2022 16:44:41: [G_Auto 2] :  Store Value (Shared) for market: price = 1.46
+3/21/2022 16:44:41: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 97.83
+3/21/2022 16:44:41: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 96.38
+3/21/2022 16:44:41: [G_Auto 2] :  Store Value (Shared) for market: stake = 15
+3/21/2022 16:44:41: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 194.21
+3/21/2022 16:44:41: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.46
+3/21/2022 16:44:41: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.1
+3/21/2022 16:44:41: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.47
+3/21/2022 16:44:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:45:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:45:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:45:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:46:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:46:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:46:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:47:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:47:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:47:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:48:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:48:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:48:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:48:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:49:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:49:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:49:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:50:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:50:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:50:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:51:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:51:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:51:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:51:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:52:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:52:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 16:53:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:53:20: [G_Auto 1] :  € 11.94 Lay bet placed on Elias Ymer at 1.67. Fully matched at 1.66.  Ref: 10053          ( Fill or kill bet with 15 seconds delay.   )
+3/21/2022 16:53:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:53:26: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: aPoints = point: 0; games: 1; sets: 1 
+3/21/2022 16:53:26: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: aServing = serving:0
+3/21/2022 16:53:26: [G_Auto 2] :  Store Text Value (Shared) for Elias Ymer: bPoints = point: 0; games: 0; sets: 1 
+3/21/2022 16:53:26: [G_Auto 2] :  Store Text Value (Shared) for Elias Ymer: bServing = serving:2
+3/21/2022 16:53:26: [G_Auto 2] :  Store Value (Shared) for market: price = 1.66
+3/21/2022 16:53:26: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 97.83
+3/21/2022 16:53:26: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 108.32
+3/21/2022 16:53:26: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.94
+3/21/2022 16:53:26: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 206.15
+3/21/2022 16:53:26: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.61
+3/21/2022 16:53:26: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.52
+3/21/2022 16:53:26: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.65
+3/21/2022 16:53:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:54:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 16:54:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 16:55:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:55:18: [G_Auto 1] :  Placed closure bet with greening on Elias Ymer by Backing 13.13 at 1.51
+3/21/2022 16:55:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:55:24: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: aPoints = point: 0; games: 1; sets: 1 
+3/21/2022 16:55:24: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: aServing = serving:1
+3/21/2022 16:55:24: [G_Auto 2] :  Store Text Value (Shared) for Elias Ymer: bPoints = point: 0; games: 1; sets: 1 
+3/21/2022 16:55:24: [G_Auto 2] :  Store Text Value (Shared) for Elias Ymer: bServing = serving:0
+3/21/2022 16:55:24: [G_Auto 2] :  Store Value (Shared) for market: price = 1.51
+3/21/2022 16:55:24: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 110.96
+3/21/2022 16:55:24: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 108.32
+3/21/2022 16:55:24: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.13
+3/21/2022 16:55:24: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 219.28
+3/21/2022 16:55:24: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.65
+3/21/2022 16:55:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.96
+3/21/2022 16:55:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.52
+3/21/2022 16:55:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:56:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 16:56:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 16:56:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 16:59:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 17:00:09: [G_Auto 1] :  € 40.00 Lay bet placed on Elias Ymer at 1.2. Fully matched at 1.19.  Ref: 10062          ( Fill or kill bet with 15 seconds delay.   )
+3/21/2022 17:00:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 17:00:15: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: aPoints = point: 0; games: 1; sets: 1 
+3/21/2022 17:00:15: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: aServing = serving:0
+3/21/2022 17:00:15: [G_Auto 2] :  Store Text Value (Shared) for Elias Ymer: bPoints = point: 0; games: 2; sets: 1 
+3/21/2022 17:00:15: [G_Auto 2] :  Store Text Value (Shared) for Elias Ymer: bServing = serving:2
+3/21/2022 17:00:15: [G_Auto 2] :  Store Value (Shared) for market: price = 1.19
+3/21/2022 17:00:15: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 110.96
+3/21/2022 17:00:15: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 148.32
+3/21/2022 17:00:15: [G_Auto 2] :  Store Value (Shared) for market: stake = 40
+3/21/2022 17:00:15: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 259.28
+3/21/2022 17:00:15: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.68
+3/21/2022 17:00:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 6.8
+3/21/2022 17:00:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.17
+3/21/2022 17:00:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 17:00:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 17:01:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 17:01:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 17:01:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 17:02:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 17:02:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 17:03:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 17:03:57: [G_Auto 1] :  Placed closure bet with greening on Elias Ymer by Backing 43.67 at 1.09
+3/21/2022 17:04:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 17:04:03: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: aPoints = point: 0; games: 1; sets: 1 
+3/21/2022 17:04:03: [G_Auto 2] :  Store Text Value (Shared) for Tennys Sandgren: aServing = serving:1
+3/21/2022 17:04:03: [G_Auto 2] :  Store Text Value (Shared) for Elias Ymer: bPoints = point: 0; games: 3; sets: 1 
+3/21/2022 17:04:03: [G_Auto 2] :  Store Text Value (Shared) for Elias Ymer: bServing = serving:0
+3/21/2022 17:04:03: [G_Auto 2] :  Store Value (Shared) for market: price = 1.09
+3/21/2022 17:04:03: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 154.63
+3/21/2022 17:04:03: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 148.32
+3/21/2022 17:04:03: [G_Auto 2] :  Store Value (Shared) for market: stake = 43.67
+3/21/2022 17:04:03: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 302.95
+3/21/2022 17:04:03: [G_Auto 2] :  Store Value (Shared) for market: pl = -6.32
+3/21/2022 17:04:03: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 11
+3/21/2022 17:04:03: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.09
+3/21/2022 17:04:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 17:04:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 17:04:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 17:05:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 17:06:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 17:06:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 17:06:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 17:07:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 17:07:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 17:07:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 17:08:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 17:08:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 17:08:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 17:08:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 17:10:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 17:10:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 17:10:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 17:13:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 17:14:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 17:14:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 17:14:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 17:15:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 17:15:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 17:15:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/21/2022 17:15:55: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 17:16:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/21/2022 17:20:22:  Guardian has detected that the market is suspended

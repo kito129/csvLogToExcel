@@ -1,0 +1,567 @@
+3/22/2022 14:37:08: [G_Auto 2] :  Store Text Value (Shared) for Alison Van Uytvanck: info = marketName: Van Uytvanck v Kostyuk - Match Odds; runnerA: Alison Van Uytvanck; runnerB: Marta Kostyuk 
+3/22/2022 14:37:08: [G_Auto 2] :  Store Value (Shared) for market: aId = 5548385
+3/22/2022 14:37:08: [G_Auto 2] :  Store Value (Shared) for market: bId = 11694656
+3/22/2022 16:09:19:  Guardian has detected that the market is in-play
+3/22/2022 16:09:19:  Guardian has detected that the market is suspended
+3/22/2022 16:09:26: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 2.24; bBsp: 1.78; volume: 14375.84 
+3/22/2022 16:09:26: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 2.24; bBsp: 1.78; volume: 14375.84 
+3/22/2022 16:09:26:  Guardian has detected that the market is now unsuspended
+3/22/2022 16:09:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 16:09:55: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 16:11:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 16:12:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 16:12:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 16:12:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 16:13:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 16:13:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 16:15:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 16:16:08: [G_Auto 1] :  € 19.05 Lay bet placed on Marta Kostyuk at 1.42. Fully matched at 1.42.  Ref: 10650          ( Fill or kill bet with 15 seconds delay.   )
+3/22/2022 16:16:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 16:16:12: [G_Auto 2] :  Store Text Value (Shared) for Alison Van Uytvanck: aPoints = point: 0; games: 0; sets: 0 
+3/22/2022 16:16:12: [G_Auto 2] :  Store Text Value (Shared) for Alison Van Uytvanck: aServing = serving:0
+3/22/2022 16:16:12: [G_Auto 2] :  Store Text Value (Shared) for Marta Kostyuk: bPoints = point: 0; games: 2; sets: 0 
+3/22/2022 16:16:12: [G_Auto 2] :  Store Text Value (Shared) for Marta Kostyuk: bServing = serving:2
+3/22/2022 16:16:12: [G_Auto 2] :  Store Value (Shared) for market: price = 1.42
+3/22/2022 16:16:12: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+3/22/2022 16:16:12: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 19.05
+3/22/2022 16:16:12: [G_Auto 2] :  Store Value (Shared) for market: stake = 19.05
+3/22/2022 16:16:12: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 19.05
+3/22/2022 16:16:12: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.14
+3/22/2022 16:16:12: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.35
+3/22/2022 16:16:12: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.42
+3/22/2022 16:16:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 16:16:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 16:17:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 16:20:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 16:20:23: [G_Auto 1] :  Placed closure bet with greening on Marta Kostyuk by Backing 19.89 at 1.36
+3/22/2022 16:20:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 16:20:27: [G_Auto 2] :  Store Text Value (Shared) for Alison Van Uytvanck: aPoints = point: 0; games: 0; sets: 0 
+3/22/2022 16:20:27: [G_Auto 2] :  Store Text Value (Shared) for Alison Van Uytvanck: aServing = serving:1
+3/22/2022 16:20:27: [G_Auto 2] :  Store Text Value (Shared) for Marta Kostyuk: bPoints = point: 0; games: 3; sets: 0 
+3/22/2022 16:20:27: [G_Auto 2] :  Store Text Value (Shared) for Marta Kostyuk: bServing = serving:0
+3/22/2022 16:20:27: [G_Auto 2] :  Store Value (Shared) for market: price = 1.36
+3/22/2022 16:20:27: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 19.89
+3/22/2022 16:20:27: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 19.05
+3/22/2022 16:20:27: [G_Auto 2] :  Store Value (Shared) for market: stake = 19.89
+3/22/2022 16:20:27: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 38.94
+3/22/2022 16:20:27: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.84
+3/22/2022 16:20:27: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.6
+3/22/2022 16:20:27: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.35
+3/22/2022 16:20:34: [G_Auto 2] :  Store Text Value (Shared) for Alison Van Uytvanck: aPoints = point: 0; games: 0; sets: 0 
+3/22/2022 16:20:34: [G_Auto 2] :  Store Text Value (Shared) for Alison Van Uytvanck: aServing = serving:1
+3/22/2022 16:20:34: [G_Auto 2] :  Store Text Value (Shared) for Marta Kostyuk: bPoints = point: 0; games: 3; sets: 0 
+3/22/2022 16:20:34: [G_Auto 2] :  Store Text Value (Shared) for Marta Kostyuk: bServing = serving:0
+3/22/2022 16:20:34: [G_Auto 2] :  Store Value (Shared) for market: price = 1.36
+3/22/2022 16:20:34: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 19.89
+3/22/2022 16:20:34: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 19.05
+3/22/2022 16:20:34: [G_Auto 2] :  Store Value (Shared) for market: stake = 19.89
+3/22/2022 16:20:34: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 38.94
+3/22/2022 16:20:34: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.84
+3/22/2022 16:20:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.9
+3/22/2022 16:20:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.37
+3/22/2022 16:20:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 16:21:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 16:21:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 16:21:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 16:22:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 16:22:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 16:24:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 16:24:43: [G_Auto 1] :  € 17.39 Lay bet placed on Marta Kostyuk at 1.46. Fully matched at 1.45.  Ref: 10667          ( Fill or kill bet with 15 seconds delay.   )
+3/22/2022 16:24:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 16:24:47: [G_Auto 2] :  Store Text Value (Shared) for Alison Van Uytvanck: aPoints = point: 0; games: 1; sets: 0 
+3/22/2022 16:24:47: [G_Auto 2] :  Store Text Value (Shared) for Alison Van Uytvanck: aServing = serving:0
+3/22/2022 16:24:47: [G_Auto 2] :  Store Text Value (Shared) for Marta Kostyuk: bPoints = point: 0; games: 3; sets: 0 
+3/22/2022 16:24:47: [G_Auto 2] :  Store Text Value (Shared) for Marta Kostyuk: bServing = serving:2
+3/22/2022 16:24:47: [G_Auto 2] :  Store Value (Shared) for market: price = 1.45
+3/22/2022 16:24:47: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 19.89
+3/22/2022 16:24:47: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 36.44
+3/22/2022 16:24:47: [G_Auto 2] :  Store Value (Shared) for market: stake = 17.39
+3/22/2022 16:24:47: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 56.33
+3/22/2022 16:24:47: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.84
+3/22/2022 16:24:47: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.3
+3/22/2022 16:24:47: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.45
+3/22/2022 16:24:54: [G_Auto 2] :  Store Text Value (Shared) for Alison Van Uytvanck: aPoints = point: 0; games: 1; sets: 0 
+3/22/2022 16:24:54: [G_Auto 2] :  Store Text Value (Shared) for Alison Van Uytvanck: aServing = serving:0
+3/22/2022 16:24:54: [G_Auto 2] :  Store Text Value (Shared) for Marta Kostyuk: bPoints = point: 0; games: 3; sets: 0 
+3/22/2022 16:24:54: [G_Auto 2] :  Store Text Value (Shared) for Marta Kostyuk: bServing = serving:2
+3/22/2022 16:24:54: [G_Auto 2] :  Store Value (Shared) for market: price = 1.45
+3/22/2022 16:24:54: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 19.89
+3/22/2022 16:24:54: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 36.44
+3/22/2022 16:24:54: [G_Auto 2] :  Store Value (Shared) for market: stake = 17.39
+3/22/2022 16:24:54: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 56.33
+3/22/2022 16:24:54: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.72
+3/22/2022 16:24:54: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.3
+3/22/2022 16:24:54: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.45
+3/22/2022 16:25:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 16:25:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 16:27:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 16:27:59: [G_Auto 1] :  Placed closure bet with greening on Marta Kostyuk by Backing 14.75 at 1.71
+3/22/2022 16:28:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 16:28:03: [G_Auto 2] :  Store Text Value (Shared) for Alison Van Uytvanck: aPoints = point: 0; games: 2; sets: 0 
+3/22/2022 16:28:03: [G_Auto 2] :  Store Text Value (Shared) for Alison Van Uytvanck: aServing = serving:1
+3/22/2022 16:28:03: [G_Auto 2] :  Store Text Value (Shared) for Marta Kostyuk: bPoints = point: 0; games: 3; sets: 0 
+3/22/2022 16:28:03: [G_Auto 2] :  Store Text Value (Shared) for Marta Kostyuk: bServing = serving:0
+3/22/2022 16:28:03: [G_Auto 2] :  Store Value (Shared) for market: price = 1.71
+3/22/2022 16:28:03: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 34.64
+3/22/2022 16:28:03: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 36.44
+3/22/2022 16:28:03: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.75
+3/22/2022 16:28:03: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 71.08
+3/22/2022 16:28:03: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.76
+3/22/2022 16:28:03: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.38
+3/22/2022 16:28:03: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.71
+3/22/2022 16:28:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 16:28:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 16:29:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 16:29:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 16:29:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 16:30:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 16:31:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 16:31:45: [G_Auto 1] :  € 8.16 Lay bet placed on Marta Kostyuk at 1.98. Entirely unmatched when it initially reached the market.   Ref: 10678          ( Fill or kill bet with 15 seconds delay.   )
+3/22/2022 16:31:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 16:31:57: [G_Auto 2] :  Store Text Value (Shared) for Alison Van Uytvanck: aPoints = point: 0; games: 3; sets: 0 
+3/22/2022 16:31:57: [G_Auto 2] :  Store Text Value (Shared) for Alison Van Uytvanck: aServing = serving:0
+3/22/2022 16:31:57: [G_Auto 2] :  Store Text Value (Shared) for Marta Kostyuk: bPoints = point: 0; games: 3; sets: 0 
+3/22/2022 16:31:57: [G_Auto 2] :  Store Text Value (Shared) for Marta Kostyuk: bServing = serving:2
+3/22/2022 16:31:57: [G_Auto 2] :  Store Value (Shared) for market: price = 1.98
+3/22/2022 16:31:57: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 34.64
+3/22/2022 16:31:57: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 44.6
+3/22/2022 16:31:57: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.16
+3/22/2022 16:31:57: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 79.24
+3/22/2022 16:31:57: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.65
+3/22/2022 16:31:57: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2
+3/22/2022 16:31:57: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.99
+3/22/2022 16:31:57: [G_Auto 1] :  € 8.16 of unmatched bet (Ref:10678) was filled before remainder was killed.
+3/22/2022 16:32:04: [G_Auto 2] :  Store Text Value (Shared) for Alison Van Uytvanck: aPoints = point: 0; games: 3; sets: 0 
+3/22/2022 16:32:04: [G_Auto 2] :  Store Text Value (Shared) for Alison Van Uytvanck: aServing = serving:0
+3/22/2022 16:32:04: [G_Auto 2] :  Store Text Value (Shared) for Marta Kostyuk: bPoints = point: 0; games: 3; sets: 0 
+3/22/2022 16:32:04: [G_Auto 2] :  Store Text Value (Shared) for Marta Kostyuk: bServing = serving:2
+3/22/2022 16:32:04: [G_Auto 2] :  Store Value (Shared) for market: price = 1.98
+3/22/2022 16:32:04: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 34.64
+3/22/2022 16:32:04: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 44.6
+3/22/2022 16:32:04: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.16
+3/22/2022 16:32:04: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 79.24
+3/22/2022 16:32:04: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.69
+3/22/2022 16:32:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.04
+3/22/2022 16:32:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.96
+3/22/2022 16:32:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 16:32:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 16:34:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 16:34:24: [G_Auto 1] :  Placed closure bet with greening on Marta Kostyuk by Backing 5.77 at 2.8
+3/22/2022 16:34:24: [G_Auto 1] :  € 14.29 Lay bet placed on Alison Van Uytvanck at 1.56. Fully matched at 1.55.  Ref: 10683          ( Fill or kill bet with 15 seconds delay.   )
+3/22/2022 16:34:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 16:34:29: [G_Auto 2] :  Store Text Value (Shared) for Alison Van Uytvanck: aPoints = point: 0; games: 4; sets: 0 
+3/22/2022 16:34:29: [G_Auto 2] :  Store Text Value (Shared) for Alison Van Uytvanck: aServing = serving:1
+3/22/2022 16:34:29: [G_Auto 2] :  Store Text Value (Shared) for Marta Kostyuk: bPoints = point: 0; games: 3; sets: 0 
+3/22/2022 16:34:29: [G_Auto 2] :  Store Text Value (Shared) for Marta Kostyuk: bServing = serving:0
+3/22/2022 16:34:29: [G_Auto 2] :  Store Value (Shared) for market: price = 2.8
+3/22/2022 16:34:29: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 40.41
+3/22/2022 16:34:29: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 58.89
+3/22/2022 16:34:29: [G_Auto 2] :  Store Value (Shared) for market: stake = 5.77
+3/22/2022 16:34:29: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 99.3
+3/22/2022 16:34:29: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.02
+3/22/2022 16:34:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.55
+3/22/2022 16:34:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.88
+3/22/2022 16:34:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 16:35:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 16:35:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 16:35:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 16:36:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 16:36:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 16:39:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 16:39:21: [G_Auto 1] :  Placed closure bet with greening on Alison Van Uytvanck by Backing 15.93 at 1.39
+3/22/2022 16:39:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 16:39:25: [G_Auto 2] :  Store Text Value (Shared) for Alison Van Uytvanck: aPoints = point: 0; games: 5; sets: 0 
+3/22/2022 16:39:25: [G_Auto 2] :  Store Text Value (Shared) for Alison Van Uytvanck: aServing = serving:0
+3/22/2022 16:39:25: [G_Auto 2] :  Store Text Value (Shared) for Marta Kostyuk: bPoints = point: 0; games: 3; sets: 0 
+3/22/2022 16:39:25: [G_Auto 2] :  Store Text Value (Shared) for Marta Kostyuk: bServing = serving:2
+3/22/2022 16:39:25: [G_Auto 2] :  Store Value (Shared) for market: price = 1.39
+3/22/2022 16:39:25: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 56.34
+3/22/2022 16:39:25: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 58.89
+3/22/2022 16:39:25: [G_Auto 2] :  Store Value (Shared) for market: stake = 15.93
+3/22/2022 16:39:25: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 115.23
+3/22/2022 16:39:25: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.49
+3/22/2022 16:39:25: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.4
+3/22/2022 16:39:25: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.55
+3/22/2022 16:39:32: [G_Auto 2] :  Store Text Value (Shared) for Alison Van Uytvanck: aPoints = point: 0; games: 5; sets: 0 
+3/22/2022 16:39:32: [G_Auto 2] :  Store Text Value (Shared) for Alison Van Uytvanck: aServing = serving:0
+3/22/2022 16:39:32: [G_Auto 2] :  Store Text Value (Shared) for Marta Kostyuk: bPoints = point: 0; games: 3; sets: 0 
+3/22/2022 16:39:32: [G_Auto 2] :  Store Text Value (Shared) for Marta Kostyuk: bServing = serving:2
+3/22/2022 16:39:32: [G_Auto 2] :  Store Value (Shared) for market: price = 1.39
+3/22/2022 16:39:32: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 56.34
+3/22/2022 16:39:32: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 58.89
+3/22/2022 16:39:32: [G_Auto 2] :  Store Value (Shared) for market: stake = 15.93
+3/22/2022 16:39:32: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 115.23
+3/22/2022 16:39:32: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.49
+3/22/2022 16:39:32: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.4
+3/22/2022 16:39:32: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.55
+3/22/2022 16:39:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 16:40:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 16:41:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 16:42:15: [G_Auto 1] :  € 15.69 Lay bet placed on Alison Van Uytvanck at 1.51. Fully matched at 1.5.  Ref: 10695          ( Fill or kill bet with 15 seconds delay.   )
+3/22/2022 16:42:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 16:42:19: [G_Auto 2] :  Store Text Value (Shared) for Alison Van Uytvanck: aPoints = point: 0; games: 5; sets: 0 
+3/22/2022 16:42:19: [G_Auto 2] :  Store Text Value (Shared) for Alison Van Uytvanck: aServing = serving:1
+3/22/2022 16:42:19: [G_Auto 2] :  Store Text Value (Shared) for Marta Kostyuk: bPoints = point: 0; games: 4; sets: 0 
+3/22/2022 16:42:19: [G_Auto 2] :  Store Text Value (Shared) for Marta Kostyuk: bServing = serving:0
+3/22/2022 16:42:19: [G_Auto 2] :  Store Value (Shared) for market: price = 1.5
+3/22/2022 16:42:19: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 56.34
+3/22/2022 16:42:19: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 74.58
+3/22/2022 16:42:19: [G_Auto 2] :  Store Value (Shared) for market: stake = 15.69
+3/22/2022 16:42:19: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 130.92
+3/22/2022 16:42:19: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.39
+3/22/2022 16:42:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.51
+3/22/2022 16:42:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.05
+3/22/2022 16:42:26: [G_Auto 2] :  Store Text Value (Shared) for Alison Van Uytvanck: aPoints = point: 0; games: 5; sets: 0 
+3/22/2022 16:42:26: [G_Auto 2] :  Store Text Value (Shared) for Alison Van Uytvanck: aServing = serving:1
+3/22/2022 16:42:26: [G_Auto 2] :  Store Text Value (Shared) for Marta Kostyuk: bPoints = point: 0; games: 4; sets: 0 
+3/22/2022 16:42:26: [G_Auto 2] :  Store Text Value (Shared) for Marta Kostyuk: bServing = serving:0
+3/22/2022 16:42:26: [G_Auto 2] :  Store Value (Shared) for market: price = 1.5
+3/22/2022 16:42:26: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 56.34
+3/22/2022 16:42:26: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 74.58
+3/22/2022 16:42:26: [G_Auto 2] :  Store Value (Shared) for market: stake = 15.69
+3/22/2022 16:42:26: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 130.92
+3/22/2022 16:42:26: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.5
+3/22/2022 16:42:26: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.5
+3/22/2022 16:42:26: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.96
+3/22/2022 16:42:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 16:43:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 16:43:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 16:43:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 16:44:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 16:44:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 16:46:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 16:47:02: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 1.33
+3/22/2022 16:47:02: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 3.85
+3/22/2022 16:47:05: [G_Auto 1] :  Placed closure bet with greening on Alison Van Uytvanck by Backing 17.70 at 1.33
+3/22/2022 16:47:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 16:47:09: [G_Auto 2] :  Store Text Value (Shared) for Alison Van Uytvanck: aPoints = point: 0; games: 0; sets: 1 
+3/22/2022 16:47:09: [G_Auto 2] :  Store Text Value (Shared) for Alison Van Uytvanck: aServing = serving:0
+3/22/2022 16:47:09: [G_Auto 2] :  Store Text Value (Shared) for Marta Kostyuk: bPoints = point: 0; games: 0; sets: 0 
+3/22/2022 16:47:09: [G_Auto 2] :  Store Text Value (Shared) for Marta Kostyuk: bServing = serving:2
+3/22/2022 16:47:09: [G_Auto 2] :  Store Value (Shared) for market: price = 1.33
+3/22/2022 16:47:09: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 74.04
+3/22/2022 16:47:09: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 74.58
+3/22/2022 16:47:09: [G_Auto 2] :  Store Value (Shared) for market: stake = 17.7
+3/22/2022 16:47:09: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 148.62
+3/22/2022 16:47:09: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.53
+3/22/2022 16:47:09: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.35
+3/22/2022 16:47:09: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.85
+3/22/2022 16:47:16: [G_Auto 2] :  Store Text Value (Shared) for Alison Van Uytvanck: aPoints = point: 0; games: 0; sets: 1 
+3/22/2022 16:47:16: [G_Auto 2] :  Store Text Value (Shared) for Alison Van Uytvanck: aServing = serving:0
+3/22/2022 16:47:16: [G_Auto 2] :  Store Text Value (Shared) for Marta Kostyuk: bPoints = point: 0; games: 0; sets: 0 
+3/22/2022 16:47:16: [G_Auto 2] :  Store Text Value (Shared) for Marta Kostyuk: bServing = serving:2
+3/22/2022 16:47:16: [G_Auto 2] :  Store Value (Shared) for market: price = 1.33
+3/22/2022 16:47:16: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 74.04
+3/22/2022 16:47:16: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 74.58
+3/22/2022 16:47:16: [G_Auto 2] :  Store Value (Shared) for market: stake = 17.7
+3/22/2022 16:47:16: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 148.62
+3/22/2022 16:47:16: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.53
+3/22/2022 16:47:16: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.34
+3/22/2022 16:47:16: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.95
+3/22/2022 16:47:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 16:47:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 16:48:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 16:48:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 16:48:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 16:49:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 16:49:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 16:49:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 16:55:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 16:56:09: [G_Auto 1] :  € 38.10 Lay bet placed on Alison Van Uytvanck at 1.21. Fully matched at 1.2.  Ref: 10718          ( Fill or kill bet with 15 seconds delay.   )
+3/22/2022 16:56:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 16:56:13: [G_Auto 2] :  Store Text Value (Shared) for Alison Van Uytvanck: aPoints = point: 0; games: 1; sets: 1 
+3/22/2022 16:56:13: [G_Auto 2] :  Store Text Value (Shared) for Alison Van Uytvanck: aServing = serving:1
+3/22/2022 16:56:13: [G_Auto 2] :  Store Text Value (Shared) for Marta Kostyuk: bPoints = point: 0; games: 0; sets: 0 
+3/22/2022 16:56:13: [G_Auto 2] :  Store Text Value (Shared) for Marta Kostyuk: bServing = serving:0
+3/22/2022 16:56:13: [G_Auto 2] :  Store Value (Shared) for market: price = 1.2
+3/22/2022 16:56:13: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 74.04
+3/22/2022 16:56:13: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 112.68
+3/22/2022 16:56:13: [G_Auto 2] :  Store Value (Shared) for market: stake = 38.1
+3/22/2022 16:56:13: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 186.72
+3/22/2022 16:56:13: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.11
+3/22/2022 16:56:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.19
+3/22/2022 16:56:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 6.2
+3/22/2022 16:56:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 16:56:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 16:57:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 16:57:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 16:59:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 16:59:32: [G_Auto 1] :  Placed closure bet with greening on Alison Van Uytvanck by Backing 33.37 at 1.37
+3/22/2022 16:59:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 16:59:36: [G_Auto 2] :  Store Text Value (Shared) for Alison Van Uytvanck: aPoints = point: 0; games: 1; sets: 1 
+3/22/2022 16:59:36: [G_Auto 2] :  Store Text Value (Shared) for Alison Van Uytvanck: aServing = serving:0
+3/22/2022 16:59:36: [G_Auto 2] :  Store Text Value (Shared) for Marta Kostyuk: bPoints = point: 0; games: 1; sets: 0 
+3/22/2022 16:59:36: [G_Auto 2] :  Store Text Value (Shared) for Marta Kostyuk: bServing = serving:2
+3/22/2022 16:59:36: [G_Auto 2] :  Store Value (Shared) for market: price = 1.37
+3/22/2022 16:59:36: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 107.41
+3/22/2022 16:59:36: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 112.68
+3/22/2022 16:59:36: [G_Auto 2] :  Store Value (Shared) for market: stake = 33.37
+3/22/2022 16:59:36: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 220.09
+3/22/2022 16:59:36: [G_Auto 2] :  Store Value (Shared) for market: pl = 5.16
+3/22/2022 16:59:36: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.38
+3/22/2022 16:59:36: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.65
+3/22/2022 16:59:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:00:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 17:00:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 17:01:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:01:43: [G_Auto 1] :  € 13.79 Lay bet placed on Alison Van Uytvanck at 1.58. Fully matched at 1.57.  Ref: 10725          ( Fill or kill bet with 15 seconds delay.   )
+3/22/2022 17:01:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:01:47: [G_Auto 2] :  Store Text Value (Shared) for Alison Van Uytvanck: aPoints = point: 0; games: 1; sets: 1 
+3/22/2022 17:01:47: [G_Auto 2] :  Store Text Value (Shared) for Alison Van Uytvanck: aServing = serving:1
+3/22/2022 17:01:47: [G_Auto 2] :  Store Text Value (Shared) for Marta Kostyuk: bPoints = point: 0; games: 2; sets: 0 
+3/22/2022 17:01:47: [G_Auto 2] :  Store Text Value (Shared) for Marta Kostyuk: bServing = serving:0
+3/22/2022 17:01:47: [G_Auto 2] :  Store Value (Shared) for market: price = 1.57
+3/22/2022 17:01:47: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 107.41
+3/22/2022 17:01:47: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 126.47
+3/22/2022 17:01:47: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.79
+3/22/2022 17:01:47: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 233.88
+3/22/2022 17:01:47: [G_Auto 2] :  Store Value (Shared) for market: pl = 5.08
+3/22/2022 17:01:47: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.56
+3/22/2022 17:01:47: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.76
+3/22/2022 17:02:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:02:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:02:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:03:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:03:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:03:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:04:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:06:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:06:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:07:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:07:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 17:09:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 17:11:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:11:49: [G_Auto 1] :  € 14.29 Lay bet placed on Alison Van Uytvanck at 1.56. Fully matched at 1.55.  Ref: 10736          ( Fill or kill bet with 15 seconds delay.   )
+3/22/2022 17:11:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:11:54: [G_Auto 2] :  Store Text Value (Shared) for Alison Van Uytvanck: aPoints = point: 0; games: 2; sets: 1 
+3/22/2022 17:11:54: [G_Auto 2] :  Store Text Value (Shared) for Alison Van Uytvanck: aServing = serving:1
+3/22/2022 17:11:54: [G_Auto 2] :  Store Text Value (Shared) for Marta Kostyuk: bPoints = point: 0; games: 3; sets: 0 
+3/22/2022 17:11:54: [G_Auto 2] :  Store Text Value (Shared) for Marta Kostyuk: bServing = serving:0
+3/22/2022 17:11:54: [G_Auto 2] :  Store Value (Shared) for market: price = 1.55
+3/22/2022 17:11:54: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 107.41
+3/22/2022 17:11:54: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 140.76
+3/22/2022 17:11:54: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.29
+3/22/2022 17:11:54: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 248.17
+3/22/2022 17:11:54: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.63
+3/22/2022 17:11:54: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.55
+3/22/2022 17:11:54: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.86
+3/22/2022 17:12:01: [G_Auto 2] :  Store Text Value (Shared) for Alison Van Uytvanck: aPoints = point: 0; games: 2; sets: 1 
+3/22/2022 17:12:01: [G_Auto 2] :  Store Text Value (Shared) for Alison Van Uytvanck: aServing = serving:1
+3/22/2022 17:12:01: [G_Auto 2] :  Store Text Value (Shared) for Marta Kostyuk: bPoints = point: 0; games: 3; sets: 0 
+3/22/2022 17:12:01: [G_Auto 2] :  Store Text Value (Shared) for Marta Kostyuk: bServing = serving:0
+3/22/2022 17:12:01: [G_Auto 2] :  Store Value (Shared) for market: price = 1.55
+3/22/2022 17:12:01: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 107.41
+3/22/2022 17:12:01: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 140.76
+3/22/2022 17:12:01: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.29
+3/22/2022 17:12:01: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 248.17
+3/22/2022 17:12:01: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.81
+3/22/2022 17:12:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.54
+3/22/2022 17:12:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.8
+3/22/2022 17:12:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:12:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:12:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:13:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:13:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 17:14:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 17:15:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:16:00: [G_Auto 1] :  Placed closure bet with greening on Alison Van Uytvanck by Backing 22.46 at 1.95
+3/22/2022 17:16:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:16:04: [G_Auto 2] :  Store Text Value (Shared) for Alison Van Uytvanck: aPoints = point: 0; games: 2; sets: 1 
+3/22/2022 17:16:04: [G_Auto 2] :  Store Text Value (Shared) for Alison Van Uytvanck: aServing = serving:0
+3/22/2022 17:16:04: [G_Auto 2] :  Store Text Value (Shared) for Marta Kostyuk: bPoints = point: 0; games: 4; sets: 0 
+3/22/2022 17:16:04: [G_Auto 2] :  Store Text Value (Shared) for Marta Kostyuk: bServing = serving:2
+3/22/2022 17:16:04: [G_Auto 2] :  Store Value (Shared) for market: price = 1.95
+3/22/2022 17:16:04: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 129.87
+3/22/2022 17:16:04: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 140.76
+3/22/2022 17:16:04: [G_Auto 2] :  Store Value (Shared) for market: stake = 22.46
+3/22/2022 17:16:04: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 270.63
+3/22/2022 17:16:04: [G_Auto 2] :  Store Value (Shared) for market: pl = 10.66
+3/22/2022 17:16:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2
+3/22/2022 17:16:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2
+3/22/2022 17:16:10: [G_Auto 2] :  Store Text Value (Shared) for Alison Van Uytvanck: aPoints = point: 0; games: 2; sets: 1 
+3/22/2022 17:16:10: [G_Auto 2] :  Store Text Value (Shared) for Alison Van Uytvanck: aServing = serving:0
+3/22/2022 17:16:10: [G_Auto 2] :  Store Text Value (Shared) for Marta Kostyuk: bPoints = point: 0; games: 4; sets: 0 
+3/22/2022 17:16:10: [G_Auto 2] :  Store Text Value (Shared) for Marta Kostyuk: bServing = serving:2
+3/22/2022 17:16:10: [G_Auto 2] :  Store Value (Shared) for market: price = 1.95
+3/22/2022 17:16:10: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 129.87
+3/22/2022 17:16:10: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 140.76
+3/22/2022 17:16:10: [G_Auto 2] :  Store Value (Shared) for market: stake = 22.46
+3/22/2022 17:16:10: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 270.63
+3/22/2022 17:16:10: [G_Auto 2] :  Store Value (Shared) for market: pl = 10.66
+3/22/2022 17:16:10: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.98
+3/22/2022 17:16:10: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.02
+3/22/2022 17:16:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:16:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 17:16:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 17:18:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:18:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:18:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:19:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:19:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:19:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:20:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 17:20:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 17:22:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:22:40: [G_Auto 2] :  Store Value (Shared) for market: aSecondSetPrice = 2.68
+3/22/2022 17:22:40: [G_Auto 2] :  Store Value (Shared) for market: bSecondSetPrice = 1.59
+3/22/2022 17:22:43: [G_Auto 1] :  € 13.33 Lay bet placed on Marta Kostyuk at 1.6. Fully matched at 1.59.  Ref: 10749          ( Fill or kill bet with 15 seconds delay.   )
+3/22/2022 17:22:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:22:47: [G_Auto 2] :  Store Text Value (Shared) for Alison Van Uytvanck: aPoints = point: 0; games: 0; sets: 1 
+3/22/2022 17:22:47: [G_Auto 2] :  Store Text Value (Shared) for Alison Van Uytvanck: aServing = serving:0
+3/22/2022 17:22:47: [G_Auto 2] :  Store Text Value (Shared) for Marta Kostyuk: bPoints = point: 0; games: 0; sets: 1 
+3/22/2022 17:22:47: [G_Auto 2] :  Store Text Value (Shared) for Marta Kostyuk: bServing = serving:2
+3/22/2022 17:22:47: [G_Auto 2] :  Store Value (Shared) for market: price = 1.59
+3/22/2022 17:22:47: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 129.87
+3/22/2022 17:22:47: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 154.09
+3/22/2022 17:22:47: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.33
+3/22/2022 17:22:47: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 283.96
+3/22/2022 17:22:47: [G_Auto 2] :  Store Value (Shared) for market: pl = 10.51
+3/22/2022 17:22:47: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.74
+3/22/2022 17:22:47: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.58
+3/22/2022 17:23:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:23:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:23:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:24:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:24:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:24:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:25:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:25:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:25:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:26:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:26:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:26:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:27:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:27:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:27:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:28:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:28:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:28:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:29:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 17:29:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 17:31:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:31:44: [G_Auto 1] :  Placed closure bet with greening on Marta Kostyuk by Backing 15.03 at 1.41
+3/22/2022 17:31:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:31:48: [G_Auto 2] :  Store Text Value (Shared) for Alison Van Uytvanck: aPoints = point: 0; games: 0; sets: 1 
+3/22/2022 17:31:48: [G_Auto 2] :  Store Text Value (Shared) for Alison Van Uytvanck: aServing = serving:1
+3/22/2022 17:31:48: [G_Auto 2] :  Store Text Value (Shared) for Marta Kostyuk: bPoints = point: 0; games: 1; sets: 1 
+3/22/2022 17:31:48: [G_Auto 2] :  Store Text Value (Shared) for Marta Kostyuk: bServing = serving:0
+3/22/2022 17:31:48: [G_Auto 2] :  Store Value (Shared) for market: price = 1.41
+3/22/2022 17:31:48: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 144.9
+3/22/2022 17:31:48: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 154.09
+3/22/2022 17:31:48: [G_Auto 2] :  Store Value (Shared) for market: stake = 15.03
+3/22/2022 17:31:48: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 298.99
+3/22/2022 17:31:48: [G_Auto 2] :  Store Value (Shared) for market: pl = 9
+3/22/2022 17:31:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.35
+3/22/2022 17:31:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.42
+3/22/2022 17:31:55: [G_Auto 2] :  Store Text Value (Shared) for Alison Van Uytvanck: aPoints = point: 0; games: 0; sets: 1 
+3/22/2022 17:31:55: [G_Auto 2] :  Store Text Value (Shared) for Alison Van Uytvanck: aServing = serving:1
+3/22/2022 17:31:55: [G_Auto 2] :  Store Text Value (Shared) for Marta Kostyuk: bPoints = point: 0; games: 1; sets: 1 
+3/22/2022 17:31:55: [G_Auto 2] :  Store Text Value (Shared) for Marta Kostyuk: bServing = serving:0
+3/22/2022 17:31:55: [G_Auto 2] :  Store Value (Shared) for market: price = 1.41
+3/22/2022 17:31:55: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 144.9
+3/22/2022 17:31:55: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 154.09
+3/22/2022 17:31:55: [G_Auto 2] :  Store Value (Shared) for market: stake = 15.03
+3/22/2022 17:31:55: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 298.99
+3/22/2022 17:31:55: [G_Auto 2] :  Store Value (Shared) for market: pl = 9
+3/22/2022 17:31:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.35
+3/22/2022 17:31:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.41
+3/22/2022 17:32:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:32:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 17:32:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 17:42:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:42:28: [G_Auto 1] :  € 40.00 Lay bet placed on Marta Kostyuk at 1.2. Fully matched at 1.19.  Ref: 10770          ( Fill or kill bet with 15 seconds delay.   )
+3/22/2022 17:42:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:42:32: [G_Auto 2] :  Store Text Value (Shared) for Alison Van Uytvanck: aPoints = point: 0; games: 0; sets: 1 
+3/22/2022 17:42:32: [G_Auto 2] :  Store Text Value (Shared) for Alison Van Uytvanck: aServing = serving:0
+3/22/2022 17:42:32: [G_Auto 2] :  Store Text Value (Shared) for Marta Kostyuk: bPoints = point: 0; games: 2; sets: 1 
+3/22/2022 17:42:32: [G_Auto 2] :  Store Text Value (Shared) for Marta Kostyuk: bServing = serving:2
+3/22/2022 17:42:32: [G_Auto 2] :  Store Value (Shared) for market: price = 1.19
+3/22/2022 17:42:32: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 144.9
+3/22/2022 17:42:32: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 194.09
+3/22/2022 17:42:32: [G_Auto 2] :  Store Value (Shared) for market: stake = 40
+3/22/2022 17:42:32: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 338.99
+3/22/2022 17:42:32: [G_Auto 2] :  Store Value (Shared) for market: pl = 8.67
+3/22/2022 17:42:32: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 6.2
+3/22/2022 17:42:32: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.19
+3/22/2022 17:42:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:42:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 17:43:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 17:44:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:45:07: [G_Auto 1] :  Placed closure bet with greening on Marta Kostyuk by Backing 43.27 at 1.1
+3/22/2022 17:45:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:45:11: [G_Auto 2] :  Store Text Value (Shared) for Alison Van Uytvanck: aPoints = point: 0; games: 0; sets: 1 
+3/22/2022 17:45:11: [G_Auto 2] :  Store Text Value (Shared) for Alison Van Uytvanck: aServing = serving:1
+3/22/2022 17:45:11: [G_Auto 2] :  Store Text Value (Shared) for Marta Kostyuk: bPoints = point: 0; games: 3; sets: 1 
+3/22/2022 17:45:11: [G_Auto 2] :  Store Text Value (Shared) for Marta Kostyuk: bServing = serving:0
+3/22/2022 17:45:11: [G_Auto 2] :  Store Value (Shared) for market: price = 1.1
+3/22/2022 17:45:11: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 188.17
+3/22/2022 17:45:11: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 194.09
+3/22/2022 17:45:11: [G_Auto 2] :  Store Value (Shared) for market: stake = 43.27
+3/22/2022 17:45:11: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 382.26
+3/22/2022 17:45:11: [G_Auto 2] :  Store Value (Shared) for market: pl = 5.79
+3/22/2022 17:45:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 10
+3/22/2022 17:45:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.1
+3/22/2022 17:45:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:45:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:46:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:46:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:46:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:46:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 17:50:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:50:32: [G_Auto 1] :  € 42.11 Lay bet placed on Marta Kostyuk at 1.19. Fully matched at 1.18.  Ref: 10783          ( Fill or kill bet with 15 seconds delay.   )
+3/22/2022 17:50:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:50:35: [G_Auto 2] :  Store Text Value (Shared) for Alison Van Uytvanck: aPoints = point: 0; games: 1; sets: 1 
+3/22/2022 17:50:35: [G_Auto 2] :  Store Text Value (Shared) for Alison Van Uytvanck: aServing = serving:0
+3/22/2022 17:50:35: [G_Auto 2] :  Store Text Value (Shared) for Marta Kostyuk: bPoints = point: 0; games: 3; sets: 1 
+3/22/2022 17:50:35: [G_Auto 2] :  Store Text Value (Shared) for Marta Kostyuk: bServing = serving:2
+3/22/2022 17:50:35: [G_Auto 2] :  Store Value (Shared) for market: price = 1.18
+3/22/2022 17:50:35: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 188.17
+3/22/2022 17:50:35: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 236.2
+3/22/2022 17:50:35: [G_Auto 2] :  Store Value (Shared) for market: stake = 42.11
+3/22/2022 17:50:35: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 424.37
+3/22/2022 17:50:35: [G_Auto 2] :  Store Value (Shared) for market: pl = 5.44
+3/22/2022 17:50:35: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 6.8
+3/22/2022 17:50:35: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.17
+3/22/2022 17:50:42: [G_Auto 2] :  Store Text Value (Shared) for Alison Van Uytvanck: aPoints = point: 0; games: 1; sets: 1 
+3/22/2022 17:50:42: [G_Auto 2] :  Store Text Value (Shared) for Alison Van Uytvanck: aServing = serving:0
+3/22/2022 17:50:42: [G_Auto 2] :  Store Text Value (Shared) for Marta Kostyuk: bPoints = point: 0; games: 3; sets: 1 
+3/22/2022 17:50:42: [G_Auto 2] :  Store Text Value (Shared) for Marta Kostyuk: bServing = serving:2
+3/22/2022 17:50:42: [G_Auto 2] :  Store Value (Shared) for market: price = 1.18
+3/22/2022 17:50:42: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 188.17
+3/22/2022 17:50:42: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 236.2
+3/22/2022 17:50:42: [G_Auto 2] :  Store Value (Shared) for market: stake = 42.11
+3/22/2022 17:50:42: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 424.37
+3/22/2022 17:50:42: [G_Auto 2] :  Store Value (Shared) for market: pl = 5.44
+3/22/2022 17:50:42: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 6.8
+3/22/2022 17:50:42: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.18
+3/22/2022 17:50:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:51:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 17:55:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:56:12: [G_Auto 1] :  Placed closure bet with greening on Marta Kostyuk by Backing 45.59 at 1.09
+3/22/2022 17:56:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:56:15: [G_Auto 2] :  Store Text Value (Shared) for Alison Van Uytvanck: aPoints = point: 0; games: 1; sets: 1 
+3/22/2022 17:56:15: [G_Auto 2] :  Store Text Value (Shared) for Alison Van Uytvanck: aServing = serving:1
+3/22/2022 17:56:15: [G_Auto 2] :  Store Text Value (Shared) for Marta Kostyuk: bPoints = point: 0; games: 4; sets: 1 
+3/22/2022 17:56:15: [G_Auto 2] :  Store Text Value (Shared) for Marta Kostyuk: bServing = serving:0
+3/22/2022 17:56:15: [G_Auto 2] :  Store Value (Shared) for market: price = 1.09
+3/22/2022 17:56:15: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 233.76
+3/22/2022 17:56:15: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 236.2
+3/22/2022 17:56:15: [G_Auto 2] :  Store Value (Shared) for market: stake = 45.59
+3/22/2022 17:56:15: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 469.96
+3/22/2022 17:56:15: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.38
+3/22/2022 17:56:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 11
+3/22/2022 17:56:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.1
+3/22/2022 17:56:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:56:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:57:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:57:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:57:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 17:58:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 17:58:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 18:00:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 18:01:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 18:01:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 18:01:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 18:02:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 18:05:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 18:05:57:  Guardian has detected that the market is suspended

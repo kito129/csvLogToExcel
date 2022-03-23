@@ -1,0 +1,814 @@
+3/21/2022 12:11:04: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: info = marketName: Bouzkova v Gasanova - Match Odds; runnerA: Marie Bouzkova; runnerB: Anastasia Gasanova 
+3/21/2022 12:11:04: [G_Auto 2] :  Store Value (Shared) for market: aId = 8442764
+3/21/2022 12:11:04: [G_Auto 2] :  Store Value (Shared) for market: bId = 9634129
+3/22/2022 00:20:38:  Guardian has detected that the market is in-play
+3/22/2022 00:20:38:  Guardian has detected that the market is suspended
+3/22/2022 00:20:40: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.2; bBsp: 5.4; volume: 1223.68 
+3/22/2022 00:20:40: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.2; bBsp: 5.4; volume: 1223.68 
+3/22/2022 00:20:40:  Guardian has detected that the market is now unsuspended
+3/22/2022 00:20:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 00:21:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 00:21:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 00:26:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 00:26:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 00:26:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 00:26:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 00:32:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 00:32:22: [G_Auto 1] :  € 29.63 Lay bet placed on Marie Bouzkova at 1.27. Fully matched at 1.27.  Ref: 10564          ( Fill or kill bet with 15 seconds delay.   )
+3/22/2022 00:32:23: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aPoints = point: 0; games: 1; sets: 0 
+3/22/2022 00:32:23: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aServing = serving:1
+3/22/2022 00:32:23: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bPoints = point: 0; games: 1; sets: 0 
+3/22/2022 00:32:23: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bServing = serving:0
+3/22/2022 00:32:23: [G_Auto 2] :  Store Value (Shared) for market: price = 1.27
+3/22/2022 00:32:23: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+3/22/2022 00:32:23: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 29.63
+3/22/2022 00:32:23: [G_Auto 2] :  Store Value (Shared) for market: stake = 29.63
+3/22/2022 00:32:23: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 29.63
+3/22/2022 00:32:23: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.47
+3/22/2022 00:32:23: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.25
+3/22/2022 00:32:23: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5
+3/22/2022 00:32:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 00:32:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 00:32:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 00:33:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 00:33:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 00:33:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 00:36:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 00:37:01: [G_Auto 1] :  Placed closure bet with greening on Marie Bouzkova by Backing 26.69 at 1.41
+3/22/2022 00:37:02: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aPoints = point: 0; games: 1; sets: 0 
+3/22/2022 00:37:02: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aServing = serving:0
+3/22/2022 00:37:02: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bPoints = point: 0; games: 2; sets: 0 
+3/22/2022 00:37:02: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bServing = serving:2
+3/22/2022 00:37:02: [G_Auto 2] :  Store Value (Shared) for market: price = 1.41
+3/22/2022 00:37:02: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 26.69
+3/22/2022 00:37:02: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 29.63
+3/22/2022 00:37:02: [G_Auto 2] :  Store Value (Shared) for market: stake = 26.69
+3/22/2022 00:37:02: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 56.32
+3/22/2022 00:37:02: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.88
+3/22/2022 00:37:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.41
+3/22/2022 00:37:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.4
+3/22/2022 00:37:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 00:37:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 00:37:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 00:37:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 00:38:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 00:38:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 00:38:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 00:38:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 00:39:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 00:43:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 00:43:55: [G_Auto 1] :  € 13.79 Lay bet placed on Marie Bouzkova at 1.58. Entirely unmatched when it initially reached the market.   Ref: 10581          ( Fill or kill bet with 15 seconds delay.   )
+3/22/2022 00:43:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 00:44:01: [G_Auto 1] :  € 13.79 of unmatched bet (Ref:10581) was filled before remainder was killed.
+3/22/2022 00:44:01: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aPoints = point: 0; games: 1; sets: 0 
+3/22/2022 00:44:01: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aServing = serving:1
+3/22/2022 00:44:01: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bPoints = point: 0; games: 3; sets: 0 
+3/22/2022 00:44:01: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bServing = serving:0
+3/22/2022 00:44:01: [G_Auto 2] :  Store Value (Shared) for market: price = 1.58
+3/22/2022 00:44:01: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 26.69
+3/22/2022 00:44:01: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 43.42
+3/22/2022 00:44:01: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.79
+3/22/2022 00:44:01: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 70.11
+3/22/2022 00:44:01: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.62
+3/22/2022 00:44:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.56
+3/22/2022 00:44:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.8
+3/22/2022 00:44:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 00:44:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 00:44:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 00:45:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 00:45:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 00:45:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 00:45:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 00:45:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 00:48:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 00:48:27: [G_Auto 1] :  Placed closure bet with greening on Marie Bouzkova by Backing 11.78 at 1.85
+3/22/2022 00:48:28: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aPoints = point: 0; games: 1; sets: 0 
+3/22/2022 00:48:28: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aServing = serving:0
+3/22/2022 00:48:28: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bPoints = point: 0; games: 4; sets: 0 
+3/22/2022 00:48:28: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bServing = serving:2
+3/22/2022 00:48:28: [G_Auto 2] :  Store Value (Shared) for market: price = 1.85
+3/22/2022 00:48:28: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 38.47
+3/22/2022 00:48:28: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 43.42
+3/22/2022 00:48:28: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.78
+3/22/2022 00:48:28: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 81.89
+3/22/2022 00:48:28: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.86
+3/22/2022 00:48:28: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.91
+3/22/2022 00:48:28: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.1
+3/22/2022 00:48:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 00:48:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 00:49:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 00:49:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 00:49:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 00:49:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 00:50:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 00:50:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 00:50:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 00:51:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 00:51:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 00:52:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 00:52:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 00:52:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 00:52:55: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 00:54:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 00:54:16: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 2.68
+3/22/2022 00:54:16: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 1.61
+3/22/2022 00:54:19: [G_Auto 1] :  € 13.11 Lay bet placed on Anastasia Gasanova at 1.61. Fully matched at 1.61.  Ref: 10594          ( Fill or kill bet with 15 seconds delay.   )
+3/22/2022 00:54:21: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aPoints = point: 0; games: 0; sets: 0 
+3/22/2022 00:54:21: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aServing = serving:0
+3/22/2022 00:54:21: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bPoints = point: 0; games: 0; sets: 1 
+3/22/2022 00:54:21: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bServing = serving:2
+3/22/2022 00:54:21: [G_Auto 2] :  Store Value (Shared) for market: price = 1.61
+3/22/2022 00:54:21: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 38.47
+3/22/2022 00:54:21: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 56.53
+3/22/2022 00:54:21: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.11
+3/22/2022 00:54:21: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 95
+3/22/2022 00:54:21: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.86
+3/22/2022 00:54:21: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.66
+3/22/2022 00:54:21: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.61
+3/22/2022 00:54:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 00:54:27: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aPoints = point: 0; games: 0; sets: 0 
+3/22/2022 00:54:27: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aServing = serving:0
+3/22/2022 00:54:27: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bPoints = point: 0; games: 0; sets: 1 
+3/22/2022 00:54:27: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bServing = serving:2
+3/22/2022 00:54:27: [G_Auto 2] :  Store Value (Shared) for market: price = 1.61
+3/22/2022 00:54:27: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 38.47
+3/22/2022 00:54:27: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 56.53
+3/22/2022 00:54:27: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.11
+3/22/2022 00:54:27: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 95
+3/22/2022 00:54:27: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.69
+3/22/2022 00:54:27: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.66
+3/22/2022 00:54:27: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.6
+3/22/2022 00:54:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 00:54:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 00:55:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 00:55:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 00:55:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 00:55:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 00:56:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 00:56:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 00:56:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 01:01:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:01:40: [G_Auto 1] :  Placed closure bet with greening on Anastasia Gasanova by Backing 10.55 at 2
+3/22/2022 01:01:40: [G_Auto 1] :  € 8.51 Lay bet placed on Marie Bouzkova at 1.94. Entirely unmatched when it initially reached the market.   Ref: 10603          ( Fill or kill bet with 15 seconds delay.   )
+3/22/2022 01:01:42: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aPoints = point: 0; games: 1; sets: 0 
+3/22/2022 01:01:42: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aServing = serving:1
+3/22/2022 01:01:42: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bPoints = point: 0; games: 0; sets: 1 
+3/22/2022 01:01:42: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bServing = serving:0
+3/22/2022 01:01:42: [G_Auto 2] :  Store Value (Shared) for market: price = 2
+3/22/2022 01:01:42: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 49.02
+3/22/2022 01:01:42: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 56.53
+3/22/2022 01:01:42: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.55
+3/22/2022 01:01:42: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 105.55
+3/22/2022 01:01:42: [G_Auto 2] :  Store Value (Shared) for market: pl = 7.37
+3/22/2022 01:01:42: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.96
+3/22/2022 01:01:42: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.95
+3/22/2022 01:01:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:01:47: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aPoints = point: 0; games: 1; sets: 0 
+3/22/2022 01:01:47: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aServing = serving:1
+3/22/2022 01:01:47: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bPoints = point: 0; games: 0; sets: 1 
+3/22/2022 01:01:47: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bServing = serving:0
+3/22/2022 01:01:47: [G_Auto 2] :  Store Value (Shared) for market: price = 2
+3/22/2022 01:01:47: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 49.02
+3/22/2022 01:01:47: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 56.53
+3/22/2022 01:01:47: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.55
+3/22/2022 01:01:47: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 105.55
+3/22/2022 01:01:47: [G_Auto 2] :  Store Value (Shared) for market: pl = 7.37
+3/22/2022 01:01:47: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.96
+3/22/2022 01:01:47: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.95
+3/22/2022 01:01:55: [G_Auto 1] :  € 8.51 unmatched bet (Ref:10603) was killed.
+3/22/2022 01:01:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:02:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:02:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:02:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:03:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:03:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 01:03:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 01:03:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 01:05:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:05:46: [G_Auto 1] :  € 12.12 Lay bet placed on Anastasia Gasanova at 1.66. Entirely unmatched when it initially reached the market.   Ref: 10606          ( Fill or kill bet with 15 seconds delay.   )
+3/22/2022 01:05:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:05:54: [G_Auto 1] :  € 12.12 of unmatched bet (Ref:10606) was filled before remainder was killed.
+3/22/2022 01:05:54: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aPoints = point: 0; games: 1; sets: 0 
+3/22/2022 01:05:54: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aServing = serving:0
+3/22/2022 01:05:54: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bPoints = point: 0; games: 1; sets: 1 
+3/22/2022 01:05:54: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bServing = serving:2
+3/22/2022 01:05:54: [G_Auto 2] :  Store Value (Shared) for market: price = 1.66
+3/22/2022 01:05:54: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 49.02
+3/22/2022 01:05:54: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 68.65
+3/22/2022 01:05:54: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.12
+3/22/2022 01:05:54: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 117.67
+3/22/2022 01:05:54: [G_Auto 2] :  Store Value (Shared) for market: pl = 7.07
+3/22/2022 01:05:54: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.48
+3/22/2022 01:05:54: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.64
+3/22/2022 01:06:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:06:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 01:06:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 01:07:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:07:41: [G_Auto 1] :  Placed closure bet with greening on Anastasia Gasanova by Backing 14.69 at 1.37
+3/22/2022 01:07:42: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aPoints = point: 0; games: 1; sets: 0 
+3/22/2022 01:07:42: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aServing = serving:1
+3/22/2022 01:07:42: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bPoints = point: 0; games: 2; sets: 1 
+3/22/2022 01:07:42: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bServing = serving:0
+3/22/2022 01:07:42: [G_Auto 2] :  Store Value (Shared) for market: price = 1.37
+3/22/2022 01:07:42: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 63.71
+3/22/2022 01:07:42: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 68.65
+3/22/2022 01:07:42: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.69
+3/22/2022 01:07:42: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 132.36
+3/22/2022 01:07:42: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.85
+3/22/2022 01:07:42: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.5
+3/22/2022 01:07:42: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.39
+3/22/2022 01:07:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:07:47: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aPoints = point: 0; games: 1; sets: 0 
+3/22/2022 01:07:47: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aServing = serving:1
+3/22/2022 01:07:47: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bPoints = point: 0; games: 2; sets: 1 
+3/22/2022 01:07:47: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bServing = serving:0
+3/22/2022 01:07:47: [G_Auto 2] :  Store Value (Shared) for market: price = 1.37
+3/22/2022 01:07:47: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 63.71
+3/22/2022 01:07:47: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 68.65
+3/22/2022 01:07:47: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.69
+3/22/2022 01:07:47: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 132.36
+3/22/2022 01:07:47: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.85
+3/22/2022 01:07:47: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.5
+3/22/2022 01:07:47: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.38
+3/22/2022 01:07:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:08:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:08:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:08:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:08:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:09:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:09:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 01:09:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 01:09:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 01:11:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:11:56: [G_Auto 1] :  € 13.11 Lay bet placed on Anastasia Gasanova at 1.61. Fully matched at 1.61.  Ref: 10610          ( Fill or kill bet with 15 seconds delay.   )
+3/22/2022 01:11:56: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aPoints = point: 0; games: 2; sets: 0 
+3/22/2022 01:11:56: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aServing = serving:0
+3/22/2022 01:11:56: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bPoints = point: 0; games: 2; sets: 1 
+3/22/2022 01:11:56: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bServing = serving:2
+3/22/2022 01:11:56: [G_Auto 2] :  Store Value (Shared) for market: price = 1.61
+3/22/2022 01:11:56: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 63.71
+3/22/2022 01:11:56: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 81.76
+3/22/2022 01:11:56: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.11
+3/22/2022 01:11:56: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 145.47
+3/22/2022 01:11:56: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.68
+3/22/2022 01:11:56: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.66
+3/22/2022 01:11:56: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.6
+3/22/2022 01:11:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:12:01: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aPoints = point: 0; games: 2; sets: 0 
+3/22/2022 01:12:01: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aServing = serving:0
+3/22/2022 01:12:01: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bPoints = point: 0; games: 2; sets: 1 
+3/22/2022 01:12:01: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bServing = serving:2
+3/22/2022 01:12:01: [G_Auto 2] :  Store Value (Shared) for market: price = 1.61
+3/22/2022 01:12:01: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 63.71
+3/22/2022 01:12:01: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 81.76
+3/22/2022 01:12:01: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.11
+3/22/2022 01:12:01: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 145.47
+3/22/2022 01:12:01: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.68
+3/22/2022 01:12:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.66
+3/22/2022 01:12:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.6
+3/22/2022 01:12:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:12:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:12:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 01:12:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 01:14:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:14:44: [G_Auto 1] :  Placed closure bet with greening on Anastasia Gasanova by Backing 15.41 at 1.37
+3/22/2022 01:14:45: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aPoints = point: 0; games: 2; sets: 0 
+3/22/2022 01:14:45: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aServing = serving:1
+3/22/2022 01:14:45: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bPoints = point: 0; games: 3; sets: 1 
+3/22/2022 01:14:45: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bServing = serving:0
+3/22/2022 01:14:45: [G_Auto 2] :  Store Value (Shared) for market: price = 1.37
+3/22/2022 01:14:45: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 79.12
+3/22/2022 01:14:45: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 81.76
+3/22/2022 01:14:45: [G_Auto 2] :  Store Value (Shared) for market: stake = 15.41
+3/22/2022 01:14:45: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 160.88
+3/22/2022 01:14:45: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.6
+3/22/2022 01:14:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.65
+3/22/2022 01:14:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.41
+3/22/2022 01:14:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:14:51: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aPoints = point: 0; games: 2; sets: 0 
+3/22/2022 01:14:51: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aServing = serving:1
+3/22/2022 01:14:51: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bPoints = point: 0; games: 3; sets: 1 
+3/22/2022 01:14:51: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bServing = serving:0
+3/22/2022 01:14:51: [G_Auto 2] :  Store Value (Shared) for market: price = 1.37
+3/22/2022 01:14:51: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 79.12
+3/22/2022 01:14:51: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 81.76
+3/22/2022 01:14:51: [G_Auto 2] :  Store Value (Shared) for market: stake = 15.41
+3/22/2022 01:14:51: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 160.88
+3/22/2022 01:14:51: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.6
+3/22/2022 01:14:51: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.65
+3/22/2022 01:14:51: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.38
+3/22/2022 01:15:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:15:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:15:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:15:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:16:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:16:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:16:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:16:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 01:16:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 01:19:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:19:39: [G_Auto 1] :  € 13.56 Lay bet placed on Anastasia Gasanova at 1.59. Entirely unmatched when it initially reached the market.   Ref: 10614          ( Fill or kill bet with 15 seconds delay.   )
+3/22/2022 01:19:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:19:54: [G_Auto 1] :  € 13.56 of unmatched bet (Ref:10614) was filled before remainder was killed.
+3/22/2022 01:19:54: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aPoints = point: 0; games: 3; sets: 0 
+3/22/2022 01:19:54: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aServing = serving:0
+3/22/2022 01:19:54: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bPoints = point: 0; games: 3; sets: 1 
+3/22/2022 01:19:54: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bServing = serving:2
+3/22/2022 01:19:54: [G_Auto 2] :  Store Value (Shared) for market: price = 1.59
+3/22/2022 01:19:54: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 79.12
+3/22/2022 01:19:54: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 95.32
+3/22/2022 01:19:54: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.56
+3/22/2022 01:19:54: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 174.44
+3/22/2022 01:19:54: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.71
+3/22/2022 01:19:54: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.82
+3/22/2022 01:19:54: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.54
+3/22/2022 01:19:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:20:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:20:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 01:20:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 01:20:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 01:21:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 01:25:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:25:20: [G_Auto 1] :  Placed closure bet with greening on Anastasia Gasanova by Backing 16.09 at 1.34
+3/22/2022 01:25:20: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aPoints = point: 0; games: 3; sets: 0 
+3/22/2022 01:25:20: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aServing = serving:1
+3/22/2022 01:25:20: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bPoints = point: 0; games: 4; sets: 1 
+3/22/2022 01:25:20: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bServing = serving:0
+3/22/2022 01:25:20: [G_Auto 2] :  Store Value (Shared) for market: price = 1.36
+3/22/2022 01:25:20: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 95.21
+3/22/2022 01:25:20: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 95.32
+3/22/2022 01:25:20: [G_Auto 2] :  Store Value (Shared) for market: stake = 16.09
+3/22/2022 01:25:20: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 190.53
+3/22/2022 01:25:20: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.35
+3/22/2022 01:25:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.7
+3/22/2022 01:25:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.37
+3/22/2022 01:25:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:25:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:25:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:26:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:26:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:26:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:26:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:27:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 01:27:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 01:27:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 01:28:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:28:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:29:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 01:29:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 01:31:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:31:37: [G_Auto 1] :  Placed closure bet with greening on Anastasia Gasanova by Laying 0.25 at 1.29
+3/22/2022 01:31:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:31:38: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aPoints = point: 0; games: 4; sets: 0 
+3/22/2022 01:31:38: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aServing = serving:1
+3/22/2022 01:31:38: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bPoints = point: 0; games: 5; sets: 1 
+3/22/2022 01:31:38: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bServing = serving:0
+3/22/2022 01:31:38: [G_Auto 2] :  Store Value (Shared) for market: price = 1.29
+3/22/2022 01:31:38: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 95.21
+3/22/2022 01:31:38: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 95.57
+3/22/2022 01:31:38: [G_Auto 2] :  Store Value (Shared) for market: stake = 0.25
+3/22/2022 01:31:38: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 190.78
+3/22/2022 01:31:38: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.36
+3/22/2022 01:31:38: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.5
+3/22/2022 01:31:38: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.28
+3/22/2022 01:31:43: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aPoints = point: 0; games: 4; sets: 0 
+3/22/2022 01:31:43: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aServing = serving:1
+3/22/2022 01:31:43: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bPoints = point: 0; games: 5; sets: 1 
+3/22/2022 01:31:43: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bServing = serving:0
+3/22/2022 01:31:43: [G_Auto 2] :  Store Value (Shared) for market: price = 1.29
+3/22/2022 01:31:43: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 95.21
+3/22/2022 01:31:43: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 95.57
+3/22/2022 01:31:43: [G_Auto 2] :  Store Value (Shared) for market: stake = 0.25
+3/22/2022 01:31:43: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 190.78
+3/22/2022 01:31:43: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.36
+3/22/2022 01:31:43: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.5
+3/22/2022 01:31:43: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.29
+3/22/2022 01:31:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:32:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:32:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:32:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:32:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:33:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:33:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 01:33:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 01:39:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:39:35: [G_Auto 1] :  € 11.94 Lay bet placed on Anastasia Gasanova at 1.67. Entirely unmatched when it initially reached the market.   Ref: 10627          ( Fill or kill bet with 15 seconds delay.   )
+3/22/2022 01:39:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:39:40: [G_Auto 1] :  € 11.94 of unmatched bet (Ref:10627) was filled before remainder was killed.
+3/22/2022 01:39:40: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aPoints = point: 0; games: 5; sets: 0 
+3/22/2022 01:39:40: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aServing = serving:0
+3/22/2022 01:39:40: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bPoints = point: 0; games: 5; sets: 1 
+3/22/2022 01:39:40: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bServing = serving:2
+3/22/2022 01:39:40: [G_Auto 2] :  Store Value (Shared) for market: price = 1.67
+3/22/2022 01:39:40: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 95.21
+3/22/2022 01:39:40: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 107.51
+3/22/2022 01:39:40: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.94
+3/22/2022 01:39:40: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 202.72
+3/22/2022 01:39:40: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.15
+3/22/2022 01:39:40: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.54
+3/22/2022 01:39:40: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.64
+3/22/2022 01:39:45: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aPoints = point: 0; games: 5; sets: 0 
+3/22/2022 01:39:45: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aServing = serving:0
+3/22/2022 01:39:45: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bPoints = point: 0; games: 5; sets: 1 
+3/22/2022 01:39:45: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bServing = serving:2
+3/22/2022 01:39:45: [G_Auto 2] :  Store Value (Shared) for market: price = 1.67
+3/22/2022 01:39:45: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 95.21
+3/22/2022 01:39:45: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 107.51
+3/22/2022 01:39:45: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.94
+3/22/2022 01:39:45: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 202.72
+3/22/2022 01:39:45: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.15
+3/22/2022 01:39:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.54
+3/22/2022 01:39:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.67
+3/22/2022 01:39:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:40:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:40:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:40:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 01:40:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 01:41:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 01:41:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 01:42:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:43:07: [G_Auto 1] :  Placed closure bet with greening on Anastasia Gasanova by Backing 8.74 at 2.28
+3/22/2022 01:43:07: [G_Auto 1] :  € 10.13 Lay bet placed on Marie Bouzkova at 1.79. Fully matched at 1.78.  Ref: 10630          ( Fill or kill bet with 15 seconds delay.   )
+3/22/2022 01:43:07: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aPoints = point: 0; games: 6; sets: 0 
+3/22/2022 01:43:07: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aServing = serving:1
+3/22/2022 01:43:07: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bPoints = point: 0; games: 5; sets: 1 
+3/22/2022 01:43:07: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bServing = serving:0
+3/22/2022 01:43:07: [G_Auto 2] :  Store Value (Shared) for market: price = 1.78
+3/22/2022 01:43:07: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 103.95
+3/22/2022 01:43:07: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 117.64
+3/22/2022 01:43:07: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.13
+3/22/2022 01:43:07: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 221.59
+3/22/2022 01:43:07: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.44
+3/22/2022 01:43:07: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.78
+3/22/2022 01:43:07: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.28
+3/22/2022 01:43:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:43:13: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aPoints = point: 0; games: 6; sets: 0 
+3/22/2022 01:43:13: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aServing = serving:1
+3/22/2022 01:43:13: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bPoints = point: 0; games: 5; sets: 1 
+3/22/2022 01:43:13: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bServing = serving:0
+3/22/2022 01:43:13: [G_Auto 2] :  Store Value (Shared) for market: price = 1.78
+3/22/2022 01:43:13: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 103.95
+3/22/2022 01:43:13: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 117.64
+3/22/2022 01:43:13: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.13
+3/22/2022 01:43:13: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 221.59
+3/22/2022 01:43:13: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.49
+3/22/2022 01:43:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.78
+3/22/2022 01:43:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.28
+3/22/2022 01:43:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:43:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:43:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:44:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:44:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:44:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:44:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:45:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:45:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:45:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:45:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:46:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:46:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:46:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:47:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:47:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:47:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:47:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:48:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:48:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:48:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:48:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:49:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:49:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:49:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:49:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:50:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:50:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:50:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:50:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:51:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:51:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:51:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 01:51:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 01:51:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 01:54:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:54:21: [G_Auto 1] :  Placed closure bet with greening on Marie Bouzkova by Backing 8.58 at 2.1
+3/22/2022 01:54:21: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aPoints = point: 0; games: 6; sets: 0 
+3/22/2022 01:54:21: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aServing = serving:0
+3/22/2022 01:54:21: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bPoints = point: 0; games: 6; sets: 1 
+3/22/2022 01:54:21: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bServing = serving:2
+3/22/2022 01:54:21: [G_Auto 2] :  Store Value (Shared) for market: price = 2.5
+3/22/2022 01:54:21: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 112.53
+3/22/2022 01:54:21: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 117.64
+3/22/2022 01:54:21: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.58
+3/22/2022 01:54:21: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 230.17
+3/22/2022 01:54:21: [G_Auto 2] :  Store Value (Shared) for market: pl = 5.89
+3/22/2022 01:54:21: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.6
+3/22/2022 01:54:21: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.62
+3/22/2022 01:54:26: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aPoints = point: 0; games: 6; sets: 0 
+3/22/2022 01:54:26: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aServing = serving:0
+3/22/2022 01:54:26: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bPoints = point: 0; games: 6; sets: 1 
+3/22/2022 01:54:26: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bServing = serving:2
+3/22/2022 01:54:26: [G_Auto 2] :  Store Value (Shared) for market: price = 2.5
+3/22/2022 01:54:26: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 112.53
+3/22/2022 01:54:26: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 117.64
+3/22/2022 01:54:26: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.58
+3/22/2022 01:54:26: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 230.17
+3/22/2022 01:54:26: [G_Auto 2] :  Store Value (Shared) for market: pl = 5.89
+3/22/2022 01:54:26: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.6
+3/22/2022 01:54:26: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.66
+3/22/2022 01:54:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:54:39: [G_Auto 1] :  Placed closure bet with greening on Marie Bouzkova by Laying 1.04 at 3.3
+3/22/2022 01:54:39: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aPoints = point: 0; games: 6; sets: 0 
+3/22/2022 01:54:39: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aServing = serving:0
+3/22/2022 01:54:39: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bPoints = point: 0; games: 6; sets: 1 
+3/22/2022 01:54:39: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bServing = serving:2
+3/22/2022 01:54:39: [G_Auto 2] :  Store Value (Shared) for market: price = 3.25
+3/22/2022 01:54:39: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 112.53
+3/22/2022 01:54:39: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 118.68
+3/22/2022 01:54:39: [G_Auto 2] :  Store Value (Shared) for market: stake = 1.04
+3/22/2022 01:54:39: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 231.21
+3/22/2022 01:54:39: [G_Auto 2] :  Store Value (Shared) for market: pl = 6.04
+3/22/2022 01:54:39: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.6
+3/22/2022 01:54:39: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.62
+3/22/2022 01:54:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 01:54:54: [G_Auto 1] :  Placed closure bet with greening on Marie Bouzkova by Laying 0.02 at 2.7
+3/22/2022 01:55:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 01:55:04: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aPoints = point: 0; games: 6; sets: 0 
+3/22/2022 01:55:04: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aServing = serving:1
+3/22/2022 01:55:04: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bPoints = point: 0; games: 6; sets: 1 
+3/22/2022 01:55:04: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bServing = serving:0
+3/22/2022 01:55:04: [G_Auto 2] :  Store Value (Shared) for market: price = 2.7
+3/22/2022 01:55:04: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 112.53
+3/22/2022 01:55:04: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 118.7
+3/22/2022 01:55:04: [G_Auto 2] :  Store Value (Shared) for market: stake = 0.02
+3/22/2022 01:55:04: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 231.23
+3/22/2022 01:55:04: [G_Auto 2] :  Store Value (Shared) for market: pl = 6.04
+3/22/2022 01:55:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.96
+3/22/2022 01:55:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.51
+3/22/2022 01:55:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 01:55:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 01:55:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 01:56:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 01:56:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 01:56:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 01:56:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 01:57:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 01:57:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 01:57:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 01:57:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 01:58:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 01:58:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 01:58:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 01:58:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 01:59:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 01:59:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 01:59:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 01:59:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 02:00:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 02:00:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 02:00:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 02:00:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 02:01:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 02:01:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 02:01:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 02:01:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 02:02:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 02:02:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 02:02:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 02:02:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 02:03:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 02:03:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 02:03:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 02:03:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 02:04:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 02:04:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 02:04:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:04:31: [G_Auto 2] :  Store Value (Shared) for market: aSecondSetPrice = 1.92
+3/22/2022 02:04:31: [G_Auto 2] :  Store Value (Shared) for market: bSecondSetPrice = 2.08
+3/22/2022 02:04:34: [G_Auto 1] :  € 34.78 Lay bet placed on Marie Bouzkova at 1.23. Entirely unmatched when it initially reached the market.   Ref: 10637          ( Fill or kill bet with 15 seconds delay.   )
+3/22/2022 02:04:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:04:49: [G_Auto 1] :  € 34.78 unmatched bet (Ref:10637) was killed.
+3/22/2022 02:04:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:05:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:05:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:05:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:05:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:06:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:06:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:06:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:06:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:07:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:07:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:07:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:07:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:08:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:08:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:08:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:08:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:09:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:09:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:09:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:09:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:10:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:10:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:10:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:10:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:11:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:11:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 02:11:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 02:11:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 02:12:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:13:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:13:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:13:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:13:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:14:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:14:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:14:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 02:14:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 02:14:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 02:18:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:19:07: [G_Auto 1] :  € 61.54 Lay bet placed on Marie Bouzkova at 1.13. Fully matched at 1.13.  Ref: 10638          ( Fill or kill bet with 15 seconds delay.   )
+3/22/2022 02:19:07: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aPoints = point: 0; games: 2; sets: 1 
+3/22/2022 02:19:07: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aServing = serving:1
+3/22/2022 02:19:07: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bPoints = point: 0; games: 0; sets: 1 
+3/22/2022 02:19:07: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bServing = serving:0
+3/22/2022 02:19:07: [G_Auto 2] :  Store Value (Shared) for market: price = 1.13
+3/22/2022 02:19:07: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 112.53
+3/22/2022 02:19:07: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 180.24
+3/22/2022 02:19:07: [G_Auto 2] :  Store Value (Shared) for market: stake = 61.54
+3/22/2022 02:19:07: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 292.77
+3/22/2022 02:19:07: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.95
+3/22/2022 02:19:07: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.11
+3/22/2022 02:19:07: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 10.5
+3/22/2022 02:19:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:19:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:19:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:19:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 02:19:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 02:22:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:22:20: [G_Auto 1] :  Placed closure bet with greening on Marie Bouzkova by Backing 55.64 at 1.25
+3/22/2022 02:22:20: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aPoints = point: 0; games: 2; sets: 1 
+3/22/2022 02:22:20: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aServing = serving:0
+3/22/2022 02:22:20: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bPoints = point: 0; games: 1; sets: 1 
+3/22/2022 02:22:20: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bServing = serving:2
+3/22/2022 02:22:20: [G_Auto 2] :  Store Value (Shared) for market: price = 1.25
+3/22/2022 02:22:20: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 168.17
+3/22/2022 02:22:20: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 180.24
+3/22/2022 02:22:20: [G_Auto 2] :  Store Value (Shared) for market: stake = 55.64
+3/22/2022 02:22:20: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 348.41
+3/22/2022 02:22:20: [G_Auto 2] :  Store Value (Shared) for market: pl = 11.83
+3/22/2022 02:22:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.25
+3/22/2022 02:22:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5
+3/22/2022 02:22:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:22:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:22:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:23:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:23:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:23:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:23:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:23:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 02:24:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 02:25:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:25:55: [G_Auto 1] :  € 66.67 Lay bet placed on Marie Bouzkova at 1.12. Fully matched at 1.12.  Ref: 10640          ( Fill or kill bet with 15 seconds delay.   )
+3/22/2022 02:25:55: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aPoints = point: 0; games: 3; sets: 1 
+3/22/2022 02:25:55: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aServing = serving:1
+3/22/2022 02:25:55: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bPoints = point: 0; games: 1; sets: 1 
+3/22/2022 02:25:55: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bServing = serving:0
+3/22/2022 02:25:55: [G_Auto 2] :  Store Value (Shared) for market: price = 1.12
+3/22/2022 02:25:55: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 168.17
+3/22/2022 02:25:55: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 246.91
+3/22/2022 02:25:55: [G_Auto 2] :  Store Value (Shared) for market: stake = 66.67
+3/22/2022 02:25:55: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 415.08
+3/22/2022 02:25:55: [G_Auto 2] :  Store Value (Shared) for market: pl = 10.64
+3/22/2022 02:25:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.1
+3/22/2022 02:25:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 9.2
+3/22/2022 02:25:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:26:00: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aPoints = point: 0; games: 3; sets: 1 
+3/22/2022 02:26:00: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aServing = serving:1
+3/22/2022 02:26:00: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bPoints = point: 0; games: 1; sets: 1 
+3/22/2022 02:26:00: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bServing = serving:0
+3/22/2022 02:26:00: [G_Auto 2] :  Store Value (Shared) for market: price = 1.12
+3/22/2022 02:26:00: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 168.17
+3/22/2022 02:26:00: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 246.91
+3/22/2022 02:26:00: [G_Auto 2] :  Store Value (Shared) for market: stake = 66.67
+3/22/2022 02:26:00: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 415.08
+3/22/2022 02:26:00: [G_Auto 2] :  Store Value (Shared) for market: pl = 11.83
+3/22/2022 02:26:00: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.13
+3/22/2022 02:26:00: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 8.6
+3/22/2022 02:26:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:26:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:26:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:26:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:27:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 02:27:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 02:27:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 02:29:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:29:17: [G_Auto 1] :  Placed closure bet with greening on Marie Bouzkova by Backing 70.44 at 1.06
+3/22/2022 02:29:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:29:22: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aPoints = point: 0; games: 4; sets: 1 
+3/22/2022 02:29:22: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aServing = serving:0
+3/22/2022 02:29:22: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bPoints = point: 0; games: 1; sets: 1 
+3/22/2022 02:29:22: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bServing = serving:2
+3/22/2022 02:29:22: [G_Auto 2] :  Store Value (Shared) for market: price = 1.06
+3/22/2022 02:29:22: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 238.61
+3/22/2022 02:29:22: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 246.91
+3/22/2022 02:29:22: [G_Auto 2] :  Store Value (Shared) for market: stake = 70.44
+3/22/2022 02:29:22: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 485.52
+3/22/2022 02:29:22: [G_Auto 2] :  Store Value (Shared) for market: pl = 8.13
+3/22/2022 02:29:22: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.07
+3/22/2022 02:29:22: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 15
+3/22/2022 02:29:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:29:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:30:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:30:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:30:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:30:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 02:31:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 02:35:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:35:35: [G_Auto 1] :  € 57.14 Lay bet placed on Marie Bouzkova at 1.14. Fully matched at 1.13.  Ref: 10642          ( Fill or kill bet with 15 seconds delay.   )
+3/22/2022 02:35:35: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aPoints = point: 0; games: 4; sets: 1 
+3/22/2022 02:35:35: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aServing = serving:1
+3/22/2022 02:35:35: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bPoints = point: 0; games: 2; sets: 1 
+3/22/2022 02:35:35: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bServing = serving:0
+3/22/2022 02:35:35: [G_Auto 2] :  Store Value (Shared) for market: price = 1.13
+3/22/2022 02:35:35: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 238.61
+3/22/2022 02:35:35: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 304.05
+3/22/2022 02:35:35: [G_Auto 2] :  Store Value (Shared) for market: stake = 57.14
+3/22/2022 02:35:35: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 542.66
+3/22/2022 02:35:35: [G_Auto 2] :  Store Value (Shared) for market: pl = 7.63
+3/22/2022 02:35:35: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.12
+3/22/2022 02:35:35: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 8.8
+3/22/2022 02:35:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:35:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:36:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:36:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:36:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 02:36:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 02:36:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 02:39:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:39:26: [G_Auto 1] :  Placed closure bet with greening on Marie Bouzkova by Backing 48.55 at 1.33
+3/22/2022 02:39:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:39:31: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aPoints = point: 0; games: 4; sets: 1 
+3/22/2022 02:39:31: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aServing = serving:0
+3/22/2022 02:39:31: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bPoints = point: 0; games: 3; sets: 1 
+3/22/2022 02:39:31: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bServing = serving:2
+3/22/2022 02:39:31: [G_Auto 2] :  Store Value (Shared) for market: price = 1.33
+3/22/2022 02:39:31: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 287.16
+3/22/2022 02:39:31: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 304.05
+3/22/2022 02:39:31: [G_Auto 2] :  Store Value (Shared) for market: stake = 48.55
+3/22/2022 02:39:31: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 591.21
+3/22/2022 02:39:31: [G_Auto 2] :  Store Value (Shared) for market: pl = 16.55
+3/22/2022 02:39:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.33
+3/22/2022 02:39:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4
+3/22/2022 02:39:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:40:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:40:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:40:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:40:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:40:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 02:41:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 02:46:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:46:16: [G_Auto 1] :  € 72.73 Lay bet placed on Marie Bouzkova at 1.11. Fully matched at 1.11.  Ref: 10644          ( Fill or kill bet with 15 seconds delay.   )
+3/22/2022 02:46:16: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aPoints = point: 0; games: 5; sets: 1 
+3/22/2022 02:46:16: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aServing = serving:1
+3/22/2022 02:46:16: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bPoints = point: 0; games: 3; sets: 1 
+3/22/2022 02:46:16: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bServing = serving:0
+3/22/2022 02:46:16: [G_Auto 2] :  Store Value (Shared) for market: price = 1.11
+3/22/2022 02:46:16: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 287.16
+3/22/2022 02:46:16: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 376.78
+3/22/2022 02:46:16: [G_Auto 2] :  Store Value (Shared) for market: stake = 72.73
+3/22/2022 02:46:16: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 663.94
+3/22/2022 02:46:16: [G_Auto 2] :  Store Value (Shared) for market: pl = 15.91
+3/22/2022 02:46:16: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.1
+3/22/2022 02:46:16: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 10.5
+3/22/2022 02:46:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:46:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:46:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:46:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 02:47:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 02:47:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 02:49:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:49:56: [G_Auto 1] :  Placed closure bet with greening on Marie Bouzkova by Backing 61.63 at 1.31
+3/22/2022 02:49:57: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aPoints = point: 0; games: 5; sets: 1 
+3/22/2022 02:49:57: [G_Auto 2] :  Store Text Value (Shared) for Marie Bouzkova: aServing = serving:0
+3/22/2022 02:49:57: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bPoints = point: 0; games: 4; sets: 1 
+3/22/2022 02:49:57: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Gasanova: bServing = serving:2
+3/22/2022 02:49:57: [G_Auto 2] :  Store Value (Shared) for market: price = 1.31
+3/22/2022 02:49:57: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 348.79
+3/22/2022 02:49:57: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 376.78
+3/22/2022 02:49:57: [G_Auto 2] :  Store Value (Shared) for market: stake = 61.63
+3/22/2022 02:49:57: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 725.57
+3/22/2022 02:49:57: [G_Auto 2] :  Store Value (Shared) for market: pl = 27.44
+3/22/2022 02:49:57: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.31
+3/22/2022 02:49:57: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.3
+3/22/2022 02:49:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:50:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:50:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:50:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:50:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:51:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:51:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 02:51:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/22/2022 02:54:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:54:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/22/2022 02:55:08:  Guardian has detected that the market is suspended
