@@ -1,0 +1,387 @@
+3/24/2022 13:41:41: [G_Auto 2] :  Store Text Value (Shared) for Lloyd Harris: info = marketName: L Harris v Bagnis - Match Odds; runnerA: Lloyd Harris; runnerB: Facundo Bagnis 
+3/24/2022 13:41:41: [G_Auto 2] :  Store Value (Shared) for market: aId = 11313212
+3/24/2022 13:41:41: [G_Auto 2] :  Store Value (Shared) for market: bId = 4520808
+3/24/2022 16:10:28:  Guardian has detected that the market is in-play
+3/24/2022 16:10:28:  Guardian has detected that the market is suspended
+3/24/2022 16:10:34: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.36; bBsp: 3.95; volume: 50915.67 
+3/24/2022 16:10:34: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.36; bBsp: 3.95; volume: 50915.67 
+3/24/2022 16:10:34:  Guardian has detected that the market is now unsuspended
+3/24/2022 16:10:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 16:11:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 16:11:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 16:11:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 16:11:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 16:12:16: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 16:12:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 16:15:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 16:15:35: [G_Auto 1] :  € 40.00 Lay bet placed on Lloyd Harris at 1.2. Fully matched at 1.19.  Ref: 11863          ( Fill or kill bet with 15 seconds delay.   )
+3/24/2022 16:15:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 16:15:38: [G_Auto 2] :  Store Text Value (Shared) for Lloyd Harris: aPoints = point: 0; games: 1; sets: 0 
+3/24/2022 16:15:38: [G_Auto 2] :  Store Text Value (Shared) for Lloyd Harris: aServing = serving:1
+3/24/2022 16:15:38: [G_Auto 2] :  Store Text Value (Shared) for Facundo Bagnis: bPoints = point: 0; games: 0; sets: 0 
+3/24/2022 16:15:38: [G_Auto 2] :  Store Text Value (Shared) for Facundo Bagnis: bServing = serving:0
+3/24/2022 16:15:38: [G_Auto 2] :  Store Value (Shared) for market: price = 1.19
+3/24/2022 16:15:38: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+3/24/2022 16:15:38: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 40
+3/24/2022 16:15:38: [G_Auto 2] :  Store Value (Shared) for market: stake = 40
+3/24/2022 16:15:38: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 40
+3/24/2022 16:15:38: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.34
+3/24/2022 16:15:38: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.18
+3/24/2022 16:15:38: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 6.2
+3/24/2022 16:15:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 16:16:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 16:16:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 16:16:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 16:18:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 16:19:01: [G_Auto 1] :  Placed closure bet with greening on Lloyd Harris by Backing 40.68 at 1.17
+3/24/2022 16:19:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 16:19:04: [G_Auto 2] :  Store Text Value (Shared) for Lloyd Harris: aPoints = point: 0; games: 2; sets: 0 
+3/24/2022 16:19:04: [G_Auto 2] :  Store Text Value (Shared) for Lloyd Harris: aServing = serving:0
+3/24/2022 16:19:04: [G_Auto 2] :  Store Text Value (Shared) for Facundo Bagnis: bPoints = point: 0; games: 0; sets: 0 
+3/24/2022 16:19:04: [G_Auto 2] :  Store Text Value (Shared) for Facundo Bagnis: bServing = serving:2
+3/24/2022 16:19:04: [G_Auto 2] :  Store Value (Shared) for market: price = 1.17
+3/24/2022 16:19:04: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 40.68
+3/24/2022 16:19:04: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 40
+3/24/2022 16:19:04: [G_Auto 2] :  Store Value (Shared) for market: stake = 40.68
+3/24/2022 16:19:04: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 80.68
+3/24/2022 16:19:04: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.68
+3/24/2022 16:19:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.17
+3/24/2022 16:19:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 6.8
+3/24/2022 16:19:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 16:19:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 16:20:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 16:20:48: [G_Auto 1] :  € 36.36 Lay bet placed on Lloyd Harris at 1.22. Fully matched at 1.21.  Ref: 11868          ( Fill or kill bet with 15 seconds delay.   )
+3/24/2022 16:20:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 16:20:52: [G_Auto 2] :  Store Text Value (Shared) for Lloyd Harris: aPoints = point: 0; games: 2; sets: 0 
+3/24/2022 16:20:52: [G_Auto 2] :  Store Text Value (Shared) for Lloyd Harris: aServing = serving:1
+3/24/2022 16:20:52: [G_Auto 2] :  Store Text Value (Shared) for Facundo Bagnis: bPoints = point: 0; games: 1; sets: 0 
+3/24/2022 16:20:52: [G_Auto 2] :  Store Text Value (Shared) for Facundo Bagnis: bServing = serving:0
+3/24/2022 16:20:52: [G_Auto 2] :  Store Value (Shared) for market: price = 1.21
+3/24/2022 16:20:52: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 40.68
+3/24/2022 16:20:52: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 76.36
+3/24/2022 16:20:52: [G_Auto 2] :  Store Value (Shared) for market: stake = 36.36
+3/24/2022 16:20:52: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 117.04
+3/24/2022 16:20:52: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.99
+3/24/2022 16:20:52: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.2
+3/24/2022 16:20:52: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 6
+3/24/2022 16:20:58: [G_Auto 2] :  Store Text Value (Shared) for Lloyd Harris: aPoints = point: 0; games: 2; sets: 0 
+3/24/2022 16:20:58: [G_Auto 2] :  Store Text Value (Shared) for Lloyd Harris: aServing = serving:1
+3/24/2022 16:20:58: [G_Auto 2] :  Store Text Value (Shared) for Facundo Bagnis: bPoints = point: 0; games: 1; sets: 0 
+3/24/2022 16:20:58: [G_Auto 2] :  Store Text Value (Shared) for Facundo Bagnis: bServing = serving:0
+3/24/2022 16:20:58: [G_Auto 2] :  Store Value (Shared) for market: price = 1.21
+3/24/2022 16:20:58: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 40.68
+3/24/2022 16:20:58: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 76.36
+3/24/2022 16:20:58: [G_Auto 2] :  Store Value (Shared) for market: stake = 36.36
+3/24/2022 16:20:58: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 117.04
+3/24/2022 16:20:58: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.99
+3/24/2022 16:20:58: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.2
+3/24/2022 16:20:58: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 6
+3/24/2022 16:21:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 16:21:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 16:21:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 16:22:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 16:22:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 16:22:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 16:22:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 16:23:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 16:24:12: [G_Auto 1] :  Placed closure bet with greening on Lloyd Harris by Backing 38.26 at 1.15
+3/24/2022 16:24:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 16:24:15: [G_Auto 2] :  Store Text Value (Shared) for Lloyd Harris: aPoints = point: 0; games: 3; sets: 0 
+3/24/2022 16:24:15: [G_Auto 2] :  Store Text Value (Shared) for Lloyd Harris: aServing = serving:0
+3/24/2022 16:24:15: [G_Auto 2] :  Store Text Value (Shared) for Facundo Bagnis: bPoints = point: 0; games: 1; sets: 0 
+3/24/2022 16:24:15: [G_Auto 2] :  Store Text Value (Shared) for Facundo Bagnis: bServing = serving:2
+3/24/2022 16:24:15: [G_Auto 2] :  Store Value (Shared) for market: price = 1.15
+3/24/2022 16:24:15: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 78.94
+3/24/2022 16:24:15: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 76.36
+3/24/2022 16:24:15: [G_Auto 2] :  Store Value (Shared) for market: stake = 38.26
+3/24/2022 16:24:15: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 155.3
+3/24/2022 16:24:15: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.58
+3/24/2022 16:24:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.15
+3/24/2022 16:24:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 7.2
+3/24/2022 16:24:21: [G_Auto 2] :  Store Text Value (Shared) for Lloyd Harris: aPoints = point: 0; games: 3; sets: 0 
+3/24/2022 16:24:21: [G_Auto 2] :  Store Text Value (Shared) for Lloyd Harris: aServing = serving:0
+3/24/2022 16:24:21: [G_Auto 2] :  Store Text Value (Shared) for Facundo Bagnis: bPoints = point: 0; games: 1; sets: 0 
+3/24/2022 16:24:21: [G_Auto 2] :  Store Text Value (Shared) for Facundo Bagnis: bServing = serving:2
+3/24/2022 16:24:21: [G_Auto 2] :  Store Value (Shared) for market: price = 1.15
+3/24/2022 16:24:21: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 78.94
+3/24/2022 16:24:21: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 76.36
+3/24/2022 16:24:21: [G_Auto 2] :  Store Value (Shared) for market: stake = 38.26
+3/24/2022 16:24:21: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 155.3
+3/24/2022 16:24:21: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.58
+3/24/2022 16:24:21: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.17
+3/24/2022 16:24:21: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 7.2
+3/24/2022 16:24:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 16:24:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 16:25:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 16:28:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 16:28:26: [G_Auto 1] :  € 42.11 Lay bet placed on Lloyd Harris at 1.19. Fully matched at 1.18.  Ref: 11877          ( Fill or kill bet with 15 seconds delay.   )
+3/24/2022 16:28:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 16:28:29: [G_Auto 2] :  Store Text Value (Shared) for Lloyd Harris: aPoints = point: 0; games: 3; sets: 0 
+3/24/2022 16:28:29: [G_Auto 2] :  Store Text Value (Shared) for Lloyd Harris: aServing = serving:1
+3/24/2022 16:28:29: [G_Auto 2] :  Store Text Value (Shared) for Facundo Bagnis: bPoints = point: 0; games: 2; sets: 0 
+3/24/2022 16:28:29: [G_Auto 2] :  Store Text Value (Shared) for Facundo Bagnis: bServing = serving:0
+3/24/2022 16:28:29: [G_Auto 2] :  Store Value (Shared) for market: price = 1.18
+3/24/2022 16:28:29: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 78.94
+3/24/2022 16:28:29: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 118.47
+3/24/2022 16:28:29: [G_Auto 2] :  Store Value (Shared) for market: stake = 42.11
+3/24/2022 16:28:29: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 197.41
+3/24/2022 16:28:29: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.58
+3/24/2022 16:28:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.18
+3/24/2022 16:28:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 6.8
+3/24/2022 16:28:36: [G_Auto 2] :  Store Text Value (Shared) for Lloyd Harris: aPoints = point: 0; games: 3; sets: 0 
+3/24/2022 16:28:36: [G_Auto 2] :  Store Text Value (Shared) for Lloyd Harris: aServing = serving:1
+3/24/2022 16:28:36: [G_Auto 2] :  Store Text Value (Shared) for Facundo Bagnis: bPoints = point: 0; games: 2; sets: 0 
+3/24/2022 16:28:36: [G_Auto 2] :  Store Text Value (Shared) for Facundo Bagnis: bServing = serving:0
+3/24/2022 16:28:36: [G_Auto 2] :  Store Value (Shared) for market: price = 1.18
+3/24/2022 16:28:36: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 78.94
+3/24/2022 16:28:36: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 118.47
+3/24/2022 16:28:36: [G_Auto 2] :  Store Value (Shared) for market: stake = 42.11
+3/24/2022 16:28:36: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 197.41
+3/24/2022 16:28:36: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.94
+3/24/2022 16:28:36: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.17
+3/24/2022 16:28:36: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 6.2
+3/24/2022 16:28:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 16:29:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 16:29:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 16:29:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 16:30:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 16:30:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 16:30:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 16:30:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 16:33:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 16:33:31: [G_Auto 1] :  Placed closure bet with greening on Lloyd Harris by Backing 43.21 at 1.15
+3/24/2022 16:33:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 16:33:34: [G_Auto 2] :  Store Text Value (Shared) for Lloyd Harris: aPoints = point: 0; games: 4; sets: 0 
+3/24/2022 16:33:34: [G_Auto 2] :  Store Text Value (Shared) for Lloyd Harris: aServing = serving:0
+3/24/2022 16:33:34: [G_Auto 2] :  Store Text Value (Shared) for Facundo Bagnis: bPoints = point: 0; games: 2; sets: 0 
+3/24/2022 16:33:34: [G_Auto 2] :  Store Text Value (Shared) for Facundo Bagnis: bServing = serving:2
+3/24/2022 16:33:34: [G_Auto 2] :  Store Value (Shared) for market: price = 1.15
+3/24/2022 16:33:34: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 122.15
+3/24/2022 16:33:34: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 118.47
+3/24/2022 16:33:34: [G_Auto 2] :  Store Value (Shared) for market: stake = 43.21
+3/24/2022 16:33:34: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 240.62
+3/24/2022 16:33:34: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.68
+3/24/2022 16:33:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.16
+3/24/2022 16:33:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 7.4
+3/24/2022 16:33:40: [G_Auto 2] :  Store Text Value (Shared) for Lloyd Harris: aPoints = point: 0; games: 4; sets: 0 
+3/24/2022 16:33:40: [G_Auto 2] :  Store Text Value (Shared) for Lloyd Harris: aServing = serving:0
+3/24/2022 16:33:40: [G_Auto 2] :  Store Text Value (Shared) for Facundo Bagnis: bPoints = point: 0; games: 2; sets: 0 
+3/24/2022 16:33:40: [G_Auto 2] :  Store Text Value (Shared) for Facundo Bagnis: bServing = serving:2
+3/24/2022 16:33:40: [G_Auto 2] :  Store Value (Shared) for market: price = 1.15
+3/24/2022 16:33:40: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 122.15
+3/24/2022 16:33:40: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 118.47
+3/24/2022 16:33:40: [G_Auto 2] :  Store Value (Shared) for market: stake = 43.21
+3/24/2022 16:33:40: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 240.62
+3/24/2022 16:33:40: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.68
+3/24/2022 16:33:40: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.16
+3/24/2022 16:33:40: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 7.4
+3/24/2022 16:33:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 16:34:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 16:34:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 16:36:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 16:36:29: [G_Auto 1] :  € 40.00 Lay bet placed on Lloyd Harris at 1.2. Fully matched at 1.19.  Ref: 11883          ( Fill or kill bet with 15 seconds delay.   )
+3/24/2022 16:36:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 16:36:32: [G_Auto 2] :  Store Text Value (Shared) for Lloyd Harris: aPoints = point: 0; games: 4; sets: 0 
+3/24/2022 16:36:32: [G_Auto 2] :  Store Text Value (Shared) for Lloyd Harris: aServing = serving:1
+3/24/2022 16:36:32: [G_Auto 2] :  Store Text Value (Shared) for Facundo Bagnis: bPoints = point: 0; games: 3; sets: 0 
+3/24/2022 16:36:32: [G_Auto 2] :  Store Text Value (Shared) for Facundo Bagnis: bServing = serving:0
+3/24/2022 16:36:32: [G_Auto 2] :  Store Value (Shared) for market: price = 1.19
+3/24/2022 16:36:32: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 122.15
+3/24/2022 16:36:32: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 158.47
+3/24/2022 16:36:32: [G_Auto 2] :  Store Value (Shared) for market: stake = 40
+3/24/2022 16:36:32: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 280.62
+3/24/2022 16:36:32: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.68
+3/24/2022 16:36:32: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.19
+3/24/2022 16:36:32: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 6.6
+3/24/2022 16:36:39: [G_Auto 2] :  Store Text Value (Shared) for Lloyd Harris: aPoints = point: 0; games: 4; sets: 0 
+3/24/2022 16:36:39: [G_Auto 2] :  Store Text Value (Shared) for Lloyd Harris: aServing = serving:1
+3/24/2022 16:36:39: [G_Auto 2] :  Store Text Value (Shared) for Facundo Bagnis: bPoints = point: 0; games: 3; sets: 0 
+3/24/2022 16:36:39: [G_Auto 2] :  Store Text Value (Shared) for Facundo Bagnis: bServing = serving:0
+3/24/2022 16:36:39: [G_Auto 2] :  Store Value (Shared) for market: price = 1.19
+3/24/2022 16:36:39: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 122.15
+3/24/2022 16:36:39: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 158.47
+3/24/2022 16:36:39: [G_Auto 2] :  Store Value (Shared) for market: stake = 40
+3/24/2022 16:36:39: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 280.62
+3/24/2022 16:36:39: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.68
+3/24/2022 16:36:39: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.19
+3/24/2022 16:36:39: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 6.2
+3/24/2022 16:36:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 16:37:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 16:37:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 16:37:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 16:38:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 16:38:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 16:38:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 16:42:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 16:42:18: [G_Auto 1] :  Placed closure bet with greening on Lloyd Harris by Backing 40.68 at 1.17
+3/24/2022 16:42:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 16:42:22: [G_Auto 2] :  Store Text Value (Shared) for Lloyd Harris: aPoints = point: 0; games: 5; sets: 0 
+3/24/2022 16:42:22: [G_Auto 2] :  Store Text Value (Shared) for Lloyd Harris: aServing = serving:0
+3/24/2022 16:42:22: [G_Auto 2] :  Store Text Value (Shared) for Facundo Bagnis: bPoints = point: 0; games: 3; sets: 0 
+3/24/2022 16:42:22: [G_Auto 2] :  Store Text Value (Shared) for Facundo Bagnis: bServing = serving:2
+3/24/2022 16:42:22: [G_Auto 2] :  Store Value (Shared) for market: price = 1.17
+3/24/2022 16:42:22: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 162.83
+3/24/2022 16:42:22: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 158.47
+3/24/2022 16:42:22: [G_Auto 2] :  Store Value (Shared) for market: stake = 40.68
+3/24/2022 16:42:22: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 321.3
+3/24/2022 16:42:22: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.36
+3/24/2022 16:42:22: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.18
+3/24/2022 16:42:22: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 6.8
+3/24/2022 16:42:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 16:42:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 16:43:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 16:44:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 16:44:16: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 1.11
+3/24/2022 16:44:16: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 9.4
+3/24/2022 16:44:19: [G_Auto 1] :  € 61.54 Lay bet placed on Lloyd Harris at 1.13. Fully matched at 1.12.  Ref: 11891          ( Fill or kill bet with 15 seconds delay.   )
+3/24/2022 16:44:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 16:44:22: [G_Auto 2] :  Store Text Value (Shared) for Lloyd Harris: aPoints = point: 0; games: 0; sets: 1 
+3/24/2022 16:44:22: [G_Auto 2] :  Store Text Value (Shared) for Lloyd Harris: aServing = serving:1
+3/24/2022 16:44:22: [G_Auto 2] :  Store Text Value (Shared) for Facundo Bagnis: bPoints = point: 0; games: 0; sets: 0 
+3/24/2022 16:44:22: [G_Auto 2] :  Store Text Value (Shared) for Facundo Bagnis: bServing = serving:0
+3/24/2022 16:44:22: [G_Auto 2] :  Store Value (Shared) for market: price = 1.12
+3/24/2022 16:44:22: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 162.83
+3/24/2022 16:44:22: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 220.01
+3/24/2022 16:44:22: [G_Auto 2] :  Store Value (Shared) for market: stake = 61.54
+3/24/2022 16:44:22: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 382.84
+3/24/2022 16:44:22: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.36
+3/24/2022 16:44:22: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.12
+3/24/2022 16:44:22: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 9.4
+3/24/2022 16:44:28: [G_Auto 2] :  Store Text Value (Shared) for Lloyd Harris: aPoints = point: 0; games: 0; sets: 1 
+3/24/2022 16:44:28: [G_Auto 2] :  Store Text Value (Shared) for Lloyd Harris: aServing = serving:1
+3/24/2022 16:44:28: [G_Auto 2] :  Store Text Value (Shared) for Facundo Bagnis: bPoints = point: 0; games: 0; sets: 0 
+3/24/2022 16:44:28: [G_Auto 2] :  Store Text Value (Shared) for Facundo Bagnis: bServing = serving:0
+3/24/2022 16:44:28: [G_Auto 2] :  Store Value (Shared) for market: price = 1.12
+3/24/2022 16:44:28: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 162.83
+3/24/2022 16:44:28: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 220.01
+3/24/2022 16:44:28: [G_Auto 2] :  Store Value (Shared) for market: stake = 61.54
+3/24/2022 16:44:28: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 382.84
+3/24/2022 16:44:28: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.36
+3/24/2022 16:44:28: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.12
+3/24/2022 16:44:28: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 9.4
+3/24/2022 16:44:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 16:45:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 16:45:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 16:45:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 16:45:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 16:46:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 16:46:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 16:46:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 16:47:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 16:50:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 16:50:38: [G_Auto 1] :  Placed closure bet with greening on Lloyd Harris by Backing 62.66 at 1.1
+3/24/2022 16:50:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 16:50:42: [G_Auto 2] :  Store Text Value (Shared) for Lloyd Harris: aPoints = point: 0; games: 1; sets: 1 
+3/24/2022 16:50:42: [G_Auto 2] :  Store Text Value (Shared) for Lloyd Harris: aServing = serving:0
+3/24/2022 16:50:42: [G_Auto 2] :  Store Text Value (Shared) for Facundo Bagnis: bPoints = point: 0; games: 0; sets: 0 
+3/24/2022 16:50:42: [G_Auto 2] :  Store Text Value (Shared) for Facundo Bagnis: bServing = serving:2
+3/24/2022 16:50:42: [G_Auto 2] :  Store Value (Shared) for market: price = 1.1
+3/24/2022 16:50:42: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 225.49
+3/24/2022 16:50:42: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 220.01
+3/24/2022 16:50:42: [G_Auto 2] :  Store Value (Shared) for market: stake = 62.66
+3/24/2022 16:50:42: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 445.5
+3/24/2022 16:50:42: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.48
+3/24/2022 16:50:42: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.11
+3/24/2022 16:50:42: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 10
+3/24/2022 16:50:48: [G_Auto 2] :  Store Text Value (Shared) for Lloyd Harris: aPoints = point: 0; games: 1; sets: 1 
+3/24/2022 16:50:48: [G_Auto 2] :  Store Text Value (Shared) for Lloyd Harris: aServing = serving:0
+3/24/2022 16:50:48: [G_Auto 2] :  Store Text Value (Shared) for Facundo Bagnis: bPoints = point: 0; games: 0; sets: 0 
+3/24/2022 16:50:48: [G_Auto 2] :  Store Text Value (Shared) for Facundo Bagnis: bServing = serving:2
+3/24/2022 16:50:48: [G_Auto 2] :  Store Value (Shared) for market: price = 1.1
+3/24/2022 16:50:48: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 225.49
+3/24/2022 16:50:48: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 220.01
+3/24/2022 16:50:48: [G_Auto 2] :  Store Value (Shared) for market: stake = 62.66
+3/24/2022 16:50:48: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 445.5
+3/24/2022 16:50:48: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.48
+3/24/2022 16:50:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.1
+3/24/2022 16:50:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 10
+3/24/2022 16:51:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 16:51:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 16:51:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 16:51:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 16:53:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 16:53:49: [G_Auto 1] :  € 53.33 Lay bet placed on Lloyd Harris at 1.15. Fully matched at 1.14.  Ref: 11899          ( Fill or kill bet with 15 seconds delay.   )
+3/24/2022 16:53:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 16:53:52: [G_Auto 2] :  Store Text Value (Shared) for Lloyd Harris: aPoints = point: 0; games: 1; sets: 1 
+3/24/2022 16:53:52: [G_Auto 2] :  Store Text Value (Shared) for Lloyd Harris: aServing = serving:1
+3/24/2022 16:53:52: [G_Auto 2] :  Store Text Value (Shared) for Facundo Bagnis: bPoints = point: 0; games: 1; sets: 0 
+3/24/2022 16:53:52: [G_Auto 2] :  Store Text Value (Shared) for Facundo Bagnis: bServing = serving:0
+3/24/2022 16:53:52: [G_Auto 2] :  Store Value (Shared) for market: price = 1.14
+3/24/2022 16:53:52: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 225.49
+3/24/2022 16:53:52: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 273.34
+3/24/2022 16:53:52: [G_Auto 2] :  Store Value (Shared) for market: stake = 53.33
+3/24/2022 16:53:52: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 498.83
+3/24/2022 16:53:52: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.95
+3/24/2022 16:53:52: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.14
+3/24/2022 16:53:52: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 8.6
+3/24/2022 16:53:59: [G_Auto 2] :  Store Text Value (Shared) for Lloyd Harris: aPoints = point: 0; games: 1; sets: 1 
+3/24/2022 16:53:59: [G_Auto 2] :  Store Text Value (Shared) for Lloyd Harris: aServing = serving:1
+3/24/2022 16:53:59: [G_Auto 2] :  Store Text Value (Shared) for Facundo Bagnis: bPoints = point: 0; games: 1; sets: 0 
+3/24/2022 16:53:59: [G_Auto 2] :  Store Text Value (Shared) for Facundo Bagnis: bServing = serving:0
+3/24/2022 16:53:59: [G_Auto 2] :  Store Value (Shared) for market: price = 1.14
+3/24/2022 16:53:59: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 225.49
+3/24/2022 16:53:59: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 273.34
+3/24/2022 16:53:59: [G_Auto 2] :  Store Value (Shared) for market: stake = 53.33
+3/24/2022 16:53:59: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 498.83
+3/24/2022 16:53:59: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.95
+3/24/2022 16:53:59: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.14
+3/24/2022 16:53:59: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 8.6
+3/24/2022 16:54:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 16:54:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 16:54:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 17:03:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 17:03:16: [G_Auto 1] :  Placed closure bet with greening on Lloyd Harris by Backing 53.33 at 1.14
+3/24/2022 17:03:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 17:03:19: [G_Auto 2] :  Store Text Value (Shared) for Lloyd Harris: aPoints = point: 0; games: 2; sets: 1 
+3/24/2022 17:03:19: [G_Auto 2] :  Store Text Value (Shared) for Lloyd Harris: aServing = serving:0
+3/24/2022 17:03:19: [G_Auto 2] :  Store Text Value (Shared) for Facundo Bagnis: bPoints = point: 0; games: 1; sets: 0 
+3/24/2022 17:03:19: [G_Auto 2] :  Store Text Value (Shared) for Facundo Bagnis: bServing = serving:2
+3/24/2022 17:03:19: [G_Auto 2] :  Store Value (Shared) for market: price = 1.14
+3/24/2022 17:03:19: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 278.82
+3/24/2022 17:03:19: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 273.34
+3/24/2022 17:03:19: [G_Auto 2] :  Store Value (Shared) for market: stake = 53.33
+3/24/2022 17:03:19: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 552.16
+3/24/2022 17:03:19: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.48
+3/24/2022 17:03:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.15
+3/24/2022 17:03:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 8
+3/24/2022 17:03:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 17:03:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 17:04:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 17:04:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 17:04:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 17:05:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 17:05:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 17:05:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 17:07:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 17:07:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 17:07:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 17:07:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 17:08:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 17:14:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 17:14:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 17:14:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 17:14:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 17:15:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 17:15:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 17:15:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 17:16:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 17:16:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 17:16:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 17:17:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 17:18:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 17:18:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 17:18:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 17:23:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 17:24:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 17:24:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 17:24:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 17:25:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 17:25:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 17:25:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 17:25:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 17:26:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 17:28:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 17:28:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 17:29:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 17:29:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 17:31:07:  Guardian has detected that the market is suspended

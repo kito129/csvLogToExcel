@@ -1,0 +1,481 @@
+3/24/2022 13:41:41: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: info = marketName: Sabalenka v Begu - Match Odds; runnerA: Aryna Sabalenka; runnerB: Irina-Camelia Begu 
+3/24/2022 13:41:41: [G_Auto 2] :  Store Value (Shared) for market: aId = 9628840
+3/24/2022 13:41:41: [G_Auto 2] :  Store Value (Shared) for market: bId = 7642289
+3/25/2022 02:06:48:  Guardian has detected that the market is in-play
+3/25/2022 02:06:48:  Guardian has detected that the market is suspended
+3/25/2022 02:06:49: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.4; bBsp: 3.55; volume: 22520.08 
+3/25/2022 02:06:49: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.4; bBsp: 3.55; volume: 22520.08 
+3/25/2022 02:06:49:  Guardian has detected that the market is now unsuspended
+3/25/2022 02:06:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 02:07:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 02:07:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 02:09:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:09:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:09:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:09:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:10:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:10:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:10:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:10:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 02:11:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 02:11:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 02:16:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:16:21: [G_Auto 1] :  € 18.18 Lay bet placed on Aryna Sabalenka at 1.44. Fully matched at 1.43.  Ref: 12353          ( Fill or kill bet with 15 seconds delay.   )
+3/25/2022 02:16:21: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: aPoints = point: 0; games: 1; sets: 0 
+3/25/2022 02:16:21: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: aServing = serving:1
+3/25/2022 02:16:21: [G_Auto 2] :  Store Text Value (Shared) for Irina-Camelia Begu: bPoints = point: 0; games: 1; sets: 0 
+3/25/2022 02:16:21: [G_Auto 2] :  Store Text Value (Shared) for Irina-Camelia Begu: bServing = serving:0
+3/25/2022 02:16:21: [G_Auto 2] :  Store Value (Shared) for market: price = 1.43
+3/25/2022 02:16:21: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+3/25/2022 02:16:21: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 18.18
+3/25/2022 02:16:21: [G_Auto 2] :  Store Value (Shared) for market: stake = 18.18
+3/25/2022 02:16:21: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 18.18
+3/25/2022 02:16:21: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.13
+3/25/2022 02:16:21: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.42
+3/25/2022 02:16:21: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.4
+3/25/2022 02:16:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:16:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:16:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:17:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 02:17:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 02:20:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:20:27: [G_Auto 1] :  Placed closure bet with greening on Aryna Sabalenka by Backing 19.40 at 1.34
+3/25/2022 02:20:28: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: aPoints = point: 0; games: 2; sets: 0 
+3/25/2022 02:20:28: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: aServing = serving:0
+3/25/2022 02:20:28: [G_Auto 2] :  Store Text Value (Shared) for Irina-Camelia Begu: bPoints = point: 0; games: 1; sets: 0 
+3/25/2022 02:20:28: [G_Auto 2] :  Store Text Value (Shared) for Irina-Camelia Begu: bServing = serving:2
+3/25/2022 02:20:28: [G_Auto 2] :  Store Value (Shared) for market: price = 1.34
+3/25/2022 02:20:28: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 19.4
+3/25/2022 02:20:28: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 18.18
+3/25/2022 02:20:28: [G_Auto 2] :  Store Value (Shared) for market: stake = 19.4
+3/25/2022 02:20:28: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 37.58
+3/25/2022 02:20:28: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.22
+3/25/2022 02:20:28: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.35
+3/25/2022 02:20:28: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.95
+3/25/2022 02:20:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:20:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:21:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:21:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:21:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:21:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:22:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:22:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:22:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 02:22:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 02:23:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:24:10: [G_Auto 1] :  € 17.02 Lay bet placed on Aryna Sabalenka at 1.47. Fully matched at 1.47.  Ref: 12356          ( Fill or kill bet with 15 seconds delay.   )
+3/25/2022 02:24:10: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: aPoints = point: 0; games: 2; sets: 0 
+3/25/2022 02:24:10: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: aServing = serving:1
+3/25/2022 02:24:10: [G_Auto 2] :  Store Text Value (Shared) for Irina-Camelia Begu: bPoints = point: 0; games: 2; sets: 0 
+3/25/2022 02:24:10: [G_Auto 2] :  Store Text Value (Shared) for Irina-Camelia Begu: bServing = serving:0
+3/25/2022 02:24:10: [G_Auto 2] :  Store Value (Shared) for market: price = 1.47
+3/25/2022 02:24:10: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 19.4
+3/25/2022 02:24:10: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 35.2
+3/25/2022 02:24:10: [G_Auto 2] :  Store Value (Shared) for market: stake = 17.02
+3/25/2022 02:24:10: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 54.6
+3/25/2022 02:24:10: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.46
+3/25/2022 02:24:10: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.45
+3/25/2022 02:24:10: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.1
+3/25/2022 02:24:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:24:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:24:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 02:24:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 02:25:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 02:25:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 02:27:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:27:19: [G_Auto 1] :  Placed closure bet with greening on Aryna Sabalenka by Backing 18.53 at 1.35
+3/25/2022 02:27:20: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: aPoints = point: 0; games: 3; sets: 0 
+3/25/2022 02:27:20: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: aServing = serving:0
+3/25/2022 02:27:20: [G_Auto 2] :  Store Text Value (Shared) for Irina-Camelia Begu: bPoints = point: 0; games: 2; sets: 0 
+3/25/2022 02:27:20: [G_Auto 2] :  Store Text Value (Shared) for Irina-Camelia Begu: bServing = serving:2
+3/25/2022 02:27:20: [G_Auto 2] :  Store Value (Shared) for market: price = 1.35
+3/25/2022 02:27:20: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 37.93
+3/25/2022 02:27:20: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 35.2
+3/25/2022 02:27:20: [G_Auto 2] :  Store Value (Shared) for market: stake = 18.53
+3/25/2022 02:27:20: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 73.13
+3/25/2022 02:27:20: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.74
+3/25/2022 02:27:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.37
+3/25/2022 02:27:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.75
+3/25/2022 02:27:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:27:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:27:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:28:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:28:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:28:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:28:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:29:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:29:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 02:29:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 02:29:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 02:30:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 02:31:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:32:12: [G_Auto 1] :  € 17.78 Lay bet placed on Aryna Sabalenka at 1.45. Fully matched at 1.45.  Ref: 12360          ( Fill or kill bet with 15 seconds delay.   )
+3/25/2022 02:32:12: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: aPoints = point: 0; games: 3; sets: 0 
+3/25/2022 02:32:12: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: aServing = serving:1
+3/25/2022 02:32:12: [G_Auto 2] :  Store Text Value (Shared) for Irina-Camelia Begu: bPoints = point: 0; games: 3; sets: 0 
+3/25/2022 02:32:12: [G_Auto 2] :  Store Text Value (Shared) for Irina-Camelia Begu: bServing = serving:0
+3/25/2022 02:32:12: [G_Auto 2] :  Store Value (Shared) for market: price = 1.45
+3/25/2022 02:32:12: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 37.93
+3/25/2022 02:32:12: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 52.98
+3/25/2022 02:32:12: [G_Auto 2] :  Store Value (Shared) for market: stake = 17.78
+3/25/2022 02:32:12: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 90.91
+3/25/2022 02:32:12: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.98
+3/25/2022 02:32:12: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.43
+3/25/2022 02:32:12: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.35
+3/25/2022 02:32:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:32:17: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: aPoints = point: 0; games: 3; sets: 0 
+3/25/2022 02:32:17: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: aServing = serving:1
+3/25/2022 02:32:17: [G_Auto 2] :  Store Text Value (Shared) for Irina-Camelia Begu: bPoints = point: 0; games: 3; sets: 0 
+3/25/2022 02:32:17: [G_Auto 2] :  Store Text Value (Shared) for Irina-Camelia Begu: bServing = serving:0
+3/25/2022 02:32:17: [G_Auto 2] :  Store Value (Shared) for market: price = 1.45
+3/25/2022 02:32:17: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 37.93
+3/25/2022 02:32:17: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 52.98
+3/25/2022 02:32:17: [G_Auto 2] :  Store Value (Shared) for market: stake = 17.78
+3/25/2022 02:32:17: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 90.91
+3/25/2022 02:32:17: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.73
+3/25/2022 02:32:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.45
+3/25/2022 02:32:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.35
+3/25/2022 02:32:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:32:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 02:32:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 02:33:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 02:34:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:34:35: [G_Auto 1] :  Placed closure bet with greening on Aryna Sabalenka by Backing 13.43 at 1.92
+3/25/2022 02:34:35: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: aPoints = point: 0; games: 3; sets: 0 
+3/25/2022 02:34:35: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: aServing = serving:0
+3/25/2022 02:34:35: [G_Auto 2] :  Store Text Value (Shared) for Irina-Camelia Begu: bPoints = point: 0; games: 4; sets: 0 
+3/25/2022 02:34:35: [G_Auto 2] :  Store Text Value (Shared) for Irina-Camelia Begu: bServing = serving:2
+3/25/2022 02:34:35: [G_Auto 2] :  Store Value (Shared) for market: price = 1.92
+3/25/2022 02:34:35: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 51.36
+3/25/2022 02:34:35: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 52.98
+3/25/2022 02:34:35: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.43
+3/25/2022 02:34:35: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 104.34
+3/25/2022 02:34:35: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.59
+3/25/2022 02:34:35: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.92
+3/25/2022 02:34:35: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.1
+3/25/2022 02:34:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:34:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:35:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:35:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:35:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:35:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:36:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:36:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:36:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 02:36:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 02:39:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:40:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:40:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:40:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 02:40:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 02:40:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 02:43:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:43:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:43:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:44:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:44:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:44:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:44:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:45:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:45:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:45:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 02:45:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 02:45:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 02:47:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:47:41: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 2.5
+3/25/2022 02:47:41: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 1.68
+3/25/2022 02:47:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:48:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:48:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:48:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:48:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:49:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:49:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:49:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:49:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:50:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:50:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:50:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:50:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:51:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:51:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:51:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:51:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:52:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:52:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:52:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:52:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:53:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:53:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:53:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:53:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 02:54:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 02:55:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:55:34: [G_Auto 1] :  € 9.88 Lay bet placed on Irina-Camelia Begu at 1.81. Entirely unmatched when it initially reached the market.   Ref: 12369          ( Fill or kill bet with 15 seconds delay.   )
+3/25/2022 02:55:34: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: aPoints = point: 0; games: 1; sets: 0 
+3/25/2022 02:55:34: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: aServing = serving:0
+3/25/2022 02:55:34: [G_Auto 2] :  Store Text Value (Shared) for Irina-Camelia Begu: bPoints = point: 0; games: 0; sets: 1 
+3/25/2022 02:55:34: [G_Auto 2] :  Store Text Value (Shared) for Irina-Camelia Begu: bServing = serving:2
+3/25/2022 02:55:34: [G_Auto 2] :  Store Value (Shared) for market: price = 1.81
+3/25/2022 02:55:34: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 51.36
+3/25/2022 02:55:34: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 57.185
+3/25/2022 02:55:34: [G_Auto 2] :  Store Value (Shared) for market: stake = 4.205
+3/25/2022 02:55:34: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 108.545
+3/25/2022 02:55:34: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.59
+3/25/2022 02:55:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.2
+3/25/2022 02:55:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.83
+3/25/2022 02:55:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:55:38: [G_Auto 1] :  € 9.88 of unmatched bet (Ref:12369) was filled before remainder was killed.
+3/25/2022 02:55:40: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: aPoints = point: 0; games: 1; sets: 0 
+3/25/2022 02:55:40: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: aServing = serving:0
+3/25/2022 02:55:40: [G_Auto 2] :  Store Text Value (Shared) for Irina-Camelia Begu: bPoints = point: 0; games: 0; sets: 1 
+3/25/2022 02:55:40: [G_Auto 2] :  Store Text Value (Shared) for Irina-Camelia Begu: bServing = serving:2
+3/25/2022 02:55:40: [G_Auto 2] :  Store Value (Shared) for market: price = 1.81
+3/25/2022 02:55:40: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 51.36
+3/25/2022 02:55:40: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 62.86
+3/25/2022 02:55:40: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.88
+3/25/2022 02:55:40: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 114.22
+3/25/2022 02:55:40: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.59
+3/25/2022 02:55:40: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.22
+3/25/2022 02:55:40: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.82
+3/25/2022 02:55:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:56:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:56:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 02:56:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 02:56:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 02:56:55: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 03:03:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 03:03:29: [G_Auto 1] :  Placed closure bet with greening on Irina-Camelia Begu by Backing 10.46 at 1.71
+3/25/2022 03:03:29: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: aPoints = point: 0; games: 1; sets: 0 
+3/25/2022 03:03:29: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: aServing = serving:1
+3/25/2022 03:03:29: [G_Auto 2] :  Store Text Value (Shared) for Irina-Camelia Begu: bPoints = point: 0; games: 1; sets: 1 
+3/25/2022 03:03:29: [G_Auto 2] :  Store Text Value (Shared) for Irina-Camelia Begu: bServing = serving:0
+3/25/2022 03:03:29: [G_Auto 2] :  Store Value (Shared) for market: price = 1.73
+3/25/2022 03:03:29: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 61.82
+3/25/2022 03:03:29: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 62.86
+3/25/2022 03:03:29: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.46
+3/25/2022 03:03:29: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 124.68
+3/25/2022 03:03:29: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.14
+3/25/2022 03:03:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.34
+3/25/2022 03:03:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.73
+3/25/2022 03:03:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 03:03:34: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: aPoints = point: 0; games: 1; sets: 0 
+3/25/2022 03:03:34: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: aServing = serving:1
+3/25/2022 03:03:34: [G_Auto 2] :  Store Text Value (Shared) for Irina-Camelia Begu: bPoints = point: 0; games: 1; sets: 1 
+3/25/2022 03:03:34: [G_Auto 2] :  Store Text Value (Shared) for Irina-Camelia Begu: bServing = serving:0
+3/25/2022 03:03:34: [G_Auto 2] :  Store Value (Shared) for market: price = 1.73
+3/25/2022 03:03:34: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 61.82
+3/25/2022 03:03:34: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 62.86
+3/25/2022 03:03:34: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.46
+3/25/2022 03:03:34: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 124.68
+3/25/2022 03:03:34: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.14
+3/25/2022 03:03:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.36
+3/25/2022 03:03:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.75
+3/25/2022 03:03:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 03:04:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 03:04:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 03:04:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 03:04:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 03:08:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 03:08:19: [G_Auto 1] :  € 22.22 Lay bet placed on Irina-Camelia Begu at 1.36. Fully matched at 1.36.  Ref: 12374          ( Fill or kill bet with 15 seconds delay.   )
+3/25/2022 03:08:20: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: aPoints = point: 0; games: 1; sets: 0 
+3/25/2022 03:08:20: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: aServing = serving:0
+3/25/2022 03:08:20: [G_Auto 2] :  Store Text Value (Shared) for Irina-Camelia Begu: bPoints = point: 0; games: 2; sets: 1 
+3/25/2022 03:08:20: [G_Auto 2] :  Store Text Value (Shared) for Irina-Camelia Begu: bServing = serving:2
+3/25/2022 03:08:20: [G_Auto 2] :  Store Value (Shared) for market: price = 1.36
+3/25/2022 03:08:20: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 61.82
+3/25/2022 03:08:20: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 85.08
+3/25/2022 03:08:20: [G_Auto 2] :  Store Value (Shared) for market: stake = 22.22
+3/25/2022 03:08:20: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 146.9
+3/25/2022 03:08:20: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.01
+3/25/2022 03:08:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.8
+3/25/2022 03:08:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.35
+3/25/2022 03:08:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 03:08:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 03:08:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 03:09:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 03:09:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 03:09:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 03:09:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 03:10:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 03:10:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 03:10:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 03:10:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 03:16:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 03:16:17: [G_Auto 1] :  Placed closure bet with greening on Irina-Camelia Begu by Backing 24.20 at 1.24
+3/25/2022 03:16:17: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: aPoints = point: 0; games: 1; sets: 0 
+3/25/2022 03:16:17: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: aServing = serving:1
+3/25/2022 03:16:17: [G_Auto 2] :  Store Text Value (Shared) for Irina-Camelia Begu: bPoints = point: 0; games: 3; sets: 1 
+3/25/2022 03:16:17: [G_Auto 2] :  Store Text Value (Shared) for Irina-Camelia Begu: bServing = serving:0
+3/25/2022 03:16:17: [G_Auto 2] :  Store Value (Shared) for market: price = 1.24
+3/25/2022 03:16:17: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 86.02
+3/25/2022 03:16:17: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 85.08
+3/25/2022 03:16:17: [G_Auto 2] :  Store Value (Shared) for market: stake = 24.2
+3/25/2022 03:16:17: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 171.1
+3/25/2022 03:16:17: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.94
+3/25/2022 03:16:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 5.2
+3/25/2022 03:16:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.25
+3/25/2022 03:16:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 03:16:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 03:16:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 03:17:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 03:17:16: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 03:17:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 03:20:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 03:20:28: [G_Auto 1] :  € 22.86 Lay bet placed on Irina-Camelia Begu at 1.35. Fully matched at 1.34.  Ref: 12378          ( Fill or kill bet with 15 seconds delay.   )
+3/25/2022 03:20:29: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: aPoints = point: 0; games: 2; sets: 0 
+3/25/2022 03:20:29: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: aServing = serving:0
+3/25/2022 03:20:29: [G_Auto 2] :  Store Text Value (Shared) for Irina-Camelia Begu: bPoints = point: 0; games: 3; sets: 1 
+3/25/2022 03:20:29: [G_Auto 2] :  Store Text Value (Shared) for Irina-Camelia Begu: bServing = serving:2
+3/25/2022 03:20:29: [G_Auto 2] :  Store Value (Shared) for market: price = 1.34
+3/25/2022 03:20:29: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 86.02
+3/25/2022 03:20:29: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 107.94
+3/25/2022 03:20:29: [G_Auto 2] :  Store Value (Shared) for market: stake = 22.86
+3/25/2022 03:20:29: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 193.96
+3/25/2022 03:20:29: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.11
+3/25/2022 03:20:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.1
+3/25/2022 03:20:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.33
+3/25/2022 03:20:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 03:20:34: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: aPoints = point: 0; games: 2; sets: 0 
+3/25/2022 03:20:34: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: aServing = serving:0
+3/25/2022 03:20:34: [G_Auto 2] :  Store Text Value (Shared) for Irina-Camelia Begu: bPoints = point: 0; games: 3; sets: 1 
+3/25/2022 03:20:34: [G_Auto 2] :  Store Text Value (Shared) for Irina-Camelia Begu: bServing = serving:2
+3/25/2022 03:20:34: [G_Auto 2] :  Store Value (Shared) for market: price = 1.34
+3/25/2022 03:20:34: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 86.02
+3/25/2022 03:20:34: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 107.94
+3/25/2022 03:20:34: [G_Auto 2] :  Store Value (Shared) for market: stake = 22.86
+3/25/2022 03:20:34: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 193.96
+3/25/2022 03:20:34: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.94
+3/25/2022 03:20:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.85
+3/25/2022 03:20:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.34
+3/25/2022 03:20:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 03:21:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 03:21:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 03:21:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 03:21:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 03:22:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 03:22:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 03:22:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 03:22:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 03:25:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 03:25:12: [G_Auto 1] :  Placed closure bet with greening on Irina-Camelia Begu by Backing 25.96 at 1.18
+3/25/2022 03:25:12: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: aPoints = point: 0; games: 2; sets: 0 
+3/25/2022 03:25:12: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: aServing = serving:1
+3/25/2022 03:25:12: [G_Auto 2] :  Store Text Value (Shared) for Irina-Camelia Begu: bPoints = point: 0; games: 4; sets: 1 
+3/25/2022 03:25:12: [G_Auto 2] :  Store Text Value (Shared) for Irina-Camelia Begu: bServing = serving:0
+3/25/2022 03:25:12: [G_Auto 2] :  Store Value (Shared) for market: price = 1.18
+3/25/2022 03:25:12: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 111.98
+3/25/2022 03:25:12: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 107.94
+3/25/2022 03:25:12: [G_Auto 2] :  Store Value (Shared) for market: stake = 25.96
+3/25/2022 03:25:12: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 219.92
+3/25/2022 03:25:12: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.04
+3/25/2022 03:25:12: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 6.2
+3/25/2022 03:25:12: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.19
+3/25/2022 03:25:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 03:25:17: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: aPoints = point: 0; games: 2; sets: 0 
+3/25/2022 03:25:17: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: aServing = serving:1
+3/25/2022 03:25:17: [G_Auto 2] :  Store Text Value (Shared) for Irina-Camelia Begu: bPoints = point: 0; games: 4; sets: 1 
+3/25/2022 03:25:17: [G_Auto 2] :  Store Text Value (Shared) for Irina-Camelia Begu: bServing = serving:0
+3/25/2022 03:25:17: [G_Auto 2] :  Store Value (Shared) for market: price = 1.18
+3/25/2022 03:25:17: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 111.98
+3/25/2022 03:25:17: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 107.94
+3/25/2022 03:25:17: [G_Auto 2] :  Store Value (Shared) for market: stake = 25.96
+3/25/2022 03:25:17: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 219.92
+3/25/2022 03:25:17: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.04
+3/25/2022 03:25:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 6.2
+3/25/2022 03:25:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.19
+3/25/2022 03:25:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 03:25:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 03:26:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 03:26:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 03:26:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 03:26:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 03:26:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 03:27:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 03:30:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 03:30:32: [G_Auto 1] :  € 30.77 Lay bet placed on Irina-Camelia Begu at 1.26. Fully matched at 1.25.  Ref: 12381          ( Fill or kill bet with 15 seconds delay.   )
+3/25/2022 03:30:32: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: aPoints = point: 0; games: 3; sets: 0 
+3/25/2022 03:30:32: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: aServing = serving:0
+3/25/2022 03:30:32: [G_Auto 2] :  Store Text Value (Shared) for Irina-Camelia Begu: bPoints = point: 0; games: 4; sets: 1 
+3/25/2022 03:30:32: [G_Auto 2] :  Store Text Value (Shared) for Irina-Camelia Begu: bServing = serving:2
+3/25/2022 03:30:32: [G_Auto 2] :  Store Value (Shared) for market: price = 1.25
+3/25/2022 03:30:32: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 111.98
+3/25/2022 03:30:32: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 138.71
+3/25/2022 03:30:32: [G_Auto 2] :  Store Value (Shared) for market: stake = 30.77
+3/25/2022 03:30:32: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 250.69
+3/25/2022 03:30:32: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.29
+3/25/2022 03:30:32: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 5.2
+3/25/2022 03:30:32: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.24
+3/25/2022 03:30:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 03:30:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 03:31:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 03:31:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 03:31:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 03:31:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 03:32:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 03:32:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 03:32:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 03:32:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 03:32:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 03:33:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 03:33:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 03:38:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 03:38:50: [G_Auto 1] :  Placed closure bet with greening on Irina-Camelia Begu by Backing 34.65 at 1.11
+3/25/2022 03:38:50: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: aPoints = point: 0; games: 3; sets: 0 
+3/25/2022 03:38:50: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: aServing = serving:1
+3/25/2022 03:38:50: [G_Auto 2] :  Store Text Value (Shared) for Irina-Camelia Begu: bPoints = point: 0; games: 5; sets: 1 
+3/25/2022 03:38:50: [G_Auto 2] :  Store Text Value (Shared) for Irina-Camelia Begu: bServing = serving:0
+3/25/2022 03:38:50: [G_Auto 2] :  Store Value (Shared) for market: price = 1.11
+3/25/2022 03:38:50: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 146.63
+3/25/2022 03:38:50: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 138.71
+3/25/2022 03:38:50: [G_Auto 2] :  Store Value (Shared) for market: stake = 34.65
+3/25/2022 03:38:50: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 285.34
+3/25/2022 03:38:50: [G_Auto 2] :  Store Value (Shared) for market: pl = -7.92
+3/25/2022 03:38:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 9.4
+3/25/2022 03:38:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.12
+3/25/2022 03:38:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 03:39:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 03:39:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 03:39:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 03:39:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 03:39:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 03:42:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 03:42:24: [G_Auto 1] :  € 47.06 Lay bet placed on Irina-Camelia Begu at 1.17. Fully matched at 1.16.  Ref: 12383          ( Fill or kill bet with 15 seconds delay.   )
+3/25/2022 03:42:24: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: aPoints = point: 0; games: 4; sets: 0 
+3/25/2022 03:42:24: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: aServing = serving:0
+3/25/2022 03:42:24: [G_Auto 2] :  Store Text Value (Shared) for Irina-Camelia Begu: bPoints = point: 0; games: 5; sets: 1 
+3/25/2022 03:42:24: [G_Auto 2] :  Store Text Value (Shared) for Irina-Camelia Begu: bServing = serving:2
+3/25/2022 03:42:24: [G_Auto 2] :  Store Value (Shared) for market: price = 1.16
+3/25/2022 03:42:24: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 146.63
+3/25/2022 03:42:24: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 185.77
+3/25/2022 03:42:24: [G_Auto 2] :  Store Value (Shared) for market: stake = 47.06
+3/25/2022 03:42:24: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 332.4
+3/25/2022 03:42:24: [G_Auto 2] :  Store Value (Shared) for market: pl = -8.33
+3/25/2022 03:42:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 7.8
+3/25/2022 03:42:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.16
+3/25/2022 03:42:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 03:42:29: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: aPoints = point: 0; games: 4; sets: 0 
+3/25/2022 03:42:29: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: aServing = serving:0
+3/25/2022 03:42:29: [G_Auto 2] :  Store Text Value (Shared) for Irina-Camelia Begu: bPoints = point: 0; games: 5; sets: 1 
+3/25/2022 03:42:29: [G_Auto 2] :  Store Text Value (Shared) for Irina-Camelia Begu: bServing = serving:2
+3/25/2022 03:42:29: [G_Auto 2] :  Store Value (Shared) for market: price = 1.16
+3/25/2022 03:42:29: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 146.63
+3/25/2022 03:42:29: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 185.77
+3/25/2022 03:42:29: [G_Auto 2] :  Store Value (Shared) for market: stake = 47.06
+3/25/2022 03:42:29: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 332.4
+3/25/2022 03:42:29: [G_Auto 2] :  Store Value (Shared) for market: pl = -8.33
+3/25/2022 03:42:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 7.2
+3/25/2022 03:42:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.16
+3/25/2022 03:42:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 03:42:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 03:43:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 03:43:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 03:43:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 03:43:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 03:44:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 03:44:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 03:44:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 03:44:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 03:45:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 03:47:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 03:47:47:  Guardian has detected that the market is suspended

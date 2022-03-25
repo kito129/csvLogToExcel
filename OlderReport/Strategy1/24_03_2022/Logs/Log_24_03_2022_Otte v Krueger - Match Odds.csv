@@ -1,0 +1,319 @@
+3/23/2022 13:17:54: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: info = marketName: Otte v Krueger - Match Odds; runnerA: Oscar Otte; runnerB: Mitchell Krueger 
+3/23/2022 13:17:54: [G_Auto 2] :  Store Value (Shared) for market: aId = 9624731
+3/23/2022 13:17:54: [G_Auto 2] :  Store Value (Shared) for market: bId = 19924836
+3/23/2022 18:50:35: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: info = marketName: Otte v Krueger - Match Odds; runnerA: Oscar Otte; runnerB: Mitchell Krueger 
+3/23/2022 18:50:35: [G_Auto 2] :  Store Value (Shared) for market: aId = 9624731
+3/23/2022 18:50:35: [G_Auto 2] :  Store Value (Shared) for market: bId = 19924836
+3/24/2022 00:34:28:  Guardian has detected that the market is in-play
+3/24/2022 00:34:28:  Guardian has detected that the market is suspended
+3/24/2022 00:34:30: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.84; bBsp: 2.18; volume: 13390.24 
+3/24/2022 00:34:30: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.84; bBsp: 2.18; volume: 13390.24 
+3/24/2022 00:34:30:  Guardian has detected that the market is now unsuspended
+3/24/2022 00:34:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 00:34:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 00:36:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 00:36:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 00:36:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 00:37:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 00:37:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 00:37:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 00:37:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 00:38:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 00:40:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 00:40:16: [G_Auto 1] :  € 9.20 Lay bet placed on Oscar Otte at 1.87. Fully matched at 1.86.  Ref: 11761          ( Fill or kill bet with 15 seconds delay.   )
+3/24/2022 00:40:17: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aPoints = point: 0; games: 1; sets: 0 
+3/24/2022 00:40:17: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aServing = serving:1
+3/24/2022 00:40:17: [G_Auto 2] :  Store Text Value (Shared) for Mitchell Krueger: bPoints = point: 0; games: 1; sets: 0 
+3/24/2022 00:40:17: [G_Auto 2] :  Store Text Value (Shared) for Mitchell Krueger: bServing = serving:0
+3/24/2022 00:40:17: [G_Auto 2] :  Store Value (Shared) for market: price = 1.86
+3/24/2022 00:40:17: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+3/24/2022 00:40:17: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 9.2
+3/24/2022 00:40:17: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.2
+3/24/2022 00:40:17: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 9.2
+3/24/2022 00:40:17: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.05
+3/24/2022 00:40:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.85
+3/24/2022 00:40:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.18
+3/24/2022 00:40:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 00:40:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 00:40:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 00:40:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 00:42:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 00:43:03: [G_Auto 1] :  Placed closure bet with greening on Oscar Otte by Backing 9.95 at 1.72
+3/24/2022 00:43:04: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aPoints = point: 0; games: 2; sets: 0 
+3/24/2022 00:43:04: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aServing = serving:0
+3/24/2022 00:43:04: [G_Auto 2] :  Store Text Value (Shared) for Mitchell Krueger: bPoints = point: 0; games: 1; sets: 0 
+3/24/2022 00:43:04: [G_Auto 2] :  Store Text Value (Shared) for Mitchell Krueger: bServing = serving:2
+3/24/2022 00:43:04: [G_Auto 2] :  Store Value (Shared) for market: price = 1.72
+3/24/2022 00:43:04: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 9.95
+3/24/2022 00:43:04: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 9.2
+3/24/2022 00:43:04: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.95
+3/24/2022 00:43:04: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 19.15
+3/24/2022 00:43:04: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.75
+3/24/2022 00:43:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.73
+3/24/2022 00:43:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.28
+3/24/2022 00:43:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 00:43:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 00:43:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 00:43:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 00:44:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 00:44:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 00:44:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 00:45:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 00:45:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 00:45:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 00:45:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 00:45:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 00:50:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 00:50:40: [G_Auto 1] :  € 10.26 Lay bet placed on Oscar Otte at 1.78. Fully matched at 1.78.  Ref: 11769          ( Fill or kill bet with 15 seconds delay.   )
+3/24/2022 00:50:41: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aPoints = point: 0; games: 2; sets: 0 
+3/24/2022 00:50:41: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aServing = serving:1
+3/24/2022 00:50:41: [G_Auto 2] :  Store Text Value (Shared) for Mitchell Krueger: bPoints = point: 0; games: 2; sets: 0 
+3/24/2022 00:50:41: [G_Auto 2] :  Store Text Value (Shared) for Mitchell Krueger: bServing = serving:0
+3/24/2022 00:50:41: [G_Auto 2] :  Store Value (Shared) for market: price = 1.78
+3/24/2022 00:50:41: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 9.95
+3/24/2022 00:50:41: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 19.46
+3/24/2022 00:50:41: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.26
+3/24/2022 00:50:41: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 29.41
+3/24/2022 00:50:41: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.87
+3/24/2022 00:50:41: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.76
+3/24/2022 00:50:41: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.42
+3/24/2022 00:50:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 00:50:46: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aPoints = point: 0; games: 2; sets: 0 
+3/24/2022 00:50:46: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aServing = serving:1
+3/24/2022 00:50:46: [G_Auto 2] :  Store Text Value (Shared) for Mitchell Krueger: bPoints = point: 0; games: 2; sets: 0 
+3/24/2022 00:50:46: [G_Auto 2] :  Store Text Value (Shared) for Mitchell Krueger: bServing = serving:0
+3/24/2022 00:50:46: [G_Auto 2] :  Store Value (Shared) for market: price = 1.78
+3/24/2022 00:50:46: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 9.95
+3/24/2022 00:50:46: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 19.46
+3/24/2022 00:50:46: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.26
+3/24/2022 00:50:46: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 29.41
+3/24/2022 00:50:46: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.87
+3/24/2022 00:50:46: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.76
+3/24/2022 00:50:46: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.42
+3/24/2022 00:50:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 00:51:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 00:51:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 00:52:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 00:52:37: [G_Auto 1] :  Placed closure bet with greening on Oscar Otte by Backing 11.41 at 1.6
+3/24/2022 00:52:37: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aPoints = point: 0; games: 3; sets: 0 
+3/24/2022 00:52:37: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aServing = serving:0
+3/24/2022 00:52:37: [G_Auto 2] :  Store Text Value (Shared) for Mitchell Krueger: bPoints = point: 0; games: 2; sets: 0 
+3/24/2022 00:52:37: [G_Auto 2] :  Store Text Value (Shared) for Mitchell Krueger: bServing = serving:2
+3/24/2022 00:52:37: [G_Auto 2] :  Store Value (Shared) for market: price = 1.61
+3/24/2022 00:52:37: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 21.36
+3/24/2022 00:52:37: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 19.46
+3/24/2022 00:52:37: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.41
+3/24/2022 00:52:37: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 40.82
+3/24/2022 00:52:37: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.83
+3/24/2022 00:52:37: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.6
+3/24/2022 00:52:37: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.66
+3/24/2022 00:52:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 00:52:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 00:53:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 00:53:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 00:53:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 00:54:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 00:54:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 00:54:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 00:54:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 00:55:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 00:58:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 00:58:32: [G_Auto 1] :  € 26.67 Lay bet placed on Oscar Otte at 1.3. Fully matched at 1.3.  Ref: 11777          ( Fill or kill bet with 15 seconds delay.   )
+3/24/2022 00:58:32: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aPoints = point: 0; games: 4; sets: 0 
+3/24/2022 00:58:32: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aServing = serving:1
+3/24/2022 00:58:32: [G_Auto 2] :  Store Text Value (Shared) for Mitchell Krueger: bPoints = point: 0; games: 2; sets: 0 
+3/24/2022 00:58:32: [G_Auto 2] :  Store Text Value (Shared) for Mitchell Krueger: bServing = serving:0
+3/24/2022 00:58:32: [G_Auto 2] :  Store Value (Shared) for market: price = 1.3
+3/24/2022 00:58:32: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 21.36
+3/24/2022 00:58:32: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 46.13
+3/24/2022 00:58:32: [G_Auto 2] :  Store Value (Shared) for market: stake = 26.67
+3/24/2022 00:58:32: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 67.49
+3/24/2022 00:58:32: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.02
+3/24/2022 00:58:32: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.3
+3/24/2022 00:58:32: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.5
+3/24/2022 00:58:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 00:58:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 00:58:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 00:59:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 00:59:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 01:02:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:02:18: [G_Auto 1] :  Placed closure bet with greening on Oscar Otte by Backing 27.43 at 1.26
+3/24/2022 01:02:18: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aPoints = point: 0; games: 5; sets: 0 
+3/24/2022 01:02:18: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aServing = serving:0
+3/24/2022 01:02:18: [G_Auto 2] :  Store Text Value (Shared) for Mitchell Krueger: bPoints = point: 0; games: 2; sets: 0 
+3/24/2022 01:02:18: [G_Auto 2] :  Store Text Value (Shared) for Mitchell Krueger: bServing = serving:2
+3/24/2022 01:02:18: [G_Auto 2] :  Store Value (Shared) for market: price = 1.26
+3/24/2022 01:02:18: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 48.79
+3/24/2022 01:02:18: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 46.13
+3/24/2022 01:02:18: [G_Auto 2] :  Store Value (Shared) for market: stake = 27.43
+3/24/2022 01:02:18: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 94.92
+3/24/2022 01:02:18: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.66
+3/24/2022 01:02:18: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.25
+3/24/2022 01:02:18: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.9
+3/24/2022 01:02:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:02:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:02:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:03:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:03:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:03:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:03:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:04:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:04:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 01:04:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 01:08:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:08:33: [G_Auto 1] :  € 27.59 Lay bet placed on Oscar Otte at 1.29. Fully matched at 1.28.  Ref: 11780          ( Fill or kill bet with 15 seconds delay.   )
+3/24/2022 01:08:34: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aPoints = point: 0; games: 5; sets: 0 
+3/24/2022 01:08:34: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aServing = serving:1
+3/24/2022 01:08:34: [G_Auto 2] :  Store Text Value (Shared) for Mitchell Krueger: bPoints = point: 0; games: 3; sets: 0 
+3/24/2022 01:08:34: [G_Auto 2] :  Store Text Value (Shared) for Mitchell Krueger: bServing = serving:0
+3/24/2022 01:08:34: [G_Auto 2] :  Store Value (Shared) for market: price = 1.28
+3/24/2022 01:08:34: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 48.79
+3/24/2022 01:08:34: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 73.72
+3/24/2022 01:08:34: [G_Auto 2] :  Store Value (Shared) for market: stake = 27.59
+3/24/2022 01:08:34: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 122.51
+3/24/2022 01:08:34: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.88
+3/24/2022 01:08:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.27
+3/24/2022 01:08:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.7
+3/24/2022 01:08:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:08:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:08:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 01:09:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 01:10:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:10:25: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 1.22
+3/24/2022 01:10:25: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 5.5
+3/24/2022 01:10:28: [G_Auto 1] :  Placed closure bet with greening on Oscar Otte by Backing 29.19 at 1.21
+3/24/2022 01:10:28: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aPoints = point: 0; games: 0; sets: 1 
+3/24/2022 01:10:28: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aServing = serving:0
+3/24/2022 01:10:28: [G_Auto 2] :  Store Text Value (Shared) for Mitchell Krueger: bPoints = point: 0; games: 0; sets: 0 
+3/24/2022 01:10:28: [G_Auto 2] :  Store Text Value (Shared) for Mitchell Krueger: bServing = serving:2
+3/24/2022 01:10:28: [G_Auto 2] :  Store Value (Shared) for market: price = 1.21
+3/24/2022 01:10:28: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 77.98
+3/24/2022 01:10:28: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 73.72
+3/24/2022 01:10:28: [G_Auto 2] :  Store Value (Shared) for market: stake = 29.19
+3/24/2022 01:10:28: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 151.7
+3/24/2022 01:10:28: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.26
+3/24/2022 01:10:28: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.22
+3/24/2022 01:10:28: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.5
+3/24/2022 01:10:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:10:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:11:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:11:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:11:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:11:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:12:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:12:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:12:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:12:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:13:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:13:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 01:13:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 01:13:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 01:16:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:16:20: [G_Auto 1] :  € 29.63 Lay bet placed on Oscar Otte at 1.27. Fully matched at 1.26.  Ref: 11783          ( Fill or kill bet with 15 seconds delay.   )
+3/24/2022 01:16:20: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aPoints = point: 0; games: 0; sets: 1 
+3/24/2022 01:16:20: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aServing = serving:1
+3/24/2022 01:16:20: [G_Auto 2] :  Store Text Value (Shared) for Mitchell Krueger: bPoints = point: 0; games: 1; sets: 0 
+3/24/2022 01:16:20: [G_Auto 2] :  Store Text Value (Shared) for Mitchell Krueger: bServing = serving:0
+3/24/2022 01:16:20: [G_Auto 2] :  Store Value (Shared) for market: price = 1.26
+3/24/2022 01:16:20: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 77.98
+3/24/2022 01:16:20: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 103.35
+3/24/2022 01:16:20: [G_Auto 2] :  Store Value (Shared) for market: stake = 29.63
+3/24/2022 01:16:20: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 181.33
+3/24/2022 01:16:20: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.49
+3/24/2022 01:16:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.25
+3/24/2022 01:16:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5
+3/24/2022 01:16:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:16:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:16:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:17:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:17:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 01:17:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 01:18:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:18:37: [G_Auto 1] :  Placed closure bet with greening on Oscar Otte by Backing 31.11 at 1.2
+3/24/2022 01:18:37: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aPoints = point: 0; games: 1; sets: 1 
+3/24/2022 01:18:37: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aServing = serving:0
+3/24/2022 01:18:37: [G_Auto 2] :  Store Text Value (Shared) for Mitchell Krueger: bPoints = point: 0; games: 1; sets: 0 
+3/24/2022 01:18:37: [G_Auto 2] :  Store Text Value (Shared) for Mitchell Krueger: bServing = serving:2
+3/24/2022 01:18:37: [G_Auto 2] :  Store Value (Shared) for market: price = 1.2
+3/24/2022 01:18:37: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 109.09
+3/24/2022 01:18:37: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 103.35
+3/24/2022 01:18:37: [G_Auto 2] :  Store Value (Shared) for market: stake = 31.11
+3/24/2022 01:18:37: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 212.44
+3/24/2022 01:18:37: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.74
+3/24/2022 01:18:37: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.21
+3/24/2022 01:18:37: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.6
+3/24/2022 01:18:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:18:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:19:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 01:19:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 01:19:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 01:25:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:26:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:26:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:26:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:26:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:27:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:27:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:27:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:27:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:28:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:28:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 01:28:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 01:28:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 01:30:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:30:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:30:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:31:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:31:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 01:31:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 01:31:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 01:33:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:33:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:33:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:33:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:34:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:34:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:34:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:34:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:35:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:35:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 01:35:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 01:36:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:36:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:37:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:37:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:37:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 01:37:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 01:38:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 01:38:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 01:39:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:40:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:40:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:40:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:40:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:41:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:41:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:41:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:41:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:42:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 01:42:16: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 01:42:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 01:42:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 01:44:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:44:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:44:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:44:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:44:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 01:45:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 01:47:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:47:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:47:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:47:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:48:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:48:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:48:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:48:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:49:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 01:49:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 01:50:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 01:50:36:  Guardian has detected that the market is suspended

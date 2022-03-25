@@ -1,0 +1,608 @@
+3/24/2022 13:41:42: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: info = marketName: Musetti v Popyrin - Match Odds; runnerA: Lorenzo Musetti; runnerB: Alexei Popyrin 
+3/24/2022 13:41:42: [G_Auto 2] :  Store Value (Shared) for market: aId = 13834991
+3/24/2022 13:41:42: [G_Auto 2] :  Store Value (Shared) for market: bId = 10706479
+3/24/2022 20:17:27:  Guardian has detected that the market is in-play
+3/24/2022 20:17:27:  Guardian has detected that the market is suspended
+3/24/2022 20:17:31: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.68; bBsp: 2.46; volume: 25133.72 
+3/24/2022 20:17:31: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.68; bBsp: 2.46; volume: 25133.72 
+3/24/2022 20:17:31:  Guardian has detected that the market is now unsuspended
+3/24/2022 20:17:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 20:17:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 20:20:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:20:38: [G_Auto 1] :  € 10.67 Lay bet placed on Lorenzo Musetti at 1.75. Fully matched at 1.74.  Ref: 12047          ( Fill or kill bet with 15 seconds delay.   )
+3/24/2022 20:20:39: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: aPoints = point: 0; games: 0; sets: 0 
+3/24/2022 20:20:39: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: aServing = serving:1
+3/24/2022 20:20:39: [G_Auto 2] :  Store Text Value (Shared) for Alexei Popyrin: bPoints = point: 0; games: 1; sets: 0 
+3/24/2022 20:20:39: [G_Auto 2] :  Store Text Value (Shared) for Alexei Popyrin: bServing = serving:0
+3/24/2022 20:20:39: [G_Auto 2] :  Store Value (Shared) for market: price = 1.74
+3/24/2022 20:20:39: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+3/24/2022 20:20:39: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 10.67
+3/24/2022 20:20:39: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.67
+3/24/2022 20:20:39: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 10.67
+3/24/2022 20:20:39: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.06
+3/24/2022 20:20:39: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.73
+3/24/2022 20:20:39: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.38
+3/24/2022 20:20:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:21:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:21:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:21:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 20:21:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 20:22:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:22:41: [G_Auto 1] :  Placed closure bet with greening on Lorenzo Musetti by Backing 11.39 at 1.63
+3/24/2022 20:22:42: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: aPoints = point: 0; games: 1; sets: 0 
+3/24/2022 20:22:42: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: aServing = serving:0
+3/24/2022 20:22:42: [G_Auto 2] :  Store Text Value (Shared) for Alexei Popyrin: bPoints = point: 0; games: 1; sets: 0 
+3/24/2022 20:22:42: [G_Auto 2] :  Store Text Value (Shared) for Alexei Popyrin: bServing = serving:2
+3/24/2022 20:22:42: [G_Auto 2] :  Store Value (Shared) for market: price = 1.63
+3/24/2022 20:22:42: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 11.39
+3/24/2022 20:22:42: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 10.67
+3/24/2022 20:22:42: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.39
+3/24/2022 20:22:42: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 22.06
+3/24/2022 20:22:42: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.72
+3/24/2022 20:22:42: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.63
+3/24/2022 20:22:42: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.6
+3/24/2022 20:22:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:23:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:23:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 20:23:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 20:27:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:27:29: [G_Auto 1] :  € 11.59 Lay bet placed on Lorenzo Musetti at 1.69. Fully matched at 1.69.  Ref: 12053          ( Fill or kill bet with 15 seconds delay.   )
+3/24/2022 20:27:30: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: aPoints = point: 0; games: 1; sets: 0 
+3/24/2022 20:27:30: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: aServing = serving:1
+3/24/2022 20:27:30: [G_Auto 2] :  Store Text Value (Shared) for Alexei Popyrin: bPoints = point: 0; games: 2; sets: 0 
+3/24/2022 20:27:30: [G_Auto 2] :  Store Text Value (Shared) for Alexei Popyrin: bServing = serving:0
+3/24/2022 20:27:30: [G_Auto 2] :  Store Value (Shared) for market: price = 1.69
+3/24/2022 20:27:30: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 11.39
+3/24/2022 20:27:30: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 22.26
+3/24/2022 20:27:30: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.59
+3/24/2022 20:27:30: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 33.65
+3/24/2022 20:27:30: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.86
+3/24/2022 20:27:30: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.67
+3/24/2022 20:27:30: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.42
+3/24/2022 20:27:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:27:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:28:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:28:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:28:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:29:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:29:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 20:29:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 20:29:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 20:30:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 20:31:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:32:03: [G_Auto 1] :  Placed closure bet with greening on Lorenzo Musetti by Backing 12.56 at 1.56
+3/24/2022 20:32:04: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: aPoints = point: 0; games: 2; sets: 0 
+3/24/2022 20:32:04: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: aServing = serving:0
+3/24/2022 20:32:04: [G_Auto 2] :  Store Text Value (Shared) for Alexei Popyrin: bPoints = point: 0; games: 2; sets: 0 
+3/24/2022 20:32:04: [G_Auto 2] :  Store Text Value (Shared) for Alexei Popyrin: bServing = serving:2
+3/24/2022 20:32:04: [G_Auto 2] :  Store Value (Shared) for market: price = 1.56
+3/24/2022 20:32:04: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 23.95
+3/24/2022 20:32:04: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 22.26
+3/24/2022 20:32:04: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.56
+3/24/2022 20:32:04: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 46.21
+3/24/2022 20:32:04: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.68
+3/24/2022 20:32:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.6
+3/24/2022 20:32:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.6
+3/24/2022 20:32:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:32:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:32:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 20:32:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 20:35:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:35:41: [G_Auto 1] :  € 12.12 Lay bet placed on Lorenzo Musetti at 1.66. Entirely unmatched when it initially reached the market.   Ref: 12063          ( Fill or kill bet with 15 seconds delay.   )
+3/24/2022 20:35:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:35:45: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: aPoints = point: 0; games: 2; sets: 0 
+3/24/2022 20:35:45: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: aServing = serving:1
+3/24/2022 20:35:45: [G_Auto 2] :  Store Text Value (Shared) for Alexei Popyrin: bPoints = point: 0; games: 3; sets: 0 
+3/24/2022 20:35:45: [G_Auto 2] :  Store Text Value (Shared) for Alexei Popyrin: bServing = serving:0
+3/24/2022 20:35:45: [G_Auto 2] :  Store Value (Shared) for market: price = 1.66
+3/24/2022 20:35:45: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 23.95
+3/24/2022 20:35:45: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 34.38
+3/24/2022 20:35:45: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.12
+3/24/2022 20:35:45: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 58.33
+3/24/2022 20:35:45: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.83
+3/24/2022 20:35:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.64
+3/24/2022 20:35:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.54
+3/24/2022 20:35:45: [G_Auto 1] :  € 12.12 of unmatched bet (Ref:12063) was filled before remainder was killed.
+3/24/2022 20:36:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:36:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:36:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:36:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:37:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:37:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:37:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 20:39:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:39:37: [G_Auto 1] :  Placed closure bet with greening on Lorenzo Musetti by Backing 12.98 at 1.55
+3/24/2022 20:39:37: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: aPoints = point: 0; games: 3; sets: 0 
+3/24/2022 20:39:37: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: aServing = serving:0
+3/24/2022 20:39:37: [G_Auto 2] :  Store Text Value (Shared) for Alexei Popyrin: bPoints = point: 0; games: 3; sets: 0 
+3/24/2022 20:39:37: [G_Auto 2] :  Store Text Value (Shared) for Alexei Popyrin: bServing = serving:2
+3/24/2022 20:39:37: [G_Auto 2] :  Store Value (Shared) for market: price = 1.55
+3/24/2022 20:39:37: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 36.93
+3/24/2022 20:39:37: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 34.38
+3/24/2022 20:39:37: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.98
+3/24/2022 20:39:37: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 71.31
+3/24/2022 20:39:37: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.54
+3/24/2022 20:39:37: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.56
+3/24/2022 20:39:37: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.74
+3/24/2022 20:39:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:39:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:40:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 20:41:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:41:55: [G_Auto 1] :  € 11.43 Lay bet placed on Lorenzo Musetti at 1.7. Entirely unmatched when it initially reached the market.   Ref: 12070          ( Fill or kill bet with 15 seconds delay.   )
+3/24/2022 20:41:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:41:59: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: aPoints = point: 0; games: 3; sets: 0 
+3/24/2022 20:41:59: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: aServing = serving:1
+3/24/2022 20:41:59: [G_Auto 2] :  Store Text Value (Shared) for Alexei Popyrin: bPoints = point: 0; games: 4; sets: 0 
+3/24/2022 20:41:59: [G_Auto 2] :  Store Text Value (Shared) for Alexei Popyrin: bServing = serving:0
+3/24/2022 20:41:59: [G_Auto 2] :  Store Value (Shared) for market: price = 1.7
+3/24/2022 20:41:59: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 36.93
+3/24/2022 20:41:59: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 45.81
+3/24/2022 20:41:59: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.43
+3/24/2022 20:41:59: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 82.74
+3/24/2022 20:41:59: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.75
+3/24/2022 20:41:59: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.71
+3/24/2022 20:41:59: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.4
+3/24/2022 20:42:00: [G_Auto 1] :  € 11.43 of unmatched bet (Ref:12070) was filled before remainder was killed.
+3/24/2022 20:42:07: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: aPoints = point: 0; games: 3; sets: 0 
+3/24/2022 20:42:07: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: aServing = serving:1
+3/24/2022 20:42:07: [G_Auto 2] :  Store Text Value (Shared) for Alexei Popyrin: bPoints = point: 0; games: 4; sets: 0 
+3/24/2022 20:42:07: [G_Auto 2] :  Store Text Value (Shared) for Alexei Popyrin: bServing = serving:0
+3/24/2022 20:42:07: [G_Auto 2] :  Store Value (Shared) for market: price = 1.7
+3/24/2022 20:42:07: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 36.93
+3/24/2022 20:42:07: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 45.81
+3/24/2022 20:42:07: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.43
+3/24/2022 20:42:07: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 82.74
+3/24/2022 20:42:07: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.68
+3/24/2022 20:42:07: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.7
+3/24/2022 20:42:07: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.44
+3/24/2022 20:42:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:42:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:42:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:43:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:43:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:43:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 20:43:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 20:45:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:45:25: [G_Auto 1] :  Placed closure bet with greening on Lorenzo Musetti by Backing 12.70 at 1.53
+3/24/2022 20:45:26: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: aPoints = point: 0; games: 4; sets: 0 
+3/24/2022 20:45:26: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: aServing = serving:0
+3/24/2022 20:45:26: [G_Auto 2] :  Store Text Value (Shared) for Alexei Popyrin: bPoints = point: 0; games: 4; sets: 0 
+3/24/2022 20:45:26: [G_Auto 2] :  Store Text Value (Shared) for Alexei Popyrin: bServing = serving:2
+3/24/2022 20:45:26: [G_Auto 2] :  Store Value (Shared) for market: price = 1.53
+3/24/2022 20:45:26: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 49.63
+3/24/2022 20:45:26: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 45.81
+3/24/2022 20:45:26: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.7
+3/24/2022 20:45:26: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 95.44
+3/24/2022 20:45:26: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.81
+3/24/2022 20:45:26: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.53
+3/24/2022 20:45:26: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.84
+3/24/2022 20:45:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:45:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:45:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 20:48:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:48:20: [G_Auto 1] :  € 11.76 Lay bet placed on Lorenzo Musetti at 1.68. Fully matched at 1.67.  Ref: 12074          ( Fill or kill bet with 15 seconds delay.   )
+3/24/2022 20:48:21: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: aPoints = point: 0; games: 4; sets: 0 
+3/24/2022 20:48:21: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: aServing = serving:1
+3/24/2022 20:48:21: [G_Auto 2] :  Store Text Value (Shared) for Alexei Popyrin: bPoints = point: 0; games: 5; sets: 0 
+3/24/2022 20:48:21: [G_Auto 2] :  Store Text Value (Shared) for Alexei Popyrin: bServing = serving:0
+3/24/2022 20:48:21: [G_Auto 2] :  Store Value (Shared) for market: price = 1.67
+3/24/2022 20:48:21: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 49.63
+3/24/2022 20:48:21: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 57.57
+3/24/2022 20:48:21: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.76
+3/24/2022 20:48:21: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 107.2
+3/24/2022 20:48:21: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.1
+3/24/2022 20:48:21: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.67
+3/24/2022 20:48:21: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.48
+3/24/2022 20:48:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:48:28: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: aPoints = point: 0; games: 4; sets: 0 
+3/24/2022 20:48:28: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: aServing = serving:1
+3/24/2022 20:48:28: [G_Auto 2] :  Store Text Value (Shared) for Alexei Popyrin: bPoints = point: 0; games: 5; sets: 0 
+3/24/2022 20:48:28: [G_Auto 2] :  Store Text Value (Shared) for Alexei Popyrin: bServing = serving:0
+3/24/2022 20:48:28: [G_Auto 2] :  Store Value (Shared) for market: price = 1.67
+3/24/2022 20:48:28: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 49.63
+3/24/2022 20:48:28: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 57.57
+3/24/2022 20:48:28: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.76
+3/24/2022 20:48:28: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 107.2
+3/24/2022 20:48:28: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.03
+3/24/2022 20:48:28: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.64
+3/24/2022 20:48:28: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.48
+3/24/2022 20:48:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:49:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:49:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:49:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:49:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:50:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 20:50:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 20:52:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:52:26: [G_Auto 1] :  Placed closure bet with greening on Lorenzo Musetti by Backing 13.00 at 1.51
+3/24/2022 20:52:27: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: aPoints = point: 0; games: 5; sets: 0 
+3/24/2022 20:52:27: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: aServing = serving:0
+3/24/2022 20:52:27: [G_Auto 2] :  Store Text Value (Shared) for Alexei Popyrin: bPoints = point: 0; games: 5; sets: 0 
+3/24/2022 20:52:27: [G_Auto 2] :  Store Text Value (Shared) for Alexei Popyrin: bServing = serving:2
+3/24/2022 20:52:27: [G_Auto 2] :  Store Value (Shared) for market: price = 1.51
+3/24/2022 20:52:27: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 62.63
+3/24/2022 20:52:27: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 57.57
+3/24/2022 20:52:27: [G_Auto 2] :  Store Value (Shared) for market: stake = 13
+3/24/2022 20:52:27: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 120.2
+3/24/2022 20:52:27: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.06
+3/24/2022 20:52:27: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.52
+3/24/2022 20:52:27: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.92
+3/24/2022 20:52:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:52:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:52:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 20:53:16: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 20:55:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:55:49: [G_Auto 1] :  € 12.50 Lay bet placed on Lorenzo Musetti at 1.64. Fully matched at 1.64.  Ref: 12080          ( Fill or kill bet with 15 seconds delay.   )
+3/24/2022 20:55:49: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: aPoints = point: 0; games: 5; sets: 0 
+3/24/2022 20:55:49: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: aServing = serving:1
+3/24/2022 20:55:49: [G_Auto 2] :  Store Text Value (Shared) for Alexei Popyrin: bPoints = point: 0; games: 6; sets: 0 
+3/24/2022 20:55:49: [G_Auto 2] :  Store Text Value (Shared) for Alexei Popyrin: bServing = serving:0
+3/24/2022 20:55:49: [G_Auto 2] :  Store Value (Shared) for market: price = 1.64
+3/24/2022 20:55:49: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 62.63
+3/24/2022 20:55:49: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 70.07
+3/24/2022 20:55:49: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.5
+3/24/2022 20:55:49: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 132.7
+3/24/2022 20:55:49: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.29
+3/24/2022 20:55:49: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.61
+3/24/2022 20:55:49: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.62
+3/24/2022 20:55:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:56:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:56:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:56:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:57:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:57:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:57:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 20:57:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 21:00:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:00:31: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 2.92
+3/24/2022 21:00:31: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 1.52
+3/24/2022 21:00:34: [G_Auto 1] :  Placed closure bet with greening on Lorenzo Musetti by Backing 7.02 at 2.92
+3/24/2022 21:00:34: [G_Auto 1] :  € 15.38 Lay bet placed on Alexei Popyrin at 1.52. Fully matched at 1.52.  Ref: 12083          ( Fill or kill bet with 15 seconds delay.   )
+3/24/2022 21:00:35: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: aPoints = point: 0; games: 0; sets: 0 
+3/24/2022 21:00:35: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: aServing = serving:0
+3/24/2022 21:00:35: [G_Auto 2] :  Store Text Value (Shared) for Alexei Popyrin: bPoints = point: 0; games: 0; sets: 1 
+3/24/2022 21:00:35: [G_Auto 2] :  Store Text Value (Shared) for Alexei Popyrin: bServing = serving:2
+3/24/2022 21:00:35: [G_Auto 2] :  Store Value (Shared) for market: price = 2.92
+3/24/2022 21:00:35: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 69.65
+3/24/2022 21:00:35: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 85.45
+3/24/2022 21:00:35: [G_Auto 2] :  Store Value (Shared) for market: stake = 7.02
+3/24/2022 21:00:35: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 155.1
+3/24/2022 21:00:35: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.3
+3/24/2022 21:00:35: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.92
+3/24/2022 21:00:35: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.52
+3/24/2022 21:00:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:00:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:01:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:01:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:01:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:02:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:02:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:02:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:02:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:03:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 21:03:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 21:05:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:06:02: [G_Auto 1] :  Placed closure bet with greening on Alexei Popyrin by Backing 11.57 at 2.02
+3/24/2022 21:06:02: [G_Auto 1] :  € 8.33 Lay bet placed on Lorenzo Musetti at 1.96. Entirely unmatched when it initially reached the market.   Ref: 12088          ( Fill or kill bet with 15 seconds delay.   )
+3/24/2022 21:06:02: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: aPoints = point: 0; games: 1; sets: 0 
+3/24/2022 21:06:02: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: aServing = serving:1
+3/24/2022 21:06:02: [G_Auto 2] :  Store Text Value (Shared) for Alexei Popyrin: bPoints = point: 0; games: 0; sets: 1 
+3/24/2022 21:06:02: [G_Auto 2] :  Store Text Value (Shared) for Alexei Popyrin: bServing = serving:0
+3/24/2022 21:06:02: [G_Auto 2] :  Store Value (Shared) for market: price = 2.02
+3/24/2022 21:06:02: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 81.22
+3/24/2022 21:06:02: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 85.45
+3/24/2022 21:06:02: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.57
+3/24/2022 21:06:02: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 166.67
+3/24/2022 21:06:02: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.15
+3/24/2022 21:06:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.98
+3/24/2022 21:06:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.02
+3/24/2022 21:06:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:06:10: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: aPoints = point: 0; games: 1; sets: 0 
+3/24/2022 21:06:10: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: aServing = serving:1
+3/24/2022 21:06:10: [G_Auto 2] :  Store Text Value (Shared) for Alexei Popyrin: bPoints = point: 0; games: 0; sets: 1 
+3/24/2022 21:06:10: [G_Auto 2] :  Store Text Value (Shared) for Alexei Popyrin: bServing = serving:0
+3/24/2022 21:06:10: [G_Auto 2] :  Store Value (Shared) for market: price = 1.96
+3/24/2022 21:06:10: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 81.22
+3/24/2022 21:06:10: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 93.78
+3/24/2022 21:06:10: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.33
+3/24/2022 21:06:10: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 175
+3/24/2022 21:06:10: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.15
+3/24/2022 21:06:10: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.96
+3/24/2022 21:06:10: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.06
+3/24/2022 21:06:10: [G_Auto 1] :  € 8.33 of unmatched bet (Ref:12088) was filled before remainder was killed.
+3/24/2022 21:06:17: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: aPoints = point: 0; games: 1; sets: 0 
+3/24/2022 21:06:17: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: aServing = serving:1
+3/24/2022 21:06:17: [G_Auto 2] :  Store Text Value (Shared) for Alexei Popyrin: bPoints = point: 0; games: 0; sets: 1 
+3/24/2022 21:06:17: [G_Auto 2] :  Store Text Value (Shared) for Alexei Popyrin: bServing = serving:0
+3/24/2022 21:06:17: [G_Auto 2] :  Store Value (Shared) for market: price = 1.96
+3/24/2022 21:06:17: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 81.22
+3/24/2022 21:06:17: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 93.78
+3/24/2022 21:06:17: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.33
+3/24/2022 21:06:17: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 175
+3/24/2022 21:06:17: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.06
+3/24/2022 21:06:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.94
+3/24/2022 21:06:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.04
+3/24/2022 21:06:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:06:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:06:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 21:07:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 21:09:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:09:49: [G_Auto 1] :  Placed closure bet with greening on Lorenzo Musetti by Backing 8.78 at 1.86
+3/24/2022 21:09:49: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: aPoints = point: 0; games: 2; sets: 0 
+3/24/2022 21:09:49: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: aServing = serving:0
+3/24/2022 21:09:49: [G_Auto 2] :  Store Text Value (Shared) for Alexei Popyrin: bPoints = point: 0; games: 0; sets: 1 
+3/24/2022 21:09:49: [G_Auto 2] :  Store Text Value (Shared) for Alexei Popyrin: bServing = serving:2
+3/24/2022 21:09:49: [G_Auto 2] :  Store Value (Shared) for market: price = 1.86
+3/24/2022 21:09:49: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 90
+3/24/2022 21:09:49: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 93.78
+3/24/2022 21:09:49: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.78
+3/24/2022 21:09:49: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 183.78
+3/24/2022 21:09:49: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.7
+3/24/2022 21:09:49: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.87
+3/24/2022 21:09:49: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.16
+3/24/2022 21:09:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:10:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:10:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 21:10:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 21:11:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:11:58: [G_Auto 1] :  € 8.25 Lay bet placed on Lorenzo Musetti at 1.97. Entirely unmatched when it initially reached the market.   Ref: 12095          ( Fill or kill bet with 15 seconds delay.   )
+3/24/2022 21:12:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:12:09: [G_Auto 1] :  € 8.25 of unmatched bet (Ref:12095) was filled before remainder was killed.
+3/24/2022 21:12:09: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: aPoints = point: 0; games: 2; sets: 0 
+3/24/2022 21:12:09: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: aServing = serving:1
+3/24/2022 21:12:09: [G_Auto 2] :  Store Text Value (Shared) for Alexei Popyrin: bPoints = point: 0; games: 1; sets: 1 
+3/24/2022 21:12:09: [G_Auto 2] :  Store Text Value (Shared) for Alexei Popyrin: bServing = serving:0
+3/24/2022 21:12:09: [G_Auto 2] :  Store Value (Shared) for market: price = 1.97
+3/24/2022 21:12:09: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 90
+3/24/2022 21:12:09: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 102.03
+3/24/2022 21:12:09: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.25
+3/24/2022 21:12:09: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 192.03
+3/24/2022 21:12:09: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.58
+3/24/2022 21:12:09: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.95
+3/24/2022 21:12:09: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2
+3/24/2022 21:12:16: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: aPoints = point: 0; games: 2; sets: 0 
+3/24/2022 21:12:16: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: aServing = serving:1
+3/24/2022 21:12:16: [G_Auto 2] :  Store Text Value (Shared) for Alexei Popyrin: bPoints = point: 0; games: 1; sets: 1 
+3/24/2022 21:12:16: [G_Auto 2] :  Store Text Value (Shared) for Alexei Popyrin: bServing = serving:0
+3/24/2022 21:12:16: [G_Auto 2] :  Store Value (Shared) for market: price = 1.97
+3/24/2022 21:12:16: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 90
+3/24/2022 21:12:16: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 102.03
+3/24/2022 21:12:16: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.25
+3/24/2022 21:12:16: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 192.03
+3/24/2022 21:12:16: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.63
+3/24/2022 21:12:16: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.95
+3/24/2022 21:12:16: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2
+3/24/2022 21:12:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:12:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:12:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:13:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:13:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:13:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:14:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 21:14:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 21:18:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:19:04: [G_Auto 1] :  Placed closure bet with greening on Lorenzo Musetti by Backing 8.60 at 1.89
+3/24/2022 21:19:05: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: aPoints = point: 0; games: 3; sets: 0 
+3/24/2022 21:19:05: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: aServing = serving:0
+3/24/2022 21:19:05: [G_Auto 2] :  Store Text Value (Shared) for Alexei Popyrin: bPoints = point: 0; games: 1; sets: 1 
+3/24/2022 21:19:05: [G_Auto 2] :  Store Text Value (Shared) for Alexei Popyrin: bServing = serving:2
+3/24/2022 21:19:05: [G_Auto 2] :  Store Value (Shared) for market: price = 1.89
+3/24/2022 21:19:05: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 98.6
+3/24/2022 21:19:05: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 102.03
+3/24/2022 21:19:05: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.6
+3/24/2022 21:19:05: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 200.63
+3/24/2022 21:19:05: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.36
+3/24/2022 21:19:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.86
+3/24/2022 21:19:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.14
+3/24/2022 21:19:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:19:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:19:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:20:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 21:20:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 21:22:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:22:46: [G_Auto 1] :  € 8.25 Lay bet placed on Lorenzo Musetti at 1.97. Fully matched at 1.96.  Ref: 12108          ( Fill or kill bet with 15 seconds delay.   )
+3/24/2022 21:22:46: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: aPoints = point: 0; games: 3; sets: 0 
+3/24/2022 21:22:46: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: aServing = serving:1
+3/24/2022 21:22:46: [G_Auto 2] :  Store Text Value (Shared) for Alexei Popyrin: bPoints = point: 0; games: 2; sets: 1 
+3/24/2022 21:22:46: [G_Auto 2] :  Store Text Value (Shared) for Alexei Popyrin: bServing = serving:0
+3/24/2022 21:22:46: [G_Auto 2] :  Store Value (Shared) for market: price = 1.96
+3/24/2022 21:22:46: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 98.6
+3/24/2022 21:22:46: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 110.28
+3/24/2022 21:22:46: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.25
+3/24/2022 21:22:46: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 208.88
+3/24/2022 21:22:46: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.32
+3/24/2022 21:22:46: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.95
+3/24/2022 21:22:46: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.04
+3/24/2022 21:22:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:23:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:23:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:23:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:24:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:24:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:24:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:24:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 21:24:55: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 21:27:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:27:28: [G_Auto 1] :  Placed closure bet with greening on Lorenzo Musetti by Backing 8.93 at 1.81
+3/24/2022 21:27:29: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: aPoints = point: 0; games: 4; sets: 0 
+3/24/2022 21:27:29: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: aServing = serving:0
+3/24/2022 21:27:29: [G_Auto 2] :  Store Text Value (Shared) for Alexei Popyrin: bPoints = point: 0; games: 2; sets: 1 
+3/24/2022 21:27:29: [G_Auto 2] :  Store Text Value (Shared) for Alexei Popyrin: bServing = serving:2
+3/24/2022 21:27:29: [G_Auto 2] :  Store Value (Shared) for market: price = 1.81
+3/24/2022 21:27:29: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 107.53
+3/24/2022 21:27:29: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 110.28
+3/24/2022 21:27:29: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.93
+3/24/2022 21:27:29: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 217.81
+3/24/2022 21:27:29: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.69
+3/24/2022 21:27:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.83
+3/24/2022 21:27:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.2
+3/24/2022 21:27:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:27:36: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: aPoints = point: 0; games: 4; sets: 0 
+3/24/2022 21:27:36: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: aServing = serving:0
+3/24/2022 21:27:36: [G_Auto 2] :  Store Text Value (Shared) for Alexei Popyrin: bPoints = point: 0; games: 2; sets: 1 
+3/24/2022 21:27:36: [G_Auto 2] :  Store Text Value (Shared) for Alexei Popyrin: bServing = serving:2
+3/24/2022 21:27:36: [G_Auto 2] :  Store Value (Shared) for market: price = 1.81
+3/24/2022 21:27:36: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 107.53
+3/24/2022 21:27:36: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 110.28
+3/24/2022 21:27:36: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.93
+3/24/2022 21:27:36: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 217.81
+3/24/2022 21:27:36: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.69
+3/24/2022 21:27:36: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.83
+3/24/2022 21:27:36: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.2
+3/24/2022 21:27:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:28:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 21:28:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 21:28:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 21:30:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:30:22: [G_Auto 1] :  € 8.51 Lay bet placed on Lorenzo Musetti at 1.94. Fully matched at 1.93.  Ref: 12117          ( Fill or kill bet with 15 seconds delay.   )
+3/24/2022 21:30:23: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: aPoints = point: 0; games: 4; sets: 0 
+3/24/2022 21:30:23: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: aServing = serving:1
+3/24/2022 21:30:23: [G_Auto 2] :  Store Text Value (Shared) for Alexei Popyrin: bPoints = point: 0; games: 3; sets: 1 
+3/24/2022 21:30:23: [G_Auto 2] :  Store Text Value (Shared) for Alexei Popyrin: bServing = serving:0
+3/24/2022 21:30:23: [G_Auto 2] :  Store Value (Shared) for market: price = 1.93
+3/24/2022 21:30:23: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 107.53
+3/24/2022 21:30:23: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 118.79
+3/24/2022 21:30:23: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.51
+3/24/2022 21:30:23: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 226.32
+3/24/2022 21:30:23: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.61
+3/24/2022 21:30:23: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.92
+3/24/2022 21:30:23: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.08
+3/24/2022 21:30:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:30:28: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: aPoints = point: 0; games: 4; sets: 0 
+3/24/2022 21:30:28: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: aServing = serving:1
+3/24/2022 21:30:28: [G_Auto 2] :  Store Text Value (Shared) for Alexei Popyrin: bPoints = point: 0; games: 3; sets: 1 
+3/24/2022 21:30:28: [G_Auto 2] :  Store Text Value (Shared) for Alexei Popyrin: bServing = serving:0
+3/24/2022 21:30:28: [G_Auto 2] :  Store Value (Shared) for market: price = 1.93
+3/24/2022 21:30:28: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 107.53
+3/24/2022 21:30:28: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 118.79
+3/24/2022 21:30:28: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.51
+3/24/2022 21:30:28: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 226.32
+3/24/2022 21:30:28: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.61
+3/24/2022 21:30:28: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.91
+3/24/2022 21:30:28: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.08
+3/24/2022 21:30:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:31:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:31:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:31:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:31:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:32:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:32:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 21:32:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 21:35:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:36:06: [G_Auto 1] :  € 19.05 Lay bet placed on Alexei Popyrin at 1.42. Fully matched at 1.41.  Ref: 12123          ( Fill or kill bet with 15 seconds delay.   )
+3/24/2022 21:36:06: [G_Auto 1] :  Placed closure bet with greening on Lorenzo Musetti by Backing 4.83 at 3.4
+3/24/2022 21:36:07: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: aPoints = point: 0; games: 4; sets: 0 
+3/24/2022 21:36:07: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: aServing = serving:0
+3/24/2022 21:36:07: [G_Auto 2] :  Store Text Value (Shared) for Alexei Popyrin: bPoints = point: 0; games: 4; sets: 1 
+3/24/2022 21:36:07: [G_Auto 2] :  Store Text Value (Shared) for Alexei Popyrin: bServing = serving:2
+3/24/2022 21:36:07: [G_Auto 2] :  Store Value (Shared) for market: price = 3.4
+3/24/2022 21:36:07: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 112.36
+3/24/2022 21:36:07: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 137.84
+3/24/2022 21:36:07: [G_Auto 2] :  Store Value (Shared) for market: stake = 4.83
+3/24/2022 21:36:07: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 250.2
+3/24/2022 21:36:07: [G_Auto 2] :  Store Value (Shared) for market: pl = 6.02
+3/24/2022 21:36:07: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.5
+3/24/2022 21:36:07: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.4
+3/24/2022 21:36:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:36:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:36:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 21:36:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 21:37:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 21:41:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:41:28: [G_Auto 1] :  Placed closure bet with greening on Alexei Popyrin by Backing 20.35 at 1.32
+3/24/2022 21:41:29: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: aPoints = point: 0; games: 4; sets: 0 
+3/24/2022 21:41:29: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: aServing = serving:1
+3/24/2022 21:41:29: [G_Auto 2] :  Store Text Value (Shared) for Alexei Popyrin: bPoints = point: 0; games: 5; sets: 1 
+3/24/2022 21:41:29: [G_Auto 2] :  Store Text Value (Shared) for Alexei Popyrin: bServing = serving:0
+3/24/2022 21:41:29: [G_Auto 2] :  Store Value (Shared) for market: price = 1.32
+3/24/2022 21:41:29: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 132.71
+3/24/2022 21:41:29: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 137.84
+3/24/2022 21:41:29: [G_Auto 2] :  Store Value (Shared) for market: stake = 20.35
+3/24/2022 21:41:29: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 270.55
+3/24/2022 21:41:29: [G_Auto 2] :  Store Value (Shared) for market: pl = 5.02
+3/24/2022 21:41:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4
+3/24/2022 21:41:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.34
+3/24/2022 21:41:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:41:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:42:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:42:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:42:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:43:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:43:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:43:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 21:43:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 21:45:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:45:17: [G_Auto 1] :  € 17.39 Lay bet placed on Alexei Popyrin at 1.46. Fully matched at 1.45.  Ref: 12140          ( Fill or kill bet with 15 seconds delay.   )
+3/24/2022 21:45:17: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: aPoints = point: 0; games: 5; sets: 0 
+3/24/2022 21:45:17: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: aServing = serving:0
+3/24/2022 21:45:17: [G_Auto 2] :  Store Text Value (Shared) for Alexei Popyrin: bPoints = point: 0; games: 5; sets: 1 
+3/24/2022 21:45:17: [G_Auto 2] :  Store Text Value (Shared) for Alexei Popyrin: bServing = serving:2
+3/24/2022 21:45:17: [G_Auto 2] :  Store Value (Shared) for market: price = 1.45
+3/24/2022 21:45:17: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 132.71
+3/24/2022 21:45:17: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 155.23
+3/24/2022 21:45:17: [G_Auto 2] :  Store Value (Shared) for market: stake = 17.39
+3/24/2022 21:45:17: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 287.94
+3/24/2022 21:45:17: [G_Auto 2] :  Store Value (Shared) for market: pl = 5.02
+3/24/2022 21:45:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.15
+3/24/2022 21:45:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.45
+3/24/2022 21:45:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:45:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:45:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 21:45:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 21:54:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:54:38: [G_Auto 1] :  Placed closure bet with greening on Alexei Popyrin by Backing 18.41 at 1.37
+3/24/2022 21:54:38: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: aPoints = point: 0; games: 5; sets: 0 
+3/24/2022 21:54:38: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: aServing = serving:1
+3/24/2022 21:54:38: [G_Auto 2] :  Store Text Value (Shared) for Alexei Popyrin: bPoints = point: 0; games: 6; sets: 1 
+3/24/2022 21:54:38: [G_Auto 2] :  Store Text Value (Shared) for Alexei Popyrin: bServing = serving:0
+3/24/2022 21:54:38: [G_Auto 2] :  Store Value (Shared) for market: price = 1.37
+3/24/2022 21:54:38: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 151.12
+3/24/2022 21:54:38: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 155.23
+3/24/2022 21:54:38: [G_Auto 2] :  Store Value (Shared) for market: stake = 18.41
+3/24/2022 21:54:38: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 306.35
+3/24/2022 21:54:38: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.02
+3/24/2022 21:54:38: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.65
+3/24/2022 21:54:38: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.39
+3/24/2022 21:54:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:54:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:55:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:55:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:55:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:56:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:56:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:56:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 21:56:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 22:00:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:01:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:01:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:01:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:01:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 22:02:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 22:02:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 22:02:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 22:02:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 22:03:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 22:03:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 22:03:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 22:04:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 22:04:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 22:04:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 22:05:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 22:05:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 22:05:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 22:05:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 22:06:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 22:06:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 22:06:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 22:07:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 22:07:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 22:07:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 22:07:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 22:08:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 22:08:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 22:08:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 22:09:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 22:09:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 22:09:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 22:09:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:09:55:  Guardian has detected that the market is suspended
