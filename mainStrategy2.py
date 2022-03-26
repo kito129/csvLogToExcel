@@ -83,10 +83,10 @@ for date in os.listdir(path):
             market['sets'] = []
             d1 = content.split('aFirstSetPrice')[0].split('\n')[-1].split(': ')[0]
             if d1:
-                d1 = int(datetime.strptime(d1, '%m/%d/%Y %H:%M:%S').timestamp() * 1000) + 3600000
+                d1 = int(datetime.strptime(d1, '%m/%d/%Y %H:%M:%S').timestamp() * 10000) + 3600000
             d2 = content.split('aSecondSetPrice')[0].split('\n')[-1].split(': ')[0]
             if d2:
-                d2 = int(datetime.strptime(d2, '%m/%d/%Y %H:%M:%S').timestamp() * 1000) + 3600000
+                d2 = int(datetime.strptime(d2, '%m/%d/%Y %H:%M:%S').timestamp() * 10000) + 3600000
             market['setPriceDates'] = [None, d1, d2]
             market['runnerSets'] = []
             market['runnerSets'].append([getField('aFirstSetPrice', content), getField('bFirstSetPrice', content)])
