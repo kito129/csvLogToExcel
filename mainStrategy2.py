@@ -20,7 +20,7 @@ def getField(field, content, index=0):
         return None
 
 
-path = "./OlderReport/Strategy1/"
+path = "./Strategy2MarketReports"
 exportPath = "./Strategy2ExportReport/"
 if not os.path.exists(exportPath):
     try:

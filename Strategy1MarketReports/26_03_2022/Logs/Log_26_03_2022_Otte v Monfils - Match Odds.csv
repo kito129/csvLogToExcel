@@ -1,0 +1,450 @@
+3/25/2022 23:40:36: [G_Auto 1] :  Store Text Value (Shared) for Oscar Otte: info = marketName: Otte v Monfils - Match Odds; runnerA: Oscar Otte; runnerB: Gael Monfils 
+3/25/2022 23:40:36: [G_Auto 1] :  Store Value (Shared) for market: aId = 9624731
+3/25/2022 23:40:36: [G_Auto 1] :  Store Value (Shared) for market: bId = 2257300
+3/25/2022 23:47:33:  Guardian has detected that the market is in-play
+3/25/2022 23:47:33:  Guardian has detected that the market is suspended
+3/25/2022 23:47:35: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 4; bBsp: 1.31; volume: 42456 
+3/25/2022 23:47:35: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 4; bBsp: 1.31; volume: 42456 
+3/25/2022 23:47:35:  Guardian has detected that the market is now unsuspended
+3/25/2022 23:47:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/25/2022 23:47:49: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/25/2022 23:48:04: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/25/2022 23:53:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/25/2022 23:53:49: [G_Auto 2] :  € 21.62 Lay bet placed on Gael Monfils at 1.37. Fully matched at 1.36.  Ref: 10000          ( Fill or kill bet with 15 seconds delay.   )
+3/25/2022 23:53:50: [G_Auto 1] :  Store Text Value (Shared) for Oscar Otte: aPoints = point: 0; games: 1; sets: 0 
+3/25/2022 23:53:50: [G_Auto 1] :  Store Text Value (Shared) for Oscar Otte: aServing = serving:0
+3/25/2022 23:53:50: [G_Auto 1] :  Store Text Value (Shared) for Gael Monfils: bPoints = point: 0; games: 0; sets: 0 
+3/25/2022 23:53:50: [G_Auto 1] :  Store Text Value (Shared) for Gael Monfils: bServing = serving:2
+3/25/2022 23:53:50: [G_Auto 1] :  Store Value (Shared) for market: price = 1.36
+3/25/2022 23:53:50: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 0
+3/25/2022 23:53:50: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 21.62
+3/25/2022 23:53:50: [G_Auto 1] :  Store Value (Shared) for market: stake = 21.62
+3/25/2022 23:53:50: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 21.62
+3/25/2022 23:53:50: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.16
+3/25/2022 23:53:50: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.75
+3/25/2022 23:53:50: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.35
+3/25/2022 23:53:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/25/2022 23:54:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/25/2022 23:54:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/25/2022 23:54:33: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/25/2022 23:56:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/25/2022 23:56:24: [G_Auto 2] :  Placed closure bet with greening on Gael Monfils by Backing 22.62 at 1.3
+3/25/2022 23:56:26: [G_Auto 1] :  Store Text Value (Shared) for Oscar Otte: aPoints = point: 0; games: 1; sets: 0 
+3/25/2022 23:56:26: [G_Auto 1] :  Store Text Value (Shared) for Oscar Otte: aServing = serving:1
+3/25/2022 23:56:26: [G_Auto 1] :  Store Text Value (Shared) for Gael Monfils: bPoints = point: 0; games: 1; sets: 0 
+3/25/2022 23:56:26: [G_Auto 1] :  Store Text Value (Shared) for Gael Monfils: bServing = serving:0
+3/25/2022 23:56:26: [G_Auto 1] :  Store Value (Shared) for market: price = 1.3
+3/25/2022 23:56:26: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 22.62
+3/25/2022 23:56:26: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 21.62
+3/25/2022 23:56:26: [G_Auto 1] :  Store Value (Shared) for market: stake = 22.62
+3/25/2022 23:56:26: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 44.24
+3/25/2022 23:56:26: [G_Auto 1] :  Store Value (Shared) for market: pl = -1
+3/25/2022 23:56:26: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 4.1
+3/25/2022 23:56:26: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.32
+3/25/2022 23:56:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/25/2022 23:56:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/25/2022 23:56:54: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/25/2022 23:57:10: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/25/2022 23:57:26: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/25/2022 23:58:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/25/2022 23:59:12: [G_Auto 2] :  € 20.51 Lay bet placed on Gael Monfils at 1.39. Fully matched at 1.38.  Ref: 10002          ( Fill or kill bet with 15 seconds delay.   )
+3/25/2022 23:59:13: [G_Auto 1] :  Store Text Value (Shared) for Oscar Otte: aPoints = point: 0; games: 2; sets: 0 
+3/25/2022 23:59:13: [G_Auto 1] :  Store Text Value (Shared) for Oscar Otte: aServing = serving:0
+3/25/2022 23:59:13: [G_Auto 1] :  Store Text Value (Shared) for Gael Monfils: bPoints = point: 0; games: 1; sets: 0 
+3/25/2022 23:59:13: [G_Auto 1] :  Store Text Value (Shared) for Gael Monfils: bServing = serving:2
+3/25/2022 23:59:13: [G_Auto 1] :  Store Value (Shared) for market: price = 1.38
+3/25/2022 23:59:13: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 22.62
+3/25/2022 23:59:13: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 42.13
+3/25/2022 23:59:13: [G_Auto 1] :  Store Value (Shared) for market: stake = 20.51
+3/25/2022 23:59:13: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 64.75
+3/25/2022 23:59:13: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.15
+3/25/2022 23:59:13: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.7
+3/25/2022 23:59:13: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.36
+3/25/2022 23:59:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/25/2022 23:59:19: [G_Auto 1] :  Store Text Value (Shared) for Oscar Otte: aPoints = point: 0; games: 2; sets: 0 
+3/25/2022 23:59:19: [G_Auto 1] :  Store Text Value (Shared) for Oscar Otte: aServing = serving:0
+3/25/2022 23:59:19: [G_Auto 1] :  Store Text Value (Shared) for Gael Monfils: bPoints = point: 0; games: 1; sets: 0 
+3/25/2022 23:59:19: [G_Auto 1] :  Store Text Value (Shared) for Gael Monfils: bServing = serving:2
+3/25/2022 23:59:19: [G_Auto 1] :  Store Value (Shared) for market: price = 1.38
+3/25/2022 23:59:19: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 22.62
+3/25/2022 23:59:19: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 42.13
+3/25/2022 23:59:19: [G_Auto 1] :  Store Value (Shared) for market: stake = 20.51
+3/25/2022 23:59:19: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 64.75
+3/25/2022 23:59:19: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.15
+3/25/2022 23:59:19: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.7
+3/25/2022 23:59:19: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.37
+3/25/2022 23:59:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/25/2022 23:59:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:00:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:00:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:00:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:00:51: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:01:07: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:02:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:02:21: [G_Auto 2] :  Placed closure bet with greening on Gael Monfils by Backing 21.28 at 1.33
+3/26/2022 00:02:22: [G_Auto 1] :  Store Text Value (Shared) for Oscar Otte: aPoints = point: 0; games: 2; sets: 0 
+3/26/2022 00:02:22: [G_Auto 1] :  Store Text Value (Shared) for Oscar Otte: aServing = serving:1
+3/26/2022 00:02:22: [G_Auto 1] :  Store Text Value (Shared) for Gael Monfils: bPoints = point: 0; games: 2; sets: 0 
+3/26/2022 00:02:22: [G_Auto 1] :  Store Text Value (Shared) for Gael Monfils: bServing = serving:0
+3/26/2022 00:02:22: [G_Auto 1] :  Store Value (Shared) for market: price = 1.33
+3/26/2022 00:02:22: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 43.9
+3/26/2022 00:02:22: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 42.13
+3/26/2022 00:02:22: [G_Auto 1] :  Store Value (Shared) for market: stake = 21.28
+3/26/2022 00:02:22: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 86.03
+3/26/2022 00:02:22: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.77
+3/26/2022 00:02:22: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.95
+3/26/2022 00:02:22: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.34
+3/26/2022 00:02:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:02:28: [G_Auto 1] :  Store Text Value (Shared) for Oscar Otte: aPoints = point: 0; games: 2; sets: 0 
+3/26/2022 00:02:28: [G_Auto 1] :  Store Text Value (Shared) for Oscar Otte: aServing = serving:1
+3/26/2022 00:02:28: [G_Auto 1] :  Store Text Value (Shared) for Gael Monfils: bPoints = point: 0; games: 2; sets: 0 
+3/26/2022 00:02:28: [G_Auto 1] :  Store Text Value (Shared) for Gael Monfils: bServing = serving:0
+3/26/2022 00:02:28: [G_Auto 1] :  Store Value (Shared) for market: price = 1.33
+3/26/2022 00:02:28: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 43.9
+3/26/2022 00:02:28: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 42.13
+3/26/2022 00:02:28: [G_Auto 1] :  Store Value (Shared) for market: stake = 21.28
+3/26/2022 00:02:28: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 86.03
+3/26/2022 00:02:28: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.77
+3/26/2022 00:02:28: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.95
+3/26/2022 00:02:28: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.34
+3/26/2022 00:02:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:02:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:03:05: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:03:21: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:03:37: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:05:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:05:27: [G_Auto 2] :  € 17.78 Lay bet placed on Gael Monfils at 1.45. Fully matched at 1.44.  Ref: 10004          ( Fill or kill bet with 15 seconds delay.   )
+3/26/2022 00:05:28: [G_Auto 1] :  Store Text Value (Shared) for Oscar Otte: aPoints = point: 0; games: 3; sets: 0 
+3/26/2022 00:05:28: [G_Auto 1] :  Store Text Value (Shared) for Oscar Otte: aServing = serving:0
+3/26/2022 00:05:28: [G_Auto 1] :  Store Text Value (Shared) for Gael Monfils: bPoints = point: 0; games: 2; sets: 0 
+3/26/2022 00:05:28: [G_Auto 1] :  Store Text Value (Shared) for Gael Monfils: bServing = serving:2
+3/26/2022 00:05:28: [G_Auto 1] :  Store Value (Shared) for market: price = 1.44
+3/26/2022 00:05:28: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 43.9
+3/26/2022 00:05:28: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 59.91
+3/26/2022 00:05:28: [G_Auto 1] :  Store Value (Shared) for market: stake = 17.78
+3/26/2022 00:05:28: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 103.81
+3/26/2022 00:05:28: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.89
+3/26/2022 00:05:28: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.35
+3/26/2022 00:05:28: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.43
+3/26/2022 00:05:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:05:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:06:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:06:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:06:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:06:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:07:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:07:18: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:07:34: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:10:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:11:07: [G_Auto 2] :  Placed closure bet with greening on Gael Monfils by Backing 17.90 at 1.43
+3/26/2022 00:11:08: [G_Auto 1] :  Store Text Value (Shared) for Oscar Otte: aPoints = point: 0; games: 3; sets: 0 
+3/26/2022 00:11:08: [G_Auto 1] :  Store Text Value (Shared) for Oscar Otte: aServing = serving:1
+3/26/2022 00:11:08: [G_Auto 1] :  Store Text Value (Shared) for Gael Monfils: bPoints = point: 0; games: 3; sets: 0 
+3/26/2022 00:11:08: [G_Auto 1] :  Store Text Value (Shared) for Gael Monfils: bServing = serving:0
+3/26/2022 00:11:08: [G_Auto 1] :  Store Value (Shared) for market: price = 1.43
+3/26/2022 00:11:08: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 61.8
+3/26/2022 00:11:08: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 59.91
+3/26/2022 00:11:08: [G_Auto 1] :  Store Value (Shared) for market: stake = 17.9
+3/26/2022 00:11:08: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 121.71
+3/26/2022 00:11:08: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.89
+3/26/2022 00:11:08: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.25
+3/26/2022 00:11:08: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.43
+3/26/2022 00:11:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:11:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:11:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:11:47: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:12:02: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:14:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:14:41: [G_Auto 2] :  € 15.38 Lay bet placed on Gael Monfils at 1.52. Fully matched at 1.51.  Ref: 10006          ( Fill or kill bet with 15 seconds delay.   )
+3/26/2022 00:14:42: [G_Auto 1] :  Store Text Value (Shared) for Oscar Otte: aPoints = point: 0; games: 4; sets: 0 
+3/26/2022 00:14:42: [G_Auto 1] :  Store Text Value (Shared) for Oscar Otte: aServing = serving:0
+3/26/2022 00:14:42: [G_Auto 1] :  Store Text Value (Shared) for Gael Monfils: bPoints = point: 0; games: 3; sets: 0 
+3/26/2022 00:14:42: [G_Auto 1] :  Store Text Value (Shared) for Gael Monfils: bServing = serving:2
+3/26/2022 00:14:42: [G_Auto 1] :  Store Value (Shared) for market: price = 1.51
+3/26/2022 00:14:42: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 61.8
+3/26/2022 00:14:42: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 75.29
+3/26/2022 00:14:42: [G_Auto 1] :  Store Value (Shared) for market: stake = 15.38
+3/26/2022 00:14:42: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 137.09
+3/26/2022 00:14:42: [G_Auto 1] :  Store Value (Shared) for market: pl = -2
+3/26/2022 00:14:42: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3
+3/26/2022 00:14:42: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.5
+3/26/2022 00:14:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:14:48: [G_Auto 1] :  Store Text Value (Shared) for Oscar Otte: aPoints = point: 0; games: 4; sets: 0 
+3/26/2022 00:14:48: [G_Auto 1] :  Store Text Value (Shared) for Oscar Otte: aServing = serving:0
+3/26/2022 00:14:48: [G_Auto 1] :  Store Text Value (Shared) for Gael Monfils: bPoints = point: 0; games: 3; sets: 0 
+3/26/2022 00:14:48: [G_Auto 1] :  Store Text Value (Shared) for Gael Monfils: bServing = serving:2
+3/26/2022 00:14:48: [G_Auto 1] :  Store Value (Shared) for market: price = 1.51
+3/26/2022 00:14:48: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 61.8
+3/26/2022 00:14:48: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 75.29
+3/26/2022 00:14:48: [G_Auto 1] :  Store Value (Shared) for market: stake = 15.38
+3/26/2022 00:14:48: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 137.09
+3/26/2022 00:14:48: [G_Auto 1] :  Store Value (Shared) for market: pl = -2
+3/26/2022 00:14:48: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3
+3/26/2022 00:14:48: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.51
+3/26/2022 00:14:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:15:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:15:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:15:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:16:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:16:16: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:16:32: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:18:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:18:57: [G_Auto 2] :  Placed closure bet with greening on Gael Monfils by Backing 16.13 at 1.44
+3/26/2022 00:18:59: [G_Auto 1] :  Store Text Value (Shared) for Oscar Otte: aPoints = point: 0; games: 4; sets: 0 
+3/26/2022 00:18:59: [G_Auto 1] :  Store Text Value (Shared) for Oscar Otte: aServing = serving:1
+3/26/2022 00:18:59: [G_Auto 1] :  Store Text Value (Shared) for Gael Monfils: bPoints = point: 0; games: 4; sets: 0 
+3/26/2022 00:18:59: [G_Auto 1] :  Store Text Value (Shared) for Gael Monfils: bServing = serving:0
+3/26/2022 00:18:59: [G_Auto 1] :  Store Value (Shared) for market: price = 1.44
+3/26/2022 00:18:59: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 77.93
+3/26/2022 00:18:59: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 75.29
+3/26/2022 00:18:59: [G_Auto 1] :  Store Value (Shared) for market: stake = 16.13
+3/26/2022 00:18:59: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 153.22
+3/26/2022 00:18:59: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.64
+3/26/2022 00:18:59: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.2
+3/26/2022 00:18:59: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.45
+3/26/2022 00:19:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:19:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:19:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:19:33: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:19:49: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:22:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:22:44: [G_Auto 2] :  € 14.81 Lay bet placed on Gael Monfils at 1.54. Fully matched at 1.54.  Ref: 10008          ( Fill or kill bet with 15 seconds delay.   )
+3/26/2022 00:22:45: [G_Auto 1] :  Store Text Value (Shared) for Oscar Otte: aPoints = point: 0; games: 5; sets: 0 
+3/26/2022 00:22:45: [G_Auto 1] :  Store Text Value (Shared) for Oscar Otte: aServing = serving:0
+3/26/2022 00:22:45: [G_Auto 1] :  Store Text Value (Shared) for Gael Monfils: bPoints = point: 0; games: 4; sets: 0 
+3/26/2022 00:22:45: [G_Auto 1] :  Store Text Value (Shared) for Gael Monfils: bServing = serving:2
+3/26/2022 00:22:45: [G_Auto 1] :  Store Value (Shared) for market: price = 1.54
+3/26/2022 00:22:45: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 77.93
+3/26/2022 00:22:45: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 90.1
+3/26/2022 00:22:45: [G_Auto 1] :  Store Value (Shared) for market: stake = 14.81
+3/26/2022 00:22:45: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 168.03
+3/26/2022 00:22:45: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.84
+3/26/2022 00:22:45: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.92
+3/26/2022 00:22:45: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.52
+3/26/2022 00:22:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:22:51: [G_Auto 1] :  Store Text Value (Shared) for Oscar Otte: aPoints = point: 0; games: 5; sets: 0 
+3/26/2022 00:22:51: [G_Auto 1] :  Store Text Value (Shared) for Oscar Otte: aServing = serving:0
+3/26/2022 00:22:51: [G_Auto 1] :  Store Text Value (Shared) for Gael Monfils: bPoints = point: 0; games: 4; sets: 0 
+3/26/2022 00:22:51: [G_Auto 1] :  Store Text Value (Shared) for Gael Monfils: bServing = serving:2
+3/26/2022 00:22:51: [G_Auto 1] :  Store Value (Shared) for market: price = 1.54
+3/26/2022 00:22:51: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 77.93
+3/26/2022 00:22:51: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 90.1
+3/26/2022 00:22:51: [G_Auto 1] :  Store Value (Shared) for market: stake = 14.81
+3/26/2022 00:22:51: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 168.03
+3/26/2022 00:22:51: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.94
+3/26/2022 00:22:51: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.86
+3/26/2022 00:22:51: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.53
+3/26/2022 00:23:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:23:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:23:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:23:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:24:06: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:24:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:24:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:24:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:25:01: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:25:17: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:25:33: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:27:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:27:59: [G_Auto 2] :  Placed closure bet with greening on Gael Monfils by Backing 15.73 at 1.45
+3/26/2022 00:28:00: [G_Auto 1] :  Store Text Value (Shared) for Oscar Otte: aPoints = point: 0; games: 5; sets: 0 
+3/26/2022 00:28:00: [G_Auto 1] :  Store Text Value (Shared) for Oscar Otte: aServing = serving:1
+3/26/2022 00:28:00: [G_Auto 1] :  Store Text Value (Shared) for Gael Monfils: bPoints = point: 0; games: 5; sets: 0 
+3/26/2022 00:28:00: [G_Auto 1] :  Store Text Value (Shared) for Gael Monfils: bServing = serving:0
+3/26/2022 00:28:00: [G_Auto 1] :  Store Value (Shared) for market: price = 1.45
+3/26/2022 00:28:00: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 93.66
+3/26/2022 00:28:00: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 90.1
+3/26/2022 00:28:00: [G_Auto 1] :  Store Value (Shared) for market: stake = 15.73
+3/26/2022 00:28:00: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 183.76
+3/26/2022 00:28:00: [G_Auto 1] :  Store Value (Shared) for market: pl = -3.56
+3/26/2022 00:28:00: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.15
+3/26/2022 00:28:00: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.46
+3/26/2022 00:28:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:28:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:28:23: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:28:38: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:28:54: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:31:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:31:24: [G_Auto 2] :  € 14.04 Lay bet placed on Gael Monfils at 1.57. Fully matched at 1.56.  Ref: 10010          ( Fill or kill bet with 15 seconds delay.   )
+3/26/2022 00:31:25: [G_Auto 1] :  Store Text Value (Shared) for Oscar Otte: aPoints = point: 0; games: 6; sets: 0 
+3/26/2022 00:31:25: [G_Auto 1] :  Store Text Value (Shared) for Oscar Otte: aServing = serving:0
+3/26/2022 00:31:25: [G_Auto 1] :  Store Text Value (Shared) for Gael Monfils: bPoints = point: 0; games: 5; sets: 0 
+3/26/2022 00:31:25: [G_Auto 1] :  Store Text Value (Shared) for Gael Monfils: bServing = serving:2
+3/26/2022 00:31:25: [G_Auto 1] :  Store Value (Shared) for market: price = 1.56
+3/26/2022 00:31:25: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 93.66
+3/26/2022 00:31:25: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 104.14
+3/26/2022 00:31:25: [G_Auto 1] :  Store Value (Shared) for market: stake = 14.04
+3/26/2022 00:31:25: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 197.8
+3/26/2022 00:31:25: [G_Auto 1] :  Store Value (Shared) for market: pl = -3.65
+3/26/2022 00:31:25: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.84
+3/26/2022 00:31:25: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.55
+3/26/2022 00:31:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:31:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:31:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:32:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:32:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:32:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:33:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:33:15: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:33:31: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:33:47: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:35:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:35:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:35:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:36:05: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:36:21: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:36:37: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:36:52: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:37:08: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:37:24: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:37:39: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:37:55: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:38:11: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:38:27: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:38:43: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:38:59: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:39:14: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:39:30: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:39:46: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:40:02: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:40:18: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:40:34: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:40:50: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:41:05: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:41:21: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:41:37: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:41:53: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:42:08: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:42:24: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:42:40: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:42:56: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:43:11: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:43:27: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:43:43: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:43:59: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:44:14: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:44:30: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:44:46: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:45:01: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:45:17: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:45:33: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:45:49: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:46:04: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:46:20: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:46:36: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:46:51: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:47:07: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:47:23: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:47:39: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:47:54: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:48:10: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:48:26: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:48:41: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:48:57: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:49:13: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:49:29: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:49:44: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:50:00: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:50:16: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:50:32: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:50:47: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:51:03: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:51:19: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:51:35: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:51:50: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:52:06: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:52:22: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:52:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:52:38: [G_Auto 1] :  Store Value (Shared) for market: aFirstSetPrice = 7.2
+3/26/2022 00:52:38: [G_Auto 1] :  Store Value (Shared) for market: bFirstSetPrice = 1.16
+3/26/2022 00:52:41: [G_Auto 2] :  € 47.06 Lay bet placed on Gael Monfils at 1.17. Fully matched at 1.17.  Ref: 10015          ( Fill or kill bet with 15 seconds delay.   )
+3/26/2022 00:52:42: [G_Auto 1] :  Store Text Value (Shared) for Oscar Otte: aPoints = point: 0; games: 0; sets: 0 
+3/26/2022 00:52:42: [G_Auto 1] :  Store Text Value (Shared) for Oscar Otte: aServing = serving:0
+3/26/2022 00:52:42: [G_Auto 1] :  Store Text Value (Shared) for Gael Monfils: bPoints = point: 0; games: 0; sets: 1 
+3/26/2022 00:52:42: [G_Auto 1] :  Store Text Value (Shared) for Gael Monfils: bServing = serving:2
+3/26/2022 00:52:42: [G_Auto 1] :  Store Value (Shared) for market: price = 1.17
+3/26/2022 00:52:42: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 93.66
+3/26/2022 00:52:42: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 151.2
+3/26/2022 00:52:42: [G_Auto 1] :  Store Value (Shared) for market: stake = 47.06
+3/26/2022 00:52:42: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 244.86
+3/26/2022 00:52:42: [G_Auto 1] :  Store Value (Shared) for market: pl = -9.38
+3/26/2022 00:52:42: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 7.2
+3/26/2022 00:52:42: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.15
+3/26/2022 00:52:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:52:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:53:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:53:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:53:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:54:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:54:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:54:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:54:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:55:06: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:55:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:55:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:55:45: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:56:01: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:57:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:57:21: [G_Auto 2] :  Placed closure bet with greening on Gael Monfils by Backing 68.11 at 1.13
+3/26/2022 00:57:23: [G_Auto 1] :  Store Text Value (Shared) for Oscar Otte: aPoints = point: 0; games: 0; sets: 0 
+3/26/2022 00:57:23: [G_Auto 1] :  Store Text Value (Shared) for Oscar Otte: aServing = serving:1
+3/26/2022 00:57:23: [G_Auto 1] :  Store Text Value (Shared) for Gael Monfils: bPoints = point: 0; games: 1; sets: 1 
+3/26/2022 00:57:23: [G_Auto 1] :  Store Text Value (Shared) for Gael Monfils: bServing = serving:0
+3/26/2022 00:57:23: [G_Auto 1] :  Store Value (Shared) for market: price = 1.13
+3/26/2022 00:57:23: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 161.77
+3/26/2022 00:57:23: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 151.2
+3/26/2022 00:57:23: [G_Auto 1] :  Store Value (Shared) for market: stake = 68.11
+3/26/2022 00:57:23: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 312.97
+3/26/2022 00:57:23: [G_Auto 1] :  Store Value (Shared) for market: pl = -10.57
+3/26/2022 00:57:23: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 8.4
+3/26/2022 00:57:23: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.13
+3/26/2022 00:57:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:57:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:57:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:58:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 00:58:16: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 00:58:32: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 01:03:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 01:03:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 01:03:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 01:04:03: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 01:04:18: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 01:05:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 01:06:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 01:06:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 01:06:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 01:06:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 01:07:06: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 01:07:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 01:07:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 01:07:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 01:08:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 01:08:25: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 01:08:41: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 01:08:57: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 01:10:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 01:10:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 01:11:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 01:11:26: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 01:11:41: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 01:13:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 01:13:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 01:13:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 01:13:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 01:14:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 01:14:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 01:14:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 01:15:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 01:15:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 01:15:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 01:15:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 01:15:50: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 01:16:05: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 01:16:21: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 01:17:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 01:17:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 01:18:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 01:18:27: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 01:18:42: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 01:19:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 01:19:27:  Guardian has detected that the market is suspended

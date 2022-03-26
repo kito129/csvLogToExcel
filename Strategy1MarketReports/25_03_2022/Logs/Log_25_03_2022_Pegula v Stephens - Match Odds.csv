@@ -1,0 +1,354 @@
+3/25/2022 14:38:55: [G_Auto 2] :  Store Text Value (Shared) for Jessica Pegula: info = marketName: Pegula v Stephens - Match Odds; runnerA: Jessica Pegula; runnerB: Sloane Stephens 
+3/25/2022 14:38:55: [G_Auto 2] :  Store Value (Shared) for market: aId = 6215852
+3/25/2022 14:38:55: [G_Auto 2] :  Store Value (Shared) for market: bId = 2923342
+3/25/2022 18:39:29:  Guardian has detected that the market is in-play
+3/25/2022 18:39:29:  Guardian has detected that the market is suspended
+3/25/2022 18:39:35: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.52; bBsp: 2.94; volume: 45283.9 
+3/25/2022 18:39:35: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.52; bBsp: 2.94; volume: 45283.9 
+3/25/2022 18:39:35:  Guardian has detected that the market is now unsuspended
+3/25/2022 18:39:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 18:40:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 18:40:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 18:42:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 18:42:48: [G_Auto 1] :  € 12.31 Lay bet placed on Jessica Pegula at 1.65. Fully matched at 1.65.  Ref: 12505          ( Fill or kill bet with 15 seconds delay.   )
+3/25/2022 18:42:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 18:42:51: [G_Auto 2] :  Store Text Value (Shared) for Jessica Pegula: aPoints = point: 0; games: 0; sets: 0 
+3/25/2022 18:42:51: [G_Auto 2] :  Store Text Value (Shared) for Jessica Pegula: aServing = serving:1
+3/25/2022 18:42:51: [G_Auto 2] :  Store Text Value (Shared) for Sloane Stephens: bPoints = point: 0; games: 1; sets: 0 
+3/25/2022 18:42:51: [G_Auto 2] :  Store Text Value (Shared) for Sloane Stephens: bServing = serving:0
+3/25/2022 18:42:51: [G_Auto 2] :  Store Value (Shared) for market: price = 1.65
+3/25/2022 18:42:51: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+3/25/2022 18:42:51: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 12.31
+3/25/2022 18:42:51: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.31
+3/25/2022 18:42:51: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 12.31
+3/25/2022 18:42:51: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.08
+3/25/2022 18:42:51: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.63
+3/25/2022 18:42:51: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.72
+3/25/2022 18:43:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 18:43:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 18:43:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 18:43:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 18:44:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 18:46:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 18:46:50: [G_Auto 1] :  Placed closure bet with greening on Jessica Pegula by Backing 13.45 at 1.51
+3/25/2022 18:46:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 18:46:52: [G_Auto 2] :  Store Text Value (Shared) for Jessica Pegula: aPoints = point: 0; games: 1; sets: 0 
+3/25/2022 18:46:52: [G_Auto 2] :  Store Text Value (Shared) for Jessica Pegula: aServing = serving:0
+3/25/2022 18:46:52: [G_Auto 2] :  Store Text Value (Shared) for Sloane Stephens: bPoints = point: 0; games: 1; sets: 0 
+3/25/2022 18:46:52: [G_Auto 2] :  Store Text Value (Shared) for Sloane Stephens: bServing = serving:2
+3/25/2022 18:46:52: [G_Auto 2] :  Store Value (Shared) for market: price = 1.51
+3/25/2022 18:46:52: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 13.45
+3/25/2022 18:46:52: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 12.31
+3/25/2022 18:46:52: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.45
+3/25/2022 18:46:52: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 25.76
+3/25/2022 18:46:52: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.14
+3/25/2022 18:46:52: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.51
+3/25/2022 18:46:52: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.96
+3/25/2022 18:46:57: [G_Auto 2] :  Store Text Value (Shared) for Jessica Pegula: aPoints = point: 0; games: 1; sets: 0 
+3/25/2022 18:46:57: [G_Auto 2] :  Store Text Value (Shared) for Jessica Pegula: aServing = serving:0
+3/25/2022 18:46:57: [G_Auto 2] :  Store Text Value (Shared) for Sloane Stephens: bPoints = point: 0; games: 1; sets: 0 
+3/25/2022 18:46:57: [G_Auto 2] :  Store Text Value (Shared) for Sloane Stephens: bServing = serving:2
+3/25/2022 18:46:57: [G_Auto 2] :  Store Value (Shared) for market: price = 1.51
+3/25/2022 18:46:57: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 13.45
+3/25/2022 18:46:57: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 12.31
+3/25/2022 18:46:57: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.45
+3/25/2022 18:46:57: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 25.76
+3/25/2022 18:46:57: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.14
+3/25/2022 18:46:57: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.51
+3/25/2022 18:46:57: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.96
+3/25/2022 18:47:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 18:47:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 18:47:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 18:48:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 18:48:54: [G_Auto 1] :  € 25.81 Lay bet placed on Jessica Pegula at 1.31. Fully matched at 1.31.  Ref: 12513          ( Fill or kill bet with 15 seconds delay.   )
+3/25/2022 18:48:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 18:48:56: [G_Auto 2] :  Store Text Value (Shared) for Jessica Pegula: aPoints = point: 0; games: 2; sets: 0 
+3/25/2022 18:48:56: [G_Auto 2] :  Store Text Value (Shared) for Jessica Pegula: aServing = serving:1
+3/25/2022 18:48:56: [G_Auto 2] :  Store Text Value (Shared) for Sloane Stephens: bPoints = point: 0; games: 1; sets: 0 
+3/25/2022 18:48:56: [G_Auto 2] :  Store Text Value (Shared) for Sloane Stephens: bServing = serving:0
+3/25/2022 18:48:56: [G_Auto 2] :  Store Value (Shared) for market: price = 1.31
+3/25/2022 18:48:56: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 13.45
+3/25/2022 18:48:56: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 38.12
+3/25/2022 18:48:56: [G_Auto 2] :  Store Value (Shared) for market: stake = 25.81
+3/25/2022 18:48:56: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 51.57
+3/25/2022 18:48:56: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.54
+3/25/2022 18:48:56: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.31
+3/25/2022 18:48:56: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.4
+3/25/2022 18:49:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 18:49:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 18:49:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 18:50:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 18:50:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 18:50:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 18:51:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 18:51:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 18:51:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 18:55:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 18:55:26: [G_Auto 1] :  Placed closure bet with greening on Jessica Pegula by Backing 27.49 at 1.23
+3/25/2022 18:55:28: [G_Auto 2] :  Store Text Value (Shared) for Jessica Pegula: aPoints = point: 0; games: 3; sets: 0 
+3/25/2022 18:55:28: [G_Auto 2] :  Store Text Value (Shared) for Jessica Pegula: aServing = serving:0
+3/25/2022 18:55:28: [G_Auto 2] :  Store Text Value (Shared) for Sloane Stephens: bPoints = point: 0; games: 1; sets: 0 
+3/25/2022 18:55:28: [G_Auto 2] :  Store Text Value (Shared) for Sloane Stephens: bServing = serving:2
+3/25/2022 18:55:28: [G_Auto 2] :  Store Value (Shared) for market: price = 1.23
+3/25/2022 18:55:28: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 40.94
+3/25/2022 18:55:28: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 38.12
+3/25/2022 18:55:28: [G_Auto 2] :  Store Value (Shared) for market: stake = 27.49
+3/25/2022 18:55:28: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 79.06
+3/25/2022 18:55:28: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.82
+3/25/2022 18:55:28: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.25
+3/25/2022 18:55:28: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.1
+3/25/2022 18:55:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 18:55:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 18:56:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 19:00:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 19:00:18: [G_Auto 1] :  € 44.44 Lay bet placed on Jessica Pegula at 1.18. Fully matched at 1.17.  Ref: 12524          ( Fill or kill bet with 15 seconds delay.   )
+3/25/2022 19:00:19: [G_Auto 2] :  Store Text Value (Shared) for Jessica Pegula: aPoints = point: 0; games: 4; sets: 0 
+3/25/2022 19:00:19: [G_Auto 2] :  Store Text Value (Shared) for Jessica Pegula: aServing = serving:1
+3/25/2022 19:00:19: [G_Auto 2] :  Store Text Value (Shared) for Sloane Stephens: bPoints = point: 0; games: 1; sets: 0 
+3/25/2022 19:00:19: [G_Auto 2] :  Store Text Value (Shared) for Sloane Stephens: bServing = serving:0
+3/25/2022 19:00:19: [G_Auto 2] :  Store Value (Shared) for market: price = 1.17
+3/25/2022 19:00:19: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 40.94
+3/25/2022 19:00:19: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 82.56
+3/25/2022 19:00:19: [G_Auto 2] :  Store Value (Shared) for market: stake = 44.44
+3/25/2022 19:00:19: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 123.5
+3/25/2022 19:00:19: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.2
+3/25/2022 19:00:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.17
+3/25/2022 19:00:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 7.2
+3/25/2022 19:00:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 19:00:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 19:01:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 19:01:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 19:01:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 19:01:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 19:02:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 19:02:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 19:03:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 19:04:00: [G_Auto 1] :  Placed closure bet with greening on Jessica Pegula by Backing 46.01 at 1.13
+3/25/2022 19:04:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 19:04:02: [G_Auto 2] :  Store Text Value (Shared) for Jessica Pegula: aPoints = point: 0; games: 5; sets: 0 
+3/25/2022 19:04:02: [G_Auto 2] :  Store Text Value (Shared) for Jessica Pegula: aServing = serving:0
+3/25/2022 19:04:02: [G_Auto 2] :  Store Text Value (Shared) for Sloane Stephens: bPoints = point: 0; games: 1; sets: 0 
+3/25/2022 19:04:02: [G_Auto 2] :  Store Text Value (Shared) for Sloane Stephens: bServing = serving:2
+3/25/2022 19:04:02: [G_Auto 2] :  Store Value (Shared) for market: price = 1.13
+3/25/2022 19:04:02: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 86.95
+3/25/2022 19:04:02: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 82.56
+3/25/2022 19:04:02: [G_Auto 2] :  Store Value (Shared) for market: stake = 46.01
+3/25/2022 19:04:02: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 169.51
+3/25/2022 19:04:02: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.39
+3/25/2022 19:04:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.13
+3/25/2022 19:04:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 8.6
+3/25/2022 19:04:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 19:04:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 19:04:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 19:10:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 19:10:41: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 1.11
+3/25/2022 19:10:41: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 10.5
+3/25/2022 19:10:44: [G_Auto 1] :  € 66.67 Lay bet placed on Jessica Pegula at 1.12. Fully matched at 1.11.  Ref: 12536          ( Fill or kill bet with 15 seconds delay.   )
+3/25/2022 19:10:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 19:10:45: [G_Auto 2] :  Store Text Value (Shared) for Jessica Pegula: aPoints = point: 0; games: 0; sets: 1 
+3/25/2022 19:10:45: [G_Auto 2] :  Store Text Value (Shared) for Jessica Pegula: aServing = serving:1
+3/25/2022 19:10:45: [G_Auto 2] :  Store Text Value (Shared) for Sloane Stephens: bPoints = point: 0; games: 0; sets: 0 
+3/25/2022 19:10:45: [G_Auto 2] :  Store Text Value (Shared) for Sloane Stephens: bServing = serving:0
+3/25/2022 19:10:45: [G_Auto 2] :  Store Value (Shared) for market: price = 1.11
+3/25/2022 19:10:45: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 86.95
+3/25/2022 19:10:45: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 149.23
+3/25/2022 19:10:45: [G_Auto 2] :  Store Value (Shared) for market: stake = 66.67
+3/25/2022 19:10:45: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 236.18
+3/25/2022 19:10:45: [G_Auto 2] :  Store Value (Shared) for market: pl = -5
+3/25/2022 19:10:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.11
+3/25/2022 19:10:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 10.5
+3/25/2022 19:11:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 19:11:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 19:11:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 19:11:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 19:12:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 19:12:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 19:12:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 19:13:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 19:13:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 19:13:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 19:15:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 19:15:36: [G_Auto 1] :  Placed closure bet with greening on Jessica Pegula by Backing 69.17 at 1.07
+3/25/2022 19:15:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 19:15:37: [G_Auto 2] :  Store Text Value (Shared) for Jessica Pegula: aPoints = point: 0; games: 1; sets: 1 
+3/25/2022 19:15:37: [G_Auto 2] :  Store Text Value (Shared) for Jessica Pegula: aServing = serving:0
+3/25/2022 19:15:37: [G_Auto 2] :  Store Text Value (Shared) for Sloane Stephens: bPoints = point: 0; games: 0; sets: 0 
+3/25/2022 19:15:37: [G_Auto 2] :  Store Text Value (Shared) for Sloane Stephens: bServing = serving:2
+3/25/2022 19:15:37: [G_Auto 2] :  Store Value (Shared) for market: price = 1.07
+3/25/2022 19:15:37: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 156.12
+3/25/2022 19:15:37: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 149.23
+3/25/2022 19:15:37: [G_Auto 2] :  Store Value (Shared) for market: stake = 69.17
+3/25/2022 19:15:37: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 305.35
+3/25/2022 19:15:37: [G_Auto 2] :  Store Value (Shared) for market: pl = -6.89
+3/25/2022 19:15:37: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.08
+3/25/2022 19:15:37: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 14.5
+3/25/2022 19:15:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 19:16:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 19:16:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 19:18:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 19:18:33: [G_Auto 1] :  € 61.54 Lay bet placed on Jessica Pegula at 1.13. Fully matched at 1.12.  Ref: 12543          ( Fill or kill bet with 15 seconds delay.   )
+3/25/2022 19:18:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 19:18:34: [G_Auto 2] :  Store Text Value (Shared) for Jessica Pegula: aPoints = point: 0; games: 1; sets: 1 
+3/25/2022 19:18:34: [G_Auto 2] :  Store Text Value (Shared) for Jessica Pegula: aServing = serving:1
+3/25/2022 19:18:34: [G_Auto 2] :  Store Text Value (Shared) for Sloane Stephens: bPoints = point: 0; games: 1; sets: 0 
+3/25/2022 19:18:34: [G_Auto 2] :  Store Text Value (Shared) for Sloane Stephens: bServing = serving:0
+3/25/2022 19:18:34: [G_Auto 2] :  Store Value (Shared) for market: price = 1.12
+3/25/2022 19:18:34: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 156.12
+3/25/2022 19:18:34: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 210.77
+3/25/2022 19:18:34: [G_Auto 2] :  Store Value (Shared) for market: stake = 61.54
+3/25/2022 19:18:34: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 366.89
+3/25/2022 19:18:34: [G_Auto 2] :  Store Value (Shared) for market: pl = -7.44
+3/25/2022 19:18:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.12
+3/25/2022 19:18:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 9.2
+3/25/2022 19:18:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 19:19:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 19:21:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 19:21:44: [G_Auto 1] :  Placed closure bet with greening on Jessica Pegula by Backing 63.23 at 1.09
+3/25/2022 19:21:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 19:21:45: [G_Auto 2] :  Store Text Value (Shared) for Jessica Pegula: aPoints = point: 0; games: 2; sets: 1 
+3/25/2022 19:21:45: [G_Auto 2] :  Store Text Value (Shared) for Jessica Pegula: aServing = serving:0
+3/25/2022 19:21:45: [G_Auto 2] :  Store Text Value (Shared) for Sloane Stephens: bPoints = point: 0; games: 1; sets: 0 
+3/25/2022 19:21:45: [G_Auto 2] :  Store Text Value (Shared) for Sloane Stephens: bServing = serving:2
+3/25/2022 19:21:45: [G_Auto 2] :  Store Value (Shared) for market: price = 1.09
+3/25/2022 19:21:45: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 219.35
+3/25/2022 19:21:45: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 210.77
+3/25/2022 19:21:45: [G_Auto 2] :  Store Value (Shared) for market: stake = 63.23
+3/25/2022 19:21:45: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 430.12
+3/25/2022 19:21:45: [G_Auto 2] :  Store Value (Shared) for market: pl = -8.58
+3/25/2022 19:21:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.1
+3/25/2022 19:21:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 11
+3/25/2022 19:22:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 19:22:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 19:22:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 19:22:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 19:23:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 19:23:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 19:23:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 19:23:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 19:26:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 19:26:54: [G_Auto 1] :  € 53.33 Lay bet placed on Jessica Pegula at 1.15. Fully matched at 1.14.  Ref: 12555          ( Fill or kill bet with 15 seconds delay.   )
+3/25/2022 19:26:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 19:26:55: [G_Auto 2] :  Store Text Value (Shared) for Jessica Pegula: aPoints = point: 0; games: 2; sets: 1 
+3/25/2022 19:26:55: [G_Auto 2] :  Store Text Value (Shared) for Jessica Pegula: aServing = serving:1
+3/25/2022 19:26:55: [G_Auto 2] :  Store Text Value (Shared) for Sloane Stephens: bPoints = point: 0; games: 2; sets: 0 
+3/25/2022 19:26:55: [G_Auto 2] :  Store Text Value (Shared) for Sloane Stephens: bServing = serving:0
+3/25/2022 19:26:55: [G_Auto 2] :  Store Value (Shared) for market: price = 1.14
+3/25/2022 19:26:55: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 219.35
+3/25/2022 19:26:55: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 264.1
+3/25/2022 19:26:55: [G_Auto 2] :  Store Value (Shared) for market: stake = 53.33
+3/25/2022 19:26:55: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 483.45
+3/25/2022 19:26:55: [G_Auto 2] :  Store Value (Shared) for market: pl = -9.05
+3/25/2022 19:26:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.13
+3/25/2022 19:26:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 8.6
+3/25/2022 19:27:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 19:27:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 19:27:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 19:27:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 19:34:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 19:34:51: [G_Auto 1] :  Placed closure bet with greening on Jessica Pegula by Backing 46.77 at 1.3
+3/25/2022 19:34:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 19:34:52: [G_Auto 2] :  Store Text Value (Shared) for Jessica Pegula: aPoints = point: 0; games: 2; sets: 1 
+3/25/2022 19:34:52: [G_Auto 2] :  Store Text Value (Shared) for Jessica Pegula: aServing = serving:0
+3/25/2022 19:34:52: [G_Auto 2] :  Store Text Value (Shared) for Sloane Stephens: bPoints = point: 0; games: 3; sets: 0 
+3/25/2022 19:34:52: [G_Auto 2] :  Store Text Value (Shared) for Sloane Stephens: bServing = serving:2
+3/25/2022 19:34:52: [G_Auto 2] :  Store Value (Shared) for market: price = 1.3
+3/25/2022 19:34:52: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 266.12
+3/25/2022 19:34:52: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 264.1
+3/25/2022 19:34:52: [G_Auto 2] :  Store Value (Shared) for market: stake = 46.77
+3/25/2022 19:34:52: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 530.22
+3/25/2022 19:34:52: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.02
+3/25/2022 19:34:52: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.3
+3/25/2022 19:34:52: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.4
+3/25/2022 19:35:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 19:35:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 19:35:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 19:36:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 19:36:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 19:36:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 19:36:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 19:37:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 19:38:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 19:39:15: [G_Auto 1] :  € 18.18 Lay bet placed on Jessica Pegula at 1.44. Fully matched at 1.43.  Ref: 12574          ( Fill or kill bet with 15 seconds delay.   )
+3/25/2022 19:39:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 19:39:16: [G_Auto 2] :  Store Text Value (Shared) for Jessica Pegula: aPoints = point: 0; games: 2; sets: 1 
+3/25/2022 19:39:16: [G_Auto 2] :  Store Text Value (Shared) for Jessica Pegula: aServing = serving:1
+3/25/2022 19:39:16: [G_Auto 2] :  Store Text Value (Shared) for Sloane Stephens: bPoints = point: 0; games: 4; sets: 0 
+3/25/2022 19:39:16: [G_Auto 2] :  Store Text Value (Shared) for Sloane Stephens: bServing = serving:0
+3/25/2022 19:39:16: [G_Auto 2] :  Store Value (Shared) for market: price = 1.43
+3/25/2022 19:39:16: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 266.12
+3/25/2022 19:39:16: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 282.28
+3/25/2022 19:39:16: [G_Auto 2] :  Store Value (Shared) for market: stake = 18.18
+3/25/2022 19:39:16: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 548.4
+3/25/2022 19:39:16: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.14
+3/25/2022 19:39:16: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.42
+3/25/2022 19:39:16: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.3
+3/25/2022 19:39:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 19:39:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 19:40:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 19:45:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 19:45:32: [G_Auto 1] :  Placed closure bet with greening on Jessica Pegula by Backing 19.11 at 1.36
+3/25/2022 19:45:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 19:45:34: [G_Auto 2] :  Store Text Value (Shared) for Jessica Pegula: aPoints = point: 0; games: 3; sets: 1 
+3/25/2022 19:45:34: [G_Auto 2] :  Store Text Value (Shared) for Jessica Pegula: aServing = serving:0
+3/25/2022 19:45:34: [G_Auto 2] :  Store Text Value (Shared) for Sloane Stephens: bPoints = point: 0; games: 4; sets: 0 
+3/25/2022 19:45:34: [G_Auto 2] :  Store Text Value (Shared) for Sloane Stephens: bServing = serving:2
+3/25/2022 19:45:34: [G_Auto 2] :  Store Value (Shared) for market: price = 1.36
+3/25/2022 19:45:34: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 285.23
+3/25/2022 19:45:34: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 282.28
+3/25/2022 19:45:34: [G_Auto 2] :  Store Value (Shared) for market: stake = 19.11
+3/25/2022 19:45:34: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 567.51
+3/25/2022 19:45:34: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.95
+3/25/2022 19:45:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.37
+3/25/2022 19:45:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.75
+3/25/2022 19:45:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 19:46:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 19:46:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 19:46:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 19:47:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 19:47:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 19:47:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 19:47:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 19:48:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 19:49:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 19:50:00: [G_Auto 1] :  € 42.11 Lay bet placed on Jessica Pegula at 1.19. Fully matched at 1.19.  Ref: 12584          ( Fill or kill bet with 15 seconds delay.   )
+3/25/2022 19:50:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 19:50:01: [G_Auto 2] :  Store Text Value (Shared) for Jessica Pegula: aPoints = point: 0; games: 4; sets: 1 
+3/25/2022 19:50:01: [G_Auto 2] :  Store Text Value (Shared) for Jessica Pegula: aServing = serving:1
+3/25/2022 19:50:01: [G_Auto 2] :  Store Text Value (Shared) for Sloane Stephens: bPoints = point: 0; games: 4; sets: 0 
+3/25/2022 19:50:01: [G_Auto 2] :  Store Text Value (Shared) for Sloane Stephens: bServing = serving:0
+3/25/2022 19:50:01: [G_Auto 2] :  Store Value (Shared) for market: price = 1.19
+3/25/2022 19:50:01: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 285.23
+3/25/2022 19:50:01: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 324.39
+3/25/2022 19:50:01: [G_Auto 2] :  Store Value (Shared) for market: stake = 42.11
+3/25/2022 19:50:01: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 609.62
+3/25/2022 19:50:01: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.67
+3/25/2022 19:50:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.18
+3/25/2022 19:50:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 6.6
+3/25/2022 19:50:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 19:50:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 19:50:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 19:52:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 19:53:05: [G_Auto 1] :  Placed closure bet with greening on Jessica Pegula by Backing 45.56 at 1.1
+3/25/2022 19:53:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 19:53:06: [G_Auto 2] :  Store Text Value (Shared) for Jessica Pegula: aPoints = point: 0; games: 5; sets: 1 
+3/25/2022 19:53:06: [G_Auto 2] :  Store Text Value (Shared) for Jessica Pegula: aServing = serving:0
+3/25/2022 19:53:06: [G_Auto 2] :  Store Text Value (Shared) for Sloane Stephens: bPoints = point: 0; games: 4; sets: 0 
+3/25/2022 19:53:06: [G_Auto 2] :  Store Text Value (Shared) for Sloane Stephens: bServing = serving:2
+3/25/2022 19:53:06: [G_Auto 2] :  Store Value (Shared) for market: price = 1.1
+3/25/2022 19:53:06: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 330.79
+3/25/2022 19:53:06: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 324.39
+3/25/2022 19:53:06: [G_Auto 2] :  Store Value (Shared) for market: stake = 45.56
+3/25/2022 19:53:06: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 655.18
+3/25/2022 19:53:06: [G_Auto 2] :  Store Value (Shared) for market: pl = -6.4
+3/25/2022 19:53:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.11
+3/25/2022 19:53:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 10
+3/25/2022 19:53:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 19:53:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 19:53:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 19:54:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 19:54:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 19:54:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 19:54:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 19:55:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 19:56:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 19:56:51:  Guardian has detected that the market is suspended

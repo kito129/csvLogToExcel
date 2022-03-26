@@ -1,0 +1,403 @@
+3/24/2022 13:41:43: [G_Auto 2] :  Store Text Value (Shared) for Federico Delbonis: info = marketName: Delbonis v Murray - Match Odds; runnerA: Federico Delbonis; runnerB: Andy Murray 
+3/24/2022 13:41:43: [G_Auto 2] :  Store Value (Shared) for market: aId = 6181532
+3/24/2022 13:41:43: [G_Auto 2] :  Store Value (Shared) for market: bId = 2256509
+3/25/2022 00:10:54:  Guardian has detected that the market is in-play
+3/25/2022 00:10:54:  Guardian has detected that the market is suspended
+3/25/2022 00:10:56: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 6; bBsp: 1.19; volume: 25650.21 
+3/25/2022 00:10:56: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 6; bBsp: 1.19; volume: 25650.21 
+3/25/2022 00:10:56:  Guardian has detected that the market is now unsuspended
+3/25/2022 00:10:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:11:10: [G_Auto 1] :  € 57.14 Lay bet placed on Andy Murray at 1.14. Entirely unmatched when it initially reached the market.   Ref: 12273          ( Fill or kill bet with 15 seconds delay.   )
+3/25/2022 00:11:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:11:25: [G_Auto 1] :  € 57.14 unmatched bet (Ref:12273) was killed.
+3/25/2022 00:11:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:11:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:12:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 00:12:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 00:12:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 00:12:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 00:13:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 00:13:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 00:15:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:15:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:15:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:16:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:16:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:16:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 00:16:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 00:19:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:19:43: [G_Auto 1] :  € 36.36 Lay bet placed on Andy Murray at 1.22. Fully matched at 1.21.  Ref: 12287          ( Fill or kill bet with 15 seconds delay.   )
+3/25/2022 00:19:44: [G_Auto 2] :  Store Text Value (Shared) for Federico Delbonis: aPoints = point: 0; games: 1; sets: 0 
+3/25/2022 00:19:44: [G_Auto 2] :  Store Text Value (Shared) for Federico Delbonis: aServing = serving:0
+3/25/2022 00:19:44: [G_Auto 2] :  Store Text Value (Shared) for Andy Murray: bPoints = point: 0; games: 1; sets: 0 
+3/25/2022 00:19:44: [G_Auto 2] :  Store Text Value (Shared) for Andy Murray: bServing = serving:2
+3/25/2022 00:19:44: [G_Auto 2] :  Store Value (Shared) for market: price = 1.21
+3/25/2022 00:19:44: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+3/25/2022 00:19:44: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 36.36
+3/25/2022 00:19:44: [G_Auto 2] :  Store Value (Shared) for market: stake = 36.36
+3/25/2022 00:19:44: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 36.36
+3/25/2022 00:19:44: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.3
+3/25/2022 00:19:44: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 5.7
+3/25/2022 00:19:44: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.2
+3/25/2022 00:19:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:20:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:20:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 00:20:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 00:22:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:22:34: [G_Auto 1] :  Placed closure bet with greening on Andy Murray by Backing 37.60 at 1.17
+3/25/2022 00:22:34: [G_Auto 2] :  Store Text Value (Shared) for Federico Delbonis: aPoints = point: 0; games: 1; sets: 0 
+3/25/2022 00:22:34: [G_Auto 2] :  Store Text Value (Shared) for Federico Delbonis: aServing = serving:1
+3/25/2022 00:22:34: [G_Auto 2] :  Store Text Value (Shared) for Andy Murray: bPoints = point: 0; games: 2; sets: 0 
+3/25/2022 00:22:34: [G_Auto 2] :  Store Text Value (Shared) for Andy Murray: bServing = serving:0
+3/25/2022 00:22:34: [G_Auto 2] :  Store Value (Shared) for market: price = 1.17
+3/25/2022 00:22:34: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 37.6
+3/25/2022 00:22:34: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 36.36
+3/25/2022 00:22:34: [G_Auto 2] :  Store Value (Shared) for market: stake = 37.6
+3/25/2022 00:22:34: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 73.96
+3/25/2022 00:22:34: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.24
+3/25/2022 00:22:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 5.9
+3/25/2022 00:22:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.17
+3/25/2022 00:22:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:22:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:23:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:23:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:23:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:23:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:24:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:24:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:24:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:24:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 00:25:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 00:25:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 00:25:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 00:26:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 00:26:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 00:28:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:28:20: [G_Auto 1] :  € 33.33 Lay bet placed on Andy Murray at 1.24. Fully matched at 1.24.  Ref: 12298          ( Fill or kill bet with 15 seconds delay.   )
+3/25/2022 00:28:21: [G_Auto 2] :  Store Text Value (Shared) for Federico Delbonis: aPoints = point: 0; games: 2; sets: 0 
+3/25/2022 00:28:21: [G_Auto 2] :  Store Text Value (Shared) for Federico Delbonis: aServing = serving:0
+3/25/2022 00:28:21: [G_Auto 2] :  Store Text Value (Shared) for Andy Murray: bPoints = point: 0; games: 2; sets: 0 
+3/25/2022 00:28:21: [G_Auto 2] :  Store Text Value (Shared) for Andy Murray: bServing = serving:2
+3/25/2022 00:28:21: [G_Auto 2] :  Store Value (Shared) for market: price = 1.24
+3/25/2022 00:28:21: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 37.6
+3/25/2022 00:28:21: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 69.69
+3/25/2022 00:28:21: [G_Auto 2] :  Store Value (Shared) for market: stake = 33.33
+3/25/2022 00:28:21: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 107.29
+3/25/2022 00:28:21: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.51
+3/25/2022 00:28:21: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 5.5
+3/25/2022 00:28:21: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.23
+3/25/2022 00:28:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:28:27: [G_Auto 2] :  Store Text Value (Shared) for Federico Delbonis: aPoints = point: 0; games: 2; sets: 0 
+3/25/2022 00:28:27: [G_Auto 2] :  Store Text Value (Shared) for Federico Delbonis: aServing = serving:0
+3/25/2022 00:28:27: [G_Auto 2] :  Store Text Value (Shared) for Andy Murray: bPoints = point: 0; games: 2; sets: 0 
+3/25/2022 00:28:27: [G_Auto 2] :  Store Text Value (Shared) for Andy Murray: bServing = serving:2
+3/25/2022 00:28:27: [G_Auto 2] :  Store Value (Shared) for market: price = 1.24
+3/25/2022 00:28:27: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 37.6
+3/25/2022 00:28:27: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 69.69
+3/25/2022 00:28:27: [G_Auto 2] :  Store Value (Shared) for market: stake = 33.33
+3/25/2022 00:28:27: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 107.29
+3/25/2022 00:28:27: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.51
+3/25/2022 00:28:27: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 5.1
+3/25/2022 00:28:27: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.24
+3/25/2022 00:28:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:28:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 00:29:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 00:32:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:32:48: [G_Auto 1] :  Placed closure bet with greening on Andy Murray by Backing 34.44 at 1.2
+3/25/2022 00:32:48: [G_Auto 2] :  Store Text Value (Shared) for Federico Delbonis: aPoints = point: 0; games: 2; sets: 0 
+3/25/2022 00:32:48: [G_Auto 2] :  Store Text Value (Shared) for Federico Delbonis: aServing = serving:1
+3/25/2022 00:32:48: [G_Auto 2] :  Store Text Value (Shared) for Andy Murray: bPoints = point: 0; games: 3; sets: 0 
+3/25/2022 00:32:48: [G_Auto 2] :  Store Text Value (Shared) for Andy Murray: bServing = serving:0
+3/25/2022 00:32:48: [G_Auto 2] :  Store Value (Shared) for market: price = 1.2
+3/25/2022 00:32:48: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 72.04
+3/25/2022 00:32:48: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 69.69
+3/25/2022 00:32:48: [G_Auto 2] :  Store Value (Shared) for market: stake = 34.44
+3/25/2022 00:32:48: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 141.73
+3/25/2022 00:32:48: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.35
+3/25/2022 00:32:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 5.7
+3/25/2022 00:32:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.2
+3/25/2022 00:32:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:32:55: [G_Auto 2] :  Store Text Value (Shared) for Federico Delbonis: aPoints = point: 0; games: 2; sets: 0 
+3/25/2022 00:32:55: [G_Auto 2] :  Store Text Value (Shared) for Federico Delbonis: aServing = serving:1
+3/25/2022 00:32:55: [G_Auto 2] :  Store Text Value (Shared) for Andy Murray: bPoints = point: 0; games: 3; sets: 0 
+3/25/2022 00:32:55: [G_Auto 2] :  Store Text Value (Shared) for Andy Murray: bServing = serving:0
+3/25/2022 00:32:55: [G_Auto 2] :  Store Value (Shared) for market: price = 1.2
+3/25/2022 00:32:55: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 72.04
+3/25/2022 00:32:55: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 69.69
+3/25/2022 00:32:55: [G_Auto 2] :  Store Value (Shared) for market: stake = 34.44
+3/25/2022 00:32:55: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 141.73
+3/25/2022 00:32:55: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.35
+3/25/2022 00:32:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 5.7
+3/25/2022 00:32:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.21
+3/25/2022 00:33:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:33:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:33:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:33:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:34:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:34:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:34:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:35:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:35:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 00:35:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 00:35:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 00:37:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:37:36: [G_Auto 1] :  € 27.59 Lay bet placed on Andy Murray at 1.29. Fully matched at 1.28.  Ref: 12307          ( Fill or kill bet with 15 seconds delay.   )
+3/25/2022 00:37:36: [G_Auto 2] :  Store Text Value (Shared) for Federico Delbonis: aPoints = point: 0; games: 3; sets: 0 
+3/25/2022 00:37:36: [G_Auto 2] :  Store Text Value (Shared) for Federico Delbonis: aServing = serving:0
+3/25/2022 00:37:36: [G_Auto 2] :  Store Text Value (Shared) for Andy Murray: bPoints = point: 0; games: 3; sets: 0 
+3/25/2022 00:37:36: [G_Auto 2] :  Store Text Value (Shared) for Andy Murray: bServing = serving:2
+3/25/2022 00:37:36: [G_Auto 2] :  Store Value (Shared) for market: price = 1.28
+3/25/2022 00:37:36: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 72.04
+3/25/2022 00:37:36: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 97.28
+3/25/2022 00:37:36: [G_Auto 2] :  Store Value (Shared) for market: stake = 27.59
+3/25/2022 00:37:36: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 169.32
+3/25/2022 00:37:36: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.57
+3/25/2022 00:37:36: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.7
+3/25/2022 00:37:36: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.27
+3/25/2022 00:37:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:37:43: [G_Auto 2] :  Store Text Value (Shared) for Federico Delbonis: aPoints = point: 0; games: 3; sets: 0 
+3/25/2022 00:37:43: [G_Auto 2] :  Store Text Value (Shared) for Federico Delbonis: aServing = serving:0
+3/25/2022 00:37:43: [G_Auto 2] :  Store Text Value (Shared) for Andy Murray: bPoints = point: 0; games: 3; sets: 0 
+3/25/2022 00:37:43: [G_Auto 2] :  Store Text Value (Shared) for Andy Murray: bServing = serving:2
+3/25/2022 00:37:43: [G_Auto 2] :  Store Value (Shared) for market: price = 1.28
+3/25/2022 00:37:43: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 72.04
+3/25/2022 00:37:43: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 97.28
+3/25/2022 00:37:43: [G_Auto 2] :  Store Value (Shared) for market: stake = 27.59
+3/25/2022 00:37:43: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 169.32
+3/25/2022 00:37:43: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.57
+3/25/2022 00:37:43: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.7
+3/25/2022 00:37:43: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.27
+3/25/2022 00:37:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:38:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:38:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 00:38:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 00:38:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 00:41:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:41:43: [G_Auto 1] :  Placed closure bet with greening on Andy Murray by Backing 28.48 at 1.24
+3/25/2022 00:41:45: [G_Auto 2] :  Store Text Value (Shared) for Federico Delbonis: aPoints = point: 0; games: 3; sets: 0 
+3/25/2022 00:41:45: [G_Auto 2] :  Store Text Value (Shared) for Federico Delbonis: aServing = serving:1
+3/25/2022 00:41:45: [G_Auto 2] :  Store Text Value (Shared) for Andy Murray: bPoints = point: 0; games: 4; sets: 0 
+3/25/2022 00:41:45: [G_Auto 2] :  Store Text Value (Shared) for Andy Murray: bServing = serving:0
+3/25/2022 00:41:45: [G_Auto 2] :  Store Value (Shared) for market: price = 1.24
+3/25/2022 00:41:45: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 100.52
+3/25/2022 00:41:45: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 97.28
+3/25/2022 00:41:45: [G_Auto 2] :  Store Value (Shared) for market: stake = 28.48
+3/25/2022 00:41:45: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 197.8
+3/25/2022 00:41:45: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.24
+3/25/2022 00:41:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 5.2
+3/25/2022 00:41:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.24
+3/25/2022 00:41:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:42:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:42:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:42:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:42:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:43:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:43:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:43:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:43:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 00:44:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 00:44:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 00:45:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:46:11: [G_Auto 1] :  € 23.53 Lay bet placed on Andy Murray at 1.34. Fully matched at 1.33.  Ref: 12316          ( Fill or kill bet with 15 seconds delay.   )
+3/25/2022 00:46:13: [G_Auto 2] :  Store Text Value (Shared) for Federico Delbonis: aPoints = point: 0; games: 4; sets: 0 
+3/25/2022 00:46:13: [G_Auto 2] :  Store Text Value (Shared) for Federico Delbonis: aServing = serving:0
+3/25/2022 00:46:13: [G_Auto 2] :  Store Text Value (Shared) for Andy Murray: bPoints = point: 0; games: 4; sets: 0 
+3/25/2022 00:46:13: [G_Auto 2] :  Store Text Value (Shared) for Andy Murray: bServing = serving:2
+3/25/2022 00:46:13: [G_Auto 2] :  Store Value (Shared) for market: price = 1.33
+3/25/2022 00:46:13: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 100.52
+3/25/2022 00:46:13: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 120.81
+3/25/2022 00:46:13: [G_Auto 2] :  Store Value (Shared) for market: stake = 23.53
+3/25/2022 00:46:13: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 221.33
+3/25/2022 00:46:13: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.24
+3/25/2022 00:46:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.1
+3/25/2022 00:46:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.33
+3/25/2022 00:46:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:46:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:46:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:46:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 00:47:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 00:47:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 00:47:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 00:47:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 00:48:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 00:50:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:50:15: [G_Auto 1] :  Placed closure bet with greening on Andy Murray by Backing 25.04 at 1.25
+3/25/2022 00:50:16: [G_Auto 2] :  Store Text Value (Shared) for Federico Delbonis: aPoints = point: 0; games: 4; sets: 0 
+3/25/2022 00:50:16: [G_Auto 2] :  Store Text Value (Shared) for Federico Delbonis: aServing = serving:1
+3/25/2022 00:50:16: [G_Auto 2] :  Store Text Value (Shared) for Andy Murray: bPoints = point: 0; games: 5; sets: 0 
+3/25/2022 00:50:16: [G_Auto 2] :  Store Text Value (Shared) for Andy Murray: bServing = serving:0
+3/25/2022 00:50:16: [G_Auto 2] :  Store Value (Shared) for market: price = 1.25
+3/25/2022 00:50:16: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 125.56
+3/25/2022 00:50:16: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 120.81
+3/25/2022 00:50:16: [G_Auto 2] :  Store Value (Shared) for market: stake = 25.04
+3/25/2022 00:50:16: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 246.37
+3/25/2022 00:50:16: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.75
+3/25/2022 00:50:16: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.8
+3/25/2022 00:50:16: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.26
+3/25/2022 00:50:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:50:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:50:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:51:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:51:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:51:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:51:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:52:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:52:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:52:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 00:52:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 00:52:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 00:54:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:54:56: [G_Auto 1] :  € 22.86 Lay bet placed on Andy Murray at 1.35. Fully matched at 1.35.  Ref: 12323          ( Fill or kill bet with 15 seconds delay.   )
+3/25/2022 00:54:57: [G_Auto 2] :  Store Text Value (Shared) for Federico Delbonis: aPoints = point: 0; games: 5; sets: 0 
+3/25/2022 00:54:57: [G_Auto 2] :  Store Text Value (Shared) for Federico Delbonis: aServing = serving:0
+3/25/2022 00:54:57: [G_Auto 2] :  Store Text Value (Shared) for Andy Murray: bPoints = point: 0; games: 5; sets: 0 
+3/25/2022 00:54:57: [G_Auto 2] :  Store Text Value (Shared) for Andy Murray: bServing = serving:2
+3/25/2022 00:54:57: [G_Auto 2] :  Store Value (Shared) for market: price = 1.35
+3/25/2022 00:54:57: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 125.56
+3/25/2022 00:54:57: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 143.67
+3/25/2022 00:54:57: [G_Auto 2] :  Store Value (Shared) for market: stake = 22.86
+3/25/2022 00:54:57: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 269.23
+3/25/2022 00:54:57: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.92
+3/25/2022 00:54:57: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.95
+3/25/2022 00:54:57: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.34
+3/25/2022 00:54:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:55:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:55:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:55:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 00:55:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 00:56:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 00:57:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:57:49: [G_Auto 1] :  Placed closure bet with greening on Andy Murray by Backing 24.30 at 1.27
+3/25/2022 00:57:50: [G_Auto 2] :  Store Text Value (Shared) for Federico Delbonis: aPoints = point: 0; games: 5; sets: 0 
+3/25/2022 00:57:50: [G_Auto 2] :  Store Text Value (Shared) for Federico Delbonis: aServing = serving:1
+3/25/2022 00:57:50: [G_Auto 2] :  Store Text Value (Shared) for Andy Murray: bPoints = point: 0; games: 6; sets: 0 
+3/25/2022 00:57:50: [G_Auto 2] :  Store Text Value (Shared) for Andy Murray: bServing = serving:0
+3/25/2022 00:57:50: [G_Auto 2] :  Store Value (Shared) for market: price = 1.27
+3/25/2022 00:57:50: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 149.86
+3/25/2022 00:57:50: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 143.67
+3/25/2022 00:57:50: [G_Auto 2] :  Store Value (Shared) for market: stake = 24.3
+3/25/2022 00:57:50: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 293.53
+3/25/2022 00:57:50: [G_Auto 2] :  Store Value (Shared) for market: pl = -6.19
+3/25/2022 00:57:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.5
+3/25/2022 00:57:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.29
+3/25/2022 00:57:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:58:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:58:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:58:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:58:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:59:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:59:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:59:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 00:59:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 01:00:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 01:02:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 01:03:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 01:03:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 01:03:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 01:03:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 01:04:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 01:04:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 01:04:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 01:04:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 01:05:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 01:05:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 01:05:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 01:05:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 01:06:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 01:06:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 01:06:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 01:06:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 01:07:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 01:07:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 01:07:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 01:07:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 01:08:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 01:08:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 01:08:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 01:09:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 01:09:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 01:09:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 01:09:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 01:10:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 01:10:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 01:10:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 01:10:55: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 01:11:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 01:11:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 01:11:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 01:11:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 01:12:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 01:12:12: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 11.5
+3/25/2022 01:12:12: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 1.09
+3/25/2022 01:12:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 01:12:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 01:12:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 01:13:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 01:13:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 01:13:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 01:13:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 01:14:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 01:14:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 01:14:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 01:14:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 01:15:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 01:15:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 01:15:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 01:19:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 01:19:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 01:19:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 01:19:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 01:20:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 01:21:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 01:21:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 01:21:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 01:22:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 01:22:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 01:22:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 01:22:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 01:22:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 01:25:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 01:25:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 01:25:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 01:25:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 01:26:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 01:28:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 01:28:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 01:28:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 01:28:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 01:29:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 01:29:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 01:29:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 01:29:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 01:30:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 01:30:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 01:30:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 01:31:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 01:31:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 01:32:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 01:32:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 01:32:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 01:32:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 01:33:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 01:33:16: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 01:36:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 01:36:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 01:36:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 01:37:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 01:37:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 01:37:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 01:37:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 01:38:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 01:38:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 01:38:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 01:38:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 01:41:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 01:41:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 01:41:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 01:41:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 01:42:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 01:42:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 01:42:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 01:42:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 01:45:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 01:45:15:  Guardian has detected that the market is suspended
