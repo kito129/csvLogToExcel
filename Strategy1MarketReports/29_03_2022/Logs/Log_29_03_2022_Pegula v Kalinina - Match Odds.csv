@@ -1,0 +1,129 @@
+3/28/2022 14:17:43: [G_Auto 2] :  Store Text Value (Shared) for Jessica Pegula: info = marketName: Pegula v Kalinina - Match Odds; runnerA: Jessica Pegula; runnerB: Anhelina Kalinina 
+3/28/2022 14:17:43: [G_Auto 2] :  Store Value (Shared) for market: aId = 6215852
+3/28/2022 14:17:43: [G_Auto 2] :  Store Value (Shared) for market: bId = 8907168
+3/29/2022 01:34:57:  Guardian has detected that the market is in-play
+3/29/2022 01:34:57:  Guardian has detected that the market is suspended
+3/29/2022 01:34:58: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.41; bBsp: 3.3; volume: 101617.73 
+3/29/2022 01:34:58: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.41; bBsp: 3.3; volume: 101617.73 
+3/29/2022 01:34:58:  Guardian has detected that the market is now unsuspended
+3/29/2022 01:34:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 01:35:11: [G_Auto 1] :  € 22.22 Lay bet placed on Jessica Pegula at 1.36. Entirely unmatched when it initially reached the market.   Ref: 10278          ( Fill or kill bet with 15 seconds delay.   )
+3/29/2022 01:35:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 01:35:26: [G_Auto 1] :  € 22.22 unmatched bet (Ref:10278) was killed.
+3/29/2022 01:35:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 01:36:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 01:36:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 01:37:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 01:37:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 01:37:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 01:37:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 01:38:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 01:41:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 01:41:47: [G_Auto 1] :  € 38.10 Lay bet placed on Jessica Pegula at 1.21. Fully matched at 1.2.  Ref: 10280          ( Fill or kill bet with 15 seconds delay.   )
+3/29/2022 01:41:47: [G_Auto 2] :  Store Text Value (Shared) for Jessica Pegula: aPoints = point: 0; games: 2; sets: 0 
+3/29/2022 01:41:47: [G_Auto 2] :  Store Text Value (Shared) for Jessica Pegula: aServing = serving:1
+3/29/2022 01:41:47: [G_Auto 2] :  Store Text Value (Shared) for Anhelina Kalinina: bPoints = point: 0; games: 0; sets: 0 
+3/29/2022 01:41:47: [G_Auto 2] :  Store Text Value (Shared) for Anhelina Kalinina: bServing = serving:0
+3/29/2022 01:41:47: [G_Auto 2] :  Store Value (Shared) for market: price = 1.2
+3/29/2022 01:41:47: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+3/29/2022 01:41:47: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 38.1
+3/29/2022 01:41:47: [G_Auto 2] :  Store Value (Shared) for market: stake = 38.1
+3/29/2022 01:41:47: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 38.1
+3/29/2022 01:41:47: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.32
+3/29/2022 01:41:47: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.2
+3/29/2022 01:41:47: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 6.4
+3/29/2022 01:41:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 01:42:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 01:42:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 01:42:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 01:42:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 01:45:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 01:45:29: [G_Auto 1] :  Placed closure bet with greening on Jessica Pegula by Backing 39.41 at 1.16
+3/29/2022 01:45:29: [G_Auto 2] :  Store Text Value (Shared) for Jessica Pegula: aPoints = point: 0; games: 3; sets: 0 
+3/29/2022 01:45:29: [G_Auto 2] :  Store Text Value (Shared) for Jessica Pegula: aServing = serving:0
+3/29/2022 01:45:29: [G_Auto 2] :  Store Text Value (Shared) for Anhelina Kalinina: bPoints = point: 0; games: 0; sets: 0 
+3/29/2022 01:45:29: [G_Auto 2] :  Store Text Value (Shared) for Anhelina Kalinina: bServing = serving:2
+3/29/2022 01:45:29: [G_Auto 2] :  Store Value (Shared) for market: price = 1.16
+3/29/2022 01:45:29: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 39.41
+3/29/2022 01:45:29: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 38.1
+3/29/2022 01:45:29: [G_Auto 2] :  Store Value (Shared) for market: stake = 39.41
+3/29/2022 01:45:29: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 77.51
+3/29/2022 01:45:29: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.31
+3/29/2022 01:45:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.16
+3/29/2022 01:45:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 7.4
+3/29/2022 01:45:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 01:45:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 01:46:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 01:46:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 01:46:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 01:46:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 01:47:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 01:47:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 01:47:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 01:47:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 01:47:55: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 01:49:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 01:49:35: [G_Auto 1] :  € 66.67 Lay bet placed on Jessica Pegula at 1.12. Fully matched at 1.11.  Ref: 10282          ( Fill or kill bet with 15 seconds delay.   )
+3/29/2022 01:49:36: [G_Auto 2] :  Store Text Value (Shared) for Jessica Pegula: aPoints = point: 0; games: 4; sets: 0 
+3/29/2022 01:49:36: [G_Auto 2] :  Store Text Value (Shared) for Jessica Pegula: aServing = serving:1
+3/29/2022 01:49:36: [G_Auto 2] :  Store Text Value (Shared) for Anhelina Kalinina: bPoints = point: 0; games: 0; sets: 0 
+3/29/2022 01:49:36: [G_Auto 2] :  Store Text Value (Shared) for Anhelina Kalinina: bServing = serving:0
+3/29/2022 01:49:36: [G_Auto 2] :  Store Value (Shared) for market: price = 1.11
+3/29/2022 01:49:36: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 39.41
+3/29/2022 01:49:36: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 104.77
+3/29/2022 01:49:36: [G_Auto 2] :  Store Value (Shared) for market: stake = 66.67
+3/29/2022 01:49:36: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 144.18
+3/29/2022 01:49:36: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.92
+3/29/2022 01:49:36: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.1
+3/29/2022 01:49:36: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 11
+3/29/2022 01:49:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 01:49:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 01:50:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 01:50:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 01:50:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 01:55:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 01:55:49: [G_Auto 1] :  Placed closure bet with greening on Jessica Pegula by Backing 68.53 at 1.08
+3/29/2022 01:55:49: [G_Auto 2] :  Store Text Value (Shared) for Jessica Pegula: aPoints = point: 0; games: 5; sets: 0 
+3/29/2022 01:55:49: [G_Auto 2] :  Store Text Value (Shared) for Jessica Pegula: aServing = serving:0
+3/29/2022 01:55:49: [G_Auto 2] :  Store Text Value (Shared) for Anhelina Kalinina: bPoints = point: 0; games: 0; sets: 0 
+3/29/2022 01:55:49: [G_Auto 2] :  Store Text Value (Shared) for Anhelina Kalinina: bServing = serving:2
+3/29/2022 01:55:49: [G_Auto 2] :  Store Value (Shared) for market: price = 1.08
+3/29/2022 01:55:49: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 107.94
+3/29/2022 01:55:49: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 104.77
+3/29/2022 01:55:49: [G_Auto 2] :  Store Value (Shared) for market: stake = 68.53
+3/29/2022 01:55:49: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 212.71
+3/29/2022 01:55:49: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.17
+3/29/2022 01:55:49: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.09
+3/29/2022 01:55:49: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 12
+3/29/2022 01:55:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 01:55:54: [G_Auto 2] :  Store Text Value (Shared) for Jessica Pegula: aPoints = point: 0; games: 5; sets: 0 
+3/29/2022 01:55:54: [G_Auto 2] :  Store Text Value (Shared) for Jessica Pegula: aServing = serving:0
+3/29/2022 01:55:54: [G_Auto 2] :  Store Text Value (Shared) for Anhelina Kalinina: bPoints = point: 0; games: 0; sets: 0 
+3/29/2022 01:55:54: [G_Auto 2] :  Store Text Value (Shared) for Anhelina Kalinina: bServing = serving:2
+3/29/2022 01:55:54: [G_Auto 2] :  Store Value (Shared) for market: price = 1.08
+3/29/2022 01:55:54: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 107.94
+3/29/2022 01:55:54: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 104.77
+3/29/2022 01:55:54: [G_Auto 2] :  Store Value (Shared) for market: stake = 68.53
+3/29/2022 01:55:54: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 212.71
+3/29/2022 01:55:54: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.17
+3/29/2022 01:55:54: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.08
+3/29/2022 01:55:54: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 12
+3/29/2022 01:56:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 01:56:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 01:56:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 01:56:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 01:57:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 01:57:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 01:57:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 01:57:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 01:58:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 01:59:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 01:59:39: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 1.07
+3/29/2022 01:59:39: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 13.5
+3/29/2022 01:59:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 01:59:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 02:00:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 02:00:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 02:00:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 02:01:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 02:01:01:  Guardian has detected that the market is suspended

@@ -1,0 +1,382 @@
+3/26/2022 18:10:22: [G_Auto 1] :  Store Text Value (Shared) for Aslan Karatsev: info = marketName: Karatsev v Humbert - Match Odds; runnerA: Aslan Karatsev; runnerB: Ugo Humbert 
+3/26/2022 18:10:22: [G_Auto 1] :  Store Value (Shared) for market: aId = 7659748
+3/26/2022 18:10:22: [G_Auto 1] :  Store Value (Shared) for market: bId = 9633253
+3/26/2022 20:13:33:  Guardian has detected that the market is in-play
+3/26/2022 20:13:33:  Guardian has detected that the market is suspended
+3/26/2022 20:13:35: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.78; bBsp: 2.28; volume: 20076.12 
+3/26/2022 20:13:35: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.78; bBsp: 2.28; volume: 20076.12 
+3/26/2022 20:13:35:  Guardian has detected that the market is now unsuspended
+3/26/2022 20:13:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 20:13:54: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 20:14:10: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 20:14:27: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 20:17:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 20:17:14: [G_Auto 2] :  € 9.20 Lay bet placed on Aslan Karatsev at 1.87. Entirely unmatched when it initially reached the market.   Ref: 10130          ( Fill or kill bet with 15 seconds delay.   )
+3/26/2022 20:17:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 20:17:19: [G_Auto 1] :  Store Text Value (Shared) for Aslan Karatsev: aPoints = point: 0; games: 0; sets: 0 
+3/26/2022 20:17:19: [G_Auto 1] :  Store Text Value (Shared) for Aslan Karatsev: aServing = serving:1
+3/26/2022 20:17:19: [G_Auto 1] :  Store Text Value (Shared) for Ugo Humbert: bPoints = point: 0; games: 1; sets: 0 
+3/26/2022 20:17:19: [G_Auto 1] :  Store Text Value (Shared) for Ugo Humbert: bServing = serving:0
+3/26/2022 20:17:19: [G_Auto 1] :  Store Value (Shared) for market: price = 1.87
+3/26/2022 20:17:19: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 0
+3/26/2022 20:17:19: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 9.2
+3/26/2022 20:17:19: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.2
+3/26/2022 20:17:19: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 9.2
+3/26/2022 20:17:19: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.05
+3/26/2022 20:17:19: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.88
+3/26/2022 20:17:19: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.14
+3/26/2022 20:17:19: [G_Auto 2] :  € 9.2 of unmatched bet (Ref:10130) was filled before remainder was killed.
+3/26/2022 20:17:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 20:17:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 20:18:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 20:18:18: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 20:18:34: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 20:21:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 20:21:18: [G_Auto 2] :  € 12.50 Lay bet placed on Ugo Humbert at 1.64. Fully matched at 1.64.  Ref: 10133          ( Fill or kill bet with 15 seconds delay.   )
+3/26/2022 20:21:18: [G_Auto 2] :  Placed closure bet with greening on Aslan Karatsev by Backing 6.72 at 2.56
+3/26/2022 20:21:20: [G_Auto 1] :  Store Text Value (Shared) for Aslan Karatsev: aPoints = point: 0; games: 0; sets: 0 
+3/26/2022 20:21:20: [G_Auto 1] :  Store Text Value (Shared) for Aslan Karatsev: aServing = serving:0
+3/26/2022 20:21:20: [G_Auto 1] :  Store Text Value (Shared) for Ugo Humbert: bPoints = point: 0; games: 2; sets: 0 
+3/26/2022 20:21:20: [G_Auto 1] :  Store Text Value (Shared) for Ugo Humbert: bServing = serving:2
+3/26/2022 20:21:20: [G_Auto 1] :  Store Value (Shared) for market: price = 2.56
+3/26/2022 20:21:20: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 6.72
+3/26/2022 20:21:20: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 21.7
+3/26/2022 20:21:20: [G_Auto 1] :  Store Value (Shared) for market: stake = 6.72
+3/26/2022 20:21:20: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 28.42
+3/26/2022 20:21:20: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.21
+3/26/2022 20:21:20: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.56
+3/26/2022 20:21:20: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.64
+3/26/2022 20:21:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 20:21:26: [G_Auto 1] :  Store Text Value (Shared) for Aslan Karatsev: aPoints = point: 0; games: 0; sets: 0 
+3/26/2022 20:21:26: [G_Auto 1] :  Store Text Value (Shared) for Aslan Karatsev: aServing = serving:0
+3/26/2022 20:21:26: [G_Auto 1] :  Store Text Value (Shared) for Ugo Humbert: bPoints = point: 0; games: 2; sets: 0 
+3/26/2022 20:21:26: [G_Auto 1] :  Store Text Value (Shared) for Ugo Humbert: bServing = serving:2
+3/26/2022 20:21:26: [G_Auto 1] :  Store Value (Shared) for market: price = 2.56
+3/26/2022 20:21:26: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 6.72
+3/26/2022 20:21:26: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 21.7
+3/26/2022 20:21:26: [G_Auto 1] :  Store Value (Shared) for market: stake = 6.72
+3/26/2022 20:21:26: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 28.42
+3/26/2022 20:21:26: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.21
+3/26/2022 20:21:26: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.6
+3/26/2022 20:21:26: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.62
+3/26/2022 20:21:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 20:21:50: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 20:22:06: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 20:30:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 20:31:04: [G_Auto 2] :  Placed closure bet with greening on Ugo Humbert by Backing 9.07 at 2.26
+3/26/2022 20:31:04: [G_Auto 2] :  € 10.13 Lay bet placed on Aslan Karatsev at 1.79. Entirely unmatched when it initially reached the market.   Ref: 10139          ( Fill or kill bet with 15 seconds delay.   )
+3/26/2022 20:31:06: [G_Auto 1] :  Store Text Value (Shared) for Aslan Karatsev: aPoints = point: 0; games: 1; sets: 0 
+3/26/2022 20:31:06: [G_Auto 1] :  Store Text Value (Shared) for Aslan Karatsev: aServing = serving:1
+3/26/2022 20:31:06: [G_Auto 1] :  Store Text Value (Shared) for Ugo Humbert: bPoints = point: 0; games: 2; sets: 0 
+3/26/2022 20:31:06: [G_Auto 1] :  Store Text Value (Shared) for Ugo Humbert: bServing = serving:0
+3/26/2022 20:31:06: [G_Auto 1] :  Store Value (Shared) for market: price = 2.26
+3/26/2022 20:31:06: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 15.79
+3/26/2022 20:31:06: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 21.7
+3/26/2022 20:31:06: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.07
+3/26/2022 20:31:06: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 37.49
+3/26/2022 20:31:06: [G_Auto 1] :  Store Value (Shared) for market: pl = 5.79
+3/26/2022 20:31:06: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.79
+3/26/2022 20:31:06: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.24
+3/26/2022 20:31:09: [G_Auto 2] :  € 10.13 of unmatched bet (Ref:10139) was filled before remainder was killed.
+3/26/2022 20:31:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 20:31:14: [G_Auto 1] :  Store Text Value (Shared) for Aslan Karatsev: aPoints = point: 0; games: 1; sets: 0 
+3/26/2022 20:31:14: [G_Auto 1] :  Store Text Value (Shared) for Aslan Karatsev: aServing = serving:1
+3/26/2022 20:31:14: [G_Auto 1] :  Store Text Value (Shared) for Ugo Humbert: bPoints = point: 0; games: 2; sets: 0 
+3/26/2022 20:31:14: [G_Auto 1] :  Store Text Value (Shared) for Ugo Humbert: bServing = serving:0
+3/26/2022 20:31:14: [G_Auto 1] :  Store Value (Shared) for market: price = 1.79
+3/26/2022 20:31:14: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 15.79
+3/26/2022 20:31:14: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 31.83
+3/26/2022 20:31:14: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.13
+3/26/2022 20:31:14: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 47.62
+3/26/2022 20:31:14: [G_Auto 1] :  Store Value (Shared) for market: pl = 5.73
+3/26/2022 20:31:14: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.76
+3/26/2022 20:31:14: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.3
+3/26/2022 20:31:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 20:31:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 20:31:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 20:32:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 20:32:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 20:32:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 20:33:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 20:33:20: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 20:33:37: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 20:33:54: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 20:35:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 20:35:39: [G_Auto 2] :  Placed closure bet with greening on Aslan Karatsev by Backing 11.12 at 1.63
+3/26/2022 20:35:41: [G_Auto 1] :  Store Text Value (Shared) for Aslan Karatsev: aPoints = point: 0; games: 2; sets: 0 
+3/26/2022 20:35:41: [G_Auto 1] :  Store Text Value (Shared) for Aslan Karatsev: aServing = serving:0
+3/26/2022 20:35:41: [G_Auto 1] :  Store Text Value (Shared) for Ugo Humbert: bPoints = point: 0; games: 2; sets: 0 
+3/26/2022 20:35:41: [G_Auto 1] :  Store Text Value (Shared) for Ugo Humbert: bServing = serving:2
+3/26/2022 20:35:41: [G_Auto 1] :  Store Value (Shared) for market: price = 1.63
+3/26/2022 20:35:41: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 26.91
+3/26/2022 20:35:41: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 31.83
+3/26/2022 20:35:41: [G_Auto 1] :  Store Value (Shared) for market: stake = 11.12
+3/26/2022 20:35:41: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 58.74
+3/26/2022 20:35:41: [G_Auto 1] :  Store Value (Shared) for market: pl = 4.81
+3/26/2022 20:35:41: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.64
+3/26/2022 20:35:41: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.56
+3/26/2022 20:35:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 20:36:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 20:36:09: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 20:36:26: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 20:36:43: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 20:40:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 20:40:30: [G_Auto 2] :  € 10.81 Lay bet placed on Aslan Karatsev at 1.74. Fully matched at 1.73.  Ref: 10146          ( Fill or kill bet with 15 seconds delay.   )
+3/26/2022 20:40:32: [G_Auto 1] :  Store Text Value (Shared) for Aslan Karatsev: aPoints = point: 0; games: 2; sets: 0 
+3/26/2022 20:40:32: [G_Auto 1] :  Store Text Value (Shared) for Aslan Karatsev: aServing = serving:1
+3/26/2022 20:40:32: [G_Auto 1] :  Store Text Value (Shared) for Ugo Humbert: bPoints = point: 0; games: 3; sets: 0 
+3/26/2022 20:40:32: [G_Auto 1] :  Store Text Value (Shared) for Ugo Humbert: bServing = serving:0
+3/26/2022 20:40:32: [G_Auto 1] :  Store Value (Shared) for market: price = 1.73
+3/26/2022 20:40:32: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 26.91
+3/26/2022 20:40:32: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 42.64
+3/26/2022 20:40:32: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.81
+3/26/2022 20:40:32: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 69.55
+3/26/2022 20:40:32: [G_Auto 1] :  Store Value (Shared) for market: pl = 4.75
+3/26/2022 20:40:32: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.72
+3/26/2022 20:40:32: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.34
+3/26/2022 20:40:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 20:40:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 20:41:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 20:41:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 20:41:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 20:41:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 20:42:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 20:42:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 20:42:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 20:42:49: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 20:43:07: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 20:45:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 20:45:54: [G_Auto 2] :  Placed closure bet with greening on Aslan Karatsev by Backing 11.69 at 1.6
+3/26/2022 20:45:56: [G_Auto 1] :  Store Text Value (Shared) for Aslan Karatsev: aPoints = point: 0; games: 3; sets: 0 
+3/26/2022 20:45:56: [G_Auto 1] :  Store Text Value (Shared) for Aslan Karatsev: aServing = serving:0
+3/26/2022 20:45:56: [G_Auto 1] :  Store Text Value (Shared) for Ugo Humbert: bPoints = point: 0; games: 3; sets: 0 
+3/26/2022 20:45:56: [G_Auto 1] :  Store Text Value (Shared) for Ugo Humbert: bServing = serving:2
+3/26/2022 20:45:56: [G_Auto 1] :  Store Value (Shared) for market: price = 1.6
+3/26/2022 20:45:56: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 38.6
+3/26/2022 20:45:56: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 42.64
+3/26/2022 20:45:56: [G_Auto 1] :  Store Value (Shared) for market: stake = 11.69
+3/26/2022 20:45:56: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 81.24
+3/26/2022 20:45:56: [G_Auto 1] :  Store Value (Shared) for market: pl = 3.95
+3/26/2022 20:45:56: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.62
+3/26/2022 20:45:56: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.66
+3/26/2022 20:45:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 20:46:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 20:46:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 20:46:38: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 20:46:53: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 20:47:08: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 20:53:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 20:53:41: [G_Auto 2] :  € 10.81 Lay bet placed on Aslan Karatsev at 1.74. Fully matched at 1.73.  Ref: 10161          ( Fill or kill bet with 15 seconds delay.   )
+3/26/2022 20:53:43: [G_Auto 1] :  Store Text Value (Shared) for Aslan Karatsev: aPoints = point: 0; games: 3; sets: 0 
+3/26/2022 20:53:43: [G_Auto 1] :  Store Text Value (Shared) for Aslan Karatsev: aServing = serving:1
+3/26/2022 20:53:43: [G_Auto 1] :  Store Text Value (Shared) for Ugo Humbert: bPoints = point: 0; games: 4; sets: 0 
+3/26/2022 20:53:43: [G_Auto 1] :  Store Text Value (Shared) for Ugo Humbert: bServing = serving:0
+3/26/2022 20:53:43: [G_Auto 1] :  Store Value (Shared) for market: price = 1.73
+3/26/2022 20:53:43: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 38.6
+3/26/2022 20:53:43: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 53.45
+3/26/2022 20:53:43: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.81
+3/26/2022 20:53:43: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 92.05
+3/26/2022 20:53:43: [G_Auto 1] :  Store Value (Shared) for market: pl = 3.83
+3/26/2022 20:53:43: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.71
+3/26/2022 20:53:43: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.4
+3/26/2022 20:53:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 20:53:48: [G_Auto 1] :  Store Text Value (Shared) for Aslan Karatsev: aPoints = point: 0; games: 3; sets: 0 
+3/26/2022 20:53:48: [G_Auto 1] :  Store Text Value (Shared) for Aslan Karatsev: aServing = serving:1
+3/26/2022 20:53:48: [G_Auto 1] :  Store Text Value (Shared) for Ugo Humbert: bPoints = point: 0; games: 4; sets: 0 
+3/26/2022 20:53:48: [G_Auto 1] :  Store Text Value (Shared) for Ugo Humbert: bServing = serving:0
+3/26/2022 20:53:48: [G_Auto 1] :  Store Value (Shared) for market: price = 1.73
+3/26/2022 20:53:48: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 38.6
+3/26/2022 20:53:48: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 53.45
+3/26/2022 20:53:48: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.81
+3/26/2022 20:53:48: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 92.05
+3/26/2022 20:53:48: [G_Auto 1] :  Store Value (Shared) for market: pl = 3.89
+3/26/2022 20:53:48: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.72
+3/26/2022 20:53:48: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.38
+3/26/2022 20:54:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 20:54:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 20:54:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 20:54:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 20:55:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 20:55:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 20:55:42: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 20:56:00: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 20:56:17: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 20:57:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 20:57:34: [G_Auto 2] :  Placed closure bet with greening on Aslan Karatsev by Backing 12.15 at 1.54
+3/26/2022 20:57:36: [G_Auto 1] :  Store Text Value (Shared) for Aslan Karatsev: aPoints = point: 0; games: 4; sets: 0 
+3/26/2022 20:57:36: [G_Auto 1] :  Store Text Value (Shared) for Aslan Karatsev: aServing = serving:0
+3/26/2022 20:57:36: [G_Auto 1] :  Store Text Value (Shared) for Ugo Humbert: bPoints = point: 0; games: 4; sets: 0 
+3/26/2022 20:57:36: [G_Auto 1] :  Store Text Value (Shared) for Ugo Humbert: bServing = serving:2
+3/26/2022 20:57:36: [G_Auto 1] :  Store Value (Shared) for market: price = 1.54
+3/26/2022 20:57:36: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 50.75
+3/26/2022 20:57:36: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 53.45
+3/26/2022 20:57:36: [G_Auto 1] :  Store Value (Shared) for market: stake = 12.15
+3/26/2022 20:57:36: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 104.2
+3/26/2022 20:57:36: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.65
+3/26/2022 20:57:36: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.55
+3/26/2022 20:57:36: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.8
+3/26/2022 20:57:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 20:57:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 20:58:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 20:58:18: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 20:58:36: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 20:58:53: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 21:00:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:00:38: [G_Auto 2] :  € 10.96 Lay bet placed on Aslan Karatsev at 1.73. Fully matched at 1.73.  Ref: 10165          ( Fill or kill bet with 15 seconds delay.   )
+3/26/2022 21:00:40: [G_Auto 1] :  Store Text Value (Shared) for Aslan Karatsev: aPoints = point: 0; games: 4; sets: 0 
+3/26/2022 21:00:40: [G_Auto 1] :  Store Text Value (Shared) for Aslan Karatsev: aServing = serving:1
+3/26/2022 21:00:40: [G_Auto 1] :  Store Text Value (Shared) for Ugo Humbert: bPoints = point: 0; games: 5; sets: 0 
+3/26/2022 21:00:40: [G_Auto 1] :  Store Text Value (Shared) for Ugo Humbert: bServing = serving:0
+3/26/2022 21:00:40: [G_Auto 1] :  Store Value (Shared) for market: price = 1.73
+3/26/2022 21:00:40: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 50.75
+3/26/2022 21:00:40: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 64.41
+3/26/2022 21:00:40: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.96
+3/26/2022 21:00:40: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 115.16
+3/26/2022 21:00:40: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.52
+3/26/2022 21:00:40: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.71
+3/26/2022 21:00:40: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.4
+3/26/2022 21:00:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:01:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:01:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:01:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:01:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:02:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:02:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:02:41: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 21:02:56: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 21:04:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:04:49: [G_Auto 2] :  Placed closure bet with greening on Aslan Karatsev by Backing 12.07 at 1.57
+3/26/2022 21:04:49: [G_Auto 1] :  Store Text Value (Shared) for Aslan Karatsev: aPoints = point: 0; games: 5; sets: 0 
+3/26/2022 21:04:49: [G_Auto 1] :  Store Text Value (Shared) for Aslan Karatsev: aServing = serving:0
+3/26/2022 21:04:49: [G_Auto 1] :  Store Text Value (Shared) for Ugo Humbert: bPoints = point: 0; games: 5; sets: 0 
+3/26/2022 21:04:49: [G_Auto 1] :  Store Text Value (Shared) for Ugo Humbert: bServing = serving:2
+3/26/2022 21:04:49: [G_Auto 1] :  Store Value (Shared) for market: price = 1.57
+3/26/2022 21:04:49: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 62.82
+3/26/2022 21:04:49: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 64.41
+3/26/2022 21:04:49: [G_Auto 1] :  Store Value (Shared) for market: stake = 12.07
+3/26/2022 21:04:49: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 127.23
+3/26/2022 21:04:49: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.55
+3/26/2022 21:04:49: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.58
+3/26/2022 21:04:49: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.72
+3/26/2022 21:04:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:05:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:05:14: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 21:05:31: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 21:08:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:08:23: [G_Auto 2] :  € 33.33 Lay bet placed on Aslan Karatsev at 1.24. Fully matched at 1.23.  Ref: 10175          ( Fill or kill bet with 15 seconds delay.   )
+3/26/2022 21:08:25: [G_Auto 1] :  Store Text Value (Shared) for Aslan Karatsev: aPoints = point: 0; games: 6; sets: 0 
+3/26/2022 21:08:25: [G_Auto 1] :  Store Text Value (Shared) for Aslan Karatsev: aServing = serving:1
+3/26/2022 21:08:25: [G_Auto 1] :  Store Text Value (Shared) for Ugo Humbert: bPoints = point: 0; games: 5; sets: 0 
+3/26/2022 21:08:25: [G_Auto 1] :  Store Text Value (Shared) for Ugo Humbert: bServing = serving:0
+3/26/2022 21:08:25: [G_Auto 1] :  Store Value (Shared) for market: price = 1.23
+3/26/2022 21:08:25: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 62.82
+3/26/2022 21:08:25: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 97.74
+3/26/2022 21:08:25: [G_Auto 1] :  Store Value (Shared) for market: stake = 33.33
+3/26/2022 21:08:25: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 160.56
+3/26/2022 21:08:25: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.28
+3/26/2022 21:08:25: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.23
+3/26/2022 21:08:25: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 5.4
+3/26/2022 21:08:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:08:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:09:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:09:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:09:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:09:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:10:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:10:27: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 21:10:44: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 21:21:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:21:09: [G_Auto 1] :  Store Value (Shared) for market: aFirstSetPrice = 1.23
+3/26/2022 21:21:09: [G_Auto 1] :  Store Value (Shared) for market: bFirstSetPrice = 5.5
+3/26/2022 21:21:12: [G_Auto 2] :  Placed closure bet with greening on Aslan Karatsev by Backing 33.89 at 1.21
+3/26/2022 21:21:13: [G_Auto 1] :  Store Text Value (Shared) for Aslan Karatsev: aPoints = point: 0; games: 0; sets: 1 
+3/26/2022 21:21:13: [G_Auto 1] :  Store Text Value (Shared) for Aslan Karatsev: aServing = serving:0
+3/26/2022 21:21:13: [G_Auto 1] :  Store Text Value (Shared) for Ugo Humbert: bPoints = point: 0; games: 0; sets: 0 
+3/26/2022 21:21:13: [G_Auto 1] :  Store Text Value (Shared) for Ugo Humbert: bServing = serving:2
+3/26/2022 21:21:13: [G_Auto 1] :  Store Value (Shared) for market: price = 1.21
+3/26/2022 21:21:13: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 96.71
+3/26/2022 21:21:13: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 97.74
+3/26/2022 21:21:13: [G_Auto 1] :  Store Value (Shared) for market: stake = 33.89
+3/26/2022 21:21:13: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 194.45
+3/26/2022 21:21:13: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.01
+3/26/2022 21:21:13: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.23
+3/26/2022 21:21:13: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 5.5
+3/26/2022 21:21:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:21:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:21:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:22:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:22:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:22:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:22:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:23:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:23:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:23:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:23:56: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 21:24:12: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 21:26:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:26:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:27:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:27:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:27:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:27:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:28:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:28:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:28:35: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 21:28:51: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 21:29:07: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 21:31:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:31:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:31:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:32:14: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 21:32:30: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 21:34:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:35:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:35:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:35:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:35:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:36:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:36:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:36:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:37:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:37:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:37:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:37:45: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 21:38:02: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 21:38:18: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 21:38:35: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 21:40:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:40:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:40:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:41:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:41:29: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 21:41:46: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 21:44:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:44:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:45:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:45:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:45:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:45:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:46:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:46:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:46:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:46:59: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 21:47:16: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 21:47:33: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 21:51:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:51:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:51:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:51:50: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 21:53:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:53:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:54:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:54:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:54:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:54:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:55:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:55:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:55:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:55:59: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 21:56:15: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 21:56:31: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 21:59:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:59:49:  Guardian has detected that the market is suspended

@@ -1,0 +1,470 @@
+3/28/2022 14:17:45: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: info = marketName: Fritz v Paul - Match Odds; runnerA: Taylor Fritz; runnerB: Tommy Paul 
+3/28/2022 14:17:45: [G_Auto 2] :  Store Value (Shared) for market: aId = 10279360
+3/28/2022 14:17:45: [G_Auto 2] :  Store Value (Shared) for market: bId = 8859306
+3/28/2022 22:16:59:  Guardian has detected that the market is suspended
+3/28/2022 22:17:00:  Guardian has detected that the market is in-play
+3/28/2022 22:17:02: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.7; bBsp: 2.42; volume: 136506.21 
+3/28/2022 22:17:02: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.7; bBsp: 2.42; volume: 136506.21 
+3/28/2022 22:17:02:  Guardian has detected that the market is now unsuspended
+3/28/2022 22:17:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:17:16: [G_Auto 1] :  € 11.43 Lay bet placed on Taylor Fritz at 1.7. Entirely unmatched when it initially reached the market.   Ref: 10204          ( Fill or kill bet with 15 seconds delay.   )
+3/28/2022 22:17:17: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 0; sets: 0 
+3/28/2022 22:17:17: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:1
+3/28/2022 22:17:17: [G_Auto 2] :  Store Text Value (Shared) for Tommy Paul: bPoints = point: 0; games: 0; sets: 0 
+3/28/2022 22:17:17: [G_Auto 2] :  Store Text Value (Shared) for Tommy Paul: bServing = serving:0
+3/28/2022 22:17:17: [G_Auto 2] :  Store Value (Shared) for market: price = 1.7
+3/28/2022 22:17:17: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+3/28/2022 22:17:17: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 0.805
+3/28/2022 22:17:17: [G_Auto 2] :  Store Value (Shared) for market: stake = 0.805
+3/28/2022 22:17:17: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 0.805
+3/28/2022 22:17:17: [G_Auto 2] :  Store Value (Shared) for market: pl = 0
+3/28/2022 22:17:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.71
+3/28/2022 22:17:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.4
+3/28/2022 22:17:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:17:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 22:17:31: [G_Auto 1] :  € 0.805000000000291 of unmatched bet (Ref:10204) was filled before remainder was killed.
+3/28/2022 22:17:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 22:17:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 22:19:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:19:43: [G_Auto 1] :  € 10.39 Lay bet placed on Tommy Paul at 1.77. Fully matched at 1.77.  Ref: 10205          ( Fill or kill bet with 15 seconds delay.   )
+3/28/2022 22:19:45: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 0; sets: 0 
+3/28/2022 22:19:45: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:0
+3/28/2022 22:19:45: [G_Auto 2] :  Store Text Value (Shared) for Tommy Paul: bPoints = point: 0; games: 1; sets: 0 
+3/28/2022 22:19:45: [G_Auto 2] :  Store Text Value (Shared) for Tommy Paul: bServing = serving:2
+3/28/2022 22:19:45: [G_Auto 2] :  Store Value (Shared) for market: price = 1.77
+3/28/2022 22:19:45: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+3/28/2022 22:19:45: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 11.195
+3/28/2022 22:19:45: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.39
+3/28/2022 22:19:45: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 11.195
+3/28/2022 22:19:45: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.15
+3/28/2022 22:19:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.28
+3/28/2022 22:19:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.78
+3/28/2022 22:19:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:19:46: [G_Auto 1] :  Placed closure bet with greening on Taylor Fritz by Backing 0.60 at 2.28
+3/28/2022 22:20:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:20:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:20:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 22:20:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 22:25:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:25:39: [G_Auto 1] :  Placed closure bet with greening on Tommy Paul by Backing 10.69 at 1.72
+3/28/2022 22:25:41: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 0; sets: 0 
+3/28/2022 22:25:41: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:1
+3/28/2022 22:25:41: [G_Auto 2] :  Store Text Value (Shared) for Tommy Paul: bPoints = point: 0; games: 2; sets: 0 
+3/28/2022 22:25:41: [G_Auto 2] :  Store Text Value (Shared) for Tommy Paul: bServing = serving:0
+3/28/2022 22:25:41: [G_Auto 2] :  Store Value (Shared) for market: price = 1.73
+3/28/2022 22:25:41: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 11.29
+3/28/2022 22:25:41: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 11.195
+3/28/2022 22:25:41: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.69
+3/28/2022 22:25:41: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 22.485
+3/28/2022 22:25:41: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.04
+3/28/2022 22:25:41: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.36
+3/28/2022 22:25:41: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.74
+3/28/2022 22:25:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:25:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:26:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:26:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:26:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 22:26:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 22:27:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:28:02: [G_Auto 1] :  € 9.09 Lay bet placed on Tommy Paul at 1.88. Fully matched at 1.88.  Ref: 10210          ( Fill or kill bet with 15 seconds delay.   )
+3/28/2022 22:28:04: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 1; sets: 0 
+3/28/2022 22:28:04: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:0
+3/28/2022 22:28:04: [G_Auto 2] :  Store Text Value (Shared) for Tommy Paul: bPoints = point: 0; games: 2; sets: 0 
+3/28/2022 22:28:04: [G_Auto 2] :  Store Text Value (Shared) for Tommy Paul: bServing = serving:2
+3/28/2022 22:28:04: [G_Auto 2] :  Store Value (Shared) for market: price = 1.88
+3/28/2022 22:28:04: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 11.29
+3/28/2022 22:28:04: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 20.285
+3/28/2022 22:28:04: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.09
+3/28/2022 22:28:04: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 31.575
+3/28/2022 22:28:04: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.14
+3/28/2022 22:28:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.14
+3/28/2022 22:28:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.86
+3/28/2022 22:28:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:28:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:28:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:28:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:29:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:29:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:29:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:29:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:30:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 22:30:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 22:32:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:32:31: [G_Auto 1] :  € 13.11 Lay bet placed on Taylor Fritz at 1.61. Fully matched at 1.6.  Ref: 10213          ( Fill or kill bet with 15 seconds delay.   )
+3/28/2022 22:32:31: [G_Auto 1] :  Placed closure bet with greening on Tommy Paul by Backing 6.39 at 2.66
+3/28/2022 22:32:31: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 2; sets: 0 
+3/28/2022 22:32:31: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:1
+3/28/2022 22:32:31: [G_Auto 2] :  Store Text Value (Shared) for Tommy Paul: bPoints = point: 0; games: 2; sets: 0 
+3/28/2022 22:32:31: [G_Auto 2] :  Store Text Value (Shared) for Tommy Paul: bServing = serving:0
+3/28/2022 22:32:31: [G_Auto 2] :  Store Value (Shared) for market: price = 2.66
+3/28/2022 22:32:31: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 17.68
+3/28/2022 22:32:31: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 33.395
+3/28/2022 22:32:31: [G_Auto 2] :  Store Value (Shared) for market: stake = 6.39
+3/28/2022 22:32:31: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 51.075
+3/28/2022 22:32:31: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.47
+3/28/2022 22:32:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.6
+3/28/2022 22:32:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.66
+3/28/2022 22:32:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:32:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:33:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 22:33:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 22:35:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:35:47: [G_Auto 1] :  Placed closure bet with greening on Taylor Fritz by Backing 14.27 at 1.47
+3/28/2022 22:35:49: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 3; sets: 0 
+3/28/2022 22:35:49: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:0
+3/28/2022 22:35:49: [G_Auto 2] :  Store Text Value (Shared) for Tommy Paul: bPoints = point: 0; games: 2; sets: 0 
+3/28/2022 22:35:49: [G_Auto 2] :  Store Text Value (Shared) for Tommy Paul: bServing = serving:2
+3/28/2022 22:35:49: [G_Auto 2] :  Store Value (Shared) for market: price = 1.47
+3/28/2022 22:35:49: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 31.95
+3/28/2022 22:35:49: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 33.395
+3/28/2022 22:35:49: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.27
+3/28/2022 22:35:49: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 65.345
+3/28/2022 22:35:49: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.42
+3/28/2022 22:35:49: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.48
+3/28/2022 22:35:49: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.1
+3/28/2022 22:35:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:35:54: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 3; sets: 0 
+3/28/2022 22:35:54: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:0
+3/28/2022 22:35:54: [G_Auto 2] :  Store Text Value (Shared) for Tommy Paul: bPoints = point: 0; games: 2; sets: 0 
+3/28/2022 22:35:54: [G_Auto 2] :  Store Text Value (Shared) for Tommy Paul: bServing = serving:2
+3/28/2022 22:35:54: [G_Auto 2] :  Store Value (Shared) for market: price = 1.47
+3/28/2022 22:35:54: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 31.95
+3/28/2022 22:35:54: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 33.395
+3/28/2022 22:35:54: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.27
+3/28/2022 22:35:54: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 65.345
+3/28/2022 22:35:54: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.42
+3/28/2022 22:35:54: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.48
+3/28/2022 22:35:54: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.15
+3/28/2022 22:36:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:36:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:36:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:36:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:37:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:37:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:37:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:37:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 22:38:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 22:39:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:39:22: [G_Auto 1] :  € 13.79 Lay bet placed on Taylor Fritz at 1.58. Fully matched at 1.58.  Ref: 10218          ( Fill or kill bet with 15 seconds delay.   )
+3/28/2022 22:39:24: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 3; sets: 0 
+3/28/2022 22:39:24: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:1
+3/28/2022 22:39:24: [G_Auto 2] :  Store Text Value (Shared) for Tommy Paul: bPoints = point: 0; games: 3; sets: 0 
+3/28/2022 22:39:24: [G_Auto 2] :  Store Text Value (Shared) for Tommy Paul: bServing = serving:0
+3/28/2022 22:39:24: [G_Auto 2] :  Store Value (Shared) for market: price = 1.58
+3/28/2022 22:39:24: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 31.95
+3/28/2022 22:39:24: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 47.185
+3/28/2022 22:39:24: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.79
+3/28/2022 22:39:24: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 79.135
+3/28/2022 22:39:24: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.33
+3/28/2022 22:39:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.57
+3/28/2022 22:39:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.76
+3/28/2022 22:39:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:39:30: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 3; sets: 0 
+3/28/2022 22:39:30: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:1
+3/28/2022 22:39:30: [G_Auto 2] :  Store Text Value (Shared) for Tommy Paul: bPoints = point: 0; games: 3; sets: 0 
+3/28/2022 22:39:30: [G_Auto 2] :  Store Text Value (Shared) for Tommy Paul: bServing = serving:0
+3/28/2022 22:39:30: [G_Auto 2] :  Store Value (Shared) for market: price = 1.58
+3/28/2022 22:39:30: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 31.95
+3/28/2022 22:39:30: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 47.185
+3/28/2022 22:39:30: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.79
+3/28/2022 22:39:30: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 79.135
+3/28/2022 22:39:30: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.24
+3/28/2022 22:39:30: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.57
+3/28/2022 22:39:30: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.74
+3/28/2022 22:39:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 22:39:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 22:41:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:41:21: [G_Auto 1] :  Placed closure bet with greening on Taylor Fritz by Backing 14.82 at 1.47
+3/28/2022 22:41:22: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 4; sets: 0 
+3/28/2022 22:41:22: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:0
+3/28/2022 22:41:22: [G_Auto 2] :  Store Text Value (Shared) for Tommy Paul: bPoints = point: 0; games: 3; sets: 0 
+3/28/2022 22:41:22: [G_Auto 2] :  Store Text Value (Shared) for Tommy Paul: bServing = serving:2
+3/28/2022 22:41:22: [G_Auto 2] :  Store Value (Shared) for market: price = 1.47
+3/28/2022 22:41:22: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 46.77
+3/28/2022 22:41:22: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 47.185
+3/28/2022 22:41:22: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.82
+3/28/2022 22:41:22: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 93.955
+3/28/2022 22:41:22: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.4
+3/28/2022 22:41:22: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.48
+3/28/2022 22:41:22: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.1
+3/28/2022 22:41:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:41:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:41:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:42:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:42:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:42:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:42:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:43:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 22:43:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 22:44:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:45:00: [G_Auto 1] :  € 13.56 Lay bet placed on Taylor Fritz at 1.59. Fully matched at 1.58.  Ref: 10222          ( Fill or kill bet with 15 seconds delay.   )
+3/28/2022 22:45:02: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 4; sets: 0 
+3/28/2022 22:45:02: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:1
+3/28/2022 22:45:02: [G_Auto 2] :  Store Text Value (Shared) for Tommy Paul: bPoints = point: 0; games: 4; sets: 0 
+3/28/2022 22:45:02: [G_Auto 2] :  Store Text Value (Shared) for Tommy Paul: bServing = serving:0
+3/28/2022 22:45:02: [G_Auto 2] :  Store Value (Shared) for market: price = 1.58
+3/28/2022 22:45:02: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 46.77
+3/28/2022 22:45:02: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 60.745
+3/28/2022 22:45:02: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.56
+3/28/2022 22:45:02: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 107.515
+3/28/2022 22:45:02: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.32
+3/28/2022 22:45:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.57
+3/28/2022 22:45:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.76
+3/28/2022 22:45:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:45:08: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 4; sets: 0 
+3/28/2022 22:45:08: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:1
+3/28/2022 22:45:08: [G_Auto 2] :  Store Text Value (Shared) for Tommy Paul: bPoints = point: 0; games: 4; sets: 0 
+3/28/2022 22:45:08: [G_Auto 2] :  Store Text Value (Shared) for Tommy Paul: bServing = serving:0
+3/28/2022 22:45:08: [G_Auto 2] :  Store Value (Shared) for market: price = 1.58
+3/28/2022 22:45:08: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 46.77
+3/28/2022 22:45:08: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 60.745
+3/28/2022 22:45:08: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.56
+3/28/2022 22:45:08: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 107.515
+3/28/2022 22:45:08: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.24
+3/28/2022 22:45:08: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.56
+3/28/2022 22:45:08: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.76
+3/28/2022 22:45:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:45:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 22:45:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 22:46:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 22:48:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:48:19: [G_Auto 1] :  Placed closure bet with greening on Taylor Fritz by Backing 14.38 at 1.49
+3/28/2022 22:48:21: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 5; sets: 0 
+3/28/2022 22:48:21: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:0
+3/28/2022 22:48:21: [G_Auto 2] :  Store Text Value (Shared) for Tommy Paul: bPoints = point: 0; games: 4; sets: 0 
+3/28/2022 22:48:21: [G_Auto 2] :  Store Text Value (Shared) for Tommy Paul: bServing = serving:2
+3/28/2022 22:48:21: [G_Auto 2] :  Store Value (Shared) for market: price = 1.49
+3/28/2022 22:48:21: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 61.15
+3/28/2022 22:48:21: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 60.745
+3/28/2022 22:48:21: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.38
+3/28/2022 22:48:21: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 121.895
+3/28/2022 22:48:21: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.41
+3/28/2022 22:48:21: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.5
+3/28/2022 22:48:21: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3
+3/28/2022 22:48:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:48:27: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 5; sets: 0 
+3/28/2022 22:48:27: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:0
+3/28/2022 22:48:27: [G_Auto 2] :  Store Text Value (Shared) for Tommy Paul: bPoints = point: 0; games: 4; sets: 0 
+3/28/2022 22:48:27: [G_Auto 2] :  Store Text Value (Shared) for Tommy Paul: bServing = serving:2
+3/28/2022 22:48:27: [G_Auto 2] :  Store Value (Shared) for market: price = 1.49
+3/28/2022 22:48:27: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 61.15
+3/28/2022 22:48:27: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 60.745
+3/28/2022 22:48:27: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.38
+3/28/2022 22:48:27: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 121.895
+3/28/2022 22:48:27: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.41
+3/28/2022 22:48:27: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.5
+3/28/2022 22:48:27: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3
+3/28/2022 22:48:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:48:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:49:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:49:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:49:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:49:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:50:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:50:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:50:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 22:50:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 22:51:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 22:53:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:53:22: [G_Auto 1] :  € 12.90 Lay bet placed on Taylor Fritz at 1.62. Fully matched at 1.61.  Ref: 10225          ( Fill or kill bet with 15 seconds delay.   )
+3/28/2022 22:53:23: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 5; sets: 0 
+3/28/2022 22:53:23: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:1
+3/28/2022 22:53:23: [G_Auto 2] :  Store Text Value (Shared) for Tommy Paul: bPoints = point: 0; games: 5; sets: 0 
+3/28/2022 22:53:23: [G_Auto 2] :  Store Text Value (Shared) for Tommy Paul: bServing = serving:0
+3/28/2022 22:53:23: [G_Auto 2] :  Store Value (Shared) for market: price = 1.61
+3/28/2022 22:53:23: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 61.15
+3/28/2022 22:53:23: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 73.645
+3/28/2022 22:53:23: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.9
+3/28/2022 22:53:23: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 134.795
+3/28/2022 22:53:23: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.49
+3/28/2022 22:53:23: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.6
+3/28/2022 22:53:23: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.68
+3/28/2022 22:53:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:53:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:53:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 22:54:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 22:54:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 22:55:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:55:56: [G_Auto 1] :  Placed closure bet with greening on Taylor Fritz by Backing 14.03 at 1.48
+3/28/2022 22:55:58: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 6; sets: 0 
+3/28/2022 22:55:58: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:0
+3/28/2022 22:55:58: [G_Auto 2] :  Store Text Value (Shared) for Tommy Paul: bPoints = point: 0; games: 5; sets: 0 
+3/28/2022 22:55:58: [G_Auto 2] :  Store Text Value (Shared) for Tommy Paul: bServing = serving:2
+3/28/2022 22:55:58: [G_Auto 2] :  Store Value (Shared) for market: price = 1.49
+3/28/2022 22:55:58: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 75.18
+3/28/2022 22:55:58: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 73.645
+3/28/2022 22:55:58: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.03
+3/28/2022 22:55:58: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 148.825
+3/28/2022 22:55:58: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.45
+3/28/2022 22:55:58: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.5
+3/28/2022 22:55:58: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.05
+3/28/2022 22:55:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:56:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:56:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:56:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:57:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:57:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:57:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:57:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 22:58:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 23:00:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:00:52: [G_Auto 1] :  Placed closure bet with greening on Taylor Fritz by Laying 0.08 at 1.62
+3/28/2022 23:00:54: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 6; sets: 0 
+3/28/2022 23:00:54: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:1
+3/28/2022 23:00:54: [G_Auto 2] :  Store Text Value (Shared) for Tommy Paul: bPoints = point: 0; games: 6; sets: 0 
+3/28/2022 23:00:54: [G_Auto 2] :  Store Text Value (Shared) for Tommy Paul: bServing = serving:0
+3/28/2022 23:00:54: [G_Auto 2] :  Store Value (Shared) for market: price = 1.61
+3/28/2022 23:00:54: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 75.18
+3/28/2022 23:00:54: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 73.725
+3/28/2022 23:00:54: [G_Auto 2] :  Store Value (Shared) for market: stake = 0.08
+3/28/2022 23:00:54: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 148.905
+3/28/2022 23:00:54: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.45
+3/28/2022 23:00:54: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.59
+3/28/2022 23:00:54: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.7
+3/28/2022 23:01:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:01:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:01:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:01:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 23:01:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 23:02:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 23:02:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 23:02:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 23:02:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 23:03:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 23:03:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 23:03:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 23:03:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 23:04:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 23:04:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 23:04:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 23:05:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 23:05:16: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 23:05:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 23:05:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 23:06:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:06:10: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 1.19
+3/28/2022 23:06:10: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 6.2
+3/28/2022 23:06:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:06:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:06:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:07:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:07:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:07:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:07:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:08:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:08:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:08:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:08:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:09:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:09:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:09:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:09:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:10:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:10:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 23:10:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 23:11:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:11:48: [G_Auto 1] :  € 29.63 Lay bet placed on Taylor Fritz at 1.27. Fully matched at 1.26.  Ref: 10231          ( Fill or kill bet with 15 seconds delay.   )
+3/28/2022 23:11:49: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 0; sets: 1 
+3/28/2022 23:11:49: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:1
+3/28/2022 23:11:49: [G_Auto 2] :  Store Text Value (Shared) for Tommy Paul: bPoints = point: 0; games: 1; sets: 0 
+3/28/2022 23:11:49: [G_Auto 2] :  Store Text Value (Shared) for Tommy Paul: bServing = serving:0
+3/28/2022 23:11:49: [G_Auto 2] :  Store Value (Shared) for market: price = 1.26
+3/28/2022 23:11:49: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 75.18
+3/28/2022 23:11:49: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 103.355
+3/28/2022 23:11:49: [G_Auto 2] :  Store Value (Shared) for market: stake = 29.63
+3/28/2022 23:11:49: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 178.535
+3/28/2022 23:11:49: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.69
+3/28/2022 23:11:49: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.25
+3/28/2022 23:11:49: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5
+3/28/2022 23:11:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:12:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:12:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 23:12:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 23:14:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:14:19: [G_Auto 1] :  Placed closure bet with greening on Taylor Fritz by Backing 30.85 at 1.21
+3/28/2022 23:14:20: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 1; sets: 1 
+3/28/2022 23:14:20: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:0
+3/28/2022 23:14:20: [G_Auto 2] :  Store Text Value (Shared) for Tommy Paul: bPoints = point: 0; games: 1; sets: 0 
+3/28/2022 23:14:20: [G_Auto 2] :  Store Text Value (Shared) for Tommy Paul: bServing = serving:2
+3/28/2022 23:14:20: [G_Auto 2] :  Store Value (Shared) for market: price = 1.21
+3/28/2022 23:14:20: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 106.03
+3/28/2022 23:14:20: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 103.355
+3/28/2022 23:14:20: [G_Auto 2] :  Store Value (Shared) for market: stake = 30.85
+3/28/2022 23:14:20: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 209.385
+3/28/2022 23:14:20: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.67
+3/28/2022 23:14:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.22
+3/28/2022 23:14:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.5
+3/28/2022 23:14:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:14:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:14:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:14:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 23:15:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 23:15:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 23:18:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:18:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:18:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:18:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:19:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:19:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:19:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:20:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:20:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:20:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 23:20:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 23:24:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:24:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:24:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:24:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 23:25:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 23:27:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:27:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:27:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:27:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:28:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:28:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:28:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:28:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:29:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:29:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 23:29:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 23:30:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:31:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:31:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:31:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 23:31:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 23:33:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:33:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:33:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:34:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:34:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:34:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:34:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:35:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:35:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:35:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:35:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 23:35:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 23:36:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 23:36:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 23:42:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:42:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:42:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:43:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:43:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:43:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:43:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:43:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 23:44:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 23:47:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:47:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:47:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:48:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:48:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:48:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:48:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:49:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:49:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:49:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 23:49:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 23:50:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:50:59:  Guardian has detected that the market is suspended

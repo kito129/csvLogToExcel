@@ -1,0 +1,622 @@
+3/26/2022 18:10:23: [G_Auto 1] :  Store Text Value (Shared) for Taylor Fritz: info = marketName: Fritz v Kukushkin - Match Odds; runnerA: Taylor Fritz; runnerB: Mikhail Kukushkin 
+3/26/2022 18:10:23: [G_Auto 1] :  Store Value (Shared) for market: aId = 10279360
+3/26/2022 18:10:23: [G_Auto 1] :  Store Value (Shared) for market: bId = 2609424
+3/26/2022 20:42:11:  Guardian has detected that the market is in-play
+3/26/2022 20:42:11:  Guardian has detected that the market is suspended
+3/26/2022 20:42:13: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.3; bBsp: 4.2; volume: 73974.35 
+3/26/2022 20:42:13: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.3; bBsp: 4.2; volume: 73974.35 
+3/26/2022 20:42:13:  Guardian has detected that the market is now unsuspended
+3/26/2022 20:42:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 20:42:29: [G_Auto 2] :  € 25.81 Lay bet placed on Taylor Fritz at 1.31. Fully matched at 1.3.  Ref: 10150          ( Fill or kill bet with 15 seconds delay.   )
+3/26/2022 20:42:31: [G_Auto 1] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 0; sets: 0 
+3/26/2022 20:42:31: [G_Auto 1] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:1
+3/26/2022 20:42:31: [G_Auto 1] :  Store Text Value (Shared) for Mikhail Kukushkin: bPoints = point: 0; games: 0; sets: 0 
+3/26/2022 20:42:31: [G_Auto 1] :  Store Text Value (Shared) for Mikhail Kukushkin: bServing = serving:0
+3/26/2022 20:42:31: [G_Auto 1] :  Store Value (Shared) for market: price = 1.3
+3/26/2022 20:42:31: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 0
+3/26/2022 20:42:31: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 25.81
+3/26/2022 20:42:31: [G_Auto 1] :  Store Value (Shared) for market: stake = 25.81
+3/26/2022 20:42:31: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 25.81
+3/26/2022 20:42:31: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.2
+3/26/2022 20:42:31: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.29
+3/26/2022 20:42:31: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.2
+3/26/2022 20:42:33: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 20:44:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 20:44:43: [G_Auto 2] :  Placed closure bet with greening on Taylor Fritz by Backing 26.84 at 1.25
+3/26/2022 20:44:45: [G_Auto 1] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 1; sets: 0 
+3/26/2022 20:44:45: [G_Auto 1] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:0
+3/26/2022 20:44:45: [G_Auto 1] :  Store Text Value (Shared) for Mikhail Kukushkin: bPoints = point: 0; games: 0; sets: 0 
+3/26/2022 20:44:45: [G_Auto 1] :  Store Text Value (Shared) for Mikhail Kukushkin: bServing = serving:2
+3/26/2022 20:44:45: [G_Auto 1] :  Store Value (Shared) for market: price = 1.25
+3/26/2022 20:44:45: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 26.84
+3/26/2022 20:44:45: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 25.81
+3/26/2022 20:44:45: [G_Auto 1] :  Store Value (Shared) for market: stake = 26.84
+3/26/2022 20:44:45: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 52.65
+3/26/2022 20:44:45: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.03
+3/26/2022 20:44:45: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.26
+3/26/2022 20:44:45: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.9
+3/26/2022 20:44:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 20:44:52: [G_Auto 1] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 1; sets: 0 
+3/26/2022 20:44:52: [G_Auto 1] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:0
+3/26/2022 20:44:52: [G_Auto 1] :  Store Text Value (Shared) for Mikhail Kukushkin: bPoints = point: 0; games: 0; sets: 0 
+3/26/2022 20:44:52: [G_Auto 1] :  Store Text Value (Shared) for Mikhail Kukushkin: bServing = serving:2
+3/26/2022 20:44:52: [G_Auto 1] :  Store Value (Shared) for market: price = 1.25
+3/26/2022 20:44:52: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 26.84
+3/26/2022 20:44:52: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 25.81
+3/26/2022 20:44:52: [G_Auto 1] :  Store Value (Shared) for market: stake = 26.84
+3/26/2022 20:44:52: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 52.65
+3/26/2022 20:44:52: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.03
+3/26/2022 20:44:52: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.26
+3/26/2022 20:44:52: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.9
+3/26/2022 20:45:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 20:45:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 20:45:39: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 20:45:54: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 20:46:12: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 20:47:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 20:47:54: [G_Auto 2] :  € 57.14 Lay bet placed on Taylor Fritz at 1.14. Fully matched at 1.13.  Ref: 10155          ( Fill or kill bet with 15 seconds delay.   )
+3/26/2022 20:47:56: [G_Auto 1] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 2; sets: 0 
+3/26/2022 20:47:56: [G_Auto 1] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:1
+3/26/2022 20:47:56: [G_Auto 1] :  Store Text Value (Shared) for Mikhail Kukushkin: bPoints = point: 0; games: 0; sets: 0 
+3/26/2022 20:47:56: [G_Auto 1] :  Store Text Value (Shared) for Mikhail Kukushkin: bServing = serving:0
+3/26/2022 20:47:56: [G_Auto 1] :  Store Value (Shared) for market: price = 1.13
+3/26/2022 20:47:56: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 26.84
+3/26/2022 20:47:56: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 82.95
+3/26/2022 20:47:56: [G_Auto 1] :  Store Value (Shared) for market: stake = 57.14
+3/26/2022 20:47:56: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 109.79
+3/26/2022 20:47:56: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.06
+3/26/2022 20:47:56: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.13
+3/26/2022 20:47:56: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 9
+3/26/2022 20:47:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 20:48:02: [G_Auto 1] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 2; sets: 0 
+3/26/2022 20:48:02: [G_Auto 1] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:1
+3/26/2022 20:48:02: [G_Auto 1] :  Store Text Value (Shared) for Mikhail Kukushkin: bPoints = point: 0; games: 0; sets: 0 
+3/26/2022 20:48:02: [G_Auto 1] :  Store Text Value (Shared) for Mikhail Kukushkin: bServing = serving:0
+3/26/2022 20:48:02: [G_Auto 1] :  Store Value (Shared) for market: price = 1.13
+3/26/2022 20:48:02: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 26.84
+3/26/2022 20:48:02: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 82.95
+3/26/2022 20:48:02: [G_Auto 1] :  Store Value (Shared) for market: stake = 57.14
+3/26/2022 20:48:02: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 109.79
+3/26/2022 20:48:02: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.03
+3/26/2022 20:48:02: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.13
+3/26/2022 20:48:02: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 8.6
+3/26/2022 20:48:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 20:48:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 20:48:46: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 20:49:04: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 20:50:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 20:50:44: [G_Auto 2] :  Placed closure bet with greening on Taylor Fritz by Backing 58.70 at 1.1
+3/26/2022 20:50:46: [G_Auto 1] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 3; sets: 0 
+3/26/2022 20:50:46: [G_Auto 1] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:0
+3/26/2022 20:50:46: [G_Auto 1] :  Store Text Value (Shared) for Mikhail Kukushkin: bPoints = point: 0; games: 0; sets: 0 
+3/26/2022 20:50:46: [G_Auto 1] :  Store Text Value (Shared) for Mikhail Kukushkin: bServing = serving:2
+3/26/2022 20:50:46: [G_Auto 1] :  Store Value (Shared) for market: price = 1.1
+3/26/2022 20:50:46: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 85.54
+3/26/2022 20:50:46: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 82.95
+3/26/2022 20:50:46: [G_Auto 1] :  Store Value (Shared) for market: stake = 58.7
+3/26/2022 20:50:46: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 168.49
+3/26/2022 20:50:46: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.59
+3/26/2022 20:50:46: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.1
+3/26/2022 20:50:46: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 10.5
+3/26/2022 20:50:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 20:51:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 20:51:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 20:51:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 20:51:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 20:52:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 20:52:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 20:52:47: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 20:53:04: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 20:58:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 20:58:32: [G_Auto 2] :  € 66.67 Lay bet placed on Taylor Fritz at 1.12. Fully matched at 1.11.  Ref: 10164          ( Fill or kill bet with 15 seconds delay.   )
+3/26/2022 20:58:34: [G_Auto 1] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 3; sets: 0 
+3/26/2022 20:58:34: [G_Auto 1] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:1
+3/26/2022 20:58:34: [G_Auto 1] :  Store Text Value (Shared) for Mikhail Kukushkin: bPoints = point: 0; games: 1; sets: 0 
+3/26/2022 20:58:34: [G_Auto 1] :  Store Text Value (Shared) for Mikhail Kukushkin: bServing = serving:0
+3/26/2022 20:58:34: [G_Auto 1] :  Store Value (Shared) for market: price = 1.11
+3/26/2022 20:58:34: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 85.54
+3/26/2022 20:58:34: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 149.62
+3/26/2022 20:58:34: [G_Auto 1] :  Store Value (Shared) for market: stake = 66.67
+3/26/2022 20:58:34: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 235.16
+3/26/2022 20:58:34: [G_Auto 1] :  Store Value (Shared) for market: pl = -3.2
+3/26/2022 20:58:34: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.11
+3/26/2022 20:58:34: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 10
+3/26/2022 20:58:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 20:58:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 20:59:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 20:59:19: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 20:59:36: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 21:03:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:03:25: [G_Auto 2] :  Placed closure bet with greening on Taylor Fritz by Backing 67.89 at 1.09
+3/26/2022 21:03:27: [G_Auto 1] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 4; sets: 0 
+3/26/2022 21:03:27: [G_Auto 1] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:0
+3/26/2022 21:03:27: [G_Auto 1] :  Store Text Value (Shared) for Mikhail Kukushkin: bPoints = point: 0; games: 1; sets: 0 
+3/26/2022 21:03:27: [G_Auto 1] :  Store Text Value (Shared) for Mikhail Kukushkin: bServing = serving:2
+3/26/2022 21:03:27: [G_Auto 1] :  Store Value (Shared) for market: price = 1.09
+3/26/2022 21:03:27: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 153.43
+3/26/2022 21:03:27: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 149.62
+3/26/2022 21:03:27: [G_Auto 1] :  Store Value (Shared) for market: stake = 67.89
+3/26/2022 21:03:27: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 303.05
+3/26/2022 21:03:27: [G_Auto 1] :  Store Value (Shared) for market: pl = -3.81
+3/26/2022 21:03:27: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.09
+3/26/2022 21:03:27: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 11.5
+3/26/2022 21:03:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:03:35: [G_Auto 1] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 4; sets: 0 
+3/26/2022 21:03:35: [G_Auto 1] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:0
+3/26/2022 21:03:35: [G_Auto 1] :  Store Text Value (Shared) for Mikhail Kukushkin: bPoints = point: 0; games: 1; sets: 0 
+3/26/2022 21:03:35: [G_Auto 1] :  Store Text Value (Shared) for Mikhail Kukushkin: bServing = serving:2
+3/26/2022 21:03:35: [G_Auto 1] :  Store Value (Shared) for market: price = 1.09
+3/26/2022 21:03:35: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 153.43
+3/26/2022 21:03:35: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 149.62
+3/26/2022 21:03:35: [G_Auto 1] :  Store Value (Shared) for market: stake = 67.89
+3/26/2022 21:03:35: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 303.05
+3/26/2022 21:03:35: [G_Auto 1] :  Store Value (Shared) for market: pl = -3.81
+3/26/2022 21:03:35: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.1
+3/26/2022 21:03:35: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 11.5
+3/26/2022 21:03:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:04:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:04:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:04:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:04:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:05:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:05:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:05:28: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 21:05:45: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 21:08:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:08:37: [G_Auto 2] :  € 66.67 Lay bet placed on Taylor Fritz at 1.12. Fully matched at 1.11.  Ref: 10177          ( Fill or kill bet with 15 seconds delay.   )
+3/26/2022 21:08:39: [G_Auto 1] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 4; sets: 0 
+3/26/2022 21:08:39: [G_Auto 1] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:1
+3/26/2022 21:08:39: [G_Auto 1] :  Store Text Value (Shared) for Mikhail Kukushkin: bPoints = point: 0; games: 2; sets: 0 
+3/26/2022 21:08:39: [G_Auto 1] :  Store Text Value (Shared) for Mikhail Kukushkin: bServing = serving:0
+3/26/2022 21:08:39: [G_Auto 1] :  Store Value (Shared) for market: price = 1.11
+3/26/2022 21:08:39: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 153.43
+3/26/2022 21:08:39: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 216.29
+3/26/2022 21:08:39: [G_Auto 1] :  Store Value (Shared) for market: stake = 66.67
+3/26/2022 21:08:39: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 369.72
+3/26/2022 21:08:39: [G_Auto 1] :  Store Value (Shared) for market: pl = -4.42
+3/26/2022 21:08:39: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.1
+3/26/2022 21:08:39: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 11
+3/26/2022 21:08:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:08:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:09:06: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 21:09:23: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 21:11:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:11:33: [G_Auto 2] :  Placed closure bet with greening on Taylor Fritz by Backing 68.53 at 1.08
+3/26/2022 21:11:35: [G_Auto 1] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 5; sets: 0 
+3/26/2022 21:11:35: [G_Auto 1] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:0
+3/26/2022 21:11:35: [G_Auto 1] :  Store Text Value (Shared) for Mikhail Kukushkin: bPoints = point: 0; games: 2; sets: 0 
+3/26/2022 21:11:35: [G_Auto 1] :  Store Text Value (Shared) for Mikhail Kukushkin: bServing = serving:2
+3/26/2022 21:11:35: [G_Auto 1] :  Store Value (Shared) for market: price = 1.08
+3/26/2022 21:11:35: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 221.96
+3/26/2022 21:11:35: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 216.29
+3/26/2022 21:11:35: [G_Auto 1] :  Store Value (Shared) for market: stake = 68.53
+3/26/2022 21:11:35: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 438.25
+3/26/2022 21:11:35: [G_Auto 1] :  Store Value (Shared) for market: pl = -5.67
+3/26/2022 21:11:35: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.09
+3/26/2022 21:11:35: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 12
+3/26/2022 21:11:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:11:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:12:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:12:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:12:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:12:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:13:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:13:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:13:31: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 21:13:47: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 21:14:03: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 21:15:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:16:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:16:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:16:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:16:56: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 21:17:12: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 21:17:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:18:10: [G_Auto 1] :  Store Value (Shared) for market: aFirstSetPrice = 1.08
+3/26/2022 21:18:10: [G_Auto 1] :  Store Value (Shared) for market: bFirstSetPrice = 15.5
+3/26/2022 21:18:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:18:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:18:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:19:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:19:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:19:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:19:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:20:06: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:20:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:20:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:20:52: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 21:21:08: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 21:23:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:24:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:24:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:24:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:24:47: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 21:25:03: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 21:26:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:27:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:27:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:27:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:27:51: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 21:28:07: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 21:28:23: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 21:29:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:29:34: [G_Auto 2] :  € 61.54 Lay bet placed on Taylor Fritz at 1.13. Fully matched at 1.12.  Ref: 10186          ( Fill or kill bet with 15 seconds delay.   )
+3/26/2022 21:29:36: [G_Auto 1] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 1; sets: 1 
+3/26/2022 21:29:36: [G_Auto 1] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:1
+3/26/2022 21:29:36: [G_Auto 1] :  Store Text Value (Shared) for Mikhail Kukushkin: bPoints = point: 0; games: 2; sets: 0 
+3/26/2022 21:29:36: [G_Auto 1] :  Store Text Value (Shared) for Mikhail Kukushkin: bServing = serving:0
+3/26/2022 21:29:36: [G_Auto 1] :  Store Value (Shared) for market: price = 1.12
+3/26/2022 21:29:36: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 221.96
+3/26/2022 21:29:36: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 277.83
+3/26/2022 21:29:36: [G_Auto 1] :  Store Value (Shared) for market: stake = 61.54
+3/26/2022 21:29:36: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 499.79
+3/26/2022 21:29:36: [G_Auto 1] :  Store Value (Shared) for market: pl = -6.22
+3/26/2022 21:29:36: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.12
+3/26/2022 21:29:36: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 10
+3/26/2022 21:29:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:29:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:30:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:30:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:30:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:30:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:31:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:31:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:31:34: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 21:31:50: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 21:33:06: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:33:19: [G_Auto 2] :  Placed closure bet with greening on Taylor Fritz by Backing 63.23 at 1.09
+3/26/2022 21:33:20: [G_Auto 1] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 2; sets: 1 
+3/26/2022 21:33:20: [G_Auto 1] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:0
+3/26/2022 21:33:20: [G_Auto 1] :  Store Text Value (Shared) for Mikhail Kukushkin: bPoints = point: 0; games: 2; sets: 0 
+3/26/2022 21:33:20: [G_Auto 1] :  Store Text Value (Shared) for Mikhail Kukushkin: bServing = serving:2
+3/26/2022 21:33:20: [G_Auto 1] :  Store Value (Shared) for market: price = 1.09
+3/26/2022 21:33:20: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 285.19
+3/26/2022 21:33:20: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 277.83
+3/26/2022 21:33:20: [G_Auto 1] :  Store Value (Shared) for market: stake = 63.23
+3/26/2022 21:33:20: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 563.02
+3/26/2022 21:33:20: [G_Auto 1] :  Store Value (Shared) for market: pl = -7.36
+3/26/2022 21:33:20: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.1
+3/26/2022 21:33:20: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 12
+3/26/2022 21:33:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:33:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:33:55: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 21:34:12: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 21:34:28: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 21:34:45: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 21:37:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:37:33: [G_Auto 2] :  € 57.14 Lay bet placed on Taylor Fritz at 1.14. Fully matched at 1.13.  Ref: 10190          ( Fill or kill bet with 15 seconds delay.   )
+3/26/2022 21:37:34: [G_Auto 1] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 2; sets: 1 
+3/26/2022 21:37:34: [G_Auto 1] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:1
+3/26/2022 21:37:34: [G_Auto 1] :  Store Text Value (Shared) for Mikhail Kukushkin: bPoints = point: 0; games: 3; sets: 0 
+3/26/2022 21:37:34: [G_Auto 1] :  Store Text Value (Shared) for Mikhail Kukushkin: bServing = serving:0
+3/26/2022 21:37:34: [G_Auto 1] :  Store Value (Shared) for market: price = 1.13
+3/26/2022 21:37:34: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 285.19
+3/26/2022 21:37:34: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 334.97
+3/26/2022 21:37:34: [G_Auto 1] :  Store Value (Shared) for market: stake = 57.14
+3/26/2022 21:37:34: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 620.16
+3/26/2022 21:37:34: [G_Auto 1] :  Store Value (Shared) for market: pl = -7.87
+3/26/2022 21:37:34: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.12
+3/26/2022 21:37:34: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 10
+3/26/2022 21:37:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:37:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:38:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:38:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:38:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:38:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:39:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:39:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:39:36: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 21:40:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:40:56: [G_Auto 2] :  Placed closure bet with greening on Taylor Fritz by Backing 59.79 at 1.08
+3/26/2022 21:40:57: [G_Auto 1] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 3; sets: 1 
+3/26/2022 21:40:57: [G_Auto 1] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:0
+3/26/2022 21:40:57: [G_Auto 1] :  Store Text Value (Shared) for Mikhail Kukushkin: bPoints = point: 0; games: 3; sets: 0 
+3/26/2022 21:40:57: [G_Auto 1] :  Store Text Value (Shared) for Mikhail Kukushkin: bServing = serving:2
+3/26/2022 21:40:57: [G_Auto 1] :  Store Value (Shared) for market: price = 1.08
+3/26/2022 21:40:57: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 344.98
+3/26/2022 21:40:57: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 334.97
+3/26/2022 21:40:57: [G_Auto 1] :  Store Value (Shared) for market: stake = 59.79
+3/26/2022 21:40:57: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 679.95
+3/26/2022 21:40:57: [G_Auto 1] :  Store Value (Shared) for market: pl = -10.01
+3/26/2022 21:40:57: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.09
+3/26/2022 21:40:57: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 12.5
+3/26/2022 21:40:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:41:03: [G_Auto 1] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 3; sets: 1 
+3/26/2022 21:41:03: [G_Auto 1] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:0
+3/26/2022 21:41:03: [G_Auto 1] :  Store Text Value (Shared) for Mikhail Kukushkin: bPoints = point: 0; games: 3; sets: 0 
+3/26/2022 21:41:03: [G_Auto 1] :  Store Text Value (Shared) for Mikhail Kukushkin: bServing = serving:2
+3/26/2022 21:41:03: [G_Auto 1] :  Store Value (Shared) for market: price = 1.08
+3/26/2022 21:41:03: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 344.98
+3/26/2022 21:41:03: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 334.97
+3/26/2022 21:41:03: [G_Auto 1] :  Store Value (Shared) for market: stake = 59.79
+3/26/2022 21:41:03: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 679.95
+3/26/2022 21:41:03: [G_Auto 1] :  Store Value (Shared) for market: pl = -10.01
+3/26/2022 21:41:03: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.09
+3/26/2022 21:41:03: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 12.5
+3/26/2022 21:41:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:41:30: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 21:41:46: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 21:42:03: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 21:42:19: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 21:44:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:44:16: [G_Auto 2] :  € 57.14 Lay bet placed on Taylor Fritz at 1.14. Fully matched at 1.13.  Ref: 10193          ( Fill or kill bet with 15 seconds delay.   )
+3/26/2022 21:44:17: [G_Auto 1] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 3; sets: 1 
+3/26/2022 21:44:17: [G_Auto 1] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:1
+3/26/2022 21:44:17: [G_Auto 1] :  Store Text Value (Shared) for Mikhail Kukushkin: bPoints = point: 0; games: 4; sets: 0 
+3/26/2022 21:44:17: [G_Auto 1] :  Store Text Value (Shared) for Mikhail Kukushkin: bServing = serving:0
+3/26/2022 21:44:17: [G_Auto 1] :  Store Value (Shared) for market: price = 1.13
+3/26/2022 21:44:17: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 344.98
+3/26/2022 21:44:17: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 392.11
+3/26/2022 21:44:17: [G_Auto 1] :  Store Value (Shared) for market: stake = 57.14
+3/26/2022 21:44:17: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 737.09
+3/26/2022 21:44:17: [G_Auto 1] :  Store Value (Shared) for market: pl = -10.52
+3/26/2022 21:44:17: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.13
+3/26/2022 21:44:17: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 9
+3/26/2022 21:44:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:44:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:44:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:45:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:45:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:45:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:45:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:46:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:46:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:46:35: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 21:46:52: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 21:49:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:49:15: [G_Auto 2] :  Placed closure bet with greening on Taylor Fritz by Backing 58.69 at 1.1
+3/26/2022 21:49:17: [G_Auto 1] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 4; sets: 1 
+3/26/2022 21:49:17: [G_Auto 1] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:0
+3/26/2022 21:49:17: [G_Auto 1] :  Store Text Value (Shared) for Mikhail Kukushkin: bPoints = point: 0; games: 4; sets: 0 
+3/26/2022 21:49:17: [G_Auto 1] :  Store Text Value (Shared) for Mikhail Kukushkin: bServing = serving:2
+3/26/2022 21:49:17: [G_Auto 1] :  Store Value (Shared) for market: price = 1.11
+3/26/2022 21:49:17: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 403.67
+3/26/2022 21:49:17: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 392.11
+3/26/2022 21:49:17: [G_Auto 1] :  Store Value (Shared) for market: stake = 58.69
+3/26/2022 21:49:17: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 795.78
+3/26/2022 21:49:17: [G_Auto 1] :  Store Value (Shared) for market: pl = -11.04
+3/26/2022 21:49:17: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.11
+3/26/2022 21:49:17: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 9.4
+3/26/2022 21:49:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:49:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:49:43: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 21:50:00: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 21:50:16: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 21:54:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:55:09: [G_Auto 2] :  € 57.14 Lay bet placed on Taylor Fritz at 1.14. Fully matched at 1.13.  Ref: 10197          ( Fill or kill bet with 15 seconds delay.   )
+3/26/2022 21:55:10: [G_Auto 1] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 4; sets: 1 
+3/26/2022 21:55:10: [G_Auto 1] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:1
+3/26/2022 21:55:10: [G_Auto 1] :  Store Text Value (Shared) for Mikhail Kukushkin: bPoints = point: 0; games: 5; sets: 0 
+3/26/2022 21:55:10: [G_Auto 1] :  Store Text Value (Shared) for Mikhail Kukushkin: bServing = serving:0
+3/26/2022 21:55:10: [G_Auto 1] :  Store Value (Shared) for market: price = 1.13
+3/26/2022 21:55:10: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 403.67
+3/26/2022 21:55:10: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 449.25
+3/26/2022 21:55:10: [G_Auto 1] :  Store Value (Shared) for market: stake = 57.14
+3/26/2022 21:55:10: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 852.92
+3/26/2022 21:55:10: [G_Auto 1] :  Store Value (Shared) for market: pl = -11.55
+3/26/2022 21:55:10: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.12
+3/26/2022 21:55:10: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 8.8
+3/26/2022 21:55:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:55:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:55:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:56:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:56:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:56:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:56:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:57:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 21:57:10: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 21:57:27: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 21:57:44: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 22:00:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:00:48: [G_Auto 2] :  Placed closure bet with greening on Taylor Fritz by Backing 58.17 at 1.1
+3/26/2022 22:00:49: [G_Auto 1] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 5; sets: 1 
+3/26/2022 22:00:49: [G_Auto 1] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:0
+3/26/2022 22:00:49: [G_Auto 1] :  Store Text Value (Shared) for Mikhail Kukushkin: bPoints = point: 0; games: 5; sets: 0 
+3/26/2022 22:00:49: [G_Auto 1] :  Store Text Value (Shared) for Mikhail Kukushkin: bServing = serving:2
+3/26/2022 22:00:49: [G_Auto 1] :  Store Value (Shared) for market: price = 1.1
+3/26/2022 22:00:49: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 461.84
+3/26/2022 22:00:49: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 449.25
+3/26/2022 22:00:49: [G_Auto 1] :  Store Value (Shared) for market: stake = 58.17
+3/26/2022 22:00:49: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 911.09
+3/26/2022 22:00:49: [G_Auto 1] :  Store Value (Shared) for market: pl = -12.59
+3/26/2022 22:00:49: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.11
+3/26/2022 22:00:49: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 10.5
+3/26/2022 22:00:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:01:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:01:16: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 22:01:31: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 22:01:46: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 22:03:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:03:49: [G_Auto 2] :  € 47.06 Lay bet placed on Taylor Fritz at 1.17. Fully matched at 1.16.  Ref: 10200          ( Fill or kill bet with 15 seconds delay.   )
+3/26/2022 22:03:50: [G_Auto 1] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 5; sets: 1 
+3/26/2022 22:03:50: [G_Auto 1] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:1
+3/26/2022 22:03:50: [G_Auto 1] :  Store Text Value (Shared) for Mikhail Kukushkin: bPoints = point: 0; games: 6; sets: 0 
+3/26/2022 22:03:50: [G_Auto 1] :  Store Text Value (Shared) for Mikhail Kukushkin: bServing = serving:0
+3/26/2022 22:03:50: [G_Auto 1] :  Store Value (Shared) for market: price = 1.16
+3/26/2022 22:03:50: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 461.84
+3/26/2022 22:03:50: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 496.31
+3/26/2022 22:03:50: [G_Auto 1] :  Store Value (Shared) for market: stake = 47.06
+3/26/2022 22:03:50: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 958.15
+3/26/2022 22:03:50: [G_Auto 1] :  Store Value (Shared) for market: pl = -13
+3/26/2022 22:03:50: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.15
+3/26/2022 22:03:50: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 7.6
+3/26/2022 22:03:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:04:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:04:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:04:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:04:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:05:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:05:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:05:46: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 22:06:02: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 22:08:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:09:08: [G_Auto 1] :  Store Value (Shared) for market: aSecondSetPrice = 1.48
+3/26/2022 22:09:08: [G_Auto 1] :  Store Value (Shared) for market: bSecondSetPrice = 3.1
+3/26/2022 22:09:11: [G_Auto 2] :  Placed closure bet with greening on Taylor Fritz by Backing 36.88 at 1.48
+3/26/2022 22:09:14: [G_Auto 1] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 0; sets: 1 
+3/26/2022 22:09:14: [G_Auto 1] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:0
+3/26/2022 22:09:14: [G_Auto 1] :  Store Text Value (Shared) for Mikhail Kukushkin: bPoints = point: 0; games: 0; sets: 1 
+3/26/2022 22:09:14: [G_Auto 1] :  Store Text Value (Shared) for Mikhail Kukushkin: bServing = serving:2
+3/26/2022 22:09:14: [G_Auto 1] :  Store Value (Shared) for market: price = 1.48
+3/26/2022 22:09:14: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 498.72
+3/26/2022 22:09:14: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 496.31
+3/26/2022 22:09:14: [G_Auto 1] :  Store Value (Shared) for market: stake = 36.88
+3/26/2022 22:09:14: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 995.03
+3/26/2022 22:09:14: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.42
+3/26/2022 22:09:14: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.48
+3/26/2022 22:09:14: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.05
+3/26/2022 22:09:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:09:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:09:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:10:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:10:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:10:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:10:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:11:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:11:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:11:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:11:52: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 22:12:09: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 22:16:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:16:27: [G_Auto 2] :  € 13.33 Lay bet placed on Taylor Fritz at 1.6. Fully matched at 1.59.  Ref: 10204          ( Fill or kill bet with 15 seconds delay.   )
+3/26/2022 22:16:27: [G_Auto 1] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 0; sets: 1 
+3/26/2022 22:16:27: [G_Auto 1] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:1
+3/26/2022 22:16:27: [G_Auto 1] :  Store Text Value (Shared) for Mikhail Kukushkin: bPoints = point: 0; games: 1; sets: 1 
+3/26/2022 22:16:27: [G_Auto 1] :  Store Text Value (Shared) for Mikhail Kukushkin: bServing = serving:0
+3/26/2022 22:16:27: [G_Auto 1] :  Store Value (Shared) for market: price = 1.59
+3/26/2022 22:16:27: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 498.72
+3/26/2022 22:16:27: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 509.64
+3/26/2022 22:16:27: [G_Auto 1] :  Store Value (Shared) for market: stake = 13.33
+3/26/2022 22:16:27: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 1008.36
+3/26/2022 22:16:27: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.5
+3/26/2022 22:16:27: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.58
+3/26/2022 22:16:27: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.7
+3/26/2022 22:16:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:16:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:17:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:17:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:17:22: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 22:17:39: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 22:18:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:18:30: [G_Auto 2] :  Placed closure bet with greening on Taylor Fritz by Backing 14.83 at 1.43
+3/26/2022 22:18:30: [G_Auto 1] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 1; sets: 1 
+3/26/2022 22:18:30: [G_Auto 1] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:0
+3/26/2022 22:18:30: [G_Auto 1] :  Store Text Value (Shared) for Mikhail Kukushkin: bPoints = point: 0; games: 1; sets: 1 
+3/26/2022 22:18:30: [G_Auto 1] :  Store Text Value (Shared) for Mikhail Kukushkin: bServing = serving:2
+3/26/2022 22:18:30: [G_Auto 1] :  Store Value (Shared) for market: price = 1.43
+3/26/2022 22:18:30: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 513.55
+3/26/2022 22:18:30: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 509.64
+3/26/2022 22:18:30: [G_Auto 1] :  Store Value (Shared) for market: stake = 14.83
+3/26/2022 22:18:30: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 1023.19
+3/26/2022 22:18:30: [G_Auto 1] :  Store Value (Shared) for market: pl = -3.9
+3/26/2022 22:18:30: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.44
+3/26/2022 22:18:30: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.35
+3/26/2022 22:18:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:18:36: [G_Auto 1] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 1; sets: 1 
+3/26/2022 22:18:36: [G_Auto 1] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:0
+3/26/2022 22:18:36: [G_Auto 1] :  Store Text Value (Shared) for Mikhail Kukushkin: bPoints = point: 0; games: 1; sets: 1 
+3/26/2022 22:18:36: [G_Auto 1] :  Store Text Value (Shared) for Mikhail Kukushkin: bServing = serving:2
+3/26/2022 22:18:36: [G_Auto 1] :  Store Value (Shared) for market: price = 1.43
+3/26/2022 22:18:36: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 513.55
+3/26/2022 22:18:36: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 509.64
+3/26/2022 22:18:36: [G_Auto 1] :  Store Value (Shared) for market: stake = 14.83
+3/26/2022 22:18:36: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 1023.19
+3/26/2022 22:18:36: [G_Auto 1] :  Store Value (Shared) for market: pl = -3.9
+3/26/2022 22:18:36: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.44
+3/26/2022 22:18:36: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.25
+3/26/2022 22:18:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:18:58: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 22:19:15: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 22:21:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:21:49: [G_Auto 2] :  € 14.55 Lay bet placed on Taylor Fritz at 1.55. Fully matched at 1.54.  Ref: 10207          ( Fill or kill bet with 15 seconds delay.   )
+3/26/2022 22:21:49: [G_Auto 1] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 1; sets: 1 
+3/26/2022 22:21:49: [G_Auto 1] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:1
+3/26/2022 22:21:49: [G_Auto 1] :  Store Text Value (Shared) for Mikhail Kukushkin: bPoints = point: 0; games: 2; sets: 1 
+3/26/2022 22:21:49: [G_Auto 1] :  Store Text Value (Shared) for Mikhail Kukushkin: bServing = serving:0
+3/26/2022 22:21:49: [G_Auto 1] :  Store Value (Shared) for market: price = 1.54
+3/26/2022 22:21:49: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 513.55
+3/26/2022 22:21:49: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 524.19
+3/26/2022 22:21:49: [G_Auto 1] :  Store Value (Shared) for market: stake = 14.55
+3/26/2022 22:21:49: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 1037.74
+3/26/2022 22:21:49: [G_Auto 1] :  Store Value (Shared) for market: pl = -4
+3/26/2022 22:21:49: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.53
+3/26/2022 22:21:49: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.84
+3/26/2022 22:21:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:22:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:22:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:22:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:22:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:23:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:23:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:23:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:23:54: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 22:24:11: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 22:25:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:25:53: [G_Auto 2] :  Placed closure bet with greening on Taylor Fritz by Backing 15.78 at 1.42
+3/26/2022 22:25:54: [G_Auto 1] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 2; sets: 1 
+3/26/2022 22:25:54: [G_Auto 1] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:0
+3/26/2022 22:25:54: [G_Auto 1] :  Store Text Value (Shared) for Mikhail Kukushkin: bPoints = point: 0; games: 2; sets: 1 
+3/26/2022 22:25:54: [G_Auto 1] :  Store Text Value (Shared) for Mikhail Kukushkin: bServing = serving:2
+3/26/2022 22:25:54: [G_Auto 1] :  Store Value (Shared) for market: price = 1.42
+3/26/2022 22:25:54: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 529.33
+3/26/2022 22:25:54: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 524.19
+3/26/2022 22:25:54: [G_Auto 1] :  Store Value (Shared) for market: stake = 15.78
+3/26/2022 22:25:54: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 1053.52
+3/26/2022 22:25:54: [G_Auto 1] :  Store Value (Shared) for market: pl = -5.13
+3/26/2022 22:25:54: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.44
+3/26/2022 22:25:54: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.25
+3/26/2022 22:25:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:26:00: [G_Auto 1] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 2; sets: 1 
+3/26/2022 22:26:00: [G_Auto 1] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:0
+3/26/2022 22:26:00: [G_Auto 1] :  Store Text Value (Shared) for Mikhail Kukushkin: bPoints = point: 0; games: 2; sets: 1 
+3/26/2022 22:26:00: [G_Auto 1] :  Store Text Value (Shared) for Mikhail Kukushkin: bServing = serving:2
+3/26/2022 22:26:00: [G_Auto 1] :  Store Value (Shared) for market: price = 1.42
+3/26/2022 22:26:00: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 529.33
+3/26/2022 22:26:00: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 524.19
+3/26/2022 22:26:00: [G_Auto 1] :  Store Value (Shared) for market: stake = 15.78
+3/26/2022 22:26:00: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 1053.52
+3/26/2022 22:26:00: [G_Auto 1] :  Store Value (Shared) for market: pl = -5.13
+3/26/2022 22:26:00: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.44
+3/26/2022 22:26:00: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.25
+3/26/2022 22:26:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:26:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:26:40: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 22:26:57: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 22:27:13: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 22:34:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:34:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:35:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:35:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:35:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:35:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:36:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:36:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:36:34: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 22:36:49: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 22:38:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:38:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:38:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:38:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:39:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:39:16: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 22:39:32: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 22:39:49: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 22:42:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:42:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:42:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:43:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:43:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:43:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:44:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:44:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:44:29: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 22:44:44: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 22:45:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:46:06: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:46:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:46:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:46:49: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 22:47:06: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 22:47:22: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+3/26/2022 22:49:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+3/26/2022 22:49:23:  Guardian has detected that the market is suspended

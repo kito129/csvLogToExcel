@@ -1,0 +1,309 @@
+3/28/2022 14:17:43: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: info = marketName: Sasnovich v Bencic - Match Odds; runnerA: Aliaksandra Sasnovich; runnerB: Belinda Bencic 
+3/28/2022 14:17:43: [G_Auto 2] :  Store Value (Shared) for market: aId = 7283310
+3/28/2022 14:17:43: [G_Auto 2] :  Store Value (Shared) for market: bId = 6390244
+3/28/2022 22:17:15:  Guardian has detected that the market is in-play
+3/28/2022 22:17:15:  Guardian has detected that the market is suspended
+3/28/2022 22:17:17: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 2.5; bBsp: 1.65; volume: 119617.02 
+3/28/2022 22:17:17: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 2.5; bBsp: 1.65; volume: 119617.02 
+3/28/2022 22:17:17:  Guardian has detected that the market is now unsuspended
+3/28/2022 22:17:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 22:17:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 22:17:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 22:19:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:19:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:19:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:19:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:20:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:20:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:20:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 22:20:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 22:25:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:26:12: [G_Auto 1] :  € 13.79 Lay bet placed on Belinda Bencic at 1.58. Fully matched at 1.57.  Ref: 10209          ( Fill or kill bet with 15 seconds delay.   )
+3/28/2022 22:26:14: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aPoints = point: 0; games: 1; sets: 0 
+3/28/2022 22:26:14: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aServing = serving:0
+3/28/2022 22:26:14: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bPoints = point: 0; games: 1; sets: 0 
+3/28/2022 22:26:14: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bServing = serving:2
+3/28/2022 22:26:14: [G_Auto 2] :  Store Value (Shared) for market: price = 1.57
+3/28/2022 22:26:14: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+3/28/2022 22:26:14: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 13.79
+3/28/2022 22:26:14: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.79
+3/28/2022 22:26:14: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 13.79
+3/28/2022 22:26:14: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.09
+3/28/2022 22:26:14: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.8
+3/28/2022 22:26:14: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.57
+3/28/2022 22:26:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:26:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:26:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:26:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 22:27:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 22:28:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:28:49: [G_Auto 1] :  Placed closure bet with greening on Belinda Bencic by Backing 10.88 at 1.99
+3/28/2022 22:28:49: [G_Auto 1] :  € 8.08 Lay bet placed on Aliaksandra Sasnovich at 1.99. Entirely unmatched when it initially reached the market.   Ref: 10212          ( Fill or kill bet with 15 seconds delay.   )
+3/28/2022 22:28:51: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aPoints = point: 0; games: 2; sets: 0 
+3/28/2022 22:28:51: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aServing = serving:1
+3/28/2022 22:28:51: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bPoints = point: 0; games: 1; sets: 0 
+3/28/2022 22:28:51: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bServing = serving:0
+3/28/2022 22:28:51: [G_Auto 2] :  Store Value (Shared) for market: price = 2
+3/28/2022 22:28:51: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 10.88
+3/28/2022 22:28:51: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 13.79
+3/28/2022 22:28:51: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.88
+3/28/2022 22:28:51: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 24.67
+3/28/2022 22:28:51: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.9
+3/28/2022 22:28:51: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2
+3/28/2022 22:28:51: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.02
+3/28/2022 22:28:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:29:04: [G_Auto 1] :  € 8.08 of unmatched bet (Ref:10212) was filled before remainder was killed.
+3/28/2022 22:29:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:29:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:29:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:29:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:30:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:30:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:30:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:30:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 22:31:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 22:36:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:37:04: [G_Auto 1] :  € 12.70 Lay bet placed on Belinda Bencic at 1.63. Fully matched at 1.62.  Ref: 10216          ( Fill or kill bet with 15 seconds delay.   )
+3/28/2022 22:37:04: [G_Auto 1] :  Placed closure bet with greening on Aliaksandra Sasnovich by Backing 6.18 at 2.6
+3/28/2022 22:37:06: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aPoints = point: 0; games: 2; sets: 0 
+3/28/2022 22:37:06: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aServing = serving:0
+3/28/2022 22:37:06: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bPoints = point: 0; games: 2; sets: 0 
+3/28/2022 22:37:06: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bServing = serving:2
+3/28/2022 22:37:06: [G_Auto 2] :  Store Value (Shared) for market: price = 2.6
+3/28/2022 22:37:06: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 17.06
+3/28/2022 22:37:06: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 34.57
+3/28/2022 22:37:06: [G_Auto 2] :  Store Value (Shared) for market: stake = 6.18
+3/28/2022 22:37:06: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 51.63
+3/28/2022 22:37:06: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.69
+3/28/2022 22:37:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.6
+3/28/2022 22:37:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.62
+3/28/2022 22:37:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:37:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:37:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 22:37:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 22:40:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:40:15: [G_Auto 1] :  Placed closure bet with greening on Belinda Bencic by Backing 13.83 at 1.48
+3/28/2022 22:40:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:40:18: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aPoints = point: 0; games: 2; sets: 0 
+3/28/2022 22:40:18: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aServing = serving:1
+3/28/2022 22:40:18: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bPoints = point: 0; games: 3; sets: 0 
+3/28/2022 22:40:18: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bServing = serving:0
+3/28/2022 22:40:18: [G_Auto 2] :  Store Value (Shared) for market: price = 1.48
+3/28/2022 22:40:18: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 30.89
+3/28/2022 22:40:18: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 34.57
+3/28/2022 22:40:18: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.83
+3/28/2022 22:40:18: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 65.46
+3/28/2022 22:40:18: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.6
+3/28/2022 22:40:18: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.05
+3/28/2022 22:40:18: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.49
+3/28/2022 22:40:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:40:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:41:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:41:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:41:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:41:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:42:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 22:42:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 22:44:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:44:31: [G_Auto 1] :  € 28.57 Lay bet placed on Belinda Bencic at 1.28. Fully matched at 1.27.  Ref: 10221          ( Fill or kill bet with 15 seconds delay.   )
+3/28/2022 22:44:32: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aPoints = point: 0; games: 2; sets: 0 
+3/28/2022 22:44:32: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aServing = serving:0
+3/28/2022 22:44:32: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bPoints = point: 0; games: 4; sets: 0 
+3/28/2022 22:44:32: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bServing = serving:2
+3/28/2022 22:44:32: [G_Auto 2] :  Store Value (Shared) for market: price = 1.27
+3/28/2022 22:44:32: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 30.89
+3/28/2022 22:44:32: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 63.14
+3/28/2022 22:44:32: [G_Auto 2] :  Store Value (Shared) for market: stake = 28.57
+3/28/2022 22:44:32: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 94.03
+3/28/2022 22:44:32: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.38
+3/28/2022 22:44:32: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.7
+3/28/2022 22:44:32: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.27
+3/28/2022 22:44:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:44:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:45:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 22:45:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 22:47:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:47:54: [G_Auto 1] :  Placed closure bet with greening on Belinda Bencic by Backing 29.98 at 1.21
+3/28/2022 22:47:56: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aPoints = point: 0; games: 2; sets: 0 
+3/28/2022 22:47:56: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aServing = serving:1
+3/28/2022 22:47:56: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bPoints = point: 0; games: 5; sets: 0 
+3/28/2022 22:47:56: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bServing = serving:0
+3/28/2022 22:47:56: [G_Auto 2] :  Store Value (Shared) for market: price = 1.21
+3/28/2022 22:47:56: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 60.87
+3/28/2022 22:47:56: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 63.14
+3/28/2022 22:47:56: [G_Auto 2] :  Store Value (Shared) for market: stake = 29.98
+3/28/2022 22:47:56: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 124.01
+3/28/2022 22:47:56: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.21
+3/28/2022 22:47:56: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 5.7
+3/28/2022 22:47:56: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.22
+3/28/2022 22:47:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:48:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:48:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:48:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:49:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:49:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:49:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:49:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:49:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 22:50:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 22:50:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 22:54:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:54:49: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 7.2
+3/28/2022 22:54:49: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 1.15
+3/28/2022 22:54:52: [G_Auto 1] :  € 47.06 Lay bet placed on Belinda Bencic at 1.17. Fully matched at 1.16.  Ref: 10226          ( Fill or kill bet with 15 seconds delay.   )
+3/28/2022 22:54:53: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aPoints = point: 0; games: 0; sets: 0 
+3/28/2022 22:54:53: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aServing = serving:0
+3/28/2022 22:54:53: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bPoints = point: 0; games: 0; sets: 1 
+3/28/2022 22:54:53: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bServing = serving:2
+3/28/2022 22:54:53: [G_Auto 2] :  Store Value (Shared) for market: price = 1.16
+3/28/2022 22:54:53: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 60.87
+3/28/2022 22:54:53: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 110.2
+3/28/2022 22:54:53: [G_Auto 2] :  Store Value (Shared) for market: stake = 47.06
+3/28/2022 22:54:53: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 171.07
+3/28/2022 22:54:53: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.81
+3/28/2022 22:54:53: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 7.2
+3/28/2022 22:54:53: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.16
+3/28/2022 22:54:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:55:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:55:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:55:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:55:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:56:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:56:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:56:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:57:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:57:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:57:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:57:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 22:58:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 22:59:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:59:43: [G_Auto 1] :  Placed closure bet with greening on Belinda Bencic by Backing 49.63 at 1.1
+3/28/2022 22:59:44: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aPoints = point: 0; games: 0; sets: 0 
+3/28/2022 22:59:44: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aServing = serving:1
+3/28/2022 22:59:44: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bPoints = point: 0; games: 1; sets: 1 
+3/28/2022 22:59:44: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bServing = serving:0
+3/28/2022 22:59:44: [G_Auto 2] :  Store Value (Shared) for market: price = 1.1
+3/28/2022 22:59:44: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 110.5
+3/28/2022 22:59:44: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 110.2
+3/28/2022 22:59:44: [G_Auto 2] :  Store Value (Shared) for market: stake = 49.63
+3/28/2022 22:59:44: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 220.7
+3/28/2022 22:59:44: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.31
+3/28/2022 22:59:44: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 10.5
+3/28/2022 22:59:44: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.11
+3/28/2022 22:59:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 22:59:50: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aPoints = point: 0; games: 0; sets: 0 
+3/28/2022 22:59:50: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aServing = serving:1
+3/28/2022 22:59:50: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bPoints = point: 0; games: 1; sets: 1 
+3/28/2022 22:59:50: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bServing = serving:0
+3/28/2022 22:59:50: [G_Auto 2] :  Store Value (Shared) for market: price = 1.1
+3/28/2022 22:59:50: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 110.5
+3/28/2022 22:59:50: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 110.2
+3/28/2022 22:59:50: [G_Auto 2] :  Store Value (Shared) for market: stake = 49.63
+3/28/2022 22:59:50: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 220.7
+3/28/2022 22:59:50: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.31
+3/28/2022 22:59:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 10.5
+3/28/2022 22:59:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.1
+3/28/2022 23:00:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:00:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:00:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:00:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 23:00:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 23:01:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 23:02:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:03:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:03:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:03:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 23:03:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 23:09:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:09:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:10:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:10:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:10:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:11:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:11:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:11:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:11:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:12:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:12:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 23:12:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 23:12:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 23:15:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:15:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:17:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:17:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:17:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 23:17:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 23:20:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:20:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:21:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:21:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:21:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:21:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:22:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:22:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:22:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 23:22:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 23:24:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:24:46: [G_Auto 1] :  € 32.00 Lay bet placed on Belinda Bencic at 1.25. Fully matched at 1.24.  Ref: 10233          ( Fill or kill bet with 15 seconds delay.   )
+3/28/2022 23:24:48: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aPoints = point: 0; games: 3; sets: 0 
+3/28/2022 23:24:48: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aServing = serving:0
+3/28/2022 23:24:48: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bPoints = point: 0; games: 3; sets: 1 
+3/28/2022 23:24:48: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bServing = serving:2
+3/28/2022 23:24:48: [G_Auto 2] :  Store Value (Shared) for market: price = 1.24
+3/28/2022 23:24:48: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 110.5
+3/28/2022 23:24:48: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 142.2
+3/28/2022 23:24:48: [G_Auto 2] :  Store Value (Shared) for market: stake = 32
+3/28/2022 23:24:48: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 252.7
+3/28/2022 23:24:48: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.57
+3/28/2022 23:24:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 5.4
+3/28/2022 23:24:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.24
+3/28/2022 23:24:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:25:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:25:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:25:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 23:25:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 23:26:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:27:12: [G_Auto 1] :  Placed closure bet with greening on Belinda Bencic by Backing 34.81 at 1.14
+3/28/2022 23:27:14: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aPoints = point: 0; games: 3; sets: 0 
+3/28/2022 23:27:14: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aServing = serving:1
+3/28/2022 23:27:14: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bPoints = point: 0; games: 4; sets: 1 
+3/28/2022 23:27:14: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bServing = serving:0
+3/28/2022 23:27:14: [G_Auto 2] :  Store Value (Shared) for market: price = 1.14
+3/28/2022 23:27:14: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 145.31
+3/28/2022 23:27:14: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 142.2
+3/28/2022 23:27:14: [G_Auto 2] :  Store Value (Shared) for market: stake = 34.81
+3/28/2022 23:27:14: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 287.51
+3/28/2022 23:27:14: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.12
+3/28/2022 23:27:14: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 7.6
+3/28/2022 23:27:14: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.14
+3/28/2022 23:27:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:27:20: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aPoints = point: 0; games: 3; sets: 0 
+3/28/2022 23:27:20: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aServing = serving:1
+3/28/2022 23:27:20: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bPoints = point: 0; games: 4; sets: 1 
+3/28/2022 23:27:20: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bServing = serving:0
+3/28/2022 23:27:20: [G_Auto 2] :  Store Value (Shared) for market: price = 1.14
+3/28/2022 23:27:20: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 145.31
+3/28/2022 23:27:20: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 142.2
+3/28/2022 23:27:20: [G_Auto 2] :  Store Value (Shared) for market: stake = 34.81
+3/28/2022 23:27:20: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 287.51
+3/28/2022 23:27:20: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.12
+3/28/2022 23:27:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 7.6
+3/28/2022 23:27:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.14
+3/28/2022 23:27:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:27:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:28:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:28:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:28:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:28:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:29:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 23:29:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 23:31:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:31:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:31:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:32:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:32:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:32:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 23:32:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 23:32:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/28/2022 23:36:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/28/2022 23:36:23:  Guardian has detected that the market is suspended
