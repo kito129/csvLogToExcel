@@ -1,0 +1,403 @@
+3/29/2022 12:25:47: [G_Auto 2] :  Store Text Value (Shared) for Mayar Sherif: info = marketName: Ma Sherif v Blinkova - Match Odds; runnerA: Mayar Sherif; runnerB: Anna Blinkova 
+3/29/2022 12:25:47: [G_Auto 2] :  Store Value (Shared) for market: aId = 9028621
+3/29/2022 12:25:47: [G_Auto 2] :  Store Value (Shared) for market: bId = 9635244
+3/29/2022 17:55:52:  Guardian has detected that the market is in-play
+3/29/2022 17:55:52:  Guardian has detected that the market is suspended
+3/29/2022 17:55:55: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.72; bBsp: 2.28; volume: 584.22 
+3/29/2022 17:55:55: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.72; bBsp: 2.28; volume: 584.22 
+3/29/2022 17:55:55:  Guardian has detected that the market is now unsuspended
+3/29/2022 17:55:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 17:56:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 17:56:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 18:01:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:01:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:02:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:02:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:02:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:02:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:03:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 18:03:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 18:04:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:04:41: [G_Auto 1] :  € 8.79 Lay bet placed on Mayar Sherif at 1.91. Fully matched at 1.9.  Ref: 10413          ( Fill or kill bet with 15 seconds delay.   )
+3/29/2022 18:04:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:04:44: [G_Auto 2] :  Store Text Value (Shared) for Mayar Sherif: aPoints = point: 0; games: 1; sets: 0 
+3/29/2022 18:04:44: [G_Auto 2] :  Store Text Value (Shared) for Mayar Sherif: aServing = serving:1
+3/29/2022 18:04:44: [G_Auto 2] :  Store Text Value (Shared) for Anna Blinkova: bPoints = point: 0; games: 1; sets: 0 
+3/29/2022 18:04:44: [G_Auto 2] :  Store Text Value (Shared) for Anna Blinkova: bServing = serving:0
+3/29/2022 18:04:44: [G_Auto 2] :  Store Value (Shared) for market: price = 1.9
+3/29/2022 18:04:44: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+3/29/2022 18:04:44: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 8.79
+3/29/2022 18:04:44: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.79
+3/29/2022 18:04:44: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 8.79
+3/29/2022 18:04:44: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.05
+3/29/2022 18:04:44: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.89
+3/29/2022 18:04:44: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.12
+3/29/2022 18:05:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:05:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 18:05:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 18:07:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:07:27: [G_Auto 1] :  Placed closure bet with greening on Mayar Sherif by Backing 10.12 at 1.65
+3/29/2022 18:07:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:07:29: [G_Auto 2] :  Store Text Value (Shared) for Mayar Sherif: aPoints = point: 0; games: 2; sets: 0 
+3/29/2022 18:07:29: [G_Auto 2] :  Store Text Value (Shared) for Mayar Sherif: aServing = serving:0
+3/29/2022 18:07:29: [G_Auto 2] :  Store Text Value (Shared) for Anna Blinkova: bPoints = point: 0; games: 1; sets: 0 
+3/29/2022 18:07:29: [G_Auto 2] :  Store Text Value (Shared) for Anna Blinkova: bServing = serving:2
+3/29/2022 18:07:29: [G_Auto 2] :  Store Value (Shared) for market: price = 1.65
+3/29/2022 18:07:29: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 10.12
+3/29/2022 18:07:29: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 8.79
+3/29/2022 18:07:29: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.12
+3/29/2022 18:07:29: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 18.91
+3/29/2022 18:07:29: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.33
+3/29/2022 18:07:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.67
+3/29/2022 18:07:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.46
+3/29/2022 18:07:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:08:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:08:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:08:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:08:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:09:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:09:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:09:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 18:11:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:11:52: [G_Auto 1] :  € 20.00 Lay bet placed on Mayar Sherif at 1.4. Fully matched at 1.39.  Ref: 10416          ( Fill or kill bet with 15 seconds delay.   )
+3/29/2022 18:11:54: [G_Auto 2] :  Store Text Value (Shared) for Mayar Sherif: aPoints = point: 0; games: 3; sets: 0 
+3/29/2022 18:11:54: [G_Auto 2] :  Store Text Value (Shared) for Mayar Sherif: aServing = serving:1
+3/29/2022 18:11:54: [G_Auto 2] :  Store Text Value (Shared) for Anna Blinkova: bPoints = point: 0; games: 1; sets: 0 
+3/29/2022 18:11:54: [G_Auto 2] :  Store Text Value (Shared) for Anna Blinkova: bServing = serving:0
+3/29/2022 18:11:54: [G_Auto 2] :  Store Value (Shared) for market: price = 1.39
+3/29/2022 18:11:54: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 10.12
+3/29/2022 18:11:54: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 28.79
+3/29/2022 18:11:54: [G_Auto 2] :  Store Value (Shared) for market: stake = 20
+3/29/2022 18:11:54: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 38.91
+3/29/2022 18:11:54: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.48
+3/29/2022 18:11:54: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.38
+3/29/2022 18:11:54: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.8
+3/29/2022 18:11:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:11:59: [G_Auto 2] :  Store Text Value (Shared) for Mayar Sherif: aPoints = point: 0; games: 3; sets: 0 
+3/29/2022 18:11:59: [G_Auto 2] :  Store Text Value (Shared) for Mayar Sherif: aServing = serving:1
+3/29/2022 18:11:59: [G_Auto 2] :  Store Text Value (Shared) for Anna Blinkova: bPoints = point: 0; games: 1; sets: 0 
+3/29/2022 18:11:59: [G_Auto 2] :  Store Text Value (Shared) for Anna Blinkova: bServing = serving:0
+3/29/2022 18:11:59: [G_Auto 2] :  Store Value (Shared) for market: price = 1.39
+3/29/2022 18:11:59: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 10.12
+3/29/2022 18:11:59: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 28.79
+3/29/2022 18:11:59: [G_Auto 2] :  Store Value (Shared) for market: stake = 20
+3/29/2022 18:11:59: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 38.91
+3/29/2022 18:11:59: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.77
+3/29/2022 18:11:59: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.36
+3/29/2022 18:11:59: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.8
+3/29/2022 18:12:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:12:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 18:12:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 18:13:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 18:14:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:15:01: [G_Auto 1] :  Placed closure bet with greening on Mayar Sherif by Backing 21.55 at 1.29
+3/29/2022 18:15:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:15:03: [G_Auto 2] :  Store Text Value (Shared) for Mayar Sherif: aPoints = point: 0; games: 4; sets: 0 
+3/29/2022 18:15:03: [G_Auto 2] :  Store Text Value (Shared) for Mayar Sherif: aServing = serving:0
+3/29/2022 18:15:03: [G_Auto 2] :  Store Text Value (Shared) for Anna Blinkova: bPoints = point: 0; games: 1; sets: 0 
+3/29/2022 18:15:03: [G_Auto 2] :  Store Text Value (Shared) for Anna Blinkova: bServing = serving:2
+3/29/2022 18:15:03: [G_Auto 2] :  Store Value (Shared) for market: price = 1.29
+3/29/2022 18:15:03: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 31.67
+3/29/2022 18:15:03: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 28.79
+3/29/2022 18:15:03: [G_Auto 2] :  Store Value (Shared) for market: stake = 21.55
+3/29/2022 18:15:03: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 60.46
+3/29/2022 18:15:03: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.88
+3/29/2022 18:15:03: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.3
+3/29/2022 18:15:03: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.1
+3/29/2022 18:15:11: [G_Auto 2] :  Store Text Value (Shared) for Mayar Sherif: aPoints = point: 0; games: 4; sets: 0 
+3/29/2022 18:15:11: [G_Auto 2] :  Store Text Value (Shared) for Mayar Sherif: aServing = serving:0
+3/29/2022 18:15:11: [G_Auto 2] :  Store Text Value (Shared) for Anna Blinkova: bPoints = point: 0; games: 1; sets: 0 
+3/29/2022 18:15:11: [G_Auto 2] :  Store Text Value (Shared) for Anna Blinkova: bServing = serving:2
+3/29/2022 18:15:11: [G_Auto 2] :  Store Value (Shared) for market: price = 1.29
+3/29/2022 18:15:11: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 31.67
+3/29/2022 18:15:11: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 28.79
+3/29/2022 18:15:11: [G_Auto 2] :  Store Value (Shared) for market: stake = 21.55
+3/29/2022 18:15:11: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 60.46
+3/29/2022 18:15:11: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.88
+3/29/2022 18:15:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.3
+3/29/2022 18:15:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.1
+3/29/2022 18:15:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:15:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:15:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:16:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:16:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:16:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:17:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:17:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 18:17:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 18:19:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:19:54: [G_Auto 1] :  € 21.05 Lay bet placed on Mayar Sherif at 1.38. Fully matched at 1.37.  Ref: 10419          ( Fill or kill bet with 15 seconds delay.   )
+3/29/2022 18:19:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:19:55: [G_Auto 2] :  Store Text Value (Shared) for Mayar Sherif: aPoints = point: 0; games: 4; sets: 0 
+3/29/2022 18:19:55: [G_Auto 2] :  Store Text Value (Shared) for Mayar Sherif: aServing = serving:1
+3/29/2022 18:19:55: [G_Auto 2] :  Store Text Value (Shared) for Anna Blinkova: bPoints = point: 0; games: 2; sets: 0 
+3/29/2022 18:19:55: [G_Auto 2] :  Store Text Value (Shared) for Anna Blinkova: bServing = serving:0
+3/29/2022 18:19:55: [G_Auto 2] :  Store Value (Shared) for market: price = 1.37
+3/29/2022 18:19:55: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 31.67
+3/29/2022 18:19:55: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 49.84
+3/29/2022 18:19:55: [G_Auto 2] :  Store Value (Shared) for market: stake = 21.05
+3/29/2022 18:19:55: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 81.51
+3/29/2022 18:19:55: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.35
+3/29/2022 18:19:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.36
+3/29/2022 18:19:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.8
+3/29/2022 18:20:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:20:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 18:20:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 18:20:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 18:23:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:23:40: [G_Auto 1] :  Placed closure bet with greening on Mayar Sherif by Backing 22.89 at 1.26
+3/29/2022 18:23:42: [G_Auto 2] :  Store Text Value (Shared) for Mayar Sherif: aPoints = point: 0; games: 5; sets: 0 
+3/29/2022 18:23:42: [G_Auto 2] :  Store Text Value (Shared) for Mayar Sherif: aServing = serving:0
+3/29/2022 18:23:42: [G_Auto 2] :  Store Text Value (Shared) for Anna Blinkova: bPoints = point: 0; games: 2; sets: 0 
+3/29/2022 18:23:42: [G_Auto 2] :  Store Text Value (Shared) for Anna Blinkova: bServing = serving:2
+3/29/2022 18:23:42: [G_Auto 2] :  Store Value (Shared) for market: price = 1.26
+3/29/2022 18:23:42: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 54.56
+3/29/2022 18:23:42: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 49.84
+3/29/2022 18:23:42: [G_Auto 2] :  Store Value (Shared) for market: stake = 22.89
+3/29/2022 18:23:42: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 104.4
+3/29/2022 18:23:42: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.72
+3/29/2022 18:23:42: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.27
+3/29/2022 18:23:42: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.5
+3/29/2022 18:23:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:24:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:24:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:24:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:24:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:24:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 18:25:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 18:26:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:26:44: [G_Auto 1] :  € 23.53 Lay bet placed on Mayar Sherif at 1.34. Fully matched at 1.33.  Ref: 10424          ( Fill or kill bet with 15 seconds delay.   )
+3/29/2022 18:26:46: [G_Auto 2] :  Store Text Value (Shared) for Mayar Sherif: aPoints = point: 0; games: 5; sets: 0 
+3/29/2022 18:26:46: [G_Auto 2] :  Store Text Value (Shared) for Mayar Sherif: aServing = serving:1
+3/29/2022 18:26:46: [G_Auto 2] :  Store Text Value (Shared) for Anna Blinkova: bPoints = point: 0; games: 3; sets: 0 
+3/29/2022 18:26:46: [G_Auto 2] :  Store Text Value (Shared) for Anna Blinkova: bServing = serving:0
+3/29/2022 18:26:46: [G_Auto 2] :  Store Value (Shared) for market: price = 1.33
+3/29/2022 18:26:46: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 54.56
+3/29/2022 18:26:46: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 73.37
+3/29/2022 18:26:46: [G_Auto 2] :  Store Value (Shared) for market: stake = 23.53
+3/29/2022 18:26:46: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 127.93
+3/29/2022 18:26:46: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.9
+3/29/2022 18:26:46: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.32
+3/29/2022 18:26:46: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.6
+3/29/2022 18:26:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:27:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:27:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:27:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 18:27:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 18:32:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:32:57: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 1.27
+3/29/2022 18:32:57: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 4.7
+3/29/2022 18:33:00: [G_Auto 1] :  Placed closure bet with greening on Mayar Sherif by Backing 24.64 at 1.27
+3/29/2022 18:33:02: [G_Auto 2] :  Store Text Value (Shared) for Mayar Sherif: aPoints = point: 0; games: 0; sets: 1 
+3/29/2022 18:33:02: [G_Auto 2] :  Store Text Value (Shared) for Mayar Sherif: aServing = serving:0
+3/29/2022 18:33:02: [G_Auto 2] :  Store Text Value (Shared) for Anna Blinkova: bPoints = point: 0; games: 0; sets: 0 
+3/29/2022 18:33:02: [G_Auto 2] :  Store Text Value (Shared) for Anna Blinkova: bServing = serving:2
+3/29/2022 18:33:02: [G_Auto 2] :  Store Value (Shared) for market: price = 1.27
+3/29/2022 18:33:02: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 79.2
+3/29/2022 18:33:02: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 73.37
+3/29/2022 18:33:02: [G_Auto 2] :  Store Value (Shared) for market: stake = 24.64
+3/29/2022 18:33:02: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 152.57
+3/29/2022 18:33:02: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.83
+3/29/2022 18:33:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.28
+3/29/2022 18:33:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.7
+3/29/2022 18:33:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:33:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:33:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:33:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:34:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:34:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:34:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:34:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:35:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:35:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 18:35:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 18:35:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 18:38:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:38:45: [G_Auto 1] :  € 53.33 Lay bet placed on Mayar Sherif at 1.15. Fully matched at 1.14.  Ref: 10430          ( Fill or kill bet with 15 seconds delay.   )
+3/29/2022 18:38:47: [G_Auto 2] :  Store Text Value (Shared) for Mayar Sherif: aPoints = point: 0; games: 1; sets: 1 
+3/29/2022 18:38:47: [G_Auto 2] :  Store Text Value (Shared) for Mayar Sherif: aServing = serving:1
+3/29/2022 18:38:47: [G_Auto 2] :  Store Text Value (Shared) for Anna Blinkova: bPoints = point: 0; games: 0; sets: 0 
+3/29/2022 18:38:47: [G_Auto 2] :  Store Text Value (Shared) for Anna Blinkova: bServing = serving:0
+3/29/2022 18:38:47: [G_Auto 2] :  Store Value (Shared) for market: price = 1.14
+3/29/2022 18:38:47: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 79.2
+3/29/2022 18:38:47: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 126.7
+3/29/2022 18:38:47: [G_Auto 2] :  Store Value (Shared) for market: stake = 53.33
+3/29/2022 18:38:47: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 205.9
+3/29/2022 18:38:47: [G_Auto 2] :  Store Value (Shared) for market: pl = -6.78
+3/29/2022 18:38:47: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.14
+3/29/2022 18:38:47: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 8.2
+3/29/2022 18:38:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:39:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:39:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:39:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 18:39:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 18:40:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 18:42:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:42:35: [G_Auto 1] :  Placed closure bet with greening on Mayar Sherif by Backing 47.13 at 1.29
+3/29/2022 18:42:37: [G_Auto 2] :  Store Text Value (Shared) for Mayar Sherif: aPoints = point: 0; games: 1; sets: 1 
+3/29/2022 18:42:37: [G_Auto 2] :  Store Text Value (Shared) for Mayar Sherif: aServing = serving:0
+3/29/2022 18:42:37: [G_Auto 2] :  Store Text Value (Shared) for Anna Blinkova: bPoints = point: 0; games: 1; sets: 0 
+3/29/2022 18:42:37: [G_Auto 2] :  Store Text Value (Shared) for Anna Blinkova: bServing = serving:2
+3/29/2022 18:42:37: [G_Auto 2] :  Store Value (Shared) for market: price = 1.29
+3/29/2022 18:42:37: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 126.33
+3/29/2022 18:42:37: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 126.7
+3/29/2022 18:42:37: [G_Auto 2] :  Store Value (Shared) for market: stake = 47.13
+3/29/2022 18:42:37: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 253.03
+3/29/2022 18:42:37: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.36
+3/29/2022 18:42:37: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.29
+3/29/2022 18:42:37: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.5
+3/29/2022 18:42:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:42:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:43:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 18:43:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 18:54:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:54:30: [G_Auto 1] :  € 20.51 Lay bet placed on Mayar Sherif at 1.39. Fully matched at 1.39.  Ref: 10439          ( Fill or kill bet with 15 seconds delay.   )
+3/29/2022 18:54:31: [G_Auto 2] :  Store Text Value (Shared) for Mayar Sherif: aPoints = point: 0; games: 1; sets: 1 
+3/29/2022 18:54:31: [G_Auto 2] :  Store Text Value (Shared) for Mayar Sherif: aServing = serving:1
+3/29/2022 18:54:31: [G_Auto 2] :  Store Text Value (Shared) for Anna Blinkova: bPoints = point: 0; games: 2; sets: 0 
+3/29/2022 18:54:31: [G_Auto 2] :  Store Text Value (Shared) for Anna Blinkova: bServing = serving:0
+3/29/2022 18:54:31: [G_Auto 2] :  Store Value (Shared) for market: price = 1.39
+3/29/2022 18:54:31: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 126.33
+3/29/2022 18:54:31: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 147.21
+3/29/2022 18:54:31: [G_Auto 2] :  Store Value (Shared) for market: stake = 20.51
+3/29/2022 18:54:31: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 273.54
+3/29/2022 18:54:31: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.07
+3/29/2022 18:54:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.37
+3/29/2022 18:54:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.6
+3/29/2022 18:54:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:54:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:55:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:55:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:55:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:55:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:56:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:56:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 18:56:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 18:58:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:58:47: [G_Auto 1] :  Placed closure bet with greening on Mayar Sherif by Backing 22.63 at 1.26
+3/29/2022 18:58:48: [G_Auto 2] :  Store Text Value (Shared) for Mayar Sherif: aPoints = point: 0; games: 2; sets: 1 
+3/29/2022 18:58:48: [G_Auto 2] :  Store Text Value (Shared) for Mayar Sherif: aServing = serving:0
+3/29/2022 18:58:48: [G_Auto 2] :  Store Text Value (Shared) for Anna Blinkova: bPoints = point: 0; games: 2; sets: 0 
+3/29/2022 18:58:48: [G_Auto 2] :  Store Text Value (Shared) for Anna Blinkova: bServing = serving:2
+3/29/2022 18:58:48: [G_Auto 2] :  Store Value (Shared) for market: price = 1.26
+3/29/2022 18:58:48: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 148.96
+3/29/2022 18:58:48: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 147.21
+3/29/2022 18:58:48: [G_Auto 2] :  Store Value (Shared) for market: stake = 22.63
+3/29/2022 18:58:48: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 296.17
+3/29/2022 18:58:48: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.75
+3/29/2022 18:58:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.28
+3/29/2022 18:58:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.8
+3/29/2022 18:58:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:59:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 18:59:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 18:59:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 19:01:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 19:02:10: [G_Auto 1] :  € 20.00 Lay bet placed on Mayar Sherif at 1.4. Fully matched at 1.39.  Ref: 10443          ( Fill or kill bet with 15 seconds delay.   )
+3/29/2022 19:02:11: [G_Auto 2] :  Store Text Value (Shared) for Mayar Sherif: aPoints = point: 0; games: 2; sets: 1 
+3/29/2022 19:02:11: [G_Auto 2] :  Store Text Value (Shared) for Mayar Sherif: aServing = serving:1
+3/29/2022 19:02:11: [G_Auto 2] :  Store Text Value (Shared) for Anna Blinkova: bPoints = point: 0; games: 3; sets: 0 
+3/29/2022 19:02:11: [G_Auto 2] :  Store Text Value (Shared) for Anna Blinkova: bServing = serving:0
+3/29/2022 19:02:11: [G_Auto 2] :  Store Value (Shared) for market: price = 1.39
+3/29/2022 19:02:11: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 148.96
+3/29/2022 19:02:11: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 167.21
+3/29/2022 19:02:11: [G_Auto 2] :  Store Value (Shared) for market: stake = 20
+3/29/2022 19:02:11: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 316.17
+3/29/2022 19:02:11: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.89
+3/29/2022 19:02:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.4
+3/29/2022 19:02:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.5
+3/29/2022 19:02:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 19:02:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 19:02:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 19:03:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 19:03:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 19:03:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 19:03:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 19:04:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 19:04:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 19:04:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 19:04:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 19:05:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 19:05:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 19:05:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 19:06:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 19:07:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 19:07:51: [G_Auto 1] :  Placed closure bet with greening on Mayar Sherif by Backing 21.72 at 1.28
+3/29/2022 19:07:52: [G_Auto 2] :  Store Text Value (Shared) for Mayar Sherif: aPoints = point: 0; games: 3; sets: 1 
+3/29/2022 19:07:52: [G_Auto 2] :  Store Text Value (Shared) for Mayar Sherif: aServing = serving:0
+3/29/2022 19:07:52: [G_Auto 2] :  Store Text Value (Shared) for Anna Blinkova: bPoints = point: 0; games: 3; sets: 0 
+3/29/2022 19:07:52: [G_Auto 2] :  Store Text Value (Shared) for Anna Blinkova: bServing = serving:2
+3/29/2022 19:07:52: [G_Auto 2] :  Store Value (Shared) for market: price = 1.28
+3/29/2022 19:07:52: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 170.68
+3/29/2022 19:07:52: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 167.21
+3/29/2022 19:07:52: [G_Auto 2] :  Store Value (Shared) for market: stake = 21.72
+3/29/2022 19:07:52: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 337.89
+3/29/2022 19:07:52: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.46
+3/29/2022 19:07:52: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.29
+3/29/2022 19:07:52: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.5
+3/29/2022 19:07:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 19:08:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 19:08:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 19:08:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 19:10:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 19:10:55: [G_Auto 1] :  € 19.05 Lay bet placed on Mayar Sherif at 1.42. Fully matched at 1.41.  Ref: 10449          ( Fill or kill bet with 15 seconds delay.   )
+3/29/2022 19:10:56: [G_Auto 2] :  Store Text Value (Shared) for Mayar Sherif: aPoints = point: 0; games: 3; sets: 1 
+3/29/2022 19:10:56: [G_Auto 2] :  Store Text Value (Shared) for Mayar Sherif: aServing = serving:1
+3/29/2022 19:10:56: [G_Auto 2] :  Store Text Value (Shared) for Anna Blinkova: bPoints = point: 0; games: 4; sets: 0 
+3/29/2022 19:10:56: [G_Auto 2] :  Store Text Value (Shared) for Anna Blinkova: bServing = serving:0
+3/29/2022 19:10:56: [G_Auto 2] :  Store Value (Shared) for market: price = 1.41
+3/29/2022 19:10:56: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 170.68
+3/29/2022 19:10:56: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 186.26
+3/29/2022 19:10:56: [G_Auto 2] :  Store Value (Shared) for market: stake = 19.05
+3/29/2022 19:10:56: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 356.94
+3/29/2022 19:10:56: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.74
+3/29/2022 19:10:56: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.4
+3/29/2022 19:10:56: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.5
+3/29/2022 19:10:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 19:11:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 19:11:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 19:11:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 19:12:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 19:12:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 19:14:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 19:14:24: [G_Auto 1] :  Placed closure bet with greening on Mayar Sherif by Backing 20.98 at 1.28
+3/29/2022 19:14:25: [G_Auto 2] :  Store Text Value (Shared) for Mayar Sherif: aPoints = point: 0; games: 4; sets: 1 
+3/29/2022 19:14:25: [G_Auto 2] :  Store Text Value (Shared) for Mayar Sherif: aServing = serving:0
+3/29/2022 19:14:25: [G_Auto 2] :  Store Text Value (Shared) for Anna Blinkova: bPoints = point: 0; games: 4; sets: 0 
+3/29/2022 19:14:25: [G_Auto 2] :  Store Text Value (Shared) for Anna Blinkova: bServing = serving:2
+3/29/2022 19:14:25: [G_Auto 2] :  Store Value (Shared) for market: price = 1.28
+3/29/2022 19:14:25: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 191.66
+3/29/2022 19:14:25: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 186.26
+3/29/2022 19:14:25: [G_Auto 2] :  Store Value (Shared) for market: stake = 20.98
+3/29/2022 19:14:25: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 377.92
+3/29/2022 19:14:25: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.4
+3/29/2022 19:14:25: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.29
+3/29/2022 19:14:25: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.35
+3/29/2022 19:14:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 19:14:32: [G_Auto 2] :  Store Text Value (Shared) for Mayar Sherif: aPoints = point: 0; games: 4; sets: 1 
+3/29/2022 19:14:32: [G_Auto 2] :  Store Text Value (Shared) for Mayar Sherif: aServing = serving:0
+3/29/2022 19:14:32: [G_Auto 2] :  Store Text Value (Shared) for Anna Blinkova: bPoints = point: 0; games: 4; sets: 0 
+3/29/2022 19:14:32: [G_Auto 2] :  Store Text Value (Shared) for Anna Blinkova: bServing = serving:2
+3/29/2022 19:14:32: [G_Auto 2] :  Store Value (Shared) for market: price = 1.28
+3/29/2022 19:14:32: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 191.66
+3/29/2022 19:14:32: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 186.26
+3/29/2022 19:14:32: [G_Auto 2] :  Store Value (Shared) for market: stake = 20.98
+3/29/2022 19:14:32: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 377.92
+3/29/2022 19:14:32: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.4
+3/29/2022 19:14:32: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.29
+3/29/2022 19:14:32: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.4
+3/29/2022 19:14:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 19:14:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 19:15:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 19:17:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 19:18:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 19:18:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 19:18:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 19:18:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 19:19:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 19:19:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 19:19:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 19:19:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 19:20:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 19:22:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 19:22:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 19:22:39:  Guardian has detected that the market is suspended

@@ -1,0 +1,804 @@
+3/29/2022 12:25:49: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: info = marketName: Cerundolo v Tiafoe - Match Odds; runnerA: Francisco Cerundolo; runnerB: Frances Tiafoe 
+3/29/2022 12:25:49: [G_Auto 2] :  Store Value (Shared) for market: aId = 11204210
+3/29/2022 12:25:49: [G_Auto 2] :  Store Value (Shared) for market: bId = 19924839
+3/29/2022 20:10:57:  Guardian has detected that the market is in-play
+3/29/2022 20:10:57:  Guardian has detected that the market is suspended
+3/29/2022 20:10:58: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 3.5; bBsp: 1.39; volume: 116133.17 
+3/29/2022 20:10:58: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 3.5; bBsp: 1.39; volume: 116133.17 
+3/29/2022 20:10:58:  Guardian has detected that the market is now unsuspended
+3/29/2022 20:10:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 20:11:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 20:11:12: [G_Auto 1] :  € 25.00 Lay bet placed on Frances Tiafoe at 1.32. Entirely unmatched when it initially reached the market.   Ref: 10475          ( Fill or kill bet with 15 seconds delay.   )
+3/29/2022 20:11:27: [G_Auto 1] :  € 25 unmatched bet (Ref:10475) was killed.
+3/29/2022 20:11:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 20:11:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 20:13:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 20:13:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 20:13:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 20:14:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 20:14:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 20:14:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 20:14:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 20:16:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 20:16:40: [G_Auto 1] :  € 18.60 Lay bet placed on Frances Tiafoe at 1.43. Fully matched at 1.43.  Ref: 10476          ( Fill or kill bet with 15 seconds delay.   )
+3/29/2022 20:16:40: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 1; sets: 0 
+3/29/2022 20:16:40: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:0
+3/29/2022 20:16:40: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: bPoints = point: 0; games: 1; sets: 0 
+3/29/2022 20:16:40: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: bServing = serving:2
+3/29/2022 20:16:40: [G_Auto 2] :  Store Value (Shared) for market: price = 1.43
+3/29/2022 20:16:40: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+3/29/2022 20:16:40: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 18.6
+3/29/2022 20:16:40: [G_Auto 2] :  Store Value (Shared) for market: stake = 18.6
+3/29/2022 20:16:40: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 18.6
+3/29/2022 20:16:40: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.26
+3/29/2022 20:16:40: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.5
+3/29/2022 20:16:40: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.41
+3/29/2022 20:16:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 20:16:46: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 1; sets: 0 
+3/29/2022 20:16:46: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:0
+3/29/2022 20:16:46: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: bPoints = point: 0; games: 1; sets: 0 
+3/29/2022 20:16:46: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: bServing = serving:2
+3/29/2022 20:16:46: [G_Auto 2] :  Store Value (Shared) for market: price = 1.43
+3/29/2022 20:16:46: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+3/29/2022 20:16:46: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 18.6
+3/29/2022 20:16:46: [G_Auto 2] :  Store Value (Shared) for market: stake = 18.6
+3/29/2022 20:16:46: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 18.6
+3/29/2022 20:16:46: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.26
+3/29/2022 20:16:46: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.45
+3/29/2022 20:16:46: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.41
+3/29/2022 20:16:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 20:17:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 20:17:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 20:17:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 20:21:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 20:21:32: [G_Auto 1] :  Placed closure bet with greening on Frances Tiafoe by Backing 19.14 at 1.39
+3/29/2022 20:21:34: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 1; sets: 0 
+3/29/2022 20:21:34: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:1
+3/29/2022 20:21:34: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: bPoints = point: 0; games: 2; sets: 0 
+3/29/2022 20:21:34: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: bServing = serving:0
+3/29/2022 20:21:34: [G_Auto 2] :  Store Value (Shared) for market: price = 1.39
+3/29/2022 20:21:34: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 19.14
+3/29/2022 20:21:34: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 18.6
+3/29/2022 20:21:34: [G_Auto 2] :  Store Value (Shared) for market: stake = 19.14
+3/29/2022 20:21:34: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 37.74
+3/29/2022 20:21:34: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.54
+3/29/2022 20:21:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.55
+3/29/2022 20:21:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.39
+3/29/2022 20:21:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 20:21:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 20:22:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 20:22:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 20:22:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 20:22:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 20:23:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 20:23:16: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 20:23:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 20:24:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 20:25:04: [G_Auto 1] :  € 17.39 Lay bet placed on Frances Tiafoe at 1.46. Fully matched at 1.45.  Ref: 10478          ( Fill or kill bet with 15 seconds delay.   )
+3/29/2022 20:25:06: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 2; sets: 0 
+3/29/2022 20:25:06: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:0
+3/29/2022 20:25:06: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: bPoints = point: 0; games: 2; sets: 0 
+3/29/2022 20:25:06: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: bServing = serving:2
+3/29/2022 20:25:06: [G_Auto 2] :  Store Value (Shared) for market: price = 1.45
+3/29/2022 20:25:06: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 19.14
+3/29/2022 20:25:06: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 35.99
+3/29/2022 20:25:06: [G_Auto 2] :  Store Value (Shared) for market: stake = 17.39
+3/29/2022 20:25:06: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 55.13
+3/29/2022 20:25:06: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.66
+3/29/2022 20:25:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.3
+3/29/2022 20:25:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.44
+3/29/2022 20:25:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 20:25:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 20:25:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 20:25:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 20:26:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 20:28:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 20:28:27: [G_Auto 1] :  Placed closure bet with greening on Frances Tiafoe by Backing 18.14 at 1.39
+3/29/2022 20:28:28: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 2; sets: 0 
+3/29/2022 20:28:28: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:1
+3/29/2022 20:28:28: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: bPoints = point: 0; games: 3; sets: 0 
+3/29/2022 20:28:28: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: bServing = serving:0
+3/29/2022 20:28:28: [G_Auto 2] :  Store Value (Shared) for market: price = 1.4
+3/29/2022 20:28:28: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 37.28
+3/29/2022 20:28:28: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 35.99
+3/29/2022 20:28:28: [G_Auto 2] :  Store Value (Shared) for market: stake = 18.14
+3/29/2022 20:28:28: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 73.27
+3/29/2022 20:28:28: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.16
+3/29/2022 20:28:28: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.5
+3/29/2022 20:28:28: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.39
+3/29/2022 20:28:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 20:28:34: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 2; sets: 0 
+3/29/2022 20:28:34: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:1
+3/29/2022 20:28:34: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: bPoints = point: 0; games: 3; sets: 0 
+3/29/2022 20:28:34: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: bServing = serving:0
+3/29/2022 20:28:34: [G_Auto 2] :  Store Value (Shared) for market: price = 1.4
+3/29/2022 20:28:34: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 37.28
+3/29/2022 20:28:34: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 35.99
+3/29/2022 20:28:34: [G_Auto 2] :  Store Value (Shared) for market: stake = 18.14
+3/29/2022 20:28:34: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 73.27
+3/29/2022 20:28:34: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.16
+3/29/2022 20:28:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.45
+3/29/2022 20:28:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.41
+3/29/2022 20:28:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 20:29:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 20:29:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 20:29:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 20:29:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 20:30:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 20:30:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 20:30:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 20:32:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 20:32:58: [G_Auto 1] :  € 16.33 Lay bet placed on Frances Tiafoe at 1.49. Fully matched at 1.49.  Ref: 10480          ( Fill or kill bet with 15 seconds delay.   )
+3/29/2022 20:32:59: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 3; sets: 0 
+3/29/2022 20:32:59: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:0
+3/29/2022 20:32:59: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: bPoints = point: 0; games: 3; sets: 0 
+3/29/2022 20:32:59: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: bServing = serving:2
+3/29/2022 20:32:59: [G_Auto 2] :  Store Value (Shared) for market: price = 1.49
+3/29/2022 20:32:59: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 37.28
+3/29/2022 20:32:59: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 52.32
+3/29/2022 20:32:59: [G_Auto 2] :  Store Value (Shared) for market: stake = 16.33
+3/29/2022 20:32:59: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 89.6
+3/29/2022 20:32:59: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.38
+3/29/2022 20:32:59: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.1
+3/29/2022 20:32:59: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.47
+3/29/2022 20:33:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 20:33:04: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 3; sets: 0 
+3/29/2022 20:33:04: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:0
+3/29/2022 20:33:04: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: bPoints = point: 0; games: 3; sets: 0 
+3/29/2022 20:33:04: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: bServing = serving:2
+3/29/2022 20:33:04: [G_Auto 2] :  Store Value (Shared) for market: price = 1.49
+3/29/2022 20:33:04: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 37.28
+3/29/2022 20:33:04: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 52.32
+3/29/2022 20:33:04: [G_Auto 2] :  Store Value (Shared) for market: stake = 16.33
+3/29/2022 20:33:04: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 89.6
+3/29/2022 20:33:04: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.5
+3/29/2022 20:33:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.1
+3/29/2022 20:33:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.47
+3/29/2022 20:33:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 20:33:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 20:33:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 20:34:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 20:35:06: [G_Auto 1] :  Placed closure bet with greening on Frances Tiafoe by Backing 17.37 at 1.39
+3/29/2022 20:35:07: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 3; sets: 0 
+3/29/2022 20:35:07: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:1
+3/29/2022 20:35:07: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: bPoints = point: 0; games: 4; sets: 0 
+3/29/2022 20:35:07: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: bServing = serving:0
+3/29/2022 20:35:07: [G_Auto 2] :  Store Value (Shared) for market: price = 1.39
+3/29/2022 20:35:07: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 54.65
+3/29/2022 20:35:07: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 52.32
+3/29/2022 20:35:07: [G_Auto 2] :  Store Value (Shared) for market: stake = 17.37
+3/29/2022 20:35:07: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 106.97
+3/29/2022 20:35:07: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.33
+3/29/2022 20:35:07: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.5
+3/29/2022 20:35:07: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.4
+3/29/2022 20:35:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 20:35:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 20:35:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 20:35:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 20:36:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 20:36:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 20:36:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 20:36:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 20:37:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 20:40:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 20:40:43: [G_Auto 1] :  € 17.02 Lay bet placed on Frances Tiafoe at 1.47. Fully matched at 1.46.  Ref: 10482          ( Fill or kill bet with 15 seconds delay.   )
+3/29/2022 20:40:43: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 4; sets: 0 
+3/29/2022 20:40:43: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:0
+3/29/2022 20:40:43: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: bPoints = point: 0; games: 4; sets: 0 
+3/29/2022 20:40:43: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: bServing = serving:2
+3/29/2022 20:40:43: [G_Auto 2] :  Store Value (Shared) for market: price = 1.46
+3/29/2022 20:40:43: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 54.65
+3/29/2022 20:40:43: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 69.34
+3/29/2022 20:40:43: [G_Auto 2] :  Store Value (Shared) for market: stake = 17.02
+3/29/2022 20:40:43: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 123.99
+3/29/2022 20:40:43: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.45
+3/29/2022 20:40:43: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.25
+3/29/2022 20:40:43: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.45
+3/29/2022 20:40:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 20:41:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 20:41:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 20:41:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 20:41:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 20:43:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 20:44:07: [G_Auto 1] :  Placed closure bet with greening on Frances Tiafoe by Backing 11.30 at 2.2
+3/29/2022 20:44:07: [G_Auto 1] :  € 9.41 Lay bet placed on Francisco Cerundolo at 1.85. Fully matched at 1.85.  Ref: 10484          ( Fill or kill bet with 15 seconds delay.   )
+3/29/2022 20:44:07: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 5; sets: 0 
+3/29/2022 20:44:07: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:1
+3/29/2022 20:44:07: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: bPoints = point: 0; games: 4; sets: 0 
+3/29/2022 20:44:07: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: bServing = serving:0
+3/29/2022 20:44:07: [G_Auto 2] :  Store Value (Shared) for market: price = 1.85
+3/29/2022 20:44:07: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 54.65
+3/29/2022 20:44:07: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 78.75
+3/29/2022 20:44:07: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.41
+3/29/2022 20:44:07: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 133.4
+3/29/2022 20:44:07: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.18
+3/29/2022 20:44:07: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.84
+3/29/2022 20:44:07: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.18
+3/29/2022 20:44:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 20:44:14: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 5; sets: 0 
+3/29/2022 20:44:14: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:1
+3/29/2022 20:44:14: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: bPoints = point: 0; games: 4; sets: 0 
+3/29/2022 20:44:14: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: bServing = serving:0
+3/29/2022 20:44:14: [G_Auto 2] :  Store Value (Shared) for market: price = 2.2
+3/29/2022 20:44:14: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 65.95
+3/29/2022 20:44:14: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 78.75
+3/29/2022 20:44:14: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.3
+3/29/2022 20:44:14: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 144.7
+3/29/2022 20:44:14: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.17
+3/29/2022 20:44:14: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.83
+3/29/2022 20:44:14: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.2
+3/29/2022 20:44:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 20:44:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 20:44:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 20:45:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 20:45:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 20:45:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 20:45:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 20:45:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 20:46:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 20:48:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 20:48:52: [G_Auto 1] :  Placed closure bet with greening on Francisco Cerundolo by Backing 5.96 at 2.92
+3/29/2022 20:48:52: [G_Auto 1] :  € 15.09 Lay bet placed on Frances Tiafoe at 1.53. Fully matched at 1.51.  Ref: 10486          ( Fill or kill bet with 15 seconds delay.   )
+3/29/2022 20:48:53: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 5; sets: 0 
+3/29/2022 20:48:53: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:0
+3/29/2022 20:48:53: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: bPoints = point: 0; games: 5; sets: 0 
+3/29/2022 20:48:53: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: bServing = serving:2
+3/29/2022 20:48:53: [G_Auto 2] :  Store Value (Shared) for market: price = 2.96
+3/29/2022 20:48:53: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 71.91
+3/29/2022 20:48:53: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 93.84
+3/29/2022 20:48:53: [G_Auto 2] :  Store Value (Shared) for market: stake = 5.96
+3/29/2022 20:48:53: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 165.75
+3/29/2022 20:48:53: [G_Auto 2] :  Store Value (Shared) for market: pl = 6.68
+3/29/2022 20:48:53: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.96
+3/29/2022 20:48:53: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.51
+3/29/2022 20:48:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 20:49:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 20:49:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 20:49:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 20:49:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 20:52:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 20:52:48: [G_Auto 1] :  Placed closure bet with greening on Frances Tiafoe by Backing 10.35 at 2.2
+3/29/2022 20:52:48: [G_Auto 1] :  € 9.64 Lay bet placed on Francisco Cerundolo at 1.83. Fully matched at 1.83.  Ref: 10488          ( Fill or kill bet with 15 seconds delay.   )
+3/29/2022 20:52:50: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 6; sets: 0 
+3/29/2022 20:52:50: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:1
+3/29/2022 20:52:50: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: bPoints = point: 0; games: 5; sets: 0 
+3/29/2022 20:52:50: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: bServing = serving:0
+3/29/2022 20:52:50: [G_Auto 2] :  Store Value (Shared) for market: price = 2.2
+3/29/2022 20:52:50: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 82.26
+3/29/2022 20:52:50: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 103.48
+3/29/2022 20:52:50: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.35
+3/29/2022 20:52:50: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 185.74
+3/29/2022 20:52:50: [G_Auto 2] :  Store Value (Shared) for market: pl = 11.43
+3/29/2022 20:52:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.83
+3/29/2022 20:52:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.22
+3/29/2022 20:52:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 20:53:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 20:53:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 20:53:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 20:53:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 20:54:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 20:54:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 20:54:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 20:54:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 20:56:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 20:56:15: [G_Auto 1] :  Placed closure bet with greening on Francisco Cerundolo by Backing 6.80 at 2.56
+3/29/2022 20:56:17: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 6; sets: 0 
+3/29/2022 20:56:17: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:0
+3/29/2022 20:56:17: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: bPoints = point: 0; games: 6; sets: 0 
+3/29/2022 20:56:17: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: bServing = serving:2
+3/29/2022 20:56:17: [G_Auto 2] :  Store Value (Shared) for market: price = 2.8
+3/29/2022 20:56:17: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 89.06
+3/29/2022 20:56:17: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 103.48
+3/29/2022 20:56:17: [G_Auto 2] :  Store Value (Shared) for market: stake = 6.8
+3/29/2022 20:56:17: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 192.54
+3/29/2022 20:56:17: [G_Auto 2] :  Store Value (Shared) for market: pl = 14.68
+3/29/2022 20:56:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.9
+3/29/2022 20:56:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.55
+3/29/2022 20:56:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 20:56:33: [G_Auto 1] :  Placed closure bet with greening on Francisco Cerundolo by Laying 0.55 at 2.98
+3/29/2022 20:56:36: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 6; sets: 0 
+3/29/2022 20:56:36: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:0
+3/29/2022 20:56:36: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: bPoints = point: 0; games: 6; sets: 0 
+3/29/2022 20:56:36: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: bServing = serving:2
+3/29/2022 20:56:36: [G_Auto 2] :  Store Value (Shared) for market: price = 2.98
+3/29/2022 20:56:36: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 89.06
+3/29/2022 20:56:36: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 104.03
+3/29/2022 20:56:36: [G_Auto 2] :  Store Value (Shared) for market: stake = 0.55
+3/29/2022 20:56:36: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 193.09
+3/29/2022 20:56:36: [G_Auto 2] :  Store Value (Shared) for market: pl = 14.66
+3/29/2022 20:56:36: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.98
+3/29/2022 20:56:36: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.52
+3/29/2022 20:56:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 20:56:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 20:57:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 20:57:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 20:57:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 20:57:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 20:58:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 20:58:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 20:58:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 20:58:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 20:59:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 20:59:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 20:59:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 20:59:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 21:00:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 21:00:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 21:00:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 21:00:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 21:01:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 21:01:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 21:01:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 21:01:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:02:04: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 7.6
+3/29/2022 21:02:04: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 1.16
+3/29/2022 21:02:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:02:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:02:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:02:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:03:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:03:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:03:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:03:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:04:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:04:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:04:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 21:04:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 21:06:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:06:20: [G_Auto 1] :  € 36.36 Lay bet placed on Frances Tiafoe at 1.22. Fully matched at 1.21.  Ref: 10494          ( Fill or kill bet with 15 seconds delay.   )
+3/29/2022 21:06:21: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 1; sets: 0 
+3/29/2022 21:06:21: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:0
+3/29/2022 21:06:21: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: bPoints = point: 0; games: 0; sets: 1 
+3/29/2022 21:06:21: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: bServing = serving:2
+3/29/2022 21:06:21: [G_Auto 2] :  Store Value (Shared) for market: price = 1.21
+3/29/2022 21:06:21: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 89.06
+3/29/2022 21:06:21: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 140.39
+3/29/2022 21:06:21: [G_Auto 2] :  Store Value (Shared) for market: stake = 36.36
+3/29/2022 21:06:21: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 229.45
+3/29/2022 21:06:21: [G_Auto 2] :  Store Value (Shared) for market: pl = 14.37
+3/29/2022 21:06:21: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 5.7
+3/29/2022 21:06:21: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.21
+3/29/2022 21:06:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:06:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:06:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:06:55: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 21:07:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 21:07:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 21:07:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 21:07:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 21:10:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:10:50: [G_Auto 1] :  Placed closure bet with greening on Frances Tiafoe by Backing 37.61 at 1.17
+3/29/2022 21:10:51: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 1; sets: 0 
+3/29/2022 21:10:51: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:1
+3/29/2022 21:10:51: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: bPoints = point: 0; games: 1; sets: 1 
+3/29/2022 21:10:51: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: bServing = serving:0
+3/29/2022 21:10:51: [G_Auto 2] :  Store Value (Shared) for market: price = 1.17
+3/29/2022 21:10:51: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 126.67
+3/29/2022 21:10:51: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 140.39
+3/29/2022 21:10:51: [G_Auto 2] :  Store Value (Shared) for market: stake = 37.61
+3/29/2022 21:10:51: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 267.06
+3/29/2022 21:10:51: [G_Auto 2] :  Store Value (Shared) for market: pl = 13.44
+3/29/2022 21:10:51: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 6.6
+3/29/2022 21:10:51: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.18
+3/29/2022 21:10:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:11:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:11:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 21:11:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 21:13:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:13:22: [G_Auto 1] :  € 33.33 Lay bet placed on Frances Tiafoe at 1.24. Fully matched at 1.23.  Ref: 10497          ( Fill or kill bet with 15 seconds delay.   )
+3/29/2022 21:13:23: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 2; sets: 0 
+3/29/2022 21:13:23: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:0
+3/29/2022 21:13:23: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: bPoints = point: 0; games: 1; sets: 1 
+3/29/2022 21:13:23: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: bServing = serving:2
+3/29/2022 21:13:23: [G_Auto 2] :  Store Value (Shared) for market: price = 1.23
+3/29/2022 21:13:23: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 126.67
+3/29/2022 21:13:23: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 173.72
+3/29/2022 21:13:23: [G_Auto 2] :  Store Value (Shared) for market: stake = 33.33
+3/29/2022 21:13:23: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 300.39
+3/29/2022 21:13:23: [G_Auto 2] :  Store Value (Shared) for market: pl = 13.17
+3/29/2022 21:13:23: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 5.5
+3/29/2022 21:13:23: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.22
+3/29/2022 21:13:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:13:30: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 2; sets: 0 
+3/29/2022 21:13:30: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:0
+3/29/2022 21:13:30: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: bPoints = point: 0; games: 1; sets: 1 
+3/29/2022 21:13:30: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: bServing = serving:2
+3/29/2022 21:13:30: [G_Auto 2] :  Store Value (Shared) for market: price = 1.23
+3/29/2022 21:13:30: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 126.67
+3/29/2022 21:13:30: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 173.72
+3/29/2022 21:13:30: [G_Auto 2] :  Store Value (Shared) for market: stake = 33.33
+3/29/2022 21:13:30: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 300.39
+3/29/2022 21:13:30: [G_Auto 2] :  Store Value (Shared) for market: pl = 13.17
+3/29/2022 21:13:30: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 5.4
+3/29/2022 21:13:30: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.22
+3/29/2022 21:13:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:13:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:14:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:14:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:14:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:14:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:15:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:15:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 21:15:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 21:15:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 21:17:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:17:41: [G_Auto 1] :  Placed closure bet with greening on Frances Tiafoe by Backing 35.04 at 1.17
+3/29/2022 21:17:42: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 2; sets: 0 
+3/29/2022 21:17:42: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:1
+3/29/2022 21:17:42: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: bPoints = point: 0; games: 2; sets: 1 
+3/29/2022 21:17:42: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: bServing = serving:0
+3/29/2022 21:17:42: [G_Auto 2] :  Store Value (Shared) for market: price = 1.17
+3/29/2022 21:17:42: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 161.71
+3/29/2022 21:17:42: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 173.72
+3/29/2022 21:17:42: [G_Auto 2] :  Store Value (Shared) for market: stake = 35.04
+3/29/2022 21:17:42: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 335.43
+3/29/2022 21:17:42: [G_Auto 2] :  Store Value (Shared) for market: pl = 11.76
+3/29/2022 21:17:42: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 6.6
+3/29/2022 21:17:42: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.18
+3/29/2022 21:17:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:17:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:18:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:18:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 21:18:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 21:18:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 21:19:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:20:00: [G_Auto 1] :  € 32.00 Lay bet placed on Frances Tiafoe at 1.25. Fully matched at 1.24.  Ref: 10501          ( Fill or kill bet with 15 seconds delay.   )
+3/29/2022 21:20:01: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 3; sets: 0 
+3/29/2022 21:20:01: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:0
+3/29/2022 21:20:01: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: bPoints = point: 0; games: 2; sets: 1 
+3/29/2022 21:20:01: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: bServing = serving:2
+3/29/2022 21:20:01: [G_Auto 2] :  Store Value (Shared) for market: price = 1.24
+3/29/2022 21:20:01: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 161.71
+3/29/2022 21:20:01: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 205.72
+3/29/2022 21:20:01: [G_Auto 2] :  Store Value (Shared) for market: stake = 32
+3/29/2022 21:20:01: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 367.43
+3/29/2022 21:20:01: [G_Auto 2] :  Store Value (Shared) for market: pl = 11.51
+3/29/2022 21:20:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 5.4
+3/29/2022 21:20:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.24
+3/29/2022 21:20:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:20:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:20:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:20:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:21:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:21:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:21:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:21:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:21:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 21:22:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 21:28:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:28:48: [G_Auto 1] :  Placed closure bet with greening on Frances Tiafoe by Backing 32.79 at 1.21
+3/29/2022 21:28:49: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 3; sets: 0 
+3/29/2022 21:28:49: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:1
+3/29/2022 21:28:49: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: bPoints = point: 0; games: 3; sets: 1 
+3/29/2022 21:28:49: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: bServing = serving:0
+3/29/2022 21:28:49: [G_Auto 2] :  Store Value (Shared) for market: price = 1.21
+3/29/2022 21:28:49: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 194.5
+3/29/2022 21:28:49: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 205.72
+3/29/2022 21:28:49: [G_Auto 2] :  Store Value (Shared) for market: stake = 32.79
+3/29/2022 21:28:49: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 400.22
+3/29/2022 21:28:49: [G_Auto 2] :  Store Value (Shared) for market: pl = 10.99
+3/29/2022 21:28:49: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 5.5
+3/29/2022 21:28:49: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.22
+3/29/2022 21:28:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:29:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:29:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:29:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 21:29:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 21:33:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:34:03: [G_Auto 1] :  € 28.57 Lay bet placed on Frances Tiafoe at 1.28. Fully matched at 1.27.  Ref: 10504          ( Fill or kill bet with 15 seconds delay.   )
+3/29/2022 21:34:04: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 4; sets: 0 
+3/29/2022 21:34:04: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:0
+3/29/2022 21:34:04: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: bPoints = point: 0; games: 3; sets: 1 
+3/29/2022 21:34:04: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: bServing = serving:2
+3/29/2022 21:34:04: [G_Auto 2] :  Store Value (Shared) for market: price = 1.27
+3/29/2022 21:34:04: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 194.5
+3/29/2022 21:34:04: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 234.29
+3/29/2022 21:34:04: [G_Auto 2] :  Store Value (Shared) for market: stake = 28.57
+3/29/2022 21:34:04: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 428.79
+3/29/2022 21:34:04: [G_Auto 2] :  Store Value (Shared) for market: pl = 10.77
+3/29/2022 21:34:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.8
+3/29/2022 21:34:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.27
+3/29/2022 21:34:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:34:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:34:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:34:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:35:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:35:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:35:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:35:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:36:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:36:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:36:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 21:36:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 21:37:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 21:37:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 21:39:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:39:37: [G_Auto 1] :  Placed closure bet with greening on Frances Tiafoe by Backing 29.99 at 1.21
+3/29/2022 21:39:38: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 4; sets: 0 
+3/29/2022 21:39:38: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:1
+3/29/2022 21:39:38: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: bPoints = point: 0; games: 4; sets: 1 
+3/29/2022 21:39:38: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: bServing = serving:0
+3/29/2022 21:39:38: [G_Auto 2] :  Store Value (Shared) for market: price = 1.21
+3/29/2022 21:39:38: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 224.49
+3/29/2022 21:39:38: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 234.29
+3/29/2022 21:39:38: [G_Auto 2] :  Store Value (Shared) for market: stake = 29.99
+3/29/2022 21:39:38: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 458.78
+3/29/2022 21:39:38: [G_Auto 2] :  Store Value (Shared) for market: pl = 9.59
+3/29/2022 21:39:38: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 5.5
+3/29/2022 21:39:38: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.21
+3/29/2022 21:39:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:39:43: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 4; sets: 0 
+3/29/2022 21:39:43: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:1
+3/29/2022 21:39:43: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: bPoints = point: 0; games: 4; sets: 1 
+3/29/2022 21:39:43: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: bServing = serving:0
+3/29/2022 21:39:43: [G_Auto 2] :  Store Value (Shared) for market: price = 1.21
+3/29/2022 21:39:43: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 224.49
+3/29/2022 21:39:43: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 234.29
+3/29/2022 21:39:43: [G_Auto 2] :  Store Value (Shared) for market: stake = 29.99
+3/29/2022 21:39:43: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 458.78
+3/29/2022 21:39:43: [G_Auto 2] :  Store Value (Shared) for market: pl = 9.59
+3/29/2022 21:39:43: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 5.5
+3/29/2022 21:39:43: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.22
+3/29/2022 21:39:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:40:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:40:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 21:40:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 21:41:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:41:47: [G_Auto 1] :  € 25.00 Lay bet placed on Frances Tiafoe at 1.32. Fully matched at 1.3.  Ref: 10506          ( Fill or kill bet with 15 seconds delay.   )
+3/29/2022 21:41:48: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 5; sets: 0 
+3/29/2022 21:41:48: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:0
+3/29/2022 21:41:48: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: bPoints = point: 0; games: 4; sets: 1 
+3/29/2022 21:41:48: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: bServing = serving:2
+3/29/2022 21:41:48: [G_Auto 2] :  Store Value (Shared) for market: price = 1.3
+3/29/2022 21:41:48: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 224.49
+3/29/2022 21:41:48: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 259.29
+3/29/2022 21:41:48: [G_Auto 2] :  Store Value (Shared) for market: stake = 25
+3/29/2022 21:41:48: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 483.78
+3/29/2022 21:41:48: [G_Auto 2] :  Store Value (Shared) for market: pl = 9.6
+3/29/2022 21:41:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.3
+3/29/2022 21:41:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.3
+3/29/2022 21:41:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:41:54: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 5; sets: 0 
+3/29/2022 21:41:54: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:0
+3/29/2022 21:41:54: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: bPoints = point: 0; games: 4; sets: 1 
+3/29/2022 21:41:54: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: bServing = serving:2
+3/29/2022 21:41:54: [G_Auto 2] :  Store Value (Shared) for market: price = 1.3
+3/29/2022 21:41:54: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 224.49
+3/29/2022 21:41:54: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 259.29
+3/29/2022 21:41:54: [G_Auto 2] :  Store Value (Shared) for market: stake = 25
+3/29/2022 21:41:54: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 483.78
+3/29/2022 21:41:54: [G_Auto 2] :  Store Value (Shared) for market: pl = 9.6
+3/29/2022 21:41:54: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.4
+3/29/2022 21:41:54: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.3
+3/29/2022 21:42:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:42:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:42:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:42:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:43:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:43:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:43:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 21:43:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 21:47:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:47:23: [G_Auto 1] :  Placed closure bet with greening on Frances Tiafoe by Backing 26.42 at 1.23
+3/29/2022 21:47:24: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 5; sets: 0 
+3/29/2022 21:47:24: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:1
+3/29/2022 21:47:24: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: bPoints = point: 0; games: 5; sets: 1 
+3/29/2022 21:47:24: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: bServing = serving:0
+3/29/2022 21:47:24: [G_Auto 2] :  Store Value (Shared) for market: price = 1.23
+3/29/2022 21:47:24: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 250.91
+3/29/2022 21:47:24: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 259.29
+3/29/2022 21:47:24: [G_Auto 2] :  Store Value (Shared) for market: stake = 26.42
+3/29/2022 21:47:24: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 510.2
+3/29/2022 21:47:24: [G_Auto 2] :  Store Value (Shared) for market: pl = 8.2
+3/29/2022 21:47:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 5.3
+3/29/2022 21:47:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.24
+3/29/2022 21:47:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:47:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:47:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 21:48:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 21:50:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:50:14: [G_Auto 1] :  € 22.86 Lay bet placed on Frances Tiafoe at 1.35. Fully matched at 1.34.  Ref: 10508          ( Fill or kill bet with 15 seconds delay.   )
+3/29/2022 21:50:15: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 6; sets: 0 
+3/29/2022 21:50:15: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:0
+3/29/2022 21:50:15: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: bPoints = point: 0; games: 5; sets: 1 
+3/29/2022 21:50:15: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: bServing = serving:2
+3/29/2022 21:50:15: [G_Auto 2] :  Store Value (Shared) for market: price = 1.34
+3/29/2022 21:50:15: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 250.91
+3/29/2022 21:50:15: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 282.15
+3/29/2022 21:50:15: [G_Auto 2] :  Store Value (Shared) for market: stake = 22.86
+3/29/2022 21:50:15: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 533.06
+3/29/2022 21:50:15: [G_Auto 2] :  Store Value (Shared) for market: pl = 8.04
+3/29/2022 21:50:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4
+3/29/2022 21:50:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.34
+3/29/2022 21:50:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:50:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:50:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:51:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:51:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:51:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:51:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:52:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:52:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 21:52:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 21:52:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 21:55:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:55:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:55:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 21:55:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 21:56:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 21:56:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 21:56:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 21:56:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 21:57:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 21:57:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 21:57:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 21:57:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 21:58:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 21:58:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 21:58:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 21:58:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 21:59:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 21:59:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 21:59:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 21:59:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 22:00:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 22:00:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 22:00:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 22:00:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 22:01:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 22:01:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 22:01:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 22:01:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:02:08: [G_Auto 2] :  Store Value (Shared) for market: aSecondSetPrice = 2.36
+3/29/2022 22:02:08: [G_Auto 2] :  Store Value (Shared) for market: bSecondSetPrice = 1.75
+3/29/2022 22:02:10: [G_Auto 1] :  € 10.53 Lay bet placed on Frances Tiafoe at 1.76. Fully matched at 1.74.  Ref: 10509          ( Fill or kill bet with 15 seconds delay.   )
+3/29/2022 22:02:11: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 0; sets: 1 
+3/29/2022 22:02:11: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:0
+3/29/2022 22:02:11: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: bPoints = point: 0; games: 0; sets: 1 
+3/29/2022 22:02:11: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: bServing = serving:2
+3/29/2022 22:02:11: [G_Auto 2] :  Store Value (Shared) for market: price = 1.74
+3/29/2022 22:02:11: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 250.91
+3/29/2022 22:02:11: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 292.68
+3/29/2022 22:02:11: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.53
+3/29/2022 22:02:11: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 543.59
+3/29/2022 22:02:11: [G_Auto 2] :  Store Value (Shared) for market: pl = 13.2
+3/29/2022 22:02:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.36
+3/29/2022 22:02:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.74
+3/29/2022 22:02:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:02:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:02:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:03:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:03:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:03:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:03:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:04:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:04:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:04:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:04:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:05:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:05:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:05:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:05:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:06:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:06:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:06:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:06:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:07:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:07:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:07:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:07:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:08:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:08:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:08:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:08:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:09:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:09:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:09:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:10:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:10:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:10:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:10:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:10:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 22:11:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 22:11:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 22:14:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:14:24: [G_Auto 1] :  € 16.33 Lay bet placed on Francisco Cerundolo at 1.49. Fully matched at 1.48.  Ref: 10510          ( Fill or kill bet with 15 seconds delay.   )
+3/29/2022 22:14:24: [G_Auto 1] :  Placed closure bet with greening on Frances Tiafoe by Backing 15.79 at 3.1
+3/29/2022 22:14:25: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 1; sets: 1 
+3/29/2022 22:14:25: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:1
+3/29/2022 22:14:25: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: bPoints = point: 0; games: 0; sets: 1 
+3/29/2022 22:14:25: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: bServing = serving:0
+3/29/2022 22:14:25: [G_Auto 2] :  Store Value (Shared) for market: price = 3.1
+3/29/2022 22:14:25: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 266.7
+3/29/2022 22:14:25: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 309.01
+3/29/2022 22:14:25: [G_Auto 2] :  Store Value (Shared) for market: stake = 15.79
+3/29/2022 22:14:25: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 575.71
+3/29/2022 22:14:25: [G_Auto 2] :  Store Value (Shared) for market: pl = 25.34
+3/29/2022 22:14:25: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.48
+3/29/2022 22:14:25: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.1
+3/29/2022 22:14:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:14:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:14:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:15:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:15:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 22:15:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 22:17:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:17:55: [G_Auto 1] :  Placed closure bet with greening on Francisco Cerundolo by Backing 17.78 at 1.36
+3/29/2022 22:17:55: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 2; sets: 1 
+3/29/2022 22:17:55: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:0
+3/29/2022 22:17:55: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: bPoints = point: 0; games: 0; sets: 1 
+3/29/2022 22:17:55: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: bServing = serving:2
+3/29/2022 22:17:55: [G_Auto 2] :  Store Value (Shared) for market: price = 1.36
+3/29/2022 22:17:55: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 284.48
+3/29/2022 22:17:55: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 309.01
+3/29/2022 22:17:55: [G_Auto 2] :  Store Value (Shared) for market: stake = 17.78
+3/29/2022 22:17:55: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 593.49
+3/29/2022 22:17:55: [G_Auto 2] :  Store Value (Shared) for market: pl = 24.05
+3/29/2022 22:17:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.37
+3/29/2022 22:17:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.7
+3/29/2022 22:17:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:18:01: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 2; sets: 1 
+3/29/2022 22:18:01: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:0
+3/29/2022 22:18:01: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: bPoints = point: 0; games: 0; sets: 1 
+3/29/2022 22:18:01: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: bServing = serving:2
+3/29/2022 22:18:01: [G_Auto 2] :  Store Value (Shared) for market: price = 1.36
+3/29/2022 22:18:01: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 284.48
+3/29/2022 22:18:01: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 309.01
+3/29/2022 22:18:01: [G_Auto 2] :  Store Value (Shared) for market: stake = 17.78
+3/29/2022 22:18:01: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 593.49
+3/29/2022 22:18:01: [G_Auto 2] :  Store Value (Shared) for market: pl = 24.05
+3/29/2022 22:18:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.36
+3/29/2022 22:18:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.75
+3/29/2022 22:18:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:18:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 22:18:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 22:19:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 22:26:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:26:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:26:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:27:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:27:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:27:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:28:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:28:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:28:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 22:28:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 22:30:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:30:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:30:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:30:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:31:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 22:31:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 22:31:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 22:31:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 22:34:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:34:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:34:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:35:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:35:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:35:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:35:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:36:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:36:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 22:36:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 22:38:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:38:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:39:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:39:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:39:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:39:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:40:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 22:40:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 22:43:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:44:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:44:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:44:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:44:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:45:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:45:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:45:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:45:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:45:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 22:46:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/29/2022 22:47:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/29/2022 22:47:08:  Guardian has detected that the market is suspended
