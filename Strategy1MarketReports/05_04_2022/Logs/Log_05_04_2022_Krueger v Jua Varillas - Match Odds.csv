@@ -1,0 +1,113 @@
+4/5/2022 11:28:32: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: info = marketName: Krueger v Jua Varillas - Match Odds; runnerA: Mitchell Krueger; runnerB: Juan Pablo Varillas 
+4/5/2022 11:28:32: [G_Auto 1] :  Store Value (Shared) for market: aId = 19924836
+4/5/2022 11:28:32: [G_Auto 1] :  Store Value (Shared) for market: bId = 11772759
+4/5/2022 19:58:16:  Guardian has detected that the market is in-play
+4/5/2022 19:58:16:  Guardian has detected that the market is suspended
+4/5/2022 19:58:20: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 3.35; bBsp: 1.39; volume: 7227.64 
+4/5/2022 19:58:20: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 3.35; bBsp: 1.39; volume: 7227.64 
+4/5/2022 19:58:20:  Guardian has detected that the market is now unsuspended
+4/5/2022 19:58:24: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 19:58:42: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 19:58:59: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 20:00:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 20:00:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 20:00:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 20:01:06: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 20:01:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 20:01:37: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 20:01:54: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 20:03:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 20:04:00: [G_Auto 2] :  € 8.33 Lay bet placed on Juan Pablo Varillas at 1.96. Fully matched at 1.95.  Ref: 10572          ( Fill or kill bet with 15 seconds delay.   )
+4/5/2022 20:04:01: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: aPoints = point: 0; games: 2; sets: 0 
+4/5/2022 20:04:01: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: aServing = serving:0
+4/5/2022 20:04:01: [G_Auto 1] :  Store Text Value (Shared) for Juan Pablo Varillas: bPoints = point: 0; games: 0; sets: 0 
+4/5/2022 20:04:01: [G_Auto 1] :  Store Text Value (Shared) for Juan Pablo Varillas: bServing = serving:2
+4/5/2022 20:04:01: [G_Auto 1] :  Store Value (Shared) for market: price = 1.95
+4/5/2022 20:04:01: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 0
+4/5/2022 20:04:01: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 8.33
+4/5/2022 20:04:01: [G_Auto 1] :  Store Value (Shared) for market: stake = 8.33
+4/5/2022 20:04:01: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 8.33
+4/5/2022 20:04:01: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.04
+4/5/2022 20:04:01: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.06
+4/5/2022 20:04:01: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.95
+4/5/2022 20:04:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 20:04:19: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 20:04:36: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 20:05:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 20:05:57: [G_Auto 2] :  Placed closure bet with greening on Juan Pablo Varillas by Backing 5.56 at 2.92
+4/5/2022 20:05:57: [G_Auto 2] :  € 34.78 Lay bet placed on Mitchell Krueger at 1.23. Entirely unmatched when it initially reached the market.   Ref: 10578          ( Fill or kill bet with 15 seconds delay.   )
+4/5/2022 20:05:59: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: aPoints = point: 0; games: 3; sets: 0 
+4/5/2022 20:05:59: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: aServing = serving:1
+4/5/2022 20:05:59: [G_Auto 1] :  Store Text Value (Shared) for Juan Pablo Varillas: bPoints = point: 0; games: 0; sets: 0 
+4/5/2022 20:05:59: [G_Auto 1] :  Store Text Value (Shared) for Juan Pablo Varillas: bServing = serving:0
+4/5/2022 20:05:59: [G_Auto 1] :  Store Value (Shared) for market: price = 2.92
+4/5/2022 20:05:59: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 5.56
+4/5/2022 20:05:59: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 8.33
+4/5/2022 20:05:59: [G_Auto 1] :  Store Value (Shared) for market: stake = 5.56
+4/5/2022 20:05:59: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 13.89
+4/5/2022 20:05:59: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.71
+4/5/2022 20:05:59: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.21
+4/5/2022 20:05:59: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 17.5
+4/5/2022 20:05:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 20:06:12: [G_Auto 2] :  € 34.78 unmatched bet (Ref:10578) was killed.
+4/5/2022 20:06:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 20:06:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 20:06:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 20:07:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 20:07:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 20:07:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 20:08:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 20:08:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 20:08:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 20:08:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 20:09:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 20:09:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 20:09:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 20:10:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 20:10:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 20:10:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 20:10:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 20:11:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 20:11:31: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 20:11:49: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 20:15:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 20:15:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 20:16:00: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 20:16:17: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 20:18:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 20:18:28: [G_Auto 2] :  € 27.59 Lay bet placed on Mitchell Krueger at 1.29. Fully matched at 1.28.  Ref: 10593          ( Fill or kill bet with 15 seconds delay.   )
+4/5/2022 20:18:30: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: aPoints = point: 0; games: 4; sets: 0 
+4/5/2022 20:18:30: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: aServing = serving:1
+4/5/2022 20:18:30: [G_Auto 1] :  Store Text Value (Shared) for Juan Pablo Varillas: bPoints = point: 0; games: 1; sets: 0 
+4/5/2022 20:18:30: [G_Auto 1] :  Store Text Value (Shared) for Juan Pablo Varillas: bServing = serving:0
+4/5/2022 20:18:30: [G_Auto 1] :  Store Value (Shared) for market: price = 1.28
+4/5/2022 20:18:30: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 5.56
+4/5/2022 20:18:30: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 35.92
+4/5/2022 20:18:30: [G_Auto 1] :  Store Value (Shared) for market: stake = 27.59
+4/5/2022 20:18:30: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 41.48
+4/5/2022 20:18:30: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.07
+4/5/2022 20:18:30: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.26
+4/5/2022 20:18:30: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.8
+4/5/2022 20:18:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 20:18:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 20:19:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 20:19:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 20:19:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 20:19:57: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 20:20:15: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 20:21:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 20:22:07: [G_Auto 2] :  Placed closure bet with greening on Mitchell Krueger by Backing 30.18 at 1.17
+4/5/2022 20:22:08: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: aPoints = point: 0; games: 5; sets: 0 
+4/5/2022 20:22:08: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: aServing = serving:0
+4/5/2022 20:22:08: [G_Auto 1] :  Store Text Value (Shared) for Juan Pablo Varillas: bPoints = point: 0; games: 1; sets: 0 
+4/5/2022 20:22:08: [G_Auto 1] :  Store Text Value (Shared) for Juan Pablo Varillas: bServing = serving:2
+4/5/2022 20:22:08: [G_Auto 1] :  Store Value (Shared) for market: price = 1.17
+4/5/2022 20:22:08: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 35.74
+4/5/2022 20:22:08: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 35.92
+4/5/2022 20:22:08: [G_Auto 1] :  Store Value (Shared) for market: stake = 30.18
+4/5/2022 20:22:08: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 71.66
+4/5/2022 20:22:08: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.18
+4/5/2022 20:22:08: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.2
+4/5/2022 20:22:08: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 6.2
+4/5/2022 20:22:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 20:22:26:  Guardian has detected that the market is suspended

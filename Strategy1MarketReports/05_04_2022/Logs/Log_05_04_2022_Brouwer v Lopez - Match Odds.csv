@@ -1,0 +1,334 @@
+4/5/2022 11:28:32: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: info = marketName: Brouwer v Lopez - Match Odds; runnerA: Gijs Brouwer; runnerB: Feliciano Lopez 
+4/5/2022 11:28:32: [G_Auto 1] :  Store Value (Shared) for market: aId = 9629296
+4/5/2022 11:28:32: [G_Auto 1] :  Store Value (Shared) for market: bId = 2265109
+4/5/2022 20:40:19:  Guardian has detected that the market is in-play
+4/5/2022 20:40:19:  Guardian has detected that the market is suspended
+4/5/2022 20:40:22: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.82; bBsp: 2.22; volume: 49412.15 
+4/5/2022 20:40:22: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.82; bBsp: 2.22; volume: 49412.15 
+4/5/2022 20:40:22:  Guardian has detected that the market is now unsuspended
+4/5/2022 20:50:34: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 20:50:49: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 20:59:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:00:00: [G_Auto 2] :  € 19.05 Lay bet placed on Gijs Brouwer at 1.42. Entirely unmatched when it initially reached the market.   Ref: 10625          ( Fill or kill bet with 15 seconds delay.   )
+4/5/2022 21:00:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:00:15: [G_Auto 2] :  € 19.05 unmatched bet (Ref:10625) was killed.
+4/5/2022 21:00:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:00:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:00:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:01:12: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:01:29: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:01:47: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:04:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:04:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:04:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:04:41: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:04:59: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:06:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:06:41: [G_Auto 2] :  € 17.78 Lay bet placed on Gijs Brouwer at 1.45. Fully matched at 1.45.  Ref: 10630          ( Fill or kill bet with 15 seconds delay.   )
+4/5/2022 21:06:41: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: aPoints = point: 0; games: 2; sets: 0 
+4/5/2022 21:06:41: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: aServing = serving:1
+4/5/2022 21:06:41: [G_Auto 1] :  Store Text Value (Shared) for Feliciano Lopez: bPoints = point: 0; games: 1; sets: 0 
+4/5/2022 21:06:41: [G_Auto 1] :  Store Text Value (Shared) for Feliciano Lopez: bServing = serving:0
+4/5/2022 21:06:41: [G_Auto 1] :  Store Value (Shared) for market: price = 1.45
+4/5/2022 21:06:41: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 0
+4/5/2022 21:06:41: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 17.78
+4/5/2022 21:06:41: [G_Auto 1] :  Store Value (Shared) for market: stake = 17.78
+4/5/2022 21:06:41: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 17.78
+4/5/2022 21:06:41: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.25
+4/5/2022 21:06:41: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.43
+4/5/2022 21:06:41: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.3
+4/5/2022 21:06:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:06:48: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: aPoints = point: 0; games: 2; sets: 0 
+4/5/2022 21:06:48: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: aServing = serving:1
+4/5/2022 21:06:48: [G_Auto 1] :  Store Text Value (Shared) for Feliciano Lopez: bPoints = point: 0; games: 1; sets: 0 
+4/5/2022 21:06:48: [G_Auto 1] :  Store Text Value (Shared) for Feliciano Lopez: bServing = serving:0
+4/5/2022 21:06:48: [G_Auto 1] :  Store Value (Shared) for market: price = 1.45
+4/5/2022 21:06:48: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 0
+4/5/2022 21:06:48: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 17.78
+4/5/2022 21:06:48: [G_Auto 1] :  Store Value (Shared) for market: stake = 17.78
+4/5/2022 21:06:48: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 17.78
+4/5/2022 21:06:48: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.25
+4/5/2022 21:06:48: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.43
+4/5/2022 21:06:48: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.25
+4/5/2022 21:07:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:07:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:07:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:07:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:08:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:08:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:08:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:08:55: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:09:13: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:10:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:10:33: [G_Auto 2] :  Placed closure bet with greening on Gijs Brouwer by Backing 19.38 at 1.33
+4/5/2022 21:10:33: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: aPoints = point: 0; games: 3; sets: 0 
+4/5/2022 21:10:33: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: aServing = serving:0
+4/5/2022 21:10:33: [G_Auto 1] :  Store Text Value (Shared) for Feliciano Lopez: bPoints = point: 0; games: 1; sets: 0 
+4/5/2022 21:10:33: [G_Auto 1] :  Store Text Value (Shared) for Feliciano Lopez: bServing = serving:2
+4/5/2022 21:10:33: [G_Auto 1] :  Store Value (Shared) for market: price = 1.33
+4/5/2022 21:10:33: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 19.38
+4/5/2022 21:10:33: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 17.78
+4/5/2022 21:10:33: [G_Auto 1] :  Store Value (Shared) for market: stake = 19.38
+4/5/2022 21:10:33: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 37.16
+4/5/2022 21:10:33: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.61
+4/5/2022 21:10:33: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.36
+4/5/2022 21:10:33: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.85
+4/5/2022 21:10:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:10:40: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: aPoints = point: 0; games: 3; sets: 0 
+4/5/2022 21:10:40: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: aServing = serving:0
+4/5/2022 21:10:40: [G_Auto 1] :  Store Text Value (Shared) for Feliciano Lopez: bPoints = point: 0; games: 1; sets: 0 
+4/5/2022 21:10:40: [G_Auto 1] :  Store Text Value (Shared) for Feliciano Lopez: bServing = serving:2
+4/5/2022 21:10:40: [G_Auto 1] :  Store Value (Shared) for market: price = 1.33
+4/5/2022 21:10:40: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 19.38
+4/5/2022 21:10:40: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 17.78
+4/5/2022 21:10:40: [G_Auto 1] :  Store Value (Shared) for market: stake = 19.38
+4/5/2022 21:10:40: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 37.16
+4/5/2022 21:10:40: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.61
+4/5/2022 21:10:40: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.36
+4/5/2022 21:10:40: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.75
+4/5/2022 21:10:54: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:11:12: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:12:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:12:32: [G_Auto 2] :  € 17.78 Lay bet placed on Gijs Brouwer at 1.45. Fully matched at 1.44.  Ref: 10638          ( Fill or kill bet with 15 seconds delay.   )
+4/5/2022 21:12:33: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: aPoints = point: 0; games: 3; sets: 0 
+4/5/2022 21:12:33: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: aServing = serving:1
+4/5/2022 21:12:33: [G_Auto 1] :  Store Text Value (Shared) for Feliciano Lopez: bPoints = point: 0; games: 2; sets: 0 
+4/5/2022 21:12:33: [G_Auto 1] :  Store Text Value (Shared) for Feliciano Lopez: bServing = serving:0
+4/5/2022 21:12:33: [G_Auto 1] :  Store Value (Shared) for market: price = 1.44
+4/5/2022 21:12:33: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 19.38
+4/5/2022 21:12:33: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 35.56
+4/5/2022 21:12:33: [G_Auto 1] :  Store Value (Shared) for market: stake = 17.78
+4/5/2022 21:12:33: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 54.94
+4/5/2022 21:12:33: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.73
+4/5/2022 21:12:33: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.42
+4/5/2022 21:12:33: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.4
+4/5/2022 21:12:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:12:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:13:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:13:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:13:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:14:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:14:09: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:14:27: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:16:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:16:58: [G_Auto 2] :  Placed closure bet with greening on Gijs Brouwer by Backing 18.97 at 1.35
+4/5/2022 21:16:59: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: aPoints = point: 0; games: 4; sets: 0 
+4/5/2022 21:16:59: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: aServing = serving:0
+4/5/2022 21:16:59: [G_Auto 1] :  Store Text Value (Shared) for Feliciano Lopez: bPoints = point: 0; games: 2; sets: 0 
+4/5/2022 21:16:59: [G_Auto 1] :  Store Text Value (Shared) for Feliciano Lopez: bServing = serving:2
+4/5/2022 21:16:59: [G_Auto 1] :  Store Value (Shared) for market: price = 1.35
+4/5/2022 21:16:59: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 38.35
+4/5/2022 21:16:59: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 35.56
+4/5/2022 21:16:59: [G_Auto 1] :  Store Value (Shared) for market: stake = 18.97
+4/5/2022 21:16:59: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 73.91
+4/5/2022 21:16:59: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.79
+4/5/2022 21:16:59: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.37
+4/5/2022 21:16:59: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.7
+4/5/2022 21:17:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:17:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:17:27: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:17:45: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:19:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:20:07: [G_Auto 2] :  € 19.05 Lay bet placed on Gijs Brouwer at 1.42. Fully matched at 1.41.  Ref: 10650          ( Fill or kill bet with 15 seconds delay.   )
+4/5/2022 21:20:08: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: aPoints = point: 0; games: 4; sets: 0 
+4/5/2022 21:20:08: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: aServing = serving:1
+4/5/2022 21:20:08: [G_Auto 1] :  Store Text Value (Shared) for Feliciano Lopez: bPoints = point: 0; games: 3; sets: 0 
+4/5/2022 21:20:08: [G_Auto 1] :  Store Text Value (Shared) for Feliciano Lopez: bServing = serving:0
+4/5/2022 21:20:08: [G_Auto 1] :  Store Value (Shared) for market: price = 1.41
+4/5/2022 21:20:08: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 38.35
+4/5/2022 21:20:08: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 54.61
+4/5/2022 21:20:08: [G_Auto 1] :  Store Value (Shared) for market: stake = 19.05
+4/5/2022 21:20:08: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 92.96
+4/5/2022 21:20:08: [G_Auto 1] :  Store Value (Shared) for market: pl = -3.06
+4/5/2022 21:20:08: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.4
+4/5/2022 21:20:08: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.5
+4/5/2022 21:20:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:20:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:20:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:21:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:21:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:21:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:21:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:22:02: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:22:19: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:25:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:26:07: [G_Auto 2] :  Placed closure bet with greening on Gijs Brouwer by Backing 20.50 at 1.31
+4/5/2022 21:26:08: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: aPoints = point: 0; games: 5; sets: 0 
+4/5/2022 21:26:08: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: aServing = serving:0
+4/5/2022 21:26:08: [G_Auto 1] :  Store Text Value (Shared) for Feliciano Lopez: bPoints = point: 0; games: 3; sets: 0 
+4/5/2022 21:26:08: [G_Auto 1] :  Store Text Value (Shared) for Feliciano Lopez: bServing = serving:2
+4/5/2022 21:26:08: [G_Auto 1] :  Store Value (Shared) for market: price = 1.31
+4/5/2022 21:26:08: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 58.85
+4/5/2022 21:26:08: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 54.61
+4/5/2022 21:26:08: [G_Auto 1] :  Store Value (Shared) for market: stake = 20.5
+4/5/2022 21:26:08: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 113.46
+4/5/2022 21:26:08: [G_Auto 1] :  Store Value (Shared) for market: pl = -4.24
+4/5/2022 21:26:08: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.32
+4/5/2022 21:26:08: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.2
+4/5/2022 21:26:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:26:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:26:40: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:26:57: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:28:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:28:51: [G_Auto 2] :  € 18.60 Lay bet placed on Gijs Brouwer at 1.43. Fully matched at 1.42.  Ref: 10658          ( Fill or kill bet with 15 seconds delay.   )
+4/5/2022 21:28:54: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: aPoints = point: 0; games: 5; sets: 0 
+4/5/2022 21:28:54: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: aServing = serving:1
+4/5/2022 21:28:54: [G_Auto 1] :  Store Text Value (Shared) for Feliciano Lopez: bPoints = point: 0; games: 4; sets: 0 
+4/5/2022 21:28:54: [G_Auto 1] :  Store Text Value (Shared) for Feliciano Lopez: bServing = serving:0
+4/5/2022 21:28:54: [G_Auto 1] :  Store Value (Shared) for market: price = 1.42
+4/5/2022 21:28:54: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 58.85
+4/5/2022 21:28:54: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 73.21
+4/5/2022 21:28:54: [G_Auto 1] :  Store Value (Shared) for market: stake = 18.6
+4/5/2022 21:28:54: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 132.06
+4/5/2022 21:28:54: [G_Auto 1] :  Store Value (Shared) for market: pl = -4.38
+4/5/2022 21:28:54: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.42
+4/5/2022 21:28:54: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.4
+4/5/2022 21:28:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:29:00: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: aPoints = point: 0; games: 5; sets: 0 
+4/5/2022 21:29:00: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: aServing = serving:1
+4/5/2022 21:29:00: [G_Auto 1] :  Store Text Value (Shared) for Feliciano Lopez: bPoints = point: 0; games: 4; sets: 0 
+4/5/2022 21:29:00: [G_Auto 1] :  Store Text Value (Shared) for Feliciano Lopez: bServing = serving:0
+4/5/2022 21:29:00: [G_Auto 1] :  Store Value (Shared) for market: price = 1.42
+4/5/2022 21:29:00: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 58.85
+4/5/2022 21:29:00: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 73.21
+4/5/2022 21:29:00: [G_Auto 1] :  Store Value (Shared) for market: stake = 18.6
+4/5/2022 21:29:00: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 132.06
+4/5/2022 21:29:00: [G_Auto 1] :  Store Value (Shared) for market: pl = -4.51
+4/5/2022 21:29:00: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.4
+4/5/2022 21:29:00: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.5
+4/5/2022 21:29:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:29:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:29:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:29:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:30:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:30:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:30:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:30:49: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:31:05: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:31:21: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:33:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:33:48: [G_Auto 1] :  Store Value (Shared) for market: aFirstSetPrice = 1.3
+4/5/2022 21:33:48: [G_Auto 1] :  Store Value (Shared) for market: bFirstSetPrice = 4.2
+4/5/2022 21:33:51: [G_Auto 2] :  Placed closure bet with greening on Gijs Brouwer by Backing 20.32 at 1.3
+4/5/2022 21:33:54: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: aPoints = point: 0; games: 0; sets: 1 
+4/5/2022 21:33:54: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: aServing = serving:0
+4/5/2022 21:33:54: [G_Auto 1] :  Store Text Value (Shared) for Feliciano Lopez: bPoints = point: 0; games: 0; sets: 0 
+4/5/2022 21:33:54: [G_Auto 1] :  Store Text Value (Shared) for Feliciano Lopez: bServing = serving:2
+4/5/2022 21:33:54: [G_Auto 1] :  Store Value (Shared) for market: price = 1.3
+4/5/2022 21:33:54: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 79.17
+4/5/2022 21:33:54: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 73.21
+4/5/2022 21:33:54: [G_Auto 1] :  Store Value (Shared) for market: stake = 20.32
+4/5/2022 21:33:54: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 152.38
+4/5/2022 21:33:54: [G_Auto 1] :  Store Value (Shared) for market: pl = -5.96
+4/5/2022 21:33:54: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.3
+4/5/2022 21:33:54: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.2
+4/5/2022 21:33:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:34:00: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: aPoints = point: 0; games: 0; sets: 1 
+4/5/2022 21:34:00: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: aServing = serving:0
+4/5/2022 21:34:00: [G_Auto 1] :  Store Text Value (Shared) for Feliciano Lopez: bPoints = point: 0; games: 0; sets: 0 
+4/5/2022 21:34:00: [G_Auto 1] :  Store Text Value (Shared) for Feliciano Lopez: bServing = serving:2
+4/5/2022 21:34:00: [G_Auto 1] :  Store Value (Shared) for market: price = 1.3
+4/5/2022 21:34:00: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 79.17
+4/5/2022 21:34:00: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 73.21
+4/5/2022 21:34:00: [G_Auto 1] :  Store Value (Shared) for market: stake = 20.32
+4/5/2022 21:34:00: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 152.38
+4/5/2022 21:34:00: [G_Auto 1] :  Store Value (Shared) for market: pl = -5.96
+4/5/2022 21:34:00: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.3
+4/5/2022 21:34:00: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.2
+4/5/2022 21:34:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:34:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:34:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:34:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:35:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:35:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:35:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:35:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:36:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:36:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:36:36: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:36:52: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:39:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:39:21: [G_Auto 2] :  € 61.54 Lay bet placed on Gijs Brouwer at 1.13. Fully matched at 1.12.  Ref: 10666          ( Fill or kill bet with 15 seconds delay.   )
+4/5/2022 21:39:24: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: aPoints = point: 0; games: 1; sets: 1 
+4/5/2022 21:39:24: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: aServing = serving:1
+4/5/2022 21:39:24: [G_Auto 1] :  Store Text Value (Shared) for Feliciano Lopez: bPoints = point: 0; games: 0; sets: 0 
+4/5/2022 21:39:24: [G_Auto 1] :  Store Text Value (Shared) for Feliciano Lopez: bServing = serving:0
+4/5/2022 21:39:24: [G_Auto 1] :  Store Value (Shared) for market: price = 1.12
+4/5/2022 21:39:24: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 79.17
+4/5/2022 21:39:24: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 134.75
+4/5/2022 21:39:24: [G_Auto 1] :  Store Value (Shared) for market: stake = 61.54
+4/5/2022 21:39:24: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 213.92
+4/5/2022 21:39:24: [G_Auto 1] :  Store Value (Shared) for market: pl = -6.52
+4/5/2022 21:39:24: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.12
+4/5/2022 21:39:24: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 9.4
+4/5/2022 21:39:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:39:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:39:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:40:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:40:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:40:37: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:43:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:44:02: [G_Auto 2] :  Placed closure bet with greening on Gijs Brouwer by Backing 63.23 at 1.09
+4/5/2022 21:44:05: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: aPoints = point: 0; games: 2; sets: 1 
+4/5/2022 21:44:05: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: aServing = serving:0
+4/5/2022 21:44:05: [G_Auto 1] :  Store Text Value (Shared) for Feliciano Lopez: bPoints = point: 0; games: 0; sets: 0 
+4/5/2022 21:44:05: [G_Auto 1] :  Store Text Value (Shared) for Feliciano Lopez: bServing = serving:2
+4/5/2022 21:44:05: [G_Auto 1] :  Store Value (Shared) for market: price = 1.09
+4/5/2022 21:44:05: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 142.4
+4/5/2022 21:44:05: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 134.75
+4/5/2022 21:44:05: [G_Auto 1] :  Store Value (Shared) for market: stake = 63.23
+4/5/2022 21:44:05: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 277.15
+4/5/2022 21:44:05: [G_Auto 1] :  Store Value (Shared) for market: pl = -7.65
+4/5/2022 21:44:05: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.1
+4/5/2022 21:44:05: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 11.5
+4/5/2022 21:44:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:44:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:44:39: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:44:57: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:45:14: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:46:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:46:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:46:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:47:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:47:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:47:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:47:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:48:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:48:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:48:42: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:49:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:49:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:50:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:50:17: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:50:35: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:55:06: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:55:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:55:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:55:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:56:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:56:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:56:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:57:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:57:18: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:57:36: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:58:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:58:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:59:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:59:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:59:23: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:59:41: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:59:58: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 22:01:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:01:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:02:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:02:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:02:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:02:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:03:06: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:03:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:03:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:03:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:03:57: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 22:04:13: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 22:04:29: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 22:06:09:  Guardian has detected that the market is suspended

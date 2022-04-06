@@ -1,0 +1,682 @@
+4/5/2022 11:28:33: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: info = marketName: Garin v Sock - Match Odds; runnerA: Cristian Garin; runnerB: Jack Sock 
+4/5/2022 11:28:33: [G_Auto 1] :  Store Value (Shared) for market: aId = 23814703
+4/5/2022 11:28:33: [G_Auto 1] :  Store Value (Shared) for market: bId = 4596957
+4/6/2022 00:29:49:  Guardian has detected that the market is suspended
+4/6/2022 00:29:51:  Guardian has detected that the market is in-play
+4/6/2022 00:29:52: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 2.1; bBsp: 1.89; volume: 43942.57 
+4/6/2022 00:29:52: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 2.1; bBsp: 1.89; volume: 43942.57 
+4/6/2022 00:29:52:  Guardian has detected that the market is now unsuspended
+4/6/2022 00:29:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 00:30:05: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 00:30:07: [G_Auto 2] :  € 9.76 Lay bet placed on Jack Sock at 1.82. Entirely unmatched when it initially reached the market.   Ref: 10786          ( Fill or kill bet with 15 seconds delay.   )
+4/6/2022 00:30:20: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 00:30:22: [G_Auto 2] :  € 9.76 unmatched bet (Ref:10786) was killed.
+4/6/2022 00:30:37: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 00:32:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 00:32:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 00:32:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 00:32:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 00:33:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 00:33:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 00:33:35: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 00:33:50: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 00:36:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 00:36:13: [G_Auto 2] :  € 9.09 Lay bet placed on Jack Sock at 1.88. Entirely unmatched when it initially reached the market.   Ref: 10790          ( Fill or kill bet with 15 seconds delay.   )
+4/6/2022 00:36:16: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 1; sets: 0 
+4/6/2022 00:36:16: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:0
+4/6/2022 00:36:16: [G_Auto 1] :  Store Text Value (Shared) for Jack Sock: bPoints = point: 0; games: 1; sets: 0 
+4/6/2022 00:36:16: [G_Auto 1] :  Store Text Value (Shared) for Jack Sock: bServing = serving:2
+4/6/2022 00:36:16: [G_Auto 1] :  Store Value (Shared) for market: price = 1.88
+4/6/2022 00:36:16: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 0
+4/6/2022 00:36:16: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 9.09
+4/6/2022 00:36:16: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.09
+4/6/2022 00:36:16: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 9.09
+4/6/2022 00:36:16: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.1
+4/6/2022 00:36:16: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.18
+4/6/2022 00:36:16: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.88
+4/6/2022 00:36:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 00:36:16: [G_Auto 2] :  € 9.09 of unmatched bet (Ref:10790) was filled before remainder was killed.
+4/6/2022 00:36:21: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 1; sets: 0 
+4/6/2022 00:36:21: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:0
+4/6/2022 00:36:21: [G_Auto 1] :  Store Text Value (Shared) for Jack Sock: bPoints = point: 0; games: 1; sets: 0 
+4/6/2022 00:36:21: [G_Auto 1] :  Store Text Value (Shared) for Jack Sock: bServing = serving:2
+4/6/2022 00:36:21: [G_Auto 1] :  Store Value (Shared) for market: price = 1.88
+4/6/2022 00:36:21: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 0
+4/6/2022 00:36:21: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 9.09
+4/6/2022 00:36:21: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.09
+4/6/2022 00:36:21: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 9.09
+4/6/2022 00:36:21: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.15
+4/6/2022 00:36:21: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.18
+4/6/2022 00:36:21: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.86
+4/6/2022 00:36:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 00:36:43: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 00:36:58: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 00:38:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 00:38:12: [G_Auto 2] :  Placed closure bet with greening on Jack Sock by Backing 10.17 at 1.68
+4/6/2022 00:38:13: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 1; sets: 0 
+4/6/2022 00:38:13: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:1
+4/6/2022 00:38:13: [G_Auto 1] :  Store Text Value (Shared) for Jack Sock: bPoints = point: 0; games: 2; sets: 0 
+4/6/2022 00:38:13: [G_Auto 1] :  Store Text Value (Shared) for Jack Sock: bServing = serving:0
+4/6/2022 00:38:13: [G_Auto 1] :  Store Value (Shared) for market: price = 1.72
+4/6/2022 00:38:13: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 10.17
+4/6/2022 00:38:13: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 9.09
+4/6/2022 00:38:13: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.17
+4/6/2022 00:38:13: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 19.26
+4/6/2022 00:38:13: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.85
+4/6/2022 00:38:13: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.4
+4/6/2022 00:38:13: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.72
+4/6/2022 00:38:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 00:38:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 00:38:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 00:39:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 00:39:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 00:39:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 00:39:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 00:40:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 00:40:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 00:40:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 00:40:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 00:41:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 00:41:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 00:41:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 00:41:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 00:42:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 00:42:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 00:42:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 00:43:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 00:43:16: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 00:44:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 00:44:26: [G_Auto 2] :  € 8.70 Lay bet placed on Jack Sock at 1.92. Entirely unmatched when it initially reached the market.   Ref: 10794          ( Fill or kill bet with 15 seconds delay.   )
+4/6/2022 00:44:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 00:44:40: [G_Auto 2] :  € 8.7 of unmatched bet (Ref:10794) was filled before remainder was killed.
+4/6/2022 00:44:40: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 2; sets: 0 
+4/6/2022 00:44:40: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:0
+4/6/2022 00:44:40: [G_Auto 1] :  Store Text Value (Shared) for Jack Sock: bPoints = point: 0; games: 2; sets: 0 
+4/6/2022 00:44:40: [G_Auto 1] :  Store Text Value (Shared) for Jack Sock: bServing = serving:2
+4/6/2022 00:44:40: [G_Auto 1] :  Store Value (Shared) for market: price = 1.92
+4/6/2022 00:44:40: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 10.17
+4/6/2022 00:44:40: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 17.79
+4/6/2022 00:44:40: [G_Auto 1] :  Store Value (Shared) for market: stake = 8.7
+4/6/2022 00:44:40: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 27.96
+4/6/2022 00:44:40: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.14
+4/6/2022 00:44:40: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.1
+4/6/2022 00:44:40: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.87
+4/6/2022 00:44:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 00:44:46: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 2; sets: 0 
+4/6/2022 00:44:46: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:0
+4/6/2022 00:44:46: [G_Auto 1] :  Store Text Value (Shared) for Jack Sock: bPoints = point: 0; games: 2; sets: 0 
+4/6/2022 00:44:46: [G_Auto 1] :  Store Text Value (Shared) for Jack Sock: bServing = serving:2
+4/6/2022 00:44:46: [G_Auto 1] :  Store Value (Shared) for market: price = 1.92
+4/6/2022 00:44:46: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 10.17
+4/6/2022 00:44:46: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 17.79
+4/6/2022 00:44:46: [G_Auto 1] :  Store Value (Shared) for market: stake = 8.7
+4/6/2022 00:44:46: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 27.96
+4/6/2022 00:44:46: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.14
+4/6/2022 00:44:46: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.14
+4/6/2022 00:44:46: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.87
+4/6/2022 00:45:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 00:45:06: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 00:45:23: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 00:45:39: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 00:52:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 00:53:12: [G_Auto 2] :  Placed closure bet with greening on Jack Sock by Backing 9.42 at 1.73
+4/6/2022 00:53:12: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 2; sets: 0 
+4/6/2022 00:53:12: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:1
+4/6/2022 00:53:12: [G_Auto 1] :  Store Text Value (Shared) for Jack Sock: bPoints = point: 0; games: 3; sets: 0 
+4/6/2022 00:53:12: [G_Auto 1] :  Store Text Value (Shared) for Jack Sock: bServing = serving:0
+4/6/2022 00:53:12: [G_Auto 1] :  Store Value (Shared) for market: price = 1.75
+4/6/2022 00:53:12: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 19.59
+4/6/2022 00:53:12: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 17.79
+4/6/2022 00:53:12: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.42
+4/6/2022 00:53:12: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 37.38
+4/6/2022 00:53:12: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.7
+4/6/2022 00:53:12: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.26
+4/6/2022 00:53:12: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.79
+4/6/2022 00:53:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 00:53:17: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 2; sets: 0 
+4/6/2022 00:53:17: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:1
+4/6/2022 00:53:17: [G_Auto 1] :  Store Text Value (Shared) for Jack Sock: bPoints = point: 0; games: 3; sets: 0 
+4/6/2022 00:53:17: [G_Auto 1] :  Store Text Value (Shared) for Jack Sock: bServing = serving:0
+4/6/2022 00:53:17: [G_Auto 1] :  Store Value (Shared) for market: price = 1.75
+4/6/2022 00:53:17: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 19.59
+4/6/2022 00:53:17: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 17.79
+4/6/2022 00:53:17: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.42
+4/6/2022 00:53:17: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 37.38
+4/6/2022 00:53:17: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.7
+4/6/2022 00:53:17: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.32
+4/6/2022 00:53:17: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.79
+4/6/2022 00:53:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 00:53:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 00:54:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 00:54:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 00:54:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 00:54:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 00:55:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 00:55:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 00:55:28: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 00:55:43: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 00:57:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 00:58:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 00:58:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 00:58:30: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 00:58:45: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 01:01:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:01:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:01:39: [G_Auto 2] :  Placed closure bet with greening on Jack Sock by Laying 0.10 at 1.86
+4/6/2022 01:01:39: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 3; sets: 0 
+4/6/2022 01:01:39: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:1
+4/6/2022 01:01:39: [G_Auto 1] :  Store Text Value (Shared) for Jack Sock: bPoints = point: 0; games: 4; sets: 0 
+4/6/2022 01:01:39: [G_Auto 1] :  Store Text Value (Shared) for Jack Sock: bServing = serving:0
+4/6/2022 01:01:39: [G_Auto 1] :  Store Value (Shared) for market: price = 1.85
+4/6/2022 01:01:39: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 19.59
+4/6/2022 01:01:39: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 17.89
+4/6/2022 01:01:39: [G_Auto 1] :  Store Value (Shared) for market: stake = 0.1
+4/6/2022 01:01:39: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 37.48
+4/6/2022 01:01:39: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.7
+4/6/2022 01:01:39: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.16
+4/6/2022 01:01:39: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.85
+4/6/2022 01:01:46: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 3; sets: 0 
+4/6/2022 01:01:46: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:1
+4/6/2022 01:01:46: [G_Auto 1] :  Store Text Value (Shared) for Jack Sock: bPoints = point: 0; games: 4; sets: 0 
+4/6/2022 01:01:46: [G_Auto 1] :  Store Text Value (Shared) for Jack Sock: bServing = serving:0
+4/6/2022 01:01:46: [G_Auto 1] :  Store Value (Shared) for market: price = 1.85
+4/6/2022 01:01:46: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 19.59
+4/6/2022 01:01:46: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 17.89
+4/6/2022 01:01:46: [G_Auto 1] :  Store Value (Shared) for market: stake = 0.1
+4/6/2022 01:01:46: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 37.48
+4/6/2022 01:01:46: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.7
+4/6/2022 01:01:46: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.16
+4/6/2022 01:01:46: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.87
+4/6/2022 01:01:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:02:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:02:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:02:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:02:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:03:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:03:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:03:40: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 01:03:55: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 01:05:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:05:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:06:06: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:06:16: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 01:06:32: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 01:06:47: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 01:07:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:08:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:08:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:08:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:08:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:09:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:09:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:09:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:09:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:10:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:10:24: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 01:10:39: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 01:10:55: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 01:15:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:15:32: [G_Auto 1] :  Store Value (Shared) for market: aFirstSetPrice = 3.15
+4/6/2022 01:15:32: [G_Auto 1] :  Store Value (Shared) for market: bFirstSetPrice = 1.27
+4/6/2022 01:15:36: [G_Auto 2] :  € 29.63 Lay bet placed on Jack Sock at 1.27. Fully matched at 1.27.  Ref: 10809          ( Fill or kill bet with 15 seconds delay.   )
+4/6/2022 01:15:37: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 0; sets: 0 
+4/6/2022 01:15:37: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:0
+4/6/2022 01:15:37: [G_Auto 1] :  Store Text Value (Shared) for Jack Sock: bPoints = point: 0; games: 0; sets: 1 
+4/6/2022 01:15:37: [G_Auto 1] :  Store Text Value (Shared) for Jack Sock: bServing = serving:2
+4/6/2022 01:15:37: [G_Auto 1] :  Store Value (Shared) for market: price = 1.27
+4/6/2022 01:15:37: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 19.59
+4/6/2022 01:15:37: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 47.52
+4/6/2022 01:15:37: [G_Auto 1] :  Store Value (Shared) for market: stake = 29.63
+4/6/2022 01:15:37: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 67.11
+4/6/2022 01:15:37: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.94
+4/6/2022 01:15:37: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 4.8
+4/6/2022 01:15:37: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.27
+4/6/2022 01:15:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:15:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:16:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:16:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:16:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:17:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:17:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:17:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:17:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:18:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:18:09: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 01:18:26: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 01:18:41: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 01:22:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:23:03: [G_Auto 2] :  Placed closure bet with greening on Jack Sock by Backing 30.35 at 1.24
+4/6/2022 01:23:04: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 0; sets: 0 
+4/6/2022 01:23:04: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:1
+4/6/2022 01:23:04: [G_Auto 1] :  Store Text Value (Shared) for Jack Sock: bPoints = point: 0; games: 1; sets: 1 
+4/6/2022 01:23:04: [G_Auto 1] :  Store Text Value (Shared) for Jack Sock: bServing = serving:0
+4/6/2022 01:23:04: [G_Auto 1] :  Store Value (Shared) for market: price = 1.24
+4/6/2022 01:23:04: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 49.94
+4/6/2022 01:23:04: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 47.52
+4/6/2022 01:23:04: [G_Auto 1] :  Store Value (Shared) for market: stake = 30.35
+4/6/2022 01:23:04: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 97.46
+4/6/2022 01:23:04: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.42
+4/6/2022 01:23:04: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 5
+4/6/2022 01:23:04: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.25
+4/6/2022 01:23:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:23:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:23:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:23:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:24:03: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 01:24:20: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 01:27:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:27:48: [G_Auto 2] :  € 27.59 Lay bet placed on Jack Sock at 1.29. Fully matched at 1.28.  Ref: 10818          ( Fill or kill bet with 15 seconds delay.   )
+4/6/2022 01:27:48: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 1; sets: 0 
+4/6/2022 01:27:48: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:0
+4/6/2022 01:27:48: [G_Auto 1] :  Store Text Value (Shared) for Jack Sock: bPoints = point: 0; games: 1; sets: 1 
+4/6/2022 01:27:48: [G_Auto 1] :  Store Text Value (Shared) for Jack Sock: bServing = serving:2
+4/6/2022 01:27:48: [G_Auto 1] :  Store Value (Shared) for market: price = 1.28
+4/6/2022 01:27:48: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 49.94
+4/6/2022 01:27:48: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 75.11
+4/6/2022 01:27:48: [G_Auto 1] :  Store Value (Shared) for market: stake = 27.59
+4/6/2022 01:27:48: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 125.05
+4/6/2022 01:27:48: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.63
+4/6/2022 01:27:48: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 4.8
+4/6/2022 01:27:48: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.27
+4/6/2022 01:27:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:28:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:28:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:28:23: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 01:28:39: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 01:28:56: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 01:31:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:31:33: [G_Auto 2] :  Placed closure bet with greening on Jack Sock by Backing 22.07 at 1.6
+4/6/2022 01:31:33: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 2; sets: 0 
+4/6/2022 01:31:33: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:1
+4/6/2022 01:31:33: [G_Auto 1] :  Store Text Value (Shared) for Jack Sock: bPoints = point: 0; games: 1; sets: 1 
+4/6/2022 01:31:33: [G_Auto 1] :  Store Text Value (Shared) for Jack Sock: bServing = serving:0
+4/6/2022 01:31:33: [G_Auto 1] :  Store Value (Shared) for market: price = 1.6
+4/6/2022 01:31:33: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 72.01
+4/6/2022 01:31:33: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 75.11
+4/6/2022 01:31:33: [G_Auto 1] :  Store Value (Shared) for market: stake = 22.07
+4/6/2022 01:31:33: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 147.12
+4/6/2022 01:31:33: [G_Auto 1] :  Store Value (Shared) for market: pl = 3.04
+4/6/2022 01:31:33: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.7
+4/6/2022 01:31:33: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.6
+4/6/2022 01:31:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:31:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:32:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:32:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:32:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:32:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:33:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:33:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:33:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:33:47: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 01:37:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:37:17: [G_Auto 2] :  € 11.59 Lay bet placed on Jack Sock at 1.69. Fully matched at 1.69.  Ref: 10824          ( Fill or kill bet with 15 seconds delay.   )
+4/6/2022 01:37:17: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 3; sets: 0 
+4/6/2022 01:37:17: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:0
+4/6/2022 01:37:17: [G_Auto 1] :  Store Text Value (Shared) for Jack Sock: bPoints = point: 0; games: 1; sets: 1 
+4/6/2022 01:37:17: [G_Auto 1] :  Store Text Value (Shared) for Jack Sock: bServing = serving:2
+4/6/2022 01:37:17: [G_Auto 1] :  Store Value (Shared) for market: price = 1.69
+4/6/2022 01:37:17: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 72.01
+4/6/2022 01:37:17: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 86.7
+4/6/2022 01:37:17: [G_Auto 1] :  Store Value (Shared) for market: stake = 11.59
+4/6/2022 01:37:17: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 158.71
+4/6/2022 01:37:17: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.97
+4/6/2022 01:37:17: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.58
+4/6/2022 01:37:17: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.68
+4/6/2022 01:37:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:37:36: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 01:37:52: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 01:39:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:40:11: [G_Auto 2] :  Placed closure bet with greening on Jack Sock by Backing 12.24 at 1.6
+4/6/2022 01:40:11: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 3; sets: 0 
+4/6/2022 01:40:11: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:1
+4/6/2022 01:40:11: [G_Auto 1] :  Store Text Value (Shared) for Jack Sock: bPoints = point: 0; games: 2; sets: 1 
+4/6/2022 01:40:11: [G_Auto 1] :  Store Text Value (Shared) for Jack Sock: bServing = serving:0
+4/6/2022 01:40:11: [G_Auto 1] :  Store Value (Shared) for market: price = 1.6
+4/6/2022 01:40:11: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 84.25
+4/6/2022 01:40:11: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 86.7
+4/6/2022 01:40:11: [G_Auto 1] :  Store Value (Shared) for market: stake = 12.24
+4/6/2022 01:40:11: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 170.95
+4/6/2022 01:40:11: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.4
+4/6/2022 01:40:11: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.6
+4/6/2022 01:40:11: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.61
+4/6/2022 01:40:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:40:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:40:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:41:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:41:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:41:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:41:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:42:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:42:23: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 01:42:40: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 01:43:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:43:59: [G_Auto 2] :  € 9.52 Lay bet placed on Jack Sock at 1.84. Fully matched at 1.83.  Ref: 10829          ( Fill or kill bet with 15 seconds delay.   )
+4/6/2022 01:43:59: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 4; sets: 0 
+4/6/2022 01:43:59: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:0
+4/6/2022 01:43:59: [G_Auto 1] :  Store Text Value (Shared) for Jack Sock: bPoints = point: 0; games: 2; sets: 1 
+4/6/2022 01:43:59: [G_Auto 1] :  Store Text Value (Shared) for Jack Sock: bServing = serving:2
+4/6/2022 01:43:59: [G_Auto 1] :  Store Value (Shared) for market: price = 1.83
+4/6/2022 01:43:59: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 84.25
+4/6/2022 01:43:59: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 96.22
+4/6/2022 01:43:59: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.52
+4/6/2022 01:43:59: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 180.47
+4/6/2022 01:43:59: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.35
+4/6/2022 01:43:59: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.22
+4/6/2022 01:43:59: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.82
+4/6/2022 01:44:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:44:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:44:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:44:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:44:52: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 01:45:09: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 01:46:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:46:23: [G_Auto 2] :  Placed closure bet with greening on Jack Sock by Backing 10.13 at 1.72
+4/6/2022 01:46:23: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 4; sets: 0 
+4/6/2022 01:46:23: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:1
+4/6/2022 01:46:23: [G_Auto 1] :  Store Text Value (Shared) for Jack Sock: bPoints = point: 0; games: 3; sets: 1 
+4/6/2022 01:46:23: [G_Auto 1] :  Store Text Value (Shared) for Jack Sock: bServing = serving:0
+4/6/2022 01:46:23: [G_Auto 1] :  Store Value (Shared) for market: price = 1.75
+4/6/2022 01:46:23: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 94.38
+4/6/2022 01:46:23: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 96.22
+4/6/2022 01:46:23: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.13
+4/6/2022 01:46:23: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 190.6
+4/6/2022 01:46:23: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.97
+4/6/2022 01:46:23: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.34
+4/6/2022 01:46:23: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.75
+4/6/2022 01:46:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:46:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:46:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:47:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:47:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:47:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:48:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:48:07: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 01:52:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:52:27: [G_Auto 2] :  € 9.30 Lay bet placed on Jack Sock at 1.86. Fully matched at 1.85.  Ref: 10833          ( Fill or kill bet with 15 seconds delay.   )
+4/6/2022 01:52:27: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 5; sets: 0 
+4/6/2022 01:52:27: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:0
+4/6/2022 01:52:27: [G_Auto 1] :  Store Text Value (Shared) for Jack Sock: bPoints = point: 0; games: 3; sets: 1 
+4/6/2022 01:52:27: [G_Auto 1] :  Store Text Value (Shared) for Jack Sock: bServing = serving:2
+4/6/2022 01:52:27: [G_Auto 1] :  Store Value (Shared) for market: price = 1.85
+4/6/2022 01:52:27: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 94.38
+4/6/2022 01:52:27: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 105.52
+4/6/2022 01:52:27: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.3
+4/6/2022 01:52:27: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 199.9
+4/6/2022 01:52:27: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.91
+4/6/2022 01:52:27: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.16
+4/6/2022 01:52:27: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.84
+4/6/2022 01:52:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:52:33: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 5; sets: 0 
+4/6/2022 01:52:33: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:0
+4/6/2022 01:52:33: [G_Auto 1] :  Store Text Value (Shared) for Jack Sock: bPoints = point: 0; games: 3; sets: 1 
+4/6/2022 01:52:33: [G_Auto 1] :  Store Text Value (Shared) for Jack Sock: bServing = serving:2
+4/6/2022 01:52:33: [G_Auto 1] :  Store Value (Shared) for market: price = 1.85
+4/6/2022 01:52:33: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 94.38
+4/6/2022 01:52:33: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 105.52
+4/6/2022 01:52:33: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.3
+4/6/2022 01:52:33: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 199.9
+4/6/2022 01:52:33: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.86
+4/6/2022 01:52:33: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.16
+4/6/2022 01:52:33: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.83
+4/6/2022 01:52:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:52:54: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 01:56:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:56:45: [G_Auto 1] :  Store Value (Shared) for market: aSecondSetPrice = 1.9
+4/6/2022 01:56:45: [G_Auto 1] :  Store Value (Shared) for market: bSecondSetPrice = 2.12
+4/6/2022 01:56:49: [G_Auto 2] :  Placed closure bet with greening on Jack Sock by Backing 7.97 at 2.12
+4/6/2022 01:56:49: [G_Auto 2] :  € 9.20 Lay bet placed on Cristian Garin at 1.87. Entirely unmatched when it initially reached the market.   Ref: 10834          ( Fill or kill bet with 15 seconds delay.   )
+4/6/2022 01:56:50: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 0; sets: 1 
+4/6/2022 01:56:50: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:1
+4/6/2022 01:56:50: [G_Auto 1] :  Store Text Value (Shared) for Jack Sock: bPoints = point: 0; games: 0; sets: 1 
+4/6/2022 01:56:50: [G_Auto 1] :  Store Text Value (Shared) for Jack Sock: bServing = serving:0
+4/6/2022 01:56:50: [G_Auto 1] :  Store Value (Shared) for market: price = 2.12
+4/6/2022 01:56:50: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 102.35
+4/6/2022 01:56:50: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 105.52
+4/6/2022 01:56:50: [G_Auto 1] :  Store Value (Shared) for market: stake = 7.97
+4/6/2022 01:56:50: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 207.87
+4/6/2022 01:56:50: [G_Auto 1] :  Store Value (Shared) for market: pl = 3.11
+4/6/2022 01:56:50: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.88
+4/6/2022 01:56:50: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.14
+4/6/2022 01:56:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:57:05: [G_Auto 2] :  € 9.2 unmatched bet (Ref:10834) was killed.
+4/6/2022 01:57:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:57:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:57:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:57:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:58:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:58:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:58:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:59:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:59:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:59:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 01:59:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:00:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:00:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:00:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:00:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:01:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:01:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:01:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:02:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:02:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:02:23: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 02:02:39: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 02:03:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:03:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:04:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:04:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:04:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:04:52: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 02:05:07: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 02:05:23: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 02:06:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:07:07: [G_Auto 2] :  € 9.20 Lay bet placed on Cristian Garin at 1.87. Entirely unmatched when it initially reached the market.   Ref: 10839          ( Fill or kill bet with 15 seconds delay.   )
+4/6/2022 02:07:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:07:11: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 1; sets: 1 
+4/6/2022 02:07:11: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:1
+4/6/2022 02:07:11: [G_Auto 1] :  Store Text Value (Shared) for Jack Sock: bPoints = point: 0; games: 1; sets: 1 
+4/6/2022 02:07:11: [G_Auto 1] :  Store Text Value (Shared) for Jack Sock: bServing = serving:0
+4/6/2022 02:07:11: [G_Auto 1] :  Store Value (Shared) for market: price = 1.87
+4/6/2022 02:07:11: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 102.35
+4/6/2022 02:07:11: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 114.72
+4/6/2022 02:07:11: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.2
+4/6/2022 02:07:11: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 217.07
+4/6/2022 02:07:11: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.96
+4/6/2022 02:07:11: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.84
+4/6/2022 02:07:11: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.14
+4/6/2022 02:07:11: [G_Auto 2] :  € 9.2 of unmatched bet (Ref:10839) was filled before remainder was killed.
+4/6/2022 02:07:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:07:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:07:42: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 02:07:59: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 02:08:14: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 02:11:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:11:57: [G_Auto 2] :  € 20.51 Lay bet placed on Jack Sock at 1.39. Fully matched at 1.38.  Ref: 10840          ( Fill or kill bet with 15 seconds delay.   )
+4/6/2022 02:11:57: [G_Auto 2] :  Placed closure bet with greening on Cristian Garin by Backing 4.78 at 3.6
+4/6/2022 02:11:57: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 1; sets: 1 
+4/6/2022 02:11:57: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:0
+4/6/2022 02:11:57: [G_Auto 1] :  Store Text Value (Shared) for Jack Sock: bPoints = point: 0; games: 2; sets: 1 
+4/6/2022 02:11:57: [G_Auto 1] :  Store Text Value (Shared) for Jack Sock: bServing = serving:2
+4/6/2022 02:11:57: [G_Auto 1] :  Store Value (Shared) for market: price = 3.6
+4/6/2022 02:11:57: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 107.13
+4/6/2022 02:11:57: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 135.23
+4/6/2022 02:11:57: [G_Auto 1] :  Store Value (Shared) for market: stake = 4.78
+4/6/2022 02:11:57: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 242.36
+4/6/2022 02:11:57: [G_Auto 1] :  Store Value (Shared) for market: pl = 7.29
+4/6/2022 02:11:57: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.6
+4/6/2022 02:11:57: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.38
+4/6/2022 02:12:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:12:04: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 1; sets: 1 
+4/6/2022 02:12:04: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:0
+4/6/2022 02:12:04: [G_Auto 1] :  Store Text Value (Shared) for Jack Sock: bPoints = point: 0; games: 2; sets: 1 
+4/6/2022 02:12:04: [G_Auto 1] :  Store Text Value (Shared) for Jack Sock: bServing = serving:2
+4/6/2022 02:12:04: [G_Auto 1] :  Store Value (Shared) for market: price = 3.6
+4/6/2022 02:12:04: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 107.13
+4/6/2022 02:12:04: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 135.23
+4/6/2022 02:12:04: [G_Auto 1] :  Store Value (Shared) for market: stake = 4.78
+4/6/2022 02:12:04: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 242.36
+4/6/2022 02:12:04: [G_Auto 1] :  Store Value (Shared) for market: pl = 7.44
+4/6/2022 02:12:04: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.6
+4/6/2022 02:12:04: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.39
+4/6/2022 02:12:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:12:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:12:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:13:06: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:13:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:13:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:13:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:14:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:14:16: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 02:14:32: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 02:17:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:17:46: [G_Auto 2] :  Placed closure bet with greening on Jack Sock by Backing 23.40 at 1.21
+4/6/2022 02:17:46: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 1; sets: 1 
+4/6/2022 02:17:46: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:1
+4/6/2022 02:17:46: [G_Auto 1] :  Store Text Value (Shared) for Jack Sock: bPoints = point: 0; games: 3; sets: 1 
+4/6/2022 02:17:46: [G_Auto 1] :  Store Text Value (Shared) for Jack Sock: bServing = serving:0
+4/6/2022 02:17:46: [G_Auto 1] :  Store Value (Shared) for market: price = 1.21
+4/6/2022 02:17:46: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 130.53
+4/6/2022 02:17:46: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 135.23
+4/6/2022 02:17:46: [G_Auto 1] :  Store Value (Shared) for market: stake = 23.4
+4/6/2022 02:17:46: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 265.76
+4/6/2022 02:17:46: [G_Auto 1] :  Store Value (Shared) for market: pl = 4.61
+4/6/2022 02:17:46: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 5.5
+4/6/2022 02:17:46: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.22
+4/6/2022 02:17:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:18:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:18:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:18:24: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 02:18:39: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 02:18:54: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 02:20:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:20:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:20:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:21:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:21:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:21:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:21:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:22:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:22:23: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 02:22:38: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 02:26:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:26:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:26:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:26:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:27:07: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 02:27:23: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 02:29:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:29:49: [G_Auto 2] :  € 32.00 Lay bet placed on Jack Sock at 1.25. Fully matched at 1.24.  Ref: 10846          ( Fill or kill bet with 15 seconds delay.   )
+4/6/2022 02:29:50: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 3; sets: 1 
+4/6/2022 02:29:50: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:0
+4/6/2022 02:29:50: [G_Auto 1] :  Store Text Value (Shared) for Jack Sock: bPoints = point: 0; games: 4; sets: 1 
+4/6/2022 02:29:50: [G_Auto 1] :  Store Text Value (Shared) for Jack Sock: bServing = serving:2
+4/6/2022 02:29:50: [G_Auto 1] :  Store Value (Shared) for market: price = 1.24
+4/6/2022 02:29:50: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 130.53
+4/6/2022 02:29:50: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 167.23
+4/6/2022 02:29:50: [G_Auto 1] :  Store Value (Shared) for market: stake = 32
+4/6/2022 02:29:50: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 297.76
+4/6/2022 02:29:50: [G_Auto 1] :  Store Value (Shared) for market: pl = 4.36
+4/6/2022 02:29:50: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 5.4
+4/6/2022 02:29:50: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.23
+4/6/2022 02:29:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:30:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:30:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:30:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:30:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:31:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:31:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:31:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:31:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:32:05: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 02:32:21: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 02:32:37: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 02:37:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:37:48: [G_Auto 2] :  Placed closure bet with greening on Jack Sock by Backing 19.45 at 2.04
+4/6/2022 02:37:48: [G_Auto 2] :  € 8.25 Lay bet placed on Cristian Garin at 1.97. Entirely unmatched when it initially reached the market.   Ref: 10849          ( Fill or kill bet with 15 seconds delay.   )
+4/6/2022 02:37:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:37:51: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 4; sets: 1 
+4/6/2022 02:37:51: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:1
+4/6/2022 02:37:51: [G_Auto 1] :  Store Text Value (Shared) for Jack Sock: bPoints = point: 0; games: 4; sets: 1 
+4/6/2022 02:37:51: [G_Auto 1] :  Store Text Value (Shared) for Jack Sock: bServing = serving:0
+4/6/2022 02:37:51: [G_Auto 1] :  Store Value (Shared) for market: price = 1.97
+4/6/2022 02:37:51: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 149.98
+4/6/2022 02:37:51: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 175.48
+4/6/2022 02:37:51: [G_Auto 1] :  Store Value (Shared) for market: stake = 8.25
+4/6/2022 02:37:51: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 325.46
+4/6/2022 02:37:51: [G_Auto 1] :  Store Value (Shared) for market: pl = 16.83
+4/6/2022 02:37:51: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.96
+4/6/2022 02:37:51: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.04
+4/6/2022 02:37:51: [G_Auto 2] :  € 8.25 of unmatched bet (Ref:10849) was filled before remainder was killed.
+4/6/2022 02:37:57: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 4; sets: 1 
+4/6/2022 02:37:57: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:1
+4/6/2022 02:37:57: [G_Auto 1] :  Store Text Value (Shared) for Jack Sock: bPoints = point: 0; games: 4; sets: 1 
+4/6/2022 02:37:57: [G_Auto 1] :  Store Text Value (Shared) for Jack Sock: bServing = serving:0
+4/6/2022 02:37:57: [G_Auto 1] :  Store Value (Shared) for market: price = 1.97
+4/6/2022 02:37:57: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 149.98
+4/6/2022 02:37:57: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 175.48
+4/6/2022 02:37:57: [G_Auto 1] :  Store Value (Shared) for market: stake = 8.25
+4/6/2022 02:37:57: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 325.46
+4/6/2022 02:37:57: [G_Auto 1] :  Store Value (Shared) for market: pl = 16.87
+4/6/2022 02:37:57: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.96
+4/6/2022 02:37:57: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.04
+4/6/2022 02:38:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:38:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:38:33: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 02:38:49: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 02:40:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:40:28: [G_Auto 2] :  Placed closure bet with greening on Cristian Garin by Backing 10.42 at 1.56
+4/6/2022 02:40:30: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 5; sets: 1 
+4/6/2022 02:40:30: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:0
+4/6/2022 02:40:30: [G_Auto 1] :  Store Text Value (Shared) for Jack Sock: bPoints = point: 0; games: 4; sets: 1 
+4/6/2022 02:40:30: [G_Auto 1] :  Store Text Value (Shared) for Jack Sock: bServing = serving:2
+4/6/2022 02:40:30: [G_Auto 1] :  Store Value (Shared) for market: price = 1.56
+4/6/2022 02:40:30: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 160.4
+4/6/2022 02:40:30: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 175.48
+4/6/2022 02:40:30: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.42
+4/6/2022 02:40:30: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 335.88
+4/6/2022 02:40:30: [G_Auto 1] :  Store Value (Shared) for market: pl = 14.79
+4/6/2022 02:40:30: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.57
+4/6/2022 02:40:30: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.74
+4/6/2022 02:40:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:40:35: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 5; sets: 1 
+4/6/2022 02:40:35: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:0
+4/6/2022 02:40:35: [G_Auto 1] :  Store Text Value (Shared) for Jack Sock: bPoints = point: 0; games: 4; sets: 1 
+4/6/2022 02:40:35: [G_Auto 1] :  Store Text Value (Shared) for Jack Sock: bServing = serving:2
+4/6/2022 02:40:35: [G_Auto 1] :  Store Value (Shared) for market: price = 1.56
+4/6/2022 02:40:35: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 160.4
+4/6/2022 02:40:35: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 175.48
+4/6/2022 02:40:35: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.42
+4/6/2022 02:40:35: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 335.88
+4/6/2022 02:40:35: [G_Auto 1] :  Store Value (Shared) for market: pl = 14.79
+4/6/2022 02:40:35: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.58
+4/6/2022 02:40:35: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.74
+4/6/2022 02:40:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:41:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:41:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:41:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:41:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:42:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:42:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:42:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:42:42: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 02:42:58: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 02:43:14: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 02:44:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:44:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:45:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:45:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:45:24: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 02:45:40: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 02:46:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:46:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:47:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:47:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:47:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:48:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:48:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:48:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:48:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:48:52: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 02:49:08: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 02:52:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 02:52:42:  Guardian has detected that the market is suspended

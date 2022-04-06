@@ -1,0 +1,576 @@
+4/5/2022 11:28:39: [G_Auto 1] :  Store Text Value (Shared) for Sloane Stephens: info = marketName: Stephens v Qinw Zheng - Match Odds; runnerA: Sloane Stephens; runnerB: Qinwen Zheng 
+4/5/2022 11:28:39: [G_Auto 1] :  Store Value (Shared) for market: aId = 2923342
+4/5/2022 11:28:39: [G_Auto 1] :  Store Value (Shared) for market: bId = 18848380
+4/5/2022 18:52:19:  Guardian has detected that the market is in-play
+4/5/2022 18:52:19:  Guardian has detected that the market is suspended
+4/5/2022 18:52:25: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.72; bBsp: 2.38; volume: 29498.28 
+4/5/2022 18:52:25: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.72; bBsp: 2.38; volume: 29498.28 
+4/5/2022 18:52:25:  Guardian has detected that the market is now unsuspended
+4/5/2022 18:52:36: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 18:52:53: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 18:54:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 18:54:17: [G_Auto 2] :  € 16.67 Lay bet placed on Sloane Stephens at 1.48. Fully matched at 1.47.  Ref: 10457          ( Fill or kill bet with 15 seconds delay.   )
+4/5/2022 18:54:20: [G_Auto 1] :  Store Text Value (Shared) for Sloane Stephens: aPoints = point: 0; games: 1; sets: 0 
+4/5/2022 18:54:20: [G_Auto 1] :  Store Text Value (Shared) for Sloane Stephens: aServing = serving:1
+4/5/2022 18:54:20: [G_Auto 1] :  Store Text Value (Shared) for Qinwen Zheng: bPoints = point: 0; games: 0; sets: 0 
+4/5/2022 18:54:20: [G_Auto 1] :  Store Text Value (Shared) for Qinwen Zheng: bServing = serving:0
+4/5/2022 18:54:20: [G_Auto 1] :  Store Value (Shared) for market: price = 1.47
+4/5/2022 18:54:20: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 0
+4/5/2022 18:54:20: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 16.67
+4/5/2022 18:54:20: [G_Auto 1] :  Store Value (Shared) for market: stake = 16.67
+4/5/2022 18:54:20: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 16.67
+4/5/2022 18:54:20: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.11
+4/5/2022 18:54:20: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.47
+4/5/2022 18:54:20: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.96
+4/5/2022 18:54:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 18:54:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 18:54:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 18:55:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 18:55:24: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 18:55:41: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 18:58:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 18:58:54: [G_Auto 2] :  Placed closure bet with greening on Sloane Stephens by Backing 13.69 at 1.79
+4/5/2022 18:58:57: [G_Auto 1] :  Store Text Value (Shared) for Sloane Stephens: aPoints = point: 0; games: 1; sets: 0 
+4/5/2022 18:58:57: [G_Auto 1] :  Store Text Value (Shared) for Sloane Stephens: aServing = serving:0
+4/5/2022 18:58:57: [G_Auto 1] :  Store Text Value (Shared) for Qinwen Zheng: bPoints = point: 0; games: 1; sets: 0 
+4/5/2022 18:58:57: [G_Auto 1] :  Store Text Value (Shared) for Qinwen Zheng: bServing = serving:2
+4/5/2022 18:58:57: [G_Auto 1] :  Store Value (Shared) for market: price = 1.79
+4/5/2022 18:58:57: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 13.69
+4/5/2022 18:58:57: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 16.67
+4/5/2022 18:58:57: [G_Auto 1] :  Store Value (Shared) for market: stake = 13.69
+4/5/2022 18:58:57: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 30.36
+4/5/2022 18:58:57: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.92
+4/5/2022 18:58:57: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.79
+4/5/2022 18:58:57: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.28
+4/5/2022 18:58:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 18:59:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 18:59:20: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 18:59:38: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 18:59:55: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 19:02:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:02:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:02:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:03:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:03:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:03:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:03:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:04:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:04:31: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 19:04:48: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 19:07:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:07:45: [G_Auto 2] :  € 14.55 Lay bet placed on Qinwen Zheng at 1.55. Fully matched at 1.55.  Ref: 10482          ( Fill or kill bet with 15 seconds delay.   )
+4/5/2022 19:07:48: [G_Auto 1] :  Store Text Value (Shared) for Sloane Stephens: aPoints = point: 0; games: 1; sets: 0 
+4/5/2022 19:07:48: [G_Auto 1] :  Store Text Value (Shared) for Sloane Stephens: aServing = serving:0
+4/5/2022 19:07:48: [G_Auto 1] :  Store Text Value (Shared) for Qinwen Zheng: bPoints = point: 0; games: 3; sets: 0 
+4/5/2022 19:07:48: [G_Auto 1] :  Store Text Value (Shared) for Qinwen Zheng: bServing = serving:2
+4/5/2022 19:07:48: [G_Auto 1] :  Store Value (Shared) for market: price = 1.55
+4/5/2022 19:07:48: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 13.69
+4/5/2022 19:07:48: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 31.22
+4/5/2022 19:07:48: [G_Auto 1] :  Store Value (Shared) for market: stake = 14.55
+4/5/2022 19:07:48: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 44.91
+4/5/2022 19:07:48: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.83
+4/5/2022 19:07:48: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.84
+4/5/2022 19:07:48: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.55
+4/5/2022 19:07:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:08:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:08:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:08:33: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 19:08:50: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 19:09:06: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 19:09:23: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 19:12:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:12:19: [G_Auto 2] :  Placed closure bet with greening on Qinwen Zheng by Backing 15.88 at 1.42
+4/5/2022 19:12:22: [G_Auto 1] :  Store Text Value (Shared) for Sloane Stephens: aPoints = point: 0; games: 1; sets: 0 
+4/5/2022 19:12:22: [G_Auto 1] :  Store Text Value (Shared) for Sloane Stephens: aServing = serving:1
+4/5/2022 19:12:22: [G_Auto 1] :  Store Text Value (Shared) for Qinwen Zheng: bPoints = point: 0; games: 4; sets: 0 
+4/5/2022 19:12:22: [G_Auto 1] :  Store Text Value (Shared) for Qinwen Zheng: bServing = serving:0
+4/5/2022 19:12:22: [G_Auto 1] :  Store Value (Shared) for market: price = 1.42
+4/5/2022 19:12:22: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 29.57
+4/5/2022 19:12:22: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 31.22
+4/5/2022 19:12:22: [G_Auto 1] :  Store Value (Shared) for market: stake = 15.88
+4/5/2022 19:12:22: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 60.79
+4/5/2022 19:12:22: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.62
+4/5/2022 19:12:22: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.3
+4/5/2022 19:12:22: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.43
+4/5/2022 19:12:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:12:27: [G_Auto 1] :  Store Text Value (Shared) for Sloane Stephens: aPoints = point: 0; games: 1; sets: 0 
+4/5/2022 19:12:27: [G_Auto 1] :  Store Text Value (Shared) for Sloane Stephens: aServing = serving:1
+4/5/2022 19:12:27: [G_Auto 1] :  Store Text Value (Shared) for Qinwen Zheng: bPoints = point: 0; games: 4; sets: 0 
+4/5/2022 19:12:27: [G_Auto 1] :  Store Text Value (Shared) for Qinwen Zheng: bServing = serving:0
+4/5/2022 19:12:27: [G_Auto 1] :  Store Value (Shared) for market: price = 1.42
+4/5/2022 19:12:27: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 29.57
+4/5/2022 19:12:27: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 31.22
+4/5/2022 19:12:27: [G_Auto 1] :  Store Value (Shared) for market: stake = 15.88
+4/5/2022 19:12:27: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 60.79
+4/5/2022 19:12:27: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.62
+4/5/2022 19:12:27: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.4
+4/5/2022 19:12:27: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.43
+4/5/2022 19:12:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:12:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:13:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:13:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:13:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:14:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:14:20: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 19:14:36: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 19:14:53: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 19:16:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:16:26: [G_Auto 2] :  € 13.79 Lay bet placed on Qinwen Zheng at 1.58. Fully matched at 1.58.  Ref: 10497          ( Fill or kill bet with 15 seconds delay.   )
+4/5/2022 19:16:28: [G_Auto 1] :  Store Text Value (Shared) for Sloane Stephens: aPoints = point: 0; games: 2; sets: 0 
+4/5/2022 19:16:28: [G_Auto 1] :  Store Text Value (Shared) for Sloane Stephens: aServing = serving:0
+4/5/2022 19:16:28: [G_Auto 1] :  Store Text Value (Shared) for Qinwen Zheng: bPoints = point: 0; games: 4; sets: 0 
+4/5/2022 19:16:28: [G_Auto 1] :  Store Text Value (Shared) for Qinwen Zheng: bServing = serving:2
+4/5/2022 19:16:28: [G_Auto 1] :  Store Value (Shared) for market: price = 1.58
+4/5/2022 19:16:28: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 29.57
+4/5/2022 19:16:28: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 45.01
+4/5/2022 19:16:28: [G_Auto 1] :  Store Value (Shared) for market: stake = 13.79
+4/5/2022 19:16:28: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 74.58
+4/5/2022 19:16:28: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.44
+4/5/2022 19:16:28: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.74
+4/5/2022 19:16:28: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.56
+4/5/2022 19:16:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:16:34: [G_Auto 1] :  Store Text Value (Shared) for Sloane Stephens: aPoints = point: 0; games: 2; sets: 0 
+4/5/2022 19:16:34: [G_Auto 1] :  Store Text Value (Shared) for Sloane Stephens: aServing = serving:0
+4/5/2022 19:16:34: [G_Auto 1] :  Store Text Value (Shared) for Qinwen Zheng: bPoints = point: 0; games: 4; sets: 0 
+4/5/2022 19:16:34: [G_Auto 1] :  Store Text Value (Shared) for Qinwen Zheng: bServing = serving:2
+4/5/2022 19:16:34: [G_Auto 1] :  Store Value (Shared) for market: price = 1.58
+4/5/2022 19:16:34: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 29.57
+4/5/2022 19:16:34: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 45.01
+4/5/2022 19:16:34: [G_Auto 1] :  Store Value (Shared) for market: stake = 13.79
+4/5/2022 19:16:34: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 74.58
+4/5/2022 19:16:34: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.53
+4/5/2022 19:16:34: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.74
+4/5/2022 19:16:34: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.58
+4/5/2022 19:16:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:17:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:17:08: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 19:17:24: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 19:17:41: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 19:19:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:19:36: [G_Auto 2] :  Placed closure bet with greening on Qinwen Zheng by Backing 15.45 at 1.41
+4/5/2022 19:19:39: [G_Auto 1] :  Store Text Value (Shared) for Sloane Stephens: aPoints = point: 0; games: 2; sets: 0 
+4/5/2022 19:19:39: [G_Auto 1] :  Store Text Value (Shared) for Sloane Stephens: aServing = serving:1
+4/5/2022 19:19:39: [G_Auto 1] :  Store Text Value (Shared) for Qinwen Zheng: bPoints = point: 0; games: 5; sets: 0 
+4/5/2022 19:19:39: [G_Auto 1] :  Store Text Value (Shared) for Qinwen Zheng: bServing = serving:0
+4/5/2022 19:19:39: [G_Auto 1] :  Store Value (Shared) for market: price = 1.41
+4/5/2022 19:19:39: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 45.02
+4/5/2022 19:19:39: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 45.01
+4/5/2022 19:19:39: [G_Auto 1] :  Store Value (Shared) for market: stake = 15.45
+4/5/2022 19:19:39: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 90.03
+4/5/2022 19:19:39: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.01
+4/5/2022 19:19:39: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.4
+4/5/2022 19:19:39: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.41
+4/5/2022 19:19:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:19:44: [G_Auto 1] :  Store Text Value (Shared) for Sloane Stephens: aPoints = point: 0; games: 2; sets: 0 
+4/5/2022 19:19:44: [G_Auto 1] :  Store Text Value (Shared) for Sloane Stephens: aServing = serving:1
+4/5/2022 19:19:44: [G_Auto 1] :  Store Text Value (Shared) for Qinwen Zheng: bPoints = point: 0; games: 5; sets: 0 
+4/5/2022 19:19:44: [G_Auto 1] :  Store Text Value (Shared) for Qinwen Zheng: bServing = serving:0
+4/5/2022 19:19:44: [G_Auto 1] :  Store Value (Shared) for market: price = 1.41
+4/5/2022 19:19:44: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 45.02
+4/5/2022 19:19:44: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 45.01
+4/5/2022 19:19:44: [G_Auto 1] :  Store Value (Shared) for market: stake = 15.45
+4/5/2022 19:19:44: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 90.03
+4/5/2022 19:19:44: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.01
+4/5/2022 19:19:44: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.4
+4/5/2022 19:19:44: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.42
+4/5/2022 19:19:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:20:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:20:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:20:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:21:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:21:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:21:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:21:47: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 19:22:04: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 19:27:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:27:22: [G_Auto 2] :  € 17.02 Lay bet placed on Qinwen Zheng at 1.47. Fully matched at 1.46.  Ref: 10518          ( Fill or kill bet with 15 seconds delay.   )
+4/5/2022 19:27:24: [G_Auto 1] :  Store Text Value (Shared) for Sloane Stephens: aPoints = point: 0; games: 3; sets: 0 
+4/5/2022 19:27:24: [G_Auto 1] :  Store Text Value (Shared) for Sloane Stephens: aServing = serving:0
+4/5/2022 19:27:24: [G_Auto 1] :  Store Text Value (Shared) for Qinwen Zheng: bPoints = point: 0; games: 5; sets: 0 
+4/5/2022 19:27:24: [G_Auto 1] :  Store Text Value (Shared) for Qinwen Zheng: bServing = serving:2
+4/5/2022 19:27:24: [G_Auto 1] :  Store Value (Shared) for market: price = 1.46
+4/5/2022 19:27:24: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 45.02
+4/5/2022 19:27:24: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 62.03
+4/5/2022 19:27:24: [G_Auto 1] :  Store Value (Shared) for market: stake = 17.02
+4/5/2022 19:27:24: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 107.05
+4/5/2022 19:27:24: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.13
+4/5/2022 19:27:24: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.15
+4/5/2022 19:27:24: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.46
+4/5/2022 19:27:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:27:29: [G_Auto 1] :  Store Text Value (Shared) for Sloane Stephens: aPoints = point: 0; games: 3; sets: 0 
+4/5/2022 19:27:29: [G_Auto 1] :  Store Text Value (Shared) for Sloane Stephens: aServing = serving:0
+4/5/2022 19:27:29: [G_Auto 1] :  Store Text Value (Shared) for Qinwen Zheng: bPoints = point: 0; games: 5; sets: 0 
+4/5/2022 19:27:29: [G_Auto 1] :  Store Text Value (Shared) for Qinwen Zheng: bServing = serving:2
+4/5/2022 19:27:29: [G_Auto 1] :  Store Value (Shared) for market: price = 1.46
+4/5/2022 19:27:29: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 45.02
+4/5/2022 19:27:29: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 62.03
+4/5/2022 19:27:29: [G_Auto 1] :  Store Value (Shared) for market: stake = 17.02
+4/5/2022 19:27:29: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 107.05
+4/5/2022 19:27:29: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.13
+4/5/2022 19:27:29: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.15
+4/5/2022 19:27:29: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.45
+4/5/2022 19:27:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:27:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:28:01: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 19:28:18: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 19:30:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:30:49: [G_Auto 1] :  Store Value (Shared) for market: aFirstSetPrice = 3.9
+4/5/2022 19:30:49: [G_Auto 1] :  Store Value (Shared) for market: bFirstSetPrice = 1.34
+4/5/2022 19:30:52: [G_Auto 2] :  Placed closure bet with greening on Qinwen Zheng by Backing 18.69 at 1.33
+4/5/2022 19:30:54: [G_Auto 1] :  Store Text Value (Shared) for Sloane Stephens: aPoints = point: 0; games: 0; sets: 0 
+4/5/2022 19:30:54: [G_Auto 1] :  Store Text Value (Shared) for Sloane Stephens: aServing = serving:1
+4/5/2022 19:30:54: [G_Auto 1] :  Store Text Value (Shared) for Qinwen Zheng: bPoints = point: 0; games: 0; sets: 1 
+4/5/2022 19:30:54: [G_Auto 1] :  Store Text Value (Shared) for Qinwen Zheng: bServing = serving:0
+4/5/2022 19:30:54: [G_Auto 1] :  Store Value (Shared) for market: price = 1.33
+4/5/2022 19:30:54: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 63.71
+4/5/2022 19:30:54: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 62.03
+4/5/2022 19:30:54: [G_Auto 1] :  Store Value (Shared) for market: stake = 18.69
+4/5/2022 19:30:54: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 125.74
+4/5/2022 19:30:54: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.68
+4/5/2022 19:30:54: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.9
+4/5/2022 19:30:54: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.35
+4/5/2022 19:30:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:31:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:31:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:31:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:31:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:32:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:32:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:32:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:33:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:33:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:33:32: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 19:33:47: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 19:34:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:34:46: [G_Auto 2] :  € 15.38 Lay bet placed on Qinwen Zheng at 1.52. Fully matched at 1.52.  Ref: 10533          ( Fill or kill bet with 15 seconds delay.   )
+4/5/2022 19:34:48: [G_Auto 1] :  Store Text Value (Shared) for Sloane Stephens: aPoints = point: 0; games: 1; sets: 0 
+4/5/2022 19:34:48: [G_Auto 1] :  Store Text Value (Shared) for Sloane Stephens: aServing = serving:0
+4/5/2022 19:34:48: [G_Auto 1] :  Store Text Value (Shared) for Qinwen Zheng: bPoints = point: 0; games: 0; sets: 1 
+4/5/2022 19:34:48: [G_Auto 1] :  Store Text Value (Shared) for Qinwen Zheng: bServing = serving:2
+4/5/2022 19:34:48: [G_Auto 1] :  Store Value (Shared) for market: price = 1.52
+4/5/2022 19:34:48: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 63.71
+4/5/2022 19:34:48: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 77.41
+4/5/2022 19:34:48: [G_Auto 1] :  Store Value (Shared) for market: stake = 15.38
+4/5/2022 19:34:48: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 141.12
+4/5/2022 19:34:48: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.78
+4/5/2022 19:34:48: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3
+4/5/2022 19:34:48: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.52
+4/5/2022 19:34:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:34:53: [G_Auto 1] :  Store Text Value (Shared) for Sloane Stephens: aPoints = point: 0; games: 1; sets: 0 
+4/5/2022 19:34:53: [G_Auto 1] :  Store Text Value (Shared) for Sloane Stephens: aServing = serving:0
+4/5/2022 19:34:53: [G_Auto 1] :  Store Text Value (Shared) for Qinwen Zheng: bPoints = point: 0; games: 0; sets: 1 
+4/5/2022 19:34:53: [G_Auto 1] :  Store Text Value (Shared) for Qinwen Zheng: bServing = serving:2
+4/5/2022 19:34:53: [G_Auto 1] :  Store Value (Shared) for market: price = 1.52
+4/5/2022 19:34:53: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 63.71
+4/5/2022 19:34:53: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 77.41
+4/5/2022 19:34:53: [G_Auto 1] :  Store Value (Shared) for market: stake = 15.38
+4/5/2022 19:34:53: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 141.12
+4/5/2022 19:34:53: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.88
+4/5/2022 19:34:53: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.92
+4/5/2022 19:34:53: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.5
+4/5/2022 19:35:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:35:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:35:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:35:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:36:01: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 19:36:16: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 19:36:31: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 19:38:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:39:09: [G_Auto 2] :  Placed closure bet with greening on Qinwen Zheng by Backing 12.77 at 1.83
+4/5/2022 19:39:11: [G_Auto 1] :  Store Text Value (Shared) for Sloane Stephens: aPoints = point: 0; games: 2; sets: 0 
+4/5/2022 19:39:11: [G_Auto 1] :  Store Text Value (Shared) for Sloane Stephens: aServing = serving:1
+4/5/2022 19:39:11: [G_Auto 1] :  Store Text Value (Shared) for Qinwen Zheng: bPoints = point: 0; games: 0; sets: 1 
+4/5/2022 19:39:11: [G_Auto 1] :  Store Text Value (Shared) for Qinwen Zheng: bServing = serving:0
+4/5/2022 19:39:11: [G_Auto 1] :  Store Value (Shared) for market: price = 1.83
+4/5/2022 19:39:11: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 76.48
+4/5/2022 19:39:11: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 77.41
+4/5/2022 19:39:11: [G_Auto 1] :  Store Value (Shared) for market: stake = 12.77
+4/5/2022 19:39:11: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 153.89
+4/5/2022 19:39:11: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.91
+4/5/2022 19:39:11: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.18
+4/5/2022 19:39:11: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.83
+4/5/2022 19:39:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:39:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:39:42: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 19:39:57: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 19:45:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:45:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:46:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:46:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:46:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:46:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:47:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:47:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:47:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:48:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:48:16: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 19:48:34: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 19:51:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:51:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:51:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:52:08: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 19:52:26: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 19:55:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:55:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:55:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:56:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:56:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:56:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:56:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:57:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:57:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 19:57:39: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 19:57:57: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 19:58:14: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 20:01:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 20:01:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 20:01:40: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 20:09:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 20:09:25: [G_Auto 2] :  € 16.00 Lay bet placed on Qinwen Zheng at 1.5. Fully matched at 1.49.  Ref: 10582          ( Fill or kill bet with 15 seconds delay.   )
+4/5/2022 20:09:27: [G_Auto 1] :  Store Text Value (Shared) for Sloane Stephens: aPoints = point: 0; games: 4; sets: 0 
+4/5/2022 20:09:27: [G_Auto 1] :  Store Text Value (Shared) for Sloane Stephens: aServing = serving:0
+4/5/2022 20:09:27: [G_Auto 1] :  Store Text Value (Shared) for Qinwen Zheng: bPoints = point: 0; games: 3; sets: 1 
+4/5/2022 20:09:27: [G_Auto 1] :  Store Text Value (Shared) for Qinwen Zheng: bServing = serving:2
+4/5/2022 20:09:27: [G_Auto 1] :  Store Value (Shared) for market: price = 1.49
+4/5/2022 20:09:27: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 76.48
+4/5/2022 20:09:27: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 93.41
+4/5/2022 20:09:27: [G_Auto 1] :  Store Value (Shared) for market: stake = 16
+4/5/2022 20:09:27: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 169.89
+4/5/2022 20:09:27: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.7
+4/5/2022 20:09:27: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.1
+4/5/2022 20:09:27: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.49
+4/5/2022 20:09:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 20:09:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 20:10:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 20:10:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 20:10:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 20:10:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 20:11:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 20:11:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 20:11:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 20:11:52: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 20:12:09: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 20:12:26: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 20:12:44: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 20:13:01: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 20:13:18: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 20:59:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 20:59:20: [G_Auto 2] :  Placed closure bet with greening on Qinwen Zheng by Backing 17.53 at 1.36
+4/5/2022 20:59:21: [G_Auto 1] :  Store Text Value (Shared) for Sloane Stephens: aPoints = point: 0; games: 4; sets: 0 
+4/5/2022 20:59:21: [G_Auto 1] :  Store Text Value (Shared) for Sloane Stephens: aServing = serving:1
+4/5/2022 20:59:21: [G_Auto 1] :  Store Text Value (Shared) for Qinwen Zheng: bPoints = point: 0; games: 4; sets: 1 
+4/5/2022 20:59:21: [G_Auto 1] :  Store Text Value (Shared) for Qinwen Zheng: bServing = serving:0
+4/5/2022 20:59:21: [G_Auto 1] :  Store Value (Shared) for market: price = 1.36
+4/5/2022 20:59:21: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 94.01
+4/5/2022 20:59:21: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 93.41
+4/5/2022 20:59:21: [G_Auto 1] :  Store Value (Shared) for market: stake = 17.53
+4/5/2022 20:59:21: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 187.42
+4/5/2022 20:59:21: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.6
+4/5/2022 20:59:21: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.6
+4/5/2022 20:59:21: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.38
+4/5/2022 20:59:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 20:59:28: [G_Auto 1] :  Store Text Value (Shared) for Sloane Stephens: aPoints = point: 0; games: 4; sets: 0 
+4/5/2022 20:59:28: [G_Auto 1] :  Store Text Value (Shared) for Sloane Stephens: aServing = serving:1
+4/5/2022 20:59:28: [G_Auto 1] :  Store Text Value (Shared) for Qinwen Zheng: bPoints = point: 0; games: 4; sets: 1 
+4/5/2022 20:59:28: [G_Auto 1] :  Store Text Value (Shared) for Qinwen Zheng: bServing = serving:0
+4/5/2022 20:59:28: [G_Auto 1] :  Store Value (Shared) for market: price = 1.36
+4/5/2022 20:59:28: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 94.01
+4/5/2022 20:59:28: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 93.41
+4/5/2022 20:59:28: [G_Auto 1] :  Store Value (Shared) for market: stake = 17.53
+4/5/2022 20:59:28: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 187.42
+4/5/2022 20:59:28: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.6
+4/5/2022 20:59:28: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.55
+4/5/2022 20:59:28: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.39
+4/5/2022 20:59:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 20:59:46: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:00:03: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:03:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:03:18: [G_Auto 2] :  € 12.90 Lay bet placed on Qinwen Zheng at 1.62. Entirely unmatched when it initially reached the market.   Ref: 10627          ( Fill or kill bet with 15 seconds delay.   )
+4/5/2022 21:03:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:03:26: [G_Auto 2] :  € 12.9 of unmatched bet (Ref:10627) was filled before remainder was killed.
+4/5/2022 21:03:26: [G_Auto 1] :  Store Text Value (Shared) for Sloane Stephens: aPoints = point: 0; games: 5; sets: 0 
+4/5/2022 21:03:26: [G_Auto 1] :  Store Text Value (Shared) for Sloane Stephens: aServing = serving:0
+4/5/2022 21:03:26: [G_Auto 1] :  Store Text Value (Shared) for Qinwen Zheng: bPoints = point: 0; games: 4; sets: 1 
+4/5/2022 21:03:26: [G_Auto 1] :  Store Text Value (Shared) for Qinwen Zheng: bServing = serving:2
+4/5/2022 21:03:26: [G_Auto 1] :  Store Value (Shared) for market: price = 1.62
+4/5/2022 21:03:26: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 94.01
+4/5/2022 21:03:26: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 106.31
+4/5/2022 21:03:26: [G_Auto 1] :  Store Value (Shared) for market: stake = 12.9
+4/5/2022 21:03:26: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 200.32
+4/5/2022 21:03:26: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.85
+4/5/2022 21:03:26: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.68
+4/5/2022 21:03:26: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.59
+4/5/2022 21:03:33: [G_Auto 1] :  Store Text Value (Shared) for Sloane Stephens: aPoints = point: 0; games: 5; sets: 0 
+4/5/2022 21:03:33: [G_Auto 1] :  Store Text Value (Shared) for Sloane Stephens: aServing = serving:0
+4/5/2022 21:03:33: [G_Auto 1] :  Store Text Value (Shared) for Qinwen Zheng: bPoints = point: 0; games: 4; sets: 1 
+4/5/2022 21:03:33: [G_Auto 1] :  Store Text Value (Shared) for Qinwen Zheng: bServing = serving:2
+4/5/2022 21:03:33: [G_Auto 1] :  Store Value (Shared) for market: price = 1.62
+4/5/2022 21:03:33: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 94.01
+4/5/2022 21:03:33: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 106.31
+4/5/2022 21:03:33: [G_Auto 1] :  Store Value (Shared) for market: stake = 12.9
+4/5/2022 21:03:33: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 200.32
+4/5/2022 21:03:33: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.93
+4/5/2022 21:03:33: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.68
+4/5/2022 21:03:33: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.58
+4/5/2022 21:03:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:03:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:04:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:04:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:04:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:05:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:05:23: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:05:40: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:08:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:08:29: [G_Auto 1] :  Store Value (Shared) for market: aSecondSetPrice = 1.82
+4/5/2022 21:08:29: [G_Auto 1] :  Store Value (Shared) for market: bSecondSetPrice = 2.18
+4/5/2022 21:08:35: [G_Auto 2] :  € 9.64 Lay bet placed on Sloane Stephens at 1.83. Entirely unmatched when it initially reached the market.   Ref: 10631          ( Fill or kill bet with 15 seconds delay.   )
+4/5/2022 21:08:35: [G_Auto 2] :  Placed closure bet with greening on Qinwen Zheng by Backing 9.68 at 2.16
+4/5/2022 21:08:36: [G_Auto 1] :  Store Text Value (Shared) for Sloane Stephens: aPoints = point: 0; games: 0; sets: 1 
+4/5/2022 21:08:36: [G_Auto 1] :  Store Text Value (Shared) for Sloane Stephens: aServing = serving:1
+4/5/2022 21:08:36: [G_Auto 1] :  Store Text Value (Shared) for Qinwen Zheng: bPoints = point: 0; games: 0; sets: 1 
+4/5/2022 21:08:36: [G_Auto 1] :  Store Text Value (Shared) for Qinwen Zheng: bServing = serving:0
+4/5/2022 21:08:36: [G_Auto 1] :  Store Value (Shared) for market: price = 2.16
+4/5/2022 21:08:36: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 103.69
+4/5/2022 21:08:36: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 106.31
+4/5/2022 21:08:36: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.68
+4/5/2022 21:08:36: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 210
+4/5/2022 21:08:36: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.57
+4/5/2022 21:08:36: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.84
+4/5/2022 21:08:36: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.16
+4/5/2022 21:08:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:08:47: [G_Auto 2] :  € 9.64 of unmatched bet (Ref:10631) was filled before remainder was killed.
+4/5/2022 21:08:47: [G_Auto 1] :  Store Text Value (Shared) for Sloane Stephens: aPoints = point: 0; games: 0; sets: 1 
+4/5/2022 21:08:47: [G_Auto 1] :  Store Text Value (Shared) for Sloane Stephens: aServing = serving:1
+4/5/2022 21:08:47: [G_Auto 1] :  Store Text Value (Shared) for Qinwen Zheng: bPoints = point: 0; games: 0; sets: 1 
+4/5/2022 21:08:47: [G_Auto 1] :  Store Text Value (Shared) for Qinwen Zheng: bServing = serving:0
+4/5/2022 21:08:47: [G_Auto 1] :  Store Value (Shared) for market: price = 1.83
+4/5/2022 21:08:47: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 103.69
+4/5/2022 21:08:47: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 115.95
+4/5/2022 21:08:47: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.64
+4/5/2022 21:08:47: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 219.64
+4/5/2022 21:08:47: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.3
+4/5/2022 21:08:47: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.8
+4/5/2022 21:08:47: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.28
+4/5/2022 21:08:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:09:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:09:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:09:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:10:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:10:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:10:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:11:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:11:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:11:22: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:11:39: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:13:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:13:46: [G_Auto 2] :  Placed closure bet with greening on Sloane Stephens by Backing 6.44 at 2.74
+4/5/2022 21:13:46: [G_Auto 2] :  € 14.04 Lay bet placed on Qinwen Zheng at 1.57. Entirely unmatched when it initially reached the market.   Ref: 10641          ( Fill or kill bet with 15 seconds delay.   )
+4/5/2022 21:13:47: [G_Auto 1] :  Store Text Value (Shared) for Sloane Stephens: aPoints = point: 0; games: 0; sets: 1 
+4/5/2022 21:13:47: [G_Auto 1] :  Store Text Value (Shared) for Sloane Stephens: aServing = serving:0
+4/5/2022 21:13:47: [G_Auto 1] :  Store Text Value (Shared) for Qinwen Zheng: bPoints = point: 0; games: 1; sets: 1 
+4/5/2022 21:13:47: [G_Auto 1] :  Store Text Value (Shared) for Qinwen Zheng: bServing = serving:2
+4/5/2022 21:13:47: [G_Auto 1] :  Store Value (Shared) for market: price = 2.74
+4/5/2022 21:13:47: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 110.13
+4/5/2022 21:13:47: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 115.95
+4/5/2022 21:13:47: [G_Auto 1] :  Store Value (Shared) for market: stake = 6.44
+4/5/2022 21:13:47: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 226.08
+4/5/2022 21:13:47: [G_Auto 1] :  Store Value (Shared) for market: pl = 5.7
+4/5/2022 21:13:47: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.74
+4/5/2022 21:13:47: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.58
+4/5/2022 21:13:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:13:54: [G_Auto 2] :  € 14.04 of unmatched bet (Ref:10641) was filled before remainder was killed.
+4/5/2022 21:13:54: [G_Auto 1] :  Store Text Value (Shared) for Sloane Stephens: aPoints = point: 0; games: 0; sets: 1 
+4/5/2022 21:13:54: [G_Auto 1] :  Store Text Value (Shared) for Sloane Stephens: aServing = serving:0
+4/5/2022 21:13:54: [G_Auto 1] :  Store Text Value (Shared) for Qinwen Zheng: bPoints = point: 0; games: 1; sets: 1 
+4/5/2022 21:13:54: [G_Auto 1] :  Store Text Value (Shared) for Qinwen Zheng: bServing = serving:2
+4/5/2022 21:13:54: [G_Auto 1] :  Store Value (Shared) for market: price = 1.57
+4/5/2022 21:13:54: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 110.13
+4/5/2022 21:13:54: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 129.99
+4/5/2022 21:13:54: [G_Auto 1] :  Store Value (Shared) for market: stake = 14.04
+4/5/2022 21:13:54: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 240.12
+4/5/2022 21:13:54: [G_Auto 1] :  Store Value (Shared) for market: pl = 5.54
+4/5/2022 21:13:54: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.74
+4/5/2022 21:13:54: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.57
+4/5/2022 21:14:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:14:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:14:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:15:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:15:15: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:15:33: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:17:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:17:22: [G_Auto 2] :  Placed closure bet with greening on Qinwen Zheng by Backing 16.82 at 1.31
+4/5/2022 21:17:23: [G_Auto 1] :  Store Text Value (Shared) for Sloane Stephens: aPoints = point: 0; games: 0; sets: 1 
+4/5/2022 21:17:23: [G_Auto 1] :  Store Text Value (Shared) for Sloane Stephens: aServing = serving:1
+4/5/2022 21:17:23: [G_Auto 1] :  Store Text Value (Shared) for Qinwen Zheng: bPoints = point: 0; games: 2; sets: 1 
+4/5/2022 21:17:23: [G_Auto 1] :  Store Text Value (Shared) for Qinwen Zheng: bServing = serving:0
+4/5/2022 21:17:23: [G_Auto 1] :  Store Value (Shared) for market: price = 1.31
+4/5/2022 21:17:23: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 126.95
+4/5/2022 21:17:23: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 129.99
+4/5/2022 21:17:23: [G_Auto 1] :  Store Value (Shared) for market: stake = 16.82
+4/5/2022 21:17:23: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 256.94
+4/5/2022 21:17:23: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.98
+4/5/2022 21:17:23: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 4.2
+4/5/2022 21:17:23: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.32
+4/5/2022 21:17:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:17:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:18:02: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:18:20: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:22:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:22:14: [G_Auto 2] :  € 61.54 Lay bet placed on Qinwen Zheng at 1.13. Fully matched at 1.12.  Ref: 10653          ( Fill or kill bet with 15 seconds delay.   )
+4/5/2022 21:22:15: [G_Auto 1] :  Store Text Value (Shared) for Sloane Stephens: aPoints = point: 0; games: 0; sets: 1 
+4/5/2022 21:22:15: [G_Auto 1] :  Store Text Value (Shared) for Sloane Stephens: aServing = serving:0
+4/5/2022 21:22:15: [G_Auto 1] :  Store Text Value (Shared) for Qinwen Zheng: bPoints = point: 0; games: 3; sets: 1 
+4/5/2022 21:22:15: [G_Auto 1] :  Store Text Value (Shared) for Qinwen Zheng: bServing = serving:2
+4/5/2022 21:22:15: [G_Auto 1] :  Store Value (Shared) for market: price = 1.12
+4/5/2022 21:22:15: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 126.95
+4/5/2022 21:22:15: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 191.53
+4/5/2022 21:22:15: [G_Auto 1] :  Store Value (Shared) for market: stake = 61.54
+4/5/2022 21:22:15: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 318.48
+4/5/2022 21:22:15: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.44
+4/5/2022 21:22:15: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 10
+4/5/2022 21:22:15: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.12
+4/5/2022 21:22:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:22:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:22:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:23:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:23:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:23:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:24:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:24:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:24:27: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:24:45: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:25:03: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:28:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:29:02: [G_Auto 2] :  Placed closure bet with greening on Qinwen Zheng by Backing 65.03 at 1.06
+4/5/2022 21:29:05: [G_Auto 1] :  Store Text Value (Shared) for Sloane Stephens: aPoints = point: 0; games: 0; sets: 1 
+4/5/2022 21:29:05: [G_Auto 1] :  Store Text Value (Shared) for Sloane Stephens: aServing = serving:1
+4/5/2022 21:29:05: [G_Auto 1] :  Store Text Value (Shared) for Qinwen Zheng: bPoints = point: 0; games: 4; sets: 1 
+4/5/2022 21:29:05: [G_Auto 1] :  Store Text Value (Shared) for Qinwen Zheng: bServing = serving:0
+4/5/2022 21:29:05: [G_Auto 1] :  Store Value (Shared) for market: price = 1.06
+4/5/2022 21:29:05: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 191.98
+4/5/2022 21:29:05: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 191.53
+4/5/2022 21:29:05: [G_Auto 1] :  Store Value (Shared) for market: stake = 65.03
+4/5/2022 21:29:05: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 383.51
+4/5/2022 21:29:05: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.45
+4/5/2022 21:29:05: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 16.5
+4/5/2022 21:29:05: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.06
+4/5/2022 21:29:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:29:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:29:27: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:29:43: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:30:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:30:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:31:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:31:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:31:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:32:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:32:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:32:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:32:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:33:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:33:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:33:28: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:33:44: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:33:59: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:35:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:36:04:  Guardian has detected that the market is suspended

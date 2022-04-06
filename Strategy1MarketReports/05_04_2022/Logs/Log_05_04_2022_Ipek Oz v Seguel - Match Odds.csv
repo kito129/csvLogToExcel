@@ -1,0 +1,473 @@
+4/5/2022 11:28:37: [G_Auto 1] :  Store Text Value (Shared) for Ipek Oz: info = marketName: Ipek Oz v Seguel - Match Odds; runnerA: Ipek Oz; runnerB: Daniela Seguel 
+4/5/2022 11:28:37: [G_Auto 1] :  Store Value (Shared) for market: aId = 9633124
+4/5/2022 11:28:37: [G_Auto 1] :  Store Value (Shared) for market: bId = 8476179
+4/5/2022 20:52:31:  Guardian has detected that the market is in-play
+4/5/2022 20:52:31:  Guardian has detected that the market is suspended
+4/5/2022 20:52:35: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.8; bBsp: 2.12; volume: 6834.47 
+4/5/2022 20:52:35: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.8; bBsp: 2.12; volume: 6834.47 
+4/5/2022 20:52:35:  Guardian has detected that the market is now unsuspended
+4/5/2022 20:52:40: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 20:56:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 20:56:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 20:56:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 20:57:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 20:57:23: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 20:57:43: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 20:59:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 20:59:37: [G_Auto 2] :  € 19.05 Lay bet placed on Ipek Oz at 1.42. Fully matched at 1.42.  Ref: 10624          ( Fill or kill bet with 15 seconds delay.   )
+4/5/2022 20:59:38: [G_Auto 1] :  Store Text Value (Shared) for Ipek Oz: aPoints = point: 0; games: 2; sets: 0 
+4/5/2022 20:59:38: [G_Auto 1] :  Store Text Value (Shared) for Ipek Oz: aServing = serving:1
+4/5/2022 20:59:38: [G_Auto 1] :  Store Text Value (Shared) for Daniela Seguel: bPoints = point: 0; games: 0; sets: 0 
+4/5/2022 20:59:38: [G_Auto 1] :  Store Text Value (Shared) for Daniela Seguel: bServing = serving:0
+4/5/2022 20:59:38: [G_Auto 1] :  Store Value (Shared) for market: price = 1.42
+4/5/2022 20:59:38: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 0
+4/5/2022 20:59:38: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 19.05
+4/5/2022 20:59:38: [G_Auto 1] :  Store Value (Shared) for market: stake = 19.05
+4/5/2022 20:59:38: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 19.05
+4/5/2022 20:59:38: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.41
+4/5/2022 20:59:38: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.42
+4/5/2022 20:59:38: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.5
+4/5/2022 20:59:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 20:59:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:00:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:00:24: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:00:41: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:05:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:06:04: [G_Auto 2] :  Placed closure bet with greening on Ipek Oz by Backing 17.01 at 1.59
+4/5/2022 21:06:04: [G_Auto 1] :  Store Text Value (Shared) for Ipek Oz: aPoints = point: 0; games: 2; sets: 0 
+4/5/2022 21:06:04: [G_Auto 1] :  Store Text Value (Shared) for Ipek Oz: aServing = serving:0
+4/5/2022 21:06:04: [G_Auto 1] :  Store Text Value (Shared) for Daniela Seguel: bPoints = point: 0; games: 1; sets: 0 
+4/5/2022 21:06:04: [G_Auto 1] :  Store Text Value (Shared) for Daniela Seguel: bServing = serving:2
+4/5/2022 21:06:04: [G_Auto 1] :  Store Value (Shared) for market: price = 1.59
+4/5/2022 21:06:04: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 17.01
+4/5/2022 21:06:04: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 19.05
+4/5/2022 21:06:04: [G_Auto 1] :  Store Value (Shared) for market: stake = 17.01
+4/5/2022 21:06:04: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 36.06
+4/5/2022 21:06:04: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.99
+4/5/2022 21:06:04: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.59
+4/5/2022 21:06:04: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.68
+4/5/2022 21:06:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:06:11: [G_Auto 1] :  Store Text Value (Shared) for Ipek Oz: aPoints = point: 0; games: 2; sets: 0 
+4/5/2022 21:06:11: [G_Auto 1] :  Store Text Value (Shared) for Ipek Oz: aServing = serving:0
+4/5/2022 21:06:11: [G_Auto 1] :  Store Text Value (Shared) for Daniela Seguel: bPoints = point: 0; games: 1; sets: 0 
+4/5/2022 21:06:11: [G_Auto 1] :  Store Text Value (Shared) for Daniela Seguel: bServing = serving:2
+4/5/2022 21:06:11: [G_Auto 1] :  Store Value (Shared) for market: price = 1.59
+4/5/2022 21:06:11: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 17.01
+4/5/2022 21:06:11: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 19.05
+4/5/2022 21:06:11: [G_Auto 1] :  Store Value (Shared) for market: stake = 17.01
+4/5/2022 21:06:11: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 36.06
+4/5/2022 21:06:11: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.99
+4/5/2022 21:06:11: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.59
+4/5/2022 21:06:11: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.7
+4/5/2022 21:06:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:06:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:07:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:07:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:07:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:07:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:08:00: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:08:18: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:10:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:10:42: [G_Auto 2] :  € 10.13 Lay bet placed on Ipek Oz at 1.79. Entirely unmatched when it initially reached the market.   Ref: 10637          ( Fill or kill bet with 15 seconds delay.   )
+4/5/2022 21:10:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:10:53: [G_Auto 1] :  Store Text Value (Shared) for Ipek Oz: aPoints = point: 0; games: 2; sets: 0 
+4/5/2022 21:10:53: [G_Auto 1] :  Store Text Value (Shared) for Ipek Oz: aServing = serving:1
+4/5/2022 21:10:53: [G_Auto 1] :  Store Text Value (Shared) for Daniela Seguel: bPoints = point: 0; games: 2; sets: 0 
+4/5/2022 21:10:53: [G_Auto 1] :  Store Text Value (Shared) for Daniela Seguel: bServing = serving:0
+4/5/2022 21:10:53: [G_Auto 1] :  Store Value (Shared) for market: price = 1.79
+4/5/2022 21:10:53: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 17.01
+4/5/2022 21:10:53: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 29.18
+4/5/2022 21:10:53: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.13
+4/5/2022 21:10:53: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 46.19
+4/5/2022 21:10:53: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.88
+4/5/2022 21:10:53: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.77
+4/5/2022 21:10:53: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.3
+4/5/2022 21:10:53: [G_Auto 2] :  € 10.13 of unmatched bet (Ref:10637) was filled before remainder was killed.
+4/5/2022 21:11:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:11:14: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:11:31: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:13:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:13:46: [G_Auto 2] :  Placed closure bet with greening on Ipek Oz by Backing 11.78 at 1.54
+4/5/2022 21:13:46: [G_Auto 1] :  Store Text Value (Shared) for Ipek Oz: aPoints = point: 0; games: 3; sets: 0 
+4/5/2022 21:13:46: [G_Auto 1] :  Store Text Value (Shared) for Ipek Oz: aServing = serving:0
+4/5/2022 21:13:46: [G_Auto 1] :  Store Text Value (Shared) for Daniela Seguel: bPoints = point: 0; games: 2; sets: 0 
+4/5/2022 21:13:46: [G_Auto 1] :  Store Text Value (Shared) for Daniela Seguel: bServing = serving:2
+4/5/2022 21:13:46: [G_Auto 1] :  Store Value (Shared) for market: price = 1.54
+4/5/2022 21:13:46: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 28.79
+4/5/2022 21:13:46: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 29.18
+4/5/2022 21:13:46: [G_Auto 1] :  Store Value (Shared) for market: stake = 11.78
+4/5/2022 21:13:46: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 57.97
+4/5/2022 21:13:46: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.38
+4/5/2022 21:13:46: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.56
+4/5/2022 21:13:46: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.84
+4/5/2022 21:13:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:13:53: [G_Auto 1] :  Store Text Value (Shared) for Ipek Oz: aPoints = point: 0; games: 3; sets: 0 
+4/5/2022 21:13:53: [G_Auto 1] :  Store Text Value (Shared) for Ipek Oz: aServing = serving:0
+4/5/2022 21:13:53: [G_Auto 1] :  Store Text Value (Shared) for Daniela Seguel: bPoints = point: 0; games: 2; sets: 0 
+4/5/2022 21:13:53: [G_Auto 1] :  Store Text Value (Shared) for Daniela Seguel: bServing = serving:2
+4/5/2022 21:13:53: [G_Auto 1] :  Store Value (Shared) for market: price = 1.54
+4/5/2022 21:13:53: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 28.79
+4/5/2022 21:13:53: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 29.18
+4/5/2022 21:13:53: [G_Auto 1] :  Store Value (Shared) for market: stake = 11.78
+4/5/2022 21:13:53: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 57.97
+4/5/2022 21:13:53: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.38
+4/5/2022 21:13:53: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.56
+4/5/2022 21:13:53: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.84
+4/5/2022 21:14:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:14:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:14:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:15:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:15:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:15:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:15:50: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:16:08: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:18:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:18:40: [G_Auto 2] :  € 22.86 Lay bet placed on Ipek Oz at 1.35. Fully matched at 1.34.  Ref: 10649          ( Fill or kill bet with 15 seconds delay.   )
+4/5/2022 21:18:40: [G_Auto 1] :  Store Text Value (Shared) for Ipek Oz: aPoints = point: 0; games: 4; sets: 0 
+4/5/2022 21:18:40: [G_Auto 1] :  Store Text Value (Shared) for Ipek Oz: aServing = serving:1
+4/5/2022 21:18:40: [G_Auto 1] :  Store Text Value (Shared) for Daniela Seguel: bPoints = point: 0; games: 2; sets: 0 
+4/5/2022 21:18:40: [G_Auto 1] :  Store Text Value (Shared) for Daniela Seguel: bServing = serving:0
+4/5/2022 21:18:40: [G_Auto 1] :  Store Value (Shared) for market: price = 1.34
+4/5/2022 21:18:40: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 28.79
+4/5/2022 21:18:40: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 52.04
+4/5/2022 21:18:40: [G_Auto 1] :  Store Value (Shared) for market: stake = 22.86
+4/5/2022 21:18:40: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 80.83
+4/5/2022 21:18:40: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.22
+4/5/2022 21:18:40: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.34
+4/5/2022 21:18:40: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.88
+4/5/2022 21:18:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:19:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:19:13: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:19:31: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:22:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:22:28: [G_Auto 2] :  Placed closure bet with greening on Ipek Oz by Backing 24.70 at 1.24
+4/5/2022 21:22:28: [G_Auto 1] :  Store Text Value (Shared) for Ipek Oz: aPoints = point: 0; games: 5; sets: 0 
+4/5/2022 21:22:28: [G_Auto 1] :  Store Text Value (Shared) for Ipek Oz: aServing = serving:0
+4/5/2022 21:22:28: [G_Auto 1] :  Store Text Value (Shared) for Daniela Seguel: bPoints = point: 0; games: 2; sets: 0 
+4/5/2022 21:22:28: [G_Auto 1] :  Store Text Value (Shared) for Daniela Seguel: bServing = serving:2
+4/5/2022 21:22:28: [G_Auto 1] :  Store Value (Shared) for market: price = 1.24
+4/5/2022 21:22:28: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 53.49
+4/5/2022 21:22:28: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 52.04
+4/5/2022 21:22:28: [G_Auto 1] :  Store Value (Shared) for market: stake = 24.7
+4/5/2022 21:22:28: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 105.53
+4/5/2022 21:22:28: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.45
+4/5/2022 21:22:28: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.25
+4/5/2022 21:22:28: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 5
+4/5/2022 21:22:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:22:35: [G_Auto 1] :  Store Text Value (Shared) for Ipek Oz: aPoints = point: 0; games: 5; sets: 0 
+4/5/2022 21:22:35: [G_Auto 1] :  Store Text Value (Shared) for Ipek Oz: aServing = serving:0
+4/5/2022 21:22:35: [G_Auto 1] :  Store Text Value (Shared) for Daniela Seguel: bPoints = point: 0; games: 2; sets: 0 
+4/5/2022 21:22:35: [G_Auto 1] :  Store Text Value (Shared) for Daniela Seguel: bServing = serving:2
+4/5/2022 21:22:35: [G_Auto 1] :  Store Value (Shared) for market: price = 1.24
+4/5/2022 21:22:35: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 53.49
+4/5/2022 21:22:35: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 52.04
+4/5/2022 21:22:35: [G_Auto 1] :  Store Value (Shared) for market: stake = 24.7
+4/5/2022 21:22:35: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 105.53
+4/5/2022 21:22:35: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.45
+4/5/2022 21:22:35: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.25
+4/5/2022 21:22:35: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 5
+4/5/2022 21:22:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:23:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:23:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:23:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:24:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:24:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:24:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:24:41: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:26:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:26:49: [G_Auto 1] :  Store Value (Shared) for market: aFirstSetPrice = 1.18
+4/5/2022 21:26:49: [G_Auto 1] :  Store Value (Shared) for market: bFirstSetPrice = 6.2
+4/5/2022 21:26:52: [G_Auto 2] :  € 42.11 Lay bet placed on Ipek Oz at 1.19. Fully matched at 1.19.  Ref: 10657          ( Fill or kill bet with 15 seconds delay.   )
+4/5/2022 21:26:52: [G_Auto 1] :  Store Text Value (Shared) for Ipek Oz: aPoints = point: 0; games: 0; sets: 1 
+4/5/2022 21:26:52: [G_Auto 1] :  Store Text Value (Shared) for Ipek Oz: aServing = serving:1
+4/5/2022 21:26:52: [G_Auto 1] :  Store Text Value (Shared) for Daniela Seguel: bPoints = point: 0; games: 0; sets: 0 
+4/5/2022 21:26:52: [G_Auto 1] :  Store Text Value (Shared) for Daniela Seguel: bServing = serving:0
+4/5/2022 21:26:52: [G_Auto 1] :  Store Value (Shared) for market: price = 1.19
+4/5/2022 21:26:52: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 53.49
+4/5/2022 21:26:52: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 94.15
+4/5/2022 21:26:52: [G_Auto 1] :  Store Value (Shared) for market: stake = 42.11
+4/5/2022 21:26:52: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 147.64
+4/5/2022 21:26:52: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.17
+4/5/2022 21:26:52: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.18
+4/5/2022 21:26:52: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 6.2
+4/5/2022 21:26:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:26:59: [G_Auto 1] :  Store Text Value (Shared) for Ipek Oz: aPoints = point: 0; games: 0; sets: 1 
+4/5/2022 21:26:59: [G_Auto 1] :  Store Text Value (Shared) for Ipek Oz: aServing = serving:1
+4/5/2022 21:26:59: [G_Auto 1] :  Store Text Value (Shared) for Daniela Seguel: bPoints = point: 0; games: 0; sets: 0 
+4/5/2022 21:26:59: [G_Auto 1] :  Store Text Value (Shared) for Daniela Seguel: bServing = serving:0
+4/5/2022 21:26:59: [G_Auto 1] :  Store Value (Shared) for market: price = 1.19
+4/5/2022 21:26:59: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 53.49
+4/5/2022 21:26:59: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 94.15
+4/5/2022 21:26:59: [G_Auto 1] :  Store Value (Shared) for market: stake = 42.11
+4/5/2022 21:26:59: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 147.64
+4/5/2022 21:26:59: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.17
+4/5/2022 21:26:59: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.17
+4/5/2022 21:26:59: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 6.6
+4/5/2022 21:27:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:27:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:27:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:28:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:28:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:28:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:28:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:29:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:29:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:29:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:29:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:30:01: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:30:17: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:30:32: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:32:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:32:56: [G_Auto 2] :  Placed closure bet with greening on Ipek Oz by Backing 38.55 at 1.3
+4/5/2022 21:32:56: [G_Auto 1] :  Store Text Value (Shared) for Ipek Oz: aPoints = point: 0; games: 0; sets: 1 
+4/5/2022 21:32:56: [G_Auto 1] :  Store Text Value (Shared) for Ipek Oz: aServing = serving:0
+4/5/2022 21:32:56: [G_Auto 1] :  Store Text Value (Shared) for Daniela Seguel: bPoints = point: 0; games: 1; sets: 0 
+4/5/2022 21:32:56: [G_Auto 1] :  Store Text Value (Shared) for Daniela Seguel: bServing = serving:2
+4/5/2022 21:32:56: [G_Auto 1] :  Store Value (Shared) for market: price = 1.3
+4/5/2022 21:32:56: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 92.04
+4/5/2022 21:32:56: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 94.15
+4/5/2022 21:32:56: [G_Auto 1] :  Store Value (Shared) for market: stake = 38.55
+4/5/2022 21:32:56: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 186.19
+4/5/2022 21:32:56: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.07
+4/5/2022 21:32:56: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.3
+4/5/2022 21:32:56: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.4
+4/5/2022 21:32:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:33:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:33:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:33:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:33:49: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:34:05: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:38:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:38:33: [G_Auto 2] :  € 17.78 Lay bet placed on Ipek Oz at 1.45. Fully matched at 1.45.  Ref: 10665          ( Fill or kill bet with 15 seconds delay.   )
+4/5/2022 21:38:36: [G_Auto 1] :  Store Text Value (Shared) for Ipek Oz: aPoints = point: 0; games: 0; sets: 1 
+4/5/2022 21:38:36: [G_Auto 1] :  Store Text Value (Shared) for Ipek Oz: aServing = serving:1
+4/5/2022 21:38:36: [G_Auto 1] :  Store Text Value (Shared) for Daniela Seguel: bPoints = point: 0; games: 2; sets: 0 
+4/5/2022 21:38:36: [G_Auto 1] :  Store Text Value (Shared) for Daniela Seguel: bServing = serving:0
+4/5/2022 21:38:36: [G_Auto 1] :  Store Value (Shared) for market: price = 1.45
+4/5/2022 21:38:36: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 92.04
+4/5/2022 21:38:36: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 111.93
+4/5/2022 21:38:36: [G_Auto 1] :  Store Value (Shared) for market: stake = 17.78
+4/5/2022 21:38:36: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 203.97
+4/5/2022 21:38:36: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.82
+4/5/2022 21:38:36: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.43
+4/5/2022 21:38:36: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.2
+4/5/2022 21:38:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:38:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:39:00: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:39:17: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:42:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:43:03: [G_Auto 2] :  Placed closure bet with greening on Ipek Oz by Backing 15.62 at 1.65
+4/5/2022 21:43:05: [G_Auto 1] :  Store Text Value (Shared) for Ipek Oz: aPoints = point: 0; games: 0; sets: 1 
+4/5/2022 21:43:05: [G_Auto 1] :  Store Text Value (Shared) for Ipek Oz: aServing = serving:0
+4/5/2022 21:43:05: [G_Auto 1] :  Store Text Value (Shared) for Daniela Seguel: bPoints = point: 0; games: 3; sets: 0 
+4/5/2022 21:43:05: [G_Auto 1] :  Store Text Value (Shared) for Daniela Seguel: bServing = serving:2
+4/5/2022 21:43:05: [G_Auto 1] :  Store Value (Shared) for market: price = 1.65
+4/5/2022 21:43:05: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 107.66
+4/5/2022 21:43:05: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 111.93
+4/5/2022 21:43:05: [G_Auto 1] :  Store Value (Shared) for market: stake = 15.62
+4/5/2022 21:43:05: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 219.59
+4/5/2022 21:43:05: [G_Auto 1] :  Store Value (Shared) for market: pl = 4.18
+4/5/2022 21:43:05: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.65
+4/5/2022 21:43:05: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.56
+4/5/2022 21:43:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:43:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:43:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:43:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:44:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:44:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:44:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:44:58: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:45:16: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:46:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:47:00: [G_Auto 2] :  € 17.39 Lay bet placed on Ipek Oz at 1.46. Fully matched at 1.45.  Ref: 10673          ( Fill or kill bet with 15 seconds delay.   )
+4/5/2022 21:47:03: [G_Auto 1] :  Store Text Value (Shared) for Ipek Oz: aPoints = point: 0; games: 1; sets: 1 
+4/5/2022 21:47:03: [G_Auto 1] :  Store Text Value (Shared) for Ipek Oz: aServing = serving:1
+4/5/2022 21:47:03: [G_Auto 1] :  Store Text Value (Shared) for Daniela Seguel: bPoints = point: 0; games: 3; sets: 0 
+4/5/2022 21:47:03: [G_Auto 1] :  Store Text Value (Shared) for Daniela Seguel: bServing = serving:0
+4/5/2022 21:47:03: [G_Auto 1] :  Store Value (Shared) for market: price = 1.45
+4/5/2022 21:47:03: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 107.66
+4/5/2022 21:47:03: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 129.32
+4/5/2022 21:47:03: [G_Auto 1] :  Store Value (Shared) for market: stake = 17.39
+4/5/2022 21:47:03: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 236.98
+4/5/2022 21:47:03: [G_Auto 1] :  Store Value (Shared) for market: pl = 4.07
+4/5/2022 21:47:03: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.44
+4/5/2022 21:47:03: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.3
+4/5/2022 21:47:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:47:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:47:23: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:47:40: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:48:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:48:44: [G_Auto 2] :  Placed closure bet with greening on Ipek Oz by Backing 19.55 at 1.29
+4/5/2022 21:48:47: [G_Auto 1] :  Store Text Value (Shared) for Ipek Oz: aPoints = point: 0; games: 2; sets: 1 
+4/5/2022 21:48:47: [G_Auto 1] :  Store Text Value (Shared) for Ipek Oz: aServing = serving:0
+4/5/2022 21:48:47: [G_Auto 1] :  Store Text Value (Shared) for Daniela Seguel: bPoints = point: 0; games: 3; sets: 0 
+4/5/2022 21:48:47: [G_Auto 1] :  Store Text Value (Shared) for Daniela Seguel: bServing = serving:2
+4/5/2022 21:48:47: [G_Auto 1] :  Store Value (Shared) for market: price = 1.29
+4/5/2022 21:48:47: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 127.21
+4/5/2022 21:48:47: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 129.32
+4/5/2022 21:48:47: [G_Auto 1] :  Store Value (Shared) for market: stake = 19.55
+4/5/2022 21:48:47: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 256.53
+4/5/2022 21:48:47: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.07
+4/5/2022 21:48:47: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.31
+4/5/2022 21:48:47: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.4
+4/5/2022 21:48:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:49:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:49:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:49:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:49:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:50:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:50:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:50:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:50:51: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:51:08: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:53:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:53:38: [G_Auto 2] :  € 17.02 Lay bet placed on Ipek Oz at 1.47. Fully matched at 1.46.  Ref: 10680          ( Fill or kill bet with 15 seconds delay.   )
+4/5/2022 21:53:41: [G_Auto 1] :  Store Text Value (Shared) for Ipek Oz: aPoints = point: 0; games: 2; sets: 1 
+4/5/2022 21:53:41: [G_Auto 1] :  Store Text Value (Shared) for Ipek Oz: aServing = serving:1
+4/5/2022 21:53:41: [G_Auto 1] :  Store Text Value (Shared) for Daniela Seguel: bPoints = point: 0; games: 4; sets: 0 
+4/5/2022 21:53:41: [G_Auto 1] :  Store Text Value (Shared) for Daniela Seguel: bServing = serving:0
+4/5/2022 21:53:41: [G_Auto 1] :  Store Value (Shared) for market: price = 1.46
+4/5/2022 21:53:41: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 127.21
+4/5/2022 21:53:41: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 146.34
+4/5/2022 21:53:41: [G_Auto 1] :  Store Value (Shared) for market: stake = 17.02
+4/5/2022 21:53:41: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 273.55
+4/5/2022 21:53:41: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.95
+4/5/2022 21:53:41: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.45
+4/5/2022 21:53:41: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.3
+4/5/2022 21:53:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:53:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:54:04: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:54:21: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:56:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:56:33: [G_Auto 2] :  Placed closure bet with greening on Ipek Oz by Backing 18.68 at 1.33
+4/5/2022 21:56:36: [G_Auto 1] :  Store Text Value (Shared) for Ipek Oz: aPoints = point: 0; games: 3; sets: 1 
+4/5/2022 21:56:36: [G_Auto 1] :  Store Text Value (Shared) for Ipek Oz: aServing = serving:0
+4/5/2022 21:56:36: [G_Auto 1] :  Store Text Value (Shared) for Daniela Seguel: bPoints = point: 0; games: 4; sets: 0 
+4/5/2022 21:56:36: [G_Auto 1] :  Store Text Value (Shared) for Daniela Seguel: bServing = serving:2
+4/5/2022 21:56:36: [G_Auto 1] :  Store Value (Shared) for market: price = 1.33
+4/5/2022 21:56:36: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 145.89
+4/5/2022 21:56:36: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 146.34
+4/5/2022 21:56:36: [G_Auto 1] :  Store Value (Shared) for market: stake = 18.68
+4/5/2022 21:56:36: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 292.23
+4/5/2022 21:56:36: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.43
+4/5/2022 21:56:36: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.34
+4/5/2022 21:56:36: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.95
+4/5/2022 21:56:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:56:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:57:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:57:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:57:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:58:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:58:21: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:58:39: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 22:00:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:00:26: [G_Auto 2] :  € 14.04 Lay bet placed on Ipek Oz at 1.57. Fully matched at 1.56.  Ref: 10686          ( Fill or kill bet with 15 seconds delay.   )
+4/5/2022 22:00:29: [G_Auto 1] :  Store Text Value (Shared) for Ipek Oz: aPoints = point: 0; games: 3; sets: 1 
+4/5/2022 22:00:29: [G_Auto 1] :  Store Text Value (Shared) for Ipek Oz: aServing = serving:1
+4/5/2022 22:00:29: [G_Auto 1] :  Store Text Value (Shared) for Daniela Seguel: bPoints = point: 0; games: 5; sets: 0 
+4/5/2022 22:00:29: [G_Auto 1] :  Store Text Value (Shared) for Daniela Seguel: bServing = serving:0
+4/5/2022 22:00:29: [G_Auto 1] :  Store Value (Shared) for market: price = 1.56
+4/5/2022 22:00:29: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 145.89
+4/5/2022 22:00:29: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 160.38
+4/5/2022 22:00:29: [G_Auto 1] :  Store Value (Shared) for market: stake = 14.04
+4/5/2022 22:00:29: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 306.27
+4/5/2022 22:00:29: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.35
+4/5/2022 22:00:29: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.56
+4/5/2022 22:00:29: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.82
+4/5/2022 22:00:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:00:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:01:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:01:10: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 22:01:27: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 22:03:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:03:18: [G_Auto 2] :  Placed closure bet with greening on Ipek Oz by Backing 15.43 at 1.42
+4/5/2022 22:03:21: [G_Auto 1] :  Store Text Value (Shared) for Ipek Oz: aPoints = point: 0; games: 4; sets: 1 
+4/5/2022 22:03:21: [G_Auto 1] :  Store Text Value (Shared) for Ipek Oz: aServing = serving:0
+4/5/2022 22:03:21: [G_Auto 1] :  Store Text Value (Shared) for Daniela Seguel: bPoints = point: 0; games: 5; sets: 0 
+4/5/2022 22:03:21: [G_Auto 1] :  Store Text Value (Shared) for Daniela Seguel: bServing = serving:2
+4/5/2022 22:03:21: [G_Auto 1] :  Store Value (Shared) for market: price = 1.42
+4/5/2022 22:03:21: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 161.32
+4/5/2022 22:03:21: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 160.38
+4/5/2022 22:03:21: [G_Auto 1] :  Store Value (Shared) for market: stake = 15.43
+4/5/2022 22:03:21: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 321.7
+4/5/2022 22:03:21: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.94
+4/5/2022 22:03:21: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.43
+4/5/2022 22:03:21: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.4
+4/5/2022 22:03:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:03:26: [G_Auto 1] :  Store Text Value (Shared) for Ipek Oz: aPoints = point: 0; games: 4; sets: 1 
+4/5/2022 22:03:26: [G_Auto 1] :  Store Text Value (Shared) for Ipek Oz: aServing = serving:0
+4/5/2022 22:03:26: [G_Auto 1] :  Store Text Value (Shared) for Daniela Seguel: bPoints = point: 0; games: 5; sets: 0 
+4/5/2022 22:03:26: [G_Auto 1] :  Store Text Value (Shared) for Daniela Seguel: bServing = serving:2
+4/5/2022 22:03:26: [G_Auto 1] :  Store Value (Shared) for market: price = 1.42
+4/5/2022 22:03:26: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 161.32
+4/5/2022 22:03:26: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 160.38
+4/5/2022 22:03:26: [G_Auto 1] :  Store Value (Shared) for market: stake = 15.43
+4/5/2022 22:03:26: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 321.7
+4/5/2022 22:03:26: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.94
+4/5/2022 22:03:26: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.43
+4/5/2022 22:03:26: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.35
+4/5/2022 22:03:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:03:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:04:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:04:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:04:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:04:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:05:14: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 22:07:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:08:00: [G_Auto 2] :  € 34.78 Lay bet placed on Ipek Oz at 1.23. Fully matched at 1.21.  Ref: 10692          ( Fill or kill bet with 15 seconds delay.   )
+4/5/2022 22:08:02: [G_Auto 1] :  Store Text Value (Shared) for Ipek Oz: aPoints = point: 0; games: 5; sets: 1 
+4/5/2022 22:08:02: [G_Auto 1] :  Store Text Value (Shared) for Ipek Oz: aServing = serving:1
+4/5/2022 22:08:02: [G_Auto 1] :  Store Text Value (Shared) for Daniela Seguel: bPoints = point: 0; games: 5; sets: 0 
+4/5/2022 22:08:02: [G_Auto 1] :  Store Text Value (Shared) for Daniela Seguel: bServing = serving:0
+4/5/2022 22:08:02: [G_Auto 1] :  Store Value (Shared) for market: price = 1.21
+4/5/2022 22:08:02: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 161.32
+4/5/2022 22:08:02: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 195.16
+4/5/2022 22:08:02: [G_Auto 1] :  Store Value (Shared) for market: stake = 34.78
+4/5/2022 22:08:02: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 356.48
+4/5/2022 22:08:02: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.23
+4/5/2022 22:08:02: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.2
+4/5/2022 22:08:02: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 5.7
+4/5/2022 22:08:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:08:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:08:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:08:40: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 22:08:57: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 22:09:12: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 22:10:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:10:25: [G_Auto 2] :  Placed closure bet with greening on Ipek Oz by Backing 38.61 at 1.09
+4/5/2022 22:10:27: [G_Auto 1] :  Store Text Value (Shared) for Ipek Oz: aPoints = point: 0; games: 6; sets: 1 
+4/5/2022 22:10:27: [G_Auto 1] :  Store Text Value (Shared) for Ipek Oz: aServing = serving:0
+4/5/2022 22:10:27: [G_Auto 1] :  Store Text Value (Shared) for Daniela Seguel: bPoints = point: 0; games: 5; sets: 0 
+4/5/2022 22:10:27: [G_Auto 1] :  Store Text Value (Shared) for Daniela Seguel: bServing = serving:2
+4/5/2022 22:10:27: [G_Auto 1] :  Store Value (Shared) for market: price = 1.09
+4/5/2022 22:10:27: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 199.93
+4/5/2022 22:10:27: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 195.16
+4/5/2022 22:10:27: [G_Auto 1] :  Store Value (Shared) for market: stake = 38.61
+4/5/2022 22:10:27: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 395.09
+4/5/2022 22:10:27: [G_Auto 1] :  Store Value (Shared) for market: pl = -4.77
+4/5/2022 22:10:27: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.1
+4/5/2022 22:10:27: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 11.5
+4/5/2022 22:10:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:10:32: [G_Auto 1] :  Store Text Value (Shared) for Ipek Oz: aPoints = point: 0; games: 6; sets: 1 
+4/5/2022 22:10:32: [G_Auto 1] :  Store Text Value (Shared) for Ipek Oz: aServing = serving:0
+4/5/2022 22:10:32: [G_Auto 1] :  Store Text Value (Shared) for Daniela Seguel: bPoints = point: 0; games: 5; sets: 0 
+4/5/2022 22:10:32: [G_Auto 1] :  Store Text Value (Shared) for Daniela Seguel: bServing = serving:2
+4/5/2022 22:10:32: [G_Auto 1] :  Store Value (Shared) for market: price = 1.09
+4/5/2022 22:10:32: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 199.93
+4/5/2022 22:10:32: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 195.16
+4/5/2022 22:10:32: [G_Auto 1] :  Store Value (Shared) for market: stake = 38.61
+4/5/2022 22:10:32: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 395.09
+4/5/2022 22:10:32: [G_Auto 1] :  Store Value (Shared) for market: pl = -4.77
+4/5/2022 22:10:32: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.09
+4/5/2022 22:10:32: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 11.5
+4/5/2022 22:10:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:11:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:11:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:11:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:11:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:12:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:12:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:12:33: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 22:12:50: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 22:14:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:14:27:  Guardian has detected that the market is suspended

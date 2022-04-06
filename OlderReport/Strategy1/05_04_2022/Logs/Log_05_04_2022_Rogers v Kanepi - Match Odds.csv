@@ -1,0 +1,774 @@
+4/4/2022 11:13:31: [G_Auto 2] :  Store Text Value (Shared) for Shelby Rogers: info = marketName: Rogers v Kanepi - Match Odds; runnerA: Shelby Rogers; runnerB: Kaia Kanepi 
+4/4/2022 11:13:31: [G_Auto 2] :  Store Value (Shared) for market: aId = 4943786
+4/4/2022 11:13:31: [G_Auto 2] :  Store Value (Shared) for market: bId = 2250864
+4/4/2022 11:31:22: [G_Auto 2] :  Store Text Value (Shared) for Shelby Rogers: info = marketName: Rogers v Kanepi - Match Odds; runnerA: Shelby Rogers; runnerB: Kaia Kanepi 
+4/4/2022 11:31:22: [G_Auto 2] :  Store Value (Shared) for market: aId = 4943786
+4/4/2022 11:31:22: [G_Auto 2] :  Store Value (Shared) for market: bId = 2250864
+4/5/2022 00:07:11:  Guardian has detected that the market is in-play
+4/5/2022 00:07:11:  Guardian has detected that the market is suspended
+4/5/2022 00:07:13: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.78; bBsp: 2.2; volume: 20970.36 
+4/5/2022 00:07:13: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.78; bBsp: 2.2; volume: 20970.36 
+4/5/2022 00:07:13:  Guardian has detected that the market is now unsuspended
+4/5/2022 00:07:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 00:07:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 00:09:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 00:09:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 00:10:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 00:10:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 00:10:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 00:10:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 00:11:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 00:11:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 00:12:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 00:12:57: [G_Auto 1] :  € 9.30 Lay bet placed on Shelby Rogers at 1.86. Entirely unmatched when it initially reached the market.   Ref: 10200          ( Fill or kill bet with 15 seconds delay.   )
+4/5/2022 00:13:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 00:13:05: [G_Auto 2] :  Store Text Value (Shared) for Shelby Rogers: aPoints = point: 0; games: 1; sets: 0 
+4/5/2022 00:13:05: [G_Auto 2] :  Store Text Value (Shared) for Shelby Rogers: aServing = serving:1
+4/5/2022 00:13:05: [G_Auto 2] :  Store Text Value (Shared) for Kaia Kanepi: bPoints = point: 0; games: 1; sets: 0 
+4/5/2022 00:13:05: [G_Auto 2] :  Store Text Value (Shared) for Kaia Kanepi: bServing = serving:0
+4/5/2022 00:13:05: [G_Auto 2] :  Store Value (Shared) for market: price = 1.86
+4/5/2022 00:13:05: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+4/5/2022 00:13:05: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 2.325
+4/5/2022 00:13:05: [G_Auto 2] :  Store Value (Shared) for market: stake = 2.325
+4/5/2022 00:13:05: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 2.325
+4/5/2022 00:13:05: [G_Auto 2] :  Store Value (Shared) for market: pl = 0
+4/5/2022 00:13:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.86
+4/5/2022 00:13:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.12
+4/5/2022 00:13:07: [G_Auto 1] :  € 9.3 of unmatched bet (Ref:10200) was filled before remainder was killed.
+4/5/2022 00:13:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 00:13:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 00:13:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 00:13:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 00:14:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 00:16:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 00:17:00: [G_Auto 1] :  Placed closure bet with greening on Shelby Rogers by Backing 10.18 at 1.7
+4/5/2022 00:17:01: [G_Auto 2] :  Store Text Value (Shared) for Shelby Rogers: aPoints = point: 0; games: 2; sets: 0 
+4/5/2022 00:17:01: [G_Auto 2] :  Store Text Value (Shared) for Shelby Rogers: aServing = serving:0
+4/5/2022 00:17:01: [G_Auto 2] :  Store Text Value (Shared) for Kaia Kanepi: bPoints = point: 0; games: 1; sets: 0 
+4/5/2022 00:17:01: [G_Auto 2] :  Store Text Value (Shared) for Kaia Kanepi: bServing = serving:2
+4/5/2022 00:17:01: [G_Auto 2] :  Store Value (Shared) for market: price = 1.71
+4/5/2022 00:17:01: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 10.18
+4/5/2022 00:17:01: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 9.3
+4/5/2022 00:17:01: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.18
+4/5/2022 00:17:01: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 19.48
+4/5/2022 00:17:01: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.82
+4/5/2022 00:17:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.72
+4/5/2022 00:17:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.46
+4/5/2022 00:17:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 00:17:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 00:17:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 00:17:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 00:18:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 00:18:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 00:18:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 00:18:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 00:19:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 00:19:16: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 00:20:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 00:20:33: [G_Auto 1] :  € 8.89 Lay bet placed on Shelby Rogers at 1.9. Fully matched at 1.9.  Ref: 10202          ( Fill or kill bet with 15 seconds delay.   )
+4/5/2022 00:20:34: [G_Auto 2] :  Store Text Value (Shared) for Shelby Rogers: aPoints = point: 0; games: 2; sets: 0 
+4/5/2022 00:20:34: [G_Auto 2] :  Store Text Value (Shared) for Shelby Rogers: aServing = serving:1
+4/5/2022 00:20:34: [G_Auto 2] :  Store Text Value (Shared) for Kaia Kanepi: bPoints = point: 0; games: 2; sets: 0 
+4/5/2022 00:20:34: [G_Auto 2] :  Store Text Value (Shared) for Kaia Kanepi: bServing = serving:0
+4/5/2022 00:20:34: [G_Auto 2] :  Store Value (Shared) for market: price = 1.9
+4/5/2022 00:20:34: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 10.18
+4/5/2022 00:20:34: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 18.19
+4/5/2022 00:20:34: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.89
+4/5/2022 00:20:34: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 28.37
+4/5/2022 00:20:34: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.92
+4/5/2022 00:20:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.88
+4/5/2022 00:20:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.14
+4/5/2022 00:20:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 00:20:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 00:21:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 00:21:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 00:21:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 00:21:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 00:23:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 00:24:00: [G_Auto 1] :  Placed closure bet with greening on Shelby Rogers by Backing 9.93 at 1.69
+4/5/2022 00:24:01: [G_Auto 2] :  Store Text Value (Shared) for Shelby Rogers: aPoints = point: 0; games: 3; sets: 0 
+4/5/2022 00:24:01: [G_Auto 2] :  Store Text Value (Shared) for Shelby Rogers: aServing = serving:0
+4/5/2022 00:24:01: [G_Auto 2] :  Store Text Value (Shared) for Kaia Kanepi: bPoints = point: 0; games: 2; sets: 0 
+4/5/2022 00:24:01: [G_Auto 2] :  Store Text Value (Shared) for Kaia Kanepi: bServing = serving:2
+4/5/2022 00:24:01: [G_Auto 2] :  Store Value (Shared) for market: price = 1.7
+4/5/2022 00:24:01: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 20.11
+4/5/2022 00:24:01: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 18.19
+4/5/2022 00:24:01: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.93
+4/5/2022 00:24:01: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 38.3
+4/5/2022 00:24:01: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.86
+4/5/2022 00:24:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.71
+4/5/2022 00:24:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.42
+4/5/2022 00:24:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 00:24:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 00:24:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 00:24:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 00:25:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 00:25:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 00:25:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 00:25:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 00:26:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 00:26:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 00:27:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 00:28:00: [G_Auto 1] :  € 8.00 Lay bet placed on Shelby Rogers at 2. Fully matched at 1.98.  Ref: 10204          ( Fill or kill bet with 15 seconds delay.   )
+4/5/2022 00:28:01: [G_Auto 2] :  Store Text Value (Shared) for Shelby Rogers: aPoints = point: 0; games: 3; sets: 0 
+4/5/2022 00:28:01: [G_Auto 2] :  Store Text Value (Shared) for Shelby Rogers: aServing = serving:1
+4/5/2022 00:28:01: [G_Auto 2] :  Store Text Value (Shared) for Kaia Kanepi: bPoints = point: 0; games: 3; sets: 0 
+4/5/2022 00:28:01: [G_Auto 2] :  Store Text Value (Shared) for Kaia Kanepi: bServing = serving:0
+4/5/2022 00:28:01: [G_Auto 2] :  Store Value (Shared) for market: price = 1.98
+4/5/2022 00:28:01: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 20.11
+4/5/2022 00:28:01: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 26.19
+4/5/2022 00:28:01: [G_Auto 2] :  Store Value (Shared) for market: stake = 8
+4/5/2022 00:28:01: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 46.3
+4/5/2022 00:28:01: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.91
+4/5/2022 00:28:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.97
+4/5/2022 00:28:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.04
+4/5/2022 00:28:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 00:28:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 00:28:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 00:28:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 00:28:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 00:29:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 00:30:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 00:30:56: [G_Auto 1] :  Placed closure bet with greening on Shelby Rogers by Backing 9.15 at 1.72
+4/5/2022 00:30:57: [G_Auto 2] :  Store Text Value (Shared) for Shelby Rogers: aPoints = point: 0; games: 4; sets: 0 
+4/5/2022 00:30:57: [G_Auto 2] :  Store Text Value (Shared) for Shelby Rogers: aServing = serving:0
+4/5/2022 00:30:57: [G_Auto 2] :  Store Text Value (Shared) for Kaia Kanepi: bPoints = point: 0; games: 3; sets: 0 
+4/5/2022 00:30:57: [G_Auto 2] :  Store Text Value (Shared) for Kaia Kanepi: bServing = serving:2
+4/5/2022 00:30:57: [G_Auto 2] :  Store Value (Shared) for market: price = 1.73
+4/5/2022 00:30:57: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 29.26
+4/5/2022 00:30:57: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 26.19
+4/5/2022 00:30:57: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.15
+4/5/2022 00:30:57: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 55.45
+4/5/2022 00:30:57: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.02
+4/5/2022 00:30:57: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.74
+4/5/2022 00:30:57: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.32
+4/5/2022 00:30:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 00:31:03: [G_Auto 2] :  Store Text Value (Shared) for Shelby Rogers: aPoints = point: 0; games: 4; sets: 0 
+4/5/2022 00:31:03: [G_Auto 2] :  Store Text Value (Shared) for Shelby Rogers: aServing = serving:0
+4/5/2022 00:31:03: [G_Auto 2] :  Store Text Value (Shared) for Kaia Kanepi: bPoints = point: 0; games: 3; sets: 0 
+4/5/2022 00:31:03: [G_Auto 2] :  Store Text Value (Shared) for Kaia Kanepi: bServing = serving:2
+4/5/2022 00:31:03: [G_Auto 2] :  Store Value (Shared) for market: price = 1.73
+4/5/2022 00:31:03: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 29.26
+4/5/2022 00:31:03: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 26.19
+4/5/2022 00:31:03: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.15
+4/5/2022 00:31:03: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 55.45
+4/5/2022 00:31:03: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.02
+4/5/2022 00:31:03: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.75
+4/5/2022 00:31:03: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.32
+4/5/2022 00:31:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 00:31:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 00:31:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 00:32:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 00:32:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 00:32:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 00:32:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 00:33:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 00:40:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 00:40:45: [G_Auto 1] :  € 8.89 Lay bet placed on Shelby Rogers at 1.9. Fully matched at 1.89.  Ref: 10206          ( Fill or kill bet with 15 seconds delay.   )
+4/5/2022 00:40:46: [G_Auto 2] :  Store Text Value (Shared) for Shelby Rogers: aPoints = point: 0; games: 4; sets: 0 
+4/5/2022 00:40:46: [G_Auto 2] :  Store Text Value (Shared) for Shelby Rogers: aServing = serving:1
+4/5/2022 00:40:46: [G_Auto 2] :  Store Text Value (Shared) for Kaia Kanepi: bPoints = point: 0; games: 4; sets: 0 
+4/5/2022 00:40:46: [G_Auto 2] :  Store Text Value (Shared) for Kaia Kanepi: bServing = serving:0
+4/5/2022 00:40:46: [G_Auto 2] :  Store Value (Shared) for market: price = 1.89
+4/5/2022 00:40:46: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 29.26
+4/5/2022 00:40:46: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 35.08
+4/5/2022 00:40:46: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.89
+4/5/2022 00:40:46: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 64.34
+4/5/2022 00:40:46: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.12
+4/5/2022 00:40:46: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.87
+4/5/2022 00:40:46: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.12
+4/5/2022 00:40:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 00:41:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 00:41:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 00:41:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 00:41:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 00:50:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 00:50:32: [G_Auto 1] :  Placed closure bet with greening on Shelby Rogers by Backing 9.89 at 1.69
+4/5/2022 00:50:33: [G_Auto 2] :  Store Text Value (Shared) for Shelby Rogers: aPoints = point: 0; games: 5; sets: 0 
+4/5/2022 00:50:33: [G_Auto 2] :  Store Text Value (Shared) for Shelby Rogers: aServing = serving:0
+4/5/2022 00:50:33: [G_Auto 2] :  Store Text Value (Shared) for Kaia Kanepi: bPoints = point: 0; games: 4; sets: 0 
+4/5/2022 00:50:33: [G_Auto 2] :  Store Text Value (Shared) for Kaia Kanepi: bServing = serving:2
+4/5/2022 00:50:33: [G_Auto 2] :  Store Value (Shared) for market: price = 1.69
+4/5/2022 00:50:33: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 39.15
+4/5/2022 00:50:33: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 35.08
+4/5/2022 00:50:33: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.89
+4/5/2022 00:50:33: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 74.23
+4/5/2022 00:50:33: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.07
+4/5/2022 00:50:33: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.7
+4/5/2022 00:50:33: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.42
+4/5/2022 00:50:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 00:50:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 00:51:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 00:51:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 00:51:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 00:51:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 00:52:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 00:52:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 00:52:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 00:53:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 00:53:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 00:53:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 01:02:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:03:05: [G_Auto 1] :  € 9.41 Lay bet placed on Shelby Rogers at 1.85. Fully matched at 1.85.  Ref: 10208          ( Fill or kill bet with 15 seconds delay.   )
+4/5/2022 01:03:06: [G_Auto 2] :  Store Text Value (Shared) for Shelby Rogers: aPoints = point: 0; games: 5; sets: 0 
+4/5/2022 01:03:06: [G_Auto 2] :  Store Text Value (Shared) for Shelby Rogers: aServing = serving:1
+4/5/2022 01:03:06: [G_Auto 2] :  Store Text Value (Shared) for Kaia Kanepi: bPoints = point: 0; games: 5; sets: 0 
+4/5/2022 01:03:06: [G_Auto 2] :  Store Text Value (Shared) for Kaia Kanepi: bServing = serving:0
+4/5/2022 01:03:06: [G_Auto 2] :  Store Value (Shared) for market: price = 1.85
+4/5/2022 01:03:06: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 39.15
+4/5/2022 01:03:06: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 44.49
+4/5/2022 01:03:06: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.41
+4/5/2022 01:03:06: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 83.64
+4/5/2022 01:03:06: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.12
+4/5/2022 01:03:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.84
+4/5/2022 01:03:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.18
+4/5/2022 01:03:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:03:12: [G_Auto 2] :  Store Text Value (Shared) for Shelby Rogers: aPoints = point: 0; games: 5; sets: 0 
+4/5/2022 01:03:12: [G_Auto 2] :  Store Text Value (Shared) for Shelby Rogers: aServing = serving:1
+4/5/2022 01:03:12: [G_Auto 2] :  Store Text Value (Shared) for Kaia Kanepi: bPoints = point: 0; games: 5; sets: 0 
+4/5/2022 01:03:12: [G_Auto 2] :  Store Text Value (Shared) for Kaia Kanepi: bServing = serving:0
+4/5/2022 01:03:12: [G_Auto 2] :  Store Value (Shared) for market: price = 1.85
+4/5/2022 01:03:12: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 39.15
+4/5/2022 01:03:12: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 44.49
+4/5/2022 01:03:12: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.41
+4/5/2022 01:03:12: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 83.64
+4/5/2022 01:03:12: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.17
+4/5/2022 01:03:12: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.85
+4/5/2022 01:03:12: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.16
+4/5/2022 01:03:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:03:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:03:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 01:04:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 01:08:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:08:39: [G_Auto 1] :  Placed closure bet with greening on Shelby Rogers by Backing 10.61 at 1.64
+4/5/2022 01:08:40: [G_Auto 2] :  Store Text Value (Shared) for Shelby Rogers: aPoints = point: 0; games: 6; sets: 0 
+4/5/2022 01:08:40: [G_Auto 2] :  Store Text Value (Shared) for Shelby Rogers: aServing = serving:0
+4/5/2022 01:08:40: [G_Auto 2] :  Store Text Value (Shared) for Kaia Kanepi: bPoints = point: 0; games: 5; sets: 0 
+4/5/2022 01:08:40: [G_Auto 2] :  Store Text Value (Shared) for Kaia Kanepi: bServing = serving:2
+4/5/2022 01:08:40: [G_Auto 2] :  Store Value (Shared) for market: price = 1.65
+4/5/2022 01:08:40: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 49.76
+4/5/2022 01:08:40: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 44.49
+4/5/2022 01:08:40: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.61
+4/5/2022 01:08:40: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 94.25
+4/5/2022 01:08:40: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.21
+4/5/2022 01:08:40: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.65
+4/5/2022 01:08:40: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.52
+4/5/2022 01:08:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:08:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:09:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:09:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:09:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:10:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:10:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:10:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:10:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:11:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:11:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:11:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 01:11:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 01:12:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 01:12:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 01:18:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:18:58: [G_Auto 1] :  Placed closure bet with greening on Shelby Rogers by Laying 0.06 at 1.6
+4/5/2022 01:19:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:19:08: [G_Auto 1] :  Cancelling bets 10211  
+4/5/2022 01:19:14: [G_Auto 1] :  Placed closure bet with greening on Shelby Rogers by Laying 0.05 at 1.87
+4/5/2022 01:19:14: [G_Auto 2] :  Store Text Value (Shared) for Shelby Rogers: aPoints = point: 0; games: 6; sets: 0 
+4/5/2022 01:19:14: [G_Auto 2] :  Store Text Value (Shared) for Shelby Rogers: aServing = serving:1
+4/5/2022 01:19:14: [G_Auto 2] :  Store Text Value (Shared) for Kaia Kanepi: bPoints = point: 0; games: 6; sets: 0 
+4/5/2022 01:19:14: [G_Auto 2] :  Store Text Value (Shared) for Kaia Kanepi: bServing = serving:0
+4/5/2022 01:19:14: [G_Auto 2] :  Store Value (Shared) for market: price = 1.86
+4/5/2022 01:19:14: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 49.76
+4/5/2022 01:19:14: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 44.54
+4/5/2022 01:19:14: [G_Auto 2] :  Store Value (Shared) for market: stake = 0.05
+4/5/2022 01:19:14: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 94.3
+4/5/2022 01:19:14: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.21
+4/5/2022 01:19:14: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.84
+4/5/2022 01:19:14: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.16
+4/5/2022 01:19:20: [G_Auto 2] :  Store Text Value (Shared) for Shelby Rogers: aPoints = point: 0; games: 6; sets: 0 
+4/5/2022 01:19:20: [G_Auto 2] :  Store Text Value (Shared) for Shelby Rogers: aServing = serving:1
+4/5/2022 01:19:20: [G_Auto 2] :  Store Text Value (Shared) for Kaia Kanepi: bPoints = point: 0; games: 6; sets: 0 
+4/5/2022 01:19:20: [G_Auto 2] :  Store Text Value (Shared) for Kaia Kanepi: bServing = serving:0
+4/5/2022 01:19:20: [G_Auto 2] :  Store Value (Shared) for market: price = 1.86
+4/5/2022 01:19:20: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 49.76
+4/5/2022 01:19:20: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 44.54
+4/5/2022 01:19:20: [G_Auto 2] :  Store Value (Shared) for market: stake = 0.05
+4/5/2022 01:19:20: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 94.3
+4/5/2022 01:19:20: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.21
+4/5/2022 01:19:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.85
+4/5/2022 01:19:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.18
+4/5/2022 01:19:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:19:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:19:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 01:20:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 01:20:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 01:20:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 01:20:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 01:21:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 01:21:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 01:21:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 01:21:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 01:22:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 01:22:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 01:22:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 01:23:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 01:23:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 01:23:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 01:23:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 01:24:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 01:24:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 01:24:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 01:24:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 01:25:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:25:09: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 1.28
+4/5/2022 01:25:09: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 4.6
+4/5/2022 01:25:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:25:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:25:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:26:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:26:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:26:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:26:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:27:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:27:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:27:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:28:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:28:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 01:28:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 01:29:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:29:57: [G_Auto 1] :  € 22.86 Lay bet placed on Shelby Rogers at 1.35. Fully matched at 1.34.  Ref: 10214          ( Fill or kill bet with 15 seconds delay.   )
+4/5/2022 01:29:59: [G_Auto 2] :  Store Text Value (Shared) for Shelby Rogers: aPoints = point: 0; games: 0; sets: 1 
+4/5/2022 01:29:59: [G_Auto 2] :  Store Text Value (Shared) for Shelby Rogers: aServing = serving:1
+4/5/2022 01:29:59: [G_Auto 2] :  Store Text Value (Shared) for Kaia Kanepi: bPoints = point: 0; games: 1; sets: 0 
+4/5/2022 01:29:59: [G_Auto 2] :  Store Text Value (Shared) for Kaia Kanepi: bServing = serving:0
+4/5/2022 01:29:59: [G_Auto 2] :  Store Value (Shared) for market: price = 1.34
+4/5/2022 01:29:59: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 49.76
+4/5/2022 01:29:59: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 67.4
+4/5/2022 01:29:59: [G_Auto 2] :  Store Value (Shared) for market: stake = 22.86
+4/5/2022 01:29:59: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 117.16
+4/5/2022 01:29:59: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.39
+4/5/2022 01:29:59: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.33
+4/5/2022 01:29:59: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4
+4/5/2022 01:30:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:30:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:30:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:30:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 01:30:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 01:31:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 01:33:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:33:14: [G_Auto 1] :  Placed closure bet with greening on Shelby Rogers by Backing 24.31 at 1.26
+4/5/2022 01:33:15: [G_Auto 2] :  Store Text Value (Shared) for Shelby Rogers: aPoints = point: 0; games: 1; sets: 1 
+4/5/2022 01:33:15: [G_Auto 2] :  Store Text Value (Shared) for Shelby Rogers: aServing = serving:0
+4/5/2022 01:33:15: [G_Auto 2] :  Store Text Value (Shared) for Kaia Kanepi: bPoints = point: 0; games: 1; sets: 0 
+4/5/2022 01:33:15: [G_Auto 2] :  Store Text Value (Shared) for Kaia Kanepi: bServing = serving:2
+4/5/2022 01:33:15: [G_Auto 2] :  Store Value (Shared) for market: price = 1.26
+4/5/2022 01:33:15: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 74.07
+4/5/2022 01:33:15: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 67.4
+4/5/2022 01:33:15: [G_Auto 2] :  Store Value (Shared) for market: stake = 24.31
+4/5/2022 01:33:15: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 141.47
+4/5/2022 01:33:15: [G_Auto 2] :  Store Value (Shared) for market: pl = -6.67
+4/5/2022 01:33:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.27
+4/5/2022 01:33:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.8
+4/5/2022 01:33:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:33:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 01:33:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 01:34:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 01:39:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:40:01: [G_Auto 1] :  € 61.54 Lay bet placed on Shelby Rogers at 1.13. Fully matched at 1.12.  Ref: 10216          ( Fill or kill bet with 15 seconds delay.   )
+4/5/2022 01:40:02: [G_Auto 2] :  Store Text Value (Shared) for Shelby Rogers: aPoints = point: 0; games: 2; sets: 1 
+4/5/2022 01:40:02: [G_Auto 2] :  Store Text Value (Shared) for Shelby Rogers: aServing = serving:1
+4/5/2022 01:40:02: [G_Auto 2] :  Store Text Value (Shared) for Kaia Kanepi: bPoints = point: 0; games: 1; sets: 0 
+4/5/2022 01:40:02: [G_Auto 2] :  Store Text Value (Shared) for Kaia Kanepi: bServing = serving:0
+4/5/2022 01:40:02: [G_Auto 2] :  Store Value (Shared) for market: price = 1.12
+4/5/2022 01:40:02: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 74.07
+4/5/2022 01:40:02: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 128.94
+4/5/2022 01:40:02: [G_Auto 2] :  Store Value (Shared) for market: stake = 61.54
+4/5/2022 01:40:02: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 203.01
+4/5/2022 01:40:02: [G_Auto 2] :  Store Value (Shared) for market: pl = -7.22
+4/5/2022 01:40:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.12
+4/5/2022 01:40:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 9.6
+4/5/2022 01:40:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:40:08: [G_Auto 2] :  Store Text Value (Shared) for Shelby Rogers: aPoints = point: 0; games: 2; sets: 1 
+4/5/2022 01:40:08: [G_Auto 2] :  Store Text Value (Shared) for Shelby Rogers: aServing = serving:1
+4/5/2022 01:40:08: [G_Auto 2] :  Store Text Value (Shared) for Kaia Kanepi: bPoints = point: 0; games: 1; sets: 0 
+4/5/2022 01:40:08: [G_Auto 2] :  Store Text Value (Shared) for Kaia Kanepi: bServing = serving:0
+4/5/2022 01:40:08: [G_Auto 2] :  Store Value (Shared) for market: price = 1.12
+4/5/2022 01:40:08: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 74.07
+4/5/2022 01:40:08: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 128.94
+4/5/2022 01:40:08: [G_Auto 2] :  Store Value (Shared) for market: stake = 61.54
+4/5/2022 01:40:08: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 203.01
+4/5/2022 01:40:08: [G_Auto 2] :  Store Value (Shared) for market: pl = -7.22
+4/5/2022 01:40:08: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.12
+4/5/2022 01:40:08: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 9.8
+4/5/2022 01:40:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:40:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:40:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:41:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:41:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:41:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:41:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:42:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 01:42:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 01:44:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:44:29: [G_Auto 1] :  Placed closure bet with greening on Shelby Rogers by Backing 64.41 at 1.07
+4/5/2022 01:44:31: [G_Auto 2] :  Store Text Value (Shared) for Shelby Rogers: aPoints = point: 0; games: 3; sets: 1 
+4/5/2022 01:44:31: [G_Auto 2] :  Store Text Value (Shared) for Shelby Rogers: aServing = serving:0
+4/5/2022 01:44:31: [G_Auto 2] :  Store Text Value (Shared) for Kaia Kanepi: bPoints = point: 0; games: 1; sets: 0 
+4/5/2022 01:44:31: [G_Auto 2] :  Store Text Value (Shared) for Kaia Kanepi: bServing = serving:2
+4/5/2022 01:44:31: [G_Auto 2] :  Store Value (Shared) for market: price = 1.07
+4/5/2022 01:44:31: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 138.48
+4/5/2022 01:44:31: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 128.94
+4/5/2022 01:44:31: [G_Auto 2] :  Store Value (Shared) for market: stake = 64.41
+4/5/2022 01:44:31: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 267.42
+4/5/2022 01:44:31: [G_Auto 2] :  Store Value (Shared) for market: pl = -9.54
+4/5/2022 01:44:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.08
+4/5/2022 01:44:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 14
+4/5/2022 01:44:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:44:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:45:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 01:45:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 01:47:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:47:22: [G_Auto 1] :  € 57.14 Lay bet placed on Shelby Rogers at 1.14. Fully matched at 1.13.  Ref: 10218          ( Fill or kill bet with 15 seconds delay.   )
+4/5/2022 01:47:23: [G_Auto 2] :  Store Text Value (Shared) for Shelby Rogers: aPoints = point: 0; games: 3; sets: 1 
+4/5/2022 01:47:23: [G_Auto 2] :  Store Text Value (Shared) for Shelby Rogers: aServing = serving:1
+4/5/2022 01:47:23: [G_Auto 2] :  Store Text Value (Shared) for Kaia Kanepi: bPoints = point: 0; games: 2; sets: 0 
+4/5/2022 01:47:23: [G_Auto 2] :  Store Text Value (Shared) for Kaia Kanepi: bServing = serving:0
+4/5/2022 01:47:23: [G_Auto 2] :  Store Value (Shared) for market: price = 1.13
+4/5/2022 01:47:23: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 138.48
+4/5/2022 01:47:23: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 186.08
+4/5/2022 01:47:23: [G_Auto 2] :  Store Value (Shared) for market: stake = 57.14
+4/5/2022 01:47:23: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 324.56
+4/5/2022 01:47:23: [G_Auto 2] :  Store Value (Shared) for market: pl = -10.05
+4/5/2022 01:47:23: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.12
+4/5/2022 01:47:23: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 9.2
+4/5/2022 01:47:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:47:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:47:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:48:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:48:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:48:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:49:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:49:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:49:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 01:49:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 01:50:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 01:52:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:52:37: [G_Auto 1] :  Placed closure bet with greening on Shelby Rogers by Backing 60.35 at 1.07
+4/5/2022 01:52:38: [G_Auto 2] :  Store Text Value (Shared) for Shelby Rogers: aPoints = point: 0; games: 4; sets: 1 
+4/5/2022 01:52:38: [G_Auto 2] :  Store Text Value (Shared) for Shelby Rogers: aServing = serving:0
+4/5/2022 01:52:38: [G_Auto 2] :  Store Text Value (Shared) for Kaia Kanepi: bPoints = point: 0; games: 2; sets: 0 
+4/5/2022 01:52:38: [G_Auto 2] :  Store Text Value (Shared) for Kaia Kanepi: bServing = serving:2
+4/5/2022 01:52:38: [G_Auto 2] :  Store Value (Shared) for market: price = 1.07
+4/5/2022 01:52:38: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 198.83
+4/5/2022 01:52:38: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 186.08
+4/5/2022 01:52:38: [G_Auto 2] :  Store Value (Shared) for market: stake = 60.35
+4/5/2022 01:52:38: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 384.91
+4/5/2022 01:52:38: [G_Auto 2] :  Store Value (Shared) for market: pl = -12.75
+4/5/2022 01:52:38: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.07
+4/5/2022 01:52:38: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 13.5
+4/5/2022 01:52:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:52:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:53:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 01:53:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 01:55:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:55:23: [G_Auto 1] :  € 66.67 Lay bet placed on Shelby Rogers at 1.12. Fully matched at 1.12.  Ref: 10220          ( Fill or kill bet with 15 seconds delay.   )
+4/5/2022 01:55:24: [G_Auto 2] :  Store Text Value (Shared) for Shelby Rogers: aPoints = point: 0; games: 4; sets: 1 
+4/5/2022 01:55:24: [G_Auto 2] :  Store Text Value (Shared) for Shelby Rogers: aServing = serving:1
+4/5/2022 01:55:24: [G_Auto 2] :  Store Text Value (Shared) for Kaia Kanepi: bPoints = point: 0; games: 3; sets: 0 
+4/5/2022 01:55:24: [G_Auto 2] :  Store Text Value (Shared) for Kaia Kanepi: bServing = serving:0
+4/5/2022 01:55:24: [G_Auto 2] :  Store Value (Shared) for market: price = 1.12
+4/5/2022 01:55:24: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 198.83
+4/5/2022 01:55:24: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 252.75
+4/5/2022 01:55:24: [G_Auto 2] :  Store Value (Shared) for market: stake = 66.67
+4/5/2022 01:55:24: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 451.58
+4/5/2022 01:55:24: [G_Auto 2] :  Store Value (Shared) for market: pl = -13.35
+4/5/2022 01:55:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.11
+4/5/2022 01:55:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 12.5
+4/5/2022 01:55:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:55:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:55:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:56:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:56:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:56:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:57:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:57:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 01:57:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 01:57:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 01:57:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 01:59:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:00:06: [G_Auto 1] :  Placed closure bet with greening on Shelby Rogers by Backing 71.79 at 1.04
+4/5/2022 02:00:08: [G_Auto 2] :  Store Text Value (Shared) for Shelby Rogers: aPoints = point: 0; games: 5; sets: 1 
+4/5/2022 02:00:08: [G_Auto 2] :  Store Text Value (Shared) for Shelby Rogers: aServing = serving:0
+4/5/2022 02:00:08: [G_Auto 2] :  Store Text Value (Shared) for Kaia Kanepi: bPoints = point: 0; games: 3; sets: 0 
+4/5/2022 02:00:08: [G_Auto 2] :  Store Text Value (Shared) for Kaia Kanepi: bServing = serving:2
+4/5/2022 02:00:08: [G_Auto 2] :  Store Value (Shared) for market: price = 1.04
+4/5/2022 02:00:08: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 270.62
+4/5/2022 02:00:08: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 252.75
+4/5/2022 02:00:08: [G_Auto 2] :  Store Value (Shared) for market: stake = 71.79
+4/5/2022 02:00:08: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 523.37
+4/5/2022 02:00:08: [G_Auto 2] :  Store Value (Shared) for market: pl = -17.87
+4/5/2022 02:00:08: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.05
+4/5/2022 02:00:08: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 21
+4/5/2022 02:00:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:00:14: [G_Auto 2] :  Store Text Value (Shared) for Shelby Rogers: aPoints = point: 0; games: 5; sets: 1 
+4/5/2022 02:00:14: [G_Auto 2] :  Store Text Value (Shared) for Shelby Rogers: aServing = serving:0
+4/5/2022 02:00:14: [G_Auto 2] :  Store Text Value (Shared) for Kaia Kanepi: bPoints = point: 0; games: 3; sets: 0 
+4/5/2022 02:00:14: [G_Auto 2] :  Store Text Value (Shared) for Kaia Kanepi: bServing = serving:2
+4/5/2022 02:00:14: [G_Auto 2] :  Store Value (Shared) for market: price = 1.04
+4/5/2022 02:00:14: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 270.62
+4/5/2022 02:00:14: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 252.75
+4/5/2022 02:00:14: [G_Auto 2] :  Store Value (Shared) for market: stake = 71.79
+4/5/2022 02:00:14: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 523.37
+4/5/2022 02:00:14: [G_Auto 2] :  Store Value (Shared) for market: pl = -17.87
+4/5/2022 02:00:14: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.05
+4/5/2022 02:00:14: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 21
+4/5/2022 02:00:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:00:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 02:00:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 02:03:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:03:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:04:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:04:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:04:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:05:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:05:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:05:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:05:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:06:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:06:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 02:06:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 02:09:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:09:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:10:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:10:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 02:10:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 02:11:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 02:22:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:22:20: [G_Auto 1] :  € 19.05 Lay bet placed on Shelby Rogers at 1.42. Fully matched at 1.41.  Ref: 10222          ( Fill or kill bet with 15 seconds delay.   )
+4/5/2022 02:22:22: [G_Auto 2] :  Store Text Value (Shared) for Shelby Rogers: aPoints = point: 0; games: 5; sets: 1 
+4/5/2022 02:22:22: [G_Auto 2] :  Store Text Value (Shared) for Shelby Rogers: aServing = serving:1
+4/5/2022 02:22:22: [G_Auto 2] :  Store Text Value (Shared) for Kaia Kanepi: bPoints = point: 0; games: 6; sets: 0 
+4/5/2022 02:22:22: [G_Auto 2] :  Store Text Value (Shared) for Kaia Kanepi: bServing = serving:0
+4/5/2022 02:22:22: [G_Auto 2] :  Store Value (Shared) for market: price = 1.41
+4/5/2022 02:22:22: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 270.62
+4/5/2022 02:22:22: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 271.8
+4/5/2022 02:22:22: [G_Auto 2] :  Store Value (Shared) for market: stake = 19.05
+4/5/2022 02:22:22: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 542.42
+4/5/2022 02:22:22: [G_Auto 2] :  Store Value (Shared) for market: pl = -18.15
+4/5/2022 02:22:22: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.4
+4/5/2022 02:22:22: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.6
+4/5/2022 02:22:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:22:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:22:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:23:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:23:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:23:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:24:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:24:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 02:24:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 02:26:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:27:05: [G_Auto 2] :  Store Value (Shared) for market: aSecondSetPrice = 1.99
+4/5/2022 02:27:05: [G_Auto 2] :  Store Value (Shared) for market: bSecondSetPrice = 2.02
+4/5/2022 02:27:10: [G_Auto 1] :  Placed closure bet with greening on Shelby Rogers by Backing 13.85 at 1.94
+4/5/2022 02:27:11: [G_Auto 2] :  Store Text Value (Shared) for Shelby Rogers: aPoints = point: 0; games: 0; sets: 1 
+4/5/2022 02:27:11: [G_Auto 2] :  Store Text Value (Shared) for Shelby Rogers: aServing = serving:0
+4/5/2022 02:27:11: [G_Auto 2] :  Store Text Value (Shared) for Kaia Kanepi: bPoints = point: 0; games: 0; sets: 1 
+4/5/2022 02:27:11: [G_Auto 2] :  Store Text Value (Shared) for Kaia Kanepi: bServing = serving:2
+4/5/2022 02:27:11: [G_Auto 2] :  Store Value (Shared) for market: price = 1.95
+4/5/2022 02:27:11: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 284.47
+4/5/2022 02:27:11: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 271.8
+4/5/2022 02:27:11: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.85
+4/5/2022 02:27:11: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 556.27
+4/5/2022 02:27:11: [G_Auto 2] :  Store Value (Shared) for market: pl = -12.6
+4/5/2022 02:27:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.95
+4/5/2022 02:27:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.08
+4/5/2022 02:27:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:27:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:27:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:28:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:28:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:28:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:28:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:29:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:29:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:29:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:29:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:30:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:30:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:30:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:31:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:31:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:31:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:31:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:32:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:32:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:32:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:32:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:33:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:33:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:33:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:34:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:34:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:34:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:34:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:35:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:35:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:35:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:35:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:36:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:36:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 02:36:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 02:40:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:40:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:40:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:40:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:41:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:41:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 02:41:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 02:43:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:44:00: [G_Auto 1] :  € 25.81 Lay bet placed on Kaia Kanepi at 1.31. Fully matched at 1.3.  Ref: 10224          ( Fill or kill bet with 15 seconds delay.   )
+4/5/2022 02:44:01: [G_Auto 2] :  Store Text Value (Shared) for Shelby Rogers: aPoints = point: 0; games: 0; sets: 1 
+4/5/2022 02:44:01: [G_Auto 2] :  Store Text Value (Shared) for Shelby Rogers: aServing = serving:0
+4/5/2022 02:44:01: [G_Auto 2] :  Store Text Value (Shared) for Kaia Kanepi: bPoints = point: 0; games: 2; sets: 1 
+4/5/2022 02:44:01: [G_Auto 2] :  Store Text Value (Shared) for Kaia Kanepi: bServing = serving:2
+4/5/2022 02:44:01: [G_Auto 2] :  Store Value (Shared) for market: price = 1.3
+4/5/2022 02:44:01: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 284.47
+4/5/2022 02:44:01: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 297.61
+4/5/2022 02:44:01: [G_Auto 2] :  Store Value (Shared) for market: stake = 25.81
+4/5/2022 02:44:01: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 582.08
+4/5/2022 02:44:01: [G_Auto 2] :  Store Value (Shared) for market: pl = -12.84
+4/5/2022 02:44:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.3
+4/5/2022 02:44:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.3
+4/5/2022 02:44:03: [G_Auto 1] :  Placed closure bet with greening on Shelby Rogers by Laying 0.03 at 4.5
+4/5/2022 02:44:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:44:08: [G_Auto 2] :  Store Text Value (Shared) for Shelby Rogers: aPoints = point: 0; games: 0; sets: 1 
+4/5/2022 02:44:08: [G_Auto 2] :  Store Text Value (Shared) for Shelby Rogers: aServing = serving:0
+4/5/2022 02:44:08: [G_Auto 2] :  Store Text Value (Shared) for Kaia Kanepi: bPoints = point: 0; games: 2; sets: 1 
+4/5/2022 02:44:08: [G_Auto 2] :  Store Text Value (Shared) for Kaia Kanepi: bServing = serving:2
+4/5/2022 02:44:08: [G_Auto 2] :  Store Value (Shared) for market: price = 4.5
+4/5/2022 02:44:08: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 284.47
+4/5/2022 02:44:08: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 297.64
+4/5/2022 02:44:08: [G_Auto 2] :  Store Value (Shared) for market: stake = 0.03
+4/5/2022 02:44:08: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 582.11
+4/5/2022 02:44:08: [G_Auto 2] :  Store Value (Shared) for market: pl = -12.83
+4/5/2022 02:44:08: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.3
+4/5/2022 02:44:08: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.29
+4/5/2022 02:44:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:44:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 02:44:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 02:45:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 02:46:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:47:04: [G_Auto 1] :  Placed closure bet with greening on Kaia Kanepi by Backing 18.85 at 1.78
+4/5/2022 02:47:06: [G_Auto 2] :  Store Text Value (Shared) for Shelby Rogers: aPoints = point: 0; games: 1; sets: 1 
+4/5/2022 02:47:06: [G_Auto 2] :  Store Text Value (Shared) for Shelby Rogers: aServing = serving:1
+4/5/2022 02:47:06: [G_Auto 2] :  Store Text Value (Shared) for Kaia Kanepi: bPoints = point: 0; games: 2; sets: 1 
+4/5/2022 02:47:06: [G_Auto 2] :  Store Text Value (Shared) for Kaia Kanepi: bServing = serving:0
+4/5/2022 02:47:06: [G_Auto 2] :  Store Value (Shared) for market: price = 1.79
+4/5/2022 02:47:06: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 303.32
+4/5/2022 02:47:06: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 297.64
+4/5/2022 02:47:06: [G_Auto 2] :  Store Value (Shared) for market: stake = 18.85
+4/5/2022 02:47:06: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 600.96
+4/5/2022 02:47:06: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.57
+4/5/2022 02:47:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.28
+4/5/2022 02:47:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.78
+4/5/2022 02:47:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:47:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:47:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:47:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:48:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:48:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:48:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:49:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:49:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 02:49:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 02:49:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 02:53:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:53:54: [G_Auto 1] :  € 25.00 Lay bet placed on Kaia Kanepi at 1.32. Fully matched at 1.31.  Ref: 10228          ( Fill or kill bet with 15 seconds delay.   )
+4/5/2022 02:53:55: [G_Auto 2] :  Store Text Value (Shared) for Shelby Rogers: aPoints = point: 0; games: 1; sets: 1 
+4/5/2022 02:53:55: [G_Auto 2] :  Store Text Value (Shared) for Shelby Rogers: aServing = serving:0
+4/5/2022 02:53:55: [G_Auto 2] :  Store Text Value (Shared) for Kaia Kanepi: bPoints = point: 0; games: 3; sets: 1 
+4/5/2022 02:53:55: [G_Auto 2] :  Store Text Value (Shared) for Kaia Kanepi: bServing = serving:2
+4/5/2022 02:53:55: [G_Auto 2] :  Store Value (Shared) for market: price = 1.31
+4/5/2022 02:53:55: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 303.32
+4/5/2022 02:53:55: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 322.64
+4/5/2022 02:53:55: [G_Auto 2] :  Store Value (Shared) for market: stake = 25
+4/5/2022 02:53:55: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 625.96
+4/5/2022 02:53:55: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.91
+4/5/2022 02:53:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.2
+4/5/2022 02:53:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.3
+4/5/2022 02:53:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:54:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:54:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:54:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 02:54:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 02:56:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:56:30: [G_Auto 1] :  Placed closure bet with greening on Kaia Kanepi by Backing 28.31 at 1.15
+4/5/2022 02:56:31: [G_Auto 2] :  Store Text Value (Shared) for Shelby Rogers: aPoints = point: 0; games: 1; sets: 1 
+4/5/2022 02:56:31: [G_Auto 2] :  Store Text Value (Shared) for Shelby Rogers: aServing = serving:1
+4/5/2022 02:56:31: [G_Auto 2] :  Store Text Value (Shared) for Kaia Kanepi: bPoints = point: 0; games: 4; sets: 1 
+4/5/2022 02:56:31: [G_Auto 2] :  Store Text Value (Shared) for Kaia Kanepi: bServing = serving:0
+4/5/2022 02:56:31: [G_Auto 2] :  Store Value (Shared) for market: price = 1.15
+4/5/2022 02:56:31: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 331.63
+4/5/2022 02:56:31: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 322.64
+4/5/2022 02:56:31: [G_Auto 2] :  Store Value (Shared) for market: stake = 28.31
+4/5/2022 02:56:31: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 654.27
+4/5/2022 02:56:31: [G_Auto 2] :  Store Value (Shared) for market: pl = -8.98
+4/5/2022 02:56:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 7.4
+4/5/2022 02:56:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.16
+4/5/2022 02:56:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:56:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:57:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:57:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:57:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:57:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:58:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:58:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:58:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 02:58:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 02:59:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 02:59:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 03:01:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 03:01:29: [G_Auto 1] :  € 30.77 Lay bet placed on Kaia Kanepi at 1.26. Fully matched at 1.25.  Ref: 10230          ( Fill or kill bet with 15 seconds delay.   )
+4/5/2022 03:01:30: [G_Auto 2] :  Store Text Value (Shared) for Shelby Rogers: aPoints = point: 0; games: 2; sets: 1 
+4/5/2022 03:01:30: [G_Auto 2] :  Store Text Value (Shared) for Shelby Rogers: aServing = serving:0
+4/5/2022 03:01:30: [G_Auto 2] :  Store Text Value (Shared) for Kaia Kanepi: bPoints = point: 0; games: 4; sets: 1 
+4/5/2022 03:01:30: [G_Auto 2] :  Store Text Value (Shared) for Kaia Kanepi: bServing = serving:2
+4/5/2022 03:01:30: [G_Auto 2] :  Store Value (Shared) for market: price = 1.25
+4/5/2022 03:01:30: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 331.63
+4/5/2022 03:01:30: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 353.41
+4/5/2022 03:01:30: [G_Auto 2] :  Store Value (Shared) for market: stake = 30.77
+4/5/2022 03:01:30: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 685.04
+4/5/2022 03:01:30: [G_Auto 2] :  Store Value (Shared) for market: pl = -9.23
+4/5/2022 03:01:30: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 5
+4/5/2022 03:01:30: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.25
+4/5/2022 03:01:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 03:01:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 03:02:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 03:02:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 03:02:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 03:04:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 03:04:33: [G_Auto 1] :  Placed closure bet with greening on Kaia Kanepi by Backing 35.29 at 1.09
+4/5/2022 03:04:35: [G_Auto 2] :  Store Text Value (Shared) for Shelby Rogers: aPoints = point: 0; games: 2; sets: 1 
+4/5/2022 03:04:35: [G_Auto 2] :  Store Text Value (Shared) for Shelby Rogers: aServing = serving:1
+4/5/2022 03:04:35: [G_Auto 2] :  Store Text Value (Shared) for Kaia Kanepi: bPoints = point: 0; games: 5; sets: 1 
+4/5/2022 03:04:35: [G_Auto 2] :  Store Text Value (Shared) for Kaia Kanepi: bServing = serving:0
+4/5/2022 03:04:35: [G_Auto 2] :  Store Value (Shared) for market: price = 1.09
+4/5/2022 03:04:35: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 366.92
+4/5/2022 03:04:35: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 353.41
+4/5/2022 03:04:35: [G_Auto 2] :  Store Value (Shared) for market: stake = 35.29
+4/5/2022 03:04:35: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 720.33
+4/5/2022 03:04:35: [G_Auto 2] :  Store Value (Shared) for market: pl = -13.5
+4/5/2022 03:04:35: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 11.5
+4/5/2022 03:04:35: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.09
+4/5/2022 03:04:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 03:04:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 03:05:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 03:05:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 03:05:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 03:05:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 03:06:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 03:06:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 03:06:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 03:06:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/5/2022 03:08:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/5/2022 03:08:52:  Guardian has detected that the market is suspended

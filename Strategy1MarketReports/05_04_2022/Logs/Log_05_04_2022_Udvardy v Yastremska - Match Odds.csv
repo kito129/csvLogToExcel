@@ -1,0 +1,318 @@
+4/5/2022 11:28:37: [G_Auto 1] :  Store Text Value (Shared) for Panna Udvardy: info = marketName: Udvardy v Yastremska - Match Odds; runnerA: Panna Udvardy; runnerB: Dayana Yastremska 
+4/5/2022 11:28:37: [G_Auto 1] :  Store Value (Shared) for market: aId = 11174011
+4/5/2022 11:28:37: [G_Auto 1] :  Store Value (Shared) for market: bId = 9634670
+4/5/2022 21:49:07:  Guardian has detected that the market is in-play
+4/5/2022 21:49:07:  Guardian has detected that the market is suspended
+4/5/2022 21:49:10: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 3.05; bBsp: 1.48; volume: 9470.64 
+4/5/2022 21:49:10: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 3.05; bBsp: 1.48; volume: 9470.64 
+4/5/2022 21:49:10:  Guardian has detected that the market is now unsuspended
+4/5/2022 21:49:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:49:27: [G_Auto 2] :  € 16.67 Lay bet placed on Dayana Yastremska at 1.48. Entirely unmatched when it initially reached the market.   Ref: 10676          ( Fill or kill bet with 15 seconds delay.   )
+4/5/2022 21:49:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:49:33: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:49:42: [G_Auto 2] :  € 16.67 unmatched bet (Ref:10676) was killed.
+4/5/2022 21:49:50: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:51:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:51:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:52:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:52:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:52:32: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:54:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:54:42: [G_Auto 2] :  € 16.00 Lay bet placed on Dayana Yastremska at 1.5. Fully matched at 1.5.  Ref: 10681          ( Fill or kill bet with 15 seconds delay.   )
+4/5/2022 21:54:45: [G_Auto 1] :  Store Text Value (Shared) for Panna Udvardy: aPoints = point: 0; games: 1; sets: 0 
+4/5/2022 21:54:45: [G_Auto 1] :  Store Text Value (Shared) for Panna Udvardy: aServing = serving:0
+4/5/2022 21:54:45: [G_Auto 1] :  Store Text Value (Shared) for Dayana Yastremska: bPoints = point: 0; games: 1; sets: 0 
+4/5/2022 21:54:45: [G_Auto 1] :  Store Text Value (Shared) for Dayana Yastremska: bServing = serving:2
+4/5/2022 21:54:45: [G_Auto 1] :  Store Value (Shared) for market: price = 1.5
+4/5/2022 21:54:45: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 0
+4/5/2022 21:54:45: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 16
+4/5/2022 21:54:45: [G_Auto 1] :  Store Value (Shared) for market: stake = 16
+4/5/2022 21:54:45: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 16
+4/5/2022 21:54:45: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.11
+4/5/2022 21:54:45: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3
+4/5/2022 21:54:45: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.5
+4/5/2022 21:54:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:55:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:55:05: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:55:23: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 21:59:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 21:59:42: [G_Auto 2] :  Placed closure bet with greening on Dayana Yastremska by Backing 17.14 at 1.4
+4/5/2022 21:59:45: [G_Auto 1] :  Store Text Value (Shared) for Panna Udvardy: aPoints = point: 0; games: 1; sets: 0 
+4/5/2022 21:59:45: [G_Auto 1] :  Store Text Value (Shared) for Panna Udvardy: aServing = serving:1
+4/5/2022 21:59:45: [G_Auto 1] :  Store Text Value (Shared) for Dayana Yastremska: bPoints = point: 0; games: 2; sets: 0 
+4/5/2022 21:59:45: [G_Auto 1] :  Store Text Value (Shared) for Dayana Yastremska: bServing = serving:0
+4/5/2022 21:59:45: [G_Auto 1] :  Store Value (Shared) for market: price = 1.4
+4/5/2022 21:59:45: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 17.14
+4/5/2022 21:59:45: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 16
+4/5/2022 21:59:45: [G_Auto 1] :  Store Value (Shared) for market: stake = 17.14
+4/5/2022 21:59:45: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 33.14
+4/5/2022 21:59:45: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.14
+4/5/2022 21:59:45: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.4
+4/5/2022 21:59:45: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.41
+4/5/2022 21:59:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:00:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:00:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:00:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:00:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:01:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:01:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:01:41: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 22:01:57: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 22:03:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:03:34: [G_Auto 2] :  € 14.04 Lay bet placed on Dayana Yastremska at 1.57. Fully matched at 1.56.  Ref: 10689          ( Fill or kill bet with 15 seconds delay.   )
+4/5/2022 22:03:37: [G_Auto 1] :  Store Text Value (Shared) for Panna Udvardy: aPoints = point: 0; games: 2; sets: 0 
+4/5/2022 22:03:37: [G_Auto 1] :  Store Text Value (Shared) for Panna Udvardy: aServing = serving:0
+4/5/2022 22:03:37: [G_Auto 1] :  Store Text Value (Shared) for Dayana Yastremska: bPoints = point: 0; games: 2; sets: 0 
+4/5/2022 22:03:37: [G_Auto 1] :  Store Text Value (Shared) for Dayana Yastremska: bServing = serving:2
+4/5/2022 22:03:37: [G_Auto 1] :  Store Value (Shared) for market: price = 1.56
+4/5/2022 22:03:37: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 17.14
+4/5/2022 22:03:37: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 30.04
+4/5/2022 22:03:37: [G_Auto 1] :  Store Value (Shared) for market: stake = 14.04
+4/5/2022 22:03:37: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 47.18
+4/5/2022 22:03:37: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.23
+4/5/2022 22:03:37: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.78
+4/5/2022 22:03:37: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.55
+4/5/2022 22:03:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:03:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:04:04: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 22:04:20: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 22:05:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:05:17: [G_Auto 2] :  Placed closure bet with greening on Dayana Yastremska by Backing 15.65 at 1.4
+4/5/2022 22:05:20: [G_Auto 1] :  Store Text Value (Shared) for Panna Udvardy: aPoints = point: 0; games: 2; sets: 0 
+4/5/2022 22:05:20: [G_Auto 1] :  Store Text Value (Shared) for Panna Udvardy: aServing = serving:1
+4/5/2022 22:05:20: [G_Auto 1] :  Store Text Value (Shared) for Dayana Yastremska: bPoints = point: 0; games: 3; sets: 0 
+4/5/2022 22:05:20: [G_Auto 1] :  Store Text Value (Shared) for Dayana Yastremska: bServing = serving:0
+4/5/2022 22:05:20: [G_Auto 1] :  Store Value (Shared) for market: price = 1.4
+4/5/2022 22:05:20: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 32.79
+4/5/2022 22:05:20: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 30.04
+4/5/2022 22:05:20: [G_Auto 1] :  Store Value (Shared) for market: stake = 15.65
+4/5/2022 22:05:20: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 62.83
+4/5/2022 22:05:20: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.75
+4/5/2022 22:05:20: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.4
+4/5/2022 22:05:20: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.41
+4/5/2022 22:05:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:05:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:05:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:06:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:06:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:06:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:06:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:07:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:07:20: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 22:07:38: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 22:10:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:11:00: [G_Auto 2] :  € 34.78 Lay bet placed on Dayana Yastremska at 1.23. Fully matched at 1.23.  Ref: 10696          ( Fill or kill bet with 15 seconds delay.   )
+4/5/2022 22:11:02: [G_Auto 1] :  Store Text Value (Shared) for Panna Udvardy: aPoints = point: 0; games: 2; sets: 0 
+4/5/2022 22:11:02: [G_Auto 1] :  Store Text Value (Shared) for Panna Udvardy: aServing = serving:0
+4/5/2022 22:11:02: [G_Auto 1] :  Store Text Value (Shared) for Dayana Yastremska: bPoints = point: 0; games: 4; sets: 0 
+4/5/2022 22:11:02: [G_Auto 1] :  Store Text Value (Shared) for Dayana Yastremska: bServing = serving:2
+4/5/2022 22:11:02: [G_Auto 1] :  Store Value (Shared) for market: price = 1.23
+4/5/2022 22:11:02: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 32.79
+4/5/2022 22:11:02: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 64.82
+4/5/2022 22:11:02: [G_Auto 1] :  Store Value (Shared) for market: stake = 34.78
+4/5/2022 22:11:02: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 97.61
+4/5/2022 22:11:02: [G_Auto 1] :  Store Value (Shared) for market: pl = -3.03
+4/5/2022 22:11:02: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 5.4
+4/5/2022 22:11:02: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.23
+4/5/2022 22:11:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:11:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:11:36: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 22:11:54: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 22:14:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:14:37: [G_Auto 2] :  Placed closure bet with greening on Dayana Yastremska by Backing 30.55 at 1.4
+4/5/2022 22:14:39: [G_Auto 1] :  Store Text Value (Shared) for Panna Udvardy: aPoints = point: 0; games: 3; sets: 0 
+4/5/2022 22:14:39: [G_Auto 1] :  Store Text Value (Shared) for Panna Udvardy: aServing = serving:1
+4/5/2022 22:14:39: [G_Auto 1] :  Store Text Value (Shared) for Dayana Yastremska: bPoints = point: 0; games: 4; sets: 0 
+4/5/2022 22:14:39: [G_Auto 1] :  Store Text Value (Shared) for Dayana Yastremska: bServing = serving:0
+4/5/2022 22:14:39: [G_Auto 1] :  Store Value (Shared) for market: price = 1.4
+4/5/2022 22:14:39: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 63.34
+4/5/2022 22:14:39: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 64.82
+4/5/2022 22:14:39: [G_Auto 1] :  Store Value (Shared) for market: stake = 30.55
+4/5/2022 22:14:39: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 128.16
+4/5/2022 22:14:39: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.45
+4/5/2022 22:14:39: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.6
+4/5/2022 22:14:39: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.4
+4/5/2022 22:14:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:14:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:15:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:15:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:15:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:16:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:16:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:16:23: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 22:16:38: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 22:18:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:18:33: [G_Auto 2] :  € 13.11 Lay bet placed on Dayana Yastremska at 1.61. Fully matched at 1.6.  Ref: 10702          ( Fill or kill bet with 15 seconds delay.   )
+4/5/2022 22:18:35: [G_Auto 1] :  Store Text Value (Shared) for Panna Udvardy: aPoints = point: 0; games: 4; sets: 0 
+4/5/2022 22:18:35: [G_Auto 1] :  Store Text Value (Shared) for Panna Udvardy: aServing = serving:0
+4/5/2022 22:18:35: [G_Auto 1] :  Store Text Value (Shared) for Dayana Yastremska: bPoints = point: 0; games: 4; sets: 0 
+4/5/2022 22:18:35: [G_Auto 1] :  Store Text Value (Shared) for Dayana Yastremska: bServing = serving:2
+4/5/2022 22:18:35: [G_Auto 1] :  Store Value (Shared) for market: price = 1.6
+4/5/2022 22:18:35: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 63.34
+4/5/2022 22:18:35: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 77.93
+4/5/2022 22:18:35: [G_Auto 1] :  Store Value (Shared) for market: stake = 13.11
+4/5/2022 22:18:35: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 141.27
+4/5/2022 22:18:35: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.28
+4/5/2022 22:18:35: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.7
+4/5/2022 22:18:35: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.59
+4/5/2022 22:18:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:18:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:18:57: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 22:19:13: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 22:19:29: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 22:21:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:21:44: [G_Auto 2] :  Placed closure bet with greening on Dayana Yastremska by Backing 9.45 at 2.22
+4/5/2022 22:21:44: [G_Auto 2] :  € 9.88 Lay bet placed on Panna Udvardy at 1.81. Fully matched at 1.81.  Ref: 10705          ( Fill or kill bet with 15 seconds delay.   )
+4/5/2022 22:21:46: [G_Auto 1] :  Store Text Value (Shared) for Panna Udvardy: aPoints = point: 0; games: 5; sets: 0 
+4/5/2022 22:21:46: [G_Auto 1] :  Store Text Value (Shared) for Panna Udvardy: aServing = serving:1
+4/5/2022 22:21:46: [G_Auto 1] :  Store Text Value (Shared) for Dayana Yastremska: bPoints = point: 0; games: 4; sets: 0 
+4/5/2022 22:21:46: [G_Auto 1] :  Store Text Value (Shared) for Dayana Yastremska: bServing = serving:0
+4/5/2022 22:21:46: [G_Auto 1] :  Store Value (Shared) for market: price = 1.81
+4/5/2022 22:21:46: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 72.79
+4/5/2022 22:21:46: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 87.81
+4/5/2022 22:21:46: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.88
+4/5/2022 22:21:46: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 160.6
+4/5/2022 22:21:46: [G_Auto 1] :  Store Value (Shared) for market: pl = 4.99
+4/5/2022 22:21:46: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.81
+4/5/2022 22:21:46: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.22
+4/5/2022 22:21:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:22:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:22:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:22:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:22:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:23:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:23:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:23:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:23:49: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 22:24:05: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 22:24:21: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 22:25:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:25:56: [G_Auto 2] :  Placed closure bet with greening on Panna Udvardy by Backing 6.57 at 2.72
+4/5/2022 22:25:56: [G_Auto 2] :  € 15.09 Lay bet placed on Dayana Yastremska at 1.53. Entirely unmatched when it initially reached the market.   Ref: 10711          ( Fill or kill bet with 15 seconds delay.   )
+4/5/2022 22:25:57: [G_Auto 1] :  Store Text Value (Shared) for Panna Udvardy: aPoints = point: 0; games: 5; sets: 0 
+4/5/2022 22:25:57: [G_Auto 1] :  Store Text Value (Shared) for Panna Udvardy: aServing = serving:0
+4/5/2022 22:25:57: [G_Auto 1] :  Store Text Value (Shared) for Dayana Yastremska: bPoints = point: 0; games: 5; sets: 0 
+4/5/2022 22:25:57: [G_Auto 1] :  Store Text Value (Shared) for Dayana Yastremska: bServing = serving:2
+4/5/2022 22:25:57: [G_Auto 1] :  Store Value (Shared) for market: price = 2.84
+4/5/2022 22:25:57: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 79.36
+4/5/2022 22:25:57: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 87.81
+4/5/2022 22:25:57: [G_Auto 1] :  Store Value (Shared) for market: stake = 6.57
+4/5/2022 22:25:57: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 167.17
+4/5/2022 22:25:57: [G_Auto 1] :  Store Value (Shared) for market: pl = 8.55
+4/5/2022 22:25:57: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.8
+4/5/2022 22:25:57: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.54
+4/5/2022 22:26:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:26:02: [G_Auto 2] :  € 15.09 of unmatched bet (Ref:10711) was filled before remainder was killed.
+4/5/2022 22:26:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:26:25: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 22:26:40: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 22:27:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:28:06: [G_Auto 2] :  Placed closure bet with greening on Dayana Yastremska by Backing 17.49 at 1.32
+4/5/2022 22:28:08: [G_Auto 1] :  Store Text Value (Shared) for Panna Udvardy: aPoints = point: 0; games: 5; sets: 0 
+4/5/2022 22:28:08: [G_Auto 1] :  Store Text Value (Shared) for Panna Udvardy: aServing = serving:1
+4/5/2022 22:28:08: [G_Auto 1] :  Store Text Value (Shared) for Dayana Yastremska: bPoints = point: 0; games: 6; sets: 0 
+4/5/2022 22:28:08: [G_Auto 1] :  Store Text Value (Shared) for Dayana Yastremska: bServing = serving:0
+4/5/2022 22:28:08: [G_Auto 1] :  Store Value (Shared) for market: price = 1.32
+4/5/2022 22:28:08: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 96.85
+4/5/2022 22:28:08: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 102.9
+4/5/2022 22:28:08: [G_Auto 1] :  Store Value (Shared) for market: stake = 17.49
+4/5/2022 22:28:08: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 199.75
+4/5/2022 22:28:08: [G_Auto 1] :  Store Value (Shared) for market: pl = 6.12
+4/5/2022 22:28:08: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 4.1
+4/5/2022 22:28:08: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.33
+4/5/2022 22:28:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:28:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:28:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:28:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:29:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:29:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:29:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:30:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:30:12: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 22:30:28: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 22:32:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:33:03: [G_Auto 1] :  Store Value (Shared) for market: aFirstSetPrice = 7.6
+4/5/2022 22:33:03: [G_Auto 1] :  Store Value (Shared) for market: bFirstSetPrice = 1.15
+4/5/2022 22:33:06: [G_Auto 2] :  € 50.00 Lay bet placed on Dayana Yastremska at 1.16. Fully matched at 1.15.  Ref: 10722          ( Fill or kill bet with 15 seconds delay.   )
+4/5/2022 22:33:08: [G_Auto 1] :  Store Text Value (Shared) for Panna Udvardy: aPoints = point: 0; games: 0; sets: 0 
+4/5/2022 22:33:08: [G_Auto 1] :  Store Text Value (Shared) for Panna Udvardy: aServing = serving:0
+4/5/2022 22:33:08: [G_Auto 1] :  Store Text Value (Shared) for Dayana Yastremska: bPoints = point: 0; games: 0; sets: 1 
+4/5/2022 22:33:08: [G_Auto 1] :  Store Text Value (Shared) for Dayana Yastremska: bServing = serving:2
+4/5/2022 22:33:08: [G_Auto 1] :  Store Value (Shared) for market: price = 1.15
+4/5/2022 22:33:08: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 96.85
+4/5/2022 22:33:08: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 152.9
+4/5/2022 22:33:08: [G_Auto 1] :  Store Value (Shared) for market: stake = 50
+4/5/2022 22:33:08: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 249.75
+4/5/2022 22:33:08: [G_Auto 1] :  Store Value (Shared) for market: pl = 5.59
+4/5/2022 22:33:08: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 7.6
+4/5/2022 22:33:08: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.15
+4/5/2022 22:33:09: [G_Auto 2] :  Placed closure bet with greening on Panna Udvardy by Laying 0.09 at 8.2
+4/5/2022 22:33:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:33:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:33:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:33:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:34:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:34:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:34:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:35:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:35:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:35:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:35:48: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 22:36:04: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 22:37:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:37:16: [G_Auto 2] :  Placed closure bet with greening on Dayana Yastremska by Backing 51.81 at 1.11
+4/5/2022 22:37:17: [G_Auto 1] :  Store Text Value (Shared) for Panna Udvardy: aPoints = point: 0; games: 0; sets: 0 
+4/5/2022 22:37:17: [G_Auto 1] :  Store Text Value (Shared) for Panna Udvardy: aServing = serving:1
+4/5/2022 22:37:17: [G_Auto 1] :  Store Text Value (Shared) for Dayana Yastremska: bPoints = point: 0; games: 1; sets: 1 
+4/5/2022 22:37:17: [G_Auto 1] :  Store Text Value (Shared) for Dayana Yastremska: bServing = serving:0
+4/5/2022 22:37:17: [G_Auto 1] :  Store Value (Shared) for market: price = 1.11
+4/5/2022 22:37:17: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 148.66
+4/5/2022 22:37:17: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 152.99
+4/5/2022 22:37:17: [G_Auto 1] :  Store Value (Shared) for market: stake = 51.81
+4/5/2022 22:37:17: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 301.65
+4/5/2022 22:37:17: [G_Auto 1] :  Store Value (Shared) for market: pl = 4.28
+4/5/2022 22:37:17: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 8.6
+4/5/2022 22:37:17: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.12
+4/5/2022 22:37:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:37:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:37:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:38:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:38:21: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 22:38:37: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 22:41:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:41:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:41:28: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 22:41:44: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 22:44:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:44:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:45:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:45:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:45:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:45:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:46:06: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:46:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:46:27: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 22:46:43: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 22:54:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:54:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:54:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:55:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:55:17: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 22:55:33: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 22:58:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:58:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:58:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:58:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:59:06: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:59:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:59:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 22:59:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 23:00:10: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 23:00:26: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 23:02:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 23:02:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 23:03:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 23:03:16: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 23:03:33: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/5/2022 23:04:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/5/2022 23:05:02:  Guardian has detected that the market is suspended
