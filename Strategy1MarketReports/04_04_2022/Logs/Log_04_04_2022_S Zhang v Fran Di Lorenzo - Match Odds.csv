@@ -1,0 +1,318 @@
+4/4/2022 11:13:31: [G_Auto 2] :  Store Text Value (Shared) for Shuai Zhang: info = marketName: S Zhang v Fran Di Lorenzo - Match Odds; runnerA: Shuai Zhang; runnerB: Francesca Di Lorenzo 
+4/4/2022 11:13:31: [G_Auto 2] :  Store Value (Shared) for market: aId = 2386498
+4/4/2022 11:13:31: [G_Auto 2] :  Store Value (Shared) for market: bId = 10141720
+4/4/2022 11:31:22: [G_Auto 2] :  Store Text Value (Shared) for Shuai Zhang: info = marketName: S Zhang v Fran Di Lorenzo - Match Odds; runnerA: Shuai Zhang; runnerB: Francesca Di Lorenzo 
+4/4/2022 11:31:22: [G_Auto 2] :  Store Value (Shared) for market: aId = 2386498
+4/4/2022 11:31:22: [G_Auto 2] :  Store Value (Shared) for market: bId = 10141720
+4/4/2022 20:10:30:  Guardian has detected that the market is in-play
+4/4/2022 20:10:30:  Guardian has detected that the market is suspended
+4/4/2022 20:10:32: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.21; bBsp: 5.3; volume: 3573.6 
+4/4/2022 20:10:32: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.21; bBsp: 5.3; volume: 3573.6 
+4/4/2022 20:10:32:  Guardian has detected that the market is now unsuspended
+4/4/2022 20:10:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:10:49: [G_Auto 1] :  € 38.10 Lay bet placed on Shuai Zhang at 1.21. Entirely unmatched when it initially reached the market.   Ref: 10161          ( Fill or kill bet with 15 seconds delay.   )
+4/4/2022 20:10:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:10:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/4/2022 20:11:04: [G_Auto 1] :  € 38.1 unmatched bet (Ref:10161) was killed.
+4/4/2022 20:11:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/4/2022 20:13:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:14:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:14:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:14:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:14:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:15:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/4/2022 20:15:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/4/2022 20:17:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:17:53: [G_Auto 1] :  € 61.54 Lay bet placed on Shuai Zhang at 1.13. Fully matched at 1.13.  Ref: 10162          ( Fill or kill bet with 15 seconds delay.   )
+4/4/2022 20:17:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:17:56: [G_Auto 2] :  Store Text Value (Shared) for Shuai Zhang: aPoints = point: 0; games: 2; sets: 0 
+4/4/2022 20:17:56: [G_Auto 2] :  Store Text Value (Shared) for Shuai Zhang: aServing = serving:1
+4/4/2022 20:17:56: [G_Auto 2] :  Store Text Value (Shared) for Francesca Di Lorenzo: bPoints = point: 0; games: 0; sets: 0 
+4/4/2022 20:17:56: [G_Auto 2] :  Store Text Value (Shared) for Francesca Di Lorenzo: bServing = serving:0
+4/4/2022 20:17:56: [G_Auto 2] :  Store Value (Shared) for market: price = 1.13
+4/4/2022 20:17:56: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+4/4/2022 20:17:56: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 61.54
+4/4/2022 20:17:56: [G_Auto 2] :  Store Value (Shared) for market: stake = 61.54
+4/4/2022 20:17:56: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 61.54
+4/4/2022 20:17:56: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.11
+4/4/2022 20:17:56: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.11
+4/4/2022 20:17:56: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 10
+4/4/2022 20:18:01: [G_Auto 2] :  Store Text Value (Shared) for Shuai Zhang: aPoints = point: 0; games: 2; sets: 0 
+4/4/2022 20:18:01: [G_Auto 2] :  Store Text Value (Shared) for Shuai Zhang: aServing = serving:1
+4/4/2022 20:18:01: [G_Auto 2] :  Store Text Value (Shared) for Francesca Di Lorenzo: bPoints = point: 0; games: 0; sets: 0 
+4/4/2022 20:18:01: [G_Auto 2] :  Store Text Value (Shared) for Francesca Di Lorenzo: bServing = serving:0
+4/4/2022 20:18:01: [G_Auto 2] :  Store Value (Shared) for market: price = 1.13
+4/4/2022 20:18:01: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+4/4/2022 20:18:01: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 61.54
+4/4/2022 20:18:01: [G_Auto 2] :  Store Value (Shared) for market: stake = 61.54
+4/4/2022 20:18:01: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 61.54
+4/4/2022 20:18:01: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.11
+4/4/2022 20:18:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.11
+4/4/2022 20:18:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 10
+4/4/2022 20:18:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:18:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/4/2022 20:18:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/4/2022 20:20:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:20:43: [G_Auto 1] :  Placed closure bet with greening on Shuai Zhang by Backing 63.80 at 1.09
+4/4/2022 20:20:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:20:45: [G_Auto 2] :  Store Text Value (Shared) for Shuai Zhang: aPoints = point: 0; games: 3; sets: 0 
+4/4/2022 20:20:45: [G_Auto 2] :  Store Text Value (Shared) for Shuai Zhang: aServing = serving:0
+4/4/2022 20:20:45: [G_Auto 2] :  Store Text Value (Shared) for Francesca Di Lorenzo: bPoints = point: 0; games: 0; sets: 0 
+4/4/2022 20:20:45: [G_Auto 2] :  Store Text Value (Shared) for Francesca Di Lorenzo: bServing = serving:2
+4/4/2022 20:20:45: [G_Auto 2] :  Store Value (Shared) for market: price = 1.09
+4/4/2022 20:20:45: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 63.8
+4/4/2022 20:20:45: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 61.54
+4/4/2022 20:20:45: [G_Auto 2] :  Store Value (Shared) for market: stake = 63.8
+4/4/2022 20:20:45: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 125.34
+4/4/2022 20:20:45: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.26
+4/4/2022 20:20:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.1
+4/4/2022 20:20:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 9.4
+4/4/2022 20:21:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:21:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:21:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:21:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:22:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:22:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:22:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/4/2022 20:22:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/4/2022 20:23:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/4/2022 20:25:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:25:23: [G_Auto 1] :  € 57.14 Lay bet placed on Shuai Zhang at 1.14. Fully matched at 1.13.  Ref: 10165          ( Fill or kill bet with 15 seconds delay.   )
+4/4/2022 20:25:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:25:25: [G_Auto 2] :  Store Text Value (Shared) for Shuai Zhang: aPoints = point: 0; games: 3; sets: 0 
+4/4/2022 20:25:25: [G_Auto 2] :  Store Text Value (Shared) for Shuai Zhang: aServing = serving:1
+4/4/2022 20:25:25: [G_Auto 2] :  Store Text Value (Shared) for Francesca Di Lorenzo: bPoints = point: 0; games: 1; sets: 0 
+4/4/2022 20:25:25: [G_Auto 2] :  Store Text Value (Shared) for Francesca Di Lorenzo: bServing = serving:0
+4/4/2022 20:25:25: [G_Auto 2] :  Store Value (Shared) for market: price = 1.13
+4/4/2022 20:25:25: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 63.8
+4/4/2022 20:25:25: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 118.68
+4/4/2022 20:25:25: [G_Auto 2] :  Store Value (Shared) for market: stake = 57.14
+4/4/2022 20:25:25: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 182.48
+4/4/2022 20:25:25: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.77
+4/4/2022 20:25:25: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.12
+4/4/2022 20:25:25: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 9.4
+4/4/2022 20:25:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:25:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/4/2022 20:26:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/4/2022 20:26:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/4/2022 20:27:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:27:35: [G_Auto 1] :  Placed closure bet with greening on Shuai Zhang by Backing 52.92 at 1.22
+4/4/2022 20:27:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:27:37: [G_Auto 2] :  Store Text Value (Shared) for Shuai Zhang: aPoints = point: 0; games: 3; sets: 0 
+4/4/2022 20:27:37: [G_Auto 2] :  Store Text Value (Shared) for Shuai Zhang: aServing = serving:0
+4/4/2022 20:27:37: [G_Auto 2] :  Store Text Value (Shared) for Francesca Di Lorenzo: bPoints = point: 0; games: 2; sets: 0 
+4/4/2022 20:27:37: [G_Auto 2] :  Store Text Value (Shared) for Francesca Di Lorenzo: bServing = serving:2
+4/4/2022 20:27:37: [G_Auto 2] :  Store Value (Shared) for market: price = 1.22
+4/4/2022 20:27:37: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 116.72
+4/4/2022 20:27:37: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 118.68
+4/4/2022 20:27:37: [G_Auto 2] :  Store Value (Shared) for market: stake = 52.92
+4/4/2022 20:27:37: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 235.4
+4/4/2022 20:27:37: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.92
+4/4/2022 20:27:37: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.22
+4/4/2022 20:27:37: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.6
+4/4/2022 20:27:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:28:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:28:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:28:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:28:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:29:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:29:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:29:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/4/2022 20:30:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/4/2022 20:35:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:35:36: [G_Auto 1] :  € 57.14 Lay bet placed on Shuai Zhang at 1.14. Fully matched at 1.14.  Ref: 10170          ( Fill or kill bet with 15 seconds delay.   )
+4/4/2022 20:35:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:35:38: [G_Auto 2] :  Store Text Value (Shared) for Shuai Zhang: aPoints = point: 0; games: 4; sets: 0 
+4/4/2022 20:35:38: [G_Auto 2] :  Store Text Value (Shared) for Shuai Zhang: aServing = serving:1
+4/4/2022 20:35:38: [G_Auto 2] :  Store Text Value (Shared) for Francesca Di Lorenzo: bPoints = point: 0; games: 2; sets: 0 
+4/4/2022 20:35:38: [G_Auto 2] :  Store Text Value (Shared) for Francesca Di Lorenzo: bServing = serving:0
+4/4/2022 20:35:38: [G_Auto 2] :  Store Value (Shared) for market: price = 1.14
+4/4/2022 20:35:38: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 116.72
+4/4/2022 20:35:38: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 175.82
+4/4/2022 20:35:38: [G_Auto 2] :  Store Value (Shared) for market: stake = 57.14
+4/4/2022 20:35:38: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 292.54
+4/4/2022 20:35:38: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.42
+4/4/2022 20:35:38: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.14
+4/4/2022 20:35:38: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 8.8
+4/4/2022 20:35:43: [G_Auto 2] :  Store Text Value (Shared) for Shuai Zhang: aPoints = point: 0; games: 4; sets: 0 
+4/4/2022 20:35:43: [G_Auto 2] :  Store Text Value (Shared) for Shuai Zhang: aServing = serving:1
+4/4/2022 20:35:43: [G_Auto 2] :  Store Text Value (Shared) for Francesca Di Lorenzo: bPoints = point: 0; games: 2; sets: 0 
+4/4/2022 20:35:43: [G_Auto 2] :  Store Text Value (Shared) for Francesca Di Lorenzo: bServing = serving:0
+4/4/2022 20:35:43: [G_Auto 2] :  Store Value (Shared) for market: price = 1.14
+4/4/2022 20:35:43: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 116.72
+4/4/2022 20:35:43: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 175.82
+4/4/2022 20:35:43: [G_Auto 2] :  Store Value (Shared) for market: stake = 57.14
+4/4/2022 20:35:43: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 292.54
+4/4/2022 20:35:43: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.42
+4/4/2022 20:35:43: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.14
+4/4/2022 20:35:43: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 8.8
+4/4/2022 20:35:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/4/2022 20:36:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/4/2022 20:36:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/4/2022 20:38:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:38:32: [G_Auto 1] :  Placed closure bet with greening on Shuai Zhang by Backing 60.32 at 1.08
+4/4/2022 20:38:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:38:35: [G_Auto 2] :  Store Text Value (Shared) for Shuai Zhang: aPoints = point: 0; games: 5; sets: 0 
+4/4/2022 20:38:35: [G_Auto 2] :  Store Text Value (Shared) for Shuai Zhang: aServing = serving:0
+4/4/2022 20:38:35: [G_Auto 2] :  Store Text Value (Shared) for Francesca Di Lorenzo: bPoints = point: 0; games: 2; sets: 0 
+4/4/2022 20:38:35: [G_Auto 2] :  Store Text Value (Shared) for Francesca Di Lorenzo: bServing = serving:2
+4/4/2022 20:38:35: [G_Auto 2] :  Store Value (Shared) for market: price = 1.08
+4/4/2022 20:38:35: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 177.04
+4/4/2022 20:38:35: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 175.82
+4/4/2022 20:38:35: [G_Auto 2] :  Store Value (Shared) for market: stake = 60.32
+4/4/2022 20:38:35: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 352.86
+4/4/2022 20:38:35: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.22
+4/4/2022 20:38:35: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.1
+4/4/2022 20:38:35: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 10
+4/4/2022 20:38:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:39:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:39:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:39:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:39:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:40:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:40:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:40:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/4/2022 20:40:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/4/2022 20:44:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:44:10: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 1.06
+4/4/2022 20:44:10: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 15
+4/4/2022 20:44:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:44:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:44:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:45:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:45:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:45:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:45:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:46:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:46:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:46:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:46:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/4/2022 20:48:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:48:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:49:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:49:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:49:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/4/2022 20:49:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/4/2022 20:50:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/4/2022 20:53:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:53:14: [G_Auto 1] :  € 38.10 Lay bet placed on Shuai Zhang at 1.21. Fully matched at 1.2.  Ref: 10179          ( Fill or kill bet with 15 seconds delay.   )
+4/4/2022 20:53:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:53:17: [G_Auto 2] :  Store Text Value (Shared) for Shuai Zhang: aPoints = point: 0; games: 0; sets: 1 
+4/4/2022 20:53:17: [G_Auto 2] :  Store Text Value (Shared) for Shuai Zhang: aServing = serving:1
+4/4/2022 20:53:17: [G_Auto 2] :  Store Text Value (Shared) for Francesca Di Lorenzo: bPoints = point: 0; games: 2; sets: 0 
+4/4/2022 20:53:17: [G_Auto 2] :  Store Text Value (Shared) for Francesca Di Lorenzo: bServing = serving:0
+4/4/2022 20:53:17: [G_Auto 2] :  Store Value (Shared) for market: price = 1.2
+4/4/2022 20:53:17: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 177.04
+4/4/2022 20:53:17: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 213.92
+4/4/2022 20:53:17: [G_Auto 2] :  Store Value (Shared) for market: stake = 38.1
+4/4/2022 20:53:17: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 390.96
+4/4/2022 20:53:17: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.54
+4/4/2022 20:53:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.2
+4/4/2022 20:53:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 6.4
+4/4/2022 20:53:22: [G_Auto 2] :  Store Text Value (Shared) for Shuai Zhang: aPoints = point: 0; games: 0; sets: 1 
+4/4/2022 20:53:22: [G_Auto 2] :  Store Text Value (Shared) for Shuai Zhang: aServing = serving:1
+4/4/2022 20:53:22: [G_Auto 2] :  Store Text Value (Shared) for Francesca Di Lorenzo: bPoints = point: 0; games: 2; sets: 0 
+4/4/2022 20:53:22: [G_Auto 2] :  Store Text Value (Shared) for Francesca Di Lorenzo: bServing = serving:0
+4/4/2022 20:53:22: [G_Auto 2] :  Store Value (Shared) for market: price = 1.2
+4/4/2022 20:53:22: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 177.04
+4/4/2022 20:53:22: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 213.92
+4/4/2022 20:53:22: [G_Auto 2] :  Store Value (Shared) for market: stake = 38.1
+4/4/2022 20:53:22: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 390.96
+4/4/2022 20:53:22: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.54
+4/4/2022 20:53:22: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.19
+4/4/2022 20:53:22: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 6.4
+4/4/2022 20:53:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:53:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:54:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:54:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/4/2022 20:54:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/4/2022 20:54:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/4/2022 20:55:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:55:47: [G_Auto 1] :  Placed closure bet with greening on Shuai Zhang by Backing 40.46 at 1.13
+4/4/2022 20:55:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:55:49: [G_Auto 2] :  Store Text Value (Shared) for Shuai Zhang: aPoints = point: 0; games: 1; sets: 1 
+4/4/2022 20:55:49: [G_Auto 2] :  Store Text Value (Shared) for Shuai Zhang: aServing = serving:0
+4/4/2022 20:55:49: [G_Auto 2] :  Store Text Value (Shared) for Francesca Di Lorenzo: bPoints = point: 0; games: 2; sets: 0 
+4/4/2022 20:55:49: [G_Auto 2] :  Store Text Value (Shared) for Francesca Di Lorenzo: bServing = serving:2
+4/4/2022 20:55:49: [G_Auto 2] :  Store Value (Shared) for market: price = 1.13
+4/4/2022 20:55:49: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 217.5
+4/4/2022 20:55:49: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 213.92
+4/4/2022 20:55:49: [G_Auto 2] :  Store Value (Shared) for market: stake = 40.46
+4/4/2022 20:55:49: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 431.42
+4/4/2022 20:55:49: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.58
+4/4/2022 20:55:49: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.14
+4/4/2022 20:55:49: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 8.2
+4/4/2022 20:55:55: [G_Auto 2] :  Store Text Value (Shared) for Shuai Zhang: aPoints = point: 0; games: 1; sets: 1 
+4/4/2022 20:55:55: [G_Auto 2] :  Store Text Value (Shared) for Shuai Zhang: aServing = serving:0
+4/4/2022 20:55:55: [G_Auto 2] :  Store Text Value (Shared) for Francesca Di Lorenzo: bPoints = point: 0; games: 2; sets: 0 
+4/4/2022 20:55:55: [G_Auto 2] :  Store Text Value (Shared) for Francesca Di Lorenzo: bServing = serving:2
+4/4/2022 20:55:55: [G_Auto 2] :  Store Value (Shared) for market: price = 1.13
+4/4/2022 20:55:55: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 217.5
+4/4/2022 20:55:55: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 213.92
+4/4/2022 20:55:55: [G_Auto 2] :  Store Value (Shared) for market: stake = 40.46
+4/4/2022 20:55:55: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 431.42
+4/4/2022 20:55:55: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.58
+4/4/2022 20:55:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.13
+4/4/2022 20:55:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 8.2
+4/4/2022 20:56:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:56:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:56:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:56:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:57:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:57:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:57:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 20:57:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/4/2022 20:58:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/4/2022 20:59:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 21:00:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 21:00:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 21:00:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/4/2022 21:01:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/4/2022 21:05:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 21:05:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 21:06:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 21:06:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 21:06:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 21:07:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 21:07:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 21:07:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 21:07:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 21:08:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 21:08:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/4/2022 21:08:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/4/2022 21:08:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/4/2022 21:13:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 21:13:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 21:14:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 21:14:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 21:14:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/4/2022 21:14:55: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/4/2022 21:17:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 21:17:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 21:18:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 21:18:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 21:18:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 21:18:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 21:19:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 21:19:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 21:19:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/4/2022 21:19:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/4/2022 21:23:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 21:23:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 21:23:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 21:23:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/4/2022 21:24:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/4/2022 21:24:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/4/2022 21:28:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 21:28:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 21:28:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 21:29:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 21:29:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 21:29:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 21:29:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 21:30:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 21:30:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 21:30:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/4/2022 21:30:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/4/2022 21:33:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/4/2022 21:33:29:  Guardian has detected that the market is suspended
