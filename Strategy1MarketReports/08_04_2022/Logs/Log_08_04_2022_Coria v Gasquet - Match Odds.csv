@@ -1,0 +1,656 @@
+4/8/2022 09:18:23: [G_Auto 1] :  Store Text Value (Shared) for Federico Coria: info = marketName: Coria v Gasquet - Match Odds; runnerA: Federico Coria; runnerB: Richard Gasquet 
+4/8/2022 09:18:23: [G_Auto 1] :  Store Value (Shared) for market: aId = 8326752
+4/8/2022 09:18:23: [G_Auto 1] :  Store Value (Shared) for market: bId = 2249399
+4/8/2022 15:04:53:  Guardian has detected that the market is in-play
+4/8/2022 15:04:53:  Guardian has detected that the market is suspended
+4/8/2022 15:04:56: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.76; bBsp: 2.3; volume: 38307.03 
+4/8/2022 15:04:56: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.76; bBsp: 2.3; volume: 38307.03 
+4/8/2022 15:04:56:  Guardian has detected that the market is now unsuspended
+4/8/2022 15:05:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:05:09: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 15:05:24: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 15:05:40: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 15:07:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:07:46: [G_Auto 2] :  € 8.79 Lay bet placed on Federico Coria at 1.91. Fully matched at 1.9.  Ref: 11727          ( Fill or kill bet with 15 seconds delay.   )
+4/8/2022 15:07:46: [G_Auto 1] :  Store Text Value (Shared) for Federico Coria: aPoints = point: 0; games: 0; sets: 0 
+4/8/2022 15:07:46: [G_Auto 1] :  Store Text Value (Shared) for Federico Coria: aServing = serving:1
+4/8/2022 15:07:46: [G_Auto 1] :  Store Text Value (Shared) for Richard Gasquet: bPoints = point: 0; games: 1; sets: 0 
+4/8/2022 15:07:46: [G_Auto 1] :  Store Text Value (Shared) for Richard Gasquet: bServing = serving:0
+4/8/2022 15:07:46: [G_Auto 1] :  Store Value (Shared) for market: price = 1.9
+4/8/2022 15:07:46: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 0
+4/8/2022 15:07:46: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 8.79
+4/8/2022 15:07:46: [G_Auto 1] :  Store Value (Shared) for market: stake = 8.79
+4/8/2022 15:07:46: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 8.79
+4/8/2022 15:07:46: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.05
+4/8/2022 15:07:46: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.89
+4/8/2022 15:07:46: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.14
+4/8/2022 15:07:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:07:52: [G_Auto 1] :  Store Text Value (Shared) for Federico Coria: aPoints = point: 0; games: 0; sets: 0 
+4/8/2022 15:07:52: [G_Auto 1] :  Store Text Value (Shared) for Federico Coria: aServing = serving:1
+4/8/2022 15:07:52: [G_Auto 1] :  Store Text Value (Shared) for Richard Gasquet: bPoints = point: 0; games: 1; sets: 0 
+4/8/2022 15:07:52: [G_Auto 1] :  Store Text Value (Shared) for Richard Gasquet: bServing = serving:0
+4/8/2022 15:07:52: [G_Auto 1] :  Store Value (Shared) for market: price = 1.9
+4/8/2022 15:07:52: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 0
+4/8/2022 15:07:52: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 8.79
+4/8/2022 15:07:52: [G_Auto 1] :  Store Value (Shared) for market: stake = 8.79
+4/8/2022 15:07:52: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 8.79
+4/8/2022 15:07:52: [G_Auto 1] :  Store Value (Shared) for market: pl = 0
+4/8/2022 15:07:52: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.9
+4/8/2022 15:07:52: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.12
+4/8/2022 15:08:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:08:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:08:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:08:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:09:00: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 15:09:16: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 15:09:32: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 15:11:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:12:01: [G_Auto 2] :  Placed closure bet with greening on Federico Coria by Backing 9.33 at 1.79
+4/8/2022 15:12:04: [G_Auto 1] :  Store Text Value (Shared) for Federico Coria: aPoints = point: 0; games: 1; sets: 0 
+4/8/2022 15:12:04: [G_Auto 1] :  Store Text Value (Shared) for Federico Coria: aServing = serving:0
+4/8/2022 15:12:04: [G_Auto 1] :  Store Text Value (Shared) for Richard Gasquet: bPoints = point: 0; games: 1; sets: 0 
+4/8/2022 15:12:04: [G_Auto 1] :  Store Text Value (Shared) for Richard Gasquet: bServing = serving:2
+4/8/2022 15:12:04: [G_Auto 1] :  Store Value (Shared) for market: price = 1.79
+4/8/2022 15:12:04: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 9.33
+4/8/2022 15:12:04: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 8.79
+4/8/2022 15:12:04: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.33
+4/8/2022 15:12:04: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 18.12
+4/8/2022 15:12:04: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.54
+4/8/2022 15:12:04: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.81
+4/8/2022 15:12:04: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.22
+4/8/2022 15:12:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:12:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:12:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:12:38: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 15:12:54: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 15:13:09: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 15:13:25: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 15:15:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:15:40: [G_Auto 2] :  € 8.00 Lay bet placed on Federico Coria at 2. Fully matched at 2.  Ref: 11729          ( Fill or kill bet with 15 seconds delay.   )
+4/8/2022 15:15:43: [G_Auto 1] :  Store Text Value (Shared) for Federico Coria: aPoints = point: 0; games: 1; sets: 0 
+4/8/2022 15:15:43: [G_Auto 1] :  Store Text Value (Shared) for Federico Coria: aServing = serving:1
+4/8/2022 15:15:43: [G_Auto 1] :  Store Text Value (Shared) for Richard Gasquet: bPoints = point: 0; games: 2; sets: 0 
+4/8/2022 15:15:43: [G_Auto 1] :  Store Text Value (Shared) for Richard Gasquet: bServing = serving:0
+4/8/2022 15:15:43: [G_Auto 1] :  Store Value (Shared) for market: price = 2
+4/8/2022 15:15:43: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 9.33
+4/8/2022 15:15:43: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 16.79
+4/8/2022 15:15:43: [G_Auto 1] :  Store Value (Shared) for market: stake = 8
+4/8/2022 15:15:43: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 26.12
+4/8/2022 15:15:43: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.66
+4/8/2022 15:15:43: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.97
+4/8/2022 15:15:43: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.02
+4/8/2022 15:15:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:15:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:16:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:16:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:16:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:17:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:17:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:17:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:17:41: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 15:17:57: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 15:23:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:23:55: [G_Auto 2] :  Placed closure bet with greening on Federico Coria by Backing 5.71 at 2.8
+4/8/2022 15:23:55: [G_Auto 2] :  € 14.55 Lay bet placed on Richard Gasquet at 1.55. Entirely unmatched when it initially reached the market.   Ref: 11730          ( Fill or kill bet with 15 seconds delay.   )
+4/8/2022 15:23:58: [G_Auto 1] :  Store Text Value (Shared) for Federico Coria: aPoints = point: 0; games: 1; sets: 0 
+4/8/2022 15:23:58: [G_Auto 1] :  Store Text Value (Shared) for Federico Coria: aServing = serving:0
+4/8/2022 15:23:58: [G_Auto 1] :  Store Text Value (Shared) for Richard Gasquet: bPoints = point: 0; games: 3; sets: 0 
+4/8/2022 15:23:58: [G_Auto 1] :  Store Text Value (Shared) for Richard Gasquet: bServing = serving:2
+4/8/2022 15:23:58: [G_Auto 1] :  Store Value (Shared) for market: price = 1.55
+4/8/2022 15:23:58: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 15.04
+4/8/2022 15:23:58: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 19.98
+4/8/2022 15:23:58: [G_Auto 1] :  Store Value (Shared) for market: stake = 3.19
+4/8/2022 15:23:58: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 35.02
+4/8/2022 15:23:58: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.67
+4/8/2022 15:23:58: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.86
+4/8/2022 15:23:58: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.53
+4/8/2022 15:23:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:24:01: [G_Auto 2] :  € 14.55 of unmatched bet (Ref:11730) was filled before remainder was killed.
+4/8/2022 15:24:14: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 15:24:30: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 15:24:45: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 15:27:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:27:57: [G_Auto 2] :  Placed closure bet with greening on Richard Gasquet by Backing 15.77 at 1.43
+4/8/2022 15:28:01: [G_Auto 1] :  Store Text Value (Shared) for Federico Coria: aPoints = point: 0; games: 1; sets: 0 
+4/8/2022 15:28:01: [G_Auto 1] :  Store Text Value (Shared) for Federico Coria: aServing = serving:1
+4/8/2022 15:28:01: [G_Auto 1] :  Store Text Value (Shared) for Richard Gasquet: bPoints = point: 0; games: 4; sets: 0 
+4/8/2022 15:28:01: [G_Auto 1] :  Store Text Value (Shared) for Richard Gasquet: bServing = serving:0
+4/8/2022 15:28:01: [G_Auto 1] :  Store Value (Shared) for market: price = 1.43
+4/8/2022 15:28:01: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 30.81
+4/8/2022 15:28:01: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 31.34
+4/8/2022 15:28:01: [G_Auto 1] :  Store Value (Shared) for market: stake = 15.77
+4/8/2022 15:28:01: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 62.15
+4/8/2022 15:28:01: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.51
+4/8/2022 15:28:01: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.3
+4/8/2022 15:28:01: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.43
+4/8/2022 15:28:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:28:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:28:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:28:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:29:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:29:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:29:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:29:43: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 15:29:58: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 15:30:14: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 15:30:29: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 15:30:44: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 15:31:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:32:01: [G_Auto 2] :  € 15.09 Lay bet placed on Richard Gasquet at 1.53. Fully matched at 1.52.  Ref: 11733          ( Fill or kill bet with 15 seconds delay.   )
+4/8/2022 15:32:04: [G_Auto 1] :  Store Text Value (Shared) for Federico Coria: aPoints = point: 0; games: 2; sets: 0 
+4/8/2022 15:32:04: [G_Auto 1] :  Store Text Value (Shared) for Federico Coria: aServing = serving:0
+4/8/2022 15:32:04: [G_Auto 1] :  Store Text Value (Shared) for Richard Gasquet: bPoints = point: 0; games: 4; sets: 0 
+4/8/2022 15:32:04: [G_Auto 1] :  Store Text Value (Shared) for Richard Gasquet: bServing = serving:2
+4/8/2022 15:32:04: [G_Auto 1] :  Store Value (Shared) for market: price = 1.52
+4/8/2022 15:32:04: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 30.81
+4/8/2022 15:32:04: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 46.43
+4/8/2022 15:32:04: [G_Auto 1] :  Store Value (Shared) for market: stake = 15.09
+4/8/2022 15:32:04: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 77.24
+4/8/2022 15:32:04: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.51
+4/8/2022 15:32:04: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.96
+4/8/2022 15:32:04: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.52
+4/8/2022 15:32:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:32:10: [G_Auto 1] :  Store Text Value (Shared) for Federico Coria: aPoints = point: 0; games: 2; sets: 0 
+4/8/2022 15:32:10: [G_Auto 1] :  Store Text Value (Shared) for Federico Coria: aServing = serving:0
+4/8/2022 15:32:10: [G_Auto 1] :  Store Text Value (Shared) for Richard Gasquet: bPoints = point: 0; games: 4; sets: 0 
+4/8/2022 15:32:10: [G_Auto 1] :  Store Text Value (Shared) for Richard Gasquet: bServing = serving:2
+4/8/2022 15:32:10: [G_Auto 1] :  Store Value (Shared) for market: price = 1.52
+4/8/2022 15:32:10: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 30.81
+4/8/2022 15:32:10: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 46.43
+4/8/2022 15:32:10: [G_Auto 1] :  Store Value (Shared) for market: stake = 15.09
+4/8/2022 15:32:10: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 77.24
+4/8/2022 15:32:10: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.51
+4/8/2022 15:32:10: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.96
+4/8/2022 15:32:10: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.52
+4/8/2022 15:32:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:32:32: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 15:32:47: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 15:33:03: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 15:34:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:35:07: [G_Auto 2] :  Placed closure bet with greening on Richard Gasquet by Backing 11.58 at 1.98
+4/8/2022 15:35:10: [G_Auto 1] :  Store Text Value (Shared) for Federico Coria: aPoints = point: 0; games: 3; sets: 0 
+4/8/2022 15:35:10: [G_Auto 1] :  Store Text Value (Shared) for Federico Coria: aServing = serving:1
+4/8/2022 15:35:10: [G_Auto 1] :  Store Text Value (Shared) for Richard Gasquet: bPoints = point: 0; games: 4; sets: 0 
+4/8/2022 15:35:10: [G_Auto 1] :  Store Text Value (Shared) for Richard Gasquet: bServing = serving:0
+4/8/2022 15:35:10: [G_Auto 1] :  Store Value (Shared) for market: price = 1.98
+4/8/2022 15:35:10: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 42.39
+4/8/2022 15:35:10: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 46.43
+4/8/2022 15:35:10: [G_Auto 1] :  Store Value (Shared) for market: stake = 11.58
+4/8/2022 15:35:10: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 88.82
+4/8/2022 15:35:10: [G_Auto 1] :  Store Value (Shared) for market: pl = 3.95
+4/8/2022 15:35:10: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2
+4/8/2022 15:35:10: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2
+4/8/2022 15:35:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:35:17: [G_Auto 1] :  Store Text Value (Shared) for Federico Coria: aPoints = point: 0; games: 3; sets: 0 
+4/8/2022 15:35:17: [G_Auto 1] :  Store Text Value (Shared) for Federico Coria: aServing = serving:1
+4/8/2022 15:35:17: [G_Auto 1] :  Store Text Value (Shared) for Richard Gasquet: bPoints = point: 0; games: 4; sets: 0 
+4/8/2022 15:35:17: [G_Auto 1] :  Store Text Value (Shared) for Richard Gasquet: bServing = serving:0
+4/8/2022 15:35:17: [G_Auto 1] :  Store Value (Shared) for market: price = 1.98
+4/8/2022 15:35:17: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 42.39
+4/8/2022 15:35:17: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 46.43
+4/8/2022 15:35:17: [G_Auto 1] :  Store Value (Shared) for market: stake = 11.58
+4/8/2022 15:35:17: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 88.82
+4/8/2022 15:35:17: [G_Auto 1] :  Store Value (Shared) for market: pl = 3.95
+4/8/2022 15:35:17: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2
+4/8/2022 15:35:17: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2
+4/8/2022 15:35:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:35:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:35:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:36:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:36:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:36:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:36:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:37:11: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 15:37:27: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 15:37:42: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 15:39:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:39:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:40:06: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:40:15: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 15:40:31: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 15:42:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:43:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:43:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:43:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:44:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:44:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:44:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:44:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:45:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:45:29: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 15:45:45: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 15:46:00: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 15:46:15: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 15:49:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:49:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:49:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:49:47: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 15:50:02: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 15:50:18: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 15:52:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:52:59: [G_Auto 2] :  € 7.84 Lay bet placed on Federico Coria at 2.02. Fully matched at 2.  Ref: 11735          ( Fill or kill bet with 15 seconds delay.   )
+4/8/2022 15:53:02: [G_Auto 1] :  Store Text Value (Shared) for Federico Coria: aPoints = point: 0; games: 5; sets: 0 
+4/8/2022 15:53:02: [G_Auto 1] :  Store Text Value (Shared) for Federico Coria: aServing = serving:1
+4/8/2022 15:53:02: [G_Auto 1] :  Store Text Value (Shared) for Richard Gasquet: bPoints = point: 0; games: 6; sets: 0 
+4/8/2022 15:53:02: [G_Auto 1] :  Store Text Value (Shared) for Richard Gasquet: bServing = serving:0
+4/8/2022 15:53:02: [G_Auto 1] :  Store Value (Shared) for market: price = 2
+4/8/2022 15:53:02: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 42.39
+4/8/2022 15:53:02: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 54.27
+4/8/2022 15:53:02: [G_Auto 1] :  Store Value (Shared) for market: stake = 7.84
+4/8/2022 15:53:02: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 96.66
+4/8/2022 15:53:02: [G_Auto 1] :  Store Value (Shared) for market: pl = 3.95
+4/8/2022 15:53:02: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2
+4/8/2022 15:53:02: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2
+4/8/2022 15:53:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:53:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:53:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:53:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:54:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:54:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:54:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:54:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:54:54: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 15:55:10: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 15:57:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:57:51: [G_Auto 2] :  Placed closure bet with greening on Federico Coria by Backing 8.67 at 1.81
+4/8/2022 15:57:55: [G_Auto 1] :  Store Text Value (Shared) for Federico Coria: aPoints = point: 0; games: 6; sets: 0 
+4/8/2022 15:57:55: [G_Auto 1] :  Store Text Value (Shared) for Federico Coria: aServing = serving:0
+4/8/2022 15:57:55: [G_Auto 1] :  Store Text Value (Shared) for Richard Gasquet: bPoints = point: 0; games: 6; sets: 0 
+4/8/2022 15:57:55: [G_Auto 1] :  Store Text Value (Shared) for Richard Gasquet: bServing = serving:2
+4/8/2022 15:57:55: [G_Auto 1] :  Store Value (Shared) for market: price = 1.81
+4/8/2022 15:57:55: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 51.06
+4/8/2022 15:57:55: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 54.27
+4/8/2022 15:57:55: [G_Auto 1] :  Store Value (Shared) for market: stake = 8.67
+4/8/2022 15:57:55: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 105.33
+4/8/2022 15:57:55: [G_Auto 1] :  Store Value (Shared) for market: pl = 3.15
+4/8/2022 15:57:55: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.75
+4/8/2022 15:57:55: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.34
+4/8/2022 15:58:01: [G_Auto 1] :  Store Text Value (Shared) for Federico Coria: aPoints = point: 0; games: 6; sets: 0 
+4/8/2022 15:58:01: [G_Auto 1] :  Store Text Value (Shared) for Federico Coria: aServing = serving:0
+4/8/2022 15:58:01: [G_Auto 1] :  Store Text Value (Shared) for Richard Gasquet: bPoints = point: 0; games: 6; sets: 0 
+4/8/2022 15:58:01: [G_Auto 1] :  Store Text Value (Shared) for Richard Gasquet: bServing = serving:2
+4/8/2022 15:58:01: [G_Auto 1] :  Store Value (Shared) for market: price = 1.81
+4/8/2022 15:58:01: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 51.06
+4/8/2022 15:58:01: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 54.27
+4/8/2022 15:58:01: [G_Auto 1] :  Store Value (Shared) for market: stake = 8.67
+4/8/2022 15:58:01: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 105.33
+4/8/2022 15:58:01: [G_Auto 1] :  Store Value (Shared) for market: pl = 3.15
+4/8/2022 15:58:01: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.75
+4/8/2022 15:58:01: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.34
+4/8/2022 15:58:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:58:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 15:58:35: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 15:58:50: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 15:59:05: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 15:59:21: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 15:59:36: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 15:59:51: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 16:00:07: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 16:00:22: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 16:00:37: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 16:00:53: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 16:01:08: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 16:01:23: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 16:01:38: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 16:01:54: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 16:02:09: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 16:02:25: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 16:02:40: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 16:02:55: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 16:03:11: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 16:03:26: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 16:03:41: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 16:03:57: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 16:04:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:04:21: [G_Auto 1] :  Store Value (Shared) for market: aFirstSetPrice = 3.5
+4/8/2022 16:04:21: [G_Auto 1] :  Store Value (Shared) for market: bFirstSetPrice = 1.39
+4/8/2022 16:04:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:04:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:04:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:05:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:05:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:05:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:06:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:06:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:06:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:06:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:07:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:07:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:07:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:07:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:08:06: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:09:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:09:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:09:55: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 16:10:11: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 16:11:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:11:33: [G_Auto 2] :  € 15.09 Lay bet placed on Richard Gasquet at 1.53. Fully matched at 1.52.  Ref: 11737          ( Fill or kill bet with 15 seconds delay.   )
+4/8/2022 16:11:34: [G_Auto 1] :  Store Text Value (Shared) for Federico Coria: aPoints = point: 0; games: 1; sets: 0 
+4/8/2022 16:11:34: [G_Auto 1] :  Store Text Value (Shared) for Federico Coria: aServing = serving:0
+4/8/2022 16:11:34: [G_Auto 1] :  Store Text Value (Shared) for Richard Gasquet: bPoints = point: 0; games: 0; sets: 1 
+4/8/2022 16:11:34: [G_Auto 1] :  Store Text Value (Shared) for Richard Gasquet: bServing = serving:2
+4/8/2022 16:11:34: [G_Auto 1] :  Store Value (Shared) for market: price = 1.52
+4/8/2022 16:11:34: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 51.06
+4/8/2022 16:11:34: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 69.36
+4/8/2022 16:11:34: [G_Auto 1] :  Store Value (Shared) for market: stake = 15.09
+4/8/2022 16:11:34: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 120.42
+4/8/2022 16:11:34: [G_Auto 1] :  Store Value (Shared) for market: pl = 3.04
+4/8/2022 16:11:34: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.98
+4/8/2022 16:11:34: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.51
+4/8/2022 16:11:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:11:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:12:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:12:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:12:31: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 16:12:46: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 16:14:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:14:34: [G_Auto 2] :  Placed closure bet with greening on Richard Gasquet by Backing 12.27 at 1.87
+4/8/2022 16:14:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:14:41: [G_Auto 1] :  Store Text Value (Shared) for Federico Coria: aPoints = point: 0; games: 2; sets: 0 
+4/8/2022 16:14:41: [G_Auto 1] :  Store Text Value (Shared) for Federico Coria: aServing = serving:1
+4/8/2022 16:14:41: [G_Auto 1] :  Store Text Value (Shared) for Richard Gasquet: bPoints = point: 0; games: 0; sets: 1 
+4/8/2022 16:14:41: [G_Auto 1] :  Store Text Value (Shared) for Richard Gasquet: bServing = serving:0
+4/8/2022 16:14:41: [G_Auto 1] :  Store Value (Shared) for market: price = 1.87
+4/8/2022 16:14:41: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 63.33
+4/8/2022 16:14:41: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 69.36
+4/8/2022 16:14:41: [G_Auto 1] :  Store Value (Shared) for market: stake = 12.27
+4/8/2022 16:14:41: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 132.69
+4/8/2022 16:14:41: [G_Auto 1] :  Store Value (Shared) for market: pl = 5.91
+4/8/2022 16:14:41: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.14
+4/8/2022 16:14:41: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.89
+4/8/2022 16:14:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:15:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:15:24: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 16:15:39: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 16:19:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:20:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:20:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:20:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:20:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:21:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:21:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:21:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:22:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:22:11: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 16:22:29: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 16:24:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:25:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:25:26: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 16:25:42: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 16:29:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:29:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:29:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:29:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:30:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:30:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:30:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:30:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:31:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:31:24: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 16:31:39: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 16:38:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:38:14: [G_Auto 2] :  € 11.94 Lay bet placed on Federico Coria at 1.67. Entirely unmatched when it initially reached the market.   Ref: 11743          ( Fill or kill bet with 15 seconds delay.   )
+4/8/2022 16:38:17: [G_Auto 2] :  € 11.94 of unmatched bet (Ref:11743) was filled before remainder was killed.
+4/8/2022 16:38:17: [G_Auto 1] :  Store Text Value (Shared) for Federico Coria: aPoints = point: 0; games: 5; sets: 0 
+4/8/2022 16:38:17: [G_Auto 1] :  Store Text Value (Shared) for Federico Coria: aServing = serving:1
+4/8/2022 16:38:17: [G_Auto 1] :  Store Text Value (Shared) for Richard Gasquet: bPoints = point: 0; games: 1; sets: 1 
+4/8/2022 16:38:17: [G_Auto 1] :  Store Text Value (Shared) for Richard Gasquet: bServing = serving:0
+4/8/2022 16:38:17: [G_Auto 1] :  Store Value (Shared) for market: price = 1.67
+4/8/2022 16:38:17: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 63.33
+4/8/2022 16:38:17: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 81.3
+4/8/2022 16:38:17: [G_Auto 1] :  Store Value (Shared) for market: stake = 11.94
+4/8/2022 16:38:17: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 144.63
+4/8/2022 16:38:17: [G_Auto 1] :  Store Value (Shared) for market: pl = 5.84
+4/8/2022 16:38:17: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.67
+4/8/2022 16:38:17: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.5
+4/8/2022 16:38:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:38:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:38:36: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 16:39:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:39:47: [G_Auto 1] :  Store Value (Shared) for market: aSecondSetPrice = 1.59
+4/8/2022 16:39:47: [G_Auto 1] :  Store Value (Shared) for market: bSecondSetPrice = 2.68
+4/8/2022 16:39:50: [G_Auto 2] :  Placed closure bet with greening on Federico Coria by Backing 12.54 at 1.59
+4/8/2022 16:39:53: [G_Auto 1] :  Store Text Value (Shared) for Federico Coria: aPoints = point: 0; games: 0; sets: 1 
+4/8/2022 16:39:53: [G_Auto 1] :  Store Text Value (Shared) for Federico Coria: aServing = serving:0
+4/8/2022 16:39:53: [G_Auto 1] :  Store Text Value (Shared) for Richard Gasquet: bPoints = point: 0; games: 0; sets: 1 
+4/8/2022 16:39:53: [G_Auto 1] :  Store Text Value (Shared) for Richard Gasquet: bServing = serving:2
+4/8/2022 16:39:53: [G_Auto 1] :  Store Value (Shared) for market: price = 1.59
+4/8/2022 16:39:53: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 75.87
+4/8/2022 16:39:53: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 81.3
+4/8/2022 16:39:53: [G_Auto 1] :  Store Value (Shared) for market: stake = 12.54
+4/8/2022 16:39:53: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 157.17
+4/8/2022 16:39:53: [G_Auto 1] :  Store Value (Shared) for market: pl = 5.32
+4/8/2022 16:39:53: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.6
+4/8/2022 16:39:53: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.66
+4/8/2022 16:39:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:40:00: [G_Auto 1] :  Store Text Value (Shared) for Federico Coria: aPoints = point: 0; games: 0; sets: 1 
+4/8/2022 16:40:00: [G_Auto 1] :  Store Text Value (Shared) for Federico Coria: aServing = serving:0
+4/8/2022 16:40:00: [G_Auto 1] :  Store Text Value (Shared) for Richard Gasquet: bPoints = point: 0; games: 0; sets: 1 
+4/8/2022 16:40:00: [G_Auto 1] :  Store Text Value (Shared) for Richard Gasquet: bServing = serving:2
+4/8/2022 16:40:00: [G_Auto 1] :  Store Value (Shared) for market: price = 1.59
+4/8/2022 16:40:00: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 75.87
+4/8/2022 16:40:00: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 81.3
+4/8/2022 16:40:00: [G_Auto 1] :  Store Value (Shared) for market: stake = 12.54
+4/8/2022 16:40:00: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 157.17
+4/8/2022 16:40:00: [G_Auto 1] :  Store Value (Shared) for market: pl = 5.32
+4/8/2022 16:40:00: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.6
+4/8/2022 16:40:00: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.64
+4/8/2022 16:40:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:40:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:40:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:40:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:41:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:41:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:41:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:41:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:42:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:42:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:42:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:42:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:43:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:43:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:43:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:44:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:44:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:44:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:44:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:45:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:45:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:45:30: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 16:45:45: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 16:46:01: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 16:50:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:51:11: [G_Auto 2] :  € 9.52 Lay bet placed on Federico Coria at 1.84. Fully matched at 1.83.  Ref: 11745          ( Fill or kill bet with 15 seconds delay.   )
+4/8/2022 16:51:14: [G_Auto 1] :  Store Text Value (Shared) for Federico Coria: aPoints = point: 0; games: 0; sets: 1 
+4/8/2022 16:51:14: [G_Auto 1] :  Store Text Value (Shared) for Federico Coria: aServing = serving:1
+4/8/2022 16:51:14: [G_Auto 1] :  Store Text Value (Shared) for Richard Gasquet: bPoints = point: 0; games: 1; sets: 1 
+4/8/2022 16:51:14: [G_Auto 1] :  Store Text Value (Shared) for Richard Gasquet: bServing = serving:0
+4/8/2022 16:51:14: [G_Auto 1] :  Store Value (Shared) for market: price = 1.83
+4/8/2022 16:51:14: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 75.87
+4/8/2022 16:51:14: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 90.82
+4/8/2022 16:51:14: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.52
+4/8/2022 16:51:14: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 166.69
+4/8/2022 16:51:14: [G_Auto 1] :  Store Value (Shared) for market: pl = 5.27
+4/8/2022 16:51:14: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.82
+4/8/2022 16:51:14: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.2
+4/8/2022 16:51:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:51:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:51:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:52:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:52:03: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 16:52:19: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 16:52:34: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 16:55:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:55:14: [G_Auto 2] :  € 17.39 Lay bet placed on Richard Gasquet at 1.46. Fully matched at 1.45.  Ref: 11746          ( Fill or kill bet with 15 seconds delay.   )
+4/8/2022 16:55:14: [G_Auto 2] :  Placed closure bet with greening on Federico Coria by Backing 5.36 at 3.25
+4/8/2022 16:55:17: [G_Auto 1] :  Store Text Value (Shared) for Federico Coria: aPoints = point: 0; games: 0; sets: 1 
+4/8/2022 16:55:17: [G_Auto 1] :  Store Text Value (Shared) for Federico Coria: aServing = serving:0
+4/8/2022 16:55:17: [G_Auto 1] :  Store Text Value (Shared) for Richard Gasquet: bPoints = point: 0; games: 2; sets: 1 
+4/8/2022 16:55:17: [G_Auto 1] :  Store Text Value (Shared) for Richard Gasquet: bServing = serving:2
+4/8/2022 16:55:17: [G_Auto 1] :  Store Value (Shared) for market: price = 3.25
+4/8/2022 16:55:17: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 81.23
+4/8/2022 16:55:17: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 108.21
+4/8/2022 16:55:17: [G_Auto 1] :  Store Value (Shared) for market: stake = 5.36
+4/8/2022 16:55:17: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 189.44
+4/8/2022 16:55:17: [G_Auto 1] :  Store Value (Shared) for market: pl = 9.28
+4/8/2022 16:55:17: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.2
+4/8/2022 16:55:17: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.44
+4/8/2022 16:55:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:55:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:55:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:56:03: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 16:56:19: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 16:56:34: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 16:56:50: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 16:58:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:59:02: [G_Auto 2] :  Placed closure bet with greening on Richard Gasquet by Backing 11.26 at 2.24
+4/8/2022 16:59:02: [G_Auto 2] :  € 9.76 Lay bet placed on Federico Coria at 1.82. Fully matched at 1.81.  Ref: 11749          ( Fill or kill bet with 15 seconds delay.   )
+4/8/2022 16:59:02: [G_Auto 1] :  Store Text Value (Shared) for Federico Coria: aPoints = point: 0; games: 1; sets: 1 
+4/8/2022 16:59:02: [G_Auto 1] :  Store Text Value (Shared) for Federico Coria: aServing = serving:1
+4/8/2022 16:59:02: [G_Auto 1] :  Store Text Value (Shared) for Richard Gasquet: bPoints = point: 0; games: 2; sets: 1 
+4/8/2022 16:59:02: [G_Auto 1] :  Store Text Value (Shared) for Richard Gasquet: bServing = serving:0
+4/8/2022 16:59:02: [G_Auto 1] :  Store Value (Shared) for market: price = 2.24
+4/8/2022 16:59:02: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 92.49
+4/8/2022 16:59:02: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 117.97
+4/8/2022 16:59:02: [G_Auto 1] :  Store Value (Shared) for market: stake = 11.26
+4/8/2022 16:59:02: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 210.46
+4/8/2022 16:59:02: [G_Auto 1] :  Store Value (Shared) for market: pl = 15.19
+4/8/2022 16:59:02: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.78
+4/8/2022 16:59:02: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.28
+4/8/2022 16:59:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:59:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:59:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 16:59:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 17:00:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 17:00:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 17:00:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 17:00:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 17:01:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 17:01:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 17:01:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 17:01:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 17:02:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 17:02:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 17:02:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 17:02:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 17:03:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 17:03:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 17:03:41: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 17:03:57: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 17:05:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 17:05:54: [G_Auto 2] :  Placed closure bet with greening on Federico Coria by Backing 12.53 at 1.41
+4/8/2022 17:05:57: [G_Auto 1] :  Store Text Value (Shared) for Federico Coria: aPoints = point: 0; games: 2; sets: 1 
+4/8/2022 17:05:57: [G_Auto 1] :  Store Text Value (Shared) for Federico Coria: aServing = serving:0
+4/8/2022 17:05:57: [G_Auto 1] :  Store Text Value (Shared) for Richard Gasquet: bPoints = point: 0; games: 2; sets: 1 
+4/8/2022 17:05:57: [G_Auto 1] :  Store Text Value (Shared) for Richard Gasquet: bServing = serving:2
+4/8/2022 17:05:57: [G_Auto 1] :  Store Value (Shared) for market: price = 1.41
+4/8/2022 17:05:57: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 105.02
+4/8/2022 17:05:57: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 117.97
+4/8/2022 17:05:57: [G_Auto 1] :  Store Value (Shared) for market: stake = 12.53
+4/8/2022 17:05:57: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 222.99
+4/8/2022 17:05:57: [G_Auto 1] :  Store Value (Shared) for market: pl = 12.69
+4/8/2022 17:05:57: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.44
+4/8/2022 17:05:57: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.25
+4/8/2022 17:05:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 17:06:03: [G_Auto 1] :  Store Text Value (Shared) for Federico Coria: aPoints = point: 0; games: 2; sets: 1 
+4/8/2022 17:06:03: [G_Auto 1] :  Store Text Value (Shared) for Federico Coria: aServing = serving:0
+4/8/2022 17:06:03: [G_Auto 1] :  Store Text Value (Shared) for Richard Gasquet: bPoints = point: 0; games: 2; sets: 1 
+4/8/2022 17:06:03: [G_Auto 1] :  Store Text Value (Shared) for Richard Gasquet: bServing = serving:2
+4/8/2022 17:06:03: [G_Auto 1] :  Store Value (Shared) for market: price = 1.41
+4/8/2022 17:06:03: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 105.02
+4/8/2022 17:06:03: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 117.97
+4/8/2022 17:06:03: [G_Auto 1] :  Store Value (Shared) for market: stake = 12.53
+4/8/2022 17:06:03: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 222.99
+4/8/2022 17:06:03: [G_Auto 1] :  Store Value (Shared) for market: pl = 12.69
+4/8/2022 17:06:03: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.44
+4/8/2022 17:06:03: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.25
+4/8/2022 17:06:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 17:06:22: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 17:06:37: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 17:06:52: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 17:07:08: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 17:11:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 17:11:31: [G_Auto 2] :  € 10.13 Lay bet placed on Federico Coria at 1.79. Entirely unmatched when it initially reached the market.   Ref: 11754          ( Fill or kill bet with 15 seconds delay.   )
+4/8/2022 17:11:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 17:11:37: [G_Auto 1] :  Store Text Value (Shared) for Federico Coria: aPoints = point: 0; games: 2; sets: 1 
+4/8/2022 17:11:37: [G_Auto 1] :  Store Text Value (Shared) for Federico Coria: aServing = serving:1
+4/8/2022 17:11:37: [G_Auto 1] :  Store Text Value (Shared) for Richard Gasquet: bPoints = point: 0; games: 3; sets: 1 
+4/8/2022 17:11:37: [G_Auto 1] :  Store Text Value (Shared) for Richard Gasquet: bServing = serving:0
+4/8/2022 17:11:37: [G_Auto 1] :  Store Value (Shared) for market: price = 1.79
+4/8/2022 17:11:37: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 105.02
+4/8/2022 17:11:37: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 123.855
+4/8/2022 17:11:37: [G_Auto 1] :  Store Value (Shared) for market: stake = 5.885
+4/8/2022 17:11:37: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 228.875
+4/8/2022 17:11:37: [G_Auto 1] :  Store Value (Shared) for market: pl = 12.69
+4/8/2022 17:11:37: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.79
+4/8/2022 17:11:37: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.16
+4/8/2022 17:11:40: [G_Auto 2] :  € 10.13 of unmatched bet (Ref:11754) was filled before remainder was killed.
+4/8/2022 17:11:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 17:12:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 17:12:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 17:12:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 17:12:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 17:13:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 17:13:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 17:13:35: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 17:13:51: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 17:16:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 17:16:42: [G_Auto 2] :  Placed closure bet with greening on Federico Coria by Backing 11.33 at 1.6
+4/8/2022 17:16:45: [G_Auto 1] :  Store Text Value (Shared) for Federico Coria: aPoints = point: 0; games: 3; sets: 1 
+4/8/2022 17:16:45: [G_Auto 1] :  Store Text Value (Shared) for Federico Coria: aServing = serving:0
+4/8/2022 17:16:45: [G_Auto 1] :  Store Text Value (Shared) for Richard Gasquet: bPoints = point: 0; games: 3; sets: 1 
+4/8/2022 17:16:45: [G_Auto 1] :  Store Text Value (Shared) for Richard Gasquet: bServing = serving:2
+4/8/2022 17:16:45: [G_Auto 1] :  Store Value (Shared) for market: price = 1.6
+4/8/2022 17:16:45: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 116.35
+4/8/2022 17:16:45: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 128.1
+4/8/2022 17:16:45: [G_Auto 1] :  Store Value (Shared) for market: stake = 11.33
+4/8/2022 17:16:45: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 244.45
+4/8/2022 17:16:45: [G_Auto 1] :  Store Value (Shared) for market: pl = 11.51
+4/8/2022 17:16:45: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.6
+4/8/2022 17:16:45: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.64
+4/8/2022 17:16:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 17:17:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 17:17:14: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 17:17:29: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 17:17:45: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 17:22:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 17:22:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 17:22:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 17:22:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 17:23:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 17:23:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 17:23:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 17:23:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 17:24:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 17:24:11: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 17:24:26: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 17:28:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 17:28:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 17:28:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 17:28:44: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 17:29:00: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 17:31:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 17:31:34: [G_Auto 2] :  € 66.67 Lay bet placed on Federico Coria at 1.12. Fully matched at 1.11.  Ref: 11759          ( Fill or kill bet with 15 seconds delay.   )
+4/8/2022 17:31:37: [G_Auto 1] :  Store Text Value (Shared) for Federico Coria: aPoints = point: 0; games: 5; sets: 1 
+4/8/2022 17:31:37: [G_Auto 1] :  Store Text Value (Shared) for Federico Coria: aServing = serving:1
+4/8/2022 17:31:37: [G_Auto 1] :  Store Text Value (Shared) for Richard Gasquet: bPoints = point: 0; games: 4; sets: 1 
+4/8/2022 17:31:37: [G_Auto 1] :  Store Text Value (Shared) for Richard Gasquet: bServing = serving:0
+4/8/2022 17:31:37: [G_Auto 1] :  Store Value (Shared) for market: price = 1.11
+4/8/2022 17:31:37: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 116.35
+4/8/2022 17:31:37: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 194.77
+4/8/2022 17:31:37: [G_Auto 1] :  Store Value (Shared) for market: stake = 66.67
+4/8/2022 17:31:37: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 311.12
+4/8/2022 17:31:37: [G_Auto 1] :  Store Value (Shared) for market: pl = 10.92
+4/8/2022 17:31:37: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.11
+4/8/2022 17:31:37: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 10
+4/8/2022 17:31:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 17:31:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 17:32:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 17:32:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 17:32:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 17:32:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 17:33:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 17:33:26: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 17:33:41: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 17:34:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 17:34:40:  Guardian has detected that the market is suspended

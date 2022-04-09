@@ -1,0 +1,634 @@
+4/7/2022 11:26:32: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: info = marketName: Garin v Thompson - Match Odds; runnerA: Cristian Garin; runnerB: Jordan Thompson 
+4/7/2022 11:26:32: [G_Auto 1] :  Store Value (Shared) for market: aId = 23814703
+4/7/2022 11:26:32: [G_Auto 1] :  Store Value (Shared) for market: bId = 19924841
+4/7/2022 20:08:31:  Guardian has detected that the market is in-play
+4/7/2022 20:08:31:  Guardian has detected that the market is suspended
+4/7/2022 20:08:33: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.44; bBsp: 3.25; volume: 26994.24 
+4/7/2022 20:08:33: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.44; bBsp: 3.25; volume: 26994.24 
+4/7/2022 20:08:33:  Guardian has detected that the market is now unsuspended
+4/7/2022 20:08:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 20:08:53: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 20:09:11: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 20:12:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 20:12:57: [G_Auto 2] :  € 15.38 Lay bet placed on Cristian Garin at 1.52. Fully matched at 1.51.  Ref: 11505          ( Fill or kill bet with 15 seconds delay.   )
+4/7/2022 20:12:58: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 0; sets: 0 
+4/7/2022 20:12:58: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:1
+4/7/2022 20:12:58: [G_Auto 1] :  Store Text Value (Shared) for Jordan Thompson: bPoints = point: 0; games: 1; sets: 0 
+4/7/2022 20:12:58: [G_Auto 1] :  Store Text Value (Shared) for Jordan Thompson: bServing = serving:0
+4/7/2022 20:12:58: [G_Auto 1] :  Store Value (Shared) for market: price = 1.51
+4/7/2022 20:12:58: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 0
+4/7/2022 20:12:58: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 15.38
+4/7/2022 20:12:58: [G_Auto 1] :  Store Value (Shared) for market: stake = 15.38
+4/7/2022 20:12:58: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 15.38
+4/7/2022 20:12:58: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.1
+4/7/2022 20:12:58: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.5
+4/7/2022 20:12:58: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3
+4/7/2022 20:13:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 20:13:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 20:13:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 20:13:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 20:14:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 20:14:14: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 20:14:31: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 20:14:47: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 20:20:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 20:20:31: [G_Auto 2] :  Placed closure bet with greening on Cristian Garin by Backing 12.22 at 1.9
+4/7/2022 20:20:32: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 0; sets: 0 
+4/7/2022 20:20:32: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:0
+4/7/2022 20:20:32: [G_Auto 1] :  Store Text Value (Shared) for Jordan Thompson: bPoints = point: 0; games: 2; sets: 0 
+4/7/2022 20:20:32: [G_Auto 1] :  Store Text Value (Shared) for Jordan Thompson: bServing = serving:2
+4/7/2022 20:20:32: [G_Auto 1] :  Store Value (Shared) for market: price = 1.9
+4/7/2022 20:20:32: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 12.22
+4/7/2022 20:20:32: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 15.38
+4/7/2022 20:20:32: [G_Auto 1] :  Store Value (Shared) for market: stake = 12.22
+4/7/2022 20:20:32: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 27.6
+4/7/2022 20:20:32: [G_Auto 1] :  Store Value (Shared) for market: pl = 3.09
+4/7/2022 20:20:32: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.9
+4/7/2022 20:20:32: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.12
+4/7/2022 20:20:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 20:20:39: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 0; sets: 0 
+4/7/2022 20:20:39: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:0
+4/7/2022 20:20:39: [G_Auto 1] :  Store Text Value (Shared) for Jordan Thompson: bPoints = point: 0; games: 2; sets: 0 
+4/7/2022 20:20:39: [G_Auto 1] :  Store Text Value (Shared) for Jordan Thompson: bServing = serving:2
+4/7/2022 20:20:39: [G_Auto 1] :  Store Value (Shared) for market: price = 1.9
+4/7/2022 20:20:39: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 12.22
+4/7/2022 20:20:39: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 15.38
+4/7/2022 20:20:39: [G_Auto 1] :  Store Value (Shared) for market: stake = 12.22
+4/7/2022 20:20:39: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 27.6
+4/7/2022 20:20:39: [G_Auto 1] :  Store Value (Shared) for market: pl = 3.09
+4/7/2022 20:20:39: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.89
+4/7/2022 20:20:39: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.1
+4/7/2022 20:20:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 20:21:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 20:21:20: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 20:21:37: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 20:23:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 20:24:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 20:24:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 20:24:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 20:24:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 20:25:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 20:25:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 20:25:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 20:25:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 20:26:00: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 20:26:15: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 20:35:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 20:35:36: [G_Auto 2] :  € 8.99 Lay bet placed on Jordan Thompson at 1.89. Fully matched at 1.88.  Ref: 11510          ( Fill or kill bet with 15 seconds delay.   )
+4/7/2022 20:35:37: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 1; sets: 0 
+4/7/2022 20:35:37: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:0
+4/7/2022 20:35:37: [G_Auto 1] :  Store Text Value (Shared) for Jordan Thompson: bPoints = point: 0; games: 3; sets: 0 
+4/7/2022 20:35:37: [G_Auto 1] :  Store Text Value (Shared) for Jordan Thompson: bServing = serving:2
+4/7/2022 20:35:37: [G_Auto 1] :  Store Value (Shared) for market: price = 1.88
+4/7/2022 20:35:37: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 12.22
+4/7/2022 20:35:37: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 24.37
+4/7/2022 20:35:37: [G_Auto 1] :  Store Value (Shared) for market: stake = 8.99
+4/7/2022 20:35:37: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 36.59
+4/7/2022 20:35:37: [G_Auto 1] :  Store Value (Shared) for market: pl = 3.05
+4/7/2022 20:35:37: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.16
+4/7/2022 20:35:37: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.87
+4/7/2022 20:35:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 20:35:44: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 1; sets: 0 
+4/7/2022 20:35:44: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:0
+4/7/2022 20:35:44: [G_Auto 1] :  Store Text Value (Shared) for Jordan Thompson: bPoints = point: 0; games: 3; sets: 0 
+4/7/2022 20:35:44: [G_Auto 1] :  Store Text Value (Shared) for Jordan Thompson: bServing = serving:2
+4/7/2022 20:35:44: [G_Auto 1] :  Store Value (Shared) for market: price = 1.88
+4/7/2022 20:35:44: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 12.22
+4/7/2022 20:35:44: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 24.37
+4/7/2022 20:35:44: [G_Auto 1] :  Store Value (Shared) for market: stake = 8.99
+4/7/2022 20:35:44: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 36.59
+4/7/2022 20:35:44: [G_Auto 1] :  Store Value (Shared) for market: pl = 3
+4/7/2022 20:35:44: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.14
+4/7/2022 20:35:44: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.87
+4/7/2022 20:35:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 20:36:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 20:36:14: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 20:36:30: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 20:39:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 20:39:18: [G_Auto 2] :  Placed closure bet with greening on Jordan Thompson by Backing 9.77 at 1.73
+4/7/2022 20:39:19: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 1; sets: 0 
+4/7/2022 20:39:19: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:1
+4/7/2022 20:39:19: [G_Auto 1] :  Store Text Value (Shared) for Jordan Thompson: bPoints = point: 0; games: 4; sets: 0 
+4/7/2022 20:39:19: [G_Auto 1] :  Store Text Value (Shared) for Jordan Thompson: bServing = serving:0
+4/7/2022 20:39:19: [G_Auto 1] :  Store Value (Shared) for market: price = 1.74
+4/7/2022 20:39:19: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 21.99
+4/7/2022 20:39:19: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 24.37
+4/7/2022 20:39:19: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.77
+4/7/2022 20:39:19: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 46.36
+4/7/2022 20:39:19: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.38
+4/7/2022 20:39:19: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.34
+4/7/2022 20:39:19: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.75
+4/7/2022 20:39:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 20:39:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 20:39:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 20:40:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 20:40:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 20:40:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 20:41:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 20:41:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 20:41:24: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 20:41:41: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 20:41:56: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 20:45:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 20:45:52: [G_Auto 2] :  € 10.13 Lay bet placed on Jordan Thompson at 1.79. Fully matched at 1.78.  Ref: 11514          ( Fill or kill bet with 15 seconds delay.   )
+4/7/2022 20:45:57: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 2; sets: 0 
+4/7/2022 20:45:57: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:0
+4/7/2022 20:45:57: [G_Auto 1] :  Store Text Value (Shared) for Jordan Thompson: bPoints = point: 0; games: 4; sets: 0 
+4/7/2022 20:45:57: [G_Auto 1] :  Store Text Value (Shared) for Jordan Thompson: bServing = serving:2
+4/7/2022 20:45:57: [G_Auto 1] :  Store Value (Shared) for market: price = 1.78
+4/7/2022 20:45:57: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 21.99
+4/7/2022 20:45:57: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 34.5
+4/7/2022 20:45:57: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.13
+4/7/2022 20:45:57: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 56.49
+4/7/2022 20:45:57: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.6
+4/7/2022 20:45:57: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.22
+4/7/2022 20:45:57: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.82
+4/7/2022 20:45:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 20:46:03: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 2; sets: 0 
+4/7/2022 20:46:03: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:0
+4/7/2022 20:46:03: [G_Auto 1] :  Store Text Value (Shared) for Jordan Thompson: bPoints = point: 0; games: 4; sets: 0 
+4/7/2022 20:46:03: [G_Auto 1] :  Store Text Value (Shared) for Jordan Thompson: bServing = serving:2
+4/7/2022 20:46:03: [G_Auto 1] :  Store Value (Shared) for market: price = 1.78
+4/7/2022 20:46:03: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 21.99
+4/7/2022 20:46:03: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 34.5
+4/7/2022 20:46:03: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.13
+4/7/2022 20:46:03: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 56.49
+4/7/2022 20:46:03: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.6
+4/7/2022 20:46:03: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.22
+4/7/2022 20:46:03: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.82
+4/7/2022 20:46:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 20:46:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 20:46:41: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 20:46:58: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 20:48:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 20:48:49: [G_Auto 2] :  Placed closure bet with greening on Jordan Thompson by Backing 11.07 at 1.62
+4/7/2022 20:48:52: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 2; sets: 0 
+4/7/2022 20:48:52: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:1
+4/7/2022 20:48:52: [G_Auto 1] :  Store Text Value (Shared) for Jordan Thompson: bPoints = point: 0; games: 5; sets: 0 
+4/7/2022 20:48:52: [G_Auto 1] :  Store Text Value (Shared) for Jordan Thompson: bServing = serving:0
+4/7/2022 20:48:52: [G_Auto 1] :  Store Value (Shared) for market: price = 1.62
+4/7/2022 20:48:52: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 33.06
+4/7/2022 20:48:52: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 34.5
+4/7/2022 20:48:52: [G_Auto 1] :  Store Value (Shared) for market: stake = 11.07
+4/7/2022 20:48:52: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 67.56
+4/7/2022 20:48:52: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.4
+4/7/2022 20:48:52: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.6
+4/7/2022 20:48:52: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.62
+4/7/2022 20:48:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 20:48:58: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 2; sets: 0 
+4/7/2022 20:48:58: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:1
+4/7/2022 20:48:58: [G_Auto 1] :  Store Text Value (Shared) for Jordan Thompson: bPoints = point: 0; games: 5; sets: 0 
+4/7/2022 20:48:58: [G_Auto 1] :  Store Text Value (Shared) for Jordan Thompson: bServing = serving:0
+4/7/2022 20:48:58: [G_Auto 1] :  Store Value (Shared) for market: price = 1.62
+4/7/2022 20:48:58: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 33.06
+4/7/2022 20:48:58: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 34.5
+4/7/2022 20:48:58: [G_Auto 1] :  Store Value (Shared) for market: stake = 11.07
+4/7/2022 20:48:58: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 67.56
+4/7/2022 20:48:58: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.4
+4/7/2022 20:48:58: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.62
+4/7/2022 20:48:58: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.63
+4/7/2022 20:49:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 20:49:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 20:49:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 20:49:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 20:50:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 20:50:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 20:50:37: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 20:50:53: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 20:53:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 20:53:14: [G_Auto 2] :  € 11.94 Lay bet placed on Jordan Thompson at 1.67. Fully matched at 1.67.  Ref: 11517          ( Fill or kill bet with 15 seconds delay.   )
+4/7/2022 20:53:15: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 3; sets: 0 
+4/7/2022 20:53:15: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:0
+4/7/2022 20:53:15: [G_Auto 1] :  Store Text Value (Shared) for Jordan Thompson: bPoints = point: 0; games: 5; sets: 0 
+4/7/2022 20:53:15: [G_Auto 1] :  Store Text Value (Shared) for Jordan Thompson: bServing = serving:2
+4/7/2022 20:53:15: [G_Auto 1] :  Store Value (Shared) for market: price = 1.67
+4/7/2022 20:53:15: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 33.06
+4/7/2022 20:53:15: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 46.44
+4/7/2022 20:53:15: [G_Auto 1] :  Store Value (Shared) for market: stake = 11.94
+4/7/2022 20:53:15: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 79.5
+4/7/2022 20:53:15: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.33
+4/7/2022 20:53:15: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.52
+4/7/2022 20:53:15: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.66
+4/7/2022 20:53:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 20:53:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 20:53:40: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 20:53:56: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 20:54:13: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 20:58:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 20:58:51: [G_Auto 1] :  Store Value (Shared) for market: aFirstSetPrice = 2.72
+4/7/2022 20:58:51: [G_Auto 1] :  Store Value (Shared) for market: bFirstSetPrice = 1.53
+4/7/2022 20:58:56: [G_Auto 2] :  Placed closure bet with greening on Jordan Thompson by Backing 12.95 at 1.54
+4/7/2022 20:58:57: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 0; sets: 0 
+4/7/2022 20:58:57: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:1
+4/7/2022 20:58:57: [G_Auto 1] :  Store Text Value (Shared) for Jordan Thompson: bPoints = point: 0; games: 0; sets: 1 
+4/7/2022 20:58:57: [G_Auto 1] :  Store Text Value (Shared) for Jordan Thompson: bServing = serving:0
+4/7/2022 20:58:57: [G_Auto 1] :  Store Value (Shared) for market: price = 1.55
+4/7/2022 20:58:57: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 46.01
+4/7/2022 20:58:57: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 46.44
+4/7/2022 20:58:57: [G_Auto 1] :  Store Value (Shared) for market: stake = 12.95
+4/7/2022 20:58:57: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 92.45
+4/7/2022 20:58:57: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.5
+4/7/2022 20:58:57: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.74
+4/7/2022 20:58:57: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.57
+4/7/2022 20:58:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 20:59:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 20:59:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 20:59:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:00:06: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:00:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:00:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:00:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:01:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:01:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:01:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:01:56: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 21:02:14: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 21:03:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:04:04: [G_Auto 2] :  € 10.53 Lay bet placed on Jordan Thompson at 1.76. Fully matched at 1.74.  Ref: 11522          ( Fill or kill bet with 15 seconds delay.   )
+4/7/2022 21:04:05: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 1; sets: 0 
+4/7/2022 21:04:05: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:0
+4/7/2022 21:04:05: [G_Auto 1] :  Store Text Value (Shared) for Jordan Thompson: bPoints = point: 0; games: 0; sets: 1 
+4/7/2022 21:04:05: [G_Auto 1] :  Store Text Value (Shared) for Jordan Thompson: bServing = serving:2
+4/7/2022 21:04:05: [G_Auto 1] :  Store Value (Shared) for market: price = 1.74
+4/7/2022 21:04:05: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 46.01
+4/7/2022 21:04:05: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 56.97
+4/7/2022 21:04:05: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.53
+4/7/2022 21:04:05: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 102.98
+4/7/2022 21:04:05: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.43
+4/7/2022 21:04:05: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.34
+4/7/2022 21:04:05: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.74
+4/7/2022 21:04:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:04:11: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 1; sets: 0 
+4/7/2022 21:04:11: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:0
+4/7/2022 21:04:11: [G_Auto 1] :  Store Text Value (Shared) for Jordan Thompson: bPoints = point: 0; games: 0; sets: 1 
+4/7/2022 21:04:11: [G_Auto 1] :  Store Text Value (Shared) for Jordan Thompson: bServing = serving:2
+4/7/2022 21:04:11: [G_Auto 1] :  Store Value (Shared) for market: price = 1.74
+4/7/2022 21:04:11: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 46.01
+4/7/2022 21:04:11: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 56.97
+4/7/2022 21:04:11: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.53
+4/7/2022 21:04:11: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 102.98
+4/7/2022 21:04:11: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.37
+4/7/2022 21:04:11: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.36
+4/7/2022 21:04:11: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.73
+4/7/2022 21:04:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:04:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:04:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:05:05: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 21:05:22: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 21:05:39: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 21:07:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:07:58: [G_Auto 2] :  Placed closure bet with greening on Jordan Thompson by Backing 11.44 at 1.59
+4/7/2022 21:07:59: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 1; sets: 0 
+4/7/2022 21:07:59: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:1
+4/7/2022 21:07:59: [G_Auto 1] :  Store Text Value (Shared) for Jordan Thompson: bPoints = point: 0; games: 1; sets: 1 
+4/7/2022 21:07:59: [G_Auto 1] :  Store Text Value (Shared) for Jordan Thompson: bServing = serving:0
+4/7/2022 21:07:59: [G_Auto 1] :  Store Value (Shared) for market: price = 1.59
+4/7/2022 21:07:59: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 57.45
+4/7/2022 21:07:59: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 56.97
+4/7/2022 21:07:59: [G_Auto 1] :  Store Value (Shared) for market: stake = 11.44
+4/7/2022 21:07:59: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 114.42
+4/7/2022 21:07:59: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.49
+4/7/2022 21:07:59: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.6
+4/7/2022 21:07:59: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.62
+4/7/2022 21:08:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:08:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:08:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:08:43: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 21:08:59: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 21:09:16: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 21:11:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:11:26: [G_Auto 2] :  € 10.67 Lay bet placed on Jordan Thompson at 1.75. Fully matched at 1.74.  Ref: 11525          ( Fill or kill bet with 15 seconds delay.   )
+4/7/2022 21:11:28: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 2; sets: 0 
+4/7/2022 21:11:28: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:0
+4/7/2022 21:11:28: [G_Auto 1] :  Store Text Value (Shared) for Jordan Thompson: bPoints = point: 0; games: 1; sets: 1 
+4/7/2022 21:11:28: [G_Auto 1] :  Store Text Value (Shared) for Jordan Thompson: bServing = serving:2
+4/7/2022 21:11:28: [G_Auto 1] :  Store Value (Shared) for market: price = 1.74
+4/7/2022 21:11:28: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 57.45
+4/7/2022 21:11:28: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 67.64
+4/7/2022 21:11:28: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.67
+4/7/2022 21:11:28: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 125.09
+4/7/2022 21:11:28: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.55
+4/7/2022 21:11:28: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.36
+4/7/2022 21:11:28: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.74
+4/7/2022 21:11:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:11:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:12:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:12:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:12:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:12:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:13:06: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:13:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:13:42: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 21:14:03: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 21:17:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:17:24: [G_Auto 2] :  Placed closure bet with greening on Jordan Thompson by Backing 11.12 at 1.67
+4/7/2022 21:17:25: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 2; sets: 0 
+4/7/2022 21:17:25: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:1
+4/7/2022 21:17:25: [G_Auto 1] :  Store Text Value (Shared) for Jordan Thompson: bPoints = point: 0; games: 2; sets: 1 
+4/7/2022 21:17:25: [G_Auto 1] :  Store Text Value (Shared) for Jordan Thompson: bServing = serving:0
+4/7/2022 21:17:25: [G_Auto 1] :  Store Value (Shared) for market: price = 1.67
+4/7/2022 21:17:25: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 68.57
+4/7/2022 21:17:25: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 67.64
+4/7/2022 21:17:25: [G_Auto 1] :  Store Value (Shared) for market: stake = 11.12
+4/7/2022 21:17:25: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 136.21
+4/7/2022 21:17:25: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.94
+4/7/2022 21:17:25: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.52
+4/7/2022 21:17:25: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.66
+4/7/2022 21:17:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:17:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:17:52: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 21:18:08: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 21:22:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:22:16: [G_Auto 2] :  € 10.53 Lay bet placed on Jordan Thompson at 1.76. Fully matched at 1.75.  Ref: 11530          ( Fill or kill bet with 15 seconds delay.   )
+4/7/2022 21:22:17: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 3; sets: 0 
+4/7/2022 21:22:17: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:0
+4/7/2022 21:22:17: [G_Auto 1] :  Store Text Value (Shared) for Jordan Thompson: bPoints = point: 0; games: 2; sets: 1 
+4/7/2022 21:22:17: [G_Auto 1] :  Store Text Value (Shared) for Jordan Thompson: bServing = serving:2
+4/7/2022 21:22:17: [G_Auto 1] :  Store Value (Shared) for market: price = 1.75
+4/7/2022 21:22:17: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 68.57
+4/7/2022 21:22:17: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 78.17
+4/7/2022 21:22:17: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.53
+4/7/2022 21:22:17: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 146.74
+4/7/2022 21:22:17: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.99
+4/7/2022 21:22:17: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.32
+4/7/2022 21:22:17: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.74
+4/7/2022 21:22:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:22:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:22:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:23:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:23:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:23:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:23:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:24:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:24:20: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 21:24:36: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 21:24:53: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 21:27:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:27:16: [G_Auto 2] :  Placed closure bet with greening on Jordan Thompson by Backing 7.55 at 2.44
+4/7/2022 21:27:16: [G_Auto 2] :  € 11.43 Lay bet placed on Cristian Garin at 1.7. Entirely unmatched when it initially reached the market.   Ref: 11535          ( Fill or kill bet with 15 seconds delay.   )
+4/7/2022 21:27:20: [G_Auto 2] :  € 11.43 of unmatched bet (Ref:11535) was filled before remainder was killed.
+4/7/2022 21:27:20: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 4; sets: 0 
+4/7/2022 21:27:20: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:1
+4/7/2022 21:27:20: [G_Auto 1] :  Store Text Value (Shared) for Jordan Thompson: bPoints = point: 0; games: 2; sets: 1 
+4/7/2022 21:27:20: [G_Auto 1] :  Store Text Value (Shared) for Jordan Thompson: bServing = serving:0
+4/7/2022 21:27:20: [G_Auto 1] :  Store Value (Shared) for market: price = 2.44
+4/7/2022 21:27:20: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 76.12
+4/7/2022 21:27:20: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 89.6
+4/7/2022 21:27:20: [G_Auto 1] :  Store Value (Shared) for market: stake = 7.55
+4/7/2022 21:27:20: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 165.72
+4/7/2022 21:27:20: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.87
+4/7/2022 21:27:20: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.69
+4/7/2022 21:27:20: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.44
+4/7/2022 21:27:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:27:27: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 4; sets: 0 
+4/7/2022 21:27:27: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:1
+4/7/2022 21:27:27: [G_Auto 1] :  Store Text Value (Shared) for Jordan Thompson: bPoints = point: 0; games: 2; sets: 1 
+4/7/2022 21:27:27: [G_Auto 1] :  Store Text Value (Shared) for Jordan Thompson: bServing = serving:0
+4/7/2022 21:27:27: [G_Auto 1] :  Store Value (Shared) for market: price = 2.44
+4/7/2022 21:27:27: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 76.12
+4/7/2022 21:27:27: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 89.6
+4/7/2022 21:27:27: [G_Auto 1] :  Store Value (Shared) for market: stake = 7.55
+4/7/2022 21:27:27: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 165.72
+4/7/2022 21:27:27: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.94
+4/7/2022 21:27:27: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.69
+4/7/2022 21:27:27: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.42
+4/7/2022 21:27:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:27:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:28:04: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 21:28:20: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 21:28:35: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 21:29:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:29:42: [G_Auto 2] :  Placed closure bet with greening on Cristian Garin by Backing 12.46 at 1.56
+4/7/2022 21:29:43: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 5; sets: 0 
+4/7/2022 21:29:43: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:0
+4/7/2022 21:29:43: [G_Auto 1] :  Store Text Value (Shared) for Jordan Thompson: bPoints = point: 0; games: 2; sets: 1 
+4/7/2022 21:29:43: [G_Auto 1] :  Store Text Value (Shared) for Jordan Thompson: bServing = serving:2
+4/7/2022 21:29:43: [G_Auto 1] :  Store Value (Shared) for market: price = 1.56
+4/7/2022 21:29:43: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 88.58
+4/7/2022 21:29:43: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 89.6
+4/7/2022 21:29:43: [G_Auto 1] :  Store Value (Shared) for market: stake = 12.46
+4/7/2022 21:29:43: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 178.18
+4/7/2022 21:29:43: [G_Auto 1] :  Store Value (Shared) for market: pl = 1
+4/7/2022 21:29:43: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.58
+4/7/2022 21:29:43: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.74
+4/7/2022 21:29:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:30:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:30:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:30:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:30:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:31:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:31:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:31:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:31:48: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 21:32:07: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 21:32:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:33:12: [G_Auto 2] :  € 12.12 Lay bet placed on Cristian Garin at 1.66. Fully matched at 1.65.  Ref: 11539          ( Fill or kill bet with 15 seconds delay.   )
+4/7/2022 21:33:12: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 5; sets: 0 
+4/7/2022 21:33:12: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:1
+4/7/2022 21:33:12: [G_Auto 1] :  Store Text Value (Shared) for Jordan Thompson: bPoints = point: 0; games: 3; sets: 1 
+4/7/2022 21:33:12: [G_Auto 1] :  Store Text Value (Shared) for Jordan Thompson: bServing = serving:0
+4/7/2022 21:33:12: [G_Auto 1] :  Store Value (Shared) for market: price = 1.65
+4/7/2022 21:33:12: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 88.58
+4/7/2022 21:33:12: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 101.72
+4/7/2022 21:33:12: [G_Auto 1] :  Store Value (Shared) for market: stake = 12.12
+4/7/2022 21:33:12: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 190.3
+4/7/2022 21:33:12: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.93
+4/7/2022 21:33:12: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.64
+4/7/2022 21:33:12: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.52
+4/7/2022 21:33:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:33:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:33:32: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 21:33:47: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 21:34:03: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 21:35:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:35:26: [G_Auto 1] :  Store Value (Shared) for market: aSecondSetPrice = 1.57
+4/7/2022 21:35:26: [G_Auto 1] :  Store Value (Shared) for market: bSecondSetPrice = 2.76
+4/7/2022 21:35:34: [G_Auto 2] :  Placed closure bet with greening on Cristian Garin by Backing 12.82 at 1.56
+4/7/2022 21:35:35: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 0; sets: 1 
+4/7/2022 21:35:35: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:0
+4/7/2022 21:35:35: [G_Auto 1] :  Store Text Value (Shared) for Jordan Thompson: bPoints = point: 0; games: 0; sets: 1 
+4/7/2022 21:35:35: [G_Auto 1] :  Store Text Value (Shared) for Jordan Thompson: bServing = serving:2
+4/7/2022 21:35:35: [G_Auto 1] :  Store Value (Shared) for market: price = 1.56
+4/7/2022 21:35:35: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 101.4
+4/7/2022 21:35:35: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 101.72
+4/7/2022 21:35:35: [G_Auto 1] :  Store Value (Shared) for market: stake = 12.82
+4/7/2022 21:35:35: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 203.12
+4/7/2022 21:35:35: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.31
+4/7/2022 21:35:35: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.56
+4/7/2022 21:35:35: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.78
+4/7/2022 21:35:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:35:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:36:06: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:36:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:36:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:36:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:37:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:37:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:37:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:38:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:38:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:38:31: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 21:38:47: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 21:39:04: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 21:40:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:41:04: [G_Auto 2] :  € 38.10 Lay bet placed on Cristian Garin at 1.21. Fully matched at 1.2.  Ref: 11546          ( Fill or kill bet with 15 seconds delay.   )
+4/7/2022 21:41:05: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 1; sets: 1 
+4/7/2022 21:41:05: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:1
+4/7/2022 21:41:05: [G_Auto 1] :  Store Text Value (Shared) for Jordan Thompson: bPoints = point: 0; games: 0; sets: 1 
+4/7/2022 21:41:05: [G_Auto 1] :  Store Text Value (Shared) for Jordan Thompson: bServing = serving:0
+4/7/2022 21:41:05: [G_Auto 1] :  Store Value (Shared) for market: price = 1.2
+4/7/2022 21:41:05: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 101.4
+4/7/2022 21:41:05: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 139.82
+4/7/2022 21:41:05: [G_Auto 1] :  Store Value (Shared) for market: stake = 38.1
+4/7/2022 21:41:05: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 241.22
+4/7/2022 21:41:05: [G_Auto 1] :  Store Value (Shared) for market: pl = 0
+4/7/2022 21:41:05: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.2
+4/7/2022 21:41:05: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 6.2
+4/7/2022 21:41:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:41:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:41:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:41:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:42:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:42:19: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 21:42:37: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 21:44:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:44:45: [G_Auto 2] :  Placed closure bet with greening on Cristian Garin by Backing 40.46 at 1.13
+4/7/2022 21:44:47: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 2; sets: 1 
+4/7/2022 21:44:47: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:0
+4/7/2022 21:44:47: [G_Auto 1] :  Store Text Value (Shared) for Jordan Thompson: bPoints = point: 0; games: 0; sets: 1 
+4/7/2022 21:44:47: [G_Auto 1] :  Store Text Value (Shared) for Jordan Thompson: bServing = serving:2
+4/7/2022 21:44:47: [G_Auto 1] :  Store Value (Shared) for market: price = 1.13
+4/7/2022 21:44:47: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 141.86
+4/7/2022 21:44:47: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 139.82
+4/7/2022 21:44:47: [G_Auto 1] :  Store Value (Shared) for market: stake = 40.46
+4/7/2022 21:44:47: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 281.68
+4/7/2022 21:44:47: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.04
+4/7/2022 21:44:47: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.14
+4/7/2022 21:44:47: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 8.2
+4/7/2022 21:44:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:45:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:45:15: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 21:45:32: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 21:49:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:49:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:49:41: [G_Auto 2] :  € 40.00 Lay bet placed on Cristian Garin at 1.2. Fully matched at 1.19.  Ref: 11555          ( Fill or kill bet with 15 seconds delay.   )
+4/7/2022 21:49:43: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 2; sets: 1 
+4/7/2022 21:49:43: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:1
+4/7/2022 21:49:43: [G_Auto 1] :  Store Text Value (Shared) for Jordan Thompson: bPoints = point: 0; games: 1; sets: 1 
+4/7/2022 21:49:43: [G_Auto 1] :  Store Text Value (Shared) for Jordan Thompson: bServing = serving:0
+4/7/2022 21:49:43: [G_Auto 1] :  Store Value (Shared) for market: price = 1.19
+4/7/2022 21:49:43: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 141.86
+4/7/2022 21:49:43: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 179.82
+4/7/2022 21:49:43: [G_Auto 1] :  Store Value (Shared) for market: stake = 40
+4/7/2022 21:49:43: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 321.68
+4/7/2022 21:49:43: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.38
+4/7/2022 21:49:43: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.19
+4/7/2022 21:49:43: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 6.6
+4/7/2022 21:49:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:50:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:50:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:50:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:50:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:51:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:51:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:51:38: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 21:51:54: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 21:53:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:53:58: [G_Auto 2] :  Placed closure bet with greening on Cristian Garin by Backing 42.50 at 1.12
+4/7/2022 21:53:59: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 3; sets: 1 
+4/7/2022 21:53:59: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:0
+4/7/2022 21:53:59: [G_Auto 1] :  Store Text Value (Shared) for Jordan Thompson: bPoints = point: 0; games: 1; sets: 1 
+4/7/2022 21:53:59: [G_Auto 1] :  Store Text Value (Shared) for Jordan Thompson: bServing = serving:2
+4/7/2022 21:53:59: [G_Auto 1] :  Store Value (Shared) for market: price = 1.12
+4/7/2022 21:53:59: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 184.36
+4/7/2022 21:53:59: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 179.82
+4/7/2022 21:53:59: [G_Auto 1] :  Store Value (Shared) for market: stake = 42.5
+4/7/2022 21:53:59: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 364.18
+4/7/2022 21:53:59: [G_Auto 1] :  Store Value (Shared) for market: pl = -4.54
+4/7/2022 21:53:59: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.13
+4/7/2022 21:53:59: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 8.4
+4/7/2022 21:54:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:54:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:54:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:54:47: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 21:55:03: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 21:55:19: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 21:58:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:59:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:59:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 21:59:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 22:00:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 22:00:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 22:00:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 22:00:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 22:01:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 22:01:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 22:01:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 22:01:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 22:02:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 22:02:11: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 22:02:26: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 22:08:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 22:08:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 22:08:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 22:08:58: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 22:09:15: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 22:09:31: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 22:12:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 22:12:30: [G_Auto 2] :  € 47.06 Lay bet placed on Cristian Garin at 1.17. Fully matched at 1.16.  Ref: 11566          ( Fill or kill bet with 15 seconds delay.   )
+4/7/2022 22:12:31: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 4; sets: 1 
+4/7/2022 22:12:31: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:1
+4/7/2022 22:12:31: [G_Auto 1] :  Store Text Value (Shared) for Jordan Thompson: bPoints = point: 0; games: 3; sets: 1 
+4/7/2022 22:12:31: [G_Auto 1] :  Store Text Value (Shared) for Jordan Thompson: bServing = serving:0
+4/7/2022 22:12:31: [G_Auto 1] :  Store Value (Shared) for market: price = 1.16
+4/7/2022 22:12:31: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 184.36
+4/7/2022 22:12:31: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 226.88
+4/7/2022 22:12:31: [G_Auto 1] :  Store Value (Shared) for market: stake = 47.06
+4/7/2022 22:12:31: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 411.24
+4/7/2022 22:12:31: [G_Auto 1] :  Store Value (Shared) for market: pl = -4.95
+4/7/2022 22:12:31: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.15
+4/7/2022 22:12:31: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 7.6
+4/7/2022 22:12:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 22:12:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 22:13:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 22:13:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 22:13:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 22:13:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 22:14:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 22:14:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 22:14:31: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 22:14:46: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 22:16:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 22:16:38: [G_Auto 2] :  Placed closure bet with greening on Cristian Garin by Backing 51.50 at 1.06
+4/7/2022 22:16:39: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 5; sets: 1 
+4/7/2022 22:16:39: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:0
+4/7/2022 22:16:39: [G_Auto 1] :  Store Text Value (Shared) for Jordan Thompson: bPoints = point: 0; games: 3; sets: 1 
+4/7/2022 22:16:39: [G_Auto 1] :  Store Text Value (Shared) for Jordan Thompson: bServing = serving:2
+4/7/2022 22:16:39: [G_Auto 1] :  Store Value (Shared) for market: price = 1.06
+4/7/2022 22:16:39: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 235.86
+4/7/2022 22:16:39: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 226.88
+4/7/2022 22:16:39: [G_Auto 1] :  Store Value (Shared) for market: stake = 51.5
+4/7/2022 22:16:39: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 462.74
+4/7/2022 22:16:39: [G_Auto 1] :  Store Value (Shared) for market: pl = -8.98
+4/7/2022 22:16:39: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.07
+4/7/2022 22:16:39: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 16
+4/7/2022 22:16:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 22:16:45: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 5; sets: 1 
+4/7/2022 22:16:45: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:0
+4/7/2022 22:16:45: [G_Auto 1] :  Store Text Value (Shared) for Jordan Thompson: bPoints = point: 0; games: 3; sets: 1 
+4/7/2022 22:16:45: [G_Auto 1] :  Store Text Value (Shared) for Jordan Thompson: bServing = serving:2
+4/7/2022 22:16:45: [G_Auto 1] :  Store Value (Shared) for market: price = 1.06
+4/7/2022 22:16:45: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 235.86
+4/7/2022 22:16:45: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 226.88
+4/7/2022 22:16:45: [G_Auto 1] :  Store Value (Shared) for market: stake = 51.5
+4/7/2022 22:16:45: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 462.74
+4/7/2022 22:16:45: [G_Auto 1] :  Store Value (Shared) for market: pl = -8.98
+4/7/2022 22:16:45: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.07
+4/7/2022 22:16:45: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 15.5
+4/7/2022 22:16:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 22:17:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 22:17:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 22:17:31: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 22:17:46: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 22:19:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 22:19:42:  Guardian has detected that the market is suspended

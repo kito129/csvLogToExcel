@@ -1,0 +1,677 @@
+4/6/2022 11:31:47: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: info = marketName: Opelka v Krueger - Match Odds; runnerA: Reilly Opelka; runnerB: Mitchell Krueger 
+4/6/2022 11:31:47: [G_Auto 1] :  Store Value (Shared) for market: aId = 8859316
+4/6/2022 11:31:47: [G_Auto 1] :  Store Value (Shared) for market: bId = 19924836
+4/7/2022 00:09:16:  Guardian has detected that the market is in-play
+4/7/2022 00:09:16:  Guardian has detected that the market is suspended
+4/7/2022 00:09:17: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.41; bBsp: 3.15; volume: 24378.31 
+4/7/2022 00:09:17: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.41; bBsp: 3.15; volume: 24378.31 
+4/7/2022 00:09:17:  Guardian has detected that the market is now unsuspended
+4/7/2022 00:09:22: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 00:09:38: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 00:11:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:11:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:12:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:12:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:12:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:12:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:13:01: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 00:13:16: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 00:16:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:16:40: [G_Auto 2] :  € 19.51 Lay bet placed on Reilly Opelka at 1.41. Fully matched at 1.4.  Ref: 11236          ( Fill or kill bet with 15 seconds delay.   )
+4/7/2022 00:16:40: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 1; sets: 0 
+4/7/2022 00:16:40: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:1
+4/7/2022 00:16:40: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: bPoints = point: 0; games: 1; sets: 0 
+4/7/2022 00:16:40: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: bServing = serving:0
+4/7/2022 00:16:40: [G_Auto 1] :  Store Value (Shared) for market: price = 1.4
+4/7/2022 00:16:40: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 0
+4/7/2022 00:16:40: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 19.51
+4/7/2022 00:16:40: [G_Auto 1] :  Store Value (Shared) for market: stake = 19.51
+4/7/2022 00:16:40: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 19.51
+4/7/2022 00:16:40: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.14
+4/7/2022 00:16:40: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.39
+4/7/2022 00:16:40: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.5
+4/7/2022 00:16:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:16:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:17:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:17:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:17:40: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 00:17:56: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 00:20:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:20:23: [G_Auto 2] :  Placed closure bet with greening on Reilly Opelka by Backing 14.15 at 1.93
+4/7/2022 00:20:24: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 1; sets: 0 
+4/7/2022 00:20:24: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:0
+4/7/2022 00:20:24: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: bPoints = point: 0; games: 2; sets: 0 
+4/7/2022 00:20:24: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: bServing = serving:2
+4/7/2022 00:20:24: [G_Auto 1] :  Store Value (Shared) for market: price = 1.94
+4/7/2022 00:20:24: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 14.15
+4/7/2022 00:20:24: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 19.51
+4/7/2022 00:20:24: [G_Auto 1] :  Store Value (Shared) for market: stake = 14.15
+4/7/2022 00:20:24: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 33.66
+4/7/2022 00:20:24: [G_Auto 1] :  Store Value (Shared) for market: pl = 5.32
+4/7/2022 00:20:24: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.96
+4/7/2022 00:20:24: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.04
+4/7/2022 00:20:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:20:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:20:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:21:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:21:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:21:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:22:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:22:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:22:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:22:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:23:03: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 00:23:18: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 00:24:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:24:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:24:44: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 00:24:59: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 00:25:15: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 00:27:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:27:21: [G_Auto 2] :  € 8.70 Lay bet placed on Mitchell Krueger at 1.92. Fully matched at 1.91.  Ref: 11242          ( Fill or kill bet with 15 seconds delay.   )
+4/7/2022 00:27:22: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 2; sets: 0 
+4/7/2022 00:27:22: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:0
+4/7/2022 00:27:22: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: bPoints = point: 0; games: 3; sets: 0 
+4/7/2022 00:27:22: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: bServing = serving:2
+4/7/2022 00:27:22: [G_Auto 1] :  Store Value (Shared) for market: price = 1.91
+4/7/2022 00:27:22: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 14.15
+4/7/2022 00:27:22: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 28.21
+4/7/2022 00:27:22: [G_Auto 1] :  Store Value (Shared) for market: stake = 8.7
+4/7/2022 00:27:22: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 42.36
+4/7/2022 00:27:22: [G_Auto 1] :  Store Value (Shared) for market: pl = 5.22
+4/7/2022 00:27:22: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.12
+4/7/2022 00:27:22: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.91
+4/7/2022 00:27:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:27:24: [G_Auto 2] :  Placed closure bet with greening on Reilly Opelka by Laying 0.06 at 2.12
+4/7/2022 00:27:34: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 2; sets: 0 
+4/7/2022 00:27:34: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:0
+4/7/2022 00:27:34: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: bPoints = point: 0; games: 3; sets: 0 
+4/7/2022 00:27:34: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: bServing = serving:2
+4/7/2022 00:27:34: [G_Auto 1] :  Store Value (Shared) for market: price = 2.12
+4/7/2022 00:27:34: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 14.15
+4/7/2022 00:27:34: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 28.27
+4/7/2022 00:27:34: [G_Auto 1] :  Store Value (Shared) for market: stake = 0.06
+4/7/2022 00:27:34: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 42.42
+4/7/2022 00:27:34: [G_Auto 1] :  Store Value (Shared) for market: pl = 5.27
+4/7/2022 00:27:34: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.1
+4/7/2022 00:27:34: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.9
+4/7/2022 00:27:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:27:40: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 2; sets: 0 
+4/7/2022 00:27:40: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:0
+4/7/2022 00:27:40: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: bPoints = point: 0; games: 3; sets: 0 
+4/7/2022 00:27:40: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: bServing = serving:2
+4/7/2022 00:27:40: [G_Auto 1] :  Store Value (Shared) for market: price = 2.12
+4/7/2022 00:27:40: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 14.15
+4/7/2022 00:27:40: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 28.27
+4/7/2022 00:27:40: [G_Auto 1] :  Store Value (Shared) for market: stake = 0.06
+4/7/2022 00:27:40: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 42.42
+4/7/2022 00:27:40: [G_Auto 1] :  Store Value (Shared) for market: pl = 5.23
+4/7/2022 00:27:40: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.1
+4/7/2022 00:27:40: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.89
+4/7/2022 00:27:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:28:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:28:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:28:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:28:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:29:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:29:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:29:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:29:48: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 00:30:03: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 00:30:18: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 00:32:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:33:06: [G_Auto 2] :  Placed closure bet with greening on Mitchell Krueger by Backing 9.08 at 1.83
+4/7/2022 00:33:06: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 2; sets: 0 
+4/7/2022 00:33:06: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:1
+4/7/2022 00:33:06: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: bPoints = point: 0; games: 4; sets: 0 
+4/7/2022 00:33:06: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: bServing = serving:0
+4/7/2022 00:33:06: [G_Auto 1] :  Store Value (Shared) for market: price = 1.83
+4/7/2022 00:33:06: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 23.23
+4/7/2022 00:33:06: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 28.27
+4/7/2022 00:33:06: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.08
+4/7/2022 00:33:06: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 51.5
+4/7/2022 00:33:06: [G_Auto 1] :  Store Value (Shared) for market: pl = 4.95
+4/7/2022 00:33:06: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.18
+4/7/2022 00:33:06: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.84
+4/7/2022 00:33:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:33:12: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 2; sets: 0 
+4/7/2022 00:33:12: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:1
+4/7/2022 00:33:12: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: bPoints = point: 0; games: 4; sets: 0 
+4/7/2022 00:33:12: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: bServing = serving:0
+4/7/2022 00:33:12: [G_Auto 1] :  Store Value (Shared) for market: price = 1.83
+4/7/2022 00:33:12: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 23.23
+4/7/2022 00:33:12: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 28.27
+4/7/2022 00:33:12: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.08
+4/7/2022 00:33:12: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 51.5
+4/7/2022 00:33:12: [G_Auto 1] :  Store Value (Shared) for market: pl = 4.95
+4/7/2022 00:33:12: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.18
+4/7/2022 00:33:12: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.84
+4/7/2022 00:33:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:33:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:33:50: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 00:34:05: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 00:35:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:35:44: [G_Auto 2] :  € 8.70 Lay bet placed on Mitchell Krueger at 1.92. Fully matched at 1.92.  Ref: 11247          ( Fill or kill bet with 15 seconds delay.   )
+4/7/2022 00:35:44: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 3; sets: 0 
+4/7/2022 00:35:44: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:0
+4/7/2022 00:35:44: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: bPoints = point: 0; games: 4; sets: 0 
+4/7/2022 00:35:44: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: bServing = serving:2
+4/7/2022 00:35:44: [G_Auto 1] :  Store Value (Shared) for market: price = 1.92
+4/7/2022 00:35:44: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 23.23
+4/7/2022 00:35:44: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 36.97
+4/7/2022 00:35:44: [G_Auto 1] :  Store Value (Shared) for market: stake = 8.7
+4/7/2022 00:35:44: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 60.2
+4/7/2022 00:35:44: [G_Auto 1] :  Store Value (Shared) for market: pl = 4.95
+4/7/2022 00:35:44: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.08
+4/7/2022 00:35:44: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.92
+4/7/2022 00:35:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:35:49: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 3; sets: 0 
+4/7/2022 00:35:49: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:0
+4/7/2022 00:35:49: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: bPoints = point: 0; games: 4; sets: 0 
+4/7/2022 00:35:49: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: bServing = serving:2
+4/7/2022 00:35:49: [G_Auto 1] :  Store Value (Shared) for market: price = 1.92
+4/7/2022 00:35:49: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 23.23
+4/7/2022 00:35:49: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 36.97
+4/7/2022 00:35:49: [G_Auto 1] :  Store Value (Shared) for market: stake = 8.7
+4/7/2022 00:35:49: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 60.2
+4/7/2022 00:35:49: [G_Auto 1] :  Store Value (Shared) for market: pl = 4.95
+4/7/2022 00:35:49: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.08
+4/7/2022 00:35:49: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.92
+4/7/2022 00:36:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:36:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:36:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:36:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:37:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:37:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:37:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:37:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:37:53: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 00:38:08: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 00:40:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:40:55: [G_Auto 2] :  Placed closure bet with greening on Mitchell Krueger by Backing 9.44 at 1.77
+4/7/2022 00:40:55: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 3; sets: 0 
+4/7/2022 00:40:55: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:1
+4/7/2022 00:40:55: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: bPoints = point: 0; games: 5; sets: 0 
+4/7/2022 00:40:55: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: bServing = serving:0
+4/7/2022 00:40:55: [G_Auto 1] :  Store Value (Shared) for market: price = 1.77
+4/7/2022 00:40:55: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 32.67
+4/7/2022 00:40:55: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 36.97
+4/7/2022 00:40:55: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.44
+4/7/2022 00:40:55: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 69.64
+4/7/2022 00:40:55: [G_Auto 1] :  Store Value (Shared) for market: pl = 4.22
+4/7/2022 00:40:55: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.3
+4/7/2022 00:40:55: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.79
+4/7/2022 00:40:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:41:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:41:15: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 00:41:31: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 00:41:46: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 00:44:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:44:51: [G_Auto 1] :  Store Value (Shared) for market: aFirstSetPrice = 2.76
+4/7/2022 00:44:51: [G_Auto 1] :  Store Value (Shared) for market: bFirstSetPrice = 1.58
+4/7/2022 00:44:56: [G_Auto 2] :  € 13.56 Lay bet placed on Mitchell Krueger at 1.59. Fully matched at 1.56.  Ref: 11250          ( Fill or kill bet with 15 seconds delay.   )
+4/7/2022 00:44:56: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 0; sets: 0 
+4/7/2022 00:44:56: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:0
+4/7/2022 00:44:56: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: bPoints = point: 0; games: 0; sets: 1 
+4/7/2022 00:44:56: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: bServing = serving:2
+4/7/2022 00:44:56: [G_Auto 1] :  Store Value (Shared) for market: price = 1.56
+4/7/2022 00:44:56: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 32.67
+4/7/2022 00:44:56: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 50.53
+4/7/2022 00:44:56: [G_Auto 1] :  Store Value (Shared) for market: stake = 13.56
+4/7/2022 00:44:56: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 83.2
+4/7/2022 00:44:56: [G_Auto 1] :  Store Value (Shared) for market: pl = 4.15
+4/7/2022 00:44:56: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.78
+4/7/2022 00:44:56: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.56
+4/7/2022 00:44:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:45:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:45:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:45:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:45:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:46:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:46:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:46:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:46:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:47:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:47:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:47:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:47:53: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 00:48:08: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 00:51:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:51:24: [G_Auto 2] :  Placed closure bet with greening on Mitchell Krueger by Backing 9.98 at 2.12
+4/7/2022 00:51:24: [G_Auto 2] :  € 9.41 Lay bet placed on Reilly Opelka at 1.85. Entirely unmatched when it initially reached the market.   Ref: 11254          ( Fill or kill bet with 15 seconds delay.   )
+4/7/2022 00:51:24: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 1; sets: 0 
+4/7/2022 00:51:24: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:1
+4/7/2022 00:51:24: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: bPoints = point: 0; games: 0; sets: 1 
+4/7/2022 00:51:24: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: bServing = serving:0
+4/7/2022 00:51:24: [G_Auto 1] :  Store Value (Shared) for market: price = 2.16
+4/7/2022 00:51:24: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 42.65
+4/7/2022 00:51:24: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 50.53
+4/7/2022 00:51:24: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.98
+4/7/2022 00:51:24: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 93.18
+4/7/2022 00:51:24: [G_Auto 1] :  Store Value (Shared) for market: pl = 7.91
+4/7/2022 00:51:24: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.88
+4/7/2022 00:51:24: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.14
+4/7/2022 00:51:25: [G_Auto 2] :  € 9.41 of unmatched bet (Ref:11254) was filled before remainder was killed.
+4/7/2022 00:51:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:51:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:51:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:52:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:52:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:52:33: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 00:52:48: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 00:53:03: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 00:54:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:54:21: [G_Auto 2] :  Placed closure bet with greening on Reilly Opelka by Backing 10.06 at 1.73
+4/7/2022 00:54:22: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 2; sets: 0 
+4/7/2022 00:54:22: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:0
+4/7/2022 00:54:22: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: bPoints = point: 0; games: 0; sets: 1 
+4/7/2022 00:54:22: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: bServing = serving:2
+4/7/2022 00:54:22: [G_Auto 1] :  Store Value (Shared) for market: price = 1.73
+4/7/2022 00:54:22: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 52.71
+4/7/2022 00:54:22: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 59.94
+4/7/2022 00:54:22: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.06
+4/7/2022 00:54:22: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 112.65
+4/7/2022 00:54:22: [G_Auto 1] :  Store Value (Shared) for market: pl = 7.26
+4/7/2022 00:54:22: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.74
+4/7/2022 00:54:22: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.34
+4/7/2022 00:54:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:54:28: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 2; sets: 0 
+4/7/2022 00:54:28: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:0
+4/7/2022 00:54:28: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: bPoints = point: 0; games: 0; sets: 1 
+4/7/2022 00:54:28: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: bServing = serving:2
+4/7/2022 00:54:28: [G_Auto 1] :  Store Value (Shared) for market: price = 1.73
+4/7/2022 00:54:28: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 52.71
+4/7/2022 00:54:28: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 59.94
+4/7/2022 00:54:28: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.06
+4/7/2022 00:54:28: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 112.65
+4/7/2022 00:54:28: [G_Auto 1] :  Store Value (Shared) for market: pl = 7.26
+4/7/2022 00:54:28: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.75
+4/7/2022 00:54:28: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.34
+4/7/2022 00:54:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:54:50: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 00:55:05: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 00:58:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:58:16: [G_Auto 2] :  € 10.39 Lay bet placed on Reilly Opelka at 1.77. Fully matched at 1.75.  Ref: 11257          ( Fill or kill bet with 15 seconds delay.   )
+4/7/2022 00:58:16: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 2; sets: 0 
+4/7/2022 00:58:16: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:1
+4/7/2022 00:58:16: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: bPoints = point: 0; games: 1; sets: 1 
+4/7/2022 00:58:16: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: bServing = serving:0
+4/7/2022 00:58:16: [G_Auto 1] :  Store Value (Shared) for market: price = 1.75
+4/7/2022 00:58:16: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 52.71
+4/7/2022 00:58:16: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 70.33
+4/7/2022 00:58:16: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.39
+4/7/2022 00:58:16: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 123.04
+4/7/2022 00:58:16: [G_Auto 1] :  Store Value (Shared) for market: pl = 7.2
+4/7/2022 00:58:16: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.74
+4/7/2022 00:58:16: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.28
+4/7/2022 00:58:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:58:19: [G_Auto 2] :  Placed closure bet with greening on Mitchell Krueger by Laying 0.17 at 2.34
+4/7/2022 00:58:21: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 2; sets: 0 
+4/7/2022 00:58:21: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:1
+4/7/2022 00:58:21: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: bPoints = point: 0; games: 1; sets: 1 
+4/7/2022 00:58:21: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: bServing = serving:0
+4/7/2022 00:58:21: [G_Auto 1] :  Store Value (Shared) for market: price = 1.75
+4/7/2022 00:58:21: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 52.71
+4/7/2022 00:58:21: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 70.33
+4/7/2022 00:58:21: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.39
+4/7/2022 00:58:21: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 123.04
+4/7/2022 00:58:21: [G_Auto 1] :  Store Value (Shared) for market: pl = 7.2
+4/7/2022 00:58:21: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.75
+4/7/2022 00:58:21: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.28
+4/7/2022 00:58:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:58:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:59:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:59:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:59:33: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 2; sets: 0 
+4/7/2022 00:59:33: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:1
+4/7/2022 00:59:33: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: bPoints = point: 0; games: 1; sets: 1 
+4/7/2022 00:59:33: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: bServing = serving:0
+4/7/2022 00:59:33: [G_Auto 1] :  Store Value (Shared) for market: price = 2.34
+4/7/2022 00:59:33: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 52.71
+4/7/2022 00:59:33: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 70.5
+4/7/2022 00:59:33: [G_Auto 1] :  Store Value (Shared) for market: stake = 0.17
+4/7/2022 00:59:33: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 123.21
+4/7/2022 00:59:33: [G_Auto 1] :  Store Value (Shared) for market: pl = 7.13
+4/7/2022 00:59:33: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.73
+4/7/2022 00:59:33: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.34
+4/7/2022 00:59:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:59:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:00:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:00:12: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 01:00:27: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 01:01:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:01:34: [G_Auto 2] :  Placed closure bet with greening on Reilly Opelka by Backing 11.22 at 1.62
+4/7/2022 01:01:34: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 3; sets: 0 
+4/7/2022 01:01:34: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:0
+4/7/2022 01:01:34: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: bPoints = point: 0; games: 1; sets: 1 
+4/7/2022 01:01:34: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: bServing = serving:2
+4/7/2022 01:01:34: [G_Auto 1] :  Store Value (Shared) for market: price = 1.63
+4/7/2022 01:01:34: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 63.93
+4/7/2022 01:01:34: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 70.5
+4/7/2022 01:01:34: [G_Auto 1] :  Store Value (Shared) for market: stake = 11.22
+4/7/2022 01:01:34: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 134.43
+4/7/2022 01:01:34: [G_Auto 1] :  Store Value (Shared) for market: pl = 6.51
+4/7/2022 01:01:34: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.65
+4/7/2022 01:01:34: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.54
+4/7/2022 01:01:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:01:40: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 3; sets: 0 
+4/7/2022 01:01:40: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:0
+4/7/2022 01:01:40: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: bPoints = point: 0; games: 1; sets: 1 
+4/7/2022 01:01:40: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: bServing = serving:2
+4/7/2022 01:01:40: [G_Auto 1] :  Store Value (Shared) for market: price = 1.63
+4/7/2022 01:01:40: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 63.93
+4/7/2022 01:01:40: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 70.5
+4/7/2022 01:01:40: [G_Auto 1] :  Store Value (Shared) for market: stake = 11.22
+4/7/2022 01:01:40: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 134.43
+4/7/2022 01:01:40: [G_Auto 1] :  Store Value (Shared) for market: pl = 6.51
+4/7/2022 01:01:40: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.65
+4/7/2022 01:01:40: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.5
+4/7/2022 01:01:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:02:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:02:10: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 01:02:25: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 01:02:40: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 01:02:55: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 01:03:10: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 01:03:25: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 01:04:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:05:05: [G_Auto 2] :  € 16.33 Lay bet placed on Reilly Opelka at 1.49. Fully matched at 1.47.  Ref: 11260          ( Fill or kill bet with 15 seconds delay.   )
+4/7/2022 01:05:06: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 4; sets: 0 
+4/7/2022 01:05:06: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:1
+4/7/2022 01:05:06: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: bPoints = point: 0; games: 1; sets: 1 
+4/7/2022 01:05:06: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: bServing = serving:0
+4/7/2022 01:05:06: [G_Auto 1] :  Store Value (Shared) for market: price = 1.47
+4/7/2022 01:05:06: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 63.93
+4/7/2022 01:05:06: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 86.83
+4/7/2022 01:05:06: [G_Auto 1] :  Store Value (Shared) for market: stake = 16.33
+4/7/2022 01:05:06: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 150.76
+4/7/2022 01:05:06: [G_Auto 1] :  Store Value (Shared) for market: pl = 6.4
+4/7/2022 01:05:06: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.47
+4/7/2022 01:05:06: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.05
+4/7/2022 01:05:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:05:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:05:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:05:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:06:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:06:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:06:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:06:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:07:07: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 01:07:22: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 01:09:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:09:43: [G_Auto 2] :  Placed closure bet with greening on Reilly Opelka by Backing 16.95 at 1.41
+4/7/2022 01:09:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:10:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:10:05: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 5; sets: 0 
+4/7/2022 01:10:05: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:0
+4/7/2022 01:10:05: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: bPoints = point: 0; games: 1; sets: 1 
+4/7/2022 01:10:05: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: bServing = serving:2
+4/7/2022 01:10:05: [G_Auto 1] :  Store Value (Shared) for market: price = 1.41
+4/7/2022 01:10:05: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 80.88
+4/7/2022 01:10:05: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 86.83
+4/7/2022 01:10:05: [G_Auto 1] :  Store Value (Shared) for market: stake = 16.95
+4/7/2022 01:10:05: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 167.71
+4/7/2022 01:10:05: [G_Auto 1] :  Store Value (Shared) for market: pl = 5.84
+4/7/2022 01:10:05: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.41
+4/7/2022 01:10:05: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.5
+4/7/2022 01:10:10: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 5; sets: 0 
+4/7/2022 01:10:10: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:0
+4/7/2022 01:10:10: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: bPoints = point: 0; games: 1; sets: 1 
+4/7/2022 01:10:10: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: bServing = serving:2
+4/7/2022 01:10:10: [G_Auto 1] :  Store Value (Shared) for market: price = 1.41
+4/7/2022 01:10:10: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 80.88
+4/7/2022 01:10:10: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 86.83
+4/7/2022 01:10:10: [G_Auto 1] :  Store Value (Shared) for market: stake = 16.95
+4/7/2022 01:10:10: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 167.71
+4/7/2022 01:10:10: [G_Auto 1] :  Store Value (Shared) for market: pl = 5.84
+4/7/2022 01:10:10: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.42
+4/7/2022 01:10:10: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.4
+4/7/2022 01:10:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:10:17: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 01:10:32: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 01:10:47: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 01:12:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:12:19: [G_Auto 2] :  € 17.02 Lay bet placed on Reilly Opelka at 1.47. Fully matched at 1.46.  Ref: 11262          ( Fill or kill bet with 15 seconds delay.   )
+4/7/2022 01:12:20: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 5; sets: 0 
+4/7/2022 01:12:20: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:1
+4/7/2022 01:12:20: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: bPoints = point: 0; games: 2; sets: 1 
+4/7/2022 01:12:20: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: bServing = serving:0
+4/7/2022 01:12:20: [G_Auto 1] :  Store Value (Shared) for market: price = 1.46
+4/7/2022 01:12:20: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 80.88
+4/7/2022 01:12:20: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 103.85
+4/7/2022 01:12:20: [G_Auto 1] :  Store Value (Shared) for market: stake = 17.02
+4/7/2022 01:12:20: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 184.73
+4/7/2022 01:12:20: [G_Auto 1] :  Store Value (Shared) for market: pl = 5.72
+4/7/2022 01:12:20: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.45
+4/7/2022 01:12:20: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.2
+4/7/2022 01:12:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:12:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:12:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:13:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:13:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:13:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:13:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:14:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:14:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:14:31: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 01:14:46: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 01:19:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:19:18: [G_Auto 1] :  Store Value (Shared) for market: aSecondSetPrice = 1.51
+4/7/2022 01:19:18: [G_Auto 1] :  Store Value (Shared) for market: bSecondSetPrice = 2.92
+4/7/2022 01:19:22: [G_Auto 2] :  Placed closure bet with greening on Reilly Opelka by Backing 16.45 at 1.51
+4/7/2022 01:19:23: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 0; sets: 1 
+4/7/2022 01:19:23: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:0
+4/7/2022 01:19:23: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: bPoints = point: 0; games: 0; sets: 1 
+4/7/2022 01:19:23: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: bServing = serving:2
+4/7/2022 01:19:23: [G_Auto 1] :  Store Value (Shared) for market: price = 1.52
+4/7/2022 01:19:23: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 97.33
+4/7/2022 01:19:23: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 103.85
+4/7/2022 01:19:23: [G_Auto 1] :  Store Value (Shared) for market: stake = 16.45
+4/7/2022 01:19:23: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 201.18
+4/7/2022 01:19:23: [G_Auto 1] :  Store Value (Shared) for market: pl = 6.49
+4/7/2022 01:19:23: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.52
+4/7/2022 01:19:23: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.92
+4/7/2022 01:19:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:19:28: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 0; sets: 1 
+4/7/2022 01:19:28: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:0
+4/7/2022 01:19:28: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: bPoints = point: 0; games: 0; sets: 1 
+4/7/2022 01:19:28: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: bServing = serving:2
+4/7/2022 01:19:28: [G_Auto 1] :  Store Value (Shared) for market: price = 1.52
+4/7/2022 01:19:28: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 97.33
+4/7/2022 01:19:28: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 103.85
+4/7/2022 01:19:28: [G_Auto 1] :  Store Value (Shared) for market: stake = 16.45
+4/7/2022 01:19:28: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 201.18
+4/7/2022 01:19:28: [G_Auto 1] :  Store Value (Shared) for market: pl = 6.49
+4/7/2022 01:19:28: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.53
+4/7/2022 01:19:28: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.92
+4/7/2022 01:19:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:19:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:20:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:20:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:20:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:20:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:21:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:21:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:21:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:21:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:22:11: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 01:22:26: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 01:22:41: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 01:24:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:25:09: [G_Auto 2] :  € 12.12 Lay bet placed on Reilly Opelka at 1.66. Fully matched at 1.64.  Ref: 11264          ( Fill or kill bet with 15 seconds delay.   )
+4/7/2022 01:25:09: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 0; sets: 1 
+4/7/2022 01:25:09: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:1
+4/7/2022 01:25:09: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: bPoints = point: 0; games: 1; sets: 1 
+4/7/2022 01:25:09: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: bServing = serving:0
+4/7/2022 01:25:09: [G_Auto 1] :  Store Value (Shared) for market: price = 1.64
+4/7/2022 01:25:09: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 97.33
+4/7/2022 01:25:09: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 115.97
+4/7/2022 01:25:09: [G_Auto 1] :  Store Value (Shared) for market: stake = 12.12
+4/7/2022 01:25:09: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 213.3
+4/7/2022 01:25:09: [G_Auto 1] :  Store Value (Shared) for market: pl = 6.41
+4/7/2022 01:25:09: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.63
+4/7/2022 01:25:09: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.58
+4/7/2022 01:25:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:25:14: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 0; sets: 1 
+4/7/2022 01:25:14: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:1
+4/7/2022 01:25:14: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: bPoints = point: 0; games: 1; sets: 1 
+4/7/2022 01:25:14: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: bServing = serving:0
+4/7/2022 01:25:14: [G_Auto 1] :  Store Value (Shared) for market: price = 1.64
+4/7/2022 01:25:14: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 97.33
+4/7/2022 01:25:14: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 115.97
+4/7/2022 01:25:14: [G_Auto 1] :  Store Value (Shared) for market: stake = 12.12
+4/7/2022 01:25:14: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 213.3
+4/7/2022 01:25:14: [G_Auto 1] :  Store Value (Shared) for market: pl = 6.34
+4/7/2022 01:25:14: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.63
+4/7/2022 01:25:14: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.58
+4/7/2022 01:25:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:25:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:25:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:26:07: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 01:26:22: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 01:27:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:28:07: [G_Auto 2] :  Placed closure bet with greening on Reilly Opelka by Backing 12.89 at 1.53
+4/7/2022 01:28:07: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 1; sets: 1 
+4/7/2022 01:28:07: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:0
+4/7/2022 01:28:07: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: bPoints = point: 0; games: 1; sets: 1 
+4/7/2022 01:28:07: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: bServing = serving:2
+4/7/2022 01:28:07: [G_Auto 1] :  Store Value (Shared) for market: price = 1.53
+4/7/2022 01:28:07: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 110.22
+4/7/2022 01:28:07: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 115.97
+4/7/2022 01:28:07: [G_Auto 1] :  Store Value (Shared) for market: stake = 12.89
+4/7/2022 01:28:07: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 226.19
+4/7/2022 01:28:07: [G_Auto 1] :  Store Value (Shared) for market: pl = 5.64
+4/7/2022 01:28:07: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.54
+4/7/2022 01:28:07: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.84
+4/7/2022 01:28:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:28:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:28:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:28:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:29:00: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 01:29:15: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 01:31:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:31:20: [G_Auto 2] :  € 12.50 Lay bet placed on Reilly Opelka at 1.64. Fully matched at 1.63.  Ref: 11266          ( Fill or kill bet with 15 seconds delay.   )
+4/7/2022 01:31:20: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 1; sets: 1 
+4/7/2022 01:31:20: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:1
+4/7/2022 01:31:20: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: bPoints = point: 0; games: 2; sets: 1 
+4/7/2022 01:31:20: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: bServing = serving:0
+4/7/2022 01:31:20: [G_Auto 1] :  Store Value (Shared) for market: price = 1.63
+4/7/2022 01:31:20: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 110.22
+4/7/2022 01:31:20: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 128.47
+4/7/2022 01:31:20: [G_Auto 1] :  Store Value (Shared) for market: stake = 12.5
+4/7/2022 01:31:20: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 238.69
+4/7/2022 01:31:20: [G_Auto 1] :  Store Value (Shared) for market: pl = 5.57
+4/7/2022 01:31:20: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.63
+4/7/2022 01:31:20: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.6
+4/7/2022 01:31:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:31:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:31:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:32:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:32:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:32:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:32:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:33:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:33:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:33:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:33:43: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 01:33:58: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 01:34:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:35:11: [G_Auto 2] :  Placed closure bet with greening on Reilly Opelka by Backing 13.95 at 1.46
+4/7/2022 01:35:11: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 2; sets: 1 
+4/7/2022 01:35:11: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:0
+4/7/2022 01:35:11: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: bPoints = point: 0; games: 2; sets: 1 
+4/7/2022 01:35:11: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: bServing = serving:2
+4/7/2022 01:35:11: [G_Auto 1] :  Store Value (Shared) for market: price = 1.46
+4/7/2022 01:35:11: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 124.17
+4/7/2022 01:35:11: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 128.47
+4/7/2022 01:35:11: [G_Auto 1] :  Store Value (Shared) for market: stake = 13.95
+4/7/2022 01:35:11: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 252.64
+4/7/2022 01:35:11: [G_Auto 1] :  Store Value (Shared) for market: pl = 4.21
+4/7/2022 01:35:11: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.46
+4/7/2022 01:35:11: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.05
+4/7/2022 01:35:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:35:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:35:39: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 01:35:54: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 01:36:09: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 01:37:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:37:19: [G_Auto 2] :  € 12.12 Lay bet placed on Reilly Opelka at 1.66. Entirely unmatched when it initially reached the market.   Ref: 11268          ( Fill or kill bet with 15 seconds delay.   )
+4/7/2022 01:37:21: [G_Auto 2] :  € 12.12 of unmatched bet (Ref:11268) was filled before remainder was killed.
+4/7/2022 01:37:21: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 2; sets: 1 
+4/7/2022 01:37:21: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:1
+4/7/2022 01:37:21: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: bPoints = point: 0; games: 3; sets: 1 
+4/7/2022 01:37:21: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: bServing = serving:0
+4/7/2022 01:37:21: [G_Auto 1] :  Store Value (Shared) for market: price = 1.66
+4/7/2022 01:37:21: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 124.17
+4/7/2022 01:37:21: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 140.59
+4/7/2022 01:37:21: [G_Auto 1] :  Store Value (Shared) for market: stake = 12.12
+4/7/2022 01:37:21: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 264.76
+4/7/2022 01:37:21: [G_Auto 1] :  Store Value (Shared) for market: pl = 4.07
+4/7/2022 01:37:21: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.64
+4/7/2022 01:37:21: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.58
+4/7/2022 01:37:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:37:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:37:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:38:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:38:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:38:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:38:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:39:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:39:14: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 01:39:30: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 01:39:45: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 01:44:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:44:27: [G_Auto 2] :  Placed closure bet with greening on Reilly Opelka by Backing 12.66 at 1.59
+4/7/2022 01:44:28: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 3; sets: 1 
+4/7/2022 01:44:28: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:0
+4/7/2022 01:44:28: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: bPoints = point: 0; games: 3; sets: 1 
+4/7/2022 01:44:28: [G_Auto 1] :  Store Text Value (Shared) for Mitchell Krueger: bServing = serving:2
+4/7/2022 01:44:28: [G_Auto 1] :  Store Value (Shared) for market: price = 1.59
+4/7/2022 01:44:28: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 136.83
+4/7/2022 01:44:28: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 140.59
+4/7/2022 01:44:28: [G_Auto 1] :  Store Value (Shared) for market: stake = 12.66
+4/7/2022 01:44:28: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 277.42
+4/7/2022 01:44:28: [G_Auto 1] :  Store Value (Shared) for market: pl = 3.69
+4/7/2022 01:44:28: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.61
+4/7/2022 01:44:28: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.66
+4/7/2022 01:44:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:44:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:45:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:45:09: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 01:45:24: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 01:48:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:48:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:48:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:49:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:49:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:49:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:49:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:50:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:50:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:50:38: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 01:50:53: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 01:51:08: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 01:52:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:52:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:52:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:52:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:53:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:53:19: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 01:53:34: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 01:53:50: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 01:56:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:56:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:57:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:57:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:57:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:57:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:58:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:58:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:58:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:58:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:59:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 01:59:16: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 01:59:31: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 01:59:46: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 02:02:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 02:02:13:  Guardian has detected that the market is suspended

@@ -1,0 +1,717 @@
+4/8/2022 09:18:23: [G_Auto 1] :  Store Text Value (Shared) for Roberto Carballes Baena: info = marketName: Carballes Baena v Goffin - Match Odds; runnerA: Roberto Carballes Baena; runnerB: David Goffin 
+4/8/2022 09:18:23: [G_Auto 1] :  Store Value (Shared) for market: aId = 42313578
+4/8/2022 09:18:23: [G_Auto 1] :  Store Value (Shared) for market: bId = 19924835
+4/8/2022 12:10:30:  Guardian has detected that the market is in-play
+4/8/2022 12:10:30:  Guardian has detected that the market is suspended
+4/8/2022 12:10:33: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 2.4; bBsp: 1.71; volume: 30565.54 
+4/8/2022 12:10:33: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 2.4; bBsp: 1.71; volume: 30565.54 
+4/8/2022 12:10:33:  Guardian has detected that the market is now unsuspended
+4/8/2022 12:10:40: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 12:10:56: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 12:11:13: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 12:14:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 12:14:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 12:14:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 12:15:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 12:15:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 12:15:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 12:16:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 12:16:07: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 12:16:23: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 12:18:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 12:19:11: [G_Auto 2] :  € 10.53 Lay bet placed on David Goffin at 1.76. Fully matched at 1.75.  Ref: 11700          ( Fill or kill bet with 15 seconds delay.   )
+4/8/2022 12:19:11: [G_Auto 1] :  Store Text Value (Shared) for Roberto Carballes Baena: aPoints = point: 0; games: 1; sets: 0 
+4/8/2022 12:19:11: [G_Auto 1] :  Store Text Value (Shared) for Roberto Carballes Baena: aServing = serving:0
+4/8/2022 12:19:11: [G_Auto 1] :  Store Text Value (Shared) for David Goffin: bPoints = point: 0; games: 1; sets: 0 
+4/8/2022 12:19:11: [G_Auto 1] :  Store Text Value (Shared) for David Goffin: bServing = serving:2
+4/8/2022 12:19:11: [G_Auto 1] :  Store Value (Shared) for market: price = 1.75
+4/8/2022 12:19:11: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 0
+4/8/2022 12:19:11: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 10.53
+4/8/2022 12:19:11: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.53
+4/8/2022 12:19:11: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 10.53
+4/8/2022 12:19:11: [G_Auto 1] :  Store Value (Shared) for market: pl = 0
+4/8/2022 12:19:11: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.32
+4/8/2022 12:19:11: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.75
+4/8/2022 12:19:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 12:19:18: [G_Auto 1] :  Store Text Value (Shared) for Roberto Carballes Baena: aPoints = point: 0; games: 1; sets: 0 
+4/8/2022 12:19:18: [G_Auto 1] :  Store Text Value (Shared) for Roberto Carballes Baena: aServing = serving:0
+4/8/2022 12:19:18: [G_Auto 1] :  Store Text Value (Shared) for David Goffin: bPoints = point: 0; games: 1; sets: 0 
+4/8/2022 12:19:18: [G_Auto 1] :  Store Text Value (Shared) for David Goffin: bServing = serving:2
+4/8/2022 12:19:18: [G_Auto 1] :  Store Value (Shared) for market: price = 1.75
+4/8/2022 12:19:18: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 0
+4/8/2022 12:19:18: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 10.53
+4/8/2022 12:19:18: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.53
+4/8/2022 12:19:18: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 10.53
+4/8/2022 12:19:18: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.06
+4/8/2022 12:19:18: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.32
+4/8/2022 12:19:18: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.76
+4/8/2022 12:19:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 12:19:48: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 12:20:04: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 12:24:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 12:25:11: [G_Auto 2] :  Placed closure bet with greening on David Goffin by Backing 10.97 at 1.68
+4/8/2022 12:25:11: [G_Auto 1] :  Store Text Value (Shared) for Roberto Carballes Baena: aPoints = point: 0; games: 1; sets: 0 
+4/8/2022 12:25:11: [G_Auto 1] :  Store Text Value (Shared) for Roberto Carballes Baena: aServing = serving:1
+4/8/2022 12:25:11: [G_Auto 1] :  Store Text Value (Shared) for David Goffin: bPoints = point: 0; games: 2; sets: 0 
+4/8/2022 12:25:11: [G_Auto 1] :  Store Text Value (Shared) for David Goffin: bServing = serving:0
+4/8/2022 12:25:11: [G_Auto 1] :  Store Value (Shared) for market: price = 1.68
+4/8/2022 12:25:11: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 10.97
+4/8/2022 12:25:11: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 10.53
+4/8/2022 12:25:11: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.97
+4/8/2022 12:25:11: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 21.5
+4/8/2022 12:25:11: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.44
+4/8/2022 12:25:11: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.46
+4/8/2022 12:25:11: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.65
+4/8/2022 12:25:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 12:25:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 12:25:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 12:26:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 12:26:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 12:26:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 12:26:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 12:26:59: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 12:27:16: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 12:27:32: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 12:30:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 12:30:54: [G_Auto 2] :  € 8.79 Lay bet placed on David Goffin at 1.91. Fully matched at 1.9.  Ref: 11702          ( Fill or kill bet with 15 seconds delay.   )
+4/8/2022 12:30:55: [G_Auto 1] :  Store Text Value (Shared) for Roberto Carballes Baena: aPoints = point: 0; games: 2; sets: 0 
+4/8/2022 12:30:55: [G_Auto 1] :  Store Text Value (Shared) for Roberto Carballes Baena: aServing = serving:0
+4/8/2022 12:30:55: [G_Auto 1] :  Store Text Value (Shared) for David Goffin: bPoints = point: 0; games: 2; sets: 0 
+4/8/2022 12:30:55: [G_Auto 1] :  Store Text Value (Shared) for David Goffin: bServing = serving:2
+4/8/2022 12:30:55: [G_Auto 1] :  Store Value (Shared) for market: price = 1.9
+4/8/2022 12:30:55: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 10.97
+4/8/2022 12:30:55: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 19.32
+4/8/2022 12:30:55: [G_Auto 1] :  Store Value (Shared) for market: stake = 8.79
+4/8/2022 12:30:55: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 30.29
+4/8/2022 12:30:55: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.44
+4/8/2022 12:30:55: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.1
+4/8/2022 12:30:55: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.9
+4/8/2022 12:30:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 12:31:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 12:31:25: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 12:31:41: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 12:32:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 12:32:34: [G_Auto 2] :  Placed closure bet with greening on David Goffin by Backing 9.88 at 1.69
+4/8/2022 12:32:34: [G_Auto 1] :  Store Text Value (Shared) for Roberto Carballes Baena: aPoints = point: 0; games: 2; sets: 0 
+4/8/2022 12:32:34: [G_Auto 1] :  Store Text Value (Shared) for Roberto Carballes Baena: aServing = serving:1
+4/8/2022 12:32:34: [G_Auto 1] :  Store Text Value (Shared) for David Goffin: bPoints = point: 0; games: 3; sets: 0 
+4/8/2022 12:32:34: [G_Auto 1] :  Store Text Value (Shared) for David Goffin: bServing = serving:0
+4/8/2022 12:32:34: [G_Auto 1] :  Store Value (Shared) for market: price = 1.69
+4/8/2022 12:32:34: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 20.85
+4/8/2022 12:32:34: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 19.32
+4/8/2022 12:32:34: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.88
+4/8/2022 12:32:34: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 40.17
+4/8/2022 12:32:34: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.53
+4/8/2022 12:32:34: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.46
+4/8/2022 12:32:34: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.7
+4/8/2022 12:32:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 12:32:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 12:33:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 12:33:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 12:33:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 12:34:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 12:34:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 12:34:33: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 12:34:50: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 12:36:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 12:37:01: [G_Auto 2] :  € 8.99 Lay bet placed on David Goffin at 1.89. Fully matched at 1.88.  Ref: 11704          ( Fill or kill bet with 15 seconds delay.   )
+4/8/2022 12:37:02: [G_Auto 1] :  Store Text Value (Shared) for Roberto Carballes Baena: aPoints = point: 0; games: 3; sets: 0 
+4/8/2022 12:37:02: [G_Auto 1] :  Store Text Value (Shared) for Roberto Carballes Baena: aServing = serving:0
+4/8/2022 12:37:02: [G_Auto 1] :  Store Text Value (Shared) for David Goffin: bPoints = point: 0; games: 3; sets: 0 
+4/8/2022 12:37:02: [G_Auto 1] :  Store Text Value (Shared) for David Goffin: bServing = serving:2
+4/8/2022 12:37:02: [G_Auto 1] :  Store Value (Shared) for market: price = 1.88
+4/8/2022 12:37:02: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 20.85
+4/8/2022 12:37:02: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 28.31
+4/8/2022 12:37:02: [G_Auto 1] :  Store Value (Shared) for market: stake = 8.99
+4/8/2022 12:37:02: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 49.16
+4/8/2022 12:37:02: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.58
+4/8/2022 12:37:02: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.14
+4/8/2022 12:37:02: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.88
+4/8/2022 12:37:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 12:37:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 12:37:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 12:37:45: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 12:38:01: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 12:38:18: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 12:40:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 12:40:20: [G_Auto 2] :  Placed closure bet with greening on David Goffin by Backing 9.71 at 1.74
+4/8/2022 12:40:20: [G_Auto 1] :  Store Text Value (Shared) for Roberto Carballes Baena: aPoints = point: 0; games: 3; sets: 0 
+4/8/2022 12:40:20: [G_Auto 1] :  Store Text Value (Shared) for Roberto Carballes Baena: aServing = serving:1
+4/8/2022 12:40:20: [G_Auto 1] :  Store Text Value (Shared) for David Goffin: bPoints = point: 0; games: 4; sets: 0 
+4/8/2022 12:40:20: [G_Auto 1] :  Store Text Value (Shared) for David Goffin: bServing = serving:0
+4/8/2022 12:40:20: [G_Auto 1] :  Store Value (Shared) for market: price = 1.74
+4/8/2022 12:40:20: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 30.56
+4/8/2022 12:40:20: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 28.31
+4/8/2022 12:40:20: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.71
+4/8/2022 12:40:20: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 58.87
+4/8/2022 12:40:20: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.25
+4/8/2022 12:40:20: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.34
+4/8/2022 12:40:20: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.75
+4/8/2022 12:40:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 12:40:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 12:40:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 12:41:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 12:41:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 12:41:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 12:42:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 12:42:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 12:42:26: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 12:42:43: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 12:42:59: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 12:47:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 12:47:24: [G_Auto 2] :  € 8.99 Lay bet placed on David Goffin at 1.89. Fully matched at 1.89.  Ref: 11706          ( Fill or kill bet with 15 seconds delay.   )
+4/8/2022 12:47:24: [G_Auto 1] :  Store Text Value (Shared) for Roberto Carballes Baena: aPoints = point: 0; games: 4; sets: 0 
+4/8/2022 12:47:24: [G_Auto 1] :  Store Text Value (Shared) for Roberto Carballes Baena: aServing = serving:0
+4/8/2022 12:47:24: [G_Auto 1] :  Store Text Value (Shared) for David Goffin: bPoints = point: 0; games: 4; sets: 0 
+4/8/2022 12:47:24: [G_Auto 1] :  Store Text Value (Shared) for David Goffin: bServing = serving:2
+4/8/2022 12:47:24: [G_Auto 1] :  Store Value (Shared) for market: price = 1.89
+4/8/2022 12:47:24: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 30.56
+4/8/2022 12:47:24: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 37.3
+4/8/2022 12:47:24: [G_Auto 1] :  Store Value (Shared) for market: stake = 8.99
+4/8/2022 12:47:24: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 67.86
+4/8/2022 12:47:24: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.21
+4/8/2022 12:47:24: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.12
+4/8/2022 12:47:24: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.9
+4/8/2022 12:47:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 12:47:31: [G_Auto 1] :  Store Text Value (Shared) for Roberto Carballes Baena: aPoints = point: 0; games: 4; sets: 0 
+4/8/2022 12:47:31: [G_Auto 1] :  Store Text Value (Shared) for Roberto Carballes Baena: aServing = serving:0
+4/8/2022 12:47:31: [G_Auto 1] :  Store Text Value (Shared) for David Goffin: bPoints = point: 0; games: 4; sets: 0 
+4/8/2022 12:47:31: [G_Auto 1] :  Store Text Value (Shared) for David Goffin: bServing = serving:2
+4/8/2022 12:47:31: [G_Auto 1] :  Store Value (Shared) for market: price = 1.89
+4/8/2022 12:47:31: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 30.56
+4/8/2022 12:47:31: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 37.3
+4/8/2022 12:47:31: [G_Auto 1] :  Store Value (Shared) for market: stake = 8.99
+4/8/2022 12:47:31: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 67.86
+4/8/2022 12:47:31: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.16
+4/8/2022 12:47:31: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.1
+4/8/2022 12:47:31: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.91
+4/8/2022 12:47:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 12:48:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 12:48:04: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 12:48:20: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 12:48:37: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 12:48:53: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 12:49:10: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 12:52:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 12:52:36: [G_Auto 2] :  Placed closure bet with greening on David Goffin by Backing 5.74 at 2.96
+4/8/2022 12:52:36: [G_Auto 2] :  € 15.38 Lay bet placed on Roberto Carballes Baena at 1.52. Fully matched at 1.51.  Ref: 11707          ( Fill or kill bet with 15 seconds delay.   )
+4/8/2022 12:52:36: [G_Auto 1] :  Store Text Value (Shared) for Roberto Carballes Baena: aPoints = point: 0; games: 5; sets: 0 
+4/8/2022 12:52:36: [G_Auto 1] :  Store Text Value (Shared) for Roberto Carballes Baena: aServing = serving:1
+4/8/2022 12:52:36: [G_Auto 1] :  Store Text Value (Shared) for David Goffin: bPoints = point: 0; games: 4; sets: 0 
+4/8/2022 12:52:36: [G_Auto 1] :  Store Text Value (Shared) for David Goffin: bServing = serving:0
+4/8/2022 12:52:36: [G_Auto 1] :  Store Value (Shared) for market: price = 1.51
+4/8/2022 12:52:36: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 36.3
+4/8/2022 12:52:36: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 52.68
+4/8/2022 12:52:36: [G_Auto 1] :  Store Value (Shared) for market: stake = 15.38
+4/8/2022 12:52:36: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 88.98
+4/8/2022 12:52:36: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.88
+4/8/2022 12:52:36: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.5
+4/8/2022 12:52:36: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.96
+4/8/2022 12:52:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 12:52:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 12:53:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 12:53:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 12:53:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 12:54:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 12:54:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 12:54:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 12:54:39: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 12:54:56: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 12:58:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 12:58:28: [G_Auto 2] :  Placed closure bet with greening on Roberto Carballes Baena by Backing 10.95 at 2.12
+4/8/2022 12:58:28: [G_Auto 2] :  € 9.09 Lay bet placed on David Goffin at 1.88. Fully matched at 1.88.  Ref: 11709          ( Fill or kill bet with 15 seconds delay.   )
+4/8/2022 12:58:28: [G_Auto 1] :  Store Text Value (Shared) for Roberto Carballes Baena: aPoints = point: 0; games: 5; sets: 0 
+4/8/2022 12:58:28: [G_Auto 1] :  Store Text Value (Shared) for Roberto Carballes Baena: aServing = serving:0
+4/8/2022 12:58:28: [G_Auto 1] :  Store Text Value (Shared) for David Goffin: bPoints = point: 0; games: 5; sets: 0 
+4/8/2022 12:58:28: [G_Auto 1] :  Store Text Value (Shared) for David Goffin: bServing = serving:2
+4/8/2022 12:58:28: [G_Auto 1] :  Store Value (Shared) for market: price = 1.88
+4/8/2022 12:58:28: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 47.25
+4/8/2022 12:58:28: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 61.77
+4/8/2022 12:58:28: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.09
+4/8/2022 12:58:28: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 109.02
+4/8/2022 12:58:28: [G_Auto 1] :  Store Value (Shared) for market: pl = 5.21
+4/8/2022 12:58:28: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.14
+4/8/2022 12:58:28: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.88
+4/8/2022 12:58:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 12:58:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 12:58:58: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 12:59:15: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 13:01:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:01:41: [G_Auto 2] :  Placed closure bet with greening on David Goffin by Backing 10.55 at 1.62
+4/8/2022 13:01:41: [G_Auto 1] :  Store Text Value (Shared) for Roberto Carballes Baena: aPoints = point: 0; games: 5; sets: 0 
+4/8/2022 13:01:41: [G_Auto 1] :  Store Text Value (Shared) for Roberto Carballes Baena: aServing = serving:1
+4/8/2022 13:01:41: [G_Auto 1] :  Store Text Value (Shared) for David Goffin: bPoints = point: 0; games: 6; sets: 0 
+4/8/2022 13:01:41: [G_Auto 1] :  Store Text Value (Shared) for David Goffin: bServing = serving:0
+4/8/2022 13:01:41: [G_Auto 1] :  Store Value (Shared) for market: price = 1.62
+4/8/2022 13:01:41: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 57.8
+4/8/2022 13:01:41: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 61.77
+4/8/2022 13:01:41: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.55
+4/8/2022 13:01:41: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 119.57
+4/8/2022 13:01:41: [G_Auto 1] :  Store Value (Shared) for market: pl = 3.88
+4/8/2022 13:01:41: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.58
+4/8/2022 13:01:41: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.64
+4/8/2022 13:01:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:01:48: [G_Auto 1] :  Store Text Value (Shared) for Roberto Carballes Baena: aPoints = point: 0; games: 5; sets: 0 
+4/8/2022 13:01:48: [G_Auto 1] :  Store Text Value (Shared) for Roberto Carballes Baena: aServing = serving:1
+4/8/2022 13:01:48: [G_Auto 1] :  Store Text Value (Shared) for David Goffin: bPoints = point: 0; games: 6; sets: 0 
+4/8/2022 13:01:48: [G_Auto 1] :  Store Text Value (Shared) for David Goffin: bServing = serving:0
+4/8/2022 13:01:48: [G_Auto 1] :  Store Value (Shared) for market: price = 1.62
+4/8/2022 13:01:48: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 57.8
+4/8/2022 13:01:48: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 61.77
+4/8/2022 13:01:48: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.55
+4/8/2022 13:01:48: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 119.57
+4/8/2022 13:01:48: [G_Auto 1] :  Store Value (Shared) for market: pl = 3.88
+4/8/2022 13:01:48: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.56
+4/8/2022 13:01:48: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.65
+4/8/2022 13:02:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:02:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:02:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:02:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:03:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:03:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:03:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:03:43: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 13:04:00: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 13:06:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:06:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:06:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:06:58: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 13:08:10: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 13:08:27: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 13:08:43: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 13:09:00: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 13:09:17: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 13:09:33: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 13:09:50: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 13:10:06: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 13:10:23: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 13:10:39: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 13:10:56: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 13:11:12: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 13:11:29: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 13:11:45: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 13:12:02: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 13:12:19: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 13:12:35: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 13:12:52: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 13:13:09: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 13:13:25: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 13:13:41: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 13:13:58: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 13:14:14: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 13:14:31: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 13:14:47: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 13:15:03: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 13:15:20: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 13:15:36: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 13:15:52: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 13:16:09: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 13:16:25: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 13:16:41: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 13:16:58: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 13:17:14: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 13:17:31: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 13:17:47: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 13:18:03: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 13:18:19: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 13:18:36: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 13:18:52: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 13:19:08: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 13:19:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:19:31: [G_Auto 1] :  Store Value (Shared) for market: aFirstSetPrice = 1.44
+4/8/2022 13:19:31: [G_Auto 1] :  Store Value (Shared) for market: bFirstSetPrice = 3.3
+4/8/2022 13:19:34: [G_Auto 2] :  € 17.78 Lay bet placed on Roberto Carballes Baena at 1.45. Fully matched at 1.44.  Ref: 11712          ( Fill or kill bet with 15 seconds delay.   )
+4/8/2022 13:19:34: [G_Auto 1] :  Store Text Value (Shared) for Roberto Carballes Baena: aPoints = point: 0; games: 0; sets: 1 
+4/8/2022 13:19:34: [G_Auto 1] :  Store Text Value (Shared) for Roberto Carballes Baena: aServing = serving:1
+4/8/2022 13:19:34: [G_Auto 1] :  Store Text Value (Shared) for David Goffin: bPoints = point: 0; games: 0; sets: 0 
+4/8/2022 13:19:34: [G_Auto 1] :  Store Text Value (Shared) for David Goffin: bServing = serving:0
+4/8/2022 13:19:34: [G_Auto 1] :  Store Value (Shared) for market: price = 1.44
+4/8/2022 13:19:34: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 57.8
+4/8/2022 13:19:34: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 79.55
+4/8/2022 13:19:34: [G_Auto 1] :  Store Value (Shared) for market: stake = 17.78
+4/8/2022 13:19:34: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 137.35
+4/8/2022 13:19:34: [G_Auto 1] :  Store Value (Shared) for market: pl = 3.76
+4/8/2022 13:19:34: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.43
+4/8/2022 13:19:34: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.3
+4/8/2022 13:19:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:19:41: [G_Auto 1] :  Store Text Value (Shared) for Roberto Carballes Baena: aPoints = point: 0; games: 0; sets: 1 
+4/8/2022 13:19:41: [G_Auto 1] :  Store Text Value (Shared) for Roberto Carballes Baena: aServing = serving:1
+4/8/2022 13:19:41: [G_Auto 1] :  Store Text Value (Shared) for David Goffin: bPoints = point: 0; games: 0; sets: 0 
+4/8/2022 13:19:41: [G_Auto 1] :  Store Text Value (Shared) for David Goffin: bServing = serving:0
+4/8/2022 13:19:41: [G_Auto 1] :  Store Value (Shared) for market: price = 1.44
+4/8/2022 13:19:41: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 57.8
+4/8/2022 13:19:41: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 79.55
+4/8/2022 13:19:41: [G_Auto 1] :  Store Value (Shared) for market: stake = 17.78
+4/8/2022 13:19:41: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 137.35
+4/8/2022 13:19:41: [G_Auto 1] :  Store Value (Shared) for market: pl = 3.88
+4/8/2022 13:19:41: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.45
+4/8/2022 13:19:41: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.3
+4/8/2022 13:19:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:20:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:20:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:20:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:21:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:21:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:21:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:21:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:22:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:22:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:22:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:22:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:23:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:23:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:23:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:24:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:24:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:24:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:24:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:25:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:25:22: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 13:25:38: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 13:25:54: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 13:26:11: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 13:29:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:29:47: [G_Auto 2] :  € 9.64 Lay bet placed on David Goffin at 1.83. Entirely unmatched when it initially reached the market.   Ref: 11714          ( Fill or kill bet with 15 seconds delay.   )
+4/8/2022 13:29:47: [G_Auto 2] :  Placed closure bet with greening on Roberto Carballes Baena by Backing 11.86 at 2.16
+4/8/2022 13:29:47: [G_Auto 1] :  Store Text Value (Shared) for Roberto Carballes Baena: aPoints = point: 0; games: 0; sets: 1 
+4/8/2022 13:29:47: [G_Auto 1] :  Store Text Value (Shared) for Roberto Carballes Baena: aServing = serving:0
+4/8/2022 13:29:47: [G_Auto 1] :  Store Text Value (Shared) for David Goffin: bPoints = point: 0; games: 1; sets: 0 
+4/8/2022 13:29:47: [G_Auto 1] :  Store Text Value (Shared) for David Goffin: bServing = serving:2
+4/8/2022 13:29:47: [G_Auto 1] :  Store Value (Shared) for market: price = 2.16
+4/8/2022 13:29:47: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 69.66
+4/8/2022 13:29:47: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 79.55
+4/8/2022 13:29:47: [G_Auto 1] :  Store Value (Shared) for market: stake = 11.86
+4/8/2022 13:29:47: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 149.21
+4/8/2022 13:29:47: [G_Auto 1] :  Store Value (Shared) for market: pl = 9.69
+4/8/2022 13:29:47: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.04
+4/8/2022 13:29:47: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.87
+4/8/2022 13:29:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:29:54: [G_Auto 1] :  Store Text Value (Shared) for Roberto Carballes Baena: aPoints = point: 0; games: 0; sets: 1 
+4/8/2022 13:29:54: [G_Auto 1] :  Store Text Value (Shared) for Roberto Carballes Baena: aServing = serving:0
+4/8/2022 13:29:54: [G_Auto 1] :  Store Text Value (Shared) for David Goffin: bPoints = point: 0; games: 1; sets: 0 
+4/8/2022 13:29:54: [G_Auto 1] :  Store Text Value (Shared) for David Goffin: bServing = serving:2
+4/8/2022 13:29:54: [G_Auto 1] :  Store Value (Shared) for market: price = 2.16
+4/8/2022 13:29:54: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 69.66
+4/8/2022 13:29:54: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 79.55
+4/8/2022 13:29:54: [G_Auto 1] :  Store Value (Shared) for market: stake = 11.86
+4/8/2022 13:29:54: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 149.21
+4/8/2022 13:29:54: [G_Auto 1] :  Store Value (Shared) for market: pl = 9.69
+4/8/2022 13:29:54: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.12
+4/8/2022 13:29:54: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.87
+4/8/2022 13:30:02: [G_Auto 2] :  € 9.64 unmatched bet (Ref:11714) was killed.
+4/8/2022 13:30:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:30:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:30:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:30:57: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 13:31:13: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 13:31:30: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 13:33:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:33:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:33:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:33:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:34:02: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 13:34:19: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 13:34:35: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 13:37:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:37:42: [G_Auto 2] :  € 10.26 Lay bet placed on David Goffin at 1.78. Fully matched at 1.78.  Ref: 11715          ( Fill or kill bet with 15 seconds delay.   )
+4/8/2022 13:37:42: [G_Auto 1] :  Store Text Value (Shared) for Roberto Carballes Baena: aPoints = point: 0; games: 1; sets: 1 
+4/8/2022 13:37:42: [G_Auto 1] :  Store Text Value (Shared) for Roberto Carballes Baena: aServing = serving:0
+4/8/2022 13:37:42: [G_Auto 1] :  Store Text Value (Shared) for David Goffin: bPoints = point: 0; games: 2; sets: 0 
+4/8/2022 13:37:42: [G_Auto 1] :  Store Text Value (Shared) for David Goffin: bServing = serving:2
+4/8/2022 13:37:42: [G_Auto 1] :  Store Value (Shared) for market: price = 1.78
+4/8/2022 13:37:42: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 69.66
+4/8/2022 13:37:42: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 89.81
+4/8/2022 13:37:42: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.26
+4/8/2022 13:37:42: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 159.47
+4/8/2022 13:37:42: [G_Auto 1] :  Store Value (Shared) for market: pl = 9.63
+4/8/2022 13:37:42: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.3
+4/8/2022 13:37:42: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.77
+4/8/2022 13:37:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:37:49: [G_Auto 1] :  Store Text Value (Shared) for Roberto Carballes Baena: aPoints = point: 0; games: 1; sets: 1 
+4/8/2022 13:37:49: [G_Auto 1] :  Store Text Value (Shared) for Roberto Carballes Baena: aServing = serving:0
+4/8/2022 13:37:49: [G_Auto 1] :  Store Text Value (Shared) for David Goffin: bPoints = point: 0; games: 2; sets: 0 
+4/8/2022 13:37:49: [G_Auto 1] :  Store Text Value (Shared) for David Goffin: bServing = serving:2
+4/8/2022 13:37:49: [G_Auto 1] :  Store Value (Shared) for market: price = 1.78
+4/8/2022 13:37:49: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 69.66
+4/8/2022 13:37:49: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 89.81
+4/8/2022 13:37:49: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.26
+4/8/2022 13:37:49: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 159.47
+4/8/2022 13:37:49: [G_Auto 1] :  Store Value (Shared) for market: pl = 9.57
+4/8/2022 13:37:49: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.3
+4/8/2022 13:37:49: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.76
+4/8/2022 13:38:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:38:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:38:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:38:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:39:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:39:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:39:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:39:51: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 13:40:08: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 13:40:24: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 13:42:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:42:43: [G_Auto 2] :  € 13.11 Lay bet placed on Roberto Carballes Baena at 1.61. Fully matched at 1.61.  Ref: 11716          ( Fill or kill bet with 15 seconds delay.   )
+4/8/2022 13:42:43: [G_Auto 2] :  Placed closure bet with greening on David Goffin by Backing 6.92 at 2.64
+4/8/2022 13:42:44: [G_Auto 1] :  Store Text Value (Shared) for Roberto Carballes Baena: aPoints = point: 0; games: 2; sets: 1 
+4/8/2022 13:42:44: [G_Auto 1] :  Store Text Value (Shared) for Roberto Carballes Baena: aServing = serving:1
+4/8/2022 13:42:44: [G_Auto 1] :  Store Text Value (Shared) for David Goffin: bPoints = point: 0; games: 2; sets: 0 
+4/8/2022 13:42:44: [G_Auto 1] :  Store Text Value (Shared) for David Goffin: bServing = serving:0
+4/8/2022 13:42:44: [G_Auto 1] :  Store Value (Shared) for market: price = 2.64
+4/8/2022 13:42:44: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 76.58
+4/8/2022 13:42:44: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 102.92
+4/8/2022 13:42:44: [G_Auto 1] :  Store Value (Shared) for market: stake = 6.92
+4/8/2022 13:42:44: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 179.5
+4/8/2022 13:42:44: [G_Auto 1] :  Store Value (Shared) for market: pl = 12.97
+4/8/2022 13:42:44: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.62
+4/8/2022 13:42:44: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.64
+4/8/2022 13:42:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:43:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:43:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:43:33: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 13:43:50: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 13:44:07: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 13:50:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:50:49: [G_Auto 2] :  Placed closure bet with greening on Roberto Carballes Baena by Backing 10.34 at 2.04
+4/8/2022 13:50:49: [G_Auto 2] :  € 8.42 Lay bet placed on David Goffin at 1.95. Entirely unmatched when it initially reached the market.   Ref: 11718          ( Fill or kill bet with 15 seconds delay.   )
+4/8/2022 13:50:49: [G_Auto 1] :  Store Text Value (Shared) for Roberto Carballes Baena: aPoints = point: 0; games: 2; sets: 1 
+4/8/2022 13:50:49: [G_Auto 1] :  Store Text Value (Shared) for Roberto Carballes Baena: aServing = serving:0
+4/8/2022 13:50:49: [G_Auto 1] :  Store Text Value (Shared) for David Goffin: bPoints = point: 0; games: 3; sets: 0 
+4/8/2022 13:50:49: [G_Auto 1] :  Store Text Value (Shared) for David Goffin: bServing = serving:2
+4/8/2022 13:50:49: [G_Auto 1] :  Store Value (Shared) for market: price = 2.04
+4/8/2022 13:50:49: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 86.92
+4/8/2022 13:50:49: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 102.92
+4/8/2022 13:50:49: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.34
+4/8/2022 13:50:49: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 189.84
+4/8/2022 13:50:49: [G_Auto 1] :  Store Value (Shared) for market: pl = 15.67
+4/8/2022 13:50:49: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.04
+4/8/2022 13:50:49: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.96
+4/8/2022 13:50:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:50:53: [G_Auto 2] :  € 8.42 of unmatched bet (Ref:11718) was filled before remainder was killed.
+4/8/2022 13:51:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:51:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:51:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:51:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:52:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:52:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:52:42: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 13:52:59: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 13:56:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:56:14: [G_Auto 2] :  Placed closure bet with greening on David Goffin by Backing 9.55 at 1.72
+4/8/2022 13:56:14: [G_Auto 1] :  Store Text Value (Shared) for Roberto Carballes Baena: aPoints = point: 0; games: 2; sets: 1 
+4/8/2022 13:56:14: [G_Auto 1] :  Store Text Value (Shared) for Roberto Carballes Baena: aServing = serving:1
+4/8/2022 13:56:14: [G_Auto 1] :  Store Text Value (Shared) for David Goffin: bPoints = point: 0; games: 4; sets: 0 
+4/8/2022 13:56:14: [G_Auto 1] :  Store Text Value (Shared) for David Goffin: bServing = serving:0
+4/8/2022 13:56:14: [G_Auto 1] :  Store Value (Shared) for market: price = 1.72
+4/8/2022 13:56:14: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 96.47
+4/8/2022 13:56:14: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 111.34
+4/8/2022 13:56:14: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.55
+4/8/2022 13:56:14: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 207.81
+4/8/2022 13:56:14: [G_Auto 1] :  Store Value (Shared) for market: pl = 14.56
+4/8/2022 13:56:14: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.34
+4/8/2022 13:56:14: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.75
+4/8/2022 13:56:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:56:21: [G_Auto 1] :  Store Text Value (Shared) for Roberto Carballes Baena: aPoints = point: 0; games: 2; sets: 1 
+4/8/2022 13:56:21: [G_Auto 1] :  Store Text Value (Shared) for Roberto Carballes Baena: aServing = serving:1
+4/8/2022 13:56:21: [G_Auto 1] :  Store Text Value (Shared) for David Goffin: bPoints = point: 0; games: 4; sets: 0 
+4/8/2022 13:56:21: [G_Auto 1] :  Store Text Value (Shared) for David Goffin: bServing = serving:0
+4/8/2022 13:56:21: [G_Auto 1] :  Store Value (Shared) for market: price = 1.72
+4/8/2022 13:56:21: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 96.47
+4/8/2022 13:56:21: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 111.34
+4/8/2022 13:56:21: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.55
+4/8/2022 13:56:21: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 207.81
+4/8/2022 13:56:21: [G_Auto 1] :  Store Value (Shared) for market: pl = 14.56
+4/8/2022 13:56:21: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.3
+4/8/2022 13:56:21: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.76
+4/8/2022 13:56:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:56:47: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 13:57:04: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 13:57:20: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 13:58:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:58:56: [G_Auto 2] :  € 8.70 Lay bet placed on David Goffin at 1.92. Fully matched at 1.91.  Ref: 11721          ( Fill or kill bet with 15 seconds delay.   )
+4/8/2022 13:58:56: [G_Auto 1] :  Store Text Value (Shared) for Roberto Carballes Baena: aPoints = point: 0; games: 3; sets: 1 
+4/8/2022 13:58:56: [G_Auto 1] :  Store Text Value (Shared) for Roberto Carballes Baena: aServing = serving:0
+4/8/2022 13:58:56: [G_Auto 1] :  Store Text Value (Shared) for David Goffin: bPoints = point: 0; games: 4; sets: 0 
+4/8/2022 13:58:56: [G_Auto 1] :  Store Text Value (Shared) for David Goffin: bServing = serving:2
+4/8/2022 13:58:56: [G_Auto 1] :  Store Value (Shared) for market: price = 1.91
+4/8/2022 13:58:56: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 96.47
+4/8/2022 13:58:56: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 120.04
+4/8/2022 13:58:56: [G_Auto 1] :  Store Value (Shared) for market: stake = 8.7
+4/8/2022 13:58:56: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 216.51
+4/8/2022 13:58:56: [G_Auto 1] :  Store Value (Shared) for market: pl = 14.34
+4/8/2022 13:58:56: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.12
+4/8/2022 13:58:56: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.89
+4/8/2022 13:58:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:59:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:59:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 13:59:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 14:00:06: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 14:00:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 14:00:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 14:00:42: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 14:00:59: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 14:01:15: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 14:01:32: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 14:01:49: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 14:02:05: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 14:05:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 14:05:50: [G_Auto 2] :  Placed closure bet with greening on David Goffin by Backing 9.66 at 1.72
+4/8/2022 14:05:50: [G_Auto 1] :  Store Text Value (Shared) for Roberto Carballes Baena: aPoints = point: 0; games: 3; sets: 1 
+4/8/2022 14:05:50: [G_Auto 1] :  Store Text Value (Shared) for Roberto Carballes Baena: aServing = serving:1
+4/8/2022 14:05:50: [G_Auto 1] :  Store Text Value (Shared) for David Goffin: bPoints = point: 0; games: 5; sets: 0 
+4/8/2022 14:05:50: [G_Auto 1] :  Store Text Value (Shared) for David Goffin: bServing = serving:0
+4/8/2022 14:05:50: [G_Auto 1] :  Store Value (Shared) for market: price = 1.72
+4/8/2022 14:05:50: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 106.13
+4/8/2022 14:05:50: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 120.04
+4/8/2022 14:05:50: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.66
+4/8/2022 14:05:50: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 226.17
+4/8/2022 14:05:50: [G_Auto 1] :  Store Value (Shared) for market: pl = 13.62
+4/8/2022 14:05:50: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.38
+4/8/2022 14:05:50: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.71
+4/8/2022 14:05:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 14:05:56: [G_Auto 1] :  Store Text Value (Shared) for Roberto Carballes Baena: aPoints = point: 0; games: 3; sets: 1 
+4/8/2022 14:05:56: [G_Auto 1] :  Store Text Value (Shared) for Roberto Carballes Baena: aServing = serving:1
+4/8/2022 14:05:56: [G_Auto 1] :  Store Text Value (Shared) for David Goffin: bPoints = point: 0; games: 5; sets: 0 
+4/8/2022 14:05:56: [G_Auto 1] :  Store Text Value (Shared) for David Goffin: bServing = serving:0
+4/8/2022 14:05:56: [G_Auto 1] :  Store Value (Shared) for market: price = 1.72
+4/8/2022 14:05:56: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 106.13
+4/8/2022 14:05:56: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 120.04
+4/8/2022 14:05:56: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.66
+4/8/2022 14:05:56: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 226.17
+4/8/2022 14:05:56: [G_Auto 1] :  Store Value (Shared) for market: pl = 13.62
+4/8/2022 14:05:56: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.36
+4/8/2022 14:05:56: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.73
+4/8/2022 14:06:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 14:06:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 14:06:36: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 14:06:52: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 14:07:09: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 14:11:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 14:11:48: [G_Auto 2] :  € 9.30 Lay bet placed on David Goffin at 1.86. Fully matched at 1.86.  Ref: 11723          ( Fill or kill bet with 15 seconds delay.   )
+4/8/2022 14:11:48: [G_Auto 1] :  Store Text Value (Shared) for Roberto Carballes Baena: aPoints = point: 0; games: 4; sets: 1 
+4/8/2022 14:11:48: [G_Auto 1] :  Store Text Value (Shared) for Roberto Carballes Baena: aServing = serving:0
+4/8/2022 14:11:48: [G_Auto 1] :  Store Text Value (Shared) for David Goffin: bPoints = point: 0; games: 5; sets: 0 
+4/8/2022 14:11:48: [G_Auto 1] :  Store Text Value (Shared) for David Goffin: bServing = serving:2
+4/8/2022 14:11:48: [G_Auto 1] :  Store Value (Shared) for market: price = 1.86
+4/8/2022 14:11:48: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 106.13
+4/8/2022 14:11:48: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 129.34
+4/8/2022 14:11:48: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.3
+4/8/2022 14:11:48: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 235.47
+4/8/2022 14:11:48: [G_Auto 1] :  Store Value (Shared) for market: pl = 13.43
+4/8/2022 14:11:48: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.2
+4/8/2022 14:11:48: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.84
+4/8/2022 14:11:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 14:12:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 14:12:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 14:12:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 14:12:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 14:13:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 14:13:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 14:13:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 14:13:54: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 14:14:11: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 14:14:27: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 14:14:44: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 14:16:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 14:17:06: [G_Auto 1] :  Store Value (Shared) for market: aSecondSetPrice = 2.56
+4/8/2022 14:17:06: [G_Auto 1] :  Store Value (Shared) for market: bSecondSetPrice = 1.64
+4/8/2022 14:17:09: [G_Auto 2] :  Placed closure bet with greening on David Goffin by Backing 10.61 at 1.63
+4/8/2022 14:17:09: [G_Auto 1] :  Store Text Value (Shared) for Roberto Carballes Baena: aPoints = point: 0; games: 0; sets: 1 
+4/8/2022 14:17:09: [G_Auto 1] :  Store Text Value (Shared) for Roberto Carballes Baena: aServing = serving:1
+4/8/2022 14:17:09: [G_Auto 1] :  Store Text Value (Shared) for David Goffin: bPoints = point: 0; games: 0; sets: 1 
+4/8/2022 14:17:09: [G_Auto 1] :  Store Text Value (Shared) for David Goffin: bServing = serving:0
+4/8/2022 14:17:09: [G_Auto 1] :  Store Value (Shared) for market: price = 1.63
+4/8/2022 14:17:09: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 116.74
+4/8/2022 14:17:09: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 129.34
+4/8/2022 14:17:09: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.61
+4/8/2022 14:17:09: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 246.08
+4/8/2022 14:17:09: [G_Auto 1] :  Store Value (Shared) for market: pl = 12.34
+4/8/2022 14:17:09: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.54
+4/8/2022 14:17:09: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.65
+4/8/2022 14:17:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 14:17:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 14:17:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 14:18:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 14:18:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 14:18:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 14:18:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 14:19:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 14:19:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 14:19:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 14:19:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 14:20:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 14:20:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 14:20:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 14:21:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 14:21:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 14:21:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 14:21:50: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 14:22:06: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 14:22:23: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 14:22:39: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 14:25:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 14:25:29: [G_Auto 2] :  € 29.63 Lay bet placed on David Goffin at 1.27. Fully matched at 1.26.  Ref: 11725          ( Fill or kill bet with 15 seconds delay.   )
+4/8/2022 14:25:29: [G_Auto 1] :  Store Text Value (Shared) for Roberto Carballes Baena: aPoints = point: 0; games: 0; sets: 1 
+4/8/2022 14:25:29: [G_Auto 1] :  Store Text Value (Shared) for Roberto Carballes Baena: aServing = serving:0
+4/8/2022 14:25:29: [G_Auto 1] :  Store Text Value (Shared) for David Goffin: bPoints = point: 0; games: 1; sets: 1 
+4/8/2022 14:25:29: [G_Auto 1] :  Store Text Value (Shared) for David Goffin: bServing = serving:2
+4/8/2022 14:25:29: [G_Auto 1] :  Store Value (Shared) for market: price = 1.26
+4/8/2022 14:25:29: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 116.74
+4/8/2022 14:25:29: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 158.97
+4/8/2022 14:25:29: [G_Auto 1] :  Store Value (Shared) for market: stake = 29.63
+4/8/2022 14:25:29: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 275.71
+4/8/2022 14:25:29: [G_Auto 1] :  Store Value (Shared) for market: pl = 12.1
+4/8/2022 14:25:29: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 4.9
+4/8/2022 14:25:29: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.26
+4/8/2022 14:25:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 14:25:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 14:26:06: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 14:26:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 14:26:36: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 14:26:53: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 14:28:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 14:29:09: [G_Auto 2] :  Placed closure bet with greening on David Goffin by Backing 31.64 at 1.18
+4/8/2022 14:29:09: [G_Auto 1] :  Store Text Value (Shared) for Roberto Carballes Baena: aPoints = point: 0; games: 0; sets: 1 
+4/8/2022 14:29:09: [G_Auto 1] :  Store Text Value (Shared) for Roberto Carballes Baena: aServing = serving:1
+4/8/2022 14:29:09: [G_Auto 1] :  Store Text Value (Shared) for David Goffin: bPoints = point: 0; games: 2; sets: 1 
+4/8/2022 14:29:09: [G_Auto 1] :  Store Text Value (Shared) for David Goffin: bServing = serving:0
+4/8/2022 14:29:09: [G_Auto 1] :  Store Value (Shared) for market: price = 1.18
+4/8/2022 14:29:09: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 148.38
+4/8/2022 14:29:09: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 158.97
+4/8/2022 14:29:09: [G_Auto 1] :  Store Value (Shared) for market: stake = 31.64
+4/8/2022 14:29:09: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 307.35
+4/8/2022 14:29:09: [G_Auto 1] :  Store Value (Shared) for market: pl = 10.37
+4/8/2022 14:29:09: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 6.2
+4/8/2022 14:29:09: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.2
+4/8/2022 14:29:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 14:29:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 14:29:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 14:30:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 14:30:06: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 14:30:22: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 14:30:39: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 14:32:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 14:33:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 14:33:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 14:33:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 14:34:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 14:34:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 14:34:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 14:34:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 14:35:00: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 14:35:17: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 14:35:33: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 14:37:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 14:37:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 14:37:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 14:38:04: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 14:38:20: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 14:40:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 14:40:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 14:41:06: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 14:41:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 14:41:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 14:41:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 14:42:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 14:42:29: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 14:42:45: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 14:44:38:  Guardian has detected that the market is suspended

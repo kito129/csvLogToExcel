@@ -1,0 +1,550 @@
+4/8/2022 09:18:25: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: info = marketName: Opelka v Brouwer - Match Odds; runnerA: Reilly Opelka; runnerB: Gijs Brouwer 
+4/8/2022 09:18:25: [G_Auto 1] :  Store Value (Shared) for market: aId = 8859316
+4/8/2022 09:18:25: [G_Auto 1] :  Store Value (Shared) for market: bId = 9629296
+4/8/2022 18:07:56:  Guardian has detected that the market is in-play
+4/8/2022 18:07:56:  Guardian has detected that the market is suspended
+4/8/2022 18:07:59: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.29; bBsp: 4.5; volume: 25762.18 
+4/8/2022 18:07:59: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.29; bBsp: 4.5; volume: 25762.18 
+4/8/2022 18:07:59:  Guardian has detected that the market is now unsuspended
+4/8/2022 18:08:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:08:16: [G_Auto 2] :  € 27.59 Lay bet placed on Reilly Opelka at 1.29. Fully matched at 1.29.  Ref: 11780          ( Fill or kill bet with 15 seconds delay.   )
+4/8/2022 18:08:19: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 0; sets: 0 
+4/8/2022 18:08:19: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:1
+4/8/2022 18:08:19: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: bPoints = point: 0; games: 0; sets: 0 
+4/8/2022 18:08:19: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: bServing = serving:0
+4/8/2022 18:08:19: [G_Auto 1] :  Store Value (Shared) for market: price = 1.29
+4/8/2022 18:08:19: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 0
+4/8/2022 18:08:19: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 27.59
+4/8/2022 18:08:19: [G_Auto 1] :  Store Value (Shared) for market: stake = 27.59
+4/8/2022 18:08:19: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 27.59
+4/8/2022 18:08:19: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.43
+4/8/2022 18:08:19: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.27
+4/8/2022 18:08:19: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.5
+4/8/2022 18:08:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:08:25: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 0; sets: 0 
+4/8/2022 18:08:25: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:1
+4/8/2022 18:08:25: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: bPoints = point: 0; games: 0; sets: 0 
+4/8/2022 18:08:25: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: bServing = serving:0
+4/8/2022 18:08:25: [G_Auto 1] :  Store Value (Shared) for market: price = 1.29
+4/8/2022 18:08:25: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 0
+4/8/2022 18:08:25: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 27.59
+4/8/2022 18:08:25: [G_Auto 1] :  Store Value (Shared) for market: stake = 27.59
+4/8/2022 18:08:25: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 27.59
+4/8/2022 18:08:25: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.22
+4/8/2022 18:08:25: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.28
+4/8/2022 18:08:25: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.6
+4/8/2022 18:08:33: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 18:08:51: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 18:09:08: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 18:11:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:11:28: [G_Auto 2] :  Placed closure bet with greening on Reilly Opelka by Backing 27.59 at 1.29
+4/8/2022 18:11:31: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 1; sets: 0 
+4/8/2022 18:11:31: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:0
+4/8/2022 18:11:31: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: bPoints = point: 0; games: 0; sets: 0 
+4/8/2022 18:11:31: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: bServing = serving:2
+4/8/2022 18:11:31: [G_Auto 1] :  Store Value (Shared) for market: price = 1.3
+4/8/2022 18:11:31: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 27.59
+4/8/2022 18:11:31: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 27.59
+4/8/2022 18:11:31: [G_Auto 1] :  Store Value (Shared) for market: stake = 27.59
+4/8/2022 18:11:31: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 55.18
+4/8/2022 18:11:31: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.21
+4/8/2022 18:11:31: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.29
+4/8/2022 18:11:31: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.4
+4/8/2022 18:11:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:11:37: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 1; sets: 0 
+4/8/2022 18:11:37: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:0
+4/8/2022 18:11:37: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: bPoints = point: 0; games: 0; sets: 0 
+4/8/2022 18:11:37: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: bServing = serving:2
+4/8/2022 18:11:37: [G_Auto 1] :  Store Value (Shared) for market: price = 1.3
+4/8/2022 18:11:37: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 27.59
+4/8/2022 18:11:37: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 27.59
+4/8/2022 18:11:37: [G_Auto 1] :  Store Value (Shared) for market: stake = 27.59
+4/8/2022 18:11:37: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 55.18
+4/8/2022 18:11:37: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.21
+4/8/2022 18:11:37: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.31
+4/8/2022 18:11:37: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.4
+4/8/2022 18:11:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:12:06: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:12:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:12:32: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 18:12:49: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 18:15:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:15:24: [G_Auto 2] :  € 23.53 Lay bet placed on Reilly Opelka at 1.34. Fully matched at 1.33.  Ref: 11787          ( Fill or kill bet with 15 seconds delay.   )
+4/8/2022 18:15:26: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 1; sets: 0 
+4/8/2022 18:15:26: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:1
+4/8/2022 18:15:26: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: bPoints = point: 0; games: 1; sets: 0 
+4/8/2022 18:15:26: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: bServing = serving:0
+4/8/2022 18:15:26: [G_Auto 1] :  Store Value (Shared) for market: price = 1.33
+4/8/2022 18:15:26: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 27.59
+4/8/2022 18:15:26: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 51.12
+4/8/2022 18:15:26: [G_Auto 1] :  Store Value (Shared) for market: stake = 23.53
+4/8/2022 18:15:26: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 78.71
+4/8/2022 18:15:26: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.03
+4/8/2022 18:15:26: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.33
+4/8/2022 18:15:26: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.2
+4/8/2022 18:15:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:15:32: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 1; sets: 0 
+4/8/2022 18:15:32: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:1
+4/8/2022 18:15:32: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: bPoints = point: 0; games: 1; sets: 0 
+4/8/2022 18:15:32: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: bServing = serving:0
+4/8/2022 18:15:32: [G_Auto 1] :  Store Value (Shared) for market: price = 1.33
+4/8/2022 18:15:32: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 27.59
+4/8/2022 18:15:32: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 51.12
+4/8/2022 18:15:32: [G_Auto 1] :  Store Value (Shared) for market: stake = 23.53
+4/8/2022 18:15:32: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 78.71
+4/8/2022 18:15:32: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.03
+4/8/2022 18:15:32: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.33
+4/8/2022 18:15:32: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.2
+4/8/2022 18:15:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:15:58: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 18:16:16: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 18:17:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:17:46: [G_Auto 2] :  Placed closure bet with greening on Reilly Opelka by Backing 24.42 at 1.27
+4/8/2022 18:17:48: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 2; sets: 0 
+4/8/2022 18:17:48: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:0
+4/8/2022 18:17:48: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: bPoints = point: 0; games: 1; sets: 0 
+4/8/2022 18:17:48: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: bServing = serving:2
+4/8/2022 18:17:48: [G_Auto 1] :  Store Value (Shared) for market: price = 1.27
+4/8/2022 18:17:48: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 52.01
+4/8/2022 18:17:48: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 51.12
+4/8/2022 18:17:48: [G_Auto 1] :  Store Value (Shared) for market: stake = 24.42
+4/8/2022 18:17:48: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 103.13
+4/8/2022 18:17:48: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.9
+4/8/2022 18:17:48: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.27
+4/8/2022 18:17:48: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.8
+4/8/2022 18:17:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:18:06: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:18:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:18:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:18:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:19:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:19:24: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 18:19:41: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 18:19:57: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 18:21:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:22:01: [G_Auto 2] :  € 66.67 Lay bet placed on Reilly Opelka at 1.12. Fully matched at 1.11.  Ref: 11794          ( Fill or kill bet with 15 seconds delay.   )
+4/8/2022 18:22:04: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 3; sets: 0 
+4/8/2022 18:22:04: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:1
+4/8/2022 18:22:04: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: bPoints = point: 0; games: 1; sets: 0 
+4/8/2022 18:22:04: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: bServing = serving:0
+4/8/2022 18:22:04: [G_Auto 1] :  Store Value (Shared) for market: price = 1.11
+4/8/2022 18:22:04: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 52.01
+4/8/2022 18:22:04: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 117.79
+4/8/2022 18:22:04: [G_Auto 1] :  Store Value (Shared) for market: stake = 66.67
+4/8/2022 18:22:04: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 169.8
+4/8/2022 18:22:04: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.5
+4/8/2022 18:22:04: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.11
+4/8/2022 18:22:04: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 10
+4/8/2022 18:22:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:22:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:22:33: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 18:22:49: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 18:24:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:25:09: [G_Auto 2] :  Placed closure bet with greening on Reilly Opelka by Backing 67.28 at 1.1
+4/8/2022 18:25:12: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 4; sets: 0 
+4/8/2022 18:25:12: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:0
+4/8/2022 18:25:12: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: bPoints = point: 0; games: 1; sets: 0 
+4/8/2022 18:25:12: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: bServing = serving:2
+4/8/2022 18:25:12: [G_Auto 1] :  Store Value (Shared) for market: price = 1.1
+4/8/2022 18:25:12: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 119.29
+4/8/2022 18:25:12: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 117.79
+4/8/2022 18:25:12: [G_Auto 1] :  Store Value (Shared) for market: stake = 67.28
+4/8/2022 18:25:12: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 237.08
+4/8/2022 18:25:12: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.5
+4/8/2022 18:25:12: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.11
+4/8/2022 18:25:12: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 10
+4/8/2022 18:25:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:25:18: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 4; sets: 0 
+4/8/2022 18:25:18: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:0
+4/8/2022 18:25:18: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: bPoints = point: 0; games: 1; sets: 0 
+4/8/2022 18:25:18: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: bServing = serving:2
+4/8/2022 18:25:18: [G_Auto 1] :  Store Value (Shared) for market: price = 1.1
+4/8/2022 18:25:18: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 119.29
+4/8/2022 18:25:18: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 117.79
+4/8/2022 18:25:18: [G_Auto 1] :  Store Value (Shared) for market: stake = 67.28
+4/8/2022 18:25:18: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 237.08
+4/8/2022 18:25:18: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.5
+4/8/2022 18:25:18: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.11
+4/8/2022 18:25:18: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 10
+4/8/2022 18:25:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:25:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:26:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:26:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:26:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:26:50: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 18:27:06: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 18:27:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:27:57: [G_Auto 2] :  € 61.54 Lay bet placed on Reilly Opelka at 1.13. Fully matched at 1.12.  Ref: 11799          ( Fill or kill bet with 15 seconds delay.   )
+4/8/2022 18:28:00: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 4; sets: 0 
+4/8/2022 18:28:00: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:1
+4/8/2022 18:28:00: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: bPoints = point: 0; games: 2; sets: 0 
+4/8/2022 18:28:00: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: bServing = serving:0
+4/8/2022 18:28:00: [G_Auto 1] :  Store Value (Shared) for market: price = 1.12
+4/8/2022 18:28:00: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 119.29
+4/8/2022 18:28:00: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 179.33
+4/8/2022 18:28:00: [G_Auto 1] :  Store Value (Shared) for market: stake = 61.54
+4/8/2022 18:28:00: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 298.62
+4/8/2022 18:28:00: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.06
+4/8/2022 18:28:00: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.12
+4/8/2022 18:28:00: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 10
+4/8/2022 18:28:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:28:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:28:19: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 18:28:35: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 18:30:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:30:17: [G_Auto 2] :  Placed closure bet with greening on Reilly Opelka by Backing 63.23 at 1.09
+4/8/2022 18:30:20: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 5; sets: 0 
+4/8/2022 18:30:20: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:0
+4/8/2022 18:30:20: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: bPoints = point: 0; games: 2; sets: 0 
+4/8/2022 18:30:20: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: bServing = serving:2
+4/8/2022 18:30:20: [G_Auto 1] :  Store Value (Shared) for market: price = 1.1
+4/8/2022 18:30:20: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 182.52
+4/8/2022 18:30:20: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 179.33
+4/8/2022 18:30:20: [G_Auto 1] :  Store Value (Shared) for market: stake = 63.23
+4/8/2022 18:30:20: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 361.85
+4/8/2022 18:30:20: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.63
+4/8/2022 18:30:20: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.1
+4/8/2022 18:30:20: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 10.5
+4/8/2022 18:30:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:30:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:30:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:31:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:31:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:31:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:31:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:32:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:32:21: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 18:32:37: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 18:32:53: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 18:34:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:34:44: [G_Auto 2] :  € 66.67 Lay bet placed on Reilly Opelka at 1.12. Fully matched at 1.11.  Ref: 11803          ( Fill or kill bet with 15 seconds delay.   )
+4/8/2022 18:34:46: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 5; sets: 0 
+4/8/2022 18:34:46: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:1
+4/8/2022 18:34:46: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: bPoints = point: 0; games: 3; sets: 0 
+4/8/2022 18:34:46: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: bServing = serving:0
+4/8/2022 18:34:46: [G_Auto 1] :  Store Value (Shared) for market: price = 1.11
+4/8/2022 18:34:46: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 182.52
+4/8/2022 18:34:46: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 246
+4/8/2022 18:34:46: [G_Auto 1] :  Store Value (Shared) for market: stake = 66.67
+4/8/2022 18:34:46: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 428.52
+4/8/2022 18:34:46: [G_Auto 1] :  Store Value (Shared) for market: pl = -3.23
+4/8/2022 18:34:46: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.1
+4/8/2022 18:34:46: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 10
+4/8/2022 18:34:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:34:52: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 5; sets: 0 
+4/8/2022 18:34:52: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:1
+4/8/2022 18:34:52: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: bPoints = point: 0; games: 3; sets: 0 
+4/8/2022 18:34:52: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: bServing = serving:0
+4/8/2022 18:34:52: [G_Auto 1] :  Store Value (Shared) for market: price = 1.11
+4/8/2022 18:34:52: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 182.52
+4/8/2022 18:34:52: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 246
+4/8/2022 18:34:52: [G_Auto 1] :  Store Value (Shared) for market: stake = 66.67
+4/8/2022 18:34:52: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 428.52
+4/8/2022 18:34:52: [G_Auto 1] :  Store Value (Shared) for market: pl = -3.23
+4/8/2022 18:34:52: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.1
+4/8/2022 18:34:52: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 10
+4/8/2022 18:35:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:35:08: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 18:35:24: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 18:37:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:37:30: [G_Auto 1] :  Store Value (Shared) for market: aFirstSetPrice = 1.09
+4/8/2022 18:37:30: [G_Auto 1] :  Store Value (Shared) for market: bFirstSetPrice = 9.2
+4/8/2022 18:37:36: [G_Auto 2] :  Placed closure bet with greening on Reilly Opelka by Backing 67.32 at 1.09
+4/8/2022 18:37:38: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 0; sets: 1 
+4/8/2022 18:37:38: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:0
+4/8/2022 18:37:38: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: bPoints = point: 0; games: 0; sets: 0 
+4/8/2022 18:37:38: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: bServing = serving:2
+4/8/2022 18:37:38: [G_Auto 1] :  Store Value (Shared) for market: price = 1.09
+4/8/2022 18:37:38: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 249.84
+4/8/2022 18:37:38: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 246
+4/8/2022 18:37:38: [G_Auto 1] :  Store Value (Shared) for market: stake = 67.32
+4/8/2022 18:37:38: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 495.84
+4/8/2022 18:37:38: [G_Auto 1] :  Store Value (Shared) for market: pl = -3.84
+4/8/2022 18:37:38: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.1
+4/8/2022 18:37:38: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 11
+4/8/2022 18:37:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:37:44: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 0; sets: 1 
+4/8/2022 18:37:44: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:0
+4/8/2022 18:37:44: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: bPoints = point: 0; games: 0; sets: 0 
+4/8/2022 18:37:44: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: bServing = serving:2
+4/8/2022 18:37:44: [G_Auto 1] :  Store Value (Shared) for market: price = 1.09
+4/8/2022 18:37:44: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 249.84
+4/8/2022 18:37:44: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 246
+4/8/2022 18:37:44: [G_Auto 1] :  Store Value (Shared) for market: stake = 67.32
+4/8/2022 18:37:44: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 495.84
+4/8/2022 18:37:44: [G_Auto 1] :  Store Value (Shared) for market: pl = -3.84
+4/8/2022 18:37:44: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.1
+4/8/2022 18:37:44: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 11
+4/8/2022 18:37:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:38:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:38:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:38:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:38:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:39:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:39:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:39:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:39:51: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 18:40:07: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 18:41:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:41:51: [G_Auto 2] :  € 57.14 Lay bet placed on Reilly Opelka at 1.14. Fully matched at 1.13.  Ref: 11807          ( Fill or kill bet with 15 seconds delay.   )
+4/8/2022 18:41:53: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 0; sets: 1 
+4/8/2022 18:41:53: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:1
+4/8/2022 18:41:53: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: bPoints = point: 0; games: 1; sets: 0 
+4/8/2022 18:41:53: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: bServing = serving:0
+4/8/2022 18:41:53: [G_Auto 1] :  Store Value (Shared) for market: price = 1.13
+4/8/2022 18:41:53: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 249.84
+4/8/2022 18:41:53: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 303.14
+4/8/2022 18:41:53: [G_Auto 1] :  Store Value (Shared) for market: stake = 57.14
+4/8/2022 18:41:53: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 552.98
+4/8/2022 18:41:53: [G_Auto 1] :  Store Value (Shared) for market: pl = -4.35
+4/8/2022 18:41:53: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.13
+4/8/2022 18:41:53: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 9.4
+4/8/2022 18:41:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:42:00: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 0; sets: 1 
+4/8/2022 18:42:00: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:1
+4/8/2022 18:42:00: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: bPoints = point: 0; games: 1; sets: 0 
+4/8/2022 18:42:00: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: bServing = serving:0
+4/8/2022 18:42:00: [G_Auto 1] :  Store Value (Shared) for market: price = 1.13
+4/8/2022 18:42:00: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 249.84
+4/8/2022 18:42:00: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 303.14
+4/8/2022 18:42:00: [G_Auto 1] :  Store Value (Shared) for market: stake = 57.14
+4/8/2022 18:42:00: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 552.98
+4/8/2022 18:42:00: [G_Auto 1] :  Store Value (Shared) for market: pl = -4.35
+4/8/2022 18:42:00: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.12
+4/8/2022 18:42:00: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 9.4
+4/8/2022 18:42:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:42:28: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 18:42:43: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 18:44:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:44:38: [G_Auto 2] :  Placed closure bet with greening on Reilly Opelka by Backing 58.70 at 1.1
+4/8/2022 18:44:40: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 1; sets: 1 
+4/8/2022 18:44:40: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:0
+4/8/2022 18:44:40: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: bPoints = point: 0; games: 1; sets: 0 
+4/8/2022 18:44:40: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: bServing = serving:2
+4/8/2022 18:44:40: [G_Auto 1] :  Store Value (Shared) for market: price = 1.1
+4/8/2022 18:44:40: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 308.54
+4/8/2022 18:44:40: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 303.14
+4/8/2022 18:44:40: [G_Auto 1] :  Store Value (Shared) for market: stake = 58.7
+4/8/2022 18:44:40: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 611.68
+4/8/2022 18:44:40: [G_Auto 1] :  Store Value (Shared) for market: pl = -5.4
+4/8/2022 18:44:40: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.11
+4/8/2022 18:44:40: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 10
+4/8/2022 18:44:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:45:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:45:05: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 18:45:22: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 18:47:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:48:05: [G_Auto 2] :  € 57.14 Lay bet placed on Reilly Opelka at 1.14. Fully matched at 1.13.  Ref: 11812          ( Fill or kill bet with 15 seconds delay.   )
+4/8/2022 18:48:07: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 1; sets: 1 
+4/8/2022 18:48:07: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:1
+4/8/2022 18:48:07: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: bPoints = point: 0; games: 2; sets: 0 
+4/8/2022 18:48:07: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: bServing = serving:0
+4/8/2022 18:48:07: [G_Auto 1] :  Store Value (Shared) for market: price = 1.13
+4/8/2022 18:48:07: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 308.54
+4/8/2022 18:48:07: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 360.28
+4/8/2022 18:48:07: [G_Auto 1] :  Store Value (Shared) for market: stake = 57.14
+4/8/2022 18:48:07: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 668.82
+4/8/2022 18:48:07: [G_Auto 1] :  Store Value (Shared) for market: pl = -5.91
+4/8/2022 18:48:07: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.12
+4/8/2022 18:48:07: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 9.4
+4/8/2022 18:48:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:48:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:48:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:49:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:49:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:49:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:49:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:50:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:50:12: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 18:50:30: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 18:53:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:53:15: [G_Auto 2] :  Placed closure bet with greening on Reilly Opelka by Backing 46.79 at 1.38
+4/8/2022 18:53:17: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 1; sets: 1 
+4/8/2022 18:53:17: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:0
+4/8/2022 18:53:17: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: bPoints = point: 0; games: 3; sets: 0 
+4/8/2022 18:53:17: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: bServing = serving:2
+4/8/2022 18:53:17: [G_Auto 1] :  Store Value (Shared) for market: price = 1.38
+4/8/2022 18:53:17: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 355.33
+4/8/2022 18:53:17: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 360.28
+4/8/2022 18:53:17: [G_Auto 1] :  Store Value (Shared) for market: stake = 46.79
+4/8/2022 18:53:17: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 715.61
+4/8/2022 18:53:17: [G_Auto 1] :  Store Value (Shared) for market: pl = 4.86
+4/8/2022 18:53:17: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.38
+4/8/2022 18:53:17: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.55
+4/8/2022 18:53:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:53:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:53:52: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 18:54:07: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 18:57:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:57:44: [G_Auto 2] :  € 53.33 Lay bet placed on Reilly Opelka at 1.15. Fully matched at 1.14.  Ref: 11816          ( Fill or kill bet with 15 seconds delay.   )
+4/8/2022 18:57:46: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 2; sets: 1 
+4/8/2022 18:57:46: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:1
+4/8/2022 18:57:46: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: bPoints = point: 0; games: 3; sets: 0 
+4/8/2022 18:57:46: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: bServing = serving:0
+4/8/2022 18:57:46: [G_Auto 1] :  Store Value (Shared) for market: price = 1.14
+4/8/2022 18:57:46: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 355.33
+4/8/2022 18:57:46: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 413.61
+4/8/2022 18:57:46: [G_Auto 1] :  Store Value (Shared) for market: stake = 53.33
+4/8/2022 18:57:46: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 768.94
+4/8/2022 18:57:46: [G_Auto 1] :  Store Value (Shared) for market: pl = 4.39
+4/8/2022 18:57:46: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.13
+4/8/2022 18:57:46: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 8.4
+4/8/2022 18:57:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:58:06: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:58:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:58:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:58:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:59:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:59:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:59:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 18:59:48: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 19:00:04: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 19:01:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 19:01:45: [G_Auto 2] :  Placed closure bet with greening on Reilly Opelka by Backing 55.26 at 1.1
+4/8/2022 19:01:47: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 3; sets: 1 
+4/8/2022 19:01:47: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:0
+4/8/2022 19:01:47: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: bPoints = point: 0; games: 3; sets: 0 
+4/8/2022 19:01:47: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: bServing = serving:2
+4/8/2022 19:01:47: [G_Auto 1] :  Store Value (Shared) for market: price = 1.1
+4/8/2022 19:01:47: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 410.59
+4/8/2022 19:01:47: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 413.61
+4/8/2022 19:01:47: [G_Auto 1] :  Store Value (Shared) for market: stake = 55.26
+4/8/2022 19:01:47: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 824.2
+4/8/2022 19:01:47: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.96
+4/8/2022 19:01:47: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.11
+4/8/2022 19:01:47: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 10
+4/8/2022 19:01:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 19:02:05: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 19:03:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 19:03:51: [G_Auto 2] :  € 53.33 Lay bet placed on Reilly Opelka at 1.15. Fully matched at 1.14.  Ref: 11822          ( Fill or kill bet with 15 seconds delay.   )
+4/8/2022 19:03:53: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 3; sets: 1 
+4/8/2022 19:03:53: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:1
+4/8/2022 19:03:53: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: bPoints = point: 0; games: 4; sets: 0 
+4/8/2022 19:03:53: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: bServing = serving:0
+4/8/2022 19:03:53: [G_Auto 1] :  Store Value (Shared) for market: price = 1.14
+4/8/2022 19:03:53: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 410.59
+4/8/2022 19:03:53: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 466.94
+4/8/2022 19:03:53: [G_Auto 1] :  Store Value (Shared) for market: stake = 53.33
+4/8/2022 19:03:53: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 877.53
+4/8/2022 19:03:53: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.49
+4/8/2022 19:03:53: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.14
+4/8/2022 19:03:53: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 8
+4/8/2022 19:03:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 19:04:00: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 3; sets: 1 
+4/8/2022 19:04:00: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:1
+4/8/2022 19:04:00: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: bPoints = point: 0; games: 4; sets: 0 
+4/8/2022 19:04:00: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: bServing = serving:0
+4/8/2022 19:04:00: [G_Auto 1] :  Store Value (Shared) for market: price = 1.14
+4/8/2022 19:04:00: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 410.59
+4/8/2022 19:04:00: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 466.94
+4/8/2022 19:04:00: [G_Auto 1] :  Store Value (Shared) for market: stake = 53.33
+4/8/2022 19:04:00: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 877.53
+4/8/2022 19:04:00: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.49
+4/8/2022 19:04:00: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.13
+4/8/2022 19:04:00: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 8.2
+4/8/2022 19:04:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 19:04:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 19:04:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 19:04:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 19:05:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 19:05:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 19:05:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 19:06:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 19:06:05: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 19:06:21: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 19:06:37: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 19:07:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 19:07:37: [G_Auto 2] :  Placed closure bet with greening on Reilly Opelka by Backing 54.78 at 1.11
+4/8/2022 19:07:39: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 4; sets: 1 
+4/8/2022 19:07:39: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:0
+4/8/2022 19:07:39: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: bPoints = point: 0; games: 4; sets: 0 
+4/8/2022 19:07:39: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: bServing = serving:2
+4/8/2022 19:07:39: [G_Auto 1] :  Store Value (Shared) for market: price = 1.11
+4/8/2022 19:07:39: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 465.37
+4/8/2022 19:07:39: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 466.94
+4/8/2022 19:07:39: [G_Auto 1] :  Store Value (Shared) for market: stake = 54.78
+4/8/2022 19:07:39: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 932.31
+4/8/2022 19:07:39: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.55
+4/8/2022 19:07:39: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.12
+4/8/2022 19:07:39: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 9.4
+4/8/2022 19:07:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 19:07:55: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 19:08:11: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 19:11:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 19:11:56: [G_Auto 2] :  € 50.00 Lay bet placed on Reilly Opelka at 1.16. Fully matched at 1.15.  Ref: 11827          ( Fill or kill bet with 15 seconds delay.   )
+4/8/2022 19:11:57: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 4; sets: 1 
+4/8/2022 19:11:57: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:1
+4/8/2022 19:11:57: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: bPoints = point: 0; games: 5; sets: 0 
+4/8/2022 19:11:57: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: bServing = serving:0
+4/8/2022 19:11:57: [G_Auto 1] :  Store Value (Shared) for market: price = 1.15
+4/8/2022 19:11:57: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 465.37
+4/8/2022 19:11:57: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 516.94
+4/8/2022 19:11:57: [G_Auto 1] :  Store Value (Shared) for market: stake = 50
+4/8/2022 19:11:57: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 982.31
+4/8/2022 19:11:57: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.12
+4/8/2022 19:11:57: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.14
+4/8/2022 19:11:57: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 8.2
+4/8/2022 19:11:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 19:12:04: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 4; sets: 1 
+4/8/2022 19:12:04: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:1
+4/8/2022 19:12:04: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: bPoints = point: 0; games: 5; sets: 0 
+4/8/2022 19:12:04: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: bServing = serving:0
+4/8/2022 19:12:04: [G_Auto 1] :  Store Value (Shared) for market: price = 1.15
+4/8/2022 19:12:04: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 465.37
+4/8/2022 19:12:04: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 516.94
+4/8/2022 19:12:04: [G_Auto 1] :  Store Value (Shared) for market: stake = 50
+4/8/2022 19:12:04: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 982.31
+4/8/2022 19:12:04: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.68
+4/8/2022 19:12:04: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.14
+4/8/2022 19:12:04: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 8.2
+4/8/2022 19:12:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 19:12:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 19:12:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 19:13:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 19:13:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 19:13:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 19:13:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 19:13:58: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 19:14:14: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 19:17:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 19:17:24: [G_Auto 2] :  Placed closure bet with greening on Reilly Opelka by Backing 51.33 at 1.12
+4/8/2022 19:17:26: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 5; sets: 1 
+4/8/2022 19:17:26: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:0
+4/8/2022 19:17:26: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: bPoints = point: 0; games: 5; sets: 0 
+4/8/2022 19:17:26: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: bServing = serving:2
+4/8/2022 19:17:26: [G_Auto 1] :  Store Value (Shared) for market: price = 1.12
+4/8/2022 19:17:26: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 516.7
+4/8/2022 19:17:26: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 516.94
+4/8/2022 19:17:26: [G_Auto 1] :  Store Value (Shared) for market: stake = 51.33
+4/8/2022 19:17:26: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 1033.64
+4/8/2022 19:17:26: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.23
+4/8/2022 19:17:26: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.13
+4/8/2022 19:17:26: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 8.6
+4/8/2022 19:17:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 19:17:33: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 5; sets: 1 
+4/8/2022 19:17:33: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:0
+4/8/2022 19:17:33: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: bPoints = point: 0; games: 5; sets: 0 
+4/8/2022 19:17:33: [G_Auto 1] :  Store Text Value (Shared) for Gijs Brouwer: bServing = serving:2
+4/8/2022 19:17:33: [G_Auto 1] :  Store Value (Shared) for market: price = 1.12
+4/8/2022 19:17:33: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 516.7
+4/8/2022 19:17:33: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 516.94
+4/8/2022 19:17:33: [G_Auto 1] :  Store Value (Shared) for market: stake = 51.33
+4/8/2022 19:17:33: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 1033.64
+4/8/2022 19:17:33: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.23
+4/8/2022 19:17:33: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.12
+4/8/2022 19:17:33: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 8.6
+4/8/2022 19:17:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 19:17:51: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 19:18:07: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 19:18:22: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 19:22:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 19:22:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 19:22:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 19:23:06: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 19:23:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 19:23:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 19:23:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 19:24:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 19:24:26: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 19:24:42: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 19:26:53:  Guardian has detected that the market is suspended

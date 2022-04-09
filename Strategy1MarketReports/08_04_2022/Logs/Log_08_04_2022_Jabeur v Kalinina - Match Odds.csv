@@ -1,0 +1,302 @@
+4/8/2022 09:18:24: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: info = marketName: Jabeur v Kalinina - Match Odds; runnerA: Ons Jabeur; runnerB: Anhelina Kalinina 
+4/8/2022 09:18:24: [G_Auto 1] :  Store Value (Shared) for market: aId = 6161111
+4/8/2022 09:18:24: [G_Auto 1] :  Store Value (Shared) for market: bId = 8907168
+4/8/2022 21:43:06:  Guardian has detected that the market is in-play
+4/8/2022 21:43:06:  Guardian has detected that the market is suspended
+4/8/2022 21:43:07: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.44; bBsp: 3.45; volume: 13588.09 
+4/8/2022 21:43:07: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.44; bBsp: 3.45; volume: 13588.09 
+4/8/2022 21:43:07:  Guardian has detected that the market is now unsuspended
+4/8/2022 21:43:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 21:43:17: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 21:43:34: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 21:45:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 21:45:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 21:45:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 21:46:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 21:46:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 21:46:33: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 21:46:49: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 21:47:05: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 21:48:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 21:48:26: [G_Auto 2] :  € 34.78 Lay bet placed on Ons Jabeur at 1.23. Fully matched at 1.21.  Ref: 11900          ( Fill or kill bet with 15 seconds delay.   )
+4/8/2022 21:48:27: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: aPoints = point: 0; games: 2; sets: 0 
+4/8/2022 21:48:27: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: aServing = serving:1
+4/8/2022 21:48:27: [G_Auto 1] :  Store Text Value (Shared) for Anhelina Kalinina: bPoints = point: 0; games: 0; sets: 0 
+4/8/2022 21:48:27: [G_Auto 1] :  Store Text Value (Shared) for Anhelina Kalinina: bServing = serving:0
+4/8/2022 21:48:27: [G_Auto 1] :  Store Value (Shared) for market: price = 1.21
+4/8/2022 21:48:27: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 0
+4/8/2022 21:48:27: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 34.78
+4/8/2022 21:48:27: [G_Auto 1] :  Store Value (Shared) for market: stake = 34.78
+4/8/2022 21:48:27: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 34.78
+4/8/2022 21:48:27: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.29
+4/8/2022 21:48:27: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.21
+4/8/2022 21:48:27: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 5.6
+4/8/2022 21:48:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 21:48:41: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 21:48:56: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 21:50:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 21:50:24: [G_Auto 2] :  Placed closure bet with greening on Ons Jabeur by Backing 31.88 at 1.32
+4/8/2022 21:50:25: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: aPoints = point: 0; games: 2; sets: 0 
+4/8/2022 21:50:25: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: aServing = serving:0
+4/8/2022 21:50:25: [G_Auto 1] :  Store Text Value (Shared) for Anhelina Kalinina: bPoints = point: 0; games: 1; sets: 0 
+4/8/2022 21:50:25: [G_Auto 1] :  Store Text Value (Shared) for Anhelina Kalinina: bServing = serving:2
+4/8/2022 21:50:25: [G_Auto 1] :  Store Value (Shared) for market: price = 1.32
+4/8/2022 21:50:25: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 31.88
+4/8/2022 21:50:25: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 34.78
+4/8/2022 21:50:25: [G_Auto 1] :  Store Value (Shared) for market: stake = 31.88
+4/8/2022 21:50:25: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 66.66
+4/8/2022 21:50:25: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.84
+4/8/2022 21:50:25: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.32
+4/8/2022 21:50:25: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.2
+4/8/2022 21:50:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 21:50:31: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: aPoints = point: 0; games: 2; sets: 0 
+4/8/2022 21:50:31: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: aServing = serving:0
+4/8/2022 21:50:31: [G_Auto 1] :  Store Text Value (Shared) for Anhelina Kalinina: bPoints = point: 0; games: 1; sets: 0 
+4/8/2022 21:50:31: [G_Auto 1] :  Store Text Value (Shared) for Anhelina Kalinina: bServing = serving:2
+4/8/2022 21:50:31: [G_Auto 1] :  Store Value (Shared) for market: price = 1.32
+4/8/2022 21:50:31: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 31.88
+4/8/2022 21:50:31: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 34.78
+4/8/2022 21:50:31: [G_Auto 1] :  Store Value (Shared) for market: stake = 31.88
+4/8/2022 21:50:31: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 66.66
+4/8/2022 21:50:31: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.84
+4/8/2022 21:50:31: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.33
+4/8/2022 21:50:31: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.1
+4/8/2022 21:50:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 21:50:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 21:51:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 21:51:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 21:51:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 21:52:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 21:52:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 21:52:25: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 21:52:40: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 21:55:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 21:55:29: [G_Auto 2] :  € 17.78 Lay bet placed on Ons Jabeur at 1.45. Fully matched at 1.45.  Ref: 11903          ( Fill or kill bet with 15 seconds delay.   )
+4/8/2022 21:55:30: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: aPoints = point: 0; games: 2; sets: 0 
+4/8/2022 21:55:30: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: aServing = serving:1
+4/8/2022 21:55:30: [G_Auto 1] :  Store Text Value (Shared) for Anhelina Kalinina: bPoints = point: 0; games: 2; sets: 0 
+4/8/2022 21:55:30: [G_Auto 1] :  Store Text Value (Shared) for Anhelina Kalinina: bServing = serving:0
+4/8/2022 21:55:30: [G_Auto 1] :  Store Value (Shared) for market: price = 1.45
+4/8/2022 21:55:30: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 31.88
+4/8/2022 21:55:30: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 52.56
+4/8/2022 21:55:30: [G_Auto 1] :  Store Value (Shared) for market: stake = 17.78
+4/8/2022 21:55:30: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 84.44
+4/8/2022 21:55:30: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.72
+4/8/2022 21:55:30: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.44
+4/8/2022 21:55:30: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.3
+4/8/2022 21:55:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 21:55:43: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 21:57:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 21:57:17: [G_Auto 2] :  Placed closure bet with greening on Ons Jabeur by Backing 19.68 at 1.31
+4/8/2022 21:57:18: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: aPoints = point: 0; games: 3; sets: 0 
+4/8/2022 21:57:18: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: aServing = serving:0
+4/8/2022 21:57:18: [G_Auto 1] :  Store Text Value (Shared) for Anhelina Kalinina: bPoints = point: 0; games: 2; sets: 0 
+4/8/2022 21:57:18: [G_Auto 1] :  Store Text Value (Shared) for Anhelina Kalinina: bServing = serving:2
+4/8/2022 21:57:18: [G_Auto 1] :  Store Value (Shared) for market: price = 1.31
+4/8/2022 21:57:18: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 51.56
+4/8/2022 21:57:18: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 52.56
+4/8/2022 21:57:18: [G_Auto 1] :  Store Value (Shared) for market: stake = 19.68
+4/8/2022 21:57:18: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 104.12
+4/8/2022 21:57:18: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.98
+4/8/2022 21:57:18: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.31
+4/8/2022 21:57:18: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.3
+4/8/2022 21:57:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 21:57:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 21:57:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 21:58:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 21:58:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 21:58:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 21:58:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 21:59:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 21:59:15: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 21:59:31: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 21:59:46: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 22:02:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 22:02:40: [G_Auto 2] :  € 17.02 Lay bet placed on Ons Jabeur at 1.47. Fully matched at 1.45.  Ref: 11906          ( Fill or kill bet with 15 seconds delay.   )
+4/8/2022 22:02:41: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: aPoints = point: 0; games: 3; sets: 0 
+4/8/2022 22:02:41: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: aServing = serving:1
+4/8/2022 22:02:41: [G_Auto 1] :  Store Text Value (Shared) for Anhelina Kalinina: bPoints = point: 0; games: 3; sets: 0 
+4/8/2022 22:02:41: [G_Auto 1] :  Store Text Value (Shared) for Anhelina Kalinina: bServing = serving:0
+4/8/2022 22:02:41: [G_Auto 1] :  Store Value (Shared) for market: price = 1.45
+4/8/2022 22:02:41: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 51.56
+4/8/2022 22:02:41: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 69.58
+4/8/2022 22:02:41: [G_Auto 1] :  Store Value (Shared) for market: stake = 17.02
+4/8/2022 22:02:41: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 121.14
+4/8/2022 22:02:41: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.86
+4/8/2022 22:02:41: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.44
+4/8/2022 22:02:41: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.25
+4/8/2022 22:02:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 22:02:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 22:02:58: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 22:03:14: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 22:03:30: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 22:06:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 22:06:40: [G_Auto 2] :  Placed closure bet with greening on Ons Jabeur by Backing 18.42 at 1.34
+4/8/2022 22:06:41: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: aPoints = point: 0; games: 4; sets: 0 
+4/8/2022 22:06:41: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: aServing = serving:0
+4/8/2022 22:06:41: [G_Auto 1] :  Store Text Value (Shared) for Anhelina Kalinina: bPoints = point: 0; games: 3; sets: 0 
+4/8/2022 22:06:41: [G_Auto 1] :  Store Text Value (Shared) for Anhelina Kalinina: bServing = serving:2
+4/8/2022 22:06:41: [G_Auto 1] :  Store Value (Shared) for market: price = 1.35
+4/8/2022 22:06:41: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 69.98
+4/8/2022 22:06:41: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 69.58
+4/8/2022 22:06:41: [G_Auto 1] :  Store Value (Shared) for market: stake = 18.42
+4/8/2022 22:06:41: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 139.56
+4/8/2022 22:06:41: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.26
+4/8/2022 22:06:41: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.36
+4/8/2022 22:06:41: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.9
+4/8/2022 22:06:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 22:06:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 22:07:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 22:07:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 22:07:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 22:08:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 22:08:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 22:08:25: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 22:08:41: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 22:11:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 22:11:52: [G_Auto 2] :  € 40.00 Lay bet placed on Ons Jabeur at 1.2. Fully matched at 1.2.  Ref: 11909          ( Fill or kill bet with 15 seconds delay.   )
+4/8/2022 22:11:53: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: aPoints = point: 0; games: 5; sets: 0 
+4/8/2022 22:11:53: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: aServing = serving:1
+4/8/2022 22:11:53: [G_Auto 1] :  Store Text Value (Shared) for Anhelina Kalinina: bPoints = point: 0; games: 3; sets: 0 
+4/8/2022 22:11:53: [G_Auto 1] :  Store Text Value (Shared) for Anhelina Kalinina: bServing = serving:0
+4/8/2022 22:11:53: [G_Auto 1] :  Store Value (Shared) for market: price = 1.2
+4/8/2022 22:11:53: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 69.98
+4/8/2022 22:11:53: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 109.58
+4/8/2022 22:11:53: [G_Auto 1] :  Store Value (Shared) for market: stake = 40
+4/8/2022 22:11:53: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 179.56
+4/8/2022 22:11:53: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.58
+4/8/2022 22:11:53: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.2
+4/8/2022 22:11:53: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 6
+4/8/2022 22:11:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 22:12:08: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 22:12:24: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 22:12:39: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 22:14:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 22:14:16: [G_Auto 1] :  Store Value (Shared) for market: aFirstSetPrice = 1.15
+4/8/2022 22:14:16: [G_Auto 1] :  Store Value (Shared) for market: bFirstSetPrice = 7.8
+4/8/2022 22:14:21: [G_Auto 2] :  Placed closure bet with greening on Ons Jabeur by Backing 41.94 at 1.14
+4/8/2022 22:14:22: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: aPoints = point: 0; games: 0; sets: 1 
+4/8/2022 22:14:22: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: aServing = serving:0
+4/8/2022 22:14:22: [G_Auto 1] :  Store Text Value (Shared) for Anhelina Kalinina: bPoints = point: 0; games: 0; sets: 0 
+4/8/2022 22:14:22: [G_Auto 1] :  Store Text Value (Shared) for Anhelina Kalinina: bServing = serving:2
+4/8/2022 22:14:22: [G_Auto 1] :  Store Value (Shared) for market: price = 1.14
+4/8/2022 22:14:22: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 111.92
+4/8/2022 22:14:22: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 109.58
+4/8/2022 22:14:22: [G_Auto 1] :  Store Value (Shared) for market: stake = 41.94
+4/8/2022 22:14:22: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 221.5
+4/8/2022 22:14:22: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.34
+4/8/2022 22:14:22: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.15
+4/8/2022 22:14:22: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 7.8
+4/8/2022 22:14:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 22:14:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 22:14:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 22:15:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 22:15:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 22:15:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 22:15:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 22:16:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 22:16:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 22:16:40: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 22:16:55: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 22:17:11: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 22:18:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 22:18:48: [G_Auto 2] :  € 38.10 Lay bet placed on Ons Jabeur at 1.21. Fully matched at 1.2.  Ref: 11912          ( Fill or kill bet with 15 seconds delay.   )
+4/8/2022 22:18:48: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: aPoints = point: 0; games: 0; sets: 1 
+4/8/2022 22:18:48: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: aServing = serving:1
+4/8/2022 22:18:48: [G_Auto 1] :  Store Text Value (Shared) for Anhelina Kalinina: bPoints = point: 0; games: 1; sets: 0 
+4/8/2022 22:18:48: [G_Auto 1] :  Store Text Value (Shared) for Anhelina Kalinina: bServing = serving:0
+4/8/2022 22:18:48: [G_Auto 1] :  Store Value (Shared) for market: price = 1.2
+4/8/2022 22:18:48: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 111.92
+4/8/2022 22:18:48: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 147.68
+4/8/2022 22:18:48: [G_Auto 1] :  Store Value (Shared) for market: stake = 38.1
+4/8/2022 22:18:48: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 259.6
+4/8/2022 22:18:48: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.66
+4/8/2022 22:18:48: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.2
+4/8/2022 22:18:48: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 6
+4/8/2022 22:18:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 22:18:53: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: aPoints = point: 0; games: 0; sets: 1 
+4/8/2022 22:18:53: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: aServing = serving:1
+4/8/2022 22:18:53: [G_Auto 1] :  Store Text Value (Shared) for Anhelina Kalinina: bPoints = point: 0; games: 1; sets: 0 
+4/8/2022 22:18:53: [G_Auto 1] :  Store Text Value (Shared) for Anhelina Kalinina: bServing = serving:0
+4/8/2022 22:18:53: [G_Auto 1] :  Store Value (Shared) for market: price = 1.2
+4/8/2022 22:18:53: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 111.92
+4/8/2022 22:18:53: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 147.68
+4/8/2022 22:18:53: [G_Auto 1] :  Store Value (Shared) for market: stake = 38.1
+4/8/2022 22:18:53: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 259.6
+4/8/2022 22:18:53: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.66
+4/8/2022 22:18:53: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.2
+4/8/2022 22:18:53: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 6
+4/8/2022 22:19:06: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 22:19:13: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 22:19:28: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 22:21:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 22:21:23: [G_Auto 2] :  Placed closure bet with greening on Ons Jabeur by Backing 39.76 at 1.15
+4/8/2022 22:21:24: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: aPoints = point: 0; games: 1; sets: 1 
+4/8/2022 22:21:24: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: aServing = serving:0
+4/8/2022 22:21:24: [G_Auto 1] :  Store Text Value (Shared) for Anhelina Kalinina: bPoints = point: 0; games: 1; sets: 0 
+4/8/2022 22:21:24: [G_Auto 1] :  Store Text Value (Shared) for Anhelina Kalinina: bServing = serving:2
+4/8/2022 22:21:24: [G_Auto 1] :  Store Value (Shared) for market: price = 1.15
+4/8/2022 22:21:24: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 151.68
+4/8/2022 22:21:24: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 147.68
+4/8/2022 22:21:24: [G_Auto 1] :  Store Value (Shared) for market: stake = 39.76
+4/8/2022 22:21:24: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 299.36
+4/8/2022 22:21:24: [G_Auto 1] :  Store Value (Shared) for market: pl = -4
+4/8/2022 22:21:24: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.16
+4/8/2022 22:21:24: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 7.2
+4/8/2022 22:21:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 22:21:30: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: aPoints = point: 0; games: 1; sets: 1 
+4/8/2022 22:21:30: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: aServing = serving:0
+4/8/2022 22:21:30: [G_Auto 1] :  Store Text Value (Shared) for Anhelina Kalinina: bPoints = point: 0; games: 1; sets: 0 
+4/8/2022 22:21:30: [G_Auto 1] :  Store Text Value (Shared) for Anhelina Kalinina: bServing = serving:2
+4/8/2022 22:21:30: [G_Auto 1] :  Store Value (Shared) for market: price = 1.15
+4/8/2022 22:21:30: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 151.68
+4/8/2022 22:21:30: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 147.68
+4/8/2022 22:21:30: [G_Auto 1] :  Store Value (Shared) for market: stake = 39.76
+4/8/2022 22:21:30: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 299.36
+4/8/2022 22:21:30: [G_Auto 1] :  Store Value (Shared) for market: pl = -4
+4/8/2022 22:21:30: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.15
+4/8/2022 22:21:30: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 7.2
+4/8/2022 22:21:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 22:21:53: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 22:22:09: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 22:25:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 22:26:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 22:26:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 22:26:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 22:26:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 22:27:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 22:27:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 22:27:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 22:27:52: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 22:31:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 22:31:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 22:32:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 22:32:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 22:32:32: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 22:32:47: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 22:33:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 22:34:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 22:34:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 22:34:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 22:34:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 22:35:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 22:35:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 22:35:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 22:35:47: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 22:36:03: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 22:37:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 22:38:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 22:38:22: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 22:38:37: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 22:41:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 22:42:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 22:42:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 22:42:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 22:43:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 22:43:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 22:43:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 22:43:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 22:43:51: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 22:44:06: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/8/2022 22:45:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/8/2022 22:45:45:  Guardian has detected that the market is suspended

@@ -1,0 +1,788 @@
+4/6/2022 11:31:45: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: info = marketName: S Zhang v Cl Liu - Match Odds; runnerA: Shuai Zhang; runnerB: Claire Liu 
+4/6/2022 11:31:45: [G_Auto 1] :  Store Value (Shared) for market: aId = 2386498
+4/6/2022 11:31:45: [G_Auto 1] :  Store Value (Shared) for market: bId = 9633041
+4/6/2022 21:07:24:  Guardian has detected that the market is in-play
+4/6/2022 21:07:24:  Guardian has detected that the market is suspended
+4/6/2022 21:07:27: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.86; bBsp: 2.1; volume: 16655.79 
+4/6/2022 21:07:27: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.86; bBsp: 2.1; volume: 16655.79 
+4/6/2022 21:07:27:  Guardian has detected that the market is now unsuspended
+4/6/2022 21:07:32: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 21:07:47: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 21:08:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:09:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:09:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:09:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:10:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:10:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:10:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:10:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:10:56: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 21:11:14: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 21:12:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:13:11: [G_Auto 2] :  € 9.09 Lay bet placed on Shuai Zhang at 1.88. Fully matched at 1.87.  Ref: 11169          ( Fill or kill bet with 15 seconds delay.   )
+4/6/2022 21:13:13: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aPoints = point: 0; games: 1; sets: 0 
+4/6/2022 21:13:13: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aServing = serving:1
+4/6/2022 21:13:13: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bPoints = point: 0; games: 1; sets: 0 
+4/6/2022 21:13:13: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bServing = serving:0
+4/6/2022 21:13:13: [G_Auto 1] :  Store Value (Shared) for market: price = 1.87
+4/6/2022 21:13:13: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 0
+4/6/2022 21:13:13: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 9.09
+4/6/2022 21:13:13: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.09
+4/6/2022 21:13:13: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 9.09
+4/6/2022 21:13:13: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.2
+4/6/2022 21:13:13: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.84
+4/6/2022 21:13:13: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.2
+4/6/2022 21:13:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:13:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:13:48: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 21:14:03: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 21:14:18: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 21:16:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:16:29: [G_Auto 2] :  Placed closure bet with greening on Shuai Zhang by Backing 10.18 at 1.67
+4/6/2022 21:16:31: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aPoints = point: 0; games: 2; sets: 0 
+4/6/2022 21:16:31: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aServing = serving:0
+4/6/2022 21:16:31: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bPoints = point: 0; games: 1; sets: 0 
+4/6/2022 21:16:31: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bServing = serving:2
+4/6/2022 21:16:31: [G_Auto 1] :  Store Value (Shared) for market: price = 1.67
+4/6/2022 21:16:31: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 10.18
+4/6/2022 21:16:31: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 9.09
+4/6/2022 21:16:31: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.18
+4/6/2022 21:16:31: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 19.27
+4/6/2022 21:16:31: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.09
+4/6/2022 21:16:31: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.69
+4/6/2022 21:16:31: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.44
+4/6/2022 21:16:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:16:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:17:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:17:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:17:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:17:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:18:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:18:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:18:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:18:45: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 21:19:00: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 21:19:18: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 21:23:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:23:16: [G_Auto 2] :  € 9.20 Lay bet placed on Shuai Zhang at 1.87. Fully matched at 1.87.  Ref: 11175          ( Fill or kill bet with 15 seconds delay.   )
+4/6/2022 21:23:18: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aPoints = point: 0; games: 2; sets: 0 
+4/6/2022 21:23:18: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aServing = serving:1
+4/6/2022 21:23:18: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bPoints = point: 0; games: 2; sets: 0 
+4/6/2022 21:23:18: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bServing = serving:0
+4/6/2022 21:23:18: [G_Auto 1] :  Store Value (Shared) for market: price = 1.87
+4/6/2022 21:23:18: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 10.18
+4/6/2022 21:23:18: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 18.29
+4/6/2022 21:23:18: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.2
+4/6/2022 21:23:18: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 28.47
+4/6/2022 21:23:18: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.24
+4/6/2022 21:23:18: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.84
+4/6/2022 21:23:18: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.18
+4/6/2022 21:23:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:23:23: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aPoints = point: 0; games: 2; sets: 0 
+4/6/2022 21:23:23: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aServing = serving:1
+4/6/2022 21:23:23: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bPoints = point: 0; games: 2; sets: 0 
+4/6/2022 21:23:23: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bServing = serving:0
+4/6/2022 21:23:23: [G_Auto 1] :  Store Value (Shared) for market: price = 1.87
+4/6/2022 21:23:23: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 10.18
+4/6/2022 21:23:23: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 18.29
+4/6/2022 21:23:23: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.2
+4/6/2022 21:23:23: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 28.47
+4/6/2022 21:23:23: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.24
+4/6/2022 21:23:23: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.85
+4/6/2022 21:23:23: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.2
+4/6/2022 21:23:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:23:45: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 21:24:02: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 21:25:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:25:21: [G_Auto 2] :  Placed closure bet with greening on Shuai Zhang by Backing 10.82 at 1.59
+4/6/2022 21:25:22: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aPoints = point: 0; games: 3; sets: 0 
+4/6/2022 21:25:22: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aServing = serving:0
+4/6/2022 21:25:22: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bPoints = point: 0; games: 2; sets: 0 
+4/6/2022 21:25:22: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bServing = serving:2
+4/6/2022 21:25:22: [G_Auto 1] :  Store Value (Shared) for market: price = 1.59
+4/6/2022 21:25:22: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 21
+4/6/2022 21:25:22: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 18.29
+4/6/2022 21:25:22: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.82
+4/6/2022 21:25:22: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 39.29
+4/6/2022 21:25:22: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.71
+4/6/2022 21:25:22: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.61
+4/6/2022 21:25:22: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.64
+4/6/2022 21:25:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:25:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:25:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:26:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:26:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:26:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:27:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:27:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:27:26: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 21:27:43: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 21:28:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:29:02: [G_Auto 2] :  € 9.09 Lay bet placed on Shuai Zhang at 1.88. Fully matched at 1.87.  Ref: 11179          ( Fill or kill bet with 15 seconds delay.   )
+4/6/2022 21:29:04: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aPoints = point: 0; games: 3; sets: 0 
+4/6/2022 21:29:04: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aServing = serving:1
+4/6/2022 21:29:04: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bPoints = point: 0; games: 3; sets: 0 
+4/6/2022 21:29:04: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bServing = serving:0
+4/6/2022 21:29:04: [G_Auto 1] :  Store Value (Shared) for market: price = 1.87
+4/6/2022 21:29:04: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 21
+4/6/2022 21:29:04: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 27.38
+4/6/2022 21:29:04: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.09
+4/6/2022 21:29:04: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 48.38
+4/6/2022 21:29:04: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.76
+4/6/2022 21:29:04: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.86
+4/6/2022 21:29:04: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.18
+4/6/2022 21:29:06: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:29:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:29:34: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 21:29:51: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 21:33:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:34:02: [G_Auto 2] :  Placed closure bet with greening on Shuai Zhang by Backing 10.30 at 1.65
+4/6/2022 21:34:03: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aPoints = point: 0; games: 4; sets: 0 
+4/6/2022 21:34:03: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aServing = serving:0
+4/6/2022 21:34:03: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bPoints = point: 0; games: 3; sets: 0 
+4/6/2022 21:34:03: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bServing = serving:2
+4/6/2022 21:34:03: [G_Auto 1] :  Store Value (Shared) for market: price = 1.65
+4/6/2022 21:34:03: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 31.3
+4/6/2022 21:34:03: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 27.38
+4/6/2022 21:34:03: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.3
+4/6/2022 21:34:03: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 58.68
+4/6/2022 21:34:03: [G_Auto 1] :  Store Value (Shared) for market: pl = -3.92
+4/6/2022 21:34:03: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.67
+4/6/2022 21:34:03: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.5
+4/6/2022 21:34:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:34:09: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aPoints = point: 0; games: 4; sets: 0 
+4/6/2022 21:34:09: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aServing = serving:0
+4/6/2022 21:34:09: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bPoints = point: 0; games: 3; sets: 0 
+4/6/2022 21:34:09: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bServing = serving:2
+4/6/2022 21:34:09: [G_Auto 1] :  Store Value (Shared) for market: price = 1.65
+4/6/2022 21:34:09: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 31.3
+4/6/2022 21:34:09: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 27.38
+4/6/2022 21:34:09: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.3
+4/6/2022 21:34:09: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 58.68
+4/6/2022 21:34:09: [G_Auto 1] :  Store Value (Shared) for market: pl = -3.92
+4/6/2022 21:34:09: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.67
+4/6/2022 21:34:09: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.48
+4/6/2022 21:34:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:34:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:34:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:35:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:35:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:35:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:36:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:36:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:36:18: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 21:36:34: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 21:36:49: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 21:37:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:37:46: [G_Auto 2] :  € 8.25 Lay bet placed on Shuai Zhang at 1.97. Fully matched at 1.97.  Ref: 11181          ( Fill or kill bet with 15 seconds delay.   )
+4/6/2022 21:37:47: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aPoints = point: 0; games: 4; sets: 0 
+4/6/2022 21:37:47: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aServing = serving:1
+4/6/2022 21:37:47: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bPoints = point: 0; games: 4; sets: 0 
+4/6/2022 21:37:47: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bServing = serving:0
+4/6/2022 21:37:47: [G_Auto 1] :  Store Value (Shared) for market: price = 1.97
+4/6/2022 21:37:47: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 31.3
+4/6/2022 21:37:47: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 35.63
+4/6/2022 21:37:47: [G_Auto 1] :  Store Value (Shared) for market: stake = 8.25
+4/6/2022 21:37:47: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 66.93
+4/6/2022 21:37:47: [G_Auto 1] :  Store Value (Shared) for market: pl = -4.01
+4/6/2022 21:37:47: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.97
+4/6/2022 21:37:47: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.06
+4/6/2022 21:37:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:38:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:38:10: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 21:38:25: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 21:40:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:40:36: [G_Auto 2] :  Placed closure bet with greening on Shuai Zhang by Backing 9.62 at 1.69
+4/6/2022 21:40:37: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aPoints = point: 0; games: 5; sets: 0 
+4/6/2022 21:40:37: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aServing = serving:0
+4/6/2022 21:40:37: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bPoints = point: 0; games: 4; sets: 0 
+4/6/2022 21:40:37: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bServing = serving:2
+4/6/2022 21:40:37: [G_Auto 1] :  Store Value (Shared) for market: price = 1.7
+4/6/2022 21:40:37: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 40.92
+4/6/2022 21:40:37: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 35.63
+4/6/2022 21:40:37: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.62
+4/6/2022 21:40:37: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 76.55
+4/6/2022 21:40:37: [G_Auto 1] :  Store Value (Shared) for market: pl = -5.23
+4/6/2022 21:40:37: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.71
+4/6/2022 21:40:37: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.4
+4/6/2022 21:40:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:40:43: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aPoints = point: 0; games: 5; sets: 0 
+4/6/2022 21:40:43: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aServing = serving:0
+4/6/2022 21:40:43: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bPoints = point: 0; games: 4; sets: 0 
+4/6/2022 21:40:43: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bServing = serving:2
+4/6/2022 21:40:43: [G_Auto 1] :  Store Value (Shared) for market: price = 1.7
+4/6/2022 21:40:43: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 40.92
+4/6/2022 21:40:43: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 35.63
+4/6/2022 21:40:43: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.62
+4/6/2022 21:40:43: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 76.55
+4/6/2022 21:40:43: [G_Auto 1] :  Store Value (Shared) for market: pl = -5.23
+4/6/2022 21:40:43: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.71
+4/6/2022 21:40:43: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.42
+4/6/2022 21:40:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:41:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:41:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:41:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:41:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:42:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:42:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:42:46: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 21:43:02: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 21:43:17: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 21:48:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:48:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:48:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:49:08: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 21:49:23: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 21:50:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:50:54: [G_Auto 2] :  € 17.78 Lay bet placed on Claire Liu at 1.45. Fully matched at 1.44.  Ref: 11189          ( Fill or kill bet with 15 seconds delay.   )
+4/6/2022 21:50:54: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aPoints = point: 0; games: 5; sets: 0 
+4/6/2022 21:50:54: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aServing = serving:0
+4/6/2022 21:50:54: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bPoints = point: 0; games: 6; sets: 0 
+4/6/2022 21:50:54: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bServing = serving:2
+4/6/2022 21:50:54: [G_Auto 1] :  Store Value (Shared) for market: price = 1.44
+4/6/2022 21:50:54: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 40.92
+4/6/2022 21:50:54: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 53.41
+4/6/2022 21:50:54: [G_Auto 1] :  Store Value (Shared) for market: stake = 17.78
+4/6/2022 21:50:54: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 94.33
+4/6/2022 21:50:54: [G_Auto 1] :  Store Value (Shared) for market: pl = -5.26
+4/6/2022 21:50:54: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.2
+4/6/2022 21:50:54: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.44
+4/6/2022 21:50:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:50:57: [G_Auto 2] :  Placed closure bet with greening on Shuai Zhang by Laying 0.03 at 3.35
+4/6/2022 21:51:01: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aPoints = point: 0; games: 5; sets: 0 
+4/6/2022 21:51:01: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aServing = serving:0
+4/6/2022 21:51:01: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bPoints = point: 0; games: 6; sets: 0 
+4/6/2022 21:51:01: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bServing = serving:2
+4/6/2022 21:51:01: [G_Auto 1] :  Store Value (Shared) for market: price = 3.25
+4/6/2022 21:51:01: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 40.92
+4/6/2022 21:51:01: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 53.44
+4/6/2022 21:51:01: [G_Auto 1] :  Store Value (Shared) for market: stake = 0.03
+4/6/2022 21:51:01: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 94.36
+4/6/2022 21:51:01: [G_Auto 1] :  Store Value (Shared) for market: pl = -5.26
+4/6/2022 21:51:01: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.2
+4/6/2022 21:51:01: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.44
+4/6/2022 21:51:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:51:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:51:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:51:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:52:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:52:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:52:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:52:57: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 21:53:12: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 21:54:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:54:41: [G_Auto 1] :  Store Value (Shared) for market: aFirstSetPrice = 3.25
+4/6/2022 21:54:41: [G_Auto 1] :  Store Value (Shared) for market: bFirstSetPrice = 1.44
+4/6/2022 21:54:46: [G_Auto 2] :  Placed closure bet with greening on Claire Liu by Backing 19.85 at 1.29
+4/6/2022 21:54:46: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aPoints = point: 0; games: 0; sets: 0 
+4/6/2022 21:54:46: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aServing = serving:1
+4/6/2022 21:54:46: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bPoints = point: 0; games: 0; sets: 1 
+4/6/2022 21:54:46: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bServing = serving:0
+4/6/2022 21:54:46: [G_Auto 1] :  Store Value (Shared) for market: price = 1.29
+4/6/2022 21:54:46: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 60.77
+4/6/2022 21:54:46: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 53.44
+4/6/2022 21:54:46: [G_Auto 1] :  Store Value (Shared) for market: stake = 19.85
+4/6/2022 21:54:46: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 114.21
+4/6/2022 21:54:46: [G_Auto 1] :  Store Value (Shared) for market: pl = -7.33
+4/6/2022 21:54:46: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 4.3
+4/6/2022 21:54:46: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.3
+4/6/2022 21:54:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:55:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:55:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:55:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:55:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:56:06: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:56:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:56:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:56:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:57:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:57:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 21:57:41: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 21:57:56: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 21:59:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:00:05: [G_Auto 2] :  € 20.00 Lay bet placed on Claire Liu at 1.4. Fully matched at 1.39.  Ref: 11196          ( Fill or kill bet with 15 seconds delay.   )
+4/6/2022 22:00:05: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aPoints = point: 0; games: 1; sets: 0 
+4/6/2022 22:00:05: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aServing = serving:0
+4/6/2022 22:00:05: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bPoints = point: 0; games: 0; sets: 1 
+4/6/2022 22:00:05: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bServing = serving:2
+4/6/2022 22:00:05: [G_Auto 1] :  Store Value (Shared) for market: price = 1.39
+4/6/2022 22:00:05: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 60.77
+4/6/2022 22:00:05: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 73.44
+4/6/2022 22:00:05: [G_Auto 1] :  Store Value (Shared) for market: stake = 20
+4/6/2022 22:00:05: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 134.21
+4/6/2022 22:00:05: [G_Auto 1] :  Store Value (Shared) for market: pl = -7.47
+4/6/2022 22:00:05: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.55
+4/6/2022 22:00:05: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.38
+4/6/2022 22:00:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:00:10: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aPoints = point: 0; games: 1; sets: 0 
+4/6/2022 22:00:10: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aServing = serving:0
+4/6/2022 22:00:10: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bPoints = point: 0; games: 0; sets: 1 
+4/6/2022 22:00:10: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bServing = serving:2
+4/6/2022 22:00:10: [G_Auto 1] :  Store Value (Shared) for market: price = 1.39
+4/6/2022 22:00:10: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 60.77
+4/6/2022 22:00:10: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 73.44
+4/6/2022 22:00:10: [G_Auto 1] :  Store Value (Shared) for market: stake = 20
+4/6/2022 22:00:10: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 134.21
+4/6/2022 22:00:10: [G_Auto 1] :  Store Value (Shared) for market: pl = -7.47
+4/6/2022 22:00:10: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.5
+4/6/2022 22:00:10: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.38
+4/6/2022 22:00:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:00:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:00:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:01:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:01:15: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 22:01:32: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 22:01:47: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 22:02:02: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 22:03:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:03:53: [G_Auto 2] :  Placed closure bet with greening on Claire Liu by Backing 16.85 at 1.65
+4/6/2022 22:03:55: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aPoints = point: 0; games: 2; sets: 0 
+4/6/2022 22:03:55: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aServing = serving:1
+4/6/2022 22:03:55: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bPoints = point: 0; games: 0; sets: 1 
+4/6/2022 22:03:55: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bServing = serving:0
+4/6/2022 22:03:55: [G_Auto 1] :  Store Value (Shared) for market: price = 1.65
+4/6/2022 22:03:55: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 77.62
+4/6/2022 22:03:55: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 73.44
+4/6/2022 22:03:55: [G_Auto 1] :  Store Value (Shared) for market: stake = 16.85
+4/6/2022 22:03:55: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 151.06
+4/6/2022 22:03:55: [G_Auto 1] :  Store Value (Shared) for market: pl = -4.18
+4/6/2022 22:03:55: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.52
+4/6/2022 22:03:55: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.65
+4/6/2022 22:03:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:04:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:04:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:04:30: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 22:04:46: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 22:06:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:06:29: [G_Auto 2] :  € 9.30 Lay bet placed on Claire Liu at 1.86. Fully matched at 1.85.  Ref: 11202          ( Fill or kill bet with 15 seconds delay.   )
+4/6/2022 22:06:29: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aPoints = point: 0; games: 3; sets: 0 
+4/6/2022 22:06:29: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aServing = serving:0
+4/6/2022 22:06:29: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bPoints = point: 0; games: 0; sets: 1 
+4/6/2022 22:06:29: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bServing = serving:2
+4/6/2022 22:06:29: [G_Auto 1] :  Store Value (Shared) for market: price = 1.85
+4/6/2022 22:06:29: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 77.62
+4/6/2022 22:06:29: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 82.74
+4/6/2022 22:06:29: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.3
+4/6/2022 22:06:29: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 160.36
+4/6/2022 22:06:29: [G_Auto 1] :  Store Value (Shared) for market: pl = -4.22
+4/6/2022 22:06:29: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.16
+4/6/2022 22:06:29: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.85
+4/6/2022 22:06:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:06:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:07:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:07:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:07:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:07:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:08:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:08:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:08:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:08:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:09:05: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 22:09:22: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 22:10:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:10:59: [G_Auto 2] :  Placed closure bet with greening on Claire Liu by Backing 10.06 at 1.71
+4/6/2022 22:11:01: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aPoints = point: 0; games: 3; sets: 0 
+4/6/2022 22:11:01: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aServing = serving:1
+4/6/2022 22:11:01: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bPoints = point: 0; games: 1; sets: 1 
+4/6/2022 22:11:01: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bServing = serving:0
+4/6/2022 22:11:01: [G_Auto 1] :  Store Value (Shared) for market: price = 1.71
+4/6/2022 22:11:01: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 87.68
+4/6/2022 22:11:01: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 82.74
+4/6/2022 22:11:01: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.06
+4/6/2022 22:11:01: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 170.42
+4/6/2022 22:11:01: [G_Auto 1] :  Store Value (Shared) for market: pl = -4.94
+4/6/2022 22:11:01: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.38
+4/6/2022 22:11:01: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.72
+4/6/2022 22:11:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:11:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:11:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:11:37: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 22:11:53: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 22:13:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:13:50: [G_Auto 2] :  € 8.79 Lay bet placed on Claire Liu at 1.91. Fully matched at 1.88.  Ref: 11206          ( Fill or kill bet with 15 seconds delay.   )
+4/6/2022 22:13:51: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aPoints = point: 0; games: 4; sets: 0 
+4/6/2022 22:13:51: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aServing = serving:0
+4/6/2022 22:13:51: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bPoints = point: 0; games: 1; sets: 1 
+4/6/2022 22:13:51: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bServing = serving:2
+4/6/2022 22:13:51: [G_Auto 1] :  Store Value (Shared) for market: price = 1.88
+4/6/2022 22:13:51: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 87.68
+4/6/2022 22:13:51: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 91.53
+4/6/2022 22:13:51: [G_Auto 1] :  Store Value (Shared) for market: stake = 8.79
+4/6/2022 22:13:51: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 179.21
+4/6/2022 22:13:51: [G_Auto 1] :  Store Value (Shared) for market: pl = -4.94
+4/6/2022 22:13:51: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.14
+4/6/2022 22:13:51: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.88
+4/6/2022 22:13:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:14:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:14:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:14:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:14:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:15:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:15:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:15:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:15:49: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 22:16:04: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 22:18:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:18:26: [G_Auto 2] :  Placed closure bet with greening on Claire Liu by Backing 7.65 at 2.16
+4/6/2022 22:18:26: [G_Auto 2] :  € 9.41 Lay bet placed on Shuai Zhang at 1.85. Entirely unmatched when it initially reached the market.   Ref: 11209          ( Fill or kill bet with 15 seconds delay.   )
+4/6/2022 22:18:28: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aPoints = point: 0; games: 5; sets: 0 
+4/6/2022 22:18:28: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aServing = serving:1
+4/6/2022 22:18:28: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bPoints = point: 0; games: 1; sets: 1 
+4/6/2022 22:18:28: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bServing = serving:0
+4/6/2022 22:18:28: [G_Auto 1] :  Store Value (Shared) for market: price = 2.16
+4/6/2022 22:18:28: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 95.33
+4/6/2022 22:18:28: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 91.53
+4/6/2022 22:18:28: [G_Auto 1] :  Store Value (Shared) for market: stake = 7.65
+4/6/2022 22:18:28: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 186.86
+4/6/2022 22:18:28: [G_Auto 1] :  Store Value (Shared) for market: pl = -3.8
+4/6/2022 22:18:28: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.86
+4/6/2022 22:18:28: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.14
+4/6/2022 22:18:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:18:32: [G_Auto 2] :  € 9.41 of unmatched bet (Ref:11209) was filled before remainder was killed.
+4/6/2022 22:18:34: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aPoints = point: 0; games: 5; sets: 0 
+4/6/2022 22:18:34: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aServing = serving:1
+4/6/2022 22:18:34: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bPoints = point: 0; games: 1; sets: 1 
+4/6/2022 22:18:34: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bServing = serving:0
+4/6/2022 22:18:34: [G_Auto 1] :  Store Value (Shared) for market: price = 1.85
+4/6/2022 22:18:34: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 95.33
+4/6/2022 22:18:34: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 100.94
+4/6/2022 22:18:34: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.41
+4/6/2022 22:18:34: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 196.27
+4/6/2022 22:18:34: [G_Auto 1] :  Store Value (Shared) for market: pl = -3.8
+4/6/2022 22:18:34: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.85
+4/6/2022 22:18:34: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.16
+4/6/2022 22:18:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:18:59: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 22:19:14: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 22:20:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:20:34: [G_Auto 2] :  Placed closure bet with greening on Shuai Zhang by Backing 8.62 at 2.02
+4/6/2022 22:20:34: [G_Auto 2] :  € 8.16 Lay bet placed on Claire Liu at 1.98. Fully matched at 1.97.  Ref: 11212          ( Fill or kill bet with 15 seconds delay.   )
+4/6/2022 22:20:36: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aPoints = point: 0; games: 5; sets: 0 
+4/6/2022 22:20:36: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aServing = serving:0
+4/6/2022 22:20:36: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bPoints = point: 0; games: 2; sets: 1 
+4/6/2022 22:20:36: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bServing = serving:2
+4/6/2022 22:20:36: [G_Auto 1] :  Store Value (Shared) for market: price = 1.97
+4/6/2022 22:20:36: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 103.95
+4/6/2022 22:20:36: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 109.1
+4/6/2022 22:20:36: [G_Auto 1] :  Store Value (Shared) for market: stake = 8.16
+4/6/2022 22:20:36: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 213.05
+4/6/2022 22:20:36: [G_Auto 1] :  Store Value (Shared) for market: pl = -3.13
+4/6/2022 22:20:36: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.02
+4/6/2022 22:20:36: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.96
+4/6/2022 22:20:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:20:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:21:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:21:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:21:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:21:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:22:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:22:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:22:38: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 22:22:54: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 22:23:10: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 22:25:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:25:17: [G_Auto 1] :  Store Value (Shared) for market: aSecondSetPrice = 1.83
+4/6/2022 22:25:17: [G_Auto 1] :  Store Value (Shared) for market: bSecondSetPrice = 2.12
+4/6/2022 22:25:23: [G_Auto 2] :  Placed closure bet with greening on Claire Liu by Backing 7.24 at 2.22
+4/6/2022 22:25:23: [G_Auto 2] :  € 9.64 Lay bet placed on Shuai Zhang at 1.83. Entirely unmatched when it initially reached the market.   Ref: 11214          ( Fill or kill bet with 15 seconds delay.   )
+4/6/2022 22:25:24: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aPoints = point: 0; games: 0; sets: 1 
+4/6/2022 22:25:24: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aServing = serving:1
+4/6/2022 22:25:24: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bPoints = point: 0; games: 0; sets: 1 
+4/6/2022 22:25:24: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bServing = serving:0
+4/6/2022 22:25:24: [G_Auto 1] :  Store Value (Shared) for market: price = 2.22
+4/6/2022 22:25:24: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 111.19
+4/6/2022 22:25:24: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 118.74
+4/6/2022 22:25:24: [G_Auto 1] :  Store Value (Shared) for market: stake = 7.24
+4/6/2022 22:25:24: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 229.93
+4/6/2022 22:25:24: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.09
+4/6/2022 22:25:24: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.82
+4/6/2022 22:25:24: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.22
+4/6/2022 22:25:24: [G_Auto 2] :  € 9.64 of unmatched bet (Ref:11214) was filled before remainder was killed.
+4/6/2022 22:25:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:25:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:25:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:26:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:26:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:26:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:27:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:27:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:27:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:27:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:28:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:28:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:28:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:28:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:29:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:29:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:29:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:29:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:30:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:30:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:30:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:31:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:31:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:31:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:31:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:32:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:32:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:32:29: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 22:32:45: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 22:36:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:36:46: [G_Auto 2] :  Placed closure bet with greening on Shuai Zhang by Backing 6.39 at 2.76
+4/6/2022 22:36:46: [G_Auto 2] :  € 13.79 Lay bet placed on Claire Liu at 1.58. Fully matched at 1.57.  Ref: 11217          ( Fill or kill bet with 15 seconds delay.   )
+4/6/2022 22:36:48: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aPoints = point: 0; games: 0; sets: 1 
+4/6/2022 22:36:48: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aServing = serving:0
+4/6/2022 22:36:48: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bPoints = point: 0; games: 1; sets: 1 
+4/6/2022 22:36:48: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bServing = serving:2
+4/6/2022 22:36:48: [G_Auto 1] :  Store Value (Shared) for market: price = 2.76
+4/6/2022 22:36:48: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 117.58
+4/6/2022 22:36:48: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 132.53
+4/6/2022 22:36:48: [G_Auto 1] :  Store Value (Shared) for market: stake = 6.39
+4/6/2022 22:36:48: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 250.11
+4/6/2022 22:36:48: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.05
+4/6/2022 22:36:48: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.76
+4/6/2022 22:36:48: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.57
+4/6/2022 22:36:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:36:54: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aPoints = point: 0; games: 0; sets: 1 
+4/6/2022 22:36:54: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aServing = serving:0
+4/6/2022 22:36:54: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bPoints = point: 0; games: 1; sets: 1 
+4/6/2022 22:36:54: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bServing = serving:2
+4/6/2022 22:36:54: [G_Auto 1] :  Store Value (Shared) for market: price = 2.76
+4/6/2022 22:36:54: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 117.58
+4/6/2022 22:36:54: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 132.53
+4/6/2022 22:36:54: [G_Auto 1] :  Store Value (Shared) for market: stake = 6.39
+4/6/2022 22:36:54: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 250.11
+4/6/2022 22:36:54: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.14
+4/6/2022 22:36:54: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.74
+4/6/2022 22:36:54: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.57
+4/6/2022 22:37:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:37:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:37:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:37:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:38:07: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 22:38:23: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 22:38:39: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 22:40:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:40:46: [G_Auto 2] :  € 9.30 Lay bet placed on Shuai Zhang at 1.86. Fully matched at 1.85.  Ref: 11220          ( Fill or kill bet with 15 seconds delay.   )
+4/6/2022 22:40:46: [G_Auto 2] :  Placed closure bet with greening on Claire Liu by Backing 10.02 at 2.16
+4/6/2022 22:40:48: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aPoints = point: 0; games: 1; sets: 1 
+4/6/2022 22:40:48: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aServing = serving:1
+4/6/2022 22:40:48: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bPoints = point: 0; games: 1; sets: 1 
+4/6/2022 22:40:48: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bServing = serving:0
+4/6/2022 22:40:48: [G_Auto 1] :  Store Value (Shared) for market: price = 2.16
+4/6/2022 22:40:48: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 127.6
+4/6/2022 22:40:48: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 141.83
+4/6/2022 22:40:48: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.02
+4/6/2022 22:40:48: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 269.43
+4/6/2022 22:40:48: [G_Auto 1] :  Store Value (Shared) for market: pl = 4.88
+4/6/2022 22:40:48: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.86
+4/6/2022 22:40:48: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.2
+4/6/2022 22:40:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:41:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:41:14: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 22:41:30: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 22:43:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:43:43: [G_Auto 2] :  Placed closure bet with greening on Shuai Zhang by Backing 6.14 at 2.8
+4/6/2022 22:43:43: [G_Auto 2] :  € 14.29 Lay bet placed on Claire Liu at 1.56. Fully matched at 1.56.  Ref: 11223          ( Fill or kill bet with 15 seconds delay.   )
+4/6/2022 22:43:45: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aPoints = point: 0; games: 1; sets: 1 
+4/6/2022 22:43:45: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aServing = serving:0
+4/6/2022 22:43:45: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bPoints = point: 0; games: 2; sets: 1 
+4/6/2022 22:43:45: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bServing = serving:2
+4/6/2022 22:43:45: [G_Auto 1] :  Store Value (Shared) for market: price = 1.56
+4/6/2022 22:43:45: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 127.6
+4/6/2022 22:43:45: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 156.12
+4/6/2022 22:43:45: [G_Auto 1] :  Store Value (Shared) for market: stake = 14.29
+4/6/2022 22:43:45: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 283.72
+4/6/2022 22:43:45: [G_Auto 1] :  Store Value (Shared) for market: pl = 7.78
+4/6/2022 22:43:45: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.78
+4/6/2022 22:43:45: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.55
+4/6/2022 22:43:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:43:50: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aPoints = point: 0; games: 1; sets: 1 
+4/6/2022 22:43:50: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aServing = serving:0
+4/6/2022 22:43:50: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bPoints = point: 0; games: 2; sets: 1 
+4/6/2022 22:43:50: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bServing = serving:2
+4/6/2022 22:43:50: [G_Auto 1] :  Store Value (Shared) for market: price = 1.56
+4/6/2022 22:43:50: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 127.6
+4/6/2022 22:43:50: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 156.12
+4/6/2022 22:43:50: [G_Auto 1] :  Store Value (Shared) for market: stake = 14.29
+4/6/2022 22:43:50: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 283.72
+4/6/2022 22:43:50: [G_Auto 1] :  Store Value (Shared) for market: pl = 7.78
+4/6/2022 22:43:50: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.78
+4/6/2022 22:43:50: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.55
+4/6/2022 22:43:59: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aPoints = point: 0; games: 1; sets: 1 
+4/6/2022 22:43:59: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aServing = serving:0
+4/6/2022 22:43:59: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bPoints = point: 0; games: 2; sets: 1 
+4/6/2022 22:43:59: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bServing = serving:2
+4/6/2022 22:43:59: [G_Auto 1] :  Store Value (Shared) for market: price = 2.8
+4/6/2022 22:43:59: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 133.74
+4/6/2022 22:43:59: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 156.12
+4/6/2022 22:43:59: [G_Auto 1] :  Store Value (Shared) for market: stake = 6.14
+4/6/2022 22:43:59: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 289.86
+4/6/2022 22:43:59: [G_Auto 1] :  Store Value (Shared) for market: pl = 7.73
+4/6/2022 22:43:59: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.8
+4/6/2022 22:43:59: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.55
+4/6/2022 22:44:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:44:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:44:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:44:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:45:06: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:45:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:45:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:45:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:46:08: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 22:46:24: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 22:47:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:47:54: [G_Auto 2] :  Placed closure bet with greening on Claire Liu by Backing 10.04 at 2.22
+4/6/2022 22:47:54: [G_Auto 2] :  € 9.76 Lay bet placed on Shuai Zhang at 1.82. Fully matched at 1.81.  Ref: 11226          ( Fill or kill bet with 15 seconds delay.   )
+4/6/2022 22:47:55: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aPoints = point: 0; games: 2; sets: 1 
+4/6/2022 22:47:55: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aServing = serving:1
+4/6/2022 22:47:55: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bPoints = point: 0; games: 2; sets: 1 
+4/6/2022 22:47:55: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bServing = serving:0
+4/6/2022 22:47:55: [G_Auto 1] :  Store Value (Shared) for market: price = 2.22
+4/6/2022 22:47:55: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 143.78
+4/6/2022 22:47:55: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 165.88
+4/6/2022 22:47:55: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.04
+4/6/2022 22:47:55: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 309.66
+4/6/2022 22:47:55: [G_Auto 1] :  Store Value (Shared) for market: pl = 12.03
+4/6/2022 22:47:55: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.81
+4/6/2022 22:47:55: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.22
+4/6/2022 22:47:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:48:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:48:21: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 22:48:37: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 22:51:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:51:46: [G_Auto 2] :  Placed closure bet with greening on Shuai Zhang by Backing 11.86 at 1.49
+4/6/2022 22:51:47: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aPoints = point: 0; games: 3; sets: 1 
+4/6/2022 22:51:47: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aServing = serving:0
+4/6/2022 22:51:47: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bPoints = point: 0; games: 2; sets: 1 
+4/6/2022 22:51:47: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bServing = serving:2
+4/6/2022 22:51:47: [G_Auto 1] :  Store Value (Shared) for market: price = 1.5
+4/6/2022 22:51:47: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 155.64
+4/6/2022 22:51:47: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 165.88
+4/6/2022 22:51:47: [G_Auto 1] :  Store Value (Shared) for market: stake = 11.86
+4/6/2022 22:51:47: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 321.52
+4/6/2022 22:51:47: [G_Auto 1] :  Store Value (Shared) for market: pl = 10.11
+4/6/2022 22:51:47: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.51
+4/6/2022 22:51:47: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.96
+4/6/2022 22:51:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:52:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:52:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:52:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:52:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:53:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:53:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:53:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:53:46: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 22:54:02: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 22:56:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:56:42: [G_Auto 2] :  € 8.60 Lay bet placed on Shuai Zhang at 1.93. Fully matched at 1.91.  Ref: 11232          ( Fill or kill bet with 15 seconds delay.   )
+4/6/2022 22:56:43: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aPoints = point: 0; games: 3; sets: 1 
+4/6/2022 22:56:43: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aServing = serving:1
+4/6/2022 22:56:43: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bPoints = point: 0; games: 3; sets: 1 
+4/6/2022 22:56:43: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bServing = serving:0
+4/6/2022 22:56:43: [G_Auto 1] :  Store Value (Shared) for market: price = 1.91
+4/6/2022 22:56:43: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 155.64
+4/6/2022 22:56:43: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 174.48
+4/6/2022 22:56:43: [G_Auto 1] :  Store Value (Shared) for market: stake = 8.6
+4/6/2022 22:56:43: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 330.12
+4/6/2022 22:56:43: [G_Auto 1] :  Store Value (Shared) for market: pl = 10.05
+4/6/2022 22:56:43: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.91
+4/6/2022 22:56:43: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.04
+4/6/2022 22:56:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:57:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/6/2022 22:57:05: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/6/2022 22:57:21: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 00:14:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:15:09: [G_Auto 2] :  € 20.51 Lay bet placed on Claire Liu at 1.39. Entirely unmatched when it initially reached the market.   Ref: 11234          ( Fill or kill bet with 15 seconds delay.   )
+4/7/2022 00:15:09: [G_Auto 2] :  Placed closure bet with greening on Shuai Zhang by Backing 4.94 at 3.3
+4/7/2022 00:15:10: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aPoints = point: 0; games: 3; sets: 1 
+4/7/2022 00:15:10: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aServing = serving:0
+4/7/2022 00:15:10: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bPoints = point: 0; games: 4; sets: 1 
+4/7/2022 00:15:10: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bServing = serving:2
+4/7/2022 00:15:10: [G_Auto 1] :  Store Value (Shared) for market: price = 3.3
+4/7/2022 00:15:10: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 160.58
+4/7/2022 00:15:10: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 174.48
+4/7/2022 00:15:10: [G_Auto 1] :  Store Value (Shared) for market: stake = 4.94
+4/7/2022 00:15:10: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 335.06
+4/7/2022 00:15:10: [G_Auto 1] :  Store Value (Shared) for market: pl = 13.61
+4/7/2022 00:15:10: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.65
+4/7/2022 00:15:10: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.43
+4/7/2022 00:15:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:15:16: [G_Auto 2] :  € 20.51 of unmatched bet (Ref:11234) was filled before remainder was killed.
+4/7/2022 00:15:16: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aPoints = point: 0; games: 3; sets: 1 
+4/7/2022 00:15:16: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aServing = serving:0
+4/7/2022 00:15:16: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bPoints = point: 0; games: 4; sets: 1 
+4/7/2022 00:15:16: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bServing = serving:2
+4/7/2022 00:15:16: [G_Auto 1] :  Store Value (Shared) for market: price = 1.39
+4/7/2022 00:15:16: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 160.58
+4/7/2022 00:15:16: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 194.99
+4/7/2022 00:15:16: [G_Auto 1] :  Store Value (Shared) for market: stake = 20.51
+4/7/2022 00:15:16: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 355.57
+4/7/2022 00:15:16: [G_Auto 1] :  Store Value (Shared) for market: pl = 13.75
+4/7/2022 00:15:16: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.3
+4/7/2022 00:15:16: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.39
+4/7/2022 00:15:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:15:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:15:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:16:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:16:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:16:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:16:56: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 00:17:11: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 00:19:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:20:11: [G_Auto 2] :  Placed closure bet with greening on Claire Liu by Backing 25.02 at 1.14
+4/7/2022 00:20:12: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aPoints = point: 0; games: 3; sets: 1 
+4/7/2022 00:20:12: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aServing = serving:1
+4/7/2022 00:20:12: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bPoints = point: 0; games: 5; sets: 1 
+4/7/2022 00:20:12: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bServing = serving:0
+4/7/2022 00:20:12: [G_Auto 1] :  Store Value (Shared) for market: price = 1.14
+4/7/2022 00:20:12: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 185.6
+4/7/2022 00:20:12: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 194.99
+4/7/2022 00:20:12: [G_Auto 1] :  Store Value (Shared) for market: stake = 25.02
+4/7/2022 00:20:12: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 380.59
+4/7/2022 00:20:12: [G_Auto 1] :  Store Value (Shared) for market: pl = 9.19
+4/7/2022 00:20:12: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 7.6
+4/7/2022 00:20:12: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.14
+4/7/2022 00:20:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:20:30: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 00:20:46: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 00:23:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:23:44: [G_Auto 2] :  € 26.67 Lay bet placed on Claire Liu at 1.3. Fully matched at 1.29.  Ref: 11240          ( Fill or kill bet with 15 seconds delay.   )
+4/7/2022 00:23:45: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aPoints = point: 0; games: 4; sets: 1 
+4/7/2022 00:23:45: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aServing = serving:0
+4/7/2022 00:23:45: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bPoints = point: 0; games: 5; sets: 1 
+4/7/2022 00:23:45: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bServing = serving:2
+4/7/2022 00:23:45: [G_Auto 1] :  Store Value (Shared) for market: price = 1.29
+4/7/2022 00:23:45: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 185.6
+4/7/2022 00:23:45: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 221.66
+4/7/2022 00:23:45: [G_Auto 1] :  Store Value (Shared) for market: stake = 26.67
+4/7/2022 00:23:45: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 407.26
+4/7/2022 00:23:45: [G_Auto 1] :  Store Value (Shared) for market: pl = 8.78
+4/7/2022 00:23:45: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 4.8
+4/7/2022 00:23:45: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.27
+4/7/2022 00:23:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:23:50: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aPoints = point: 0; games: 4; sets: 1 
+4/7/2022 00:23:50: [G_Auto 1] :  Store Text Value (Shared) for Shuai Zhang: aServing = serving:0
+4/7/2022 00:23:50: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bPoints = point: 0; games: 5; sets: 1 
+4/7/2022 00:23:50: [G_Auto 1] :  Store Text Value (Shared) for Claire Liu: bServing = serving:2
+4/7/2022 00:23:50: [G_Auto 1] :  Store Value (Shared) for market: price = 1.29
+4/7/2022 00:23:50: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 185.6
+4/7/2022 00:23:50: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 221.66
+4/7/2022 00:23:50: [G_Auto 1] :  Store Value (Shared) for market: stake = 26.67
+4/7/2022 00:23:50: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 407.26
+4/7/2022 00:23:50: [G_Auto 1] :  Store Value (Shared) for market: pl = 8.78
+4/7/2022 00:23:50: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 4.5
+4/7/2022 00:23:50: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.28
+4/7/2022 00:24:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:24:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:24:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:24:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:25:06: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:25:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:25:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:25:47: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 00:26:03: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 00:26:19: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/7/2022 00:28:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:28:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/7/2022 00:29:07:  Guardian has detected that the market is suspended
