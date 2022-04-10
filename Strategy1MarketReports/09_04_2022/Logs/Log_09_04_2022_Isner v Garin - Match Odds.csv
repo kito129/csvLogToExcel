@@ -1,0 +1,645 @@
+4/9/2022 10:16:31: [G_Auto 1] :  Store Text Value (Shared) for John Isner: info = marketName: Isner v Garin - Match Odds; runnerA: John Isner; runnerB: Cristian Garin 
+4/9/2022 10:16:31: [G_Auto 1] :  Store Value (Shared) for market: aId = 2474763
+4/9/2022 10:16:31: [G_Auto 1] :  Store Value (Shared) for market: bId = 23814703
+4/9/2022 20:41:02:  Guardian has detected that the market is in-play
+4/9/2022 20:41:02:  Guardian has detected that the market is suspended
+4/9/2022 20:41:02: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.84; bBsp: 2.16; volume: 38045.55 
+4/9/2022 20:41:02: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.84; bBsp: 2.16; volume: 38045.55 
+4/9/2022 20:41:02:  Guardian has detected that the market is now unsuspended
+4/9/2022 20:41:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:41:12: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 20:41:27: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 20:41:42: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 20:43:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:43:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:43:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:43:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:44:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:44:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:44:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:44:39: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 20:44:54: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 20:46:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:46:34: [G_Auto 2] :  € 9.20 Lay bet placed on John Isner at 1.87. Fully matched at 1.86.  Ref: 12087          ( Fill or kill bet with 15 seconds delay.   )
+4/9/2022 20:46:34: [G_Auto 1] :  Store Text Value (Shared) for John Isner: aPoints = point: 0; games: 1; sets: 0 
+4/9/2022 20:46:34: [G_Auto 1] :  Store Text Value (Shared) for John Isner: aServing = serving:1
+4/9/2022 20:46:34: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: bPoints = point: 0; games: 1; sets: 0 
+4/9/2022 20:46:34: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: bServing = serving:0
+4/9/2022 20:46:34: [G_Auto 1] :  Store Value (Shared) for market: price = 1.86
+4/9/2022 20:46:34: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 0
+4/9/2022 20:46:34: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 9.2
+4/9/2022 20:46:34: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.2
+4/9/2022 20:46:34: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 9.2
+4/9/2022 20:46:34: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.05
+4/9/2022 20:46:34: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.85
+4/9/2022 20:46:34: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.16
+4/9/2022 20:46:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:46:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:46:59: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 20:47:14: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 20:47:29: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 20:49:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:49:51: [G_Auto 2] :  Placed closure bet with greening on John Isner by Backing 9.51 at 1.8
+4/9/2022 20:49:52: [G_Auto 1] :  Store Text Value (Shared) for John Isner: aPoints = point: 0; games: 2; sets: 0 
+4/9/2022 20:49:52: [G_Auto 1] :  Store Text Value (Shared) for John Isner: aServing = serving:0
+4/9/2022 20:49:52: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: bPoints = point: 0; games: 1; sets: 0 
+4/9/2022 20:49:52: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: bServing = serving:2
+4/9/2022 20:49:52: [G_Auto 1] :  Store Value (Shared) for market: price = 1.8
+4/9/2022 20:49:52: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 9.51
+4/9/2022 20:49:52: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 9.2
+4/9/2022 20:49:52: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.51
+4/9/2022 20:49:52: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 18.71
+4/9/2022 20:49:52: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.3
+4/9/2022 20:49:52: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.8
+4/9/2022 20:49:52: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.22
+4/9/2022 20:49:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:50:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:50:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:50:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:50:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:51:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:51:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:51:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:51:52: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 20:52:07: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 20:54:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:54:40: [G_Auto 2] :  € 9.41 Lay bet placed on John Isner at 1.85. Fully matched at 1.84.  Ref: 12091          ( Fill or kill bet with 15 seconds delay.   )
+4/9/2022 20:54:41: [G_Auto 1] :  Store Text Value (Shared) for John Isner: aPoints = point: 0; games: 2; sets: 0 
+4/9/2022 20:54:41: [G_Auto 1] :  Store Text Value (Shared) for John Isner: aServing = serving:1
+4/9/2022 20:54:41: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: bPoints = point: 0; games: 2; sets: 0 
+4/9/2022 20:54:41: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: bServing = serving:0
+4/9/2022 20:54:41: [G_Auto 1] :  Store Value (Shared) for market: price = 1.84
+4/9/2022 20:54:41: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 9.51
+4/9/2022 20:54:41: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 18.61
+4/9/2022 20:54:41: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.41
+4/9/2022 20:54:41: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 28.12
+4/9/2022 20:54:41: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.36
+4/9/2022 20:54:41: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.83
+4/9/2022 20:54:41: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.22
+4/9/2022 20:54:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:54:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:55:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:55:19: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 20:55:34: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 20:57:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:57:36: [G_Auto 2] :  Placed closure bet with greening on John Isner by Backing 9.95 at 1.74
+4/9/2022 20:57:36: [G_Auto 1] :  Store Text Value (Shared) for John Isner: aPoints = point: 0; games: 3; sets: 0 
+4/9/2022 20:57:36: [G_Auto 1] :  Store Text Value (Shared) for John Isner: aServing = serving:0
+4/9/2022 20:57:36: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: bPoints = point: 0; games: 2; sets: 0 
+4/9/2022 20:57:36: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: bServing = serving:2
+4/9/2022 20:57:36: [G_Auto 1] :  Store Value (Shared) for market: price = 1.74
+4/9/2022 20:57:36: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 19.46
+4/9/2022 20:57:36: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 18.61
+4/9/2022 20:57:36: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.95
+4/9/2022 20:57:36: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 38.07
+4/9/2022 20:57:36: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.85
+4/9/2022 20:57:36: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.76
+4/9/2022 20:57:36: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.3
+4/9/2022 20:57:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:57:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:58:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:58:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:58:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:58:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:59:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:59:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:59:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:59:42: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 20:59:57: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 21:00:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:00:51: [G_Auto 2] :  € 8.89 Lay bet placed on John Isner at 1.9. Fully matched at 1.88.  Ref: 12094          ( Fill or kill bet with 15 seconds delay.   )
+4/9/2022 21:00:51: [G_Auto 1] :  Store Text Value (Shared) for John Isner: aPoints = point: 0; games: 3; sets: 0 
+4/9/2022 21:00:51: [G_Auto 1] :  Store Text Value (Shared) for John Isner: aServing = serving:1
+4/9/2022 21:00:51: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: bPoints = point: 0; games: 3; sets: 0 
+4/9/2022 21:00:51: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: bServing = serving:0
+4/9/2022 21:00:51: [G_Auto 1] :  Store Value (Shared) for market: price = 1.88
+4/9/2022 21:00:51: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 19.46
+4/9/2022 21:00:51: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 27.5
+4/9/2022 21:00:51: [G_Auto 1] :  Store Value (Shared) for market: stake = 8.89
+4/9/2022 21:00:51: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 46.96
+4/9/2022 21:00:51: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.9
+4/9/2022 21:00:51: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.88
+4/9/2022 21:00:51: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.14
+4/9/2022 21:00:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:01:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:01:24: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 21:01:39: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 21:01:55: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 21:05:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:05:45: [G_Auto 2] :  Placed closure bet with greening on John Isner by Backing 4.99 at 3.35
+4/9/2022 21:05:45: [G_Auto 2] :  € 18.60 Lay bet placed on Cristian Garin at 1.43. Fully matched at 1.43.  Ref: 12097          ( Fill or kill bet with 15 seconds delay.   )
+4/9/2022 21:05:46: [G_Auto 1] :  Store Text Value (Shared) for John Isner: aPoints = point: 0; games: 3; sets: 0 
+4/9/2022 21:05:46: [G_Auto 1] :  Store Text Value (Shared) for John Isner: aServing = serving:0
+4/9/2022 21:05:46: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: bPoints = point: 0; games: 4; sets: 0 
+4/9/2022 21:05:46: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: bServing = serving:2
+4/9/2022 21:05:46: [G_Auto 1] :  Store Value (Shared) for market: price = 3.35
+4/9/2022 21:05:46: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 24.45
+4/9/2022 21:05:46: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 46.1
+4/9/2022 21:05:46: [G_Auto 1] :  Store Value (Shared) for market: stake = 4.99
+4/9/2022 21:05:46: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 70.55
+4/9/2022 21:05:46: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.73
+4/9/2022 21:05:46: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.35
+4/9/2022 21:05:46: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.43
+4/9/2022 21:05:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:05:51: [G_Auto 1] :  Store Text Value (Shared) for John Isner: aPoints = point: 0; games: 3; sets: 0 
+4/9/2022 21:05:51: [G_Auto 1] :  Store Text Value (Shared) for John Isner: aServing = serving:0
+4/9/2022 21:05:51: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: bPoints = point: 0; games: 4; sets: 0 
+4/9/2022 21:05:51: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: bServing = serving:2
+4/9/2022 21:05:51: [G_Auto 1] :  Store Value (Shared) for market: price = 3.35
+4/9/2022 21:05:51: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 24.45
+4/9/2022 21:05:51: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 46.1
+4/9/2022 21:05:51: [G_Auto 1] :  Store Value (Shared) for market: stake = 4.99
+4/9/2022 21:05:51: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 70.55
+4/9/2022 21:05:51: [G_Auto 1] :  Store Value (Shared) for market: pl = 3
+4/9/2022 21:05:51: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.35
+4/9/2022 21:05:51: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.43
+4/9/2022 21:06:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:06:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:06:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:06:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:07:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:07:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:07:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:07:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:07:55: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 21:08:10: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 21:08:25: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 21:10:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:10:51: [G_Auto 2] :  Placed closure bet with greening on Cristian Garin by Backing 19.41 at 1.37
+4/9/2022 21:10:52: [G_Auto 1] :  Store Text Value (Shared) for John Isner: aPoints = point: 0; games: 3; sets: 0 
+4/9/2022 21:10:52: [G_Auto 1] :  Store Text Value (Shared) for John Isner: aServing = serving:1
+4/9/2022 21:10:52: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: bPoints = point: 0; games: 5; sets: 0 
+4/9/2022 21:10:52: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: bServing = serving:0
+4/9/2022 21:10:52: [G_Auto 1] :  Store Value (Shared) for market: price = 1.37
+4/9/2022 21:10:52: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 43.86
+4/9/2022 21:10:52: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 46.1
+4/9/2022 21:10:52: [G_Auto 1] :  Store Value (Shared) for market: stake = 19.41
+4/9/2022 21:10:52: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 89.96
+4/9/2022 21:10:52: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.21
+4/9/2022 21:10:52: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.65
+4/9/2022 21:10:52: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.38
+4/9/2022 21:10:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:11:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:11:20: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 21:11:35: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 21:13:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:13:33: [G_Auto 2] :  € 21.05 Lay bet placed on Cristian Garin at 1.38. Fully matched at 1.38.  Ref: 12100          ( Fill or kill bet with 15 seconds delay.   )
+4/9/2022 21:13:33: [G_Auto 1] :  Store Text Value (Shared) for John Isner: aPoints = point: 0; games: 4; sets: 0 
+4/9/2022 21:13:33: [G_Auto 1] :  Store Text Value (Shared) for John Isner: aServing = serving:0
+4/9/2022 21:13:33: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: bPoints = point: 0; games: 5; sets: 0 
+4/9/2022 21:13:33: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: bServing = serving:2
+4/9/2022 21:13:33: [G_Auto 1] :  Store Value (Shared) for market: price = 1.38
+4/9/2022 21:13:33: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 43.86
+4/9/2022 21:13:33: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 67.15
+4/9/2022 21:13:33: [G_Auto 1] :  Store Value (Shared) for market: stake = 21.05
+4/9/2022 21:13:33: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 111.01
+4/9/2022 21:13:33: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.05
+4/9/2022 21:13:33: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.7
+4/9/2022 21:13:33: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.38
+4/9/2022 21:13:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:13:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:14:06: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:14:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:14:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:14:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:15:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:15:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:15:35: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 21:15:50: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 21:16:06: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 21:17:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:17:51: [G_Auto 1] :  Store Value (Shared) for market: aFirstSetPrice = 3.95
+4/9/2022 21:17:51: [G_Auto 1] :  Store Value (Shared) for market: bFirstSetPrice = 1.34
+4/9/2022 21:17:55: [G_Auto 2] :  Placed closure bet with greening on Cristian Garin by Backing 21.85 at 1.33
+4/9/2022 21:17:56: [G_Auto 1] :  Store Text Value (Shared) for John Isner: aPoints = point: 0; games: 0; sets: 0 
+4/9/2022 21:17:56: [G_Auto 1] :  Store Text Value (Shared) for John Isner: aServing = serving:1
+4/9/2022 21:17:56: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: bPoints = point: 0; games: 0; sets: 1 
+4/9/2022 21:17:56: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: bServing = serving:0
+4/9/2022 21:17:56: [G_Auto 1] :  Store Value (Shared) for market: price = 1.33
+4/9/2022 21:17:56: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 65.71
+4/9/2022 21:17:56: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 67.15
+4/9/2022 21:17:56: [G_Auto 1] :  Store Value (Shared) for market: stake = 21.85
+4/9/2022 21:17:56: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 132.86
+4/9/2022 21:17:56: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.42
+4/9/2022 21:17:56: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.9
+4/9/2022 21:17:56: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.33
+4/9/2022 21:17:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:18:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:18:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:18:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:18:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:19:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:19:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:19:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:19:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:20:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:20:21: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 21:20:36: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 21:21:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:21:52: [G_Auto 2] :  € 18.60 Lay bet placed on Cristian Garin at 1.43. Fully matched at 1.42.  Ref: 12105          ( Fill or kill bet with 15 seconds delay.   )
+4/9/2022 21:21:52: [G_Auto 1] :  Store Text Value (Shared) for John Isner: aPoints = point: 0; games: 1; sets: 0 
+4/9/2022 21:21:52: [G_Auto 1] :  Store Text Value (Shared) for John Isner: aServing = serving:0
+4/9/2022 21:21:52: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: bPoints = point: 0; games: 0; sets: 1 
+4/9/2022 21:21:52: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: bServing = serving:2
+4/9/2022 21:21:52: [G_Auto 1] :  Store Value (Shared) for market: price = 1.42
+4/9/2022 21:21:52: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 65.71
+4/9/2022 21:21:52: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 85.75
+4/9/2022 21:21:52: [G_Auto 1] :  Store Value (Shared) for market: stake = 18.6
+4/9/2022 21:21:52: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 151.46
+4/9/2022 21:21:52: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.29
+4/9/2022 21:21:52: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.4
+4/9/2022 21:21:52: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.41
+4/9/2022 21:21:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:22:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:22:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:22:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:22:54: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 21:23:09: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 21:30:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:30:40: [G_Auto 2] :  Placed closure bet with greening on Cristian Garin by Backing 13.83 at 1.91
+4/9/2022 21:30:41: [G_Auto 1] :  Store Text Value (Shared) for John Isner: aPoints = point: 0; games: 2; sets: 0 
+4/9/2022 21:30:41: [G_Auto 1] :  Store Text Value (Shared) for John Isner: aServing = serving:1
+4/9/2022 21:30:41: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: bPoints = point: 0; games: 0; sets: 1 
+4/9/2022 21:30:41: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: bServing = serving:0
+4/9/2022 21:30:41: [G_Auto 1] :  Store Value (Shared) for market: price = 1.91
+4/9/2022 21:30:41: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 79.54
+4/9/2022 21:30:41: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 85.75
+4/9/2022 21:30:41: [G_Auto 1] :  Store Value (Shared) for market: stake = 13.83
+4/9/2022 21:30:41: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 165.29
+4/9/2022 21:30:41: [G_Auto 1] :  Store Value (Shared) for market: pl = 6.1
+4/9/2022 21:30:41: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.1
+4/9/2022 21:30:41: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.91
+4/9/2022 21:30:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:30:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:31:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:31:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:31:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:31:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:32:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:32:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:32:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:32:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:33:01: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 21:33:16: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 21:34:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:34:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:34:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:35:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:35:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:35:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:35:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:36:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:36:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:36:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:36:55: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 21:37:11: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 21:37:26: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 21:38:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:38:27: [G_Auto 2] :  € 8.60 Lay bet placed on John Isner at 1.93. Fully matched at 1.93.  Ref: 12112          ( Fill or kill bet with 15 seconds delay.   )
+4/9/2022 21:38:27: [G_Auto 1] :  Store Text Value (Shared) for John Isner: aPoints = point: 0; games: 3; sets: 0 
+4/9/2022 21:38:27: [G_Auto 1] :  Store Text Value (Shared) for John Isner: aServing = serving:1
+4/9/2022 21:38:27: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: bPoints = point: 0; games: 1; sets: 1 
+4/9/2022 21:38:27: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: bServing = serving:0
+4/9/2022 21:38:27: [G_Auto 1] :  Store Value (Shared) for market: price = 1.93
+4/9/2022 21:38:27: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 79.54
+4/9/2022 21:38:27: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 94.35
+4/9/2022 21:38:27: [G_Auto 1] :  Store Value (Shared) for market: stake = 8.6
+4/9/2022 21:38:27: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 173.89
+4/9/2022 21:38:27: [G_Auto 1] :  Store Value (Shared) for market: pl = 6
+4/9/2022 21:38:27: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.91
+4/9/2022 21:38:27: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.08
+4/9/2022 21:38:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:38:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:39:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:39:01: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 21:39:17: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 21:39:32: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 21:41:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:42:05: [G_Auto 2] :  Placed closure bet with greening on John Isner by Backing 8.64 at 1.92
+4/9/2022 21:42:05: [G_Auto 1] :  Store Text Value (Shared) for John Isner: aPoints = point: 0; games: 4; sets: 0 
+4/9/2022 21:42:05: [G_Auto 1] :  Store Text Value (Shared) for John Isner: aServing = serving:0
+4/9/2022 21:42:05: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: bPoints = point: 0; games: 1; sets: 1 
+4/9/2022 21:42:05: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: bServing = serving:2
+4/9/2022 21:42:05: [G_Auto 1] :  Store Value (Shared) for market: price = 1.92
+4/9/2022 21:42:05: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 88.18
+4/9/2022 21:42:05: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 94.35
+4/9/2022 21:42:05: [G_Auto 1] :  Store Value (Shared) for market: stake = 8.64
+4/9/2022 21:42:05: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 182.53
+4/9/2022 21:42:05: [G_Auto 1] :  Store Value (Shared) for market: pl = 6.05
+4/9/2022 21:42:05: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.93
+4/9/2022 21:42:05: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.08
+4/9/2022 21:42:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:42:10: [G_Auto 1] :  Store Text Value (Shared) for John Isner: aPoints = point: 0; games: 4; sets: 0 
+4/9/2022 21:42:10: [G_Auto 1] :  Store Text Value (Shared) for John Isner: aServing = serving:0
+4/9/2022 21:42:10: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: bPoints = point: 0; games: 1; sets: 1 
+4/9/2022 21:42:10: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: bServing = serving:2
+4/9/2022 21:42:10: [G_Auto 1] :  Store Value (Shared) for market: price = 1.92
+4/9/2022 21:42:10: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 88.18
+4/9/2022 21:42:10: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 94.35
+4/9/2022 21:42:10: [G_Auto 1] :  Store Value (Shared) for market: stake = 8.64
+4/9/2022 21:42:10: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 182.53
+4/9/2022 21:42:10: [G_Auto 1] :  Store Value (Shared) for market: pl = 6.05
+4/9/2022 21:42:10: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.93
+4/9/2022 21:42:10: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.08
+4/9/2022 21:42:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:42:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:42:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:43:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:43:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:43:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:43:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:44:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:44:10: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 21:44:25: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 21:44:41: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 21:44:56: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 21:46:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:46:35: [G_Auto 2] :  € 8.79 Lay bet placed on John Isner at 1.91. Fully matched at 1.9.  Ref: 12117          ( Fill or kill bet with 15 seconds delay.   )
+4/9/2022 21:46:35: [G_Auto 1] :  Store Text Value (Shared) for John Isner: aPoints = point: 0; games: 4; sets: 0 
+4/9/2022 21:46:35: [G_Auto 1] :  Store Text Value (Shared) for John Isner: aServing = serving:1
+4/9/2022 21:46:35: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: bPoints = point: 0; games: 2; sets: 1 
+4/9/2022 21:46:35: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: bServing = serving:0
+4/9/2022 21:46:35: [G_Auto 1] :  Store Value (Shared) for market: price = 1.9
+4/9/2022 21:46:35: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 88.18
+4/9/2022 21:46:35: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 103.14
+4/9/2022 21:46:35: [G_Auto 1] :  Store Value (Shared) for market: stake = 8.79
+4/9/2022 21:46:35: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 191.32
+4/9/2022 21:46:35: [G_Auto 1] :  Store Value (Shared) for market: pl = 5.96
+4/9/2022 21:46:35: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.89
+4/9/2022 21:46:35: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.14
+4/9/2022 21:46:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:46:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:47:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:47:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:47:33: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 21:47:48: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 21:48:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:48:57: [G_Auto 2] :  Placed closure bet with greening on John Isner by Backing 9.49 at 1.76
+4/9/2022 21:48:58: [G_Auto 1] :  Store Text Value (Shared) for John Isner: aPoints = point: 0; games: 5; sets: 0 
+4/9/2022 21:48:58: [G_Auto 1] :  Store Text Value (Shared) for John Isner: aServing = serving:0
+4/9/2022 21:48:58: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: bPoints = point: 0; games: 2; sets: 1 
+4/9/2022 21:48:58: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: bServing = serving:2
+4/9/2022 21:48:58: [G_Auto 1] :  Store Value (Shared) for market: price = 1.76
+4/9/2022 21:48:58: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 97.67
+4/9/2022 21:48:58: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 103.14
+4/9/2022 21:48:58: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.49
+4/9/2022 21:48:58: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 200.81
+4/9/2022 21:48:58: [G_Auto 1] :  Store Value (Shared) for market: pl = 5.36
+4/9/2022 21:48:58: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.78
+4/9/2022 21:48:58: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.26
+4/9/2022 21:49:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:49:03: [G_Auto 1] :  Store Text Value (Shared) for John Isner: aPoints = point: 0; games: 5; sets: 0 
+4/9/2022 21:49:03: [G_Auto 1] :  Store Text Value (Shared) for John Isner: aServing = serving:0
+4/9/2022 21:49:03: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: bPoints = point: 0; games: 2; sets: 1 
+4/9/2022 21:49:03: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: bServing = serving:2
+4/9/2022 21:49:03: [G_Auto 1] :  Store Value (Shared) for market: price = 1.76
+4/9/2022 21:49:03: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 97.67
+4/9/2022 21:49:03: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 103.14
+4/9/2022 21:49:03: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.49
+4/9/2022 21:49:03: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 200.81
+4/9/2022 21:49:03: [G_Auto 1] :  Store Value (Shared) for market: pl = 5.36
+4/9/2022 21:49:03: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.78
+4/9/2022 21:49:03: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.28
+4/9/2022 21:49:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:49:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:49:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:50:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:50:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:50:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:50:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:51:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:51:04: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 21:51:19: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 21:52:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:52:50: [G_Auto 2] :  € 9.41 Lay bet placed on John Isner at 1.85. Fully matched at 1.84.  Ref: 12121          ( Fill or kill bet with 15 seconds delay.   )
+4/9/2022 21:52:50: [G_Auto 1] :  Store Text Value (Shared) for John Isner: aPoints = point: 0; games: 5; sets: 0 
+4/9/2022 21:52:50: [G_Auto 1] :  Store Text Value (Shared) for John Isner: aServing = serving:1
+4/9/2022 21:52:50: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: bPoints = point: 0; games: 3; sets: 1 
+4/9/2022 21:52:50: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: bServing = serving:0
+4/9/2022 21:52:50: [G_Auto 1] :  Store Value (Shared) for market: price = 1.84
+4/9/2022 21:52:50: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 97.67
+4/9/2022 21:52:50: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 112.55
+4/9/2022 21:52:50: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.41
+4/9/2022 21:52:50: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 210.22
+4/9/2022 21:52:50: [G_Auto 1] :  Store Value (Shared) for market: pl = 5.31
+4/9/2022 21:52:50: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.83
+4/9/2022 21:52:50: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.18
+4/9/2022 21:52:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:53:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:53:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:53:25: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 21:53:40: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 21:57:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:57:17: [G_Auto 1] :  Store Value (Shared) for market: aSecondSetPrice = 1.79
+4/9/2022 21:57:17: [G_Auto 1] :  Store Value (Shared) for market: bSecondSetPrice = 2.28
+4/9/2022 21:57:22: [G_Auto 2] :  Placed closure bet with greening on John Isner by Backing 9.78 at 1.77
+4/9/2022 21:57:24: [G_Auto 1] :  Store Text Value (Shared) for John Isner: aPoints = point: 0; games: 0; sets: 1 
+4/9/2022 21:57:24: [G_Auto 1] :  Store Text Value (Shared) for John Isner: aServing = serving:0
+4/9/2022 21:57:24: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: bPoints = point: 0; games: 0; sets: 1 
+4/9/2022 21:57:24: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: bServing = serving:2
+4/9/2022 21:57:24: [G_Auto 1] :  Store Value (Shared) for market: price = 1.77
+4/9/2022 21:57:24: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 107.45
+4/9/2022 21:57:24: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 112.55
+4/9/2022 21:57:24: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.78
+4/9/2022 21:57:24: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 220
+4/9/2022 21:57:24: [G_Auto 1] :  Store Value (Shared) for market: pl = 5
+4/9/2022 21:57:24: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.79
+4/9/2022 21:57:24: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.28
+4/9/2022 21:57:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:57:29: [G_Auto 1] :  Store Text Value (Shared) for John Isner: aPoints = point: 0; games: 0; sets: 1 
+4/9/2022 21:57:29: [G_Auto 1] :  Store Text Value (Shared) for John Isner: aServing = serving:0
+4/9/2022 21:57:29: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: bPoints = point: 0; games: 0; sets: 1 
+4/9/2022 21:57:29: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: bServing = serving:2
+4/9/2022 21:57:29: [G_Auto 1] :  Store Value (Shared) for market: price = 1.77
+4/9/2022 21:57:29: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 107.45
+4/9/2022 21:57:29: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 112.55
+4/9/2022 21:57:29: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.78
+4/9/2022 21:57:29: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 220
+4/9/2022 21:57:29: [G_Auto 1] :  Store Value (Shared) for market: pl = 5
+4/9/2022 21:57:29: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.79
+4/9/2022 21:57:29: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.28
+4/9/2022 21:57:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:57:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:58:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:58:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:58:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:58:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:59:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:59:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:59:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 21:59:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 22:00:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 22:00:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 22:00:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 22:00:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 22:01:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 22:01:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 22:01:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 22:01:46: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 22:02:01: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 22:03:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 22:03:55: [G_Auto 2] :  € 8.51 Lay bet placed on John Isner at 1.94. Fully matched at 1.93.  Ref: 12126          ( Fill or kill bet with 15 seconds delay.   )
+4/9/2022 22:03:55: [G_Auto 1] :  Store Text Value (Shared) for John Isner: aPoints = point: 0; games: 0; sets: 1 
+4/9/2022 22:03:55: [G_Auto 1] :  Store Text Value (Shared) for John Isner: aServing = serving:1
+4/9/2022 22:03:55: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: bPoints = point: 0; games: 1; sets: 1 
+4/9/2022 22:03:55: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: bServing = serving:0
+4/9/2022 22:03:55: [G_Auto 1] :  Store Value (Shared) for market: price = 1.93
+4/9/2022 22:03:55: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 107.45
+4/9/2022 22:03:55: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 121.06
+4/9/2022 22:03:55: [G_Auto 1] :  Store Value (Shared) for market: stake = 8.51
+4/9/2022 22:03:55: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 228.51
+4/9/2022 22:03:55: [G_Auto 1] :  Store Value (Shared) for market: pl = 4.95
+4/9/2022 22:03:55: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.92
+4/9/2022 22:03:55: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.06
+4/9/2022 22:03:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 22:04:00: [G_Auto 1] :  Store Text Value (Shared) for John Isner: aPoints = point: 0; games: 0; sets: 1 
+4/9/2022 22:04:00: [G_Auto 1] :  Store Text Value (Shared) for John Isner: aServing = serving:1
+4/9/2022 22:04:00: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: bPoints = point: 0; games: 1; sets: 1 
+4/9/2022 22:04:00: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: bServing = serving:0
+4/9/2022 22:04:00: [G_Auto 1] :  Store Value (Shared) for market: price = 1.93
+4/9/2022 22:04:00: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 107.45
+4/9/2022 22:04:00: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 121.06
+4/9/2022 22:04:00: [G_Auto 1] :  Store Value (Shared) for market: stake = 8.51
+4/9/2022 22:04:00: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 228.51
+4/9/2022 22:04:00: [G_Auto 1] :  Store Value (Shared) for market: pl = 4.91
+4/9/2022 22:04:00: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.91
+4/9/2022 22:04:00: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.06
+4/9/2022 22:04:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 22:04:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 22:04:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 22:04:49: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 22:05:04: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 22:07:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 22:07:28: [G_Auto 2] :  Placed closure bet with greening on John Isner by Backing 9.08 at 1.81
+4/9/2022 22:07:28: [G_Auto 1] :  Store Text Value (Shared) for John Isner: aPoints = point: 0; games: 1; sets: 1 
+4/9/2022 22:07:28: [G_Auto 1] :  Store Text Value (Shared) for John Isner: aServing = serving:0
+4/9/2022 22:07:28: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: bPoints = point: 0; games: 1; sets: 1 
+4/9/2022 22:07:28: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: bServing = serving:2
+4/9/2022 22:07:28: [G_Auto 1] :  Store Value (Shared) for market: price = 1.81
+4/9/2022 22:07:28: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 116.53
+4/9/2022 22:07:28: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 121.06
+4/9/2022 22:07:28: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.08
+4/9/2022 22:07:28: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 237.59
+4/9/2022 22:07:28: [G_Auto 1] :  Store Value (Shared) for market: pl = 4.45
+4/9/2022 22:07:28: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.82
+4/9/2022 22:07:28: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.2
+4/9/2022 22:07:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 22:07:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 22:08:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 22:08:04: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 22:08:19: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 22:09:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 22:09:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 22:09:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 22:10:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 22:10:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 22:10:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 22:10:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 22:11:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 22:11:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 22:11:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 22:11:36: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 22:11:51: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 22:12:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 22:13:06: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 22:13:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 22:13:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 22:13:49: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 22:14:04: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 22:17:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 22:17:49: [G_Auto 2] :  € 61.54 Lay bet placed on John Isner at 1.13. Fully matched at 1.12.  Ref: 12128          ( Fill or kill bet with 15 seconds delay.   )
+4/9/2022 22:17:49: [G_Auto 1] :  Store Text Value (Shared) for John Isner: aPoints = point: 0; games: 3; sets: 1 
+4/9/2022 22:17:49: [G_Auto 1] :  Store Text Value (Shared) for John Isner: aServing = serving:1
+4/9/2022 22:17:49: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: bPoints = point: 0; games: 2; sets: 1 
+4/9/2022 22:17:49: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: bServing = serving:0
+4/9/2022 22:17:49: [G_Auto 1] :  Store Value (Shared) for market: price = 1.12
+4/9/2022 22:17:49: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 116.53
+4/9/2022 22:17:49: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 182.6
+4/9/2022 22:17:49: [G_Auto 1] :  Store Value (Shared) for market: stake = 61.54
+4/9/2022 22:17:49: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 299.13
+4/9/2022 22:17:49: [G_Auto 1] :  Store Value (Shared) for market: pl = 3.9
+4/9/2022 22:17:49: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.12
+4/9/2022 22:17:49: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 9.6
+4/9/2022 22:17:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 22:17:54: [G_Auto 1] :  Store Text Value (Shared) for John Isner: aPoints = point: 0; games: 3; sets: 1 
+4/9/2022 22:17:54: [G_Auto 1] :  Store Text Value (Shared) for John Isner: aServing = serving:1
+4/9/2022 22:17:54: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: bPoints = point: 0; games: 2; sets: 1 
+4/9/2022 22:17:54: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: bServing = serving:0
+4/9/2022 22:17:54: [G_Auto 1] :  Store Value (Shared) for market: price = 1.12
+4/9/2022 22:17:54: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 116.53
+4/9/2022 22:17:54: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 182.6
+4/9/2022 22:17:54: [G_Auto 1] :  Store Value (Shared) for market: stake = 61.54
+4/9/2022 22:17:54: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 299.13
+4/9/2022 22:17:54: [G_Auto 1] :  Store Value (Shared) for market: pl = 3.9
+4/9/2022 22:17:54: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.12
+4/9/2022 22:17:54: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 9.6
+4/9/2022 22:18:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 22:18:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 22:18:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 22:18:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 22:19:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 22:19:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 22:19:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 22:19:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 22:20:05: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 22:20:21: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 22:21:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 22:21:28: [G_Auto 2] :  Placed closure bet with greening on John Isner by Backing 65.64 at 1.05
+4/9/2022 22:21:28: [G_Auto 1] :  Store Text Value (Shared) for John Isner: aPoints = point: 0; games: 4; sets: 1 
+4/9/2022 22:21:28: [G_Auto 1] :  Store Text Value (Shared) for John Isner: aServing = serving:0
+4/9/2022 22:21:28: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: bPoints = point: 0; games: 2; sets: 1 
+4/9/2022 22:21:28: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: bServing = serving:2
+4/9/2022 22:21:28: [G_Auto 1] :  Store Value (Shared) for market: price = 1.05
+4/9/2022 22:21:28: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 182.17
+4/9/2022 22:21:28: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 182.6
+4/9/2022 22:21:28: [G_Auto 1] :  Store Value (Shared) for market: stake = 65.64
+4/9/2022 22:21:28: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 364.77
+4/9/2022 22:21:28: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.42
+4/9/2022 22:21:28: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.06
+4/9/2022 22:21:28: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 17.5
+4/9/2022 22:21:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 22:21:33: [G_Auto 1] :  Store Text Value (Shared) for John Isner: aPoints = point: 0; games: 4; sets: 1 
+4/9/2022 22:21:33: [G_Auto 1] :  Store Text Value (Shared) for John Isner: aServing = serving:0
+4/9/2022 22:21:33: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: bPoints = point: 0; games: 2; sets: 1 
+4/9/2022 22:21:33: [G_Auto 1] :  Store Text Value (Shared) for Cristian Garin: bServing = serving:2
+4/9/2022 22:21:33: [G_Auto 1] :  Store Value (Shared) for market: price = 1.05
+4/9/2022 22:21:33: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 182.17
+4/9/2022 22:21:33: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 182.6
+4/9/2022 22:21:33: [G_Auto 1] :  Store Value (Shared) for market: stake = 65.64
+4/9/2022 22:21:33: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 364.77
+4/9/2022 22:21:33: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.42
+4/9/2022 22:21:33: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.06
+4/9/2022 22:21:33: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 17.5
+4/9/2022 22:21:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 22:22:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 22:22:09: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 22:22:24: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 22:23:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 22:23:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 22:23:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 22:24:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 22:24:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 22:24:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 22:24:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 22:25:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 22:25:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 22:25:26: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 22:25:41: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 22:27:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 22:27:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 22:27:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 22:27:52: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 22:29:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 22:29:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 22:30:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 22:30:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 22:30:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 22:30:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 22:31:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 22:31:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 22:31:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 22:31:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 22:32:02: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 22:32:17: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 22:35:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 22:35:33:  Guardian has detected that the market is suspended

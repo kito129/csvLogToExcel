@@ -1,0 +1,438 @@
+4/9/2022 10:16:30: [G_Auto 1] :  Store Text Value (Shared) for Nick Kyrgios: info = marketName: Kyrgios v Opelka - Match Odds; runnerA: Nick Kyrgios; runnerB: Reilly Opelka 
+4/9/2022 10:16:30: [G_Auto 1] :  Store Value (Shared) for market: aId = 7299658
+4/9/2022 10:16:30: [G_Auto 1] :  Store Value (Shared) for market: bId = 8859316
+4/9/2022 19:10:10:  Guardian has detected that the market is in-play
+4/9/2022 19:10:10:  Guardian has detected that the market is suspended
+4/9/2022 19:10:11: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.56; bBsp: 2.78; volume: 25151.17 
+4/9/2022 19:10:11: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.56; bBsp: 2.78; volume: 25151.17 
+4/9/2022 19:10:11:  Guardian has detected that the market is now unsuspended
+4/9/2022 19:10:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:10:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:10:38: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 19:10:53: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 19:11:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:12:11: [G_Auto 2] :  € 12.31 Lay bet placed on Nick Kyrgios at 1.65. Fully matched at 1.63.  Ref: 12042          ( Fill or kill bet with 15 seconds delay.   )
+4/9/2022 19:12:12: [G_Auto 1] :  Store Text Value (Shared) for Nick Kyrgios: aPoints = point: 0; games: 0; sets: 0 
+4/9/2022 19:12:12: [G_Auto 1] :  Store Text Value (Shared) for Nick Kyrgios: aServing = serving:1
+4/9/2022 19:12:12: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 1; sets: 0 
+4/9/2022 19:12:12: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:0
+4/9/2022 19:12:12: [G_Auto 1] :  Store Value (Shared) for market: price = 1.63
+4/9/2022 19:12:12: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 0
+4/9/2022 19:12:12: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 12.31
+4/9/2022 19:12:12: [G_Auto 1] :  Store Value (Shared) for market: stake = 12.31
+4/9/2022 19:12:12: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 12.31
+4/9/2022 19:12:12: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.08
+4/9/2022 19:12:12: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.63
+4/9/2022 19:12:12: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.58
+4/9/2022 19:12:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:12:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:12:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:12:56: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 19:13:12: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 19:14:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:14:49: [G_Auto 2] :  Placed closure bet with greening on Nick Kyrgios by Backing 12.62 at 1.59
+4/9/2022 19:14:50: [G_Auto 1] :  Store Text Value (Shared) for Nick Kyrgios: aPoints = point: 0; games: 1; sets: 0 
+4/9/2022 19:14:50: [G_Auto 1] :  Store Text Value (Shared) for Nick Kyrgios: aServing = serving:0
+4/9/2022 19:14:50: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 1; sets: 0 
+4/9/2022 19:14:50: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:2
+4/9/2022 19:14:50: [G_Auto 1] :  Store Value (Shared) for market: price = 1.59
+4/9/2022 19:14:50: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 12.62
+4/9/2022 19:14:50: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 12.31
+4/9/2022 19:14:50: [G_Auto 1] :  Store Value (Shared) for market: stake = 12.62
+4/9/2022 19:14:50: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 24.93
+4/9/2022 19:14:50: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.31
+4/9/2022 19:14:50: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.59
+4/9/2022 19:14:50: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.68
+4/9/2022 19:14:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:15:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:15:22: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 19:15:37: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 19:17:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:17:22: [G_Auto 2] :  € 12.12 Lay bet placed on Nick Kyrgios at 1.66. Fully matched at 1.65.  Ref: 12044          ( Fill or kill bet with 15 seconds delay.   )
+4/9/2022 19:17:23: [G_Auto 1] :  Store Text Value (Shared) for Nick Kyrgios: aPoints = point: 0; games: 1; sets: 0 
+4/9/2022 19:17:23: [G_Auto 1] :  Store Text Value (Shared) for Nick Kyrgios: aServing = serving:1
+4/9/2022 19:17:23: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 2; sets: 0 
+4/9/2022 19:17:23: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:0
+4/9/2022 19:17:23: [G_Auto 1] :  Store Value (Shared) for market: price = 1.65
+4/9/2022 19:17:23: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 12.62
+4/9/2022 19:17:23: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 24.43
+4/9/2022 19:17:23: [G_Auto 1] :  Store Value (Shared) for market: stake = 12.12
+4/9/2022 19:17:23: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 37.05
+4/9/2022 19:17:23: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.38
+4/9/2022 19:17:23: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.64
+4/9/2022 19:17:23: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.58
+4/9/2022 19:17:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:17:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:17:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:18:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:18:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:18:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:18:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:19:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:19:18: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 19:19:34: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 19:22:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:22:28: [G_Auto 2] :  Placed closure bet with greening on Nick Kyrgios by Backing 6.67 at 3
+4/9/2022 19:22:28: [G_Auto 2] :  € 15.69 Lay bet placed on Reilly Opelka at 1.51. Fully matched at 1.5.  Ref: 12046          ( Fill or kill bet with 15 seconds delay.   )
+4/9/2022 19:22:29: [G_Auto 1] :  Store Text Value (Shared) for Nick Kyrgios: aPoints = point: 0; games: 1; sets: 0 
+4/9/2022 19:22:29: [G_Auto 1] :  Store Text Value (Shared) for Nick Kyrgios: aServing = serving:0
+4/9/2022 19:22:29: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 3; sets: 0 
+4/9/2022 19:22:29: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:2
+4/9/2022 19:22:29: [G_Auto 1] :  Store Value (Shared) for market: price = 1.5
+4/9/2022 19:22:29: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 19.29
+4/9/2022 19:22:29: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 40.12
+4/9/2022 19:22:29: [G_Auto 1] :  Store Value (Shared) for market: stake = 15.69
+4/9/2022 19:22:29: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 59.41
+4/9/2022 19:22:29: [G_Auto 1] :  Store Value (Shared) for market: pl = 4.95
+4/9/2022 19:22:29: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3
+4/9/2022 19:22:29: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.5
+4/9/2022 19:22:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:22:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:22:56: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 19:23:11: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 19:25:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:25:53: [G_Auto 2] :  Placed closure bet with greening on Reilly Opelka by Backing 16.01 at 1.47
+4/9/2022 19:25:53: [G_Auto 1] :  Store Text Value (Shared) for Nick Kyrgios: aPoints = point: 0; games: 1; sets: 0 
+4/9/2022 19:25:53: [G_Auto 1] :  Store Text Value (Shared) for Nick Kyrgios: aServing = serving:1
+4/9/2022 19:25:53: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 4; sets: 0 
+4/9/2022 19:25:53: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:0
+4/9/2022 19:25:53: [G_Auto 1] :  Store Value (Shared) for market: price = 1.47
+4/9/2022 19:25:53: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 35.3
+4/9/2022 19:25:53: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 40.12
+4/9/2022 19:25:53: [G_Auto 1] :  Store Value (Shared) for market: stake = 16.01
+4/9/2022 19:25:53: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 75.42
+4/9/2022 19:25:53: [G_Auto 1] :  Store Value (Shared) for market: pl = 4.73
+4/9/2022 19:25:53: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.1
+4/9/2022 19:25:53: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.48
+4/9/2022 19:25:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:25:58: [G_Auto 1] :  Store Text Value (Shared) for Nick Kyrgios: aPoints = point: 0; games: 1; sets: 0 
+4/9/2022 19:25:58: [G_Auto 1] :  Store Text Value (Shared) for Nick Kyrgios: aServing = serving:1
+4/9/2022 19:25:58: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 4; sets: 0 
+4/9/2022 19:25:58: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:0
+4/9/2022 19:25:58: [G_Auto 1] :  Store Value (Shared) for market: price = 1.47
+4/9/2022 19:25:58: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 35.3
+4/9/2022 19:25:58: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 40.12
+4/9/2022 19:25:58: [G_Auto 1] :  Store Value (Shared) for market: stake = 16.01
+4/9/2022 19:25:58: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 75.42
+4/9/2022 19:25:58: [G_Auto 1] :  Store Value (Shared) for market: pl = 4.73
+4/9/2022 19:25:58: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.1
+4/9/2022 19:25:58: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.48
+4/9/2022 19:26:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:26:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:26:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:26:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:27:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:27:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:27:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:27:46: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 19:28:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:28:28: [G_Auto 2] :  € 15.38 Lay bet placed on Reilly Opelka at 1.52. Fully matched at 1.51.  Ref: 12050          ( Fill or kill bet with 15 seconds delay.   )
+4/9/2022 19:28:28: [G_Auto 1] :  Store Text Value (Shared) for Nick Kyrgios: aPoints = point: 0; games: 2; sets: 0 
+4/9/2022 19:28:28: [G_Auto 1] :  Store Text Value (Shared) for Nick Kyrgios: aServing = serving:0
+4/9/2022 19:28:28: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 4; sets: 0 
+4/9/2022 19:28:28: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:2
+4/9/2022 19:28:28: [G_Auto 1] :  Store Value (Shared) for market: price = 1.51
+4/9/2022 19:28:28: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 35.3
+4/9/2022 19:28:28: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 55.5
+4/9/2022 19:28:28: [G_Auto 1] :  Store Value (Shared) for market: stake = 15.38
+4/9/2022 19:28:28: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 90.8
+4/9/2022 19:28:28: [G_Auto 1] :  Store Value (Shared) for market: pl = 4.64
+4/9/2022 19:28:28: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.98
+4/9/2022 19:28:28: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.5
+4/9/2022 19:28:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:28:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:28:57: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 19:29:13: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 19:29:28: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 19:31:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:31:30: [G_Auto 2] :  Placed closure bet with greening on Reilly Opelka by Backing 16.13 at 1.44
+4/9/2022 19:31:30: [G_Auto 1] :  Store Text Value (Shared) for Nick Kyrgios: aPoints = point: 0; games: 2; sets: 0 
+4/9/2022 19:31:30: [G_Auto 1] :  Store Text Value (Shared) for Nick Kyrgios: aServing = serving:1
+4/9/2022 19:31:30: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 5; sets: 0 
+4/9/2022 19:31:30: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:0
+4/9/2022 19:31:30: [G_Auto 1] :  Store Value (Shared) for market: price = 1.44
+4/9/2022 19:31:30: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 51.43
+4/9/2022 19:31:30: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 55.5
+4/9/2022 19:31:30: [G_Auto 1] :  Store Value (Shared) for market: stake = 16.13
+4/9/2022 19:31:30: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 106.93
+4/9/2022 19:31:30: [G_Auto 1] :  Store Value (Shared) for market: pl = 4
+4/9/2022 19:31:30: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.2
+4/9/2022 19:31:30: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.45
+4/9/2022 19:31:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:31:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:32:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:32:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:32:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:32:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:33:06: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:33:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:33:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:33:43: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 19:33:58: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 19:35:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:35:15: [G_Auto 2] :  € 17.02 Lay bet placed on Reilly Opelka at 1.47. Fully matched at 1.46.  Ref: 12054          ( Fill or kill bet with 15 seconds delay.   )
+4/9/2022 19:35:15: [G_Auto 1] :  Store Text Value (Shared) for Nick Kyrgios: aPoints = point: 0; games: 3; sets: 0 
+4/9/2022 19:35:15: [G_Auto 1] :  Store Text Value (Shared) for Nick Kyrgios: aServing = serving:0
+4/9/2022 19:35:15: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 5; sets: 0 
+4/9/2022 19:35:15: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:2
+4/9/2022 19:35:15: [G_Auto 1] :  Store Value (Shared) for market: price = 1.46
+4/9/2022 19:35:15: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 51.43
+4/9/2022 19:35:15: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 72.52
+4/9/2022 19:35:15: [G_Auto 1] :  Store Value (Shared) for market: stake = 17.02
+4/9/2022 19:35:15: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 123.95
+4/9/2022 19:35:15: [G_Auto 1] :  Store Value (Shared) for market: pl = 3.89
+4/9/2022 19:35:15: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.25
+4/9/2022 19:35:15: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.46
+4/9/2022 19:35:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:35:20: [G_Auto 1] :  Store Text Value (Shared) for Nick Kyrgios: aPoints = point: 0; games: 3; sets: 0 
+4/9/2022 19:35:20: [G_Auto 1] :  Store Text Value (Shared) for Nick Kyrgios: aServing = serving:0
+4/9/2022 19:35:20: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 5; sets: 0 
+4/9/2022 19:35:20: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:2
+4/9/2022 19:35:20: [G_Auto 1] :  Store Value (Shared) for market: price = 1.46
+4/9/2022 19:35:20: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 51.43
+4/9/2022 19:35:20: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 72.52
+4/9/2022 19:35:20: [G_Auto 1] :  Store Value (Shared) for market: stake = 17.02
+4/9/2022 19:35:20: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 123.95
+4/9/2022 19:35:20: [G_Auto 1] :  Store Value (Shared) for market: pl = 3.89
+4/9/2022 19:35:20: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.2
+4/9/2022 19:35:20: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.46
+4/9/2022 19:35:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:35:48: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 19:36:03: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 19:38:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:38:33: [G_Auto 1] :  Store Value (Shared) for market: aFirstSetPrice = 3.65
+4/9/2022 19:38:33: [G_Auto 1] :  Store Value (Shared) for market: bFirstSetPrice = 1.39
+4/9/2022 19:38:38: [G_Auto 2] :  Placed closure bet with greening on Reilly Opelka by Backing 18.00 at 1.38
+4/9/2022 19:38:38: [G_Auto 1] :  Store Text Value (Shared) for Nick Kyrgios: aPoints = point: 0; games: 0; sets: 0 
+4/9/2022 19:38:38: [G_Auto 1] :  Store Text Value (Shared) for Nick Kyrgios: aServing = serving:1
+4/9/2022 19:38:38: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 0; sets: 1 
+4/9/2022 19:38:38: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:0
+4/9/2022 19:38:38: [G_Auto 1] :  Store Value (Shared) for market: price = 1.38
+4/9/2022 19:38:38: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 69.43
+4/9/2022 19:38:38: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 72.52
+4/9/2022 19:38:38: [G_Auto 1] :  Store Value (Shared) for market: stake = 18
+4/9/2022 19:38:38: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 141.95
+4/9/2022 19:38:38: [G_Auto 1] :  Store Value (Shared) for market: pl = 3.04
+4/9/2022 19:38:38: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.55
+4/9/2022 19:38:38: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.39
+4/9/2022 19:38:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:38:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:39:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:39:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:39:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:39:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:40:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:40:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:40:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:41:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:41:07: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 19:41:23: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 19:43:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:43:15: [G_Auto 2] :  € 19.51 Lay bet placed on Reilly Opelka at 1.41. Fully matched at 1.4.  Ref: 12061          ( Fill or kill bet with 15 seconds delay.   )
+4/9/2022 19:43:15: [G_Auto 1] :  Store Text Value (Shared) for Nick Kyrgios: aPoints = point: 0; games: 1; sets: 0 
+4/9/2022 19:43:15: [G_Auto 1] :  Store Text Value (Shared) for Nick Kyrgios: aServing = serving:0
+4/9/2022 19:43:15: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 0; sets: 1 
+4/9/2022 19:43:15: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:2
+4/9/2022 19:43:15: [G_Auto 1] :  Store Value (Shared) for market: price = 1.4
+4/9/2022 19:43:15: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 69.43
+4/9/2022 19:43:15: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 92.03
+4/9/2022 19:43:15: [G_Auto 1] :  Store Value (Shared) for market: stake = 19.51
+4/9/2022 19:43:15: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 161.46
+4/9/2022 19:43:15: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.9
+4/9/2022 19:43:15: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.6
+4/9/2022 19:43:15: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.39
+4/9/2022 19:43:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:43:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:43:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:43:58: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 19:44:13: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 19:44:29: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 19:45:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:45:50: [G_Auto 2] :  Placed closure bet with greening on Reilly Opelka by Backing 20.39 at 1.34
+4/9/2022 19:45:51: [G_Auto 1] :  Store Text Value (Shared) for Nick Kyrgios: aPoints = point: 0; games: 1; sets: 0 
+4/9/2022 19:45:51: [G_Auto 1] :  Store Text Value (Shared) for Nick Kyrgios: aServing = serving:1
+4/9/2022 19:45:51: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 1; sets: 1 
+4/9/2022 19:45:51: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:0
+4/9/2022 19:45:51: [G_Auto 1] :  Store Value (Shared) for market: price = 1.34
+4/9/2022 19:45:51: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 89.82
+4/9/2022 19:45:51: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 92.03
+4/9/2022 19:45:51: [G_Auto 1] :  Store Value (Shared) for market: stake = 20.39
+4/9/2022 19:45:51: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 181.85
+4/9/2022 19:45:51: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.18
+4/9/2022 19:45:51: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.9
+4/9/2022 19:45:51: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.35
+4/9/2022 19:45:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:46:02: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 19:46:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:46:56: [G_Auto 2] :  € 19.51 Lay bet placed on Reilly Opelka at 1.41. Fully matched at 1.39.  Ref: 12063          ( Fill or kill bet with 15 seconds delay.   )
+4/9/2022 19:46:56: [G_Auto 1] :  Store Text Value (Shared) for Nick Kyrgios: aPoints = point: 0; games: 2; sets: 0 
+4/9/2022 19:46:56: [G_Auto 1] :  Store Text Value (Shared) for Nick Kyrgios: aServing = serving:0
+4/9/2022 19:46:56: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 1; sets: 1 
+4/9/2022 19:46:56: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:2
+4/9/2022 19:46:56: [G_Auto 1] :  Store Value (Shared) for market: price = 1.39
+4/9/2022 19:46:56: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 89.82
+4/9/2022 19:46:56: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 111.54
+4/9/2022 19:46:56: [G_Auto 1] :  Store Value (Shared) for market: stake = 19.51
+4/9/2022 19:46:56: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 201.36
+4/9/2022 19:46:56: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.04
+4/9/2022 19:46:56: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.55
+4/9/2022 19:46:56: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.39
+4/9/2022 19:46:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:47:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:47:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:47:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:48:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:48:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:48:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:48:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:48:49: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 19:49:05: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 19:49:20: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 19:50:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:50:32: [G_Auto 2] :  Placed closure bet with greening on Reilly Opelka by Backing 20.24 at 1.34
+4/9/2022 19:50:33: [G_Auto 1] :  Store Text Value (Shared) for Nick Kyrgios: aPoints = point: 0; games: 2; sets: 0 
+4/9/2022 19:50:33: [G_Auto 1] :  Store Text Value (Shared) for Nick Kyrgios: aServing = serving:1
+4/9/2022 19:50:33: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 2; sets: 1 
+4/9/2022 19:50:33: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:0
+4/9/2022 19:50:33: [G_Auto 1] :  Store Value (Shared) for market: price = 1.34
+4/9/2022 19:50:33: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 110.06
+4/9/2022 19:50:33: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 111.54
+4/9/2022 19:50:33: [G_Auto 1] :  Store Value (Shared) for market: stake = 20.24
+4/9/2022 19:50:33: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 221.6
+4/9/2022 19:50:33: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.46
+4/9/2022 19:50:33: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.85
+4/9/2022 19:50:33: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.35
+4/9/2022 19:50:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:50:49: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 19:51:05: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 19:53:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:54:05: [G_Auto 2] :  € 22.86 Lay bet placed on Reilly Opelka at 1.35. Fully matched at 1.34.  Ref: 12068          ( Fill or kill bet with 15 seconds delay.   )
+4/9/2022 19:54:05: [G_Auto 1] :  Store Text Value (Shared) for Nick Kyrgios: aPoints = point: 0; games: 3; sets: 0 
+4/9/2022 19:54:05: [G_Auto 1] :  Store Text Value (Shared) for Nick Kyrgios: aServing = serving:0
+4/9/2022 19:54:05: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 2; sets: 1 
+4/9/2022 19:54:05: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:2
+4/9/2022 19:54:05: [G_Auto 1] :  Store Value (Shared) for market: price = 1.34
+4/9/2022 19:54:05: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 110.06
+4/9/2022 19:54:05: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 134.4
+4/9/2022 19:54:05: [G_Auto 1] :  Store Value (Shared) for market: stake = 22.86
+4/9/2022 19:54:05: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 244.46
+4/9/2022 19:54:05: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.29
+4/9/2022 19:54:05: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 4.1
+4/9/2022 19:54:05: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.33
+4/9/2022 19:54:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:54:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:54:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:54:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:55:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:55:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:55:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:55:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:56:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:56:23: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 19:56:38: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 19:56:54: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 19:59:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:59:16: [G_Auto 2] :  Placed closure bet with greening on Reilly Opelka by Backing 22.69 at 1.35
+4/9/2022 19:59:16: [G_Auto 1] :  Store Text Value (Shared) for Nick Kyrgios: aPoints = point: 0; games: 3; sets: 0 
+4/9/2022 19:59:16: [G_Auto 1] :  Store Text Value (Shared) for Nick Kyrgios: aServing = serving:1
+4/9/2022 19:59:16: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 3; sets: 1 
+4/9/2022 19:59:16: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:0
+4/9/2022 19:59:16: [G_Auto 1] :  Store Value (Shared) for market: price = 1.35
+4/9/2022 19:59:16: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 132.75
+4/9/2022 19:59:16: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 134.4
+4/9/2022 19:59:16: [G_Auto 1] :  Store Value (Shared) for market: stake = 22.69
+4/9/2022 19:59:16: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 267.15
+4/9/2022 19:59:16: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.63
+4/9/2022 19:59:16: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.85
+4/9/2022 19:59:16: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.36
+4/9/2022 19:59:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:59:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 19:59:45: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 20:00:00: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 20:02:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:02:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:02:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:02:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:03:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:03:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:03:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:03:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:04:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:04:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:04:26: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 20:04:41: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 20:04:56: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 20:06:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:07:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:07:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:07:29: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 20:07:44: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 20:07:59: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 20:09:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:09:30: [G_Auto 2] :  € 15.09 Lay bet placed on Reilly Opelka at 1.53. Fully matched at 1.52.  Ref: 12073          ( Fill or kill bet with 15 seconds delay.   )
+4/9/2022 20:09:30: [G_Auto 1] :  Store Text Value (Shared) for Nick Kyrgios: aPoints = point: 0; games: 5; sets: 0 
+4/9/2022 20:09:30: [G_Auto 1] :  Store Text Value (Shared) for Nick Kyrgios: aServing = serving:0
+4/9/2022 20:09:30: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 4; sets: 1 
+4/9/2022 20:09:30: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:2
+4/9/2022 20:09:30: [G_Auto 1] :  Store Value (Shared) for market: price = 1.52
+4/9/2022 20:09:30: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 132.75
+4/9/2022 20:09:30: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 149.49
+4/9/2022 20:09:30: [G_Auto 1] :  Store Value (Shared) for market: stake = 15.09
+4/9/2022 20:09:30: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 282.24
+4/9/2022 20:09:30: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.54
+4/9/2022 20:09:30: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.96
+4/9/2022 20:09:30: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.51
+4/9/2022 20:09:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:09:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:10:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:10:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:10:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:10:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:11:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:11:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:11:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:11:43: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 20:11:59: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 20:12:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:13:10: [G_Auto 2] :  Placed closure bet with greening on Reilly Opelka by Backing 16.50 at 1.39
+4/9/2022 20:13:11: [G_Auto 1] :  Store Text Value (Shared) for Nick Kyrgios: aPoints = point: 0; games: 5; sets: 0 
+4/9/2022 20:13:11: [G_Auto 1] :  Store Text Value (Shared) for Nick Kyrgios: aServing = serving:1
+4/9/2022 20:13:11: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 5; sets: 1 
+4/9/2022 20:13:11: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:0
+4/9/2022 20:13:11: [G_Auto 1] :  Store Value (Shared) for market: price = 1.39
+4/9/2022 20:13:11: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 149.25
+4/9/2022 20:13:11: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 149.49
+4/9/2022 20:13:11: [G_Auto 1] :  Store Value (Shared) for market: stake = 16.5
+4/9/2022 20:13:11: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 298.74
+4/9/2022 20:13:11: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.25
+4/9/2022 20:13:11: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.5
+4/9/2022 20:13:11: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.39
+4/9/2022 20:13:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:13:16: [G_Auto 1] :  Store Text Value (Shared) for Nick Kyrgios: aPoints = point: 0; games: 5; sets: 0 
+4/9/2022 20:13:16: [G_Auto 1] :  Store Text Value (Shared) for Nick Kyrgios: aServing = serving:1
+4/9/2022 20:13:16: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 5; sets: 1 
+4/9/2022 20:13:16: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:0
+4/9/2022 20:13:16: [G_Auto 1] :  Store Value (Shared) for market: price = 1.39
+4/9/2022 20:13:16: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 149.25
+4/9/2022 20:13:16: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 149.49
+4/9/2022 20:13:16: [G_Auto 1] :  Store Value (Shared) for market: stake = 16.5
+4/9/2022 20:13:16: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 298.74
+4/9/2022 20:13:16: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.25
+4/9/2022 20:13:16: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.5
+4/9/2022 20:13:16: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.4
+4/9/2022 20:13:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:13:35: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 20:13:51: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 20:16:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:16:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:16:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:17:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:17:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:17:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:17:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:18:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:18:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:18:20: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 20:18:35: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/9/2022 20:19:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/9/2022 20:19:36:  Guardian has detected that the market is suspended
