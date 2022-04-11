@@ -1,0 +1,898 @@
+4/10/2022 11:09:16: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: info = marketName: Fucsovics v L Harris - Match Odds; runnerA: Marton Fucsovics; runnerB: Lloyd Harris 
+4/10/2022 11:09:16: [G_Auto 1] :  Store Value (Shared) for market: aId = 4827766
+4/10/2022 11:09:16: [G_Auto 1] :  Store Value (Shared) for market: bId = 11313212
+4/10/2022 15:32:00:  Guardian has detected that the market is in-play
+4/10/2022 15:32:00:  Guardian has detected that the market is suspended
+4/10/2022 15:32:01: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.57; bBsp: 2.76; volume: 19628.79 
+4/10/2022 15:32:01: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.57; bBsp: 2.76; volume: 19628.79 
+4/10/2022 15:32:01:  Guardian has detected that the market is now unsuspended
+4/10/2022 15:32:06: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 15:32:21: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 15:33:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 15:33:53: [G_Auto 2] :  € 24.24 Lay bet placed on Marton Fucsovics at 1.33. Fully matched at 1.31.  Ref: 12166          ( Fill or kill bet with 15 seconds delay.   )
+4/10/2022 15:33:55: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aPoints = point: 0; games: 1; sets: 0 
+4/10/2022 15:33:55: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aServing = serving:1
+4/10/2022 15:33:55: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bPoints = point: 0; games: 0; sets: 0 
+4/10/2022 15:33:55: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bServing = serving:0
+4/10/2022 15:33:55: [G_Auto 1] :  Store Value (Shared) for market: price = 1.31
+4/10/2022 15:33:55: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 0
+4/10/2022 15:33:55: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 24.24
+4/10/2022 15:33:55: [G_Auto 1] :  Store Value (Shared) for market: stake = 24.24
+4/10/2022 15:33:55: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 24.24
+4/10/2022 15:33:55: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.19
+4/10/2022 15:33:55: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.31
+4/10/2022 15:33:55: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.2
+4/10/2022 15:33:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 15:34:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 15:34:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 15:34:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 15:34:47: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 15:35:03: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 15:40:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 15:40:47: [G_Auto 2] :  Placed closure bet with greening on Marton Fucsovics by Backing 20.62 at 1.54
+4/10/2022 15:40:48: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aPoints = point: 0; games: 1; sets: 0 
+4/10/2022 15:40:48: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aServing = serving:0
+4/10/2022 15:40:48: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bPoints = point: 0; games: 1; sets: 0 
+4/10/2022 15:40:48: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bServing = serving:2
+4/10/2022 15:40:48: [G_Auto 1] :  Store Value (Shared) for market: price = 1.54
+4/10/2022 15:40:48: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 20.62
+4/10/2022 15:40:48: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 24.24
+4/10/2022 15:40:48: [G_Auto 1] :  Store Value (Shared) for market: stake = 20.62
+4/10/2022 15:40:48: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 44.86
+4/10/2022 15:40:48: [G_Auto 1] :  Store Value (Shared) for market: pl = 3.55
+4/10/2022 15:40:48: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.54
+4/10/2022 15:40:48: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.84
+4/10/2022 15:40:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 15:41:06: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 15:41:17: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 15:41:33: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 15:41:48: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 15:42:03: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 15:44:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 15:44:47: [G_Auto 2] :  € 11.27 Lay bet placed on Marton Fucsovics at 1.71. Fully matched at 1.69.  Ref: 12171          ( Fill or kill bet with 15 seconds delay.   )
+4/10/2022 15:44:48: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aPoints = point: 0; games: 1; sets: 0 
+4/10/2022 15:44:48: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aServing = serving:1
+4/10/2022 15:44:48: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bPoints = point: 0; games: 2; sets: 0 
+4/10/2022 15:44:48: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bServing = serving:0
+4/10/2022 15:44:48: [G_Auto 1] :  Store Value (Shared) for market: price = 1.69
+4/10/2022 15:44:48: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 20.62
+4/10/2022 15:44:48: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 35.51
+4/10/2022 15:44:48: [G_Auto 1] :  Store Value (Shared) for market: stake = 11.27
+4/10/2022 15:44:48: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 56.13
+4/10/2022 15:44:48: [G_Auto 1] :  Store Value (Shared) for market: pl = 3.48
+4/10/2022 15:44:48: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.68
+4/10/2022 15:44:48: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.46
+4/10/2022 15:44:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 15:45:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 15:45:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 15:45:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 15:45:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 15:46:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 15:46:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 15:46:29: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 15:46:44: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 15:48:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 15:48:45: [G_Auto 2] :  Placed closure bet with greening on Marton Fucsovics by Backing 12.53 at 1.52
+4/10/2022 15:48:46: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aPoints = point: 0; games: 2; sets: 0 
+4/10/2022 15:48:46: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aServing = serving:0
+4/10/2022 15:48:46: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bPoints = point: 0; games: 2; sets: 0 
+4/10/2022 15:48:46: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bServing = serving:2
+4/10/2022 15:48:46: [G_Auto 1] :  Store Value (Shared) for market: price = 1.53
+4/10/2022 15:48:46: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 33.15
+4/10/2022 15:48:46: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 35.51
+4/10/2022 15:48:46: [G_Auto 1] :  Store Value (Shared) for market: stake = 12.53
+4/10/2022 15:48:46: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 68.66
+4/10/2022 15:48:46: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.39
+4/10/2022 15:48:46: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.53
+4/10/2022 15:48:46: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.84
+4/10/2022 15:48:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 15:48:52: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aPoints = point: 0; games: 2; sets: 0 
+4/10/2022 15:48:52: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aServing = serving:0
+4/10/2022 15:48:52: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bPoints = point: 0; games: 2; sets: 0 
+4/10/2022 15:48:52: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bServing = serving:2
+4/10/2022 15:48:52: [G_Auto 1] :  Store Value (Shared) for market: price = 1.53
+4/10/2022 15:48:52: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 33.15
+4/10/2022 15:48:52: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 35.51
+4/10/2022 15:48:52: [G_Auto 1] :  Store Value (Shared) for market: stake = 12.53
+4/10/2022 15:48:52: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 68.66
+4/10/2022 15:48:52: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.39
+4/10/2022 15:48:52: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.53
+4/10/2022 15:48:52: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.84
+4/10/2022 15:49:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 15:49:06: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 15:49:21: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 15:54:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 15:54:37: [G_Auto 2] :  € 27.59 Lay bet placed on Marton Fucsovics at 1.29. Fully matched at 1.28.  Ref: 12174          ( Fill or kill bet with 15 seconds delay.   )
+4/10/2022 15:54:38: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aPoints = point: 0; games: 3; sets: 0 
+4/10/2022 15:54:38: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aServing = serving:1
+4/10/2022 15:54:38: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bPoints = point: 0; games: 2; sets: 0 
+4/10/2022 15:54:38: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bServing = serving:0
+4/10/2022 15:54:38: [G_Auto 1] :  Store Value (Shared) for market: price = 1.28
+4/10/2022 15:54:38: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 33.15
+4/10/2022 15:54:38: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 63.1
+4/10/2022 15:54:38: [G_Auto 1] :  Store Value (Shared) for market: stake = 27.59
+4/10/2022 15:54:38: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 96.25
+4/10/2022 15:54:38: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.2
+4/10/2022 15:54:38: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.28
+4/10/2022 15:54:38: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.5
+4/10/2022 15:54:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 15:54:43: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aPoints = point: 0; games: 3; sets: 0 
+4/10/2022 15:54:43: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aServing = serving:1
+4/10/2022 15:54:43: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bPoints = point: 0; games: 2; sets: 0 
+4/10/2022 15:54:43: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bServing = serving:0
+4/10/2022 15:54:43: [G_Auto 1] :  Store Value (Shared) for market: price = 1.28
+4/10/2022 15:54:43: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 33.15
+4/10/2022 15:54:43: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 63.1
+4/10/2022 15:54:43: [G_Auto 1] :  Store Value (Shared) for market: stake = 27.59
+4/10/2022 15:54:43: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 96.25
+4/10/2022 15:54:43: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.2
+4/10/2022 15:54:43: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.27
+4/10/2022 15:54:43: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.5
+4/10/2022 15:54:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 15:55:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 15:55:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 15:55:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 15:55:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 15:56:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 15:56:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 15:56:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 15:56:49: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 15:57:04: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 16:01:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:01:41: [G_Auto 2] :  Placed closure bet with greening on Marton Fucsovics by Backing 28.84 at 1.22
+4/10/2022 16:01:42: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aPoints = point: 0; games: 4; sets: 0 
+4/10/2022 16:01:42: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aServing = serving:0
+4/10/2022 16:01:42: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bPoints = point: 0; games: 2; sets: 0 
+4/10/2022 16:01:42: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bServing = serving:2
+4/10/2022 16:01:42: [G_Auto 1] :  Store Value (Shared) for market: price = 1.22
+4/10/2022 16:01:42: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 61.99
+4/10/2022 16:01:42: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 63.1
+4/10/2022 16:01:42: [G_Auto 1] :  Store Value (Shared) for market: stake = 28.84
+4/10/2022 16:01:42: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 125.09
+4/10/2022 16:01:42: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.08
+4/10/2022 16:01:42: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.23
+4/10/2022 16:01:42: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 5.3
+4/10/2022 16:01:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:01:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:02:08: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 16:02:23: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 16:03:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:04:05: [G_Auto 2] :  € 27.59 Lay bet placed on Marton Fucsovics at 1.29. Fully matched at 1.28.  Ref: 12178          ( Fill or kill bet with 15 seconds delay.   )
+4/10/2022 16:04:06: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aPoints = point: 0; games: 4; sets: 0 
+4/10/2022 16:04:06: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aServing = serving:1
+4/10/2022 16:04:06: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bPoints = point: 0; games: 3; sets: 0 
+4/10/2022 16:04:06: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bServing = serving:0
+4/10/2022 16:04:06: [G_Auto 1] :  Store Value (Shared) for market: price = 1.28
+4/10/2022 16:04:06: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 61.99
+4/10/2022 16:04:06: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 90.69
+4/10/2022 16:04:06: [G_Auto 1] :  Store Value (Shared) for market: stake = 27.59
+4/10/2022 16:04:06: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 152.68
+4/10/2022 16:04:06: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.87
+4/10/2022 16:04:06: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.27
+4/10/2022 16:04:06: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.5
+4/10/2022 16:04:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:04:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:04:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:04:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:05:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:05:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:05:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:05:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:06:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:06:16: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 16:06:31: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 16:07:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:08:10: [G_Auto 2] :  Placed closure bet with greening on Marton Fucsovics by Backing 29.93 at 1.18
+4/10/2022 16:08:11: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aPoints = point: 0; games: 5; sets: 0 
+4/10/2022 16:08:11: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aServing = serving:0
+4/10/2022 16:08:11: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bPoints = point: 0; games: 3; sets: 0 
+4/10/2022 16:08:11: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bServing = serving:2
+4/10/2022 16:08:11: [G_Auto 1] :  Store Value (Shared) for market: price = 1.18
+4/10/2022 16:08:11: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 91.92
+4/10/2022 16:08:11: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 90.69
+4/10/2022 16:08:11: [G_Auto 1] :  Store Value (Shared) for market: stake = 29.93
+4/10/2022 16:08:11: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 182.61
+4/10/2022 16:08:11: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.23
+4/10/2022 16:08:11: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.19
+4/10/2022 16:08:11: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 6.4
+4/10/2022 16:08:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:08:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:08:29: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 16:08:44: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 16:09:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:10:07: [G_Auto 2] :  € 33.33 Lay bet placed on Marton Fucsovics at 1.24. Fully matched at 1.22.  Ref: 12182          ( Fill or kill bet with 15 seconds delay.   )
+4/10/2022 16:10:07: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aPoints = point: 0; games: 5; sets: 0 
+4/10/2022 16:10:07: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aServing = serving:1
+4/10/2022 16:10:07: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bPoints = point: 0; games: 4; sets: 0 
+4/10/2022 16:10:07: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bServing = serving:0
+4/10/2022 16:10:07: [G_Auto 1] :  Store Value (Shared) for market: price = 1.22
+4/10/2022 16:10:07: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 91.92
+4/10/2022 16:10:07: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 124.02
+4/10/2022 16:10:07: [G_Auto 1] :  Store Value (Shared) for market: stake = 33.33
+4/10/2022 16:10:07: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 215.94
+4/10/2022 16:10:07: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.51
+4/10/2022 16:10:07: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.22
+4/10/2022 16:10:07: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 5.3
+4/10/2022 16:10:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:10:14: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aPoints = point: 0; games: 5; sets: 0 
+4/10/2022 16:10:14: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aServing = serving:1
+4/10/2022 16:10:14: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bPoints = point: 0; games: 4; sets: 0 
+4/10/2022 16:10:14: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bServing = serving:0
+4/10/2022 16:10:14: [G_Auto 1] :  Store Value (Shared) for market: price = 1.22
+4/10/2022 16:10:14: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 91.92
+4/10/2022 16:10:14: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 124.02
+4/10/2022 16:10:14: [G_Auto 1] :  Store Value (Shared) for market: stake = 33.33
+4/10/2022 16:10:14: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 215.94
+4/10/2022 16:10:14: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.51
+4/10/2022 16:10:14: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.22
+4/10/2022 16:10:14: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 5.5
+4/10/2022 16:10:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:10:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:10:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:11:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:11:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:11:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:11:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:12:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:12:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:12:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:12:47: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 16:13:02: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 16:13:17: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 16:17:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:17:54: [G_Auto 1] :  Store Value (Shared) for market: aFirstSetPrice = 1.19
+4/10/2022 16:17:54: [G_Auto 1] :  Store Value (Shared) for market: bFirstSetPrice = 6.6
+4/10/2022 16:17:59: [G_Auto 2] :  Placed closure bet with greening on Marton Fucsovics by Backing 34.46 at 1.18
+4/10/2022 16:18:00: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aPoints = point: 0; games: 0; sets: 1 
+4/10/2022 16:18:00: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aServing = serving:0
+4/10/2022 16:18:00: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bPoints = point: 0; games: 0; sets: 0 
+4/10/2022 16:18:00: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bServing = serving:2
+4/10/2022 16:18:00: [G_Auto 1] :  Store Value (Shared) for market: price = 1.18
+4/10/2022 16:18:00: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 126.38
+4/10/2022 16:18:00: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 124.02
+4/10/2022 16:18:00: [G_Auto 1] :  Store Value (Shared) for market: stake = 34.46
+4/10/2022 16:18:00: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 250.4
+4/10/2022 16:18:00: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.36
+4/10/2022 16:18:00: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.18
+4/10/2022 16:18:00: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 6.4
+4/10/2022 16:18:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:18:05: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aPoints = point: 0; games: 0; sets: 1 
+4/10/2022 16:18:05: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aServing = serving:0
+4/10/2022 16:18:05: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bPoints = point: 0; games: 0; sets: 0 
+4/10/2022 16:18:05: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bServing = serving:2
+4/10/2022 16:18:05: [G_Auto 1] :  Store Value (Shared) for market: price = 1.18
+4/10/2022 16:18:05: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 126.38
+4/10/2022 16:18:05: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 124.02
+4/10/2022 16:18:05: [G_Auto 1] :  Store Value (Shared) for market: stake = 34.46
+4/10/2022 16:18:05: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 250.4
+4/10/2022 16:18:05: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.36
+4/10/2022 16:18:05: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.19
+4/10/2022 16:18:05: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 6.4
+4/10/2022 16:18:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:18:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:18:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:19:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:19:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:19:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:19:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:20:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:20:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:20:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:20:46: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 16:21:01: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 16:21:17: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 16:23:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:23:44: [G_Auto 2] :  € 34.78 Lay bet placed on Marton Fucsovics at 1.23. Fully matched at 1.22.  Ref: 12189          ( Fill or kill bet with 15 seconds delay.   )
+4/10/2022 16:23:45: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aPoints = point: 0; games: 0; sets: 1 
+4/10/2022 16:23:45: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aServing = serving:1
+4/10/2022 16:23:45: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bPoints = point: 0; games: 1; sets: 0 
+4/10/2022 16:23:45: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bServing = serving:0
+4/10/2022 16:23:45: [G_Auto 1] :  Store Value (Shared) for market: price = 1.22
+4/10/2022 16:23:45: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 126.38
+4/10/2022 16:23:45: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 158.8
+4/10/2022 16:23:45: [G_Auto 1] :  Store Value (Shared) for market: stake = 34.78
+4/10/2022 16:23:45: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 285.18
+4/10/2022 16:23:45: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.65
+4/10/2022 16:23:45: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.21
+4/10/2022 16:23:45: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 5.6
+4/10/2022 16:23:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:23:50: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aPoints = point: 0; games: 0; sets: 1 
+4/10/2022 16:23:50: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aServing = serving:1
+4/10/2022 16:23:50: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bPoints = point: 0; games: 1; sets: 0 
+4/10/2022 16:23:50: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bServing = serving:0
+4/10/2022 16:23:50: [G_Auto 1] :  Store Value (Shared) for market: price = 1.22
+4/10/2022 16:23:50: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 126.38
+4/10/2022 16:23:50: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 158.8
+4/10/2022 16:23:50: [G_Auto 1] :  Store Value (Shared) for market: stake = 34.78
+4/10/2022 16:23:50: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 285.18
+4/10/2022 16:23:50: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.65
+4/10/2022 16:23:50: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.22
+4/10/2022 16:23:50: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 5.6
+4/10/2022 16:24:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:24:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:24:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:24:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:24:55: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 16:25:10: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 16:25:26: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 16:27:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:28:12: [G_Auto 2] :  Placed closure bet with greening on Marton Fucsovics by Backing 35.96 at 1.18
+4/10/2022 16:28:13: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aPoints = point: 0; games: 1; sets: 1 
+4/10/2022 16:28:13: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aServing = serving:0
+4/10/2022 16:28:13: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bPoints = point: 0; games: 1; sets: 0 
+4/10/2022 16:28:13: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bServing = serving:2
+4/10/2022 16:28:13: [G_Auto 1] :  Store Value (Shared) for market: price = 1.18
+4/10/2022 16:28:13: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 162.34
+4/10/2022 16:28:13: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 158.8
+4/10/2022 16:28:13: [G_Auto 1] :  Store Value (Shared) for market: stake = 35.96
+4/10/2022 16:28:13: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 321.14
+4/10/2022 16:28:13: [G_Auto 1] :  Store Value (Shared) for market: pl = -3.54
+4/10/2022 16:28:13: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.19
+4/10/2022 16:28:13: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 6.2
+4/10/2022 16:28:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:28:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:28:42: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 16:28:58: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 16:29:13: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 16:29:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:30:10: [G_Auto 2] :  € 30.77 Lay bet placed on Marton Fucsovics at 1.26. Fully matched at 1.25.  Ref: 12195          ( Fill or kill bet with 15 seconds delay.   )
+4/10/2022 16:30:11: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aPoints = point: 0; games: 1; sets: 1 
+4/10/2022 16:30:11: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aServing = serving:1
+4/10/2022 16:30:11: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bPoints = point: 0; games: 2; sets: 0 
+4/10/2022 16:30:11: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bServing = serving:0
+4/10/2022 16:30:11: [G_Auto 1] :  Store Value (Shared) for market: price = 1.25
+4/10/2022 16:30:11: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 162.34
+4/10/2022 16:30:11: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 189.57
+4/10/2022 16:30:11: [G_Auto 1] :  Store Value (Shared) for market: stake = 30.77
+4/10/2022 16:30:11: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 351.91
+4/10/2022 16:30:11: [G_Auto 1] :  Store Value (Shared) for market: pl = -3.79
+4/10/2022 16:30:11: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.24
+4/10/2022 16:30:11: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 5.2
+4/10/2022 16:30:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:30:17: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aPoints = point: 0; games: 1; sets: 1 
+4/10/2022 16:30:17: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aServing = serving:1
+4/10/2022 16:30:17: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bPoints = point: 0; games: 2; sets: 0 
+4/10/2022 16:30:17: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bServing = serving:0
+4/10/2022 16:30:17: [G_Auto 1] :  Store Value (Shared) for market: price = 1.25
+4/10/2022 16:30:17: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 162.34
+4/10/2022 16:30:17: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 189.57
+4/10/2022 16:30:17: [G_Auto 1] :  Store Value (Shared) for market: stake = 30.77
+4/10/2022 16:30:17: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 351.91
+4/10/2022 16:30:17: [G_Auto 1] :  Store Value (Shared) for market: pl = -3.79
+4/10/2022 16:30:17: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.24
+4/10/2022 16:30:17: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 5.2
+4/10/2022 16:30:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:30:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:30:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:31:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:31:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:31:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:31:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:32:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:32:15: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 16:32:30: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 16:32:45: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 16:35:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:35:16: [G_Auto 2] :  Placed closure bet with greening on Marton Fucsovics by Backing 32.32 at 1.19
+4/10/2022 16:35:17: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aPoints = point: 0; games: 2; sets: 1 
+4/10/2022 16:35:17: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aServing = serving:0
+4/10/2022 16:35:17: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bPoints = point: 0; games: 2; sets: 0 
+4/10/2022 16:35:17: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bServing = serving:2
+4/10/2022 16:35:17: [G_Auto 1] :  Store Value (Shared) for market: price = 1.19
+4/10/2022 16:35:17: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 194.66
+4/10/2022 16:35:17: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 189.57
+4/10/2022 16:35:17: [G_Auto 1] :  Store Value (Shared) for market: stake = 32.32
+4/10/2022 16:35:17: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 384.23
+4/10/2022 16:35:17: [G_Auto 1] :  Store Value (Shared) for market: pl = -5.09
+4/10/2022 16:35:17: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.2
+4/10/2022 16:35:17: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 6
+4/10/2022 16:35:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:35:22: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aPoints = point: 0; games: 2; sets: 1 
+4/10/2022 16:35:22: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aServing = serving:0
+4/10/2022 16:35:22: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bPoints = point: 0; games: 2; sets: 0 
+4/10/2022 16:35:22: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bServing = serving:2
+4/10/2022 16:35:22: [G_Auto 1] :  Store Value (Shared) for market: price = 1.19
+4/10/2022 16:35:22: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 194.66
+4/10/2022 16:35:22: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 189.57
+4/10/2022 16:35:22: [G_Auto 1] :  Store Value (Shared) for market: stake = 32.32
+4/10/2022 16:35:22: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 384.23
+4/10/2022 16:35:22: [G_Auto 1] :  Store Value (Shared) for market: pl = -5.09
+4/10/2022 16:35:22: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.2
+4/10/2022 16:35:22: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 5.8
+4/10/2022 16:35:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:35:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:35:58: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 16:36:13: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 16:36:28: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 16:42:06: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:42:19: [G_Auto 2] :  € 32.00 Lay bet placed on Marton Fucsovics at 1.25. Fully matched at 1.24.  Ref: 12203          ( Fill or kill bet with 15 seconds delay.   )
+4/10/2022 16:42:20: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aPoints = point: 0; games: 2; sets: 1 
+4/10/2022 16:42:20: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aServing = serving:1
+4/10/2022 16:42:20: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bPoints = point: 0; games: 3; sets: 0 
+4/10/2022 16:42:20: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bServing = serving:0
+4/10/2022 16:42:20: [G_Auto 1] :  Store Value (Shared) for market: price = 1.24
+4/10/2022 16:42:20: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 194.66
+4/10/2022 16:42:20: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 221.57
+4/10/2022 16:42:20: [G_Auto 1] :  Store Value (Shared) for market: stake = 32
+4/10/2022 16:42:20: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 416.23
+4/10/2022 16:42:20: [G_Auto 1] :  Store Value (Shared) for market: pl = -5.35
+4/10/2022 16:42:20: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.23
+4/10/2022 16:42:20: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 5.4
+4/10/2022 16:42:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:42:27: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aPoints = point: 0; games: 2; sets: 1 
+4/10/2022 16:42:27: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aServing = serving:1
+4/10/2022 16:42:27: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bPoints = point: 0; games: 3; sets: 0 
+4/10/2022 16:42:27: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bServing = serving:0
+4/10/2022 16:42:27: [G_Auto 1] :  Store Value (Shared) for market: price = 1.24
+4/10/2022 16:42:27: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 194.66
+4/10/2022 16:42:27: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 221.57
+4/10/2022 16:42:27: [G_Auto 1] :  Store Value (Shared) for market: stake = 32
+4/10/2022 16:42:27: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 416.23
+4/10/2022 16:42:27: [G_Auto 1] :  Store Value (Shared) for market: pl = -5.35
+4/10/2022 16:42:27: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.23
+4/10/2022 16:42:27: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 5.4
+4/10/2022 16:42:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:42:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:43:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:43:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:43:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:43:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:44:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:44:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:44:26: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 16:44:41: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 16:46:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:46:58: [G_Auto 2] :  Placed closure bet with greening on Marton Fucsovics by Backing 33.63 at 1.18
+4/10/2022 16:46:59: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aPoints = point: 0; games: 3; sets: 1 
+4/10/2022 16:46:59: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aServing = serving:0
+4/10/2022 16:46:59: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bPoints = point: 0; games: 3; sets: 0 
+4/10/2022 16:46:59: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bServing = serving:2
+4/10/2022 16:46:59: [G_Auto 1] :  Store Value (Shared) for market: price = 1.18
+4/10/2022 16:46:59: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 228.29
+4/10/2022 16:46:59: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 221.57
+4/10/2022 16:46:59: [G_Auto 1] :  Store Value (Shared) for market: stake = 33.63
+4/10/2022 16:46:59: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 449.86
+4/10/2022 16:46:59: [G_Auto 1] :  Store Value (Shared) for market: pl = -6.72
+4/10/2022 16:46:59: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.18
+4/10/2022 16:46:59: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 6.2
+4/10/2022 16:47:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:47:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:47:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:47:36: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 16:47:51: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 16:48:06: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 16:49:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:50:02: [G_Auto 2] :  € 30.77 Lay bet placed on Marton Fucsovics at 1.26. Fully matched at 1.26.  Ref: 12208          ( Fill or kill bet with 15 seconds delay.   )
+4/10/2022 16:50:03: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aPoints = point: 0; games: 3; sets: 1 
+4/10/2022 16:50:03: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aServing = serving:1
+4/10/2022 16:50:03: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bPoints = point: 0; games: 4; sets: 0 
+4/10/2022 16:50:03: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bServing = serving:0
+4/10/2022 16:50:03: [G_Auto 1] :  Store Value (Shared) for market: price = 1.26
+4/10/2022 16:50:03: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 228.29
+4/10/2022 16:50:03: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 252.34
+4/10/2022 16:50:03: [G_Auto 1] :  Store Value (Shared) for market: stake = 30.77
+4/10/2022 16:50:03: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 480.63
+4/10/2022 16:50:03: [G_Auto 1] :  Store Value (Shared) for market: pl = -7.22
+4/10/2022 16:50:03: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.24
+4/10/2022 16:50:03: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 5.1
+4/10/2022 16:50:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:50:08: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aPoints = point: 0; games: 3; sets: 1 
+4/10/2022 16:50:08: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aServing = serving:1
+4/10/2022 16:50:08: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bPoints = point: 0; games: 4; sets: 0 
+4/10/2022 16:50:08: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bServing = serving:0
+4/10/2022 16:50:08: [G_Auto 1] :  Store Value (Shared) for market: price = 1.26
+4/10/2022 16:50:08: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 228.29
+4/10/2022 16:50:08: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 252.34
+4/10/2022 16:50:08: [G_Auto 1] :  Store Value (Shared) for market: stake = 30.77
+4/10/2022 16:50:08: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 480.63
+4/10/2022 16:50:08: [G_Auto 1] :  Store Value (Shared) for market: pl = -7.22
+4/10/2022 16:50:08: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.24
+4/10/2022 16:50:08: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 5.1
+4/10/2022 16:50:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:50:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:50:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:51:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:51:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:51:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:51:49: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 16:52:04: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 16:53:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:53:14: [G_Auto 2] :  Placed closure bet with greening on Marton Fucsovics by Backing 32.86 at 1.18
+4/10/2022 16:53:15: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aPoints = point: 0; games: 4; sets: 1 
+4/10/2022 16:53:15: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aServing = serving:0
+4/10/2022 16:53:15: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bPoints = point: 0; games: 4; sets: 0 
+4/10/2022 16:53:15: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bServing = serving:2
+4/10/2022 16:53:15: [G_Auto 1] :  Store Value (Shared) for market: price = 1.18
+4/10/2022 16:53:15: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 261.15
+4/10/2022 16:53:15: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 252.34
+4/10/2022 16:53:15: [G_Auto 1] :  Store Value (Shared) for market: stake = 32.86
+4/10/2022 16:53:15: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 513.49
+4/10/2022 16:53:15: [G_Auto 1] :  Store Value (Shared) for market: pl = -8.81
+4/10/2022 16:53:15: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.19
+4/10/2022 16:53:15: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 6.6
+4/10/2022 16:53:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:53:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:53:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:54:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:54:05: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 16:54:20: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 16:58:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:58:43: [G_Auto 2] :  € 30.77 Lay bet placed on Marton Fucsovics at 1.26. Fully matched at 1.26.  Ref: 12213          ( Fill or kill bet with 15 seconds delay.   )
+4/10/2022 16:58:44: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aPoints = point: 0; games: 4; sets: 1 
+4/10/2022 16:58:44: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aServing = serving:1
+4/10/2022 16:58:44: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bPoints = point: 0; games: 5; sets: 0 
+4/10/2022 16:58:44: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bServing = serving:0
+4/10/2022 16:58:44: [G_Auto 1] :  Store Value (Shared) for market: price = 1.26
+4/10/2022 16:58:44: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 261.15
+4/10/2022 16:58:44: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 283.11
+4/10/2022 16:58:44: [G_Auto 1] :  Store Value (Shared) for market: stake = 30.77
+4/10/2022 16:58:44: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 544.26
+4/10/2022 16:58:44: [G_Auto 1] :  Store Value (Shared) for market: pl = -9.3
+4/10/2022 16:58:44: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.24
+4/10/2022 16:58:44: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 5
+4/10/2022 16:58:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:58:50: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aPoints = point: 0; games: 4; sets: 1 
+4/10/2022 16:58:50: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aServing = serving:1
+4/10/2022 16:58:50: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bPoints = point: 0; games: 5; sets: 0 
+4/10/2022 16:58:50: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bServing = serving:0
+4/10/2022 16:58:50: [G_Auto 1] :  Store Value (Shared) for market: price = 1.26
+4/10/2022 16:58:50: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 261.15
+4/10/2022 16:58:50: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 283.11
+4/10/2022 16:58:50: [G_Auto 1] :  Store Value (Shared) for market: stake = 30.77
+4/10/2022 16:58:50: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 544.26
+4/10/2022 16:58:50: [G_Auto 1] :  Store Value (Shared) for market: pl = -9.3
+4/10/2022 16:58:50: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.25
+4/10/2022 16:58:50: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 5
+4/10/2022 16:59:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:59:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:59:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 16:59:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:00:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:00:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:00:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:00:42: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 17:00:57: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 17:01:12: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 17:07:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:08:07: [G_Auto 2] :  Placed closure bet with greening on Marton Fucsovics by Backing 32.30 at 1.2
+4/10/2022 17:08:08: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aPoints = point: 0; games: 5; sets: 1 
+4/10/2022 17:08:08: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aServing = serving:0
+4/10/2022 17:08:08: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bPoints = point: 0; games: 5; sets: 0 
+4/10/2022 17:08:08: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bServing = serving:2
+4/10/2022 17:08:08: [G_Auto 1] :  Store Value (Shared) for market: price = 1.2
+4/10/2022 17:08:08: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 293.45
+4/10/2022 17:08:08: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 283.11
+4/10/2022 17:08:08: [G_Auto 1] :  Store Value (Shared) for market: stake = 32.3
+4/10/2022 17:08:08: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 576.56
+4/10/2022 17:08:08: [G_Auto 1] :  Store Value (Shared) for market: pl = -10.35
+4/10/2022 17:08:08: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.21
+4/10/2022 17:08:08: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 5.7
+4/10/2022 17:08:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:08:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:08:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:08:50: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 17:09:05: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 17:12:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:12:18: [G_Auto 2] :  € 28.57 Lay bet placed on Marton Fucsovics at 1.28. Fully matched at 1.27.  Ref: 12217          ( Fill or kill bet with 15 seconds delay.   )
+4/10/2022 17:12:18: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aPoints = point: 0; games: 5; sets: 1 
+4/10/2022 17:12:18: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aServing = serving:1
+4/10/2022 17:12:18: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bPoints = point: 0; games: 6; sets: 0 
+4/10/2022 17:12:18: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bServing = serving:0
+4/10/2022 17:12:18: [G_Auto 1] :  Store Value (Shared) for market: price = 1.27
+4/10/2022 17:12:18: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 293.45
+4/10/2022 17:12:18: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 311.68
+4/10/2022 17:12:18: [G_Auto 1] :  Store Value (Shared) for market: stake = 28.57
+4/10/2022 17:12:18: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 605.13
+4/10/2022 17:12:18: [G_Auto 1] :  Store Value (Shared) for market: pl = -10.57
+4/10/2022 17:12:18: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.26
+4/10/2022 17:12:18: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.9
+4/10/2022 17:12:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:12:23: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aPoints = point: 0; games: 5; sets: 1 
+4/10/2022 17:12:23: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aServing = serving:1
+4/10/2022 17:12:23: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bPoints = point: 0; games: 6; sets: 0 
+4/10/2022 17:12:23: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bServing = serving:0
+4/10/2022 17:12:23: [G_Auto 1] :  Store Value (Shared) for market: price = 1.27
+4/10/2022 17:12:23: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 293.45
+4/10/2022 17:12:23: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 311.68
+4/10/2022 17:12:23: [G_Auto 1] :  Store Value (Shared) for market: stake = 28.57
+4/10/2022 17:12:23: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 605.13
+4/10/2022 17:12:23: [G_Auto 1] :  Store Value (Shared) for market: pl = -10.57
+4/10/2022 17:12:23: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.26
+4/10/2022 17:12:23: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.8
+4/10/2022 17:12:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:12:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:13:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:13:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:13:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:13:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:14:09: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 17:14:25: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 17:21:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:21:27: [G_Auto 2] :  Placed closure bet with greening on Marton Fucsovics by Backing 29.99 at 1.21
+4/10/2022 17:21:27: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aPoints = point: 0; games: 6; sets: 1 
+4/10/2022 17:21:27: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aServing = serving:0
+4/10/2022 17:21:27: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bPoints = point: 0; games: 6; sets: 0 
+4/10/2022 17:21:27: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bServing = serving:2
+4/10/2022 17:21:27: [G_Auto 1] :  Store Value (Shared) for market: price = 1.21
+4/10/2022 17:21:27: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 323.44
+4/10/2022 17:21:27: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 311.68
+4/10/2022 17:21:27: [G_Auto 1] :  Store Value (Shared) for market: stake = 29.99
+4/10/2022 17:21:27: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 635.12
+4/10/2022 17:21:27: [G_Auto 1] :  Store Value (Shared) for market: pl = -11.76
+4/10/2022 17:21:27: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.24
+4/10/2022 17:21:27: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.8
+4/10/2022 17:21:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:21:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:22:10: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 17:22:25: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 17:22:41: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 17:22:56: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 17:23:12: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 17:23:27: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 17:23:43: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 17:23:59: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 17:24:14: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 17:24:29: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 17:24:44: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 17:24:59: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 17:25:15: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 17:25:30: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 17:25:46: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 17:26:01: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 17:26:17: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 17:26:32: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 17:26:48: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 17:27:03: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 17:27:19: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 17:27:35: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 17:27:51: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 17:28:06: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 17:28:22: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 17:28:37: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 17:28:52: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 17:29:08: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 17:29:23: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 17:29:39: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 17:29:54: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 17:30:10: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 17:30:26: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 17:30:41: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 17:30:57: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 17:31:13: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 17:31:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:31:29: [G_Auto 1] :  Store Value (Shared) for market: aSecondSetPrice = 1.67
+4/10/2022 17:31:29: [G_Auto 1] :  Store Value (Shared) for market: bSecondSetPrice = 2.5
+4/10/2022 17:31:34: [G_Auto 2] :  € 12.12 Lay bet placed on Marton Fucsovics at 1.66. Entirely unmatched when it initially reached the market.   Ref: 12226          ( Fill or kill bet with 15 seconds delay.   )
+4/10/2022 17:31:35: [G_Auto 2] :  € 12.12 of unmatched bet (Ref:12226) was filled before remainder was killed.
+4/10/2022 17:31:35: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aPoints = point: 0; games: 0; sets: 1 
+4/10/2022 17:31:35: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aServing = serving:1
+4/10/2022 17:31:35: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bPoints = point: 0; games: 0; sets: 1 
+4/10/2022 17:31:35: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bServing = serving:0
+4/10/2022 17:31:35: [G_Auto 1] :  Store Value (Shared) for market: price = 1.66
+4/10/2022 17:31:35: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 323.44
+4/10/2022 17:31:35: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 323.8
+4/10/2022 17:31:35: [G_Auto 1] :  Store Value (Shared) for market: stake = 12.12
+4/10/2022 17:31:35: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 647.24
+4/10/2022 17:31:35: [G_Auto 1] :  Store Value (Shared) for market: pl = -11.83
+4/10/2022 17:31:35: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.65
+4/10/2022 17:31:35: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.54
+4/10/2022 17:31:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:31:40: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aPoints = point: 0; games: 0; sets: 1 
+4/10/2022 17:31:40: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aServing = serving:1
+4/10/2022 17:31:40: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bPoints = point: 0; games: 0; sets: 1 
+4/10/2022 17:31:40: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bServing = serving:0
+4/10/2022 17:31:40: [G_Auto 1] :  Store Value (Shared) for market: price = 1.66
+4/10/2022 17:31:40: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 323.44
+4/10/2022 17:31:40: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 323.8
+4/10/2022 17:31:40: [G_Auto 1] :  Store Value (Shared) for market: stake = 12.12
+4/10/2022 17:31:40: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 647.24
+4/10/2022 17:31:40: [G_Auto 1] :  Store Value (Shared) for market: pl = -11.91
+4/10/2022 17:31:40: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.64
+4/10/2022 17:31:40: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.5
+4/10/2022 17:31:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:32:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:32:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:32:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:32:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:33:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:33:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:33:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:33:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:34:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:34:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:34:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:35:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:35:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:35:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:35:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:36:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:36:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:36:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:36:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:37:06: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:37:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:37:32: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 17:37:48: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 17:38:03: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 17:40:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:40:29: [G_Auto 2] :  Placed closure bet with greening on Marton Fucsovics by Backing 13.41 at 1.5
+4/10/2022 17:40:29: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aPoints = point: 0; games: 1; sets: 1 
+4/10/2022 17:40:29: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aServing = serving:0
+4/10/2022 17:40:29: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bPoints = point: 0; games: 0; sets: 1 
+4/10/2022 17:40:29: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bServing = serving:2
+4/10/2022 17:40:29: [G_Auto 1] :  Store Value (Shared) for market: price = 1.5
+4/10/2022 17:40:29: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 336.85
+4/10/2022 17:40:29: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 323.8
+4/10/2022 17:40:29: [G_Auto 1] :  Store Value (Shared) for market: stake = 13.41
+4/10/2022 17:40:29: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 660.65
+4/10/2022 17:40:29: [G_Auto 1] :  Store Value (Shared) for market: pl = -13.06
+4/10/2022 17:40:29: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.51
+4/10/2022 17:40:29: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.96
+4/10/2022 17:40:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:40:34: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aPoints = point: 0; games: 1; sets: 1 
+4/10/2022 17:40:34: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aServing = serving:0
+4/10/2022 17:40:34: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bPoints = point: 0; games: 0; sets: 1 
+4/10/2022 17:40:34: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bServing = serving:2
+4/10/2022 17:40:34: [G_Auto 1] :  Store Value (Shared) for market: price = 1.5
+4/10/2022 17:40:34: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 336.85
+4/10/2022 17:40:34: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 323.8
+4/10/2022 17:40:34: [G_Auto 1] :  Store Value (Shared) for market: stake = 13.41
+4/10/2022 17:40:34: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 660.65
+4/10/2022 17:40:34: [G_Auto 1] :  Store Value (Shared) for market: pl = -13.06
+4/10/2022 17:40:34: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.52
+4/10/2022 17:40:34: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.96
+4/10/2022 17:40:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:41:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:41:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:41:23: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 17:41:39: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 17:44:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:44:55: [G_Auto 2] :  € 44.44 Lay bet placed on Marton Fucsovics at 1.18. Fully matched at 1.18.  Ref: 12235          ( Fill or kill bet with 15 seconds delay.   )
+4/10/2022 17:44:56: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aPoints = point: 0; games: 2; sets: 1 
+4/10/2022 17:44:56: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aServing = serving:1
+4/10/2022 17:44:56: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bPoints = point: 0; games: 0; sets: 1 
+4/10/2022 17:44:56: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bServing = serving:0
+4/10/2022 17:44:56: [G_Auto 1] :  Store Value (Shared) for market: price = 1.18
+4/10/2022 17:44:56: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 336.85
+4/10/2022 17:44:56: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 368.24
+4/10/2022 17:44:56: [G_Auto 1] :  Store Value (Shared) for market: stake = 44.44
+4/10/2022 17:44:56: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 705.09
+4/10/2022 17:44:56: [G_Auto 1] :  Store Value (Shared) for market: pl = -13.43
+4/10/2022 17:44:56: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.16
+4/10/2022 17:44:56: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 6.6
+4/10/2022 17:44:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:45:02: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aPoints = point: 0; games: 2; sets: 1 
+4/10/2022 17:45:02: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aServing = serving:1
+4/10/2022 17:45:02: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bPoints = point: 0; games: 0; sets: 1 
+4/10/2022 17:45:02: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bServing = serving:0
+4/10/2022 17:45:02: [G_Auto 1] :  Store Value (Shared) for market: price = 1.18
+4/10/2022 17:45:02: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 336.85
+4/10/2022 17:45:02: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 368.24
+4/10/2022 17:45:02: [G_Auto 1] :  Store Value (Shared) for market: stake = 44.44
+4/10/2022 17:45:02: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 705.09
+4/10/2022 17:45:02: [G_Auto 1] :  Store Value (Shared) for market: pl = -13.43
+4/10/2022 17:45:02: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.17
+4/10/2022 17:45:02: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 6.6
+4/10/2022 17:45:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:45:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:45:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:46:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:46:07: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 17:46:23: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 17:46:38: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 17:49:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:49:41: [G_Auto 2] :  Placed closure bet with greening on Marton Fucsovics by Backing 47.25 at 1.11
+4/10/2022 17:49:42: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aPoints = point: 0; games: 3; sets: 1 
+4/10/2022 17:49:42: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aServing = serving:0
+4/10/2022 17:49:42: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bPoints = point: 0; games: 0; sets: 1 
+4/10/2022 17:49:42: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bServing = serving:2
+4/10/2022 17:49:42: [G_Auto 1] :  Store Value (Shared) for market: price = 1.11
+4/10/2022 17:49:42: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 384.1
+4/10/2022 17:49:42: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 368.24
+4/10/2022 17:49:42: [G_Auto 1] :  Store Value (Shared) for market: stake = 47.25
+4/10/2022 17:49:42: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 752.34
+4/10/2022 17:49:42: [G_Auto 1] :  Store Value (Shared) for market: pl = -15.86
+4/10/2022 17:49:42: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.12
+4/10/2022 17:49:42: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 9.4
+4/10/2022 17:49:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:49:47: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aPoints = point: 0; games: 3; sets: 1 
+4/10/2022 17:49:47: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aServing = serving:0
+4/10/2022 17:49:47: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bPoints = point: 0; games: 0; sets: 1 
+4/10/2022 17:49:47: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bServing = serving:2
+4/10/2022 17:49:47: [G_Auto 1] :  Store Value (Shared) for market: price = 1.11
+4/10/2022 17:49:47: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 384.1
+4/10/2022 17:49:47: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 368.24
+4/10/2022 17:49:47: [G_Auto 1] :  Store Value (Shared) for market: stake = 47.25
+4/10/2022 17:49:47: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 752.34
+4/10/2022 17:49:47: [G_Auto 1] :  Store Value (Shared) for market: pl = -15.86
+4/10/2022 17:49:47: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.12
+4/10/2022 17:49:47: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 9.4
+4/10/2022 17:50:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:50:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:50:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:50:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:51:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:51:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:51:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:51:46: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 17:52:01: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 17:52:17: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 17:53:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:53:45: [G_Auto 2] :  € 44.44 Lay bet placed on Marton Fucsovics at 1.18. Fully matched at 1.17.  Ref: 12238          ( Fill or kill bet with 15 seconds delay.   )
+4/10/2022 17:53:46: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aPoints = point: 0; games: 3; sets: 1 
+4/10/2022 17:53:46: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aServing = serving:1
+4/10/2022 17:53:46: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bPoints = point: 0; games: 1; sets: 1 
+4/10/2022 17:53:46: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bServing = serving:0
+4/10/2022 17:53:46: [G_Auto 1] :  Store Value (Shared) for market: price = 1.17
+4/10/2022 17:53:46: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 384.1
+4/10/2022 17:53:46: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 412.68
+4/10/2022 17:53:46: [G_Auto 1] :  Store Value (Shared) for market: stake = 44.44
+4/10/2022 17:53:46: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 796.78
+4/10/2022 17:53:46: [G_Auto 1] :  Store Value (Shared) for market: pl = -16.24
+4/10/2022 17:53:46: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.17
+4/10/2022 17:53:46: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 6.8
+4/10/2022 17:53:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:53:51: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aPoints = point: 0; games: 3; sets: 1 
+4/10/2022 17:53:51: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aServing = serving:1
+4/10/2022 17:53:51: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bPoints = point: 0; games: 1; sets: 1 
+4/10/2022 17:53:51: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bServing = serving:0
+4/10/2022 17:53:51: [G_Auto 1] :  Store Value (Shared) for market: price = 1.17
+4/10/2022 17:53:51: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 384.1
+4/10/2022 17:53:51: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 412.68
+4/10/2022 17:53:51: [G_Auto 1] :  Store Value (Shared) for market: stake = 44.44
+4/10/2022 17:53:51: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 796.78
+4/10/2022 17:53:51: [G_Auto 1] :  Store Value (Shared) for market: pl = -16.24
+4/10/2022 17:53:51: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.16
+4/10/2022 17:53:51: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 6.8
+4/10/2022 17:54:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:54:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:54:27: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 17:54:43: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 17:54:58: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 17:56:06: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:56:18: [G_Auto 2] :  Placed closure bet with greening on Marton Fucsovics by Backing 48.14 at 1.08
+4/10/2022 17:56:19: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aPoints = point: 0; games: 4; sets: 1 
+4/10/2022 17:56:19: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aServing = serving:0
+4/10/2022 17:56:19: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bPoints = point: 0; games: 1; sets: 1 
+4/10/2022 17:56:19: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bServing = serving:2
+4/10/2022 17:56:19: [G_Auto 1] :  Store Value (Shared) for market: price = 1.08
+4/10/2022 17:56:19: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 432.24
+4/10/2022 17:56:19: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 412.68
+4/10/2022 17:56:19: [G_Auto 1] :  Store Value (Shared) for market: stake = 48.14
+4/10/2022 17:56:19: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 844.92
+4/10/2022 17:56:19: [G_Auto 1] :  Store Value (Shared) for market: pl = -19.56
+4/10/2022 17:56:19: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.09
+4/10/2022 17:56:19: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 12
+4/10/2022 17:56:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:56:24: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aPoints = point: 0; games: 4; sets: 1 
+4/10/2022 17:56:24: [G_Auto 1] :  Store Text Value (Shared) for Marton Fucsovics: aServing = serving:0
+4/10/2022 17:56:24: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bPoints = point: 0; games: 1; sets: 1 
+4/10/2022 17:56:24: [G_Auto 1] :  Store Text Value (Shared) for Lloyd Harris: bServing = serving:2
+4/10/2022 17:56:24: [G_Auto 1] :  Store Value (Shared) for market: price = 1.08
+4/10/2022 17:56:24: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 432.24
+4/10/2022 17:56:24: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 412.68
+4/10/2022 17:56:24: [G_Auto 1] :  Store Value (Shared) for market: stake = 48.14
+4/10/2022 17:56:24: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 844.92
+4/10/2022 17:56:24: [G_Auto 1] :  Store Value (Shared) for market: pl = -19.56
+4/10/2022 17:56:24: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.08
+4/10/2022 17:56:24: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 13.5
+4/10/2022 17:56:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:56:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:57:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:57:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:57:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:57:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:58:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:58:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 17:58:24: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 17:58:39: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 17:58:54: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 18:01:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 18:01:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 18:02:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 18:02:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 18:02:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 18:02:42: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 18:02:57: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 18:04:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 18:04:51:  Guardian has detected that the market is suspended

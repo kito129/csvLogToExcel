@@ -1,0 +1,631 @@
+4/10/2022 11:09:17: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: info = marketName: Opelka v Isner - Match Odds; runnerA: Reilly Opelka; runnerB: John Isner 
+4/10/2022 11:09:17: [G_Auto 1] :  Store Value (Shared) for market: aId = 8859316
+4/10/2022 11:09:17: [G_Auto 1] :  Store Value (Shared) for market: bId = 2474763
+4/10/2022 20:08:54:  Guardian has detected that the market is in-play
+4/10/2022 20:08:54:  Guardian has detected that the market is suspended
+4/10/2022 20:08:54: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.64; bBsp: 2.52; volume: 64822.57 
+4/10/2022 20:08:54: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.64; bBsp: 2.52; volume: 64822.57 
+4/10/2022 20:08:54:  Guardian has detected that the market is now unsuspended
+4/10/2022 20:08:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:09:08: [G_Auto 2] :  € 11.94 Lay bet placed on Reilly Opelka at 1.67. Fully matched at 1.66.  Ref: 12270          ( Fill or kill bet with 15 seconds delay.   )
+4/10/2022 20:09:08: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 20:09:09: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 15; games: 0; sets: 0 
+4/10/2022 20:09:09: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:1
+4/10/2022 20:09:09: [G_Auto 1] :  Store Text Value (Shared) for John Isner: bPoints = point: 0; games: 0; sets: 0 
+4/10/2022 20:09:09: [G_Auto 1] :  Store Text Value (Shared) for John Isner: bServing = serving:0
+4/10/2022 20:09:09: [G_Auto 1] :  Store Value (Shared) for market: price = 1.66
+4/10/2022 20:09:09: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 0
+4/10/2022 20:09:09: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 11.94
+4/10/2022 20:09:09: [G_Auto 1] :  Store Value (Shared) for market: stake = 11.94
+4/10/2022 20:09:09: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 11.94
+4/10/2022 20:09:09: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.07
+4/10/2022 20:09:09: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.65
+4/10/2022 20:09:09: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.52
+4/10/2022 20:09:23: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 20:09:38: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 20:10:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:11:02: [G_Auto 2] :  Placed closure bet with greening on Reilly Opelka by Backing 12.47 at 1.59
+4/10/2022 20:11:03: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 1; sets: 0 
+4/10/2022 20:11:03: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:0
+4/10/2022 20:11:03: [G_Auto 1] :  Store Text Value (Shared) for John Isner: bPoints = point: 0; games: 0; sets: 0 
+4/10/2022 20:11:03: [G_Auto 1] :  Store Text Value (Shared) for John Isner: bServing = serving:2
+4/10/2022 20:11:03: [G_Auto 1] :  Store Value (Shared) for market: price = 1.6
+4/10/2022 20:11:03: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 12.47
+4/10/2022 20:11:03: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 11.94
+4/10/2022 20:11:03: [G_Auto 1] :  Store Value (Shared) for market: stake = 12.47
+4/10/2022 20:11:03: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 24.41
+4/10/2022 20:11:03: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.45
+4/10/2022 20:11:03: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.6
+4/10/2022 20:11:03: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.62
+4/10/2022 20:11:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:11:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:11:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:11:40: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 20:11:55: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 20:14:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:14:33: [G_Auto 2] :  € 12.50 Lay bet placed on Reilly Opelka at 1.64. Fully matched at 1.63.  Ref: 12273          ( Fill or kill bet with 15 seconds delay.   )
+4/10/2022 20:14:33: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 1; sets: 0 
+4/10/2022 20:14:33: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:1
+4/10/2022 20:14:33: [G_Auto 1] :  Store Text Value (Shared) for John Isner: bPoints = point: 0; games: 1; sets: 0 
+4/10/2022 20:14:33: [G_Auto 1] :  Store Text Value (Shared) for John Isner: bServing = serving:0
+4/10/2022 20:14:33: [G_Auto 1] :  Store Value (Shared) for market: price = 1.63
+4/10/2022 20:14:33: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 12.47
+4/10/2022 20:14:33: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 24.44
+4/10/2022 20:14:33: [G_Auto 1] :  Store Value (Shared) for market: stake = 12.5
+4/10/2022 20:14:33: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 36.91
+4/10/2022 20:14:33: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.53
+4/10/2022 20:14:33: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.62
+4/10/2022 20:14:33: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.6
+4/10/2022 20:14:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:14:39: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 1; sets: 0 
+4/10/2022 20:14:39: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:1
+4/10/2022 20:14:39: [G_Auto 1] :  Store Text Value (Shared) for John Isner: bPoints = point: 0; games: 1; sets: 0 
+4/10/2022 20:14:39: [G_Auto 1] :  Store Text Value (Shared) for John Isner: bServing = serving:0
+4/10/2022 20:14:39: [G_Auto 1] :  Store Value (Shared) for market: price = 1.63
+4/10/2022 20:14:39: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 12.47
+4/10/2022 20:14:39: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 24.44
+4/10/2022 20:14:39: [G_Auto 1] :  Store Value (Shared) for market: stake = 12.5
+4/10/2022 20:14:39: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 36.91
+4/10/2022 20:14:39: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.53
+4/10/2022 20:14:39: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.62
+4/10/2022 20:14:39: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.6
+4/10/2022 20:14:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:15:06: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:15:10: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 20:15:25: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 20:16:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:16:35: [G_Auto 2] :  Placed closure bet with greening on Reilly Opelka by Backing 13.06 at 1.55
+4/10/2022 20:16:36: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 2; sets: 0 
+4/10/2022 20:16:36: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:0
+4/10/2022 20:16:36: [G_Auto 1] :  Store Text Value (Shared) for John Isner: bPoints = point: 0; games: 1; sets: 0 
+4/10/2022 20:16:36: [G_Auto 1] :  Store Text Value (Shared) for John Isner: bServing = serving:2
+4/10/2022 20:16:36: [G_Auto 1] :  Store Value (Shared) for market: price = 1.55
+4/10/2022 20:16:36: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 25.53
+4/10/2022 20:16:36: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 24.44
+4/10/2022 20:16:36: [G_Auto 1] :  Store Value (Shared) for market: stake = 13.06
+4/10/2022 20:16:36: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 49.97
+4/10/2022 20:16:36: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.09
+4/10/2022 20:16:36: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.56
+4/10/2022 20:16:36: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.78
+4/10/2022 20:16:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:16:41: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 2; sets: 0 
+4/10/2022 20:16:41: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:0
+4/10/2022 20:16:41: [G_Auto 1] :  Store Text Value (Shared) for John Isner: bPoints = point: 0; games: 1; sets: 0 
+4/10/2022 20:16:41: [G_Auto 1] :  Store Text Value (Shared) for John Isner: bServing = serving:2
+4/10/2022 20:16:41: [G_Auto 1] :  Store Value (Shared) for market: price = 1.55
+4/10/2022 20:16:41: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 25.53
+4/10/2022 20:16:41: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 24.44
+4/10/2022 20:16:41: [G_Auto 1] :  Store Value (Shared) for market: stake = 13.06
+4/10/2022 20:16:41: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 49.97
+4/10/2022 20:16:41: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.09
+4/10/2022 20:16:41: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.56
+4/10/2022 20:16:41: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.8
+4/10/2022 20:16:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:17:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:17:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:17:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:17:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:18:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:18:24: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 20:18:40: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 20:20:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:20:46: [G_Auto 2] :  € 13.56 Lay bet placed on Reilly Opelka at 1.59. Fully matched at 1.58.  Ref: 12275          ( Fill or kill bet with 15 seconds delay.   )
+4/10/2022 20:20:46: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 2; sets: 0 
+4/10/2022 20:20:46: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:1
+4/10/2022 20:20:46: [G_Auto 1] :  Store Text Value (Shared) for John Isner: bPoints = point: 0; games: 2; sets: 0 
+4/10/2022 20:20:46: [G_Auto 1] :  Store Text Value (Shared) for John Isner: bServing = serving:0
+4/10/2022 20:20:46: [G_Auto 1] :  Store Value (Shared) for market: price = 1.58
+4/10/2022 20:20:46: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 25.53
+4/10/2022 20:20:46: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 38
+4/10/2022 20:20:46: [G_Auto 1] :  Store Value (Shared) for market: stake = 13.56
+4/10/2022 20:20:46: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 63.53
+4/10/2022 20:20:46: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.18
+4/10/2022 20:20:46: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.57
+4/10/2022 20:20:46: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.76
+4/10/2022 20:20:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:21:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:21:13: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 20:21:28: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 20:25:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:26:10: [G_Auto 2] :  Placed closure bet with greening on Reilly Opelka by Backing 13.56 at 1.58
+4/10/2022 20:26:10: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 3; sets: 0 
+4/10/2022 20:26:10: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:0
+4/10/2022 20:26:10: [G_Auto 1] :  Store Text Value (Shared) for John Isner: bPoints = point: 0; games: 2; sets: 0 
+4/10/2022 20:26:10: [G_Auto 1] :  Store Text Value (Shared) for John Isner: bServing = serving:2
+4/10/2022 20:26:10: [G_Auto 1] :  Store Value (Shared) for market: price = 1.58
+4/10/2022 20:26:10: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 39.09
+4/10/2022 20:26:10: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 38
+4/10/2022 20:26:10: [G_Auto 1] :  Store Value (Shared) for market: stake = 13.56
+4/10/2022 20:26:10: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 77.09
+4/10/2022 20:26:10: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.09
+4/10/2022 20:26:10: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.59
+4/10/2022 20:26:10: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.72
+4/10/2022 20:26:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:26:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:26:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:26:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:27:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:27:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:27:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:27:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:28:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:28:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:28:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:29:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:29:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:29:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:29:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:30:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:30:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:30:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:30:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:31:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:31:09: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 20:31:24: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 20:32:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:32:44: [G_Auto 2] :  € 12.31 Lay bet placed on Reilly Opelka at 1.65. Fully matched at 1.65.  Ref: 12279          ( Fill or kill bet with 15 seconds delay.   )
+4/10/2022 20:32:44: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 3; sets: 0 
+4/10/2022 20:32:44: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:1
+4/10/2022 20:32:44: [G_Auto 1] :  Store Text Value (Shared) for John Isner: bPoints = point: 0; games: 3; sets: 0 
+4/10/2022 20:32:44: [G_Auto 1] :  Store Text Value (Shared) for John Isner: bServing = serving:0
+4/10/2022 20:32:44: [G_Auto 1] :  Store Value (Shared) for market: price = 1.65
+4/10/2022 20:32:44: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 39.09
+4/10/2022 20:32:44: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 50.31
+4/10/2022 20:32:44: [G_Auto 1] :  Store Value (Shared) for market: stake = 12.31
+4/10/2022 20:32:44: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 89.4
+4/10/2022 20:32:44: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.24
+4/10/2022 20:32:44: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.64
+4/10/2022 20:32:44: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.62
+4/10/2022 20:32:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:33:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:33:07: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 20:33:22: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 20:37:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:38:04: [G_Auto 2] :  Placed closure bet with greening on Reilly Opelka by Backing 12.24 at 1.66
+4/10/2022 20:38:05: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 4; sets: 0 
+4/10/2022 20:38:05: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:0
+4/10/2022 20:38:05: [G_Auto 1] :  Store Text Value (Shared) for John Isner: bPoints = point: 0; games: 3; sets: 0 
+4/10/2022 20:38:05: [G_Auto 1] :  Store Text Value (Shared) for John Isner: bServing = serving:2
+4/10/2022 20:38:05: [G_Auto 1] :  Store Value (Shared) for market: price = 1.66
+4/10/2022 20:38:05: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 51.33
+4/10/2022 20:38:05: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 50.31
+4/10/2022 20:38:05: [G_Auto 1] :  Store Value (Shared) for market: stake = 12.24
+4/10/2022 20:38:05: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 101.64
+4/10/2022 20:38:05: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.01
+4/10/2022 20:38:05: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.66
+4/10/2022 20:38:05: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.52
+4/10/2022 20:38:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:38:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:38:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:38:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:39:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:39:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:39:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:39:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:40:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:40:10: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 20:40:25: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 20:44:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:44:17: [G_Auto 2] :  € 36.36 Lay bet placed on Reilly Opelka at 1.22. Fully matched at 1.22.  Ref: 12283          ( Fill or kill bet with 15 seconds delay.   )
+4/10/2022 20:44:17: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 5; sets: 0 
+4/10/2022 20:44:17: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:1
+4/10/2022 20:44:17: [G_Auto 1] :  Store Text Value (Shared) for John Isner: bPoints = point: 0; games: 3; sets: 0 
+4/10/2022 20:44:17: [G_Auto 1] :  Store Text Value (Shared) for John Isner: bServing = serving:0
+4/10/2022 20:44:17: [G_Auto 1] :  Store Value (Shared) for market: price = 1.22
+4/10/2022 20:44:17: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 51.33
+4/10/2022 20:44:17: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 86.67
+4/10/2022 20:44:17: [G_Auto 1] :  Store Value (Shared) for market: stake = 36.36
+4/10/2022 20:44:17: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 138
+4/10/2022 20:44:17: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.32
+4/10/2022 20:44:17: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.21
+4/10/2022 20:44:17: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 5.5
+4/10/2022 20:44:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:44:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:44:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:44:54: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 20:45:09: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 20:48:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:48:10: [G_Auto 1] :  Store Value (Shared) for market: aFirstSetPrice = 1.22
+4/10/2022 20:48:10: [G_Auto 1] :  Store Value (Shared) for market: bFirstSetPrice = 5.8
+4/10/2022 20:48:14: [G_Auto 2] :  Placed closure bet with greening on Reilly Opelka by Backing 36.35 at 1.22
+4/10/2022 20:48:15: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 0; sets: 1 
+4/10/2022 20:48:15: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:0
+4/10/2022 20:48:15: [G_Auto 1] :  Store Text Value (Shared) for John Isner: bPoints = point: 0; games: 0; sets: 0 
+4/10/2022 20:48:15: [G_Auto 1] :  Store Text Value (Shared) for John Isner: bServing = serving:2
+4/10/2022 20:48:15: [G_Auto 1] :  Store Value (Shared) for market: price = 1.22
+4/10/2022 20:48:15: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 87.68
+4/10/2022 20:48:15: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 86.67
+4/10/2022 20:48:15: [G_Auto 1] :  Store Value (Shared) for market: stake = 36.35
+4/10/2022 20:48:15: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 174.35
+4/10/2022 20:48:15: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.02
+4/10/2022 20:48:15: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.23
+4/10/2022 20:48:15: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 5.4
+4/10/2022 20:48:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:48:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:48:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:49:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:49:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:49:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:49:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:50:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:50:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:50:30: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 20:50:45: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 20:51:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:51:44: [G_Auto 2] :  € 28.57 Lay bet placed on Reilly Opelka at 1.28. Fully matched at 1.27.  Ref: 12287          ( Fill or kill bet with 15 seconds delay.   )
+4/10/2022 20:51:44: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 0; sets: 1 
+4/10/2022 20:51:44: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:1
+4/10/2022 20:51:44: [G_Auto 1] :  Store Text Value (Shared) for John Isner: bPoints = point: 0; games: 1; sets: 0 
+4/10/2022 20:51:44: [G_Auto 1] :  Store Text Value (Shared) for John Isner: bServing = serving:0
+4/10/2022 20:51:44: [G_Auto 1] :  Store Value (Shared) for market: price = 1.27
+4/10/2022 20:51:44: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 87.68
+4/10/2022 20:51:44: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 115.24
+4/10/2022 20:51:44: [G_Auto 1] :  Store Value (Shared) for market: stake = 28.57
+4/10/2022 20:51:44: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 202.92
+4/10/2022 20:51:44: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.24
+4/10/2022 20:51:44: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.26
+4/10/2022 20:51:44: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.7
+4/10/2022 20:51:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:51:49: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 0; sets: 1 
+4/10/2022 20:51:49: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:1
+4/10/2022 20:51:49: [G_Auto 1] :  Store Text Value (Shared) for John Isner: bPoints = point: 0; games: 1; sets: 0 
+4/10/2022 20:51:49: [G_Auto 1] :  Store Text Value (Shared) for John Isner: bServing = serving:0
+4/10/2022 20:51:49: [G_Auto 1] :  Store Value (Shared) for market: price = 1.27
+4/10/2022 20:51:49: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 87.68
+4/10/2022 20:51:49: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 115.24
+4/10/2022 20:51:49: [G_Auto 1] :  Store Value (Shared) for market: stake = 28.57
+4/10/2022 20:51:49: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 202.92
+4/10/2022 20:51:49: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.47
+4/10/2022 20:51:49: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.27
+4/10/2022 20:51:49: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.9
+4/10/2022 20:52:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:52:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:52:28: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 20:52:43: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 20:52:58: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 20:56:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:56:40: [G_Auto 2] :  Placed closure bet with greening on Reilly Opelka by Backing 28.57 at 1.27
+4/10/2022 20:56:40: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 1; sets: 1 
+4/10/2022 20:56:40: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:0
+4/10/2022 20:56:40: [G_Auto 1] :  Store Text Value (Shared) for John Isner: bPoints = point: 0; games: 1; sets: 0 
+4/10/2022 20:56:40: [G_Auto 1] :  Store Text Value (Shared) for John Isner: bServing = serving:2
+4/10/2022 20:56:40: [G_Auto 1] :  Store Value (Shared) for market: price = 1.28
+4/10/2022 20:56:40: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 116.25
+4/10/2022 20:56:40: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 115.24
+4/10/2022 20:56:40: [G_Auto 1] :  Store Value (Shared) for market: stake = 28.57
+4/10/2022 20:56:40: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 231.49
+4/10/2022 20:56:40: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.79
+4/10/2022 20:56:40: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.28
+4/10/2022 20:56:40: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.5
+4/10/2022 20:56:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:56:46: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 1; sets: 1 
+4/10/2022 20:56:46: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:0
+4/10/2022 20:56:46: [G_Auto 1] :  Store Text Value (Shared) for John Isner: bPoints = point: 0; games: 1; sets: 0 
+4/10/2022 20:56:46: [G_Auto 1] :  Store Text Value (Shared) for John Isner: bServing = serving:2
+4/10/2022 20:56:46: [G_Auto 1] :  Store Value (Shared) for market: price = 1.28
+4/10/2022 20:56:46: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 116.25
+4/10/2022 20:56:46: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 115.24
+4/10/2022 20:56:46: [G_Auto 1] :  Store Value (Shared) for market: stake = 28.57
+4/10/2022 20:56:46: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 231.49
+4/10/2022 20:56:46: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.79
+4/10/2022 20:56:46: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.28
+4/10/2022 20:56:46: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.5
+4/10/2022 20:56:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:57:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:57:18: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 20:57:33: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 20:58:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:59:09: [G_Auto 2] :  € 25.00 Lay bet placed on Reilly Opelka at 1.32. Fully matched at 1.31.  Ref: 12290          ( Fill or kill bet with 15 seconds delay.   )
+4/10/2022 20:59:09: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 1; sets: 1 
+4/10/2022 20:59:09: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:1
+4/10/2022 20:59:09: [G_Auto 1] :  Store Text Value (Shared) for John Isner: bPoints = point: 0; games: 2; sets: 0 
+4/10/2022 20:59:09: [G_Auto 1] :  Store Text Value (Shared) for John Isner: bServing = serving:0
+4/10/2022 20:59:09: [G_Auto 1] :  Store Value (Shared) for market: price = 1.31
+4/10/2022 20:59:09: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 116.25
+4/10/2022 20:59:09: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 140.24
+4/10/2022 20:59:09: [G_Auto 1] :  Store Value (Shared) for market: stake = 25
+4/10/2022 20:59:09: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 256.49
+4/10/2022 20:59:09: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.99
+4/10/2022 20:59:09: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.3
+4/10/2022 20:59:09: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.2
+4/10/2022 20:59:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:59:14: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 1; sets: 1 
+4/10/2022 20:59:14: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:1
+4/10/2022 20:59:14: [G_Auto 1] :  Store Text Value (Shared) for John Isner: bPoints = point: 0; games: 2; sets: 0 
+4/10/2022 20:59:14: [G_Auto 1] :  Store Text Value (Shared) for John Isner: bServing = serving:0
+4/10/2022 20:59:14: [G_Auto 1] :  Store Value (Shared) for market: price = 1.31
+4/10/2022 20:59:14: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 116.25
+4/10/2022 20:59:14: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 140.24
+4/10/2022 20:59:14: [G_Auto 1] :  Store Value (Shared) for market: stake = 25
+4/10/2022 20:59:14: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 256.49
+4/10/2022 20:59:14: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.99
+4/10/2022 20:59:14: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.3
+4/10/2022 20:59:14: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.2
+4/10/2022 20:59:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:59:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 20:59:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 21:00:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 21:00:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 21:00:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 21:00:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 21:01:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 21:01:26: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 21:01:41: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 21:05:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 21:06:04: [G_Auto 2] :  Placed closure bet with greening on Reilly Opelka by Backing 24.98 at 1.3
+4/10/2022 21:06:05: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 2; sets: 1 
+4/10/2022 21:06:05: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:0
+4/10/2022 21:06:05: [G_Auto 1] :  Store Text Value (Shared) for John Isner: bPoints = point: 0; games: 2; sets: 0 
+4/10/2022 21:06:05: [G_Auto 1] :  Store Text Value (Shared) for John Isner: bServing = serving:2
+4/10/2022 21:06:05: [G_Auto 1] :  Store Value (Shared) for market: price = 1.31
+4/10/2022 21:06:05: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 141.23
+4/10/2022 21:06:05: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 140.24
+4/10/2022 21:06:05: [G_Auto 1] :  Store Value (Shared) for market: stake = 24.98
+4/10/2022 21:06:05: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 281.47
+4/10/2022 21:06:05: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.8
+4/10/2022 21:06:05: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.32
+4/10/2022 21:06:05: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.2
+4/10/2022 21:06:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 21:06:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 21:06:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 21:06:46: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 21:07:01: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 21:07:16: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 21:07:32: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 21:10:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 21:10:15: [G_Auto 2] :  € 23.53 Lay bet placed on Reilly Opelka at 1.34. Fully matched at 1.33.  Ref: 12294          ( Fill or kill bet with 15 seconds delay.   )
+4/10/2022 21:10:15: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 2; sets: 1 
+4/10/2022 21:10:15: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:1
+4/10/2022 21:10:15: [G_Auto 1] :  Store Text Value (Shared) for John Isner: bPoints = point: 0; games: 3; sets: 0 
+4/10/2022 21:10:15: [G_Auto 1] :  Store Text Value (Shared) for John Isner: bServing = serving:0
+4/10/2022 21:10:15: [G_Auto 1] :  Store Value (Shared) for market: price = 1.33
+4/10/2022 21:10:15: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 141.23
+4/10/2022 21:10:15: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 163.77
+4/10/2022 21:10:15: [G_Auto 1] :  Store Value (Shared) for market: stake = 23.53
+4/10/2022 21:10:15: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 305
+4/10/2022 21:10:15: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.98
+4/10/2022 21:10:15: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.32
+4/10/2022 21:10:15: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.2
+4/10/2022 21:10:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 21:10:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 21:10:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 21:11:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 21:11:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 21:11:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 21:11:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 21:12:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 21:12:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 21:12:27: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 21:12:42: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 21:17:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 21:18:09: [G_Auto 2] :  Placed closure bet with greening on Reilly Opelka by Backing 22.99 at 1.35
+4/10/2022 21:18:09: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 3; sets: 1 
+4/10/2022 21:18:09: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:0
+4/10/2022 21:18:09: [G_Auto 1] :  Store Text Value (Shared) for John Isner: bPoints = point: 0; games: 3; sets: 0 
+4/10/2022 21:18:09: [G_Auto 1] :  Store Text Value (Shared) for John Isner: bServing = serving:2
+4/10/2022 21:18:09: [G_Auto 1] :  Store Value (Shared) for market: price = 1.35
+4/10/2022 21:18:09: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 164.22
+4/10/2022 21:18:09: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 163.77
+4/10/2022 21:18:09: [G_Auto 1] :  Store Value (Shared) for market: stake = 22.99
+4/10/2022 21:18:09: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 327.99
+4/10/2022 21:18:09: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.45
+4/10/2022 21:18:09: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.36
+4/10/2022 21:18:09: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.85
+4/10/2022 21:18:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 21:18:14: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 3; sets: 1 
+4/10/2022 21:18:14: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:0
+4/10/2022 21:18:14: [G_Auto 1] :  Store Text Value (Shared) for John Isner: bPoints = point: 0; games: 3; sets: 0 
+4/10/2022 21:18:14: [G_Auto 1] :  Store Text Value (Shared) for John Isner: bServing = serving:2
+4/10/2022 21:18:14: [G_Auto 1] :  Store Value (Shared) for market: price = 1.35
+4/10/2022 21:18:14: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 164.22
+4/10/2022 21:18:14: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 163.77
+4/10/2022 21:18:14: [G_Auto 1] :  Store Value (Shared) for market: stake = 22.99
+4/10/2022 21:18:14: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 327.99
+4/10/2022 21:18:14: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.45
+4/10/2022 21:18:14: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.36
+4/10/2022 21:18:14: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.85
+4/10/2022 21:18:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 21:18:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 21:18:44: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 21:18:59: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 21:22:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 21:22:45: [G_Auto 2] :  € 21.05 Lay bet placed on Reilly Opelka at 1.38. Fully matched at 1.37.  Ref: 12296          ( Fill or kill bet with 15 seconds delay.   )
+4/10/2022 21:22:45: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 3; sets: 1 
+4/10/2022 21:22:45: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:1
+4/10/2022 21:22:45: [G_Auto 1] :  Store Text Value (Shared) for John Isner: bPoints = point: 0; games: 4; sets: 0 
+4/10/2022 21:22:45: [G_Auto 1] :  Store Text Value (Shared) for John Isner: bServing = serving:0
+4/10/2022 21:22:45: [G_Auto 1] :  Store Value (Shared) for market: price = 1.37
+4/10/2022 21:22:45: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 164.22
+4/10/2022 21:22:45: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 184.82
+4/10/2022 21:22:45: [G_Auto 1] :  Store Value (Shared) for market: stake = 21.05
+4/10/2022 21:22:45: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 349.04
+4/10/2022 21:22:45: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.61
+4/10/2022 21:22:45: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.36
+4/10/2022 21:22:45: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.8
+4/10/2022 21:22:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 21:22:51: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 3; sets: 1 
+4/10/2022 21:22:51: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:1
+4/10/2022 21:22:51: [G_Auto 1] :  Store Text Value (Shared) for John Isner: bPoints = point: 0; games: 4; sets: 0 
+4/10/2022 21:22:51: [G_Auto 1] :  Store Text Value (Shared) for John Isner: bServing = serving:0
+4/10/2022 21:22:51: [G_Auto 1] :  Store Value (Shared) for market: price = 1.37
+4/10/2022 21:22:51: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 164.22
+4/10/2022 21:22:51: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 184.82
+4/10/2022 21:22:51: [G_Auto 1] :  Store Value (Shared) for market: stake = 21.05
+4/10/2022 21:22:51: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 349.04
+4/10/2022 21:22:51: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.61
+4/10/2022 21:22:51: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.37
+4/10/2022 21:22:51: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.7
+4/10/2022 21:23:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 21:23:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 21:23:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 21:23:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 21:24:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 21:24:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 21:24:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 21:24:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 21:25:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 21:25:11: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 21:25:26: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 21:25:41: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 21:30:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 21:30:36: [G_Auto 2] :  Placed closure bet with greening on Reilly Opelka by Backing 21.52 at 1.34
+4/10/2022 21:30:37: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 4; sets: 1 
+4/10/2022 21:30:37: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:0
+4/10/2022 21:30:37: [G_Auto 1] :  Store Text Value (Shared) for John Isner: bPoints = point: 0; games: 4; sets: 0 
+4/10/2022 21:30:37: [G_Auto 1] :  Store Text Value (Shared) for John Isner: bServing = serving:2
+4/10/2022 21:30:37: [G_Auto 1] :  Store Value (Shared) for market: price = 1.34
+4/10/2022 21:30:37: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 185.74
+4/10/2022 21:30:37: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 184.82
+4/10/2022 21:30:37: [G_Auto 1] :  Store Value (Shared) for market: stake = 21.52
+4/10/2022 21:30:37: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 370.56
+4/10/2022 21:30:37: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.93
+4/10/2022 21:30:37: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.35
+4/10/2022 21:30:37: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.85
+4/10/2022 21:30:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 21:30:42: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 4; sets: 1 
+4/10/2022 21:30:42: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:0
+4/10/2022 21:30:42: [G_Auto 1] :  Store Text Value (Shared) for John Isner: bPoints = point: 0; games: 4; sets: 0 
+4/10/2022 21:30:42: [G_Auto 1] :  Store Text Value (Shared) for John Isner: bServing = serving:2
+4/10/2022 21:30:42: [G_Auto 1] :  Store Value (Shared) for market: price = 1.34
+4/10/2022 21:30:42: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 185.74
+4/10/2022 21:30:42: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 184.82
+4/10/2022 21:30:42: [G_Auto 1] :  Store Value (Shared) for market: stake = 21.52
+4/10/2022 21:30:42: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 370.56
+4/10/2022 21:30:42: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.93
+4/10/2022 21:30:42: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.35
+4/10/2022 21:30:42: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.85
+4/10/2022 21:30:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 21:31:02: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 21:31:17: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 21:31:32: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 21:32:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 21:32:45: [G_Auto 2] :  € 18.60 Lay bet placed on Reilly Opelka at 1.43. Fully matched at 1.42.  Ref: 12298          ( Fill or kill bet with 15 seconds delay.   )
+4/10/2022 21:32:45: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 4; sets: 1 
+4/10/2022 21:32:45: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:1
+4/10/2022 21:32:45: [G_Auto 1] :  Store Text Value (Shared) for John Isner: bPoints = point: 0; games: 5; sets: 0 
+4/10/2022 21:32:45: [G_Auto 1] :  Store Text Value (Shared) for John Isner: bServing = serving:0
+4/10/2022 21:32:45: [G_Auto 1] :  Store Value (Shared) for market: price = 1.42
+4/10/2022 21:32:45: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 185.74
+4/10/2022 21:32:45: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 203.42
+4/10/2022 21:32:45: [G_Auto 1] :  Store Value (Shared) for market: stake = 18.6
+4/10/2022 21:32:45: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 389.16
+4/10/2022 21:32:45: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.19
+4/10/2022 21:32:45: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.41
+4/10/2022 21:32:45: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.4
+4/10/2022 21:32:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 21:33:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 21:33:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 21:33:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 21:33:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 21:34:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 21:34:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 21:34:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 21:34:47: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 21:35:02: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 21:35:17: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 21:36:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 21:36:24: [G_Auto 2] :  Placed closure bet with greening on Reilly Opelka by Backing 19.72 at 1.34
+4/10/2022 21:36:24: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 5; sets: 1 
+4/10/2022 21:36:24: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:0
+4/10/2022 21:36:24: [G_Auto 1] :  Store Text Value (Shared) for John Isner: bPoints = point: 0; games: 5; sets: 0 
+4/10/2022 21:36:24: [G_Auto 1] :  Store Text Value (Shared) for John Isner: bServing = serving:2
+4/10/2022 21:36:24: [G_Auto 1] :  Store Value (Shared) for market: price = 1.34
+4/10/2022 21:36:24: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 205.46
+4/10/2022 21:36:24: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 203.42
+4/10/2022 21:36:24: [G_Auto 1] :  Store Value (Shared) for market: stake = 19.72
+4/10/2022 21:36:24: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 408.88
+4/10/2022 21:36:24: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.03
+4/10/2022 21:36:24: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.33
+4/10/2022 21:36:24: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4
+4/10/2022 21:36:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 21:36:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 21:36:54: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 21:37:09: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 21:42:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 21:42:55: [G_Auto 2] :  € 23.53 Lay bet placed on Reilly Opelka at 1.34. Fully matched at 1.34.  Ref: 12300          ( Fill or kill bet with 15 seconds delay.   )
+4/10/2022 21:42:56: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 5; sets: 1 
+4/10/2022 21:42:56: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:1
+4/10/2022 21:42:56: [G_Auto 1] :  Store Text Value (Shared) for John Isner: bPoints = point: 0; games: 6; sets: 0 
+4/10/2022 21:42:56: [G_Auto 1] :  Store Text Value (Shared) for John Isner: bServing = serving:0
+4/10/2022 21:42:56: [G_Auto 1] :  Store Value (Shared) for market: price = 1.34
+4/10/2022 21:42:56: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 205.46
+4/10/2022 21:42:56: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 226.95
+4/10/2022 21:42:56: [G_Auto 1] :  Store Value (Shared) for market: stake = 23.53
+4/10/2022 21:42:56: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 432.41
+4/10/2022 21:42:56: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.21
+4/10/2022 21:42:56: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.33
+4/10/2022 21:42:56: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.9
+4/10/2022 21:42:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 21:43:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 21:43:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 21:43:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 21:43:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 21:44:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 21:44:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 21:44:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 21:44:52: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 21:45:07: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 21:45:22: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 21:47:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 21:47:16: [G_Auto 2] :  Placed closure bet with greening on Reilly Opelka by Backing 24.06 at 1.31
+4/10/2022 21:47:22: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aPoints = point: 0; games: 6; sets: 1 
+4/10/2022 21:47:22: [G_Auto 1] :  Store Text Value (Shared) for Reilly Opelka: aServing = serving:0
+4/10/2022 21:47:22: [G_Auto 1] :  Store Text Value (Shared) for John Isner: bPoints = point: 0; games: 6; sets: 0 
+4/10/2022 21:47:22: [G_Auto 1] :  Store Text Value (Shared) for John Isner: bServing = serving:2
+4/10/2022 21:47:22: [G_Auto 1] :  Store Value (Shared) for market: price = 1.31
+4/10/2022 21:47:22: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 229.52
+4/10/2022 21:47:22: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 226.95
+4/10/2022 21:47:22: [G_Auto 1] :  Store Value (Shared) for market: stake = 24.06
+4/10/2022 21:47:22: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 456.47
+4/10/2022 21:47:22: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.58
+4/10/2022 21:47:22: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.32
+4/10/2022 21:47:22: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.2
+4/10/2022 21:47:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 21:47:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 21:47:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 21:48:01: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 21:48:16: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 21:48:31: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 21:48:46: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 21:49:01: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 21:49:16: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 21:49:31: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 21:49:47: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 21:50:02: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 21:50:17: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 21:50:32: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 21:50:47: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 21:51:02: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 21:51:17: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 21:51:32: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 21:51:47: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 21:52:02: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 21:52:17: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 21:52:32: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 21:52:47: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 21:53:02: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 21:53:17: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 21:53:32: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 21:53:47: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 21:54:02: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 21:54:18: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 21:54:33: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 21:54:48: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 21:55:03: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 21:55:18: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 21:55:33: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 21:55:48: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 21:56:03: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 21:56:18: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 21:56:33: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 21:56:48: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 21:57:03: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 21:57:18: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 21:57:33: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 21:57:48: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 21:58:03: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 21:58:18: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 21:58:33: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 21:58:48: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+4/10/2022 21:59:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+4/10/2022 21:59:01:  Guardian has detected that the market is suspended
