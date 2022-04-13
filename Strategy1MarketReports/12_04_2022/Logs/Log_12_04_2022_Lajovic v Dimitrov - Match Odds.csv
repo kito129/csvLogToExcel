@@ -1,0 +1,749 @@
+4/12/2022 10:18:16: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: info = marketName: Lajovic v Dimitrov - Match Odds; runnerA: Dusan Lajovic; runnerB: Grigor Dimitrov 
+4/12/2022 10:18:16: [G_Auto 2] :  Store Value (Shared) for market: aId = 4688724
+4/12/2022 10:18:16: [G_Auto 2] :  Store Value (Shared) for market: bId = 3120169
+4/12/2022 17:50:20:  Guardian has detected that the market is in-play
+4/12/2022 17:50:20:  Guardian has detected that the market is suspended
+4/12/2022 17:50:21: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 2.74; bBsp: 1.59; volume: 174913.97 
+4/12/2022 17:50:21: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 2.74; bBsp: 1.59; volume: 174913.97 
+4/12/2022 17:50:21:  Guardian has detected that the market is now unsuspended
+4/12/2022 17:50:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 17:50:34: [G_Auto 1] :  € 15.38 Lay bet placed on Grigor Dimitrov at 1.52. Entirely unmatched when it initially reached the market.   Ref: 10202          ( Fill or kill bet with 15 seconds delay.   )
+4/12/2022 17:50:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 17:50:49: [G_Auto 1] :  € 15.38 unmatched bet (Ref:10202) was killed.
+4/12/2022 17:50:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 17:56:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 17:56:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 17:56:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 17:56:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 17:57:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 17:57:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 17:57:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 17:57:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 17:59:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:00:09: [G_Auto 1] :  € 7.84 Lay bet placed on Grigor Dimitrov at 2.02. Fully matched at 2.  Ref: 10203          ( Fill or kill bet with 15 seconds delay.   )
+4/12/2022 18:00:10: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 2; sets: 0 
+4/12/2022 18:00:10: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:0
+4/12/2022 18:00:10: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bPoints = point: 0; games: 0; sets: 0 
+4/12/2022 18:00:10: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bServing = serving:2
+4/12/2022 18:00:10: [G_Auto 2] :  Store Value (Shared) for market: price = 2
+4/12/2022 18:00:10: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+4/12/2022 18:00:10: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 7.84
+4/12/2022 18:00:10: [G_Auto 2] :  Store Value (Shared) for market: stake = 7.84
+4/12/2022 18:00:10: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 7.84
+4/12/2022 18:00:10: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.04
+4/12/2022 18:00:10: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.99
+4/12/2022 18:00:10: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.99
+4/12/2022 18:00:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:00:15: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 2; sets: 0 
+4/12/2022 18:00:15: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:0
+4/12/2022 18:00:15: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bPoints = point: 0; games: 0; sets: 0 
+4/12/2022 18:00:15: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bServing = serving:2
+4/12/2022 18:00:15: [G_Auto 2] :  Store Value (Shared) for market: price = 2
+4/12/2022 18:00:15: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+4/12/2022 18:00:15: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 7.84
+4/12/2022 18:00:15: [G_Auto 2] :  Store Value (Shared) for market: stake = 7.84
+4/12/2022 18:00:15: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 7.84
+4/12/2022 18:00:15: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.04
+4/12/2022 18:00:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2
+4/12/2022 18:00:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.99
+4/12/2022 18:00:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:00:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 18:00:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 18:01:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 18:02:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:02:33: [G_Auto 1] :  Placed closure bet with greening on Grigor Dimitrov by Backing 8.52 at 1.84
+4/12/2022 18:02:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:02:42: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 2; sets: 0 
+4/12/2022 18:02:42: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:1
+4/12/2022 18:02:42: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bPoints = point: 0; games: 1; sets: 0 
+4/12/2022 18:02:42: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bServing = serving:0
+4/12/2022 18:02:42: [G_Auto 2] :  Store Value (Shared) for market: price = 1.84
+4/12/2022 18:02:42: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 8.005
+4/12/2022 18:02:42: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 7.84
+4/12/2022 18:02:42: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.005
+4/12/2022 18:02:42: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 15.845
+4/12/2022 18:02:42: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.69
+4/12/2022 18:02:42: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.18
+4/12/2022 18:02:42: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.84
+4/12/2022 18:02:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:03:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:03:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:03:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:03:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:04:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:04:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:04:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 18:04:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 18:04:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 18:08:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:08:34: [G_Auto 1] :  € 8.16 Lay bet placed on Grigor Dimitrov at 1.98. Fully matched at 1.97.  Ref: 10207          ( Fill or kill bet with 15 seconds delay.   )
+4/12/2022 18:08:35: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 3; sets: 0 
+4/12/2022 18:08:35: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:0
+4/12/2022 18:08:35: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bPoints = point: 0; games: 1; sets: 0 
+4/12/2022 18:08:35: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bServing = serving:2
+4/12/2022 18:08:35: [G_Auto 2] :  Store Value (Shared) for market: price = 1.97
+4/12/2022 18:08:35: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 8.52
+4/12/2022 18:08:35: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 16
+4/12/2022 18:08:35: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.16
+4/12/2022 18:08:35: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 24.52
+4/12/2022 18:08:35: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.72
+4/12/2022 18:08:35: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.04
+4/12/2022 18:08:35: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.96
+4/12/2022 18:08:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:08:40: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 3; sets: 0 
+4/12/2022 18:08:40: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:0
+4/12/2022 18:08:40: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bPoints = point: 0; games: 1; sets: 0 
+4/12/2022 18:08:40: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bServing = serving:2
+4/12/2022 18:08:40: [G_Auto 2] :  Store Value (Shared) for market: price = 1.97
+4/12/2022 18:08:40: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 8.52
+4/12/2022 18:08:40: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 16
+4/12/2022 18:08:40: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.16
+4/12/2022 18:08:40: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 24.52
+4/12/2022 18:08:40: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.72
+4/12/2022 18:08:40: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.02
+4/12/2022 18:08:40: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.96
+4/12/2022 18:08:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:08:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 18:09:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 18:09:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 18:11:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:11:27: [G_Auto 1] :  Placed closure bet with greening on Grigor Dimitrov by Backing 8.88 at 1.81
+4/12/2022 18:11:28: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 3; sets: 0 
+4/12/2022 18:11:28: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:1
+4/12/2022 18:11:28: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bPoints = point: 0; games: 2; sets: 0 
+4/12/2022 18:11:28: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bServing = serving:0
+4/12/2022 18:11:28: [G_Auto 2] :  Store Value (Shared) for market: price = 1.82
+4/12/2022 18:11:28: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 17.4
+4/12/2022 18:11:28: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 16
+4/12/2022 18:11:28: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.88
+4/12/2022 18:11:28: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 33.4
+4/12/2022 18:11:28: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.35
+4/12/2022 18:11:28: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.2
+4/12/2022 18:11:28: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.84
+4/12/2022 18:11:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:11:33: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 3; sets: 0 
+4/12/2022 18:11:33: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:1
+4/12/2022 18:11:33: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bPoints = point: 0; games: 2; sets: 0 
+4/12/2022 18:11:33: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bServing = serving:0
+4/12/2022 18:11:33: [G_Auto 2] :  Store Value (Shared) for market: price = 1.82
+4/12/2022 18:11:33: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 17.4
+4/12/2022 18:11:33: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 16
+4/12/2022 18:11:33: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.88
+4/12/2022 18:11:33: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 33.4
+4/12/2022 18:11:33: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.36
+4/12/2022 18:11:33: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.2
+4/12/2022 18:11:33: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.84
+4/12/2022 18:11:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:12:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:12:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:12:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:12:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:13:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:13:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:13:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 18:13:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 18:15:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:15:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:15:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:16:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 18:16:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 18:16:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 18:22:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:23:09: [G_Auto 1] :  € 8.25 Lay bet placed on Dusan Lajovic at 1.97. Fully matched at 1.97.  Ref: 10214          ( Fill or kill bet with 15 seconds delay.   )
+4/12/2022 18:23:10: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 4; sets: 0 
+4/12/2022 18:23:10: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:1
+4/12/2022 18:23:10: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bPoints = point: 0; games: 3; sets: 0 
+4/12/2022 18:23:10: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bServing = serving:0
+4/12/2022 18:23:10: [G_Auto 2] :  Store Value (Shared) for market: price = 1.97
+4/12/2022 18:23:10: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 17.4
+4/12/2022 18:23:10: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 24.25
+4/12/2022 18:23:10: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.25
+4/12/2022 18:23:10: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 41.65
+4/12/2022 18:23:10: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.53
+4/12/2022 18:23:10: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.94
+4/12/2022 18:23:10: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.06
+4/12/2022 18:23:12: [G_Auto 1] :  Placed closure bet with greening on Grigor Dimitrov by Laying 0.04 at 2.06
+4/12/2022 18:23:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:23:15: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 4; sets: 0 
+4/12/2022 18:23:15: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:1
+4/12/2022 18:23:15: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bPoints = point: 0; games: 3; sets: 0 
+4/12/2022 18:23:15: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bServing = serving:0
+4/12/2022 18:23:15: [G_Auto 2] :  Store Value (Shared) for market: price = 2.06
+4/12/2022 18:23:15: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 17.4
+4/12/2022 18:23:15: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 24.29
+4/12/2022 18:23:15: [G_Auto 2] :  Store Value (Shared) for market: stake = 0.04
+4/12/2022 18:23:15: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 41.69
+4/12/2022 18:23:15: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.53
+4/12/2022 18:23:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.94
+4/12/2022 18:23:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.06
+4/12/2022 18:23:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:23:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:23:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:24:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:24:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:24:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:24:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:25:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 18:25:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 18:26:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:27:01: [G_Auto 1] :  Placed closure bet with greening on Dusan Lajovic by Backing 9.79 at 1.66
+4/12/2022 18:27:02: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 5; sets: 0 
+4/12/2022 18:27:02: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:0
+4/12/2022 18:27:02: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bPoints = point: 0; games: 3; sets: 0 
+4/12/2022 18:27:02: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bServing = serving:2
+4/12/2022 18:27:02: [G_Auto 2] :  Store Value (Shared) for market: price = 1.66
+4/12/2022 18:27:02: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 27.19
+4/12/2022 18:27:02: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 24.29
+4/12/2022 18:27:02: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.79
+4/12/2022 18:27:02: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 51.48
+4/12/2022 18:27:02: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.9
+4/12/2022 18:27:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.67
+4/12/2022 18:27:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.52
+4/12/2022 18:27:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:27:07: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 5; sets: 0 
+4/12/2022 18:27:07: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:0
+4/12/2022 18:27:07: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bPoints = point: 0; games: 3; sets: 0 
+4/12/2022 18:27:07: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bServing = serving:2
+4/12/2022 18:27:07: [G_Auto 2] :  Store Value (Shared) for market: price = 1.66
+4/12/2022 18:27:07: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 27.19
+4/12/2022 18:27:07: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 24.29
+4/12/2022 18:27:07: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.79
+4/12/2022 18:27:07: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 51.48
+4/12/2022 18:27:07: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.9
+4/12/2022 18:27:07: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.68
+4/12/2022 18:27:07: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.46
+4/12/2022 18:27:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:27:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 18:27:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 18:27:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 18:28:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 18:30:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:30:37: [G_Auto 1] :  € 10.39 Lay bet placed on Dusan Lajovic at 1.77. Fully matched at 1.76.  Ref: 10218          ( Fill or kill bet with 15 seconds delay.   )
+4/12/2022 18:30:38: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 5; sets: 0 
+4/12/2022 18:30:38: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:1
+4/12/2022 18:30:38: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bPoints = point: 0; games: 4; sets: 0 
+4/12/2022 18:30:38: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bServing = serving:0
+4/12/2022 18:30:38: [G_Auto 2] :  Store Value (Shared) for market: price = 1.76
+4/12/2022 18:30:38: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 27.19
+4/12/2022 18:30:38: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 34.68
+4/12/2022 18:30:38: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.39
+4/12/2022 18:30:38: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 61.87
+4/12/2022 18:30:38: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.96
+4/12/2022 18:30:38: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.75
+4/12/2022 18:30:38: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.34
+4/12/2022 18:30:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:30:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:31:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:31:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:31:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:31:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:32:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:32:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:32:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 18:32:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 18:33:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:34:04: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 1.53
+4/12/2022 18:34:04: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 2.92
+4/12/2022 18:34:09: [G_Auto 1] :  Placed closure bet with greening on Dusan Lajovic by Backing 12.03 at 1.52
+4/12/2022 18:34:09: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 0; sets: 1 
+4/12/2022 18:34:09: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:0
+4/12/2022 18:34:09: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bPoints = point: 0; games: 0; sets: 0 
+4/12/2022 18:34:09: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bServing = serving:2
+4/12/2022 18:34:09: [G_Auto 2] :  Store Value (Shared) for market: price = 1.52
+4/12/2022 18:34:09: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 39.22
+4/12/2022 18:34:09: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 34.68
+4/12/2022 18:34:09: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.03
+4/12/2022 18:34:09: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 73.9
+4/12/2022 18:34:09: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.54
+4/12/2022 18:34:09: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.53
+4/12/2022 18:34:09: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.9
+4/12/2022 18:34:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:34:14: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 0; sets: 1 
+4/12/2022 18:34:14: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:0
+4/12/2022 18:34:14: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bPoints = point: 0; games: 0; sets: 0 
+4/12/2022 18:34:14: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bServing = serving:2
+4/12/2022 18:34:14: [G_Auto 2] :  Store Value (Shared) for market: price = 1.52
+4/12/2022 18:34:14: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 39.22
+4/12/2022 18:34:14: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 34.68
+4/12/2022 18:34:14: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.03
+4/12/2022 18:34:14: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 73.9
+4/12/2022 18:34:14: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.54
+4/12/2022 18:34:14: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.52
+4/12/2022 18:34:14: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.88
+4/12/2022 18:34:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:34:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:34:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:35:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:35:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:35:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:35:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:36:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:36:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:36:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 18:36:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 18:37:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 18:40:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:40:12: [G_Auto 1] :  € 12.50 Lay bet placed on Dusan Lajovic at 1.64. Fully matched at 1.63.  Ref: 10221          ( Fill or kill bet with 15 seconds delay.   )
+4/12/2022 18:40:13: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 0; sets: 1 
+4/12/2022 18:40:13: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:1
+4/12/2022 18:40:13: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bPoints = point: 0; games: 1; sets: 0 
+4/12/2022 18:40:13: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bServing = serving:0
+4/12/2022 18:40:13: [G_Auto 2] :  Store Value (Shared) for market: price = 1.63
+4/12/2022 18:40:13: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 39.22
+4/12/2022 18:40:13: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 47.18
+4/12/2022 18:40:13: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.5
+4/12/2022 18:40:13: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 86.4
+4/12/2022 18:40:13: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.62
+4/12/2022 18:40:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.63
+4/12/2022 18:40:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.58
+4/12/2022 18:40:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:40:18: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 0; sets: 1 
+4/12/2022 18:40:18: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:1
+4/12/2022 18:40:18: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bPoints = point: 0; games: 1; sets: 0 
+4/12/2022 18:40:18: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bServing = serving:0
+4/12/2022 18:40:18: [G_Auto 2] :  Store Value (Shared) for market: price = 1.63
+4/12/2022 18:40:18: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 39.22
+4/12/2022 18:40:18: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 47.18
+4/12/2022 18:40:18: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.5
+4/12/2022 18:40:18: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 86.4
+4/12/2022 18:40:18: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.7
+4/12/2022 18:40:18: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.61
+4/12/2022 18:40:18: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.62
+4/12/2022 18:40:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:40:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:41:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:41:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 18:41:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 18:41:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 18:48:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:48:48: [G_Auto 1] :  Placed closure bet with greening on Dusan Lajovic by Backing 13.06 at 1.56
+4/12/2022 18:48:48: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 1; sets: 1 
+4/12/2022 18:48:48: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:0
+4/12/2022 18:48:48: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bPoints = point: 0; games: 1; sets: 0 
+4/12/2022 18:48:48: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bServing = serving:2
+4/12/2022 18:48:48: [G_Auto 2] :  Store Value (Shared) for market: price = 1.56
+4/12/2022 18:48:48: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 52.28
+4/12/2022 18:48:48: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 47.18
+4/12/2022 18:48:48: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.06
+4/12/2022 18:48:48: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 99.46
+4/12/2022 18:48:48: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.1
+4/12/2022 18:48:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.57
+4/12/2022 18:48:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.76
+4/12/2022 18:48:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:49:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:49:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:49:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 18:49:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 18:49:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 18:52:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:52:12: [G_Auto 1] :  € 10.81 Lay bet placed on Dusan Lajovic at 1.74. Fully matched at 1.73.  Ref: 10223          ( Fill or kill bet with 15 seconds delay.   )
+4/12/2022 18:52:12: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 1; sets: 1 
+4/12/2022 18:52:12: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:1
+4/12/2022 18:52:12: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bPoints = point: 0; games: 2; sets: 0 
+4/12/2022 18:52:12: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bServing = serving:0
+4/12/2022 18:52:12: [G_Auto 2] :  Store Value (Shared) for market: price = 1.73
+4/12/2022 18:52:12: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 52.28
+4/12/2022 18:52:12: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 57.99
+4/12/2022 18:52:12: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.81
+4/12/2022 18:52:12: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 110.27
+4/12/2022 18:52:12: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.16
+4/12/2022 18:52:12: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.72
+4/12/2022 18:52:12: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.4
+4/12/2022 18:52:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:52:18: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 1; sets: 1 
+4/12/2022 18:52:18: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:1
+4/12/2022 18:52:18: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bPoints = point: 0; games: 2; sets: 0 
+4/12/2022 18:52:18: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bServing = serving:0
+4/12/2022 18:52:18: [G_Auto 2] :  Store Value (Shared) for market: price = 1.73
+4/12/2022 18:52:18: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 52.28
+4/12/2022 18:52:18: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 57.99
+4/12/2022 18:52:18: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.81
+4/12/2022 18:52:18: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 110.27
+4/12/2022 18:52:18: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.16
+4/12/2022 18:52:18: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.72
+4/12/2022 18:52:18: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.4
+4/12/2022 18:52:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:52:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:53:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:53:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:53:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:53:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:54:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:54:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:54:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 18:54:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 18:57:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:57:17: [G_Auto 1] :  Placed closure bet with greening on Dusan Lajovic by Backing 11.62 at 1.61
+4/12/2022 18:57:17: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 2; sets: 1 
+4/12/2022 18:57:17: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:0
+4/12/2022 18:57:17: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bPoints = point: 0; games: 2; sets: 0 
+4/12/2022 18:57:17: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bServing = serving:2
+4/12/2022 18:57:17: [G_Auto 2] :  Store Value (Shared) for market: price = 1.61
+4/12/2022 18:57:17: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 63.9
+4/12/2022 18:57:17: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 57.99
+4/12/2022 18:57:17: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.62
+4/12/2022 18:57:17: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 121.89
+4/12/2022 18:57:17: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.91
+4/12/2022 18:57:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.61
+4/12/2022 18:57:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.58
+4/12/2022 18:57:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:57:22: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 2; sets: 1 
+4/12/2022 18:57:22: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:0
+4/12/2022 18:57:22: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bPoints = point: 0; games: 2; sets: 0 
+4/12/2022 18:57:22: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bServing = serving:2
+4/12/2022 18:57:22: [G_Auto 2] :  Store Value (Shared) for market: price = 1.61
+4/12/2022 18:57:22: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 63.9
+4/12/2022 18:57:22: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 57.99
+4/12/2022 18:57:22: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.62
+4/12/2022 18:57:22: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 121.89
+4/12/2022 18:57:22: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.91
+4/12/2022 18:57:22: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.61
+4/12/2022 18:57:22: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.6
+4/12/2022 18:57:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 18:57:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 18:58:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 18:58:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 19:00:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:00:46: [G_Auto 1] :  € 34.78 Lay bet placed on Dusan Lajovic at 1.23. Fully matched at 1.22.  Ref: 10225          ( Fill or kill bet with 15 seconds delay.   )
+4/12/2022 19:00:47: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 3; sets: 1 
+4/12/2022 19:00:47: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:1
+4/12/2022 19:00:47: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bPoints = point: 0; games: 2; sets: 0 
+4/12/2022 19:00:47: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bServing = serving:0
+4/12/2022 19:00:47: [G_Auto 2] :  Store Value (Shared) for market: price = 1.22
+4/12/2022 19:00:47: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 63.9
+4/12/2022 19:00:47: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 92.77
+4/12/2022 19:00:47: [G_Auto 2] :  Store Value (Shared) for market: stake = 34.78
+4/12/2022 19:00:47: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 156.67
+4/12/2022 19:00:47: [G_Auto 2] :  Store Value (Shared) for market: pl = -6.19
+4/12/2022 19:00:47: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.21
+4/12/2022 19:00:47: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.5
+4/12/2022 19:00:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:00:52: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 3; sets: 1 
+4/12/2022 19:00:52: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:1
+4/12/2022 19:00:52: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bPoints = point: 0; games: 2; sets: 0 
+4/12/2022 19:00:52: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bServing = serving:0
+4/12/2022 19:00:52: [G_Auto 2] :  Store Value (Shared) for market: price = 1.22
+4/12/2022 19:00:52: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 63.9
+4/12/2022 19:00:52: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 92.77
+4/12/2022 19:00:52: [G_Auto 2] :  Store Value (Shared) for market: stake = 34.78
+4/12/2022 19:00:52: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 156.67
+4/12/2022 19:00:52: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.91
+4/12/2022 19:00:52: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.22
+4/12/2022 19:00:52: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.5
+4/12/2022 19:01:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:01:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:01:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:01:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:02:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:02:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:02:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:02:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 19:03:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 19:05:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:05:39: [G_Auto 1] :  Placed closure bet with greening on Dusan Lajovic by Backing 26.68 at 1.59
+4/12/2022 19:05:39: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 3; sets: 1 
+4/12/2022 19:05:39: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:0
+4/12/2022 19:05:39: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bPoints = point: 0; games: 3; sets: 0 
+4/12/2022 19:05:39: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bServing = serving:2
+4/12/2022 19:05:39: [G_Auto 2] :  Store Value (Shared) for market: price = 1.59
+4/12/2022 19:05:39: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 90.58
+4/12/2022 19:05:39: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 92.77
+4/12/2022 19:05:39: [G_Auto 2] :  Store Value (Shared) for market: stake = 26.68
+4/12/2022 19:05:39: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 183.35
+4/12/2022 19:05:39: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.14
+4/12/2022 19:05:39: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.59
+4/12/2022 19:05:39: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.66
+4/12/2022 19:05:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:05:44: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 3; sets: 1 
+4/12/2022 19:05:44: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:0
+4/12/2022 19:05:44: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bPoints = point: 0; games: 3; sets: 0 
+4/12/2022 19:05:44: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bServing = serving:2
+4/12/2022 19:05:44: [G_Auto 2] :  Store Value (Shared) for market: price = 1.59
+4/12/2022 19:05:44: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 90.58
+4/12/2022 19:05:44: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 92.77
+4/12/2022 19:05:44: [G_Auto 2] :  Store Value (Shared) for market: stake = 26.68
+4/12/2022 19:05:44: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 183.35
+4/12/2022 19:05:44: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.14
+4/12/2022 19:05:44: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.59
+4/12/2022 19:05:44: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.7
+4/12/2022 19:05:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:06:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:06:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 19:06:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 19:06:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 19:07:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:08:06: [G_Auto 1] :  € 10.53 Lay bet placed on Dusan Lajovic at 1.76. Fully matched at 1.75.  Ref: 10227          ( Fill or kill bet with 15 seconds delay.   )
+4/12/2022 19:08:06: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 3; sets: 1 
+4/12/2022 19:08:06: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:1
+4/12/2022 19:08:06: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bPoints = point: 0; games: 4; sets: 0 
+4/12/2022 19:08:06: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bServing = serving:0
+4/12/2022 19:08:06: [G_Auto 2] :  Store Value (Shared) for market: price = 1.75
+4/12/2022 19:08:06: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 90.58
+4/12/2022 19:08:06: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 103.3
+4/12/2022 19:08:06: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.53
+4/12/2022 19:08:06: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 193.88
+4/12/2022 19:08:06: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.09
+4/12/2022 19:08:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.75
+4/12/2022 19:08:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.34
+4/12/2022 19:08:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:08:11: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 3; sets: 1 
+4/12/2022 19:08:11: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:1
+4/12/2022 19:08:11: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bPoints = point: 0; games: 4; sets: 0 
+4/12/2022 19:08:11: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bServing = serving:0
+4/12/2022 19:08:11: [G_Auto 2] :  Store Value (Shared) for market: price = 1.75
+4/12/2022 19:08:11: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 90.58
+4/12/2022 19:08:11: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 103.3
+4/12/2022 19:08:11: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.53
+4/12/2022 19:08:11: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 193.88
+4/12/2022 19:08:11: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.09
+4/12/2022 19:08:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.75
+4/12/2022 19:08:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.34
+4/12/2022 19:08:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:08:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:08:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:09:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:09:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:09:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:09:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:10:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:10:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 19:10:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 19:13:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:13:31: [G_Auto 1] :  € 11.94 Lay bet placed on Grigor Dimitrov at 1.67. Fully matched at 1.67.  Ref: 10228          ( Fill or kill bet with 15 seconds delay.   )
+4/12/2022 19:13:31: [G_Auto 1] :  Placed closure bet with greening on Dusan Lajovic by Backing 7.37 at 2.5
+4/12/2022 19:13:32: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 3; sets: 1 
+4/12/2022 19:13:32: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:0
+4/12/2022 19:13:32: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bPoints = point: 0; games: 5; sets: 0 
+4/12/2022 19:13:32: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bServing = serving:2
+4/12/2022 19:13:32: [G_Auto 2] :  Store Value (Shared) for market: price = 1.67
+4/12/2022 19:13:32: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 90.58
+4/12/2022 19:13:32: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 115.24
+4/12/2022 19:13:32: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.94
+4/12/2022 19:13:32: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 205.82
+4/12/2022 19:13:32: [G_Auto 2] :  Store Value (Shared) for market: pl = 5.04
+4/12/2022 19:13:32: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.48
+4/12/2022 19:13:32: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.65
+4/12/2022 19:13:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:13:43: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 3; sets: 1 
+4/12/2022 19:13:43: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:0
+4/12/2022 19:13:43: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bPoints = point: 0; games: 5; sets: 0 
+4/12/2022 19:13:43: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bServing = serving:2
+4/12/2022 19:13:43: [G_Auto 2] :  Store Value (Shared) for market: price = 2.5
+4/12/2022 19:13:43: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 97.95
+4/12/2022 19:13:43: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 115.24
+4/12/2022 19:13:43: [G_Auto 2] :  Store Value (Shared) for market: stake = 7.37
+4/12/2022 19:13:43: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 213.19
+4/12/2022 19:13:43: [G_Auto 2] :  Store Value (Shared) for market: pl = 5.1
+4/12/2022 19:13:43: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.52
+4/12/2022 19:13:43: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.66
+4/12/2022 19:13:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:13:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 19:14:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 19:16:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:16:38: [G_Auto 2] :  Store Value (Shared) for market: aSecondSetPrice = 2.78
+4/12/2022 19:16:38: [G_Auto 2] :  Store Value (Shared) for market: bSecondSetPrice = 1.57
+4/12/2022 19:16:43: [G_Auto 1] :  Placed closure bet with greening on Grigor Dimitrov by Backing 12.78 at 1.56
+4/12/2022 19:16:43: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 0; sets: 1 
+4/12/2022 19:16:43: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:1
+4/12/2022 19:16:43: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bPoints = point: 0; games: 0; sets: 1 
+4/12/2022 19:16:43: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bServing = serving:0
+4/12/2022 19:16:43: [G_Auto 2] :  Store Value (Shared) for market: price = 1.57
+4/12/2022 19:16:43: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 110.73
+4/12/2022 19:16:43: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 115.24
+4/12/2022 19:16:43: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.78
+4/12/2022 19:16:43: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 225.97
+4/12/2022 19:16:43: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.49
+4/12/2022 19:16:43: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.76
+4/12/2022 19:16:43: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.57
+4/12/2022 19:16:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:16:49: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 0; sets: 1 
+4/12/2022 19:16:49: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:1
+4/12/2022 19:16:49: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bPoints = point: 0; games: 0; sets: 1 
+4/12/2022 19:16:49: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bServing = serving:0
+4/12/2022 19:16:49: [G_Auto 2] :  Store Value (Shared) for market: price = 1.57
+4/12/2022 19:16:49: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 110.73
+4/12/2022 19:16:49: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 115.24
+4/12/2022 19:16:49: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.78
+4/12/2022 19:16:49: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 225.97
+4/12/2022 19:16:49: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.49
+4/12/2022 19:16:49: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.74
+4/12/2022 19:16:49: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.58
+4/12/2022 19:17:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:17:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:17:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:17:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:18:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:18:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:18:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:18:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:19:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:19:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:19:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 19:19:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 19:22:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:22:13: [G_Auto 1] :  € 9.64 Lay bet placed on Grigor Dimitrov at 1.83. Fully matched at 1.82.  Ref: 10231          ( Fill or kill bet with 15 seconds delay.   )
+4/12/2022 19:22:13: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 1; sets: 1 
+4/12/2022 19:22:13: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:0
+4/12/2022 19:22:13: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bPoints = point: 0; games: 0; sets: 1 
+4/12/2022 19:22:13: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bServing = serving:2
+4/12/2022 19:22:13: [G_Auto 2] :  Store Value (Shared) for market: price = 1.82
+4/12/2022 19:22:13: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 110.73
+4/12/2022 19:22:13: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 124.88
+4/12/2022 19:22:13: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.64
+4/12/2022 19:22:13: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 235.61
+4/12/2022 19:22:13: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.43
+4/12/2022 19:22:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.24
+4/12/2022 19:22:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.81
+4/12/2022 19:22:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:22:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:22:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:23:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:23:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:23:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 19:23:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 19:26:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:26:31: [G_Auto 1] :  Placed closure bet with greening on Grigor Dimitrov by Backing 11.02 at 1.58
+4/12/2022 19:26:31: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 1; sets: 1 
+4/12/2022 19:26:31: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:1
+4/12/2022 19:26:31: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bPoints = point: 0; games: 1; sets: 1 
+4/12/2022 19:26:31: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bServing = serving:0
+4/12/2022 19:26:31: [G_Auto 2] :  Store Value (Shared) for market: price = 1.58
+4/12/2022 19:26:31: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 121.75
+4/12/2022 19:26:31: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 124.88
+4/12/2022 19:26:31: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.02
+4/12/2022 19:26:31: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 246.63
+4/12/2022 19:26:31: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.06
+4/12/2022 19:26:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.64
+4/12/2022 19:26:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.6
+4/12/2022 19:26:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:26:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:26:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 19:27:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 19:28:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:28:58: [G_Auto 1] :  € 9.41 Lay bet placed on Grigor Dimitrov at 1.85. Fully matched at 1.84.  Ref: 10233          ( Fill or kill bet with 15 seconds delay.   )
+4/12/2022 19:28:58: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 2; sets: 1 
+4/12/2022 19:28:58: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:0
+4/12/2022 19:28:58: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bPoints = point: 0; games: 1; sets: 1 
+4/12/2022 19:28:58: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bServing = serving:2
+4/12/2022 19:28:58: [G_Auto 2] :  Store Value (Shared) for market: price = 1.84
+4/12/2022 19:28:58: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 121.75
+4/12/2022 19:28:58: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 134.29
+4/12/2022 19:28:58: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.41
+4/12/2022 19:28:58: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 256.04
+4/12/2022 19:28:58: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.95
+4/12/2022 19:28:58: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.2
+4/12/2022 19:28:58: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.82
+4/12/2022 19:29:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:29:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:29:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:29:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:30:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:30:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:30:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:30:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:31:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:31:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 19:31:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 19:34:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:34:33: [G_Auto 1] :  Placed closure bet with greening on Grigor Dimitrov by Backing 10.63 at 1.63
+4/12/2022 19:34:33: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 2; sets: 1 
+4/12/2022 19:34:33: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:1
+4/12/2022 19:34:33: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bPoints = point: 0; games: 2; sets: 1 
+4/12/2022 19:34:33: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bServing = serving:0
+4/12/2022 19:34:33: [G_Auto 2] :  Store Value (Shared) for market: price = 1.63
+4/12/2022 19:34:33: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 132.38
+4/12/2022 19:34:33: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 134.29
+4/12/2022 19:34:33: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.63
+4/12/2022 19:34:33: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 266.67
+4/12/2022 19:34:33: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.86
+4/12/2022 19:34:33: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.56
+4/12/2022 19:34:33: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.64
+4/12/2022 19:34:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:34:38: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 2; sets: 1 
+4/12/2022 19:34:38: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:1
+4/12/2022 19:34:38: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bPoints = point: 0; games: 2; sets: 1 
+4/12/2022 19:34:38: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bServing = serving:0
+4/12/2022 19:34:38: [G_Auto 2] :  Store Value (Shared) for market: price = 1.63
+4/12/2022 19:34:38: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 132.38
+4/12/2022 19:34:38: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 134.29
+4/12/2022 19:34:38: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.63
+4/12/2022 19:34:38: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 266.67
+4/12/2022 19:34:38: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.86
+4/12/2022 19:34:38: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.56
+4/12/2022 19:34:38: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.65
+4/12/2022 19:34:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:35:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:35:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 19:35:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 19:35:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 19:39:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:39:42: [G_Auto 1] :  € 38.10 Lay bet placed on Grigor Dimitrov at 1.21. Fully matched at 1.2.  Ref: 10235          ( Fill or kill bet with 15 seconds delay.   )
+4/12/2022 19:39:42: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 2; sets: 1 
+4/12/2022 19:39:42: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:0
+4/12/2022 19:39:42: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bPoints = point: 0; games: 3; sets: 1 
+4/12/2022 19:39:42: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bServing = serving:2
+4/12/2022 19:39:42: [G_Auto 2] :  Store Value (Shared) for market: price = 1.2
+4/12/2022 19:39:42: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 132.38
+4/12/2022 19:39:42: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 172.39
+4/12/2022 19:39:42: [G_Auto 2] :  Store Value (Shared) for market: stake = 38.1
+4/12/2022 19:39:42: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 304.77
+4/12/2022 19:39:42: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.55
+4/12/2022 19:39:42: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 6.2
+4/12/2022 19:39:42: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.2
+4/12/2022 19:39:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:39:47: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 2; sets: 1 
+4/12/2022 19:39:47: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:0
+4/12/2022 19:39:47: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bPoints = point: 0; games: 3; sets: 1 
+4/12/2022 19:39:47: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bServing = serving:2
+4/12/2022 19:39:47: [G_Auto 2] :  Store Value (Shared) for market: price = 1.2
+4/12/2022 19:39:47: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 132.38
+4/12/2022 19:39:47: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 172.39
+4/12/2022 19:39:47: [G_Auto 2] :  Store Value (Shared) for market: stake = 38.1
+4/12/2022 19:39:47: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 304.77
+4/12/2022 19:39:47: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.55
+4/12/2022 19:39:47: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 6
+4/12/2022 19:39:47: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.2
+4/12/2022 19:40:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:40:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:40:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:40:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:41:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:41:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:41:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:41:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 19:41:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 19:42:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 19:44:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:44:18: [G_Auto 1] :  Placed closure bet with greening on Grigor Dimitrov by Backing 41.18 at 1.11
+4/12/2022 19:44:18: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 2; sets: 1 
+4/12/2022 19:44:18: [G_Auto 2] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:1
+4/12/2022 19:44:18: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bPoints = point: 0; games: 4; sets: 1 
+4/12/2022 19:44:18: [G_Auto 2] :  Store Text Value (Shared) for Grigor Dimitrov: bServing = serving:0
+4/12/2022 19:44:18: [G_Auto 2] :  Store Value (Shared) for market: price = 1.11
+4/12/2022 19:44:18: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 160.13
+4/12/2022 19:44:18: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 172.39
+4/12/2022 19:44:18: [G_Auto 2] :  Store Value (Shared) for market: stake = 27.75
+4/12/2022 19:44:18: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 332.52
+4/12/2022 19:44:18: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.31
+4/12/2022 19:44:18: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 10
+4/12/2022 19:44:18: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.11
+4/12/2022 19:44:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:44:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:44:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:45:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 19:45:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 19:45:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 19:49:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:49:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:49:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:50:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:50:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:50:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:50:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:51:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:51:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:51:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 19:51:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 19:51:55: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 19:55:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 19:55:31:  Guardian has detected that the market is suspended
