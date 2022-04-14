@@ -1,0 +1,562 @@
+4/13/2022 10:29:28: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: info = marketName: Rublev v De Minaur - Match Odds; runnerA: Andrey Rublev; runnerB: Alex De Minaur 
+4/13/2022 10:29:28: [G_Auto 2] :  Store Value (Shared) for market: aId = 7797771
+4/13/2022 10:29:28: [G_Auto 2] :  Store Value (Shared) for market: bId = 10109527
+4/13/2022 17:38:14:  Guardian has detected that the market is in-play
+4/13/2022 17:38:14:  Guardian has detected that the market is suspended
+4/13/2022 17:38:14: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.35; bBsp: 3.85; volume: 109509.51 
+4/13/2022 17:38:14: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.35; bBsp: 3.85; volume: 109509.51 
+4/13/2022 17:38:14:  Guardian has detected that the market is now unsuspended
+4/13/2022 17:38:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 17:38:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 17:40:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:41:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:41:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:41:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:41:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:42:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 17:42:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 17:42:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 17:46:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:46:44: [G_Auto 1] :  € 11.27 Lay bet placed on Andrey Rublev at 1.71. Fully matched at 1.7.  Ref: 10406          ( Fill or kill bet with 15 seconds delay.   )
+4/13/2022 17:46:44: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: aPoints = point: 0; games: 0; sets: 0 
+4/13/2022 17:46:44: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: aServing = serving:1
+4/13/2022 17:46:44: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: bPoints = point: 0; games: 2; sets: 0 
+4/13/2022 17:46:44: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: bServing = serving:0
+4/13/2022 17:46:44: [G_Auto 2] :  Store Value (Shared) for market: price = 1.7
+4/13/2022 17:46:44: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+4/13/2022 17:46:44: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 11.27
+4/13/2022 17:46:44: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.27
+4/13/2022 17:46:44: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 11.27
+4/13/2022 17:46:44: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.07
+4/13/2022 17:46:44: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.69
+4/13/2022 17:46:44: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.44
+4/13/2022 17:46:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:47:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:47:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 17:47:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 17:47:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 17:49:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:50:00: [G_Auto 1] :  Placed closure bet with greening on Andrey Rublev by Backing 9.04 at 2.12
+4/13/2022 17:50:00: [G_Auto 1] :  € 9.09 Lay bet placed on Alex De Minaur at 1.88. Entirely unmatched when it initially reached the market.   Ref: 10408          ( Fill or kill bet with 15 seconds delay.   )
+4/13/2022 17:50:00: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: aPoints = point: 0; games: 0; sets: 0 
+4/13/2022 17:50:00: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: aServing = serving:0
+4/13/2022 17:50:00: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: bPoints = point: 0; games: 3; sets: 0 
+4/13/2022 17:50:00: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: bServing = serving:2
+4/13/2022 17:50:00: [G_Auto 2] :  Store Value (Shared) for market: price = 2.12
+4/13/2022 17:50:00: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 9.04
+4/13/2022 17:50:00: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 11.27
+4/13/2022 17:50:00: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.04
+4/13/2022 17:50:00: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 20.31
+4/13/2022 17:50:00: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.2
+4/13/2022 17:50:00: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.12
+4/13/2022 17:50:00: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.89
+4/13/2022 17:50:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:50:05: [G_Auto 1] :  € 9.09 of unmatched bet (Ref:10408) was filled before remainder was killed.
+4/13/2022 17:50:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:50:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:50:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:51:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:51:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:51:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:51:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:51:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 17:52:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 17:52:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 17:53:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:53:40: [G_Auto 1] :  Placed closure bet with greening on Alex De Minaur by Backing 10.17 at 1.68
+4/13/2022 17:53:41: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: aPoints = point: 0; games: 0; sets: 0 
+4/13/2022 17:53:41: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: aServing = serving:1
+4/13/2022 17:53:41: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: bPoints = point: 0; games: 4; sets: 0 
+4/13/2022 17:53:41: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: bServing = serving:0
+4/13/2022 17:53:41: [G_Auto 2] :  Store Value (Shared) for market: price = 1.68
+4/13/2022 17:53:41: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 19.21
+4/13/2022 17:53:41: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 20.36
+4/13/2022 17:53:41: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.17
+4/13/2022 17:53:41: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 39.57
+4/13/2022 17:53:41: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.14
+4/13/2022 17:53:41: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.46
+4/13/2022 17:53:41: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.67
+4/13/2022 17:53:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:53:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:54:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 17:54:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 17:56:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:56:53: [G_Auto 1] :  € 11.76 Lay bet placed on Alex De Minaur at 1.68. Fully matched at 1.67.  Ref: 10410          ( Fill or kill bet with 15 seconds delay.   )
+4/13/2022 17:56:53: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: aPoints = point: 0; games: 1; sets: 0 
+4/13/2022 17:56:53: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: aServing = serving:0
+4/13/2022 17:56:53: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: bPoints = point: 0; games: 4; sets: 0 
+4/13/2022 17:56:53: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: bServing = serving:2
+4/13/2022 17:56:53: [G_Auto 2] :  Store Value (Shared) for market: price = 1.67
+4/13/2022 17:56:53: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 19.21
+4/13/2022 17:56:53: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 32.12
+4/13/2022 17:56:53: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.76
+4/13/2022 17:56:53: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 51.33
+4/13/2022 17:56:53: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.06
+4/13/2022 17:56:53: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.52
+4/13/2022 17:56:53: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.66
+4/13/2022 17:56:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:57:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:57:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:57:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:57:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:58:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:58:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:58:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:58:55: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 17:59:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 17:59:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 18:03:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:03:44: [G_Auto 1] :  Placed closure bet with greening on Alex De Minaur by Backing 12.28 at 1.6
+4/13/2022 18:03:44: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: aPoints = point: 0; games: 1; sets: 0 
+4/13/2022 18:03:44: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: aServing = serving:1
+4/13/2022 18:03:44: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: bPoints = point: 0; games: 5; sets: 0 
+4/13/2022 18:03:44: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: bServing = serving:0
+4/13/2022 18:03:44: [G_Auto 2] :  Store Value (Shared) for market: price = 1.6
+4/13/2022 18:03:44: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 31.49
+4/13/2022 18:03:44: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 32.12
+4/13/2022 18:03:44: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.28
+4/13/2022 18:03:44: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 63.61
+4/13/2022 18:03:44: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.63
+4/13/2022 18:03:44: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.64
+4/13/2022 18:03:44: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.61
+4/13/2022 18:03:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:03:49: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: aPoints = point: 0; games: 1; sets: 0 
+4/13/2022 18:03:49: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: aServing = serving:1
+4/13/2022 18:03:49: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: bPoints = point: 0; games: 5; sets: 0 
+4/13/2022 18:03:49: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: bServing = serving:0
+4/13/2022 18:03:49: [G_Auto 2] :  Store Value (Shared) for market: price = 1.6
+4/13/2022 18:03:49: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 31.49
+4/13/2022 18:03:49: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 32.12
+4/13/2022 18:03:49: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.28
+4/13/2022 18:03:49: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 63.61
+4/13/2022 18:03:49: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.63
+4/13/2022 18:03:49: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.64
+4/13/2022 18:03:49: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.6
+4/13/2022 18:04:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:04:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 18:04:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 18:05:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:05:50: [G_Auto 1] :  € 12.50 Lay bet placed on Alex De Minaur at 1.64. Fully matched at 1.63.  Ref: 10414          ( Fill or kill bet with 15 seconds delay.   )
+4/13/2022 18:05:50: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: aPoints = point: 0; games: 2; sets: 0 
+4/13/2022 18:05:50: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: aServing = serving:0
+4/13/2022 18:05:50: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: bPoints = point: 0; games: 5; sets: 0 
+4/13/2022 18:05:50: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: bServing = serving:2
+4/13/2022 18:05:50: [G_Auto 2] :  Store Value (Shared) for market: price = 1.63
+4/13/2022 18:05:50: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 31.49
+4/13/2022 18:05:50: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 44.62
+4/13/2022 18:05:50: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.5
+4/13/2022 18:05:50: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 76.11
+4/13/2022 18:05:50: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.55
+4/13/2022 18:05:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.62
+4/13/2022 18:05:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.63
+4/13/2022 18:05:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:06:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:06:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:06:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:06:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:07:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:07:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:07:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:07:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 18:08:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 18:09:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:09:56: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 2.68
+4/13/2022 18:09:56: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 1.59
+4/13/2022 18:10:01: [G_Auto 1] :  Placed closure bet with greening on Alex De Minaur by Backing 12.89 at 1.58
+4/13/2022 18:10:01: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: aPoints = point: 0; games: 0; sets: 0 
+4/13/2022 18:10:01: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: aServing = serving:1
+4/13/2022 18:10:01: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: bPoints = point: 0; games: 0; sets: 1 
+4/13/2022 18:10:01: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: bServing = serving:0
+4/13/2022 18:10:01: [G_Auto 2] :  Store Value (Shared) for market: price = 1.59
+4/13/2022 18:10:01: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 44.38
+4/13/2022 18:10:01: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 44.62
+4/13/2022 18:10:01: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.89
+4/13/2022 18:10:01: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 89
+4/13/2022 18:10:01: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.31
+4/13/2022 18:10:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.7
+4/13/2022 18:10:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.59
+4/13/2022 18:10:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:10:06: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: aPoints = point: 0; games: 0; sets: 0 
+4/13/2022 18:10:06: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: aServing = serving:1
+4/13/2022 18:10:06: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: bPoints = point: 0; games: 0; sets: 1 
+4/13/2022 18:10:06: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: bServing = serving:0
+4/13/2022 18:10:06: [G_Auto 2] :  Store Value (Shared) for market: price = 1.59
+4/13/2022 18:10:06: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 44.38
+4/13/2022 18:10:06: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 44.62
+4/13/2022 18:10:06: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.89
+4/13/2022 18:10:06: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 89
+4/13/2022 18:10:06: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.31
+4/13/2022 18:10:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.66
+4/13/2022 18:10:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.6
+4/13/2022 18:10:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:10:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:10:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:11:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:11:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:11:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:11:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:12:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:12:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 18:12:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 18:17:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:17:21: [G_Auto 1] :  € 11.27 Lay bet placed on Alex De Minaur at 1.71. Fully matched at 1.7.  Ref: 10416          ( Fill or kill bet with 15 seconds delay.   )
+4/13/2022 18:17:21: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: aPoints = point: 0; games: 1; sets: 0 
+4/13/2022 18:17:21: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: aServing = serving:0
+4/13/2022 18:17:21: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: bPoints = point: 0; games: 0; sets: 1 
+4/13/2022 18:17:21: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: bServing = serving:2
+4/13/2022 18:17:21: [G_Auto 2] :  Store Value (Shared) for market: price = 1.7
+4/13/2022 18:17:21: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 44.38
+4/13/2022 18:17:21: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 55.89
+4/13/2022 18:17:21: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.27
+4/13/2022 18:17:21: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 100.27
+4/13/2022 18:17:21: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.25
+4/13/2022 18:17:21: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.46
+4/13/2022 18:17:21: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.69
+4/13/2022 18:17:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:17:26: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: aPoints = point: 0; games: 1; sets: 0 
+4/13/2022 18:17:26: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: aServing = serving:0
+4/13/2022 18:17:26: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: bPoints = point: 0; games: 0; sets: 1 
+4/13/2022 18:17:26: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: bServing = serving:2
+4/13/2022 18:17:26: [G_Auto 2] :  Store Value (Shared) for market: price = 1.7
+4/13/2022 18:17:26: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 44.38
+4/13/2022 18:17:26: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 55.89
+4/13/2022 18:17:26: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.27
+4/13/2022 18:17:26: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 100.27
+4/13/2022 18:17:26: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.25
+4/13/2022 18:17:26: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.46
+4/13/2022 18:17:26: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.69
+4/13/2022 18:17:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:17:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:18:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:18:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 18:18:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 18:18:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 18:19:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 18:22:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:22:56: [G_Auto 1] :  Placed closure bet with greening on Alex De Minaur by Backing 8.81 at 2.16
+4/13/2022 18:22:56: [G_Auto 1] :  € 9.09 Lay bet placed on Andrey Rublev at 1.88. Fully matched at 1.87.  Ref: 10418          ( Fill or kill bet with 15 seconds delay.   )
+4/13/2022 18:22:57: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: aPoints = point: 0; games: 2; sets: 0 
+4/13/2022 18:22:57: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: aServing = serving:1
+4/13/2022 18:22:57: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: bPoints = point: 0; games: 0; sets: 1 
+4/13/2022 18:22:57: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: bServing = serving:0
+4/13/2022 18:22:57: [G_Auto 2] :  Store Value (Shared) for market: price = 2.16
+4/13/2022 18:22:57: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 53.19
+4/13/2022 18:22:57: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 64.98
+4/13/2022 18:22:57: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.81
+4/13/2022 18:22:57: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 118.17
+4/13/2022 18:22:57: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.55
+4/13/2022 18:22:57: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.85
+4/13/2022 18:22:57: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.16
+4/13/2022 18:22:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:23:02: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: aPoints = point: 0; games: 2; sets: 0 
+4/13/2022 18:23:02: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: aServing = serving:1
+4/13/2022 18:23:02: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: bPoints = point: 0; games: 0; sets: 1 
+4/13/2022 18:23:02: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: bServing = serving:0
+4/13/2022 18:23:02: [G_Auto 2] :  Store Value (Shared) for market: price = 2.16
+4/13/2022 18:23:02: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 53.19
+4/13/2022 18:23:02: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 64.98
+4/13/2022 18:23:02: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.81
+4/13/2022 18:23:02: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 118.17
+4/13/2022 18:23:02: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.5
+4/13/2022 18:23:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.85
+4/13/2022 18:23:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.16
+4/13/2022 18:23:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:23:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 18:23:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 18:23:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 18:25:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:25:27: [G_Auto 1] :  Placed closure bet with greening on Andrey Rublev by Backing 9.82 at 1.73
+4/13/2022 18:25:28: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: aPoints = point: 0; games: 3; sets: 0 
+4/13/2022 18:25:28: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: aServing = serving:0
+4/13/2022 18:25:28: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: bPoints = point: 0; games: 0; sets: 1 
+4/13/2022 18:25:28: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: bServing = serving:2
+4/13/2022 18:25:28: [G_Auto 2] :  Store Value (Shared) for market: price = 1.73
+4/13/2022 18:25:28: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 63.01
+4/13/2022 18:25:28: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 64.98
+4/13/2022 18:25:28: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.82
+4/13/2022 18:25:28: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 127.99
+4/13/2022 18:25:28: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.93
+4/13/2022 18:25:28: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.74
+4/13/2022 18:25:28: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.34
+4/13/2022 18:25:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:25:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:26:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:26:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:26:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:26:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:27:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:27:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:27:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 18:27:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 18:33:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:33:30: [G_Auto 1] :  € 9.64 Lay bet placed on Andrey Rublev at 1.83. Fully matched at 1.82.  Ref: 10420          ( Fill or kill bet with 15 seconds delay.   )
+4/13/2022 18:33:30: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: aPoints = point: 0; games: 3; sets: 0 
+4/13/2022 18:33:30: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: aServing = serving:1
+4/13/2022 18:33:30: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: bPoints = point: 0; games: 1; sets: 1 
+4/13/2022 18:33:30: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: bServing = serving:0
+4/13/2022 18:33:30: [G_Auto 2] :  Store Value (Shared) for market: price = 1.82
+4/13/2022 18:33:30: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 63.01
+4/13/2022 18:33:30: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 74.62
+4/13/2022 18:33:30: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.64
+4/13/2022 18:33:30: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 137.63
+4/13/2022 18:33:30: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.87
+4/13/2022 18:33:30: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.81
+4/13/2022 18:33:30: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.24
+4/13/2022 18:33:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:33:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:33:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 18:34:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 18:35:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:35:28: [G_Auto 1] :  Placed closure bet with greening on Andrey Rublev by Backing 10.70 at 1.64
+4/13/2022 18:35:28: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: aPoints = point: 0; games: 4; sets: 0 
+4/13/2022 18:35:28: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: aServing = serving:0
+4/13/2022 18:35:28: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: bPoints = point: 0; games: 1; sets: 1 
+4/13/2022 18:35:28: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: bServing = serving:2
+4/13/2022 18:35:28: [G_Auto 2] :  Store Value (Shared) for market: price = 1.64
+4/13/2022 18:35:28: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 73.71
+4/13/2022 18:35:28: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 74.62
+4/13/2022 18:35:28: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.7
+4/13/2022 18:35:28: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 148.33
+4/13/2022 18:35:28: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.89
+4/13/2022 18:35:28: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.65
+4/13/2022 18:35:28: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.52
+4/13/2022 18:35:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:35:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:36:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:36:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:36:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:36:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:37:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:37:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:37:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:37:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 18:37:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 18:38:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 18:38:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 18:39:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:39:34: [G_Auto 1] :  € 17.78 Lay bet placed on Andrey Rublev at 1.45. Fully matched at 1.44.  Ref: 10422          ( Fill or kill bet with 15 seconds delay.   )
+4/13/2022 18:39:34: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: aPoints = point: 0; games: 5; sets: 0 
+4/13/2022 18:39:34: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: aServing = serving:1
+4/13/2022 18:39:34: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: bPoints = point: 0; games: 1; sets: 1 
+4/13/2022 18:39:34: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: bServing = serving:0
+4/13/2022 18:39:34: [G_Auto 2] :  Store Value (Shared) for market: price = 1.44
+4/13/2022 18:39:34: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 73.71
+4/13/2022 18:39:34: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 92.4
+4/13/2022 18:39:34: [G_Auto 2] :  Store Value (Shared) for market: stake = 17.78
+4/13/2022 18:39:34: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 166.11
+4/13/2022 18:39:34: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.77
+4/13/2022 18:39:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.44
+4/13/2022 18:39:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.25
+4/13/2022 18:39:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:39:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:40:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:40:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 18:40:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 18:41:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:42:06: [G_Auto 2] :  Store Value (Shared) for market: aSecondSetPrice = 1.42
+4/13/2022 18:42:06: [G_Auto 2] :  Store Value (Shared) for market: bSecondSetPrice = 3.4
+4/13/2022 18:42:11: [G_Auto 1] :  Placed closure bet with greening on Andrey Rublev by Backing 18.16 at 1.41
+4/13/2022 18:42:11: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: aPoints = point: 0; games: 0; sets: 1 
+4/13/2022 18:42:11: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: aServing = serving:0
+4/13/2022 18:42:11: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: bPoints = point: 0; games: 0; sets: 1 
+4/13/2022 18:42:11: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: bServing = serving:2
+4/13/2022 18:42:11: [G_Auto 2] :  Store Value (Shared) for market: price = 1.41
+4/13/2022 18:42:11: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 91.87
+4/13/2022 18:42:11: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 92.4
+4/13/2022 18:42:11: [G_Auto 2] :  Store Value (Shared) for market: stake = 18.16
+4/13/2022 18:42:11: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 184.27
+4/13/2022 18:42:11: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.52
+4/13/2022 18:42:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.42
+4/13/2022 18:42:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.4
+4/13/2022 18:42:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:42:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:42:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:42:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:43:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:43:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:43:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:44:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:44:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:44:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:44:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:45:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:45:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:45:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:45:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:46:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:46:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:46:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 18:46:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 18:46:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 18:47:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:48:08: [G_Auto 1] :  € 12.50 Lay bet placed on Andrey Rublev at 1.64. Fully matched at 1.63.  Ref: 10424          ( Fill or kill bet with 15 seconds delay.   )
+4/13/2022 18:48:08: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: aPoints = point: 0; games: 0; sets: 1 
+4/13/2022 18:48:08: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: aServing = serving:1
+4/13/2022 18:48:08: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: bPoints = point: 0; games: 1; sets: 1 
+4/13/2022 18:48:08: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: bServing = serving:0
+4/13/2022 18:48:08: [G_Auto 2] :  Store Value (Shared) for market: price = 1.63
+4/13/2022 18:48:08: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 91.87
+4/13/2022 18:48:08: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 104.9
+4/13/2022 18:48:08: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.5
+4/13/2022 18:48:08: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 196.77
+4/13/2022 18:48:08: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.44
+4/13/2022 18:48:08: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.62
+4/13/2022 18:48:08: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.62
+4/13/2022 18:48:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:48:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:48:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:48:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:49:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:49:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 18:49:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 18:49:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 18:54:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:54:17: [G_Auto 1] :  Placed closure bet with greening on Andrey Rublev by Backing 13.49 at 1.51
+4/13/2022 18:54:18: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: aPoints = point: 0; games: 1; sets: 1 
+4/13/2022 18:54:18: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: aServing = serving:0
+4/13/2022 18:54:18: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: bPoints = point: 0; games: 1; sets: 1 
+4/13/2022 18:54:18: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: bServing = serving:2
+4/13/2022 18:54:18: [G_Auto 2] :  Store Value (Shared) for market: price = 1.51
+4/13/2022 18:54:18: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 105.36
+4/13/2022 18:54:18: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 104.9
+4/13/2022 18:54:18: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.49
+4/13/2022 18:54:18: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 210.26
+4/13/2022 18:54:18: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.46
+4/13/2022 18:54:18: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.49
+4/13/2022 18:54:18: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.92
+4/13/2022 18:54:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:54:24: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: aPoints = point: 0; games: 1; sets: 1 
+4/13/2022 18:54:24: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: aServing = serving:0
+4/13/2022 18:54:24: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: bPoints = point: 0; games: 1; sets: 1 
+4/13/2022 18:54:24: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: bServing = serving:2
+4/13/2022 18:54:24: [G_Auto 2] :  Store Value (Shared) for market: price = 1.51
+4/13/2022 18:54:24: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 105.36
+4/13/2022 18:54:24: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 104.9
+4/13/2022 18:54:24: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.49
+4/13/2022 18:54:24: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 210.26
+4/13/2022 18:54:24: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.46
+4/13/2022 18:54:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.51
+4/13/2022 18:54:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.96
+4/13/2022 18:54:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:54:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 18:54:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 18:55:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 18:55:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 18:58:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:58:33: [G_Auto 1] :  € 38.10 Lay bet placed on Andrey Rublev at 1.21. Fully matched at 1.2.  Ref: 10427          ( Fill or kill bet with 15 seconds delay.   )
+4/13/2022 18:58:34: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: aPoints = point: 0; games: 2; sets: 1 
+4/13/2022 18:58:34: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: aServing = serving:1
+4/13/2022 18:58:34: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: bPoints = point: 0; games: 1; sets: 1 
+4/13/2022 18:58:34: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: bServing = serving:0
+4/13/2022 18:58:34: [G_Auto 2] :  Store Value (Shared) for market: price = 1.2
+4/13/2022 18:58:34: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 105.36
+4/13/2022 18:58:34: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 143
+4/13/2022 18:58:34: [G_Auto 2] :  Store Value (Shared) for market: stake = 38.1
+4/13/2022 18:58:34: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 248.36
+4/13/2022 18:58:34: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.78
+4/13/2022 18:58:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.2
+4/13/2022 18:58:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 6
+4/13/2022 18:58:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:58:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:59:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:59:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:59:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 18:59:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 19:00:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 19:00:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 19:00:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 19:00:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 19:06:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 19:06:30: [G_Auto 1] :  Placed closure bet with greening on Andrey Rublev by Backing 40.46 at 1.13
+4/13/2022 19:06:31: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: aPoints = point: 0; games: 3; sets: 1 
+4/13/2022 19:06:31: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: aServing = serving:0
+4/13/2022 19:06:31: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: bPoints = point: 0; games: 1; sets: 1 
+4/13/2022 19:06:31: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: bServing = serving:2
+4/13/2022 19:06:31: [G_Auto 2] :  Store Value (Shared) for market: price = 1.13
+4/13/2022 19:06:31: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 145.82
+4/13/2022 19:06:31: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 143
+4/13/2022 19:06:31: [G_Auto 2] :  Store Value (Shared) for market: stake = 40.46
+4/13/2022 19:06:31: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 288.82
+4/13/2022 19:06:31: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.82
+4/13/2022 19:06:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.14
+4/13/2022 19:06:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 8
+4/13/2022 19:06:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 19:06:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 19:07:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 19:07:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 19:07:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 19:07:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 19:10:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 19:10:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 19:10:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 19:11:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 19:11:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 19:11:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 19:11:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 19:12:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 19:12:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 19:12:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 19:12:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 19:14:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 19:14:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 19:15:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 19:15:16: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 19:15:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 19:20:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 19:20:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 19:20:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 19:20:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 19:21:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 19:21:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 19:21:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 19:21:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 19:22:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 19:22:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 19:22:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 19:22:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 19:23:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 19:24:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 19:24:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 19:25:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 19:25:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 19:25:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 19:28:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 19:28:39: [G_Auto 1] :  € 50.00 Lay bet placed on Andrey Rublev at 1.16. Fully matched at 1.15.  Ref: 10430          ( Fill or kill bet with 15 seconds delay.   )
+4/13/2022 19:28:39: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: aPoints = point: 0; games: 5; sets: 1 
+4/13/2022 19:28:39: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: aServing = serving:1
+4/13/2022 19:28:39: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: bPoints = point: 0; games: 4; sets: 1 
+4/13/2022 19:28:39: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: bServing = serving:0
+4/13/2022 19:28:39: [G_Auto 2] :  Store Value (Shared) for market: price = 1.15
+4/13/2022 19:28:39: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 145.82
+4/13/2022 19:28:39: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 193
+4/13/2022 19:28:39: [G_Auto 2] :  Store Value (Shared) for market: stake = 50
+4/13/2022 19:28:39: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 338.82
+4/13/2022 19:28:39: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.26
+4/13/2022 19:28:39: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.15
+4/13/2022 19:28:39: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 7.6
+4/13/2022 19:28:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 19:28:44: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: aPoints = point: 0; games: 5; sets: 1 
+4/13/2022 19:28:44: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: aServing = serving:1
+4/13/2022 19:28:44: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: bPoints = point: 0; games: 4; sets: 1 
+4/13/2022 19:28:44: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: bServing = serving:0
+4/13/2022 19:28:44: [G_Auto 2] :  Store Value (Shared) for market: price = 1.15
+4/13/2022 19:28:44: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 145.82
+4/13/2022 19:28:44: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 193
+4/13/2022 19:28:44: [G_Auto 2] :  Store Value (Shared) for market: stake = 50
+4/13/2022 19:28:44: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 338.82
+4/13/2022 19:28:44: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.82
+4/13/2022 19:28:44: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.15
+4/13/2022 19:28:44: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 7.8
+4/13/2022 19:28:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 19:29:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 19:29:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 19:29:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 19:29:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 19:30:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 19:30:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 19:30:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 19:30:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 19:31:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 19:31:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 19:40:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 19:40:47:  Guardian has detected that the market is suspended
