@@ -1,0 +1,538 @@
+4/13/2022 10:29:28: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: info = marketName: F Auger-Aliassime v Musetti - Match Odds; runnerA: Felix Auger-Aliassime; runnerB: Lorenzo Musetti 
+4/13/2022 10:29:28: [G_Auto 2] :  Store Value (Shared) for market: aId = 12210252
+4/13/2022 10:29:28: [G_Auto 2] :  Store Value (Shared) for market: bId = 13834991
+4/13/2022 15:48:29:  Guardian has detected that the market is in-play
+4/13/2022 15:48:29:  Guardian has detected that the market is suspended
+4/13/2022 15:48:30: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.64; bBsp: 2.5; volume: 88409.78 
+4/13/2022 15:48:30: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.64; bBsp: 2.5; volume: 88409.78 
+4/13/2022 15:48:30:  Guardian has detected that the market is now unsuspended
+4/13/2022 15:48:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 15:48:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 15:51:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 15:51:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 15:52:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 15:52:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 15:52:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 15:52:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 15:52:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 15:53:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 15:53:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 15:58:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 15:58:14: [G_Auto 1] :  € 11.94 Lay bet placed on Felix Auger-Aliassime at 1.67. Fully matched at 1.66.  Ref: 10372          ( Fill or kill bet with 15 seconds delay.   )
+4/13/2022 15:58:15: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: aPoints = point: 0; games: 1; sets: 0 
+4/13/2022 15:58:15: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: aServing = serving:1
+4/13/2022 15:58:15: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: bPoints = point: 0; games: 1; sets: 0 
+4/13/2022 15:58:15: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: bServing = serving:0
+4/13/2022 15:58:15: [G_Auto 2] :  Store Value (Shared) for market: price = 1.66
+4/13/2022 15:58:15: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+4/13/2022 15:58:15: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 11.94
+4/13/2022 15:58:15: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.94
+4/13/2022 15:58:15: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 11.94
+4/13/2022 15:58:15: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.07
+4/13/2022 15:58:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.65
+4/13/2022 15:58:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.58
+4/13/2022 15:58:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 15:58:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 15:58:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 15:58:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 15:59:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 15:59:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 16:02:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:02:27: [G_Auto 1] :  € 9.88 Lay bet placed on Lorenzo Musetti at 1.81. Entirely unmatched when it initially reached the market.   Ref: 10375          ( Fill or kill bet with 15 seconds delay.   )
+4/13/2022 16:02:27: [G_Auto 1] :  Placed closure bet with greening on Felix Auger-Aliassime by Backing 8.93 at 2.22
+4/13/2022 16:02:27: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: aPoints = point: 0; games: 1; sets: 0 
+4/13/2022 16:02:27: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: aServing = serving:0
+4/13/2022 16:02:27: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: bPoints = point: 0; games: 2; sets: 0 
+4/13/2022 16:02:27: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: bServing = serving:2
+4/13/2022 16:02:27: [G_Auto 2] :  Store Value (Shared) for market: price = 2.22
+4/13/2022 16:02:27: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 8.93
+4/13/2022 16:02:27: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 11.94
+4/13/2022 16:02:27: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.93
+4/13/2022 16:02:27: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 20.87
+4/13/2022 16:02:27: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.95
+4/13/2022 16:02:27: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.22
+4/13/2022 16:02:27: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.82
+4/13/2022 16:02:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:02:42: [G_Auto 1] :  € 5.045 of unmatched bet (Ref:10375) was filled before remainder was killed.
+4/13/2022 16:02:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:03:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:03:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:03:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:03:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:04:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:04:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:04:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 16:04:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 16:04:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 16:07:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:07:54: [G_Auto 1] :  Placed closure bet with greening on Lorenzo Musetti by Backing 5.40 at 1.69
+4/13/2022 16:07:54: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: aPoints = point: 0; games: 1; sets: 0 
+4/13/2022 16:07:54: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: aServing = serving:1
+4/13/2022 16:07:54: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: bPoints = point: 0; games: 3; sets: 0 
+4/13/2022 16:07:54: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: bServing = serving:0
+4/13/2022 16:07:54: [G_Auto 2] :  Store Value (Shared) for market: price = 1.69
+4/13/2022 16:07:54: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 14.33
+4/13/2022 16:07:54: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 16.985
+4/13/2022 16:07:54: [G_Auto 2] :  Store Value (Shared) for market: stake = 5.4
+4/13/2022 16:07:54: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 31.315
+4/13/2022 16:07:54: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.61
+4/13/2022 16:07:54: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.44
+4/13/2022 16:07:54: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.7
+4/13/2022 16:07:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:08:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:08:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:08:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:08:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 16:09:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 16:09:16: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 16:10:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:10:52: [G_Auto 1] :  € 9.41 Lay bet placed on Lorenzo Musetti at 1.85. Fully matched at 1.85.  Ref: 10378          ( Fill or kill bet with 15 seconds delay.   )
+4/13/2022 16:10:52: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: aPoints = point: 0; games: 2; sets: 0 
+4/13/2022 16:10:52: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: aServing = serving:0
+4/13/2022 16:10:52: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: bPoints = point: 0; games: 3; sets: 0 
+4/13/2022 16:10:52: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: bServing = serving:2
+4/13/2022 16:10:52: [G_Auto 2] :  Store Value (Shared) for market: price = 1.85
+4/13/2022 16:10:52: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 14.33
+4/13/2022 16:10:52: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 26.395
+4/13/2022 16:10:52: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.41
+4/13/2022 16:10:52: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 40.725
+4/13/2022 16:10:52: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.5
+4/13/2022 16:10:52: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.16
+4/13/2022 16:10:52: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.83
+4/13/2022 16:10:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:10:57: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: aPoints = point: 0; games: 2; sets: 0 
+4/13/2022 16:10:57: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: aServing = serving:0
+4/13/2022 16:10:57: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: bPoints = point: 0; games: 3; sets: 0 
+4/13/2022 16:10:57: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: bServing = serving:2
+4/13/2022 16:10:57: [G_Auto 2] :  Store Value (Shared) for market: price = 1.85
+4/13/2022 16:10:57: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 14.33
+4/13/2022 16:10:57: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 26.395
+4/13/2022 16:10:57: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.41
+4/13/2022 16:10:57: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 40.725
+4/13/2022 16:10:57: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.66
+4/13/2022 16:10:57: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.18
+4/13/2022 16:10:57: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.86
+4/13/2022 16:11:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:11:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:11:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:11:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:12:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:12:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:12:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 16:12:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 16:13:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 16:13:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 16:15:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:16:04: [G_Auto 1] :  Placed closure bet with greening on Lorenzo Musetti by Backing 10.37 at 1.68
+4/13/2022 16:16:04: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: aPoints = point: 0; games: 2; sets: 0 
+4/13/2022 16:16:04: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: aServing = serving:1
+4/13/2022 16:16:04: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: bPoints = point: 0; games: 4; sets: 0 
+4/13/2022 16:16:04: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: bServing = serving:0
+4/13/2022 16:16:04: [G_Auto 2] :  Store Value (Shared) for market: price = 1.68
+4/13/2022 16:16:04: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 24.7
+4/13/2022 16:16:04: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 26.395
+4/13/2022 16:16:04: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.37
+4/13/2022 16:16:04: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 51.095
+4/13/2022 16:16:04: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.67
+4/13/2022 16:16:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.46
+4/13/2022 16:16:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.68
+4/13/2022 16:16:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:16:09: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: aPoints = point: 0; games: 2; sets: 0 
+4/13/2022 16:16:09: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: aServing = serving:1
+4/13/2022 16:16:09: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: bPoints = point: 0; games: 4; sets: 0 
+4/13/2022 16:16:09: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: bServing = serving:0
+4/13/2022 16:16:09: [G_Auto 2] :  Store Value (Shared) for market: price = 1.68
+4/13/2022 16:16:09: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 24.7
+4/13/2022 16:16:09: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 26.395
+4/13/2022 16:16:09: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.37
+4/13/2022 16:16:09: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 51.095
+4/13/2022 16:16:09: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.67
+4/13/2022 16:16:09: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.46
+4/13/2022 16:16:09: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.68
+4/13/2022 16:16:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:16:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:16:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:16:55: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 16:17:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 16:17:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 16:20:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:20:58: [G_Auto 1] :  € 18.60 Lay bet placed on Lorenzo Musetti at 1.43. Fully matched at 1.42.  Ref: 10383          ( Fill or kill bet with 15 seconds delay.   )
+4/13/2022 16:20:59: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: aPoints = point: 0; games: 2; sets: 0 
+4/13/2022 16:20:59: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: aServing = serving:0
+4/13/2022 16:20:59: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: bPoints = point: 0; games: 5; sets: 0 
+4/13/2022 16:20:59: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: bServing = serving:2
+4/13/2022 16:20:59: [G_Auto 2] :  Store Value (Shared) for market: price = 1.42
+4/13/2022 16:20:59: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 24.7
+4/13/2022 16:20:59: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 44.995
+4/13/2022 16:20:59: [G_Auto 2] :  Store Value (Shared) for market: stake = 18.6
+4/13/2022 16:20:59: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 69.695
+4/13/2022 16:20:59: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.54
+4/13/2022 16:20:59: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.35
+4/13/2022 16:20:59: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.41
+4/13/2022 16:21:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:21:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:21:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:21:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:22:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:22:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:22:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:22:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:22:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 16:23:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 16:23:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 16:25:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:25:44: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 3.6
+4/13/2022 16:25:44: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 1.37
+4/13/2022 16:25:49: [G_Auto 1] :  Placed closure bet with greening on Lorenzo Musetti by Backing 19.27 at 1.37
+4/13/2022 16:25:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:25:52: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: aPoints = point: 0; games: 0; sets: 0 
+4/13/2022 16:25:52: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: aServing = serving:1
+4/13/2022 16:25:52: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: bPoints = point: 0; games: 0; sets: 1 
+4/13/2022 16:25:52: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: bServing = serving:0
+4/13/2022 16:25:52: [G_Auto 2] :  Store Value (Shared) for market: price = 1.37
+4/13/2022 16:25:52: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 43.97
+4/13/2022 16:25:52: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 44.995
+4/13/2022 16:25:52: [G_Auto 2] :  Store Value (Shared) for market: stake = 19.27
+4/13/2022 16:25:52: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 88.965
+4/13/2022 16:25:52: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.01
+4/13/2022 16:25:52: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.7
+4/13/2022 16:25:52: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.37
+4/13/2022 16:26:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:26:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:26:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:26:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:27:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:27:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:27:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:27:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:28:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:28:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 16:28:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 16:28:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 16:30:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:30:35: [G_Auto 1] :  € 16.00 Lay bet placed on Lorenzo Musetti at 1.5. Fully matched at 1.49.  Ref: 10387          ( Fill or kill bet with 15 seconds delay.   )
+4/13/2022 16:30:36: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: aPoints = point: 0; games: 1; sets: 0 
+4/13/2022 16:30:36: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: aServing = serving:0
+4/13/2022 16:30:36: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: bPoints = point: 0; games: 0; sets: 1 
+4/13/2022 16:30:36: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: bServing = serving:2
+4/13/2022 16:30:36: [G_Auto 2] :  Store Value (Shared) for market: price = 1.49
+4/13/2022 16:30:36: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 43.97
+4/13/2022 16:30:36: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 60.995
+4/13/2022 16:30:36: [G_Auto 2] :  Store Value (Shared) for market: stake = 16
+4/13/2022 16:30:36: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 104.965
+4/13/2022 16:30:36: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.9
+4/13/2022 16:30:36: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.1
+4/13/2022 16:30:36: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.48
+4/13/2022 16:30:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:30:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:31:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:31:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 16:31:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 16:33:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:34:10: [G_Auto 1] :  Placed closure bet with greening on Lorenzo Musetti by Backing 16.67 at 1.43
+4/13/2022 16:34:10: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: aPoints = point: 0; games: 1; sets: 0 
+4/13/2022 16:34:10: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: aServing = serving:1
+4/13/2022 16:34:10: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: bPoints = point: 0; games: 1; sets: 1 
+4/13/2022 16:34:10: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: bServing = serving:0
+4/13/2022 16:34:10: [G_Auto 2] :  Store Value (Shared) for market: price = 1.43
+4/13/2022 16:34:10: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 60.64
+4/13/2022 16:34:10: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 60.995
+4/13/2022 16:34:10: [G_Auto 2] :  Store Value (Shared) for market: stake = 16.67
+4/13/2022 16:34:10: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 121.635
+4/13/2022 16:34:10: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.35
+4/13/2022 16:34:10: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.2
+4/13/2022 16:34:10: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.45
+4/13/2022 16:34:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:34:15: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: aPoints = point: 0; games: 1; sets: 0 
+4/13/2022 16:34:15: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: aServing = serving:1
+4/13/2022 16:34:15: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: bPoints = point: 0; games: 1; sets: 1 
+4/13/2022 16:34:15: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: bServing = serving:0
+4/13/2022 16:34:15: [G_Auto 2] :  Store Value (Shared) for market: price = 1.43
+4/13/2022 16:34:15: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 60.64
+4/13/2022 16:34:15: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 60.995
+4/13/2022 16:34:15: [G_Auto 2] :  Store Value (Shared) for market: stake = 16.67
+4/13/2022 16:34:15: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 121.635
+4/13/2022 16:34:15: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.35
+4/13/2022 16:34:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.25
+4/13/2022 16:34:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.44
+4/13/2022 16:34:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:34:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:34:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:35:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 16:35:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 16:35:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 16:36:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:37:11: [G_Auto 1] :  € 14.55 Lay bet placed on Lorenzo Musetti at 1.55. Fully matched at 1.54.  Ref: 10390          ( Fill or kill bet with 15 seconds delay.   )
+4/13/2022 16:37:11: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: aPoints = point: 0; games: 2; sets: 0 
+4/13/2022 16:37:11: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: aServing = serving:0
+4/13/2022 16:37:11: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: bPoints = point: 0; games: 1; sets: 1 
+4/13/2022 16:37:11: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: bServing = serving:2
+4/13/2022 16:37:11: [G_Auto 2] :  Store Value (Shared) for market: price = 1.54
+4/13/2022 16:37:11: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 60.64
+4/13/2022 16:37:11: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 75.545
+4/13/2022 16:37:11: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.55
+4/13/2022 16:37:11: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 136.185
+4/13/2022 16:37:11: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.25
+4/13/2022 16:37:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.92
+4/13/2022 16:37:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.54
+4/13/2022 16:37:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:37:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:37:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:37:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:38:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:38:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:38:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:39:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:39:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 16:39:16: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 16:41:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:42:03: [G_Auto 1] :  € 9.20 Lay bet placed on Felix Auger-Aliassime at 1.87. Fully matched at 1.86.  Ref: 10392          ( Fill or kill bet with 15 seconds delay.   )
+4/13/2022 16:42:03: [G_Auto 1] :  Placed closure bet with greening on Lorenzo Musetti by Backing 10.38 at 2.16
+4/13/2022 16:42:04: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: aPoints = point: 0; games: 3; sets: 0 
+4/13/2022 16:42:04: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: aServing = serving:1
+4/13/2022 16:42:04: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: bPoints = point: 0; games: 1; sets: 1 
+4/13/2022 16:42:04: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: bServing = serving:0
+4/13/2022 16:42:04: [G_Auto 2] :  Store Value (Shared) for market: price = 1.86
+4/13/2022 16:42:04: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 71.02
+4/13/2022 16:42:04: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 84.745
+4/13/2022 16:42:04: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.2
+4/13/2022 16:42:04: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 155.765
+4/13/2022 16:42:04: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.39
+4/13/2022 16:42:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.86
+4/13/2022 16:42:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.16
+4/13/2022 16:42:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:42:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:42:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:42:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 16:42:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 16:43:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 16:52:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:52:58: [G_Auto 1] :  Placed closure bet with greening on Felix Auger-Aliassime by Backing 6.15 at 2.78
+4/13/2022 16:52:58: [G_Auto 1] :  € 14.29 Lay bet placed on Lorenzo Musetti at 1.56. Fully matched at 1.55.  Ref: 10397          ( Fill or kill bet with 15 seconds delay.   )
+4/13/2022 16:52:59: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: aPoints = point: 0; games: 3; sets: 0 
+4/13/2022 16:52:59: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: aServing = serving:0
+4/13/2022 16:52:59: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: bPoints = point: 0; games: 2; sets: 1 
+4/13/2022 16:52:59: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: bServing = serving:2
+4/13/2022 16:52:59: [G_Auto 2] :  Store Value (Shared) for market: price = 2.8
+4/13/2022 16:52:59: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 77.17
+4/13/2022 16:52:59: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 99.035
+4/13/2022 16:52:59: [G_Auto 2] :  Store Value (Shared) for market: stake = 6.15
+4/13/2022 16:52:59: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 176.205
+4/13/2022 16:52:59: [G_Auto 2] :  Store Value (Shared) for market: pl = 7.38
+4/13/2022 16:52:59: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.8
+4/13/2022 16:52:59: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.55
+4/13/2022 16:53:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:53:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:53:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:53:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:54:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:54:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:54:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:54:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:54:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 16:55:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 16:57:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:57:25: [G_Auto 1] :  Placed closure bet with greening on Lorenzo Musetti by Backing 15.59 at 1.42
+4/13/2022 16:57:26: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: aPoints = point: 0; games: 3; sets: 0 
+4/13/2022 16:57:26: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: aServing = serving:1
+4/13/2022 16:57:26: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: bPoints = point: 0; games: 3; sets: 1 
+4/13/2022 16:57:26: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: bServing = serving:0
+4/13/2022 16:57:26: [G_Auto 2] :  Store Value (Shared) for market: price = 1.42
+4/13/2022 16:57:26: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 92.76
+4/13/2022 16:57:26: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 99.035
+4/13/2022 16:57:26: [G_Auto 2] :  Store Value (Shared) for market: stake = 15.59
+4/13/2022 16:57:26: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 191.795
+4/13/2022 16:57:26: [G_Auto 2] :  Store Value (Shared) for market: pl = 6.18
+4/13/2022 16:57:26: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.35
+4/13/2022 16:57:26: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.42
+4/13/2022 16:57:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:57:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:57:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:58:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 16:58:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 16:58:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 16:58:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 17:01:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:01:50: [G_Auto 1] :  € 14.04 Lay bet placed on Lorenzo Musetti at 1.57. Fully matched at 1.56.  Ref: 10400          ( Fill or kill bet with 15 seconds delay.   )
+4/13/2022 17:01:50: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: aPoints = point: 0; games: 4; sets: 0 
+4/13/2022 17:01:50: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: aServing = serving:0
+4/13/2022 17:01:50: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: bPoints = point: 0; games: 3; sets: 1 
+4/13/2022 17:01:50: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: bServing = serving:2
+4/13/2022 17:01:50: [G_Auto 2] :  Store Value (Shared) for market: price = 1.56
+4/13/2022 17:01:50: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 92.76
+4/13/2022 17:01:50: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 113.075
+4/13/2022 17:01:50: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.04
+4/13/2022 17:01:50: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 205.835
+4/13/2022 17:01:50: [G_Auto 2] :  Store Value (Shared) for market: pl = 6.1
+4/13/2022 17:01:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.78
+4/13/2022 17:01:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.56
+4/13/2022 17:01:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:01:53: [G_Auto 1] :  Placed closure bet with greening on Felix Auger-Aliassime by Laying 0.04 at 2.82
+4/13/2022 17:01:55: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: aPoints = point: 0; games: 4; sets: 0 
+4/13/2022 17:01:55: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: aServing = serving:0
+4/13/2022 17:01:55: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: bPoints = point: 0; games: 3; sets: 1 
+4/13/2022 17:01:55: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: bServing = serving:2
+4/13/2022 17:01:55: [G_Auto 2] :  Store Value (Shared) for market: price = 2.82
+4/13/2022 17:01:55: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 92.76
+4/13/2022 17:01:55: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 113.115
+4/13/2022 17:01:55: [G_Auto 2] :  Store Value (Shared) for market: stake = 0.04
+4/13/2022 17:01:55: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 205.875
+4/13/2022 17:01:55: [G_Auto 2] :  Store Value (Shared) for market: pl = 6.01
+4/13/2022 17:01:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.86
+4/13/2022 17:01:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.55
+4/13/2022 17:02:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:02:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:02:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:02:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:03:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:03:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:03:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:03:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 17:04:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 17:06:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:06:12: [G_Auto 1] :  Placed closure bet with greening on Lorenzo Musetti by Backing 15.43 at 1.42
+4/13/2022 17:06:13: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: aPoints = point: 0; games: 4; sets: 0 
+4/13/2022 17:06:13: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: aServing = serving:1
+4/13/2022 17:06:13: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: bPoints = point: 0; games: 4; sets: 1 
+4/13/2022 17:06:13: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: bServing = serving:0
+4/13/2022 17:06:13: [G_Auto 2] :  Store Value (Shared) for market: price = 1.42
+4/13/2022 17:06:13: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 108.19
+4/13/2022 17:06:13: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 113.115
+4/13/2022 17:06:13: [G_Auto 2] :  Store Value (Shared) for market: stake = 15.43
+4/13/2022 17:06:13: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 221.305
+4/13/2022 17:06:13: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.82
+4/13/2022 17:06:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.35
+4/13/2022 17:06:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.43
+4/13/2022 17:06:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:06:18: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: aPoints = point: 0; games: 4; sets: 0 
+4/13/2022 17:06:18: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: aServing = serving:1
+4/13/2022 17:06:18: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: bPoints = point: 0; games: 4; sets: 1 
+4/13/2022 17:06:18: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: bServing = serving:0
+4/13/2022 17:06:18: [G_Auto 2] :  Store Value (Shared) for market: price = 1.42
+4/13/2022 17:06:18: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 108.19
+4/13/2022 17:06:18: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 113.115
+4/13/2022 17:06:18: [G_Auto 2] :  Store Value (Shared) for market: stake = 15.43
+4/13/2022 17:06:18: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 221.305
+4/13/2022 17:06:18: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.82
+4/13/2022 17:06:18: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.35
+4/13/2022 17:06:18: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.42
+4/13/2022 17:06:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:06:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:07:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:07:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 17:07:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 17:07:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 17:07:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 17:10:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:10:49: [G_Auto 1] :  € 13.79 Lay bet placed on Lorenzo Musetti at 1.58. Fully matched at 1.57.  Ref: 10403          ( Fill or kill bet with 15 seconds delay.   )
+4/13/2022 17:10:50: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: aPoints = point: 0; games: 5; sets: 0 
+4/13/2022 17:10:50: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: aServing = serving:0
+4/13/2022 17:10:50: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: bPoints = point: 0; games: 4; sets: 1 
+4/13/2022 17:10:50: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: bServing = serving:2
+4/13/2022 17:10:50: [G_Auto 2] :  Store Value (Shared) for market: price = 1.57
+4/13/2022 17:10:50: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 108.19
+4/13/2022 17:10:50: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 126.905
+4/13/2022 17:10:50: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.79
+4/13/2022 17:10:50: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 235.095
+4/13/2022 17:10:50: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.74
+4/13/2022 17:10:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.8
+4/13/2022 17:10:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.56
+4/13/2022 17:10:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:11:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:11:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:11:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:11:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:12:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:12:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:12:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 17:12:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 17:14:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:14:52: [G_Auto 1] :  Placed closure bet with greening on Lorenzo Musetti by Backing 15.35 at 1.41
+4/13/2022 17:14:53: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: aPoints = point: 0; games: 5; sets: 0 
+4/13/2022 17:14:53: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: aServing = serving:1
+4/13/2022 17:14:53: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: bPoints = point: 0; games: 5; sets: 1 
+4/13/2022 17:14:53: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: bServing = serving:0
+4/13/2022 17:14:53: [G_Auto 2] :  Store Value (Shared) for market: price = 1.41
+4/13/2022 17:14:53: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 123.54
+4/13/2022 17:14:53: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 126.905
+4/13/2022 17:14:53: [G_Auto 2] :  Store Value (Shared) for market: stake = 15.35
+4/13/2022 17:14:53: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 250.445
+4/13/2022 17:14:53: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.29
+4/13/2022 17:14:53: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.4
+4/13/2022 17:14:53: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.41
+4/13/2022 17:14:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:14:59: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: aPoints = point: 0; games: 5; sets: 0 
+4/13/2022 17:14:59: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: aServing = serving:1
+4/13/2022 17:14:59: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: bPoints = point: 0; games: 5; sets: 1 
+4/13/2022 17:14:59: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: bServing = serving:0
+4/13/2022 17:14:59: [G_Auto 2] :  Store Value (Shared) for market: price = 1.41
+4/13/2022 17:14:59: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 123.54
+4/13/2022 17:14:59: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 126.905
+4/13/2022 17:14:59: [G_Auto 2] :  Store Value (Shared) for market: stake = 15.35
+4/13/2022 17:14:59: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 250.445
+4/13/2022 17:14:59: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.29
+4/13/2022 17:14:59: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.45
+4/13/2022 17:14:59: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.4
+4/13/2022 17:15:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:15:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:15:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 17:15:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 17:16:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 17:18:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:19:03: [G_Auto 1] :  € 14.04 Lay bet placed on Lorenzo Musetti at 1.57. Fully matched at 1.56.  Ref: 10405          ( Fill or kill bet with 15 seconds delay.   )
+4/13/2022 17:19:03: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: aPoints = point: 0; games: 6; sets: 0 
+4/13/2022 17:19:03: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: aServing = serving:0
+4/13/2022 17:19:03: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: bPoints = point: 0; games: 5; sets: 1 
+4/13/2022 17:19:03: [G_Auto 2] :  Store Text Value (Shared) for Lorenzo Musetti: bServing = serving:2
+4/13/2022 17:19:03: [G_Auto 2] :  Store Value (Shared) for market: price = 1.56
+4/13/2022 17:19:03: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 123.54
+4/13/2022 17:19:03: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 140.945
+4/13/2022 17:19:03: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.04
+4/13/2022 17:19:03: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 264.485
+4/13/2022 17:19:03: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.2
+4/13/2022 17:19:03: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.78
+4/13/2022 17:19:03: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.55
+4/13/2022 17:19:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:19:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:19:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:19:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:20:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:20:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:20:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:20:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:20:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 17:21:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 17:21:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 17:23:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:23:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:23:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:24:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:24:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 17:24:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 17:24:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 17:25:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 17:25:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 17:25:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 17:25:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 17:26:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 17:26:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 17:26:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 17:26:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 17:27:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 17:27:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 17:27:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 17:27:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 17:28:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 17:28:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 17:28:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 17:28:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 17:29:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 17:29:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 17:29:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 17:29:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 17:30:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 17:30:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 17:30:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 17:30:55: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 17:30:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 17:31:01:  Guardian has detected that the market is suspended

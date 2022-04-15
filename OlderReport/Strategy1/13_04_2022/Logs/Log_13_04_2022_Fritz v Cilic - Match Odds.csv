@@ -1,0 +1,710 @@
+4/13/2022 10:29:26: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: info = marketName: Fritz v Cilic - Match Odds; runnerA: Taylor Fritz; runnerB: Marin Cilic 
+4/13/2022 10:29:26: [G_Auto 2] :  Store Value (Shared) for market: aId = 10279360
+4/13/2022 10:29:26: [G_Auto 2] :  Store Value (Shared) for market: bId = 2263681
+4/13/2022 13:02:49:  Guardian has detected that the market is in-play
+4/13/2022 13:02:49:  Guardian has detected that the market is suspended
+4/13/2022 13:02:51: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 2.42; bBsp: 1.71; volume: 63108.08 
+4/13/2022 13:02:51: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 2.42; bBsp: 1.71; volume: 63108.08 
+4/13/2022 13:02:51:  Guardian has detected that the market is now unsuspended
+4/13/2022 13:02:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:03:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 13:03:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 13:06:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:06:17: [G_Auto 1] :  € 19.51 Lay bet placed on Marin Cilic at 1.41. Fully matched at 1.4.  Ref: 10263          ( Fill or kill bet with 15 seconds delay.   )
+4/13/2022 13:06:18: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 0; sets: 0 
+4/13/2022 13:06:18: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:0
+4/13/2022 13:06:18: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 1; sets: 0 
+4/13/2022 13:06:18: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:2
+4/13/2022 13:06:18: [G_Auto 2] :  Store Value (Shared) for market: price = 1.4
+4/13/2022 13:06:18: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+4/13/2022 13:06:18: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 19.51
+4/13/2022 13:06:18: [G_Auto 2] :  Store Value (Shared) for market: stake = 19.51
+4/13/2022 13:06:18: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 19.51
+4/13/2022 13:06:18: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.14
+4/13/2022 13:06:18: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.5
+4/13/2022 13:06:18: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.39
+4/13/2022 13:06:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:06:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:06:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:07:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 13:07:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 13:07:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 13:10:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:10:28: [G_Auto 1] :  Placed closure bet with greening on Marin Cilic by Backing 19.94 at 1.37
+4/13/2022 13:10:30: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 0; sets: 0 
+4/13/2022 13:10:30: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:1
+4/13/2022 13:10:30: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 2; sets: 0 
+4/13/2022 13:10:30: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:0
+4/13/2022 13:10:30: [G_Auto 2] :  Store Value (Shared) for market: price = 1.37
+4/13/2022 13:10:30: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 19.94
+4/13/2022 13:10:30: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 19.51
+4/13/2022 13:10:30: [G_Auto 2] :  Store Value (Shared) for market: stake = 19.94
+4/13/2022 13:10:30: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 39.45
+4/13/2022 13:10:30: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.43
+4/13/2022 13:10:30: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.7
+4/13/2022 13:10:30: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.38
+4/13/2022 13:10:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:10:36: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 0; sets: 0 
+4/13/2022 13:10:36: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:1
+4/13/2022 13:10:36: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 2; sets: 0 
+4/13/2022 13:10:36: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:0
+4/13/2022 13:10:36: [G_Auto 2] :  Store Value (Shared) for market: price = 1.37
+4/13/2022 13:10:36: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 19.94
+4/13/2022 13:10:36: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 19.51
+4/13/2022 13:10:36: [G_Auto 2] :  Store Value (Shared) for market: stake = 19.94
+4/13/2022 13:10:36: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 39.45
+4/13/2022 13:10:36: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.43
+4/13/2022 13:10:36: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.8
+4/13/2022 13:10:36: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.36
+4/13/2022 13:10:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 13:11:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 13:14:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:14:48: [G_Auto 1] :  € 19.05 Lay bet placed on Marin Cilic at 1.42. Fully matched at 1.41.  Ref: 10267          ( Fill or kill bet with 15 seconds delay.   )
+4/13/2022 13:14:49: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 1; sets: 0 
+4/13/2022 13:14:49: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:0
+4/13/2022 13:14:49: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 2; sets: 0 
+4/13/2022 13:14:49: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:2
+4/13/2022 13:14:49: [G_Auto 2] :  Store Value (Shared) for market: price = 1.41
+4/13/2022 13:14:49: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 19.94
+4/13/2022 13:14:49: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 38.56
+4/13/2022 13:14:49: [G_Auto 2] :  Store Value (Shared) for market: stake = 19.05
+4/13/2022 13:14:49: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 58.5
+4/13/2022 13:14:49: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.56
+4/13/2022 13:14:49: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.5
+4/13/2022 13:14:49: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.4
+4/13/2022 13:14:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:15:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:15:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:15:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:15:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:16:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:16:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:16:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:16:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 13:17:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 13:17:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 13:20:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:20:37: [G_Auto 1] :  Placed closure bet with greening on Marin Cilic by Backing 15.09 at 1.78
+4/13/2022 13:20:38: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 2; sets: 0 
+4/13/2022 13:20:38: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:1
+4/13/2022 13:20:38: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 2; sets: 0 
+4/13/2022 13:20:38: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:0
+4/13/2022 13:20:38: [G_Auto 2] :  Store Value (Shared) for market: price = 1.78
+4/13/2022 13:20:38: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 35.03
+4/13/2022 13:20:38: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 38.56
+4/13/2022 13:20:38: [G_Auto 2] :  Store Value (Shared) for market: stake = 15.09
+4/13/2022 13:20:38: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 73.59
+4/13/2022 13:20:38: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.46
+4/13/2022 13:20:38: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.26
+4/13/2022 13:20:38: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.79
+4/13/2022 13:20:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:20:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 13:21:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 13:22:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:23:00: [G_Auto 1] :  € 8.00 Lay bet placed on Marin Cilic at 2. Fully matched at 1.99.  Ref: 10270          ( Fill or kill bet with 15 seconds delay.   )
+4/13/2022 13:23:02: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 3; sets: 0 
+4/13/2022 13:23:02: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:0
+4/13/2022 13:23:02: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 2; sets: 0 
+4/13/2022 13:23:02: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:2
+4/13/2022 13:23:02: [G_Auto 2] :  Store Value (Shared) for market: price = 1.99
+4/13/2022 13:23:02: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 35.03
+4/13/2022 13:23:02: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 46.56
+4/13/2022 13:23:02: [G_Auto 2] :  Store Value (Shared) for market: stake = 8
+4/13/2022 13:23:02: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 81.59
+4/13/2022 13:23:02: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.42
+4/13/2022 13:23:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2
+4/13/2022 13:23:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.98
+4/13/2022 13:23:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:23:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:23:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:23:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:24:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:24:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:24:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:24:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 13:25:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 13:25:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 13:27:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:27:54: [G_Auto 1] :  Placed closure bet with greening on Marin Cilic by Backing 8.60 at 1.85
+4/13/2022 13:27:55: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 3; sets: 0 
+4/13/2022 13:27:55: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:1
+4/13/2022 13:27:55: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 3; sets: 0 
+4/13/2022 13:27:55: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:0
+4/13/2022 13:27:55: [G_Auto 2] :  Store Value (Shared) for market: price = 1.85
+4/13/2022 13:27:55: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 43.63
+4/13/2022 13:27:55: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 46.56
+4/13/2022 13:27:55: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.6
+4/13/2022 13:27:55: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 90.19
+4/13/2022 13:27:55: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.87
+4/13/2022 13:27:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.16
+4/13/2022 13:27:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.86
+4/13/2022 13:27:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:28:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:28:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:28:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 13:28:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 13:30:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:30:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:30:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:31:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:31:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:31:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:31:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:32:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:32:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:32:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 13:32:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 13:33:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 13:35:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:36:09: [G_Auto 1] :  € 18.60 Lay bet placed on Taylor Fritz at 1.43. Fully matched at 1.42.  Ref: 10278          ( Fill or kill bet with 15 seconds delay.   )
+4/13/2022 13:36:11: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 5; sets: 0 
+4/13/2022 13:36:11: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:1
+4/13/2022 13:36:11: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 3; sets: 0 
+4/13/2022 13:36:11: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:0
+4/13/2022 13:36:11: [G_Auto 2] :  Store Value (Shared) for market: price = 1.42
+4/13/2022 13:36:11: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 43.63
+4/13/2022 13:36:11: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 65.16
+4/13/2022 13:36:11: [G_Auto 2] :  Store Value (Shared) for market: stake = 18.6
+4/13/2022 13:36:11: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 108.79
+4/13/2022 13:36:11: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.74
+4/13/2022 13:36:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.42
+4/13/2022 13:36:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.4
+4/13/2022 13:36:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:36:17: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 5; sets: 0 
+4/13/2022 13:36:17: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:1
+4/13/2022 13:36:17: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 3; sets: 0 
+4/13/2022 13:36:17: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:0
+4/13/2022 13:36:17: [G_Auto 2] :  Store Value (Shared) for market: price = 1.42
+4/13/2022 13:36:17: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 43.63
+4/13/2022 13:36:17: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 65.16
+4/13/2022 13:36:17: [G_Auto 2] :  Store Value (Shared) for market: stake = 18.6
+4/13/2022 13:36:17: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 108.79
+4/13/2022 13:36:17: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.61
+4/13/2022 13:36:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.41
+4/13/2022 13:36:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.4
+4/13/2022 13:36:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:36:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:36:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 13:37:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 13:37:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 13:40:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:40:22: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 1.34
+4/13/2022 13:40:22: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 4
+4/13/2022 13:40:27: [G_Auto 1] :  Placed closure bet with greening on Taylor Fritz by Backing 19.86 at 1.33
+4/13/2022 13:40:28: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 0; sets: 1 
+4/13/2022 13:40:28: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:0
+4/13/2022 13:40:28: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 0; sets: 0 
+4/13/2022 13:40:28: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:2
+4/13/2022 13:40:28: [G_Auto 2] :  Store Value (Shared) for market: price = 1.33
+4/13/2022 13:40:28: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 63.49
+4/13/2022 13:40:28: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 65.16
+4/13/2022 13:40:28: [G_Auto 2] :  Store Value (Shared) for market: stake = 19.86
+4/13/2022 13:40:28: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 128.65
+4/13/2022 13:40:28: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.64
+4/13/2022 13:40:28: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.34
+4/13/2022 13:40:28: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4
+4/13/2022 13:40:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:40:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:41:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:41:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:41:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:41:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:42:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:42:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:42:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:42:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:43:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:43:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 13:43:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 13:43:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 13:45:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:45:50: [G_Auto 1] :  € 18.60 Lay bet placed on Taylor Fritz at 1.43. Fully matched at 1.42.  Ref: 10285          ( Fill or kill bet with 15 seconds delay.   )
+4/13/2022 13:45:51: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 0; sets: 1 
+4/13/2022 13:45:51: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:1
+4/13/2022 13:45:51: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 1; sets: 0 
+4/13/2022 13:45:51: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:0
+4/13/2022 13:45:51: [G_Auto 2] :  Store Value (Shared) for market: price = 1.42
+4/13/2022 13:45:51: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 63.49
+4/13/2022 13:45:51: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 83.76
+4/13/2022 13:45:51: [G_Auto 2] :  Store Value (Shared) for market: stake = 18.6
+4/13/2022 13:45:51: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 147.25
+4/13/2022 13:45:51: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.51
+4/13/2022 13:45:51: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.41
+4/13/2022 13:45:51: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.4
+4/13/2022 13:45:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:46:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:46:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:46:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 13:46:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 13:47:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:47:37: [G_Auto 1] :  Placed closure bet with greening on Taylor Fritz by Backing 20.01 at 1.32
+4/13/2022 13:47:38: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 1; sets: 1 
+4/13/2022 13:47:38: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:0
+4/13/2022 13:47:38: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 1; sets: 0 
+4/13/2022 13:47:38: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:2
+4/13/2022 13:47:38: [G_Auto 2] :  Store Value (Shared) for market: price = 1.32
+4/13/2022 13:47:38: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 83.5
+4/13/2022 13:47:38: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 83.76
+4/13/2022 13:47:38: [G_Auto 2] :  Store Value (Shared) for market: stake = 20.01
+4/13/2022 13:47:38: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 167.26
+4/13/2022 13:47:38: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.25
+4/13/2022 13:47:38: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.33
+4/13/2022 13:47:38: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4
+4/13/2022 13:47:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:47:44: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 1; sets: 1 
+4/13/2022 13:47:44: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:0
+4/13/2022 13:47:44: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 1; sets: 0 
+4/13/2022 13:47:44: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:2
+4/13/2022 13:47:44: [G_Auto 2] :  Store Value (Shared) for market: price = 1.32
+4/13/2022 13:47:44: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 83.5
+4/13/2022 13:47:44: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 83.76
+4/13/2022 13:47:44: [G_Auto 2] :  Store Value (Shared) for market: stake = 20.01
+4/13/2022 13:47:44: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 167.26
+4/13/2022 13:47:44: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.25
+4/13/2022 13:47:44: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.33
+4/13/2022 13:47:44: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4
+4/13/2022 13:47:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:47:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 13:48:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 13:48:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 13:50:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:51:10: [G_Auto 1] :  € 19.05 Lay bet placed on Taylor Fritz at 1.42. Fully matched at 1.4.  Ref: 10291          ( Fill or kill bet with 15 seconds delay.   )
+4/13/2022 13:51:11: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 1; sets: 1 
+4/13/2022 13:51:11: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:1
+4/13/2022 13:51:11: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 2; sets: 0 
+4/13/2022 13:51:11: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:0
+4/13/2022 13:51:11: [G_Auto 2] :  Store Value (Shared) for market: price = 1.4
+4/13/2022 13:51:11: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 83.5
+4/13/2022 13:51:11: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 102.81
+4/13/2022 13:51:11: [G_Auto 2] :  Store Value (Shared) for market: stake = 19.05
+4/13/2022 13:51:11: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 186.31
+4/13/2022 13:51:11: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.13
+4/13/2022 13:51:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.39
+4/13/2022 13:51:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.45
+4/13/2022 13:51:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:51:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:51:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:52:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:52:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:52:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:52:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:53:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:53:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:53:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 13:53:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 13:54:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 13:56:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:56:17: [G_Auto 1] :  Placed closure bet with greening on Taylor Fritz by Backing 20.20 at 1.32
+4/13/2022 13:56:18: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 2; sets: 1 
+4/13/2022 13:56:18: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:0
+4/13/2022 13:56:18: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 2; sets: 0 
+4/13/2022 13:56:18: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:2
+4/13/2022 13:56:18: [G_Auto 2] :  Store Value (Shared) for market: price = 1.32
+4/13/2022 13:56:18: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 103.7
+4/13/2022 13:56:18: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 102.81
+4/13/2022 13:56:18: [G_Auto 2] :  Store Value (Shared) for market: stake = 20.2
+4/13/2022 13:56:18: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 206.51
+4/13/2022 13:56:18: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.89
+4/13/2022 13:56:18: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.34
+4/13/2022 13:56:18: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4
+4/13/2022 13:56:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:56:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:56:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 13:57:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 13:58:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:58:59: [G_Auto 1] :  € 18.60 Lay bet placed on Taylor Fritz at 1.43. Fully matched at 1.42.  Ref: 10295          ( Fill or kill bet with 15 seconds delay.   )
+4/13/2022 13:59:00: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 2; sets: 1 
+4/13/2022 13:59:00: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:1
+4/13/2022 13:59:00: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 3; sets: 0 
+4/13/2022 13:59:00: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:0
+4/13/2022 13:59:00: [G_Auto 2] :  Store Value (Shared) for market: price = 1.42
+4/13/2022 13:59:00: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 103.7
+4/13/2022 13:59:00: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 121.41
+4/13/2022 13:59:00: [G_Auto 2] :  Store Value (Shared) for market: stake = 18.6
+4/13/2022 13:59:00: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 225.11
+4/13/2022 13:59:00: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.02
+4/13/2022 13:59:00: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.41
+4/13/2022 13:59:00: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.35
+4/13/2022 13:59:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:59:06: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 2; sets: 1 
+4/13/2022 13:59:06: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:1
+4/13/2022 13:59:06: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 3; sets: 0 
+4/13/2022 13:59:06: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:0
+4/13/2022 13:59:06: [G_Auto 2] :  Store Value (Shared) for market: price = 1.42
+4/13/2022 13:59:06: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 103.7
+4/13/2022 13:59:06: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 121.41
+4/13/2022 13:59:06: [G_Auto 2] :  Store Value (Shared) for market: stake = 18.6
+4/13/2022 13:59:06: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 225.11
+4/13/2022 13:59:06: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.02
+4/13/2022 13:59:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.42
+4/13/2022 13:59:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.35
+4/13/2022 13:59:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:59:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 13:59:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 14:00:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 14:00:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 14:00:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 14:00:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 14:01:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 14:02:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 14:02:48: [G_Auto 1] :  Placed closure bet with greening on Taylor Fritz by Backing 19.42 at 1.36
+4/13/2022 14:02:50: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 3; sets: 1 
+4/13/2022 14:02:50: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:0
+4/13/2022 14:02:50: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 3; sets: 0 
+4/13/2022 14:02:50: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:2
+4/13/2022 14:02:50: [G_Auto 2] :  Store Value (Shared) for market: price = 1.36
+4/13/2022 14:02:50: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 123.12
+4/13/2022 14:02:50: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 121.41
+4/13/2022 14:02:50: [G_Auto 2] :  Store Value (Shared) for market: stake = 19.42
+4/13/2022 14:02:50: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 244.53
+4/13/2022 14:02:50: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.71
+4/13/2022 14:02:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.36
+4/13/2022 14:02:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.8
+4/13/2022 14:02:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 14:03:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 14:03:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 14:03:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 14:07:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 14:07:52: [G_Auto 1] :  € 18.18 Lay bet placed on Taylor Fritz at 1.44. Fully matched at 1.43.  Ref: 10300          ( Fill or kill bet with 15 seconds delay.   )
+4/13/2022 14:07:54: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 3; sets: 1 
+4/13/2022 14:07:54: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:1
+4/13/2022 14:07:54: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 4; sets: 0 
+4/13/2022 14:07:54: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:0
+4/13/2022 14:07:54: [G_Auto 2] :  Store Value (Shared) for market: price = 1.43
+4/13/2022 14:07:54: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 123.12
+4/13/2022 14:07:54: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 139.59
+4/13/2022 14:07:54: [G_Auto 2] :  Store Value (Shared) for market: stake = 18.18
+4/13/2022 14:07:54: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 262.71
+4/13/2022 14:07:54: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.84
+4/13/2022 14:07:54: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.42
+4/13/2022 14:07:54: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.4
+4/13/2022 14:07:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 14:07:59: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 3; sets: 1 
+4/13/2022 14:07:59: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:1
+4/13/2022 14:07:59: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 4; sets: 0 
+4/13/2022 14:07:59: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:0
+4/13/2022 14:07:59: [G_Auto 2] :  Store Value (Shared) for market: price = 1.43
+4/13/2022 14:07:59: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 123.12
+4/13/2022 14:07:59: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 139.59
+4/13/2022 14:07:59: [G_Auto 2] :  Store Value (Shared) for market: stake = 18.18
+4/13/2022 14:07:59: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 262.71
+4/13/2022 14:07:59: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.84
+4/13/2022 14:07:59: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.43
+4/13/2022 14:07:59: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.35
+4/13/2022 14:08:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 14:08:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 14:08:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 14:16:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 14:16:34: [G_Auto 1] :  Placed closure bet with greening on Taylor Fritz by Backing 18.71 at 1.39
+4/13/2022 14:16:35: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 4; sets: 1 
+4/13/2022 14:16:35: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:0
+4/13/2022 14:16:35: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 4; sets: 0 
+4/13/2022 14:16:35: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:2
+4/13/2022 14:16:35: [G_Auto 2] :  Store Value (Shared) for market: price = 1.39
+4/13/2022 14:16:35: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 141.83
+4/13/2022 14:16:35: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 139.59
+4/13/2022 14:16:35: [G_Auto 2] :  Store Value (Shared) for market: stake = 18.71
+4/13/2022 14:16:35: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 281.42
+4/13/2022 14:16:35: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.23
+4/13/2022 14:16:35: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.4
+4/13/2022 14:16:35: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.5
+4/13/2022 14:16:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 14:16:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 14:17:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 14:17:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 14:17:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 14:17:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 14:20:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 14:20:34: [G_Auto 1] :  € 14.81 Lay bet placed on Taylor Fritz at 1.54. Fully matched at 1.53.  Ref: 10305          ( Fill or kill bet with 15 seconds delay.   )
+4/13/2022 14:20:35: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 4; sets: 1 
+4/13/2022 14:20:35: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:1
+4/13/2022 14:20:35: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 5; sets: 0 
+4/13/2022 14:20:35: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:0
+4/13/2022 14:20:35: [G_Auto 2] :  Store Value (Shared) for market: price = 1.53
+4/13/2022 14:20:35: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 141.83
+4/13/2022 14:20:35: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 154.4
+4/13/2022 14:20:35: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.81
+4/13/2022 14:20:35: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 296.23
+4/13/2022 14:20:35: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.43
+4/13/2022 14:20:35: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.51
+4/13/2022 14:20:35: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.96
+4/13/2022 14:20:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 14:20:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 14:21:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 14:21:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 14:21:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 14:21:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 14:22:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 14:22:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 14:22:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 14:22:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 14:26:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 14:27:01: [G_Auto 2] :  Store Value (Shared) for market: aSecondSetPrice = 2.32
+4/13/2022 14:27:01: [G_Auto 2] :  Store Value (Shared) for market: bSecondSetPrice = 1.74
+4/13/2022 14:27:06: [G_Auto 1] :  € 10.81 Lay bet placed on Marin Cilic at 1.74. Entirely unmatched when it initially reached the market.   Ref: 10311          ( Fill or kill bet with 15 seconds delay.   )
+4/13/2022 14:27:06: [G_Auto 1] :  Placed closure bet with greening on Taylor Fritz by Backing 9.76 at 2.32
+4/13/2022 14:27:06: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 0; sets: 1 
+4/13/2022 14:27:06: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:0
+4/13/2022 14:27:06: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 0; sets: 1 
+4/13/2022 14:27:06: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:2
+4/13/2022 14:27:06: [G_Auto 2] :  Store Value (Shared) for market: price = 2.32
+4/13/2022 14:27:06: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 151.59
+4/13/2022 14:27:06: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 154.4
+4/13/2022 14:27:06: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.76
+4/13/2022 14:27:06: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 305.99
+4/13/2022 14:27:06: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.74
+4/13/2022 14:27:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.32
+4/13/2022 14:27:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.73
+4/13/2022 14:27:08: [G_Auto 1] :  € 10.81 of unmatched bet (Ref:10311) was filled before remainder was killed.
+4/13/2022 14:27:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 14:27:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 14:27:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 14:27:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 14:28:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 14:28:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 14:28:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 14:28:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 14:29:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 14:29:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 14:29:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 14:29:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 14:30:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 14:32:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 14:32:44: [G_Auto 1] :  Placed closure bet with greening on Marin Cilic by Backing 11.69 at 1.61
+4/13/2022 14:32:45: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 0; sets: 1 
+4/13/2022 14:32:45: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:1
+4/13/2022 14:32:45: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 1; sets: 1 
+4/13/2022 14:32:45: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:0
+4/13/2022 14:32:45: [G_Auto 2] :  Store Value (Shared) for market: price = 1.61
+4/13/2022 14:32:45: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 163.28
+4/13/2022 14:32:45: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 165.21
+4/13/2022 14:32:45: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.69
+4/13/2022 14:32:45: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 328.49
+4/13/2022 14:32:45: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.88
+4/13/2022 14:32:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.6
+4/13/2022 14:32:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.62
+4/13/2022 14:32:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 14:32:50: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 0; sets: 1 
+4/13/2022 14:32:50: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:1
+4/13/2022 14:32:50: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 1; sets: 1 
+4/13/2022 14:32:50: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:0
+4/13/2022 14:32:50: [G_Auto 2] :  Store Value (Shared) for market: price = 1.61
+4/13/2022 14:32:50: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 163.28
+4/13/2022 14:32:50: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 165.21
+4/13/2022 14:32:50: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.69
+4/13/2022 14:32:50: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 328.49
+4/13/2022 14:32:50: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.88
+4/13/2022 14:32:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.6
+4/13/2022 14:32:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.62
+4/13/2022 14:33:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 14:33:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 14:33:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 14:36:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 14:36:59: [G_Auto 1] :  € 10.00 Lay bet placed on Marin Cilic at 1.8. Fully matched at 1.79.  Ref: 10320          ( Fill or kill bet with 15 seconds delay.   )
+4/13/2022 14:36:59: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 1; sets: 1 
+4/13/2022 14:36:59: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:0
+4/13/2022 14:36:59: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 1; sets: 1 
+4/13/2022 14:36:59: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:2
+4/13/2022 14:36:59: [G_Auto 2] :  Store Value (Shared) for market: price = 1.79
+4/13/2022 14:36:59: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 163.28
+4/13/2022 14:36:59: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 175.21
+4/13/2022 14:36:59: [G_Auto 2] :  Store Value (Shared) for market: stake = 10
+4/13/2022 14:36:59: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 338.49
+4/13/2022 14:36:59: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.83
+4/13/2022 14:36:59: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.26
+4/13/2022 14:36:59: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.78
+4/13/2022 14:37:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 14:37:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 14:37:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 14:37:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 14:37:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 14:38:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 14:38:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 14:45:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 14:45:21: [G_Auto 1] :  Placed closure bet with greening on Marin Cilic by Backing 10.65 at 1.68
+4/13/2022 14:45:21: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 1; sets: 1 
+4/13/2022 14:45:21: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:1
+4/13/2022 14:45:21: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 2; sets: 1 
+4/13/2022 14:45:21: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:0
+4/13/2022 14:45:21: [G_Auto 2] :  Store Value (Shared) for market: price = 1.69
+4/13/2022 14:45:21: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 173.93
+4/13/2022 14:45:21: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 175.21
+4/13/2022 14:45:21: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.65
+4/13/2022 14:45:21: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 349.14
+4/13/2022 14:45:21: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.3
+4/13/2022 14:45:21: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.44
+4/13/2022 14:45:21: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.7
+4/13/2022 14:45:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 14:45:28: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 1; sets: 1 
+4/13/2022 14:45:28: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:1
+4/13/2022 14:45:28: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 2; sets: 1 
+4/13/2022 14:45:28: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:0
+4/13/2022 14:45:28: [G_Auto 2] :  Store Value (Shared) for market: price = 1.69
+4/13/2022 14:45:28: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 173.93
+4/13/2022 14:45:28: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 175.21
+4/13/2022 14:45:28: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.65
+4/13/2022 14:45:28: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 349.14
+4/13/2022 14:45:28: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.3
+4/13/2022 14:45:28: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.44
+4/13/2022 14:45:28: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.7
+4/13/2022 14:45:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 14:45:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 14:46:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 14:46:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 14:46:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 14:46:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 14:47:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 14:47:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 14:47:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 14:47:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 14:49:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 14:49:38: [G_Auto 1] :  € 8.79 Lay bet placed on Marin Cilic at 1.91. Fully matched at 1.9.  Ref: 10330          ( Fill or kill bet with 15 seconds delay.   )
+4/13/2022 14:49:39: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 2; sets: 1 
+4/13/2022 14:49:39: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:0
+4/13/2022 14:49:39: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 2; sets: 1 
+4/13/2022 14:49:39: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:2
+4/13/2022 14:49:39: [G_Auto 2] :  Store Value (Shared) for market: price = 1.9
+4/13/2022 14:49:39: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 173.93
+4/13/2022 14:49:39: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 184
+4/13/2022 14:49:39: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.79
+4/13/2022 14:49:39: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 357.93
+4/13/2022 14:49:39: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.21
+4/13/2022 14:49:39: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.14
+4/13/2022 14:49:39: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.88
+4/13/2022 14:49:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 14:49:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 14:50:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 14:50:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 14:50:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 14:50:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 14:51:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 14:51:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 14:53:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 14:53:55: [G_Auto 1] :  Placed closure bet with greening on Marin Cilic by Backing 9.76 at 1.7
+4/13/2022 14:53:56: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 2; sets: 1 
+4/13/2022 14:53:56: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:1
+4/13/2022 14:53:56: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 3; sets: 1 
+4/13/2022 14:53:56: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:0
+4/13/2022 14:53:56: [G_Auto 2] :  Store Value (Shared) for market: price = 1.71
+4/13/2022 14:53:56: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 183.69
+4/13/2022 14:53:56: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 184
+4/13/2022 14:53:56: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.76
+4/13/2022 14:53:56: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 367.69
+4/13/2022 14:53:56: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.34
+4/13/2022 14:53:56: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.42
+4/13/2022 14:53:56: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.71
+4/13/2022 14:53:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 14:54:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 14:54:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 14:54:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 14:54:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 14:55:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 14:55:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 14:55:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 14:55:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 14:56:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 15:00:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 15:00:30: [G_Auto 1] :  € 8.79 Lay bet placed on Marin Cilic at 1.91. Fully matched at 1.91.  Ref: 10340          ( Fill or kill bet with 15 seconds delay.   )
+4/13/2022 15:00:31: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 3; sets: 1 
+4/13/2022 15:00:31: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:0
+4/13/2022 15:00:31: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 3; sets: 1 
+4/13/2022 15:00:31: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:2
+4/13/2022 15:00:31: [G_Auto 2] :  Store Value (Shared) for market: price = 1.91
+4/13/2022 15:00:31: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 183.69
+4/13/2022 15:00:31: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 192.79
+4/13/2022 15:00:31: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.79
+4/13/2022 15:00:31: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 376.48
+4/13/2022 15:00:31: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.29
+4/13/2022 15:00:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.12
+4/13/2022 15:00:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.9
+4/13/2022 15:00:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 15:00:36: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 3; sets: 1 
+4/13/2022 15:00:36: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:0
+4/13/2022 15:00:36: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 3; sets: 1 
+4/13/2022 15:00:36: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:2
+4/13/2022 15:00:36: [G_Auto 2] :  Store Value (Shared) for market: price = 1.91
+4/13/2022 15:00:36: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 183.69
+4/13/2022 15:00:36: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 192.79
+4/13/2022 15:00:36: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.79
+4/13/2022 15:00:36: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 376.48
+4/13/2022 15:00:36: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.29
+4/13/2022 15:00:36: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.12
+4/13/2022 15:00:36: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.9
+4/13/2022 15:00:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 15:01:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 15:01:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 15:01:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 15:01:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 15:01:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 15:02:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 15:05:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 15:05:34: [G_Auto 1] :  Placed closure bet with greening on Marin Cilic by Backing 3.27 at 5.1
+4/13/2022 15:05:34: [G_Auto 1] :  € 30.77 Lay bet placed on Taylor Fritz at 1.26. Fully matched at 1.25.  Ref: 10344          ( Fill or kill bet with 15 seconds delay.   )
+4/13/2022 15:05:35: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 4; sets: 1 
+4/13/2022 15:05:35: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:1
+4/13/2022 15:05:35: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 3; sets: 1 
+4/13/2022 15:05:35: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:0
+4/13/2022 15:05:35: [G_Auto 2] :  Store Value (Shared) for market: price = 1.25
+4/13/2022 15:05:35: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 186.96
+4/13/2022 15:05:35: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 223.56
+4/13/2022 15:05:35: [G_Auto 2] :  Store Value (Shared) for market: stake = 30.77
+4/13/2022 15:05:35: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 410.52
+4/13/2022 15:05:35: [G_Auto 2] :  Store Value (Shared) for market: pl = 5.21
+4/13/2022 15:05:35: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.24
+4/13/2022 15:05:35: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.1
+4/13/2022 15:05:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 15:05:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 15:06:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 15:06:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 15:06:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 15:06:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 15:07:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 15:07:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 15:07:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 15:07:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 15:08:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 15:10:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 15:10:36: [G_Auto 1] :  Placed closure bet with greening on Taylor Fritz by Backing 34.98 at 1.1
+4/13/2022 15:10:37: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 5; sets: 1 
+4/13/2022 15:10:37: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:0
+4/13/2022 15:10:37: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 3; sets: 1 
+4/13/2022 15:10:37: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:2
+4/13/2022 15:10:37: [G_Auto 2] :  Store Value (Shared) for market: price = 1.1
+4/13/2022 15:10:37: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 221.94
+4/13/2022 15:10:37: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 223.56
+4/13/2022 15:10:37: [G_Auto 2] :  Store Value (Shared) for market: stake = 34.98
+4/13/2022 15:10:37: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 445.5
+4/13/2022 15:10:37: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.6
+4/13/2022 15:10:37: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.11
+4/13/2022 15:10:37: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 10.5
+4/13/2022 15:10:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 15:10:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 15:11:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 15:11:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 15:11:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 15:11:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 15:14:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 15:14:18: [G_Auto 1] :  € 47.06 Lay bet placed on Taylor Fritz at 1.17. Fully matched at 1.15.  Ref: 10351          ( Fill or kill bet with 15 seconds delay.   )
+4/13/2022 15:14:19: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aPoints = point: 0; games: 5; sets: 1 
+4/13/2022 15:14:19: [G_Auto 2] :  Store Text Value (Shared) for Taylor Fritz: aServing = serving:1
+4/13/2022 15:14:19: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 4; sets: 1 
+4/13/2022 15:14:19: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:0
+4/13/2022 15:14:19: [G_Auto 2] :  Store Value (Shared) for market: price = 1.15
+4/13/2022 15:14:19: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 221.94
+4/13/2022 15:14:19: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 270.62
+4/13/2022 15:14:19: [G_Auto 2] :  Store Value (Shared) for market: stake = 47.06
+4/13/2022 15:14:19: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 492.56
+4/13/2022 15:14:19: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.19
+4/13/2022 15:14:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.15
+4/13/2022 15:14:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 7.8
+4/13/2022 15:14:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 15:14:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 15:14:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 15:15:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 15:15:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 15:15:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 15:15:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 15:16:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 15:16:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/13/2022 15:17:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/13/2022 15:17:48:  Guardian has detected that the market is suspended
