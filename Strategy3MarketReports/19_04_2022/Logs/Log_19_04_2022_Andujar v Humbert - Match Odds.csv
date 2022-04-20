@@ -1,0 +1,50 @@
+4/19/2022 09:13:56: [G_Auto 2] :  Store Text Value (Shared) for Pablo Andujar: info = marketName: Andujar v Humbert - Match Odds; runnerA: Pablo Andujar; runnerB: Ugo Humbert 
+4/19/2022 09:13:56: [G_Auto 2] :  Store Value (Shared) for market: aId = 2303153
+4/19/2022 09:13:56: [G_Auto 2] :  Store Value (Shared) for market: bId = 9633253
+4/19/2022 12:22:25:  Guardian has detected that the market is in-play
+4/19/2022 12:22:25:  Guardian has detected that the market is suspended
+4/19/2022 12:22:39: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.56; bBsp: 2.82; volume: 211853.88 
+4/19/2022 12:22:39: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.56; bBsp: 2.82; volume: 211853.88 
+4/19/2022 12:22:39:  Guardian has detected that the market is now unsuspended
+4/19/2022 13:17:32: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 3.15
+4/19/2022 13:17:32: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 1.47
+4/19/2022 13:17:35: [G_Auto 1] :  € 10.00 Back bet placed on Pablo Andujar at 3.05. Fully matched at 3.1.  Ref: 10049
+4/19/2022 13:17:45: [G_Auto 2] :  Store Text Value (Shared) for Pablo Andujar: aPoints = point: 0; games: 0; sets: 0 
+4/19/2022 13:17:45: [G_Auto 2] :  Store Text Value (Shared) for Pablo Andujar: aServing = serving:0
+4/19/2022 13:17:45: [G_Auto 2] :  Store Text Value (Shared) for Ugo Humbert: bPoints = point: 0; games: 0; sets: 1 
+4/19/2022 13:17:45: [G_Auto 2] :  Store Text Value (Shared) for Ugo Humbert: bServing = serving:2
+4/19/2022 13:17:45: [G_Auto 2] :  Store Value (Shared) for market: price = 3.1
+4/19/2022 13:17:45: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 10
+4/19/2022 13:17:45: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 0
+4/19/2022 13:17:45: [G_Auto 2] :  Store Value (Shared) for market: stake = 10
+4/19/2022 13:17:45: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 10
+4/19/2022 13:17:45: [G_Auto 2] :  Store Value (Shared) for market: pl = 0
+4/19/2022 13:17:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.05
+4/19/2022 13:17:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.48
+4/19/2022 13:43:18: [G_Auto 1] :  € 3.00 Back bet placed on Pablo Andujar at 7.4. Fully matched at 7.6.  Ref: 10052
+4/19/2022 13:43:27: [G_Auto 2] :  Store Text Value (Shared) for Pablo Andujar: aPoints = point: 0; games: 1; sets: 0 
+4/19/2022 13:43:27: [G_Auto 2] :  Store Text Value (Shared) for Pablo Andujar: aServing = serving:0
+4/19/2022 13:43:27: [G_Auto 2] :  Store Text Value (Shared) for Ugo Humbert: bPoints = point: 0; games: 3; sets: 1 
+4/19/2022 13:43:27: [G_Auto 2] :  Store Text Value (Shared) for Ugo Humbert: bServing = serving:2
+4/19/2022 13:43:27: [G_Auto 2] :  Store Value (Shared) for market: price = 7.6
+4/19/2022 13:43:27: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 13
+4/19/2022 13:43:27: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 0
+4/19/2022 13:43:27: [G_Auto 2] :  Store Value (Shared) for market: stake = 3
+4/19/2022 13:43:27: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 13
+4/19/2022 13:43:27: [G_Auto 2] :  Store Value (Shared) for market: pl = -6.1
+4/19/2022 13:43:27: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 7.6
+4/19/2022 13:43:27: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.15
+4/19/2022 13:47:07: [G_Auto 1] :  € 1.50 Lay bet placed on Pablo Andujar at 3.8. Fully matched at 3.75.  Ref: 10054
+4/19/2022 13:47:13: [G_Auto 2] :  Store Text Value (Shared) for Pablo Andujar: aPoints = point: 0; games: 2; sets: 0 
+4/19/2022 13:47:13: [G_Auto 2] :  Store Text Value (Shared) for Pablo Andujar: aServing = serving:1
+4/19/2022 13:47:13: [G_Auto 2] :  Store Text Value (Shared) for Ugo Humbert: bPoints = point: 0; games: 3; sets: 1 
+4/19/2022 13:47:13: [G_Auto 2] :  Store Text Value (Shared) for Ugo Humbert: bServing = serving:0
+4/19/2022 13:47:13: [G_Auto 2] :  Store Value (Shared) for market: price = 3.75
+4/19/2022 13:47:13: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 13
+4/19/2022 13:47:13: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 1.5
+4/19/2022 13:47:13: [G_Auto 2] :  Store Value (Shared) for market: stake = 1.5
+4/19/2022 13:47:13: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 14.5
+4/19/2022 13:47:13: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.49
+4/19/2022 13:47:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.7
+4/19/2022 13:47:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.37
+4/19/2022 14:12:08:  Guardian has detected that the market is suspended
