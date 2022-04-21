@@ -1,0 +1,648 @@
+4/20/2022 09:14:47: [G_Auto 2] :  Store Text Value (Shared) for Anett Kontaveit: info = marketName: Kontaveit v Kerber - Match Odds; runnerA: Anett Kontaveit; runnerB: Angelique Kerber 
+4/20/2022 09:14:47: [G_Auto 2] :  Store Value (Shared) for market: aId = 5300737
+4/20/2022 09:14:47: [G_Auto 2] :  Store Value (Shared) for market: bId = 2411840
+4/20/2022 17:39:10:  Guardian has detected that the market is in-play
+4/20/2022 17:39:10:  Guardian has detected that the market is suspended
+4/20/2022 17:39:12: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.38; bBsp: 3.6; volume: 18340.96 
+4/20/2022 17:39:12: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.38; bBsp: 3.6; volume: 18340.96 
+4/20/2022 17:39:12:  Guardian has detected that the market is now unsuspended
+4/20/2022 17:39:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 17:39:26: [G_Auto 1] :  € 29.63 Lay bet placed on Anett Kontaveit at 1.27. Entirely unmatched when it initially reached the market.   Ref: 10948          ( Fill or kill bet with 15 seconds delay.   )
+4/20/2022 17:39:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 17:39:41: [G_Auto 1] :  € 29.63 unmatched bet (Ref:10948) was killed.
+4/20/2022 17:39:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 17:40:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 17:41:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 17:41:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 17:41:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 17:41:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 17:42:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 17:43:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 17:44:07: [G_Auto 1] :  € 10.53 Lay bet placed on Anett Kontaveit at 1.76. Fully matched at 1.75.  Ref: 10953          ( Fill or kill bet with 15 seconds delay.   )
+4/20/2022 17:44:08: [G_Auto 2] :  Store Text Value (Shared) for Anett Kontaveit: aPoints = point: 0; games: 0; sets: 0 
+4/20/2022 17:44:08: [G_Auto 2] :  Store Text Value (Shared) for Anett Kontaveit: aServing = serving:1
+4/20/2022 17:44:08: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: bPoints = point: 0; games: 2; sets: 0 
+4/20/2022 17:44:08: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: bServing = serving:0
+4/20/2022 17:44:08: [G_Auto 2] :  Store Value (Shared) for market: price = 1.75
+4/20/2022 17:44:08: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+4/20/2022 17:44:08: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 10.53
+4/20/2022 17:44:08: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.53
+4/20/2022 17:44:08: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 10.53
+4/20/2022 17:44:08: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.18
+4/20/2022 17:44:08: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.74
+4/20/2022 17:44:08: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.32
+4/20/2022 17:44:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 17:44:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 17:44:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 17:44:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 17:47:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 17:47:16: [G_Auto 1] :  Placed closure bet with greening on Anett Kontaveit by Backing 11.37 at 1.62
+4/20/2022 17:47:18: [G_Auto 2] :  Store Text Value (Shared) for Anett Kontaveit: aPoints = point: 0; games: 1; sets: 0 
+4/20/2022 17:47:18: [G_Auto 2] :  Store Text Value (Shared) for Anett Kontaveit: aServing = serving:0
+4/20/2022 17:47:18: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: bPoints = point: 0; games: 2; sets: 0 
+4/20/2022 17:47:18: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: bServing = serving:2
+4/20/2022 17:47:18: [G_Auto 2] :  Store Value (Shared) for market: price = 1.63
+4/20/2022 17:47:18: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 11.37
+4/20/2022 17:47:18: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 10.53
+4/20/2022 17:47:18: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.37
+4/20/2022 17:47:18: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 21.9
+4/20/2022 17:47:18: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.78
+4/20/2022 17:47:18: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.63
+4/20/2022 17:47:18: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.6
+4/20/2022 17:47:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 17:47:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 17:47:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 17:48:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 17:48:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 17:48:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 17:48:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 17:49:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 17:49:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 17:49:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 17:49:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 17:50:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 17:50:53: [G_Auto 1] :  € 9.09 Lay bet placed on Anett Kontaveit at 1.88. Fully matched at 1.88.  Ref: 10961          ( Fill or kill bet with 15 seconds delay.   )
+4/20/2022 17:50:55: [G_Auto 2] :  Store Text Value (Shared) for Anett Kontaveit: aPoints = point: 0; games: 1; sets: 0 
+4/20/2022 17:50:55: [G_Auto 2] :  Store Text Value (Shared) for Anett Kontaveit: aServing = serving:1
+4/20/2022 17:50:55: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: bPoints = point: 0; games: 3; sets: 0 
+4/20/2022 17:50:55: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: bServing = serving:0
+4/20/2022 17:50:55: [G_Auto 2] :  Store Value (Shared) for market: price = 1.88
+4/20/2022 17:50:55: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 11.37
+4/20/2022 17:50:55: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 19.62
+4/20/2022 17:50:55: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.09
+4/20/2022 17:50:55: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 30.99
+4/20/2022 17:50:55: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.83
+4/20/2022 17:50:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.86
+4/20/2022 17:50:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.14
+4/20/2022 17:50:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 17:51:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 17:51:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 17:51:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 17:52:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 17:55:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 17:55:38: [G_Auto 1] :  Placed closure bet with greening on Anett Kontaveit by Backing 7.45 at 2.28
+4/20/2022 17:55:38: [G_Auto 1] :  € 10.26 Lay bet placed on Angelique Kerber at 1.78. Fully matched at 1.76.  Ref: 10963          ( Fill or kill bet with 15 seconds delay.   )
+4/20/2022 17:55:40: [G_Auto 2] :  Store Text Value (Shared) for Anett Kontaveit: aPoints = point: 0; games: 1; sets: 0 
+4/20/2022 17:55:40: [G_Auto 2] :  Store Text Value (Shared) for Anett Kontaveit: aServing = serving:0
+4/20/2022 17:55:40: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: bPoints = point: 0; games: 4; sets: 0 
+4/20/2022 17:55:40: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: bServing = serving:2
+4/20/2022 17:55:40: [G_Auto 2] :  Store Value (Shared) for market: price = 1.76
+4/20/2022 17:55:40: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 18.82
+4/20/2022 17:55:40: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 29.88
+4/20/2022 17:55:40: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.26
+4/20/2022 17:55:40: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 48.7
+4/20/2022 17:55:40: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.79
+4/20/2022 17:55:40: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.28
+4/20/2022 17:55:40: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.75
+4/20/2022 17:55:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 17:55:46: [G_Auto 2] :  Store Text Value (Shared) for Anett Kontaveit: aPoints = point: 0; games: 1; sets: 0 
+4/20/2022 17:55:46: [G_Auto 2] :  Store Text Value (Shared) for Anett Kontaveit: aServing = serving:0
+4/20/2022 17:55:46: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: bPoints = point: 0; games: 4; sets: 0 
+4/20/2022 17:55:46: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: bServing = serving:2
+4/20/2022 17:55:46: [G_Auto 2] :  Store Value (Shared) for market: price = 1.76
+4/20/2022 17:55:46: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 18.82
+4/20/2022 17:55:46: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 29.88
+4/20/2022 17:55:46: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.26
+4/20/2022 17:55:46: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 48.7
+4/20/2022 17:55:46: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.91
+4/20/2022 17:55:46: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.28
+4/20/2022 17:55:46: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.77
+4/20/2022 17:55:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 17:56:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 17:56:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 17:56:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 17:57:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 17:57:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 17:57:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 17:57:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 17:57:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 18:00:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:00:24: [G_Auto 1] :  Placed closure bet with greening on Angelique Kerber by Backing 8.68 at 2.08
+4/20/2022 18:00:24: [G_Auto 1] :  € 8.79 Lay bet placed on Anett Kontaveit at 1.91. Entirely unmatched when it initially reached the market.   Ref: 10968          ( Fill or kill bet with 15 seconds delay.   )
+4/20/2022 18:00:26: [G_Auto 2] :  Store Text Value (Shared) for Anett Kontaveit: aPoints = point: 0; games: 2; sets: 0 
+4/20/2022 18:00:26: [G_Auto 2] :  Store Text Value (Shared) for Anett Kontaveit: aServing = serving:1
+4/20/2022 18:00:26: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: bPoints = point: 0; games: 4; sets: 0 
+4/20/2022 18:00:26: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: bServing = serving:0
+4/20/2022 18:00:26: [G_Auto 2] :  Store Value (Shared) for market: price = 1.91
+4/20/2022 18:00:26: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 27.5
+4/20/2022 18:00:26: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 38.67
+4/20/2022 18:00:26: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.79
+4/20/2022 18:00:26: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 66.17
+4/20/2022 18:00:26: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.44
+4/20/2022 18:00:26: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.91
+4/20/2022 18:00:26: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.08
+4/20/2022 18:00:26: [G_Auto 1] :  € 8.79 of unmatched bet (Ref:10968) was filled before remainder was killed.
+4/20/2022 18:00:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:00:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:00:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 18:01:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 18:05:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:05:36: [G_Auto 1] :  Placed closure bet with greening on Anett Kontaveit by Backing 9.32 at 1.77
+4/20/2022 18:05:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:05:39: [G_Auto 2] :  Store Text Value (Shared) for Anett Kontaveit: aPoints = point: 0; games: 3; sets: 0 
+4/20/2022 18:05:39: [G_Auto 2] :  Store Text Value (Shared) for Anett Kontaveit: aServing = serving:0
+4/20/2022 18:05:39: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: bPoints = point: 0; games: 4; sets: 0 
+4/20/2022 18:05:39: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: bServing = serving:2
+4/20/2022 18:05:39: [G_Auto 2] :  Store Value (Shared) for market: price = 1.77
+4/20/2022 18:05:39: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 36.82
+4/20/2022 18:05:39: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 38.67
+4/20/2022 18:05:39: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.32
+4/20/2022 18:05:39: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 75.49
+4/20/2022 18:05:39: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.82
+4/20/2022 18:05:39: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.77
+4/20/2022 18:05:39: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.32
+4/20/2022 18:05:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:06:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:06:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:06:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:07:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:07:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:07:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 18:07:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 18:07:55: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 18:10:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:10:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:10:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:11:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 18:11:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 18:11:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 18:13:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:13:56: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 2.68
+4/20/2022 18:13:56: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 1.59
+4/20/2022 18:14:02: [G_Auto 1] :  € 13.11 Lay bet placed on Angelique Kerber at 1.61. Fully matched at 1.6.  Ref: 10978          ( Fill or kill bet with 15 seconds delay.   )
+4/20/2022 18:14:03: [G_Auto 2] :  Store Text Value (Shared) for Anett Kontaveit: aPoints = point: 0; games: 0; sets: 0 
+4/20/2022 18:14:03: [G_Auto 2] :  Store Text Value (Shared) for Anett Kontaveit: aServing = serving:0
+4/20/2022 18:14:03: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: bPoints = point: 0; games: 0; sets: 1 
+4/20/2022 18:14:03: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: bServing = serving:2
+4/20/2022 18:14:03: [G_Auto 2] :  Store Value (Shared) for market: price = 1.6
+4/20/2022 18:14:03: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 36.82
+4/20/2022 18:14:03: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 51.78
+4/20/2022 18:14:03: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.11
+4/20/2022 18:14:03: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 88.6
+4/20/2022 18:14:03: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.73
+4/20/2022 18:14:03: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.66
+4/20/2022 18:14:03: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.61
+4/20/2022 18:14:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:14:09: [G_Auto 2] :  Store Text Value (Shared) for Anett Kontaveit: aPoints = point: 0; games: 0; sets: 0 
+4/20/2022 18:14:09: [G_Auto 2] :  Store Text Value (Shared) for Anett Kontaveit: aServing = serving:0
+4/20/2022 18:14:09: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: bPoints = point: 0; games: 0; sets: 1 
+4/20/2022 18:14:09: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: bServing = serving:2
+4/20/2022 18:14:09: [G_Auto 2] :  Store Value (Shared) for market: price = 1.6
+4/20/2022 18:14:09: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 36.82
+4/20/2022 18:14:09: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 51.78
+4/20/2022 18:14:09: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.11
+4/20/2022 18:14:09: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 88.6
+4/20/2022 18:14:09: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.73
+4/20/2022 18:14:09: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.66
+4/20/2022 18:14:09: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.6
+4/20/2022 18:14:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:14:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:14:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:15:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:15:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:15:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:15:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:16:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:16:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 18:16:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 18:22:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:22:58: [G_Auto 1] :  Placed closure bet with greening on Angelique Kerber by Backing 10.70 at 1.96
+4/20/2022 18:23:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:23:03: [G_Auto 2] :  Store Text Value (Shared) for Anett Kontaveit: aPoints = point: 0; games: 1; sets: 0 
+4/20/2022 18:23:03: [G_Auto 2] :  Store Text Value (Shared) for Anett Kontaveit: aServing = serving:1
+4/20/2022 18:23:03: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: bPoints = point: 0; games: 0; sets: 1 
+4/20/2022 18:23:03: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: bServing = serving:0
+4/20/2022 18:23:03: [G_Auto 2] :  Store Value (Shared) for market: price = 1.96
+4/20/2022 18:23:03: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 47.52
+4/20/2022 18:23:03: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 51.78
+4/20/2022 18:23:03: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.7
+4/20/2022 18:23:03: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 99.3
+4/20/2022 18:23:03: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.18
+4/20/2022 18:23:03: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.04
+4/20/2022 18:23:03: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.95
+4/20/2022 18:23:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:23:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:23:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 18:24:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 18:25:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:25:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:26:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:26:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 18:26:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 18:30:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:31:08: [G_Auto 1] :  € 8.79 Lay bet placed on Anett Kontaveit at 1.91. Fully matched at 1.91.  Ref: 10985          ( Fill or kill bet with 15 seconds delay.   )
+4/20/2022 18:31:09: [G_Auto 2] :  Store Text Value (Shared) for Anett Kontaveit: aPoints = point: 0; games: 2; sets: 0 
+4/20/2022 18:31:09: [G_Auto 2] :  Store Text Value (Shared) for Anett Kontaveit: aServing = serving:1
+4/20/2022 18:31:09: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: bPoints = point: 0; games: 1; sets: 1 
+4/20/2022 18:31:09: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: bServing = serving:0
+4/20/2022 18:31:09: [G_Auto 2] :  Store Value (Shared) for market: price = 1.91
+4/20/2022 18:31:09: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 47.52
+4/20/2022 18:31:09: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 60.57
+4/20/2022 18:31:09: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.79
+4/20/2022 18:31:09: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 108.09
+4/20/2022 18:31:09: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.09
+4/20/2022 18:31:09: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.89
+4/20/2022 18:31:09: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.08
+4/20/2022 18:31:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:31:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:31:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:31:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:32:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:32:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:32:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:32:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 18:33:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 18:35:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:35:25: [G_Auto 1] :  Placed closure bet with greening on Anett Kontaveit by Backing 9.93 at 1.69
+4/20/2022 18:35:28: [G_Auto 2] :  Store Text Value (Shared) for Anett Kontaveit: aPoints = point: 0; games: 3; sets: 0 
+4/20/2022 18:35:28: [G_Auto 2] :  Store Text Value (Shared) for Anett Kontaveit: aServing = serving:0
+4/20/2022 18:35:28: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: bPoints = point: 0; games: 1; sets: 1 
+4/20/2022 18:35:28: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: bServing = serving:2
+4/20/2022 18:35:28: [G_Auto 2] :  Store Value (Shared) for market: price = 1.69
+4/20/2022 18:35:28: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 56.25
+4/20/2022 18:35:28: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 60.57
+4/20/2022 18:35:28: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.73
+4/20/2022 18:35:28: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 116.82
+4/20/2022 18:35:28: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.05
+4/20/2022 18:35:28: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.7
+4/20/2022 18:35:28: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.42
+4/20/2022 18:35:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:35:33: [G_Auto 2] :  Store Text Value (Shared) for Anett Kontaveit: aPoints = point: 0; games: 3; sets: 0 
+4/20/2022 18:35:33: [G_Auto 2] :  Store Text Value (Shared) for Anett Kontaveit: aServing = serving:0
+4/20/2022 18:35:33: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: bPoints = point: 0; games: 1; sets: 1 
+4/20/2022 18:35:33: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: bServing = serving:2
+4/20/2022 18:35:33: [G_Auto 2] :  Store Value (Shared) for market: price = 1.69
+4/20/2022 18:35:33: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 57.45
+4/20/2022 18:35:33: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 60.57
+4/20/2022 18:35:33: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.93
+4/20/2022 18:35:33: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 118.02
+4/20/2022 18:35:33: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.06
+4/20/2022 18:35:33: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.69
+4/20/2022 18:35:33: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.42
+4/20/2022 18:35:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:35:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 18:36:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 18:36:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 18:38:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:39:11: [G_Auto 1] :  € 9.52 Lay bet placed on Anett Kontaveit at 1.84. Entirely unmatched when it initially reached the market.   Ref: 10991          ( Fill or kill bet with 15 seconds delay.   )
+4/20/2022 18:39:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:39:14: [G_Auto 2] :  Store Text Value (Shared) for Anett Kontaveit: aPoints = point: 0; games: 3; sets: 0 
+4/20/2022 18:39:14: [G_Auto 2] :  Store Text Value (Shared) for Anett Kontaveit: aServing = serving:1
+4/20/2022 18:39:14: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: bPoints = point: 0; games: 2; sets: 1 
+4/20/2022 18:39:14: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: bServing = serving:0
+4/20/2022 18:39:14: [G_Auto 2] :  Store Value (Shared) for market: price = 1.84
+4/20/2022 18:39:14: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 57.45
+4/20/2022 18:39:14: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 70.09
+4/20/2022 18:39:14: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.52
+4/20/2022 18:39:14: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 127.54
+4/20/2022 18:39:14: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.96
+4/20/2022 18:39:14: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.85
+4/20/2022 18:39:14: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.2
+4/20/2022 18:39:14: [G_Auto 1] :  € 9.52 of unmatched bet (Ref:10991) was filled before remainder was killed.
+4/20/2022 18:39:20: [G_Auto 2] :  Store Text Value (Shared) for Anett Kontaveit: aPoints = point: 0; games: 3; sets: 0 
+4/20/2022 18:39:20: [G_Auto 2] :  Store Text Value (Shared) for Anett Kontaveit: aServing = serving:1
+4/20/2022 18:39:20: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: bPoints = point: 0; games: 2; sets: 1 
+4/20/2022 18:39:20: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: bServing = serving:0
+4/20/2022 18:39:20: [G_Auto 2] :  Store Value (Shared) for market: price = 1.84
+4/20/2022 18:39:20: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 57.45
+4/20/2022 18:39:20: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 70.09
+4/20/2022 18:39:20: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.52
+4/20/2022 18:39:20: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 127.54
+4/20/2022 18:39:20: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.01
+4/20/2022 18:39:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.83
+4/20/2022 18:39:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.18
+4/20/2022 18:39:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:39:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:40:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:40:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:40:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:40:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:41:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:41:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 18:41:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 18:41:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 18:47:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:47:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 18:47:18: [G_Auto 1] :  Placed closure bet with greening on Anett Kontaveit by Backing 10.36 at 1.69
+4/20/2022 18:47:19: [G_Auto 2] :  Store Text Value (Shared) for Anett Kontaveit: aPoints = point: 0; games: 4; sets: 0 
+4/20/2022 18:47:19: [G_Auto 2] :  Store Text Value (Shared) for Anett Kontaveit: aServing = serving:0
+4/20/2022 18:47:19: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: bPoints = point: 15; games: 2; sets: 1 
+4/20/2022 18:47:19: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: bServing = serving:2
+4/20/2022 18:47:19: [G_Auto 2] :  Store Value (Shared) for market: price = 1.69
+4/20/2022 18:47:19: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 67.81
+4/20/2022 18:47:19: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 70.09
+4/20/2022 18:47:19: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.36
+4/20/2022 18:47:19: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 137.9
+4/20/2022 18:47:19: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.22
+4/20/2022 18:47:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.69
+4/20/2022 18:47:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.44
+4/20/2022 18:47:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 18:48:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:48:34: [G_Auto 1] :  € 8.99 Lay bet placed on Anett Kontaveit at 1.89. Fully matched at 1.89.  Ref: 10998          ( Fill or kill bet with 15 seconds delay.   )
+4/20/2022 18:48:36: [G_Auto 2] :  Store Text Value (Shared) for Anett Kontaveit: aPoints = point: 0; games: 4; sets: 0 
+4/20/2022 18:48:36: [G_Auto 2] :  Store Text Value (Shared) for Anett Kontaveit: aServing = serving:1
+4/20/2022 18:48:36: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: bPoints = point: 0; games: 3; sets: 1 
+4/20/2022 18:48:36: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: bServing = serving:0
+4/20/2022 18:48:36: [G_Auto 2] :  Store Value (Shared) for market: price = 1.89
+4/20/2022 18:48:36: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 67.81
+4/20/2022 18:48:36: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 79.08
+4/20/2022 18:48:36: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.99
+4/20/2022 18:48:36: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 146.89
+4/20/2022 18:48:36: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.14
+4/20/2022 18:48:36: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.87
+4/20/2022 18:48:36: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.16
+4/20/2022 18:48:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:48:42: [G_Auto 2] :  Store Text Value (Shared) for Anett Kontaveit: aPoints = point: 0; games: 4; sets: 0 
+4/20/2022 18:48:42: [G_Auto 2] :  Store Text Value (Shared) for Anett Kontaveit: aServing = serving:1
+4/20/2022 18:48:42: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: bPoints = point: 0; games: 3; sets: 1 
+4/20/2022 18:48:42: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: bServing = serving:0
+4/20/2022 18:48:42: [G_Auto 2] :  Store Value (Shared) for market: price = 1.89
+4/20/2022 18:48:42: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 67.81
+4/20/2022 18:48:42: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 79.08
+4/20/2022 18:48:42: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.99
+4/20/2022 18:48:42: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 146.89
+4/20/2022 18:48:42: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.14
+4/20/2022 18:48:42: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.88
+4/20/2022 18:48:42: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.12
+4/20/2022 18:48:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:49:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:49:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:49:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:49:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:50:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:50:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 18:50:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 18:51:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 18:52:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:52:47: [G_Auto 1] :  Placed closure bet with greening on Anett Kontaveit by Backing 10.37 at 1.64
+4/20/2022 18:52:48: [G_Auto 2] :  Store Text Value (Shared) for Anett Kontaveit: aPoints = point: 0; games: 5; sets: 0 
+4/20/2022 18:52:48: [G_Auto 2] :  Store Text Value (Shared) for Anett Kontaveit: aServing = serving:0
+4/20/2022 18:52:48: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: bPoints = point: 0; games: 3; sets: 1 
+4/20/2022 18:52:48: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: bServing = serving:2
+4/20/2022 18:52:48: [G_Auto 2] :  Store Value (Shared) for market: price = 1.64
+4/20/2022 18:52:48: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 78.18
+4/20/2022 18:52:48: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 79.08
+4/20/2022 18:52:48: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.37
+4/20/2022 18:52:48: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 157.26
+4/20/2022 18:52:48: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.89
+4/20/2022 18:52:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.65
+4/20/2022 18:52:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.52
+4/20/2022 18:52:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:52:54: [G_Auto 2] :  Store Text Value (Shared) for Anett Kontaveit: aPoints = point: 0; games: 5; sets: 0 
+4/20/2022 18:52:54: [G_Auto 2] :  Store Text Value (Shared) for Anett Kontaveit: aServing = serving:0
+4/20/2022 18:52:54: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: bPoints = point: 0; games: 3; sets: 1 
+4/20/2022 18:52:54: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: bServing = serving:2
+4/20/2022 18:52:54: [G_Auto 2] :  Store Value (Shared) for market: price = 1.64
+4/20/2022 18:52:54: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 78.18
+4/20/2022 18:52:54: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 79.08
+4/20/2022 18:52:54: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.37
+4/20/2022 18:52:54: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 157.26
+4/20/2022 18:52:54: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.89
+4/20/2022 18:52:54: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.65
+4/20/2022 18:52:54: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.54
+4/20/2022 18:53:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 18:53:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 18:54:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:54:28: [G_Auto 1] :  € 10.00 Lay bet placed on Anett Kontaveit at 1.8. Fully matched at 1.79.  Ref: 11001          ( Fill or kill bet with 15 seconds delay.   )
+4/20/2022 18:54:29: [G_Auto 2] :  Store Text Value (Shared) for Anett Kontaveit: aPoints = point: 0; games: 5; sets: 0 
+4/20/2022 18:54:29: [G_Auto 2] :  Store Text Value (Shared) for Anett Kontaveit: aServing = serving:1
+4/20/2022 18:54:29: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: bPoints = point: 0; games: 4; sets: 1 
+4/20/2022 18:54:29: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: bServing = serving:0
+4/20/2022 18:54:29: [G_Auto 2] :  Store Value (Shared) for market: price = 1.79
+4/20/2022 18:54:29: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 78.18
+4/20/2022 18:54:29: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 89.08
+4/20/2022 18:54:29: [G_Auto 2] :  Store Value (Shared) for market: stake = 10
+4/20/2022 18:54:29: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 167.26
+4/20/2022 18:54:29: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.88
+4/20/2022 18:54:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.79
+4/20/2022 18:54:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.26
+4/20/2022 18:54:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:54:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:55:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:55:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:55:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:55:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:56:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:56:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 18:56:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 18:57:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:57:33: [G_Auto 2] :  Store Value (Shared) for market: aSecondSetPrice = 1.55
+4/20/2022 18:57:33: [G_Auto 2] :  Store Value (Shared) for market: bSecondSetPrice = 2.82
+4/20/2022 18:57:39: [G_Auto 1] :  Placed closure bet with greening on Anett Kontaveit by Backing 11.54 at 1.55
+4/20/2022 18:57:41: [G_Auto 2] :  Store Text Value (Shared) for Anett Kontaveit: aPoints = point: 0; games: 0; sets: 1 
+4/20/2022 18:57:41: [G_Auto 2] :  Store Text Value (Shared) for Anett Kontaveit: aServing = serving:0
+4/20/2022 18:57:41: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: bPoints = point: 0; games: 0; sets: 1 
+4/20/2022 18:57:41: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: bServing = serving:2
+4/20/2022 18:57:41: [G_Auto 2] :  Store Value (Shared) for market: price = 1.55
+4/20/2022 18:57:41: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 89.72
+4/20/2022 18:57:41: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 89.08
+4/20/2022 18:57:41: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.54
+4/20/2022 18:57:41: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 178.8
+4/20/2022 18:57:41: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.65
+4/20/2022 18:57:41: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.55
+4/20/2022 18:57:41: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.82
+4/20/2022 18:57:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:57:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:58:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:58:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:58:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:59:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:59:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:59:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 18:59:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 19:00:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 19:00:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 19:03:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 19:03:15: [G_Auto 1] :  € 10.67 Lay bet placed on Anett Kontaveit at 1.75. Entirely unmatched when it initially reached the market.   Ref: 11008          ( Fill or kill bet with 15 seconds delay.   )
+4/20/2022 19:03:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 19:03:18: [G_Auto 2] :  Store Text Value (Shared) for Anett Kontaveit: aPoints = point: 0; games: 0; sets: 1 
+4/20/2022 19:03:18: [G_Auto 2] :  Store Text Value (Shared) for Anett Kontaveit: aServing = serving:1
+4/20/2022 19:03:18: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: bPoints = point: 0; games: 1; sets: 1 
+4/20/2022 19:03:18: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: bServing = serving:0
+4/20/2022 19:03:18: [G_Auto 2] :  Store Value (Shared) for market: price = 1.75
+4/20/2022 19:03:18: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 89.72
+4/20/2022 19:03:18: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 99.75
+4/20/2022 19:03:18: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.67
+4/20/2022 19:03:18: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 189.47
+4/20/2022 19:03:18: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.64
+4/20/2022 19:03:18: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.74
+4/20/2022 19:03:18: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.36
+4/20/2022 19:03:18: [G_Auto 1] :  € 10.67 of unmatched bet (Ref:11008) was filled before remainder was killed.
+4/20/2022 19:03:24: [G_Auto 2] :  Store Text Value (Shared) for Anett Kontaveit: aPoints = point: 0; games: 0; sets: 1 
+4/20/2022 19:03:24: [G_Auto 2] :  Store Text Value (Shared) for Anett Kontaveit: aServing = serving:1
+4/20/2022 19:03:24: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: bPoints = point: 0; games: 1; sets: 1 
+4/20/2022 19:03:24: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: bServing = serving:0
+4/20/2022 19:03:24: [G_Auto 2] :  Store Value (Shared) for market: price = 1.75
+4/20/2022 19:03:24: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 89.72
+4/20/2022 19:03:24: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 99.75
+4/20/2022 19:03:24: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.67
+4/20/2022 19:03:24: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 189.47
+4/20/2022 19:03:24: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.64
+4/20/2022 19:03:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.75
+4/20/2022 19:03:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.3
+4/20/2022 19:03:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 19:03:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 19:03:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 19:04:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 19:04:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 19:04:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 19:06:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 19:06:32: [G_Auto 1] :  Placed closure bet with greening on Anett Kontaveit by Backing 12.13 at 1.54
+4/20/2022 19:06:34: [G_Auto 2] :  Store Text Value (Shared) for Anett Kontaveit: aPoints = point: 0; games: 1; sets: 1 
+4/20/2022 19:06:34: [G_Auto 2] :  Store Text Value (Shared) for Anett Kontaveit: aServing = serving:0
+4/20/2022 19:06:34: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: bPoints = point: 0; games: 1; sets: 1 
+4/20/2022 19:06:34: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: bServing = serving:2
+4/20/2022 19:06:34: [G_Auto 2] :  Store Value (Shared) for market: price = 1.54
+4/20/2022 19:06:34: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 101.85
+4/20/2022 19:06:34: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 99.75
+4/20/2022 19:06:34: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.13
+4/20/2022 19:06:34: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 201.6
+4/20/2022 19:06:34: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.1
+4/20/2022 19:06:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.55
+4/20/2022 19:06:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.8
+4/20/2022 19:06:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 19:06:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 19:07:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 19:07:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 19:12:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 19:12:30: [G_Auto 1] :  € 38.10 Lay bet placed on Anett Kontaveit at 1.21. Fully matched at 1.2.  Ref: 11013          ( Fill or kill bet with 15 seconds delay.   )
+4/20/2022 19:12:31: [G_Auto 2] :  Store Text Value (Shared) for Anett Kontaveit: aPoints = point: 0; games: 2; sets: 1 
+4/20/2022 19:12:31: [G_Auto 2] :  Store Text Value (Shared) for Anett Kontaveit: aServing = serving:1
+4/20/2022 19:12:31: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: bPoints = point: 0; games: 1; sets: 1 
+4/20/2022 19:12:31: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: bServing = serving:0
+4/20/2022 19:12:31: [G_Auto 2] :  Store Value (Shared) for market: price = 1.2
+4/20/2022 19:12:31: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 101.85
+4/20/2022 19:12:31: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 137.85
+4/20/2022 19:12:31: [G_Auto 2] :  Store Value (Shared) for market: stake = 38.1
+4/20/2022 19:12:31: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 239.7
+4/20/2022 19:12:31: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.1
+4/20/2022 19:12:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.21
+4/20/2022 19:12:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 6
+4/20/2022 19:12:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 19:12:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 19:13:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 19:13:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 19:13:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 19:13:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 19:14:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 19:14:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 19:14:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 19:14:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 19:16:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 19:16:49: [G_Auto 1] :  Placed closure bet with greening on Anett Kontaveit by Backing 40.46 at 1.13
+4/20/2022 19:16:51: [G_Auto 2] :  Store Text Value (Shared) for Anett Kontaveit: aPoints = point: 0; games: 3; sets: 1 
+4/20/2022 19:16:51: [G_Auto 2] :  Store Text Value (Shared) for Anett Kontaveit: aServing = serving:0
+4/20/2022 19:16:51: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: bPoints = point: 0; games: 1; sets: 1 
+4/20/2022 19:16:51: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: bServing = serving:2
+4/20/2022 19:16:51: [G_Auto 2] :  Store Value (Shared) for market: price = 1.13
+4/20/2022 19:16:51: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 142.31
+4/20/2022 19:16:51: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 137.85
+4/20/2022 19:16:51: [G_Auto 2] :  Store Value (Shared) for market: stake = 40.46
+4/20/2022 19:16:51: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 280.16
+4/20/2022 19:16:51: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.46
+4/20/2022 19:16:51: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.13
+4/20/2022 19:16:51: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 8.6
+4/20/2022 19:16:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 19:17:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 19:17:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 19:17:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 19:20:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 19:20:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 19:20:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 19:20:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 19:21:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 19:21:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 19:21:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 19:21:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 19:22:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 19:22:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 19:22:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 19:22:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 19:25:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 19:26:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 19:26:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 19:26:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 19:26:55: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 19:27:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 19:29:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 19:29:35: [G_Auto 1] :  € 38.10 Lay bet placed on Anett Kontaveit at 1.21. Fully matched at 1.2.  Ref: 11018          ( Fill or kill bet with 15 seconds delay.   )
+4/20/2022 19:29:36: [G_Auto 2] :  Store Text Value (Shared) for Anett Kontaveit: aPoints = point: 0; games: 4; sets: 1 
+4/20/2022 19:29:36: [G_Auto 2] :  Store Text Value (Shared) for Anett Kontaveit: aServing = serving:1
+4/20/2022 19:29:36: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: bPoints = point: 0; games: 3; sets: 1 
+4/20/2022 19:29:36: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: bServing = serving:0
+4/20/2022 19:29:36: [G_Auto 2] :  Store Value (Shared) for market: price = 1.2
+4/20/2022 19:29:36: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 142.31
+4/20/2022 19:29:36: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 175.95
+4/20/2022 19:29:36: [G_Auto 2] :  Store Value (Shared) for market: stake = 38.1
+4/20/2022 19:29:36: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 318.26
+4/20/2022 19:29:36: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.78
+4/20/2022 19:29:36: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.19
+4/20/2022 19:29:36: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 6.4
+4/20/2022 19:29:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 19:29:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 19:30:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 19:30:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 19:30:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 19:30:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 19:31:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 19:31:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 19:31:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 19:31:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 19:32:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 19:33:03: [G_Auto 1] :  Placed closure bet with greening on Anett Kontaveit by Backing 43.13 at 1.06
+4/20/2022 19:33:05: [G_Auto 2] :  Store Text Value (Shared) for Anett Kontaveit: aPoints = point: 0; games: 5; sets: 1 
+4/20/2022 19:33:05: [G_Auto 2] :  Store Text Value (Shared) for Anett Kontaveit: aServing = serving:0
+4/20/2022 19:33:05: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: bPoints = point: 0; games: 3; sets: 1 
+4/20/2022 19:33:05: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: bServing = serving:2
+4/20/2022 19:33:05: [G_Auto 2] :  Store Value (Shared) for market: price = 1.06
+4/20/2022 19:33:05: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 185.44
+4/20/2022 19:33:05: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 175.95
+4/20/2022 19:33:05: [G_Auto 2] :  Store Value (Shared) for market: stake = 43.13
+4/20/2022 19:33:05: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 361.39
+4/20/2022 19:33:05: [G_Auto 2] :  Store Value (Shared) for market: pl = -9.49
+4/20/2022 19:33:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.08
+4/20/2022 19:33:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 15
+4/20/2022 19:33:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 19:33:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 19:33:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 19:33:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 19:34:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 19:34:57: [G_Auto 1] :  € 57.14 Lay bet placed on Anett Kontaveit at 1.14. Fully matched at 1.13.  Ref: 11021          ( Fill or kill bet with 15 seconds delay.   )
+4/20/2022 19:34:58: [G_Auto 2] :  Store Text Value (Shared) for Anett Kontaveit: aPoints = point: 0; games: 5; sets: 1 
+4/20/2022 19:34:58: [G_Auto 2] :  Store Text Value (Shared) for Anett Kontaveit: aServing = serving:1
+4/20/2022 19:34:58: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: bPoints = point: 0; games: 4; sets: 1 
+4/20/2022 19:34:58: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: bServing = serving:0
+4/20/2022 19:34:58: [G_Auto 2] :  Store Value (Shared) for market: price = 1.13
+4/20/2022 19:34:58: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 185.44
+4/20/2022 19:34:58: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 233.09
+4/20/2022 19:34:58: [G_Auto 2] :  Store Value (Shared) for market: stake = 57.14
+4/20/2022 19:34:58: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 418.53
+4/20/2022 19:34:58: [G_Auto 2] :  Store Value (Shared) for market: pl = -10
+4/20/2022 19:34:58: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.12
+4/20/2022 19:34:58: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 8.8
+4/20/2022 19:34:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 19:35:03: [G_Auto 2] :  Store Text Value (Shared) for Anett Kontaveit: aPoints = point: 0; games: 5; sets: 1 
+4/20/2022 19:35:03: [G_Auto 2] :  Store Text Value (Shared) for Anett Kontaveit: aServing = serving:1
+4/20/2022 19:35:03: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: bPoints = point: 0; games: 4; sets: 1 
+4/20/2022 19:35:03: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: bServing = serving:0
+4/20/2022 19:35:03: [G_Auto 2] :  Store Value (Shared) for market: price = 1.13
+4/20/2022 19:35:03: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 185.44
+4/20/2022 19:35:03: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 233.09
+4/20/2022 19:35:03: [G_Auto 2] :  Store Value (Shared) for market: stake = 57.14
+4/20/2022 19:35:03: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 418.53
+4/20/2022 19:35:03: [G_Auto 2] :  Store Value (Shared) for market: pl = -10
+4/20/2022 19:35:03: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.13
+4/20/2022 19:35:03: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 8.6
+4/20/2022 19:35:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 19:35:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 19:35:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 19:35:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 19:36:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 19:36:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 19:36:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 19:36:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 19:37:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 19:37:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 19:37:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/20/2022 19:40:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/20/2022 19:40:45:  Guardian has detected that the market is suspended

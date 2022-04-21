@@ -1,0 +1,260 @@
+4/21/2022 10:57:06: [G_Auto 2] :  Store Text Value (Shared) for Lesia Tsurenko: info = marketName: Tsurenko v Tomljanovic - Match Odds; runnerA: Lesia Tsurenko; runnerB: Ajla Tomljanovic 
+4/21/2022 10:57:06: [G_Auto 2] :  Store Value (Shared) for market: aId = 5300861
+4/21/2022 10:57:06: [G_Auto 2] :  Store Value (Shared) for market: bId = 3740233
+4/21/2022 12:08:47:  Guardian has detected that the market is in-play
+4/21/2022 12:08:47:  Guardian has detected that the market is suspended
+4/21/2022 12:08:53: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 2.26; bBsp: 1.76; volume: 3143.13 
+4/21/2022 12:08:53: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 2.26; bBsp: 1.76; volume: 3143.13 
+4/21/2022 12:08:53:  Guardian has detected that the market is now unsuspended
+4/21/2022 12:08:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:09:13: [G_Auto 1] :  € 10.26 Lay bet placed on Ajla Tomljanovic at 1.78. Entirely unmatched when it initially reached the market.   Ref: 10020          ( Fill or kill bet with 15 seconds delay.   )
+4/21/2022 12:09:16: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 12:09:28: [G_Auto 1] :  € 10.26 unmatched bet (Ref:10020) was killed.
+4/21/2022 12:09:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 12:11:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:11:44: [G_Auto 1] :  € 8.79 Lay bet placed on Lesia Tsurenko at 1.91. Entirely unmatched when it initially reached the market.   Ref: 10021          ( Fill or kill bet with 15 seconds delay.   )
+4/21/2022 12:11:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:11:59: [G_Auto 1] :  € 8.79 unmatched bet (Ref:10021) was killed.
+4/21/2022 12:12:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:12:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:12:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 12:12:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 12:13:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 12:13:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 12:15:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:15:47: [G_Auto 1] :  € 10.13 Lay bet placed on Ajla Tomljanovic at 1.79. Entirely unmatched when it initially reached the market.   Ref: 10023          ( Fill or kill bet with 15 seconds delay.   )
+4/21/2022 12:15:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:16:01: [G_Auto 1] :  € 10.13 of unmatched bet (Ref:10023) was filled before remainder was killed.
+4/21/2022 12:16:01: [G_Auto 2] :  Store Text Value (Shared) for Lesia Tsurenko: aPoints = point: 0; games: 1; sets: 0 
+4/21/2022 12:16:01: [G_Auto 2] :  Store Text Value (Shared) for Lesia Tsurenko: aServing = serving:0
+4/21/2022 12:16:01: [G_Auto 2] :  Store Text Value (Shared) for Ajla Tomljanovic: bPoints = point: 0; games: 1; sets: 0 
+4/21/2022 12:16:01: [G_Auto 2] :  Store Text Value (Shared) for Ajla Tomljanovic: bServing = serving:2
+4/21/2022 12:16:01: [G_Auto 2] :  Store Value (Shared) for market: price = 1.79
+4/21/2022 12:16:01: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+4/21/2022 12:16:01: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 10.13
+4/21/2022 12:16:01: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.13
+4/21/2022 12:16:01: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 10.13
+4/21/2022 12:16:01: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.17
+4/21/2022 12:16:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.3
+4/21/2022 12:16:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.77
+4/21/2022 12:16:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:16:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:16:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 12:16:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 12:17:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:18:11: [G_Auto 1] :  € 9.76 Lay bet placed on Lesia Tsurenko at 1.82. Fully matched at 1.82.  Ref: 10026          ( Fill or kill bet with 15 seconds delay.   )
+4/21/2022 12:18:11: [G_Auto 1] :  Placed closure bet with greening on Ajla Tomljanovic by Backing 8.24 at 2.2
+4/21/2022 12:18:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:18:14: [G_Auto 2] :  Store Text Value (Shared) for Lesia Tsurenko: aPoints = point: 0; games: 2; sets: 0 
+4/21/2022 12:18:14: [G_Auto 2] :  Store Text Value (Shared) for Lesia Tsurenko: aServing = serving:1
+4/21/2022 12:18:14: [G_Auto 2] :  Store Text Value (Shared) for Ajla Tomljanovic: bPoints = point: 0; games: 1; sets: 0 
+4/21/2022 12:18:14: [G_Auto 2] :  Store Text Value (Shared) for Ajla Tomljanovic: bServing = serving:0
+4/21/2022 12:18:14: [G_Auto 2] :  Store Value (Shared) for market: price = 2.2
+4/21/2022 12:18:14: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 8.24
+4/21/2022 12:18:14: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 19.89
+4/21/2022 12:18:14: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.24
+4/21/2022 12:18:14: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 28.13
+4/21/2022 12:18:14: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.74
+4/21/2022 12:18:14: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.83
+4/21/2022 12:18:14: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.22
+4/21/2022 12:18:20: [G_Auto 2] :  Store Text Value (Shared) for Lesia Tsurenko: aPoints = point: 0; games: 2; sets: 0 
+4/21/2022 12:18:20: [G_Auto 2] :  Store Text Value (Shared) for Lesia Tsurenko: aServing = serving:1
+4/21/2022 12:18:20: [G_Auto 2] :  Store Text Value (Shared) for Ajla Tomljanovic: bPoints = point: 0; games: 1; sets: 0 
+4/21/2022 12:18:20: [G_Auto 2] :  Store Text Value (Shared) for Ajla Tomljanovic: bServing = serving:0
+4/21/2022 12:18:20: [G_Auto 2] :  Store Value (Shared) for market: price = 2.2
+4/21/2022 12:18:20: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 8.24
+4/21/2022 12:18:20: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 19.89
+4/21/2022 12:18:20: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.24
+4/21/2022 12:18:20: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 28.13
+4/21/2022 12:18:20: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.9
+4/21/2022 12:18:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.83
+4/21/2022 12:18:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.2
+4/21/2022 12:18:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:18:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:19:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:19:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:19:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:19:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:20:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:20:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 12:20:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 12:23:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:24:11: [G_Auto 1] :  Placed closure bet with greening on Lesia Tsurenko by Backing 11.31 at 1.57
+4/21/2022 12:24:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:24:13: [G_Auto 2] :  Store Text Value (Shared) for Lesia Tsurenko: aPoints = point: 0; games: 3; sets: 0 
+4/21/2022 12:24:13: [G_Auto 2] :  Store Text Value (Shared) for Lesia Tsurenko: aServing = serving:0
+4/21/2022 12:24:13: [G_Auto 2] :  Store Text Value (Shared) for Ajla Tomljanovic: bPoints = point: 0; games: 1; sets: 0 
+4/21/2022 12:24:13: [G_Auto 2] :  Store Text Value (Shared) for Ajla Tomljanovic: bServing = serving:2
+4/21/2022 12:24:13: [G_Auto 2] :  Store Value (Shared) for market: price = 1.57
+4/21/2022 12:24:13: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 19.55
+4/21/2022 12:24:13: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 19.89
+4/21/2022 12:24:13: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.31
+4/21/2022 12:24:13: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 39.44
+4/21/2022 12:24:13: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.32
+4/21/2022 12:24:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.6
+4/21/2022 12:24:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.68
+4/21/2022 12:24:19: [G_Auto 2] :  Store Text Value (Shared) for Lesia Tsurenko: aPoints = point: 0; games: 3; sets: 0 
+4/21/2022 12:24:19: [G_Auto 2] :  Store Text Value (Shared) for Lesia Tsurenko: aServing = serving:0
+4/21/2022 12:24:19: [G_Auto 2] :  Store Text Value (Shared) for Ajla Tomljanovic: bPoints = point: 0; games: 1; sets: 0 
+4/21/2022 12:24:19: [G_Auto 2] :  Store Text Value (Shared) for Ajla Tomljanovic: bServing = serving:2
+4/21/2022 12:24:19: [G_Auto 2] :  Store Value (Shared) for market: price = 1.57
+4/21/2022 12:24:19: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 19.55
+4/21/2022 12:24:19: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 19.89
+4/21/2022 12:24:19: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.31
+4/21/2022 12:24:19: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 39.44
+4/21/2022 12:24:19: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.32
+4/21/2022 12:24:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.6
+4/21/2022 12:24:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.68
+4/21/2022 12:24:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:24:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 12:25:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 12:25:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 12:28:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:29:12: [G_Auto 1] :  € 9.76 Lay bet placed on Lesia Tsurenko at 1.82. Entirely unmatched when it initially reached the market.   Ref: 10033          ( Fill or kill bet with 15 seconds delay.   )
+4/21/2022 12:29:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:29:32: [G_Auto 1] :  € 9.76 of unmatched bet (Ref:10033) was filled before remainder was killed.
+4/21/2022 12:29:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:29:32: [G_Auto 2] :  Store Text Value (Shared) for Lesia Tsurenko: aPoints = point: 0; games: 3; sets: 0 
+4/21/2022 12:29:32: [G_Auto 2] :  Store Text Value (Shared) for Lesia Tsurenko: aServing = serving:1
+4/21/2022 12:29:32: [G_Auto 2] :  Store Text Value (Shared) for Ajla Tomljanovic: bPoints = point: 0; games: 2; sets: 0 
+4/21/2022 12:29:32: [G_Auto 2] :  Store Text Value (Shared) for Ajla Tomljanovic: bServing = serving:0
+4/21/2022 12:29:32: [G_Auto 2] :  Store Value (Shared) for market: price = 1.82
+4/21/2022 12:29:32: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 19.55
+4/21/2022 12:29:32: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 29.65
+4/21/2022 12:29:32: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.76
+4/21/2022 12:29:32: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 49.2
+4/21/2022 12:29:32: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.27
+4/21/2022 12:29:32: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.81
+4/21/2022 12:29:32: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.24
+4/21/2022 12:29:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:30:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:30:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:30:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:30:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:31:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:31:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 12:31:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 12:34:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:34:19: [G_Auto 1] :  Placed closure bet with greening on Lesia Tsurenko by Backing 11.46 at 1.55
+4/21/2022 12:34:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:34:21: [G_Auto 2] :  Store Text Value (Shared) for Lesia Tsurenko: aPoints = point: 0; games: 4; sets: 0 
+4/21/2022 12:34:21: [G_Auto 2] :  Store Text Value (Shared) for Lesia Tsurenko: aServing = serving:0
+4/21/2022 12:34:21: [G_Auto 2] :  Store Text Value (Shared) for Ajla Tomljanovic: bPoints = point: 0; games: 2; sets: 0 
+4/21/2022 12:34:21: [G_Auto 2] :  Store Text Value (Shared) for Ajla Tomljanovic: bServing = serving:2
+4/21/2022 12:34:21: [G_Auto 2] :  Store Value (Shared) for market: price = 1.55
+4/21/2022 12:34:21: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 31.01
+4/21/2022 12:34:21: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 29.65
+4/21/2022 12:34:21: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.46
+4/21/2022 12:34:21: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 60.66
+4/21/2022 12:34:21: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.37
+4/21/2022 12:34:21: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.55
+4/21/2022 12:34:21: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.82
+4/21/2022 12:34:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:34:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:35:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 12:35:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 12:35:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 12:37:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:37:33: [G_Auto 1] :  € 10.00 Lay bet placed on Lesia Tsurenko at 1.8. Entirely unmatched when it initially reached the market.   Ref: 10039          ( Fill or kill bet with 15 seconds delay.   )
+4/21/2022 12:37:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:37:48: [G_Auto 1] :  € 10 unmatched bet (Ref:10039) was killed.
+4/21/2022 12:37:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:38:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:38:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:38:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:38:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:39:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:39:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:39:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:40:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:40:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 12:40:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 12:44:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:44:31: [G_Auto 1] :  € 10.26 Lay bet placed on Ajla Tomljanovic at 1.78. Fully matched at 1.77.  Ref: 10045          ( Fill or kill bet with 15 seconds delay.   )
+4/21/2022 12:44:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:44:33: [G_Auto 2] :  Store Text Value (Shared) for Lesia Tsurenko: aPoints = point: 0; games: 4; sets: 0 
+4/21/2022 12:44:33: [G_Auto 2] :  Store Text Value (Shared) for Lesia Tsurenko: aServing = serving:0
+4/21/2022 12:44:33: [G_Auto 2] :  Store Text Value (Shared) for Ajla Tomljanovic: bPoints = point: 0; games: 4; sets: 0 
+4/21/2022 12:44:33: [G_Auto 2] :  Store Text Value (Shared) for Ajla Tomljanovic: bServing = serving:2
+4/21/2022 12:44:33: [G_Auto 2] :  Store Value (Shared) for market: price = 1.77
+4/21/2022 12:44:33: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 31.01
+4/21/2022 12:44:33: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 39.91
+4/21/2022 12:44:33: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.26
+4/21/2022 12:44:33: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 70.92
+4/21/2022 12:44:33: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.37
+4/21/2022 12:44:33: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.28
+4/21/2022 12:44:33: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.78
+4/21/2022 12:44:39: [G_Auto 2] :  Store Text Value (Shared) for Lesia Tsurenko: aPoints = point: 0; games: 4; sets: 0 
+4/21/2022 12:44:39: [G_Auto 2] :  Store Text Value (Shared) for Lesia Tsurenko: aServing = serving:0
+4/21/2022 12:44:39: [G_Auto 2] :  Store Text Value (Shared) for Ajla Tomljanovic: bPoints = point: 0; games: 4; sets: 0 
+4/21/2022 12:44:39: [G_Auto 2] :  Store Text Value (Shared) for Ajla Tomljanovic: bServing = serving:2
+4/21/2022 12:44:39: [G_Auto 2] :  Store Value (Shared) for market: price = 1.77
+4/21/2022 12:44:39: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 31.01
+4/21/2022 12:44:39: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 39.91
+4/21/2022 12:44:39: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.26
+4/21/2022 12:44:39: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 70.92
+4/21/2022 12:44:39: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.37
+4/21/2022 12:44:39: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.28
+4/21/2022 12:44:39: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.78
+4/21/2022 12:44:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 12:45:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 12:46:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:47:13: [G_Auto 1] :  Placed closure bet with greening on Ajla Tomljanovic by Backing 12.70 at 1.43
+4/21/2022 12:47:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:47:15: [G_Auto 2] :  Store Text Value (Shared) for Lesia Tsurenko: aPoints = point: 0; games: 4; sets: 0 
+4/21/2022 12:47:15: [G_Auto 2] :  Store Text Value (Shared) for Lesia Tsurenko: aServing = serving:1
+4/21/2022 12:47:15: [G_Auto 2] :  Store Text Value (Shared) for Ajla Tomljanovic: bPoints = point: 0; games: 5; sets: 0 
+4/21/2022 12:47:15: [G_Auto 2] :  Store Text Value (Shared) for Ajla Tomljanovic: bServing = serving:0
+4/21/2022 12:47:15: [G_Auto 2] :  Store Value (Shared) for market: price = 1.43
+4/21/2022 12:47:15: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 43.71
+4/21/2022 12:47:15: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 39.91
+4/21/2022 12:47:15: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.7
+4/21/2022 12:47:15: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 83.62
+4/21/2022 12:47:15: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.81
+4/21/2022 12:47:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.25
+4/21/2022 12:47:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.45
+4/21/2022 12:47:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:47:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:48:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:48:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:48:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:48:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:49:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:49:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:49:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:50:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:50:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:50:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:50:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:51:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:51:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:51:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:52:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:52:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:52:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:52:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:53:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:53:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:53:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:53:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 12:54:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 12:54:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 12:57:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:57:50: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 5.1
+4/21/2022 12:57:50: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 1.01
+4/21/2022 12:57:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:58:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:58:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:58:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:59:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:59:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:59:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:59:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 12:59:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 13:00:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 13:01:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 13:01:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 13:01:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 13:01:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 13:02:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 13:03:01:  Guardian has detected that the market is suspended
