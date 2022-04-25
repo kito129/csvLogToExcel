@@ -1,0 +1,326 @@
+4/23/2022 10:46:21: [G_Auto 2] :  Store Text Value (Shared) for Fabio Fognini: info = marketName: Fognini v Rublev - Match Odds; runnerA: Fabio Fognini; runnerB: Andrey Rublev 
+4/23/2022 10:46:21: [G_Auto 2] :  Store Value (Shared) for market: aId = 2319544
+4/23/2022 10:46:21: [G_Auto 2] :  Store Value (Shared) for market: bId = 7797771
+4/23/2022 15:34:48:  Guardian has detected that the market is in-play
+4/23/2022 15:34:48:  Guardian has detected that the market is suspended
+4/23/2022 15:34:49: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 3.75; bBsp: 1.38; volume: 46430.99 
+4/23/2022 15:34:49: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 3.75; bBsp: 1.38; volume: 46430.99 
+4/23/2022 15:34:49:  Guardian has detected that the market is now unsuspended
+4/23/2022 15:35:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/23/2022 15:35:16: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/23/2022 15:35:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/23/2022 15:35:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/23/2022 15:38:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 15:38:36: [G_Auto 1] :  € 18.60 Lay bet placed on Andrey Rublev at 1.43. Fully matched at 1.42.  Ref: 10396          ( Fill or kill bet with 15 seconds delay.   )
+4/23/2022 15:38:36: [G_Auto 2] :  Store Text Value (Shared) for Fabio Fognini: aPoints = point: 0; games: 1; sets: 0 
+4/23/2022 15:38:36: [G_Auto 2] :  Store Text Value (Shared) for Fabio Fognini: aServing = serving:0
+4/23/2022 15:38:36: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: bPoints = point: 0; games: 0; sets: 0 
+4/23/2022 15:38:36: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: bServing = serving:2
+4/23/2022 15:38:36: [G_Auto 2] :  Store Value (Shared) for market: price = 1.42
+4/23/2022 15:38:36: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+4/23/2022 15:38:36: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 18.6
+4/23/2022 15:38:36: [G_Auto 2] :  Store Value (Shared) for market: stake = 18.6
+4/23/2022 15:38:36: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 18.6
+4/23/2022 15:38:36: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.13
+4/23/2022 15:38:36: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.45
+4/23/2022 15:38:36: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.41
+4/23/2022 15:38:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 15:38:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 15:39:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 15:39:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 15:39:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 15:39:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/23/2022 15:40:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/23/2022 15:41:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 15:41:40: [G_Auto 1] :  Placed closure bet with greening on Andrey Rublev by Backing 19.28 at 1.37
+4/23/2022 15:41:40: [G_Auto 2] :  Store Text Value (Shared) for Fabio Fognini: aPoints = point: 0; games: 1; sets: 0 
+4/23/2022 15:41:40: [G_Auto 2] :  Store Text Value (Shared) for Fabio Fognini: aServing = serving:1
+4/23/2022 15:41:40: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: bPoints = point: 0; games: 1; sets: 0 
+4/23/2022 15:41:40: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: bServing = serving:0
+4/23/2022 15:41:40: [G_Auto 2] :  Store Value (Shared) for market: price = 1.37
+4/23/2022 15:41:40: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 19.28
+4/23/2022 15:41:40: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 18.6
+4/23/2022 15:41:40: [G_Auto 2] :  Store Value (Shared) for market: stake = 19.28
+4/23/2022 15:41:40: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 37.88
+4/23/2022 15:41:40: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.68
+4/23/2022 15:41:40: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.75
+4/23/2022 15:41:40: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.37
+4/23/2022 15:41:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 15:41:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 15:42:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/23/2022 15:42:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/23/2022 15:42:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/23/2022 15:44:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 15:44:30: [G_Auto 1] :  € 34.78 Lay bet placed on Andrey Rublev at 1.23. Fully matched at 1.22.  Ref: 10400          ( Fill or kill bet with 15 seconds delay.   )
+4/23/2022 15:44:31: [G_Auto 2] :  Store Text Value (Shared) for Fabio Fognini: aPoints = point: 0; games: 1; sets: 0 
+4/23/2022 15:44:31: [G_Auto 2] :  Store Text Value (Shared) for Fabio Fognini: aServing = serving:0
+4/23/2022 15:44:31: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: bPoints = point: 0; games: 2; sets: 0 
+4/23/2022 15:44:31: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: bServing = serving:2
+4/23/2022 15:44:31: [G_Auto 2] :  Store Value (Shared) for market: price = 1.22
+4/23/2022 15:44:31: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 19.28
+4/23/2022 15:44:31: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 53.38
+4/23/2022 15:44:31: [G_Auto 2] :  Store Value (Shared) for market: stake = 34.78
+4/23/2022 15:44:31: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 72.66
+4/23/2022 15:44:31: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.97
+4/23/2022 15:44:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 5.7
+4/23/2022 15:44:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.22
+4/23/2022 15:44:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 15:44:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 15:45:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 15:45:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 15:45:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 15:45:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 15:46:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 15:46:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 15:46:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 15:46:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 15:47:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 15:47:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/23/2022 15:47:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/23/2022 15:47:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/23/2022 15:48:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 15:48:56: [G_Auto 1] :  Placed closure bet with greening on Andrey Rublev by Backing 36.26 at 1.17
+4/23/2022 15:48:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 15:49:01: [G_Auto 2] :  Store Text Value (Shared) for Fabio Fognini: aPoints = point: 0; games: 1; sets: 0 
+4/23/2022 15:49:01: [G_Auto 2] :  Store Text Value (Shared) for Fabio Fognini: aServing = serving:1
+4/23/2022 15:49:01: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: bPoints = point: 0; games: 3; sets: 0 
+4/23/2022 15:49:01: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: bServing = serving:0
+4/23/2022 15:49:01: [G_Auto 2] :  Store Value (Shared) for market: price = 1.17
+4/23/2022 15:49:01: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 55.54
+4/23/2022 15:49:01: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 53.38
+4/23/2022 15:49:01: [G_Auto 2] :  Store Value (Shared) for market: stake = 36.26
+4/23/2022 15:49:01: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 108.92
+4/23/2022 15:49:01: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.16
+4/23/2022 15:49:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 6.8
+4/23/2022 15:49:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.17
+4/23/2022 15:49:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 15:49:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/23/2022 15:49:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/23/2022 15:49:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/23/2022 15:52:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 15:52:13: [G_Auto 1] :  € 61.54 Lay bet placed on Andrey Rublev at 1.13. Fully matched at 1.12.  Ref: 10402          ( Fill or kill bet with 15 seconds delay.   )
+4/23/2022 15:52:14: [G_Auto 2] :  Store Text Value (Shared) for Fabio Fognini: aPoints = point: 0; games: 1; sets: 0 
+4/23/2022 15:52:14: [G_Auto 2] :  Store Text Value (Shared) for Fabio Fognini: aServing = serving:0
+4/23/2022 15:52:14: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: bPoints = point: 0; games: 4; sets: 0 
+4/23/2022 15:52:14: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: bServing = serving:2
+4/23/2022 15:52:14: [G_Auto 2] :  Store Value (Shared) for market: price = 1.12
+4/23/2022 15:52:14: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 55.54
+4/23/2022 15:52:14: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 114.92
+4/23/2022 15:52:14: [G_Auto 2] :  Store Value (Shared) for market: stake = 61.54
+4/23/2022 15:52:14: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 170.46
+4/23/2022 15:52:14: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.72
+4/23/2022 15:52:14: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 10
+4/23/2022 15:52:14: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.12
+4/23/2022 15:52:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 15:52:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 15:52:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 15:53:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 15:53:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 15:53:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 15:53:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 15:54:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 15:54:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/23/2022 15:54:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/23/2022 15:55:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 15:56:05: [G_Auto 1] :  Placed closure bet with greening on Andrey Rublev by Backing 63.24 at 1.09
+4/23/2022 15:56:05: [G_Auto 2] :  Store Text Value (Shared) for Fabio Fognini: aPoints = point: 0; games: 1; sets: 0 
+4/23/2022 15:56:05: [G_Auto 2] :  Store Text Value (Shared) for Fabio Fognini: aServing = serving:1
+4/23/2022 15:56:05: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: bPoints = point: 0; games: 5; sets: 0 
+4/23/2022 15:56:05: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: bServing = serving:0
+4/23/2022 15:56:05: [G_Auto 2] :  Store Value (Shared) for market: price = 1.09
+4/23/2022 15:56:05: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 118.78
+4/23/2022 15:56:05: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 114.92
+4/23/2022 15:56:05: [G_Auto 2] :  Store Value (Shared) for market: stake = 63.24
+4/23/2022 15:56:05: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 233.7
+4/23/2022 15:56:05: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.86
+4/23/2022 15:56:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 11
+4/23/2022 15:56:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.1
+4/23/2022 15:56:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 15:56:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/23/2022 15:56:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/23/2022 15:58:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 15:58:49: [G_Auto 1] :  € 66.67 Lay bet placed on Andrey Rublev at 1.12. Fully matched at 1.11.  Ref: 10406          ( Fill or kill bet with 15 seconds delay.   )
+4/23/2022 15:58:49: [G_Auto 2] :  Store Text Value (Shared) for Fabio Fognini: aPoints = point: 0; games: 2; sets: 0 
+4/23/2022 15:58:49: [G_Auto 2] :  Store Text Value (Shared) for Fabio Fognini: aServing = serving:0
+4/23/2022 15:58:49: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: bPoints = point: 0; games: 5; sets: 0 
+4/23/2022 15:58:49: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: bServing = serving:2
+4/23/2022 15:58:49: [G_Auto 2] :  Store Value (Shared) for market: price = 1.11
+4/23/2022 15:58:49: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 118.78
+4/23/2022 15:58:49: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 181.59
+4/23/2022 15:58:49: [G_Auto 2] :  Store Value (Shared) for market: stake = 66.67
+4/23/2022 15:58:49: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 300.37
+4/23/2022 15:58:49: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.47
+4/23/2022 15:58:49: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 10
+4/23/2022 15:58:49: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.11
+4/23/2022 15:58:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 15:58:55: [G_Auto 2] :  Store Text Value (Shared) for Fabio Fognini: aPoints = point: 0; games: 2; sets: 0 
+4/23/2022 15:58:55: [G_Auto 2] :  Store Text Value (Shared) for Fabio Fognini: aServing = serving:0
+4/23/2022 15:58:55: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: bPoints = point: 0; games: 5; sets: 0 
+4/23/2022 15:58:55: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: bServing = serving:2
+4/23/2022 15:58:55: [G_Auto 2] :  Store Value (Shared) for market: price = 1.11
+4/23/2022 15:58:55: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 118.78
+4/23/2022 15:58:55: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 181.59
+4/23/2022 15:58:55: [G_Auto 2] :  Store Value (Shared) for market: stake = 66.67
+4/23/2022 15:58:55: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 300.37
+4/23/2022 15:58:55: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.47
+4/23/2022 15:58:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 10
+4/23/2022 15:58:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.11
+4/23/2022 15:59:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 15:59:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 15:59:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 15:59:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 16:00:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 16:00:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 16:00:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 16:00:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/23/2022 16:01:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/23/2022 16:01:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/23/2022 16:02:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 16:02:40: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 11.5
+4/23/2022 16:02:40: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 1.1
+4/23/2022 16:02:45: [G_Auto 1] :  Placed closure bet with greening on Andrey Rublev by Backing 67.89 at 1.09
+4/23/2022 16:02:46: [G_Auto 2] :  Store Text Value (Shared) for Fabio Fognini: aPoints = point: 0; games: 0; sets: 0 
+4/23/2022 16:02:46: [G_Auto 2] :  Store Text Value (Shared) for Fabio Fognini: aServing = serving:1
+4/23/2022 16:02:46: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: bPoints = point: 0; games: 0; sets: 1 
+4/23/2022 16:02:46: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: bServing = serving:0
+4/23/2022 16:02:46: [G_Auto 2] :  Store Value (Shared) for market: price = 1.09
+4/23/2022 16:02:46: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 186.67
+4/23/2022 16:02:46: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 181.59
+4/23/2022 16:02:46: [G_Auto 2] :  Store Value (Shared) for market: stake = 67.89
+4/23/2022 16:02:46: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 368.26
+4/23/2022 16:02:46: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.08
+4/23/2022 16:02:46: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 11.5
+4/23/2022 16:02:46: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.09
+4/23/2022 16:02:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 16:03:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 16:03:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 16:03:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 16:03:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 16:04:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 16:04:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 16:04:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 16:04:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 16:05:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/23/2022 16:05:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/23/2022 16:06:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 16:06:56: [G_Auto 1] :  € 53.33 Lay bet placed on Andrey Rublev at 1.15. Fully matched at 1.14.  Ref: 10412          ( Fill or kill bet with 15 seconds delay.   )
+4/23/2022 16:06:56: [G_Auto 2] :  Store Text Value (Shared) for Fabio Fognini: aPoints = point: 0; games: 1; sets: 0 
+4/23/2022 16:06:56: [G_Auto 2] :  Store Text Value (Shared) for Fabio Fognini: aServing = serving:0
+4/23/2022 16:06:56: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: bPoints = point: 0; games: 0; sets: 1 
+4/23/2022 16:06:56: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: bServing = serving:2
+4/23/2022 16:06:56: [G_Auto 2] :  Store Value (Shared) for market: price = 1.14
+4/23/2022 16:06:56: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 186.67
+4/23/2022 16:06:56: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 234.92
+4/23/2022 16:06:56: [G_Auto 2] :  Store Value (Shared) for market: stake = 53.33
+4/23/2022 16:06:56: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 421.59
+4/23/2022 16:06:56: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.55
+4/23/2022 16:06:56: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 8.4
+4/23/2022 16:06:56: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.13
+4/23/2022 16:06:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 16:07:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 16:07:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 16:07:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/23/2022 16:07:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/23/2022 16:09:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 16:09:25: [G_Auto 1] :  Placed closure bet with greening on Andrey Rublev by Backing 54.77 at 1.11
+4/23/2022 16:09:25: [G_Auto 2] :  Store Text Value (Shared) for Fabio Fognini: aPoints = point: 0; games: 1; sets: 0 
+4/23/2022 16:09:25: [G_Auto 2] :  Store Text Value (Shared) for Fabio Fognini: aServing = serving:1
+4/23/2022 16:09:25: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: bPoints = point: 0; games: 1; sets: 1 
+4/23/2022 16:09:25: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: bServing = serving:0
+4/23/2022 16:09:25: [G_Auto 2] :  Store Value (Shared) for market: price = 1.11
+4/23/2022 16:09:25: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 241.44
+4/23/2022 16:09:25: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 234.92
+4/23/2022 16:09:25: [G_Auto 2] :  Store Value (Shared) for market: stake = 54.77
+4/23/2022 16:09:25: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 476.36
+4/23/2022 16:09:25: [G_Auto 2] :  Store Value (Shared) for market: pl = -6.52
+4/23/2022 16:09:25: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 9.6
+4/23/2022 16:09:25: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.12
+4/23/2022 16:09:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 16:09:30: [G_Auto 2] :  Store Text Value (Shared) for Fabio Fognini: aPoints = point: 0; games: 1; sets: 0 
+4/23/2022 16:09:30: [G_Auto 2] :  Store Text Value (Shared) for Fabio Fognini: aServing = serving:1
+4/23/2022 16:09:30: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: bPoints = point: 0; games: 1; sets: 1 
+4/23/2022 16:09:30: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: bServing = serving:0
+4/23/2022 16:09:30: [G_Auto 2] :  Store Value (Shared) for market: price = 1.11
+4/23/2022 16:09:30: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 241.44
+4/23/2022 16:09:30: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 234.92
+4/23/2022 16:09:30: [G_Auto 2] :  Store Value (Shared) for market: stake = 54.77
+4/23/2022 16:09:30: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 476.36
+4/23/2022 16:09:30: [G_Auto 2] :  Store Value (Shared) for market: pl = -6.52
+4/23/2022 16:09:30: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 9.6
+4/23/2022 16:09:30: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.11
+4/23/2022 16:09:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 16:09:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/23/2022 16:10:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/23/2022 16:10:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/23/2022 16:10:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/23/2022 16:13:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 16:13:44: [G_Auto 1] :  € 50.00 Lay bet placed on Andrey Rublev at 1.16. Fully matched at 1.15.  Ref: 10417          ( Fill or kill bet with 15 seconds delay.   )
+4/23/2022 16:13:45: [G_Auto 2] :  Store Text Value (Shared) for Fabio Fognini: aPoints = point: 0; games: 2; sets: 0 
+4/23/2022 16:13:45: [G_Auto 2] :  Store Text Value (Shared) for Fabio Fognini: aServing = serving:0
+4/23/2022 16:13:45: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: bPoints = point: 0; games: 1; sets: 1 
+4/23/2022 16:13:45: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: bServing = serving:2
+4/23/2022 16:13:45: [G_Auto 2] :  Store Value (Shared) for market: price = 1.15
+4/23/2022 16:13:45: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 241.44
+4/23/2022 16:13:45: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 284.92
+4/23/2022 16:13:45: [G_Auto 2] :  Store Value (Shared) for market: stake = 50
+4/23/2022 16:13:45: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 526.36
+4/23/2022 16:13:45: [G_Auto 2] :  Store Value (Shared) for market: pl = -6.96
+4/23/2022 16:13:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 8
+4/23/2022 16:13:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.14
+4/23/2022 16:13:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 16:14:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 16:14:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 16:14:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 16:14:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 16:15:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 16:15:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 16:15:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/23/2022 16:15:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/23/2022 16:16:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 16:17:02: [G_Auto 1] :  Placed closure bet with greening on Andrey Rublev by Backing 52.28 at 1.1
+4/23/2022 16:17:03: [G_Auto 2] :  Store Text Value (Shared) for Fabio Fognini: aPoints = point: 0; games: 2; sets: 0 
+4/23/2022 16:17:03: [G_Auto 2] :  Store Text Value (Shared) for Fabio Fognini: aServing = serving:1
+4/23/2022 16:17:03: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: bPoints = point: 0; games: 2; sets: 1 
+4/23/2022 16:17:03: [G_Auto 2] :  Store Text Value (Shared) for Andrey Rublev: bServing = serving:0
+4/23/2022 16:17:03: [G_Auto 2] :  Store Value (Shared) for market: price = 1.1
+4/23/2022 16:17:03: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 293.72
+4/23/2022 16:17:03: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 284.92
+4/23/2022 16:17:03: [G_Auto 2] :  Store Value (Shared) for market: stake = 52.28
+4/23/2022 16:17:03: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 578.64
+4/23/2022 16:17:03: [G_Auto 2] :  Store Value (Shared) for market: pl = -8.8
+4/23/2022 16:17:03: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 10
+4/23/2022 16:17:03: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.11
+4/23/2022 16:17:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 16:17:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 16:17:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/23/2022 16:17:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/23/2022 16:20:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 16:20:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 16:20:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 16:20:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 16:21:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 16:21:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 16:21:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 16:21:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 16:22:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 16:22:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/23/2022 16:22:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/23/2022 16:22:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/23/2022 16:23:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 16:24:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 16:24:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 16:24:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 16:24:55: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/23/2022 16:25:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/23/2022 16:27:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 16:27:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 16:28:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 16:28:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 16:28:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 16:28:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 16:29:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 16:29:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 16:29:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/23/2022 16:29:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/23/2022 16:37:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/23/2022 16:37:31:  Guardian has detected that the market is suspended

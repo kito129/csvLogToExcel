@@ -1,0 +1,535 @@
+4/21/2022 10:57:04: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: info = marketName: Khachanov v T Monteiro - Match Odds; runnerA: Karen Khachanov; runnerB: Thiago Monteiro 
+4/21/2022 10:57:04: [G_Auto 2] :  Store Value (Shared) for market: aId = 7659623
+4/21/2022 10:57:04: [G_Auto 2] :  Store Value (Shared) for market: bId = 8326656
+4/21/2022 18:49:28:  Guardian has detected that the market is in-play
+4/21/2022 18:49:28:  Guardian has detected that the market is suspended
+4/21/2022 18:49:31: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.71; bBsp: 2.38; volume: 36768.13 
+4/21/2022 18:49:31: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.71; bBsp: 2.38; volume: 36768.13 
+4/21/2022 18:49:31:  Guardian has detected that the market is now unsuspended
+4/21/2022 18:49:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 18:49:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 18:50:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 18:50:16: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 18:50:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 18:52:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 18:52:53: [G_Auto 1] :  € 10.81 Lay bet placed on Karen Khachanov at 1.74. Fully matched at 1.73.  Ref: 10245          ( Fill or kill bet with 15 seconds delay.   )
+4/21/2022 18:52:55: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aPoints = point: 0; games: 0; sets: 0 
+4/21/2022 18:52:55: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aServing = serving:1
+4/21/2022 18:52:55: [G_Auto 2] :  Store Text Value (Shared) for Thiago Monteiro: bPoints = point: 0; games: 1; sets: 0 
+4/21/2022 18:52:55: [G_Auto 2] :  Store Text Value (Shared) for Thiago Monteiro: bServing = serving:0
+4/21/2022 18:52:55: [G_Auto 2] :  Store Value (Shared) for market: price = 1.73
+4/21/2022 18:52:55: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+4/21/2022 18:52:55: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 10.81
+4/21/2022 18:52:55: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.81
+4/21/2022 18:52:55: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 10.81
+4/21/2022 18:52:55: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.06
+4/21/2022 18:52:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.73
+4/21/2022 18:52:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.36
+4/21/2022 18:52:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 18:53:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 18:53:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 18:53:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 18:54:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 18:55:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 18:55:30: [G_Auto 1] :  Placed closure bet with greening on Karen Khachanov by Backing 11.69 at 1.6
+4/21/2022 18:55:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 18:55:34: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aPoints = point: 0; games: 1; sets: 0 
+4/21/2022 18:55:34: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aServing = serving:0
+4/21/2022 18:55:34: [G_Auto 2] :  Store Text Value (Shared) for Thiago Monteiro: bPoints = point: 0; games: 1; sets: 0 
+4/21/2022 18:55:34: [G_Auto 2] :  Store Text Value (Shared) for Thiago Monteiro: bServing = serving:2
+4/21/2022 18:55:34: [G_Auto 2] :  Store Value (Shared) for market: price = 1.6
+4/21/2022 18:55:34: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 11.69
+4/21/2022 18:55:34: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 10.81
+4/21/2022 18:55:34: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.69
+4/21/2022 18:55:34: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 22.5
+4/21/2022 18:55:34: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.88
+4/21/2022 18:55:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.61
+4/21/2022 18:55:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.62
+4/21/2022 18:55:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 18:56:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 18:56:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 18:56:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 18:59:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 18:59:18: [G_Auto 1] :  € 11.43 Lay bet placed on Karen Khachanov at 1.7. Fully matched at 1.7.  Ref: 10247          ( Fill or kill bet with 15 seconds delay.   )
+4/21/2022 18:59:20: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aPoints = point: 0; games: 1; sets: 0 
+4/21/2022 18:59:20: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aServing = serving:1
+4/21/2022 18:59:20: [G_Auto 2] :  Store Text Value (Shared) for Thiago Monteiro: bPoints = point: 0; games: 2; sets: 0 
+4/21/2022 18:59:20: [G_Auto 2] :  Store Text Value (Shared) for Thiago Monteiro: bServing = serving:0
+4/21/2022 18:59:20: [G_Auto 2] :  Store Value (Shared) for market: price = 1.7
+4/21/2022 18:59:20: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 11.69
+4/21/2022 18:59:20: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 22.24
+4/21/2022 18:59:20: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.43
+4/21/2022 18:59:20: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 33.93
+4/21/2022 18:59:20: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.95
+4/21/2022 18:59:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.69
+4/21/2022 18:59:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.46
+4/21/2022 18:59:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 18:59:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 18:59:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 19:00:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 19:00:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 19:00:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 19:01:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 19:01:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 19:01:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 19:01:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 19:03:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 19:03:44: [G_Auto 1] :  Placed closure bet with greening on Karen Khachanov by Backing 12.22 at 1.59
+4/21/2022 19:03:46: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aPoints = point: 0; games: 2; sets: 0 
+4/21/2022 19:03:46: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aServing = serving:0
+4/21/2022 19:03:46: [G_Auto 2] :  Store Text Value (Shared) for Thiago Monteiro: bPoints = point: 0; games: 2; sets: 0 
+4/21/2022 19:03:46: [G_Auto 2] :  Store Text Value (Shared) for Thiago Monteiro: bServing = serving:2
+4/21/2022 19:03:46: [G_Auto 2] :  Store Value (Shared) for market: price = 1.59
+4/21/2022 19:03:46: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 23.91
+4/21/2022 19:03:46: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 22.24
+4/21/2022 19:03:46: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.22
+4/21/2022 19:03:46: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 46.15
+4/21/2022 19:03:46: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.67
+4/21/2022 19:03:46: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.6
+4/21/2022 19:03:46: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.66
+4/21/2022 19:03:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 19:03:51: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aPoints = point: 0; games: 2; sets: 0 
+4/21/2022 19:03:51: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aServing = serving:0
+4/21/2022 19:03:51: [G_Auto 2] :  Store Text Value (Shared) for Thiago Monteiro: bPoints = point: 0; games: 2; sets: 0 
+4/21/2022 19:03:51: [G_Auto 2] :  Store Text Value (Shared) for Thiago Monteiro: bServing = serving:2
+4/21/2022 19:03:51: [G_Auto 2] :  Store Value (Shared) for market: price = 1.59
+4/21/2022 19:03:51: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 23.91
+4/21/2022 19:03:51: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 22.24
+4/21/2022 19:03:51: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.22
+4/21/2022 19:03:51: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 46.15
+4/21/2022 19:03:51: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.67
+4/21/2022 19:03:51: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.6
+4/21/2022 19:03:51: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.68
+4/21/2022 19:04:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 19:04:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 19:04:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 19:06:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 19:06:39: [G_Auto 1] :  € 10.81 Lay bet placed on Karen Khachanov at 1.74. Fully matched at 1.74.  Ref: 10249          ( Fill or kill bet with 15 seconds delay.   )
+4/21/2022 19:06:41: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aPoints = point: 0; games: 2; sets: 0 
+4/21/2022 19:06:41: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aServing = serving:1
+4/21/2022 19:06:41: [G_Auto 2] :  Store Text Value (Shared) for Thiago Monteiro: bPoints = point: 0; games: 3; sets: 0 
+4/21/2022 19:06:41: [G_Auto 2] :  Store Text Value (Shared) for Thiago Monteiro: bServing = serving:0
+4/21/2022 19:06:41: [G_Auto 2] :  Store Value (Shared) for market: price = 1.74
+4/21/2022 19:06:41: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 23.91
+4/21/2022 19:06:41: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 33.05
+4/21/2022 19:06:41: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.81
+4/21/2022 19:06:41: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 56.96
+4/21/2022 19:06:41: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.79
+4/21/2022 19:06:41: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.72
+4/21/2022 19:06:41: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.4
+4/21/2022 19:06:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 19:06:48: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aPoints = point: 0; games: 2; sets: 0 
+4/21/2022 19:06:48: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aServing = serving:1
+4/21/2022 19:06:48: [G_Auto 2] :  Store Text Value (Shared) for Thiago Monteiro: bPoints = point: 0; games: 3; sets: 0 
+4/21/2022 19:06:48: [G_Auto 2] :  Store Text Value (Shared) for Thiago Monteiro: bServing = serving:0
+4/21/2022 19:06:48: [G_Auto 2] :  Store Value (Shared) for market: price = 1.74
+4/21/2022 19:06:48: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 23.91
+4/21/2022 19:06:48: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 33.05
+4/21/2022 19:06:48: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.81
+4/21/2022 19:06:48: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 56.96
+4/21/2022 19:06:48: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.79
+4/21/2022 19:06:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.72
+4/21/2022 19:06:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.34
+4/21/2022 19:07:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 19:07:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 19:07:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 19:07:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 19:08:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 19:08:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 19:08:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 19:08:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 19:11:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 19:11:35: [G_Auto 1] :  Placed closure bet with greening on Karen Khachanov by Backing 11.47 at 1.64
+4/21/2022 19:11:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 19:11:39: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aPoints = point: 0; games: 3; sets: 0 
+4/21/2022 19:11:39: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aServing = serving:0
+4/21/2022 19:11:39: [G_Auto 2] :  Store Text Value (Shared) for Thiago Monteiro: bPoints = point: 0; games: 3; sets: 0 
+4/21/2022 19:11:39: [G_Auto 2] :  Store Text Value (Shared) for Thiago Monteiro: bServing = serving:2
+4/21/2022 19:11:39: [G_Auto 2] :  Store Value (Shared) for market: price = 1.64
+4/21/2022 19:11:39: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 35.38
+4/21/2022 19:11:39: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 33.05
+4/21/2022 19:11:39: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.47
+4/21/2022 19:11:39: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 68.43
+4/21/2022 19:11:39: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.33
+4/21/2022 19:11:39: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.65
+4/21/2022 19:11:39: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.56
+4/21/2022 19:11:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 19:12:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 19:12:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 19:12:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 19:13:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 19:13:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 19:16:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 19:16:29: [G_Auto 1] :  € 10.00 Lay bet placed on Karen Khachanov at 1.8. Fully matched at 1.8.  Ref: 10251          ( Fill or kill bet with 15 seconds delay.   )
+4/21/2022 19:16:31: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aPoints = point: 0; games: 3; sets: 0 
+4/21/2022 19:16:31: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aServing = serving:1
+4/21/2022 19:16:31: [G_Auto 2] :  Store Text Value (Shared) for Thiago Monteiro: bPoints = point: 0; games: 4; sets: 0 
+4/21/2022 19:16:31: [G_Auto 2] :  Store Text Value (Shared) for Thiago Monteiro: bServing = serving:0
+4/21/2022 19:16:31: [G_Auto 2] :  Store Value (Shared) for market: price = 1.8
+4/21/2022 19:16:31: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 35.38
+4/21/2022 19:16:31: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 43.05
+4/21/2022 19:16:31: [G_Auto 2] :  Store Value (Shared) for market: stake = 10
+4/21/2022 19:16:31: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 78.43
+4/21/2022 19:16:31: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.44
+4/21/2022 19:16:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.78
+4/21/2022 19:16:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.28
+4/21/2022 19:16:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 19:16:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 19:17:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 19:17:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 19:17:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 19:17:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 19:18:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 19:18:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 19:18:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 19:21:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 19:21:41: [G_Auto 1] :  Placed closure bet with greening on Karen Khachanov by Backing 10.71 at 1.68
+4/21/2022 19:21:43: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aPoints = point: 0; games: 4; sets: 0 
+4/21/2022 19:21:43: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aServing = serving:0
+4/21/2022 19:21:43: [G_Auto 2] :  Store Text Value (Shared) for Thiago Monteiro: bPoints = point: 0; games: 4; sets: 0 
+4/21/2022 19:21:43: [G_Auto 2] :  Store Text Value (Shared) for Thiago Monteiro: bServing = serving:2
+4/21/2022 19:21:43: [G_Auto 2] :  Store Value (Shared) for market: price = 1.68
+4/21/2022 19:21:43: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 46.09
+4/21/2022 19:21:43: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 43.05
+4/21/2022 19:21:43: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.71
+4/21/2022 19:21:43: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 89.14
+4/21/2022 19:21:43: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.04
+4/21/2022 19:21:43: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.68
+4/21/2022 19:21:43: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.44
+4/21/2022 19:21:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 19:22:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 19:22:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 19:22:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 19:22:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 19:22:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 19:23:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 19:23:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 19:26:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 19:27:04: [G_Auto 1] :  € 9.41 Lay bet placed on Karen Khachanov at 1.85. Fully matched at 1.83.  Ref: 10254          ( Fill or kill bet with 15 seconds delay.   )
+4/21/2022 19:27:06: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aPoints = point: 0; games: 4; sets: 0 
+4/21/2022 19:27:06: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aServing = serving:1
+4/21/2022 19:27:06: [G_Auto 2] :  Store Text Value (Shared) for Thiago Monteiro: bPoints = point: 0; games: 5; sets: 0 
+4/21/2022 19:27:06: [G_Auto 2] :  Store Text Value (Shared) for Thiago Monteiro: bServing = serving:0
+4/21/2022 19:27:06: [G_Auto 2] :  Store Value (Shared) for market: price = 1.83
+4/21/2022 19:27:06: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 46.09
+4/21/2022 19:27:06: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 52.46
+4/21/2022 19:27:06: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.41
+4/21/2022 19:27:06: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 98.55
+4/21/2022 19:27:06: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.04
+4/21/2022 19:27:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.84
+4/21/2022 19:27:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.16
+4/21/2022 19:27:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 19:27:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 19:27:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 19:28:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 19:28:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 19:28:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 19:28:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 19:29:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 19:29:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 19:29:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 19:31:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 19:31:53: [G_Auto 1] :  Placed closure bet with greening on Karen Khachanov by Backing 10.50 at 1.64
+4/21/2022 19:31:55: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aPoints = point: 0; games: 5; sets: 0 
+4/21/2022 19:31:55: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aServing = serving:0
+4/21/2022 19:31:55: [G_Auto 2] :  Store Text Value (Shared) for Thiago Monteiro: bPoints = point: 0; games: 5; sets: 0 
+4/21/2022 19:31:55: [G_Auto 2] :  Store Text Value (Shared) for Thiago Monteiro: bServing = serving:2
+4/21/2022 19:31:55: [G_Auto 2] :  Store Value (Shared) for market: price = 1.64
+4/21/2022 19:31:55: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 56.59
+4/21/2022 19:31:55: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 52.46
+4/21/2022 19:31:55: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.5
+4/21/2022 19:31:55: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 109.05
+4/21/2022 19:31:55: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.13
+4/21/2022 19:31:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.66
+4/21/2022 19:31:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.56
+4/21/2022 19:31:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 19:32:02: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aPoints = point: 0; games: 5; sets: 0 
+4/21/2022 19:32:02: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aServing = serving:0
+4/21/2022 19:32:02: [G_Auto 2] :  Store Text Value (Shared) for Thiago Monteiro: bPoints = point: 0; games: 5; sets: 0 
+4/21/2022 19:32:02: [G_Auto 2] :  Store Text Value (Shared) for Thiago Monteiro: bServing = serving:2
+4/21/2022 19:32:02: [G_Auto 2] :  Store Value (Shared) for market: price = 1.64
+4/21/2022 19:32:02: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 56.59
+4/21/2022 19:32:02: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 52.46
+4/21/2022 19:32:02: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.5
+4/21/2022 19:32:02: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 109.05
+4/21/2022 19:32:02: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.13
+4/21/2022 19:32:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.67
+4/21/2022 19:32:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.46
+4/21/2022 19:32:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 19:32:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 19:32:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 19:33:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 19:33:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 19:36:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 19:36:53: [G_Auto 1] :  € 28.57 Lay bet placed on Karen Khachanov at 1.28. Fully matched at 1.27.  Ref: 10259          ( Fill or kill bet with 15 seconds delay.   )
+4/21/2022 19:36:55: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aPoints = point: 0; games: 6; sets: 0 
+4/21/2022 19:36:55: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aServing = serving:1
+4/21/2022 19:36:55: [G_Auto 2] :  Store Text Value (Shared) for Thiago Monteiro: bPoints = point: 0; games: 5; sets: 0 
+4/21/2022 19:36:55: [G_Auto 2] :  Store Text Value (Shared) for Thiago Monteiro: bServing = serving:0
+4/21/2022 19:36:55: [G_Auto 2] :  Store Value (Shared) for market: price = 1.27
+4/21/2022 19:36:55: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 56.59
+4/21/2022 19:36:55: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 81.03
+4/21/2022 19:36:55: [G_Auto 2] :  Store Value (Shared) for market: stake = 28.57
+4/21/2022 19:36:55: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 137.62
+4/21/2022 19:36:55: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.36
+4/21/2022 19:36:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.27
+4/21/2022 19:36:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.7
+4/21/2022 19:36:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 19:37:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 19:37:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 19:37:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 19:38:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 19:38:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 19:38:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 19:38:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 19:39:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 19:44:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 19:45:01: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 1.23
+4/21/2022 19:45:01: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 5.5
+4/21/2022 19:45:06: [G_Auto 1] :  Placed closure bet with greening on Karen Khachanov by Backing 29.50 at 1.23
+4/21/2022 19:45:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 19:45:08: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aPoints = point: 0; games: 0; sets: 1 
+4/21/2022 19:45:08: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aServing = serving:0
+4/21/2022 19:45:08: [G_Auto 2] :  Store Text Value (Shared) for Thiago Monteiro: bPoints = point: 0; games: 0; sets: 0 
+4/21/2022 19:45:08: [G_Auto 2] :  Store Text Value (Shared) for Thiago Monteiro: bServing = serving:2
+4/21/2022 19:45:08: [G_Auto 2] :  Store Value (Shared) for market: price = 1.24
+4/21/2022 19:45:08: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 86.09
+4/21/2022 19:45:08: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 81.03
+4/21/2022 19:45:08: [G_Auto 2] :  Store Value (Shared) for market: stake = 29.5
+4/21/2022 19:45:08: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 167.12
+4/21/2022 19:45:08: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.83
+4/21/2022 19:45:08: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.25
+4/21/2022 19:45:08: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.2
+4/21/2022 19:45:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 19:45:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 19:45:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 19:46:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 19:46:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 19:46:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 19:46:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 19:47:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 19:47:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 19:47:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 19:47:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 19:48:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 19:48:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 19:48:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 19:49:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 19:56:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 19:56:42: [G_Auto 1] :  € 29.63 Lay bet placed on Karen Khachanov at 1.27. Fully matched at 1.26.  Ref: 10261          ( Fill or kill bet with 15 seconds delay.   )
+4/21/2022 19:56:44: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aPoints = point: 0; games: 0; sets: 1 
+4/21/2022 19:56:44: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aServing = serving:1
+4/21/2022 19:56:44: [G_Auto 2] :  Store Text Value (Shared) for Thiago Monteiro: bPoints = point: 0; games: 1; sets: 0 
+4/21/2022 19:56:44: [G_Auto 2] :  Store Text Value (Shared) for Thiago Monteiro: bServing = serving:0
+4/21/2022 19:56:44: [G_Auto 2] :  Store Value (Shared) for market: price = 1.26
+4/21/2022 19:56:44: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 86.09
+4/21/2022 19:56:44: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 110.66
+4/21/2022 19:56:44: [G_Auto 2] :  Store Value (Shared) for market: stake = 29.63
+4/21/2022 19:56:44: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 196.75
+4/21/2022 19:56:44: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.06
+4/21/2022 19:56:44: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.26
+4/21/2022 19:56:44: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5
+4/21/2022 19:56:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 19:57:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 19:57:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 19:57:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 19:57:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 19:58:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 19:58:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 19:59:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 19:59:37: [G_Auto 1] :  Placed closure bet with greening on Karen Khachanov by Backing 30.87 at 1.2
+4/21/2022 19:59:39: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aPoints = point: 0; games: 1; sets: 1 
+4/21/2022 19:59:39: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aServing = serving:0
+4/21/2022 19:59:39: [G_Auto 2] :  Store Text Value (Shared) for Thiago Monteiro: bPoints = point: 0; games: 1; sets: 0 
+4/21/2022 19:59:39: [G_Auto 2] :  Store Text Value (Shared) for Thiago Monteiro: bServing = serving:2
+4/21/2022 19:59:39: [G_Auto 2] :  Store Value (Shared) for market: price = 1.2
+4/21/2022 19:59:39: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 116.96
+4/21/2022 19:59:39: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 110.66
+4/21/2022 19:59:39: [G_Auto 2] :  Store Value (Shared) for market: stake = 30.87
+4/21/2022 19:59:39: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 227.62
+4/21/2022 19:59:39: [G_Auto 2] :  Store Value (Shared) for market: pl = -6.3
+4/21/2022 19:59:39: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.21
+4/21/2022 19:59:39: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.8
+4/21/2022 19:59:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 19:59:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 20:00:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 20:00:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 20:02:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 20:02:32: [G_Auto 1] :  € 29.63 Lay bet placed on Karen Khachanov at 1.27. Fully matched at 1.26.  Ref: 10264          ( Fill or kill bet with 15 seconds delay.   )
+4/21/2022 20:02:34: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aPoints = point: 0; games: 1; sets: 1 
+4/21/2022 20:02:34: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aServing = serving:1
+4/21/2022 20:02:34: [G_Auto 2] :  Store Text Value (Shared) for Thiago Monteiro: bPoints = point: 0; games: 2; sets: 0 
+4/21/2022 20:02:34: [G_Auto 2] :  Store Text Value (Shared) for Thiago Monteiro: bServing = serving:0
+4/21/2022 20:02:34: [G_Auto 2] :  Store Value (Shared) for market: price = 1.26
+4/21/2022 20:02:34: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 116.96
+4/21/2022 20:02:34: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 140.29
+4/21/2022 20:02:34: [G_Auto 2] :  Store Value (Shared) for market: stake = 29.63
+4/21/2022 20:02:34: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 257.25
+4/21/2022 20:02:34: [G_Auto 2] :  Store Value (Shared) for market: pl = -6.54
+4/21/2022 20:02:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.25
+4/21/2022 20:02:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5
+4/21/2022 20:02:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 20:02:39: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aPoints = point: 0; games: 1; sets: 1 
+4/21/2022 20:02:39: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aServing = serving:1
+4/21/2022 20:02:39: [G_Auto 2] :  Store Text Value (Shared) for Thiago Monteiro: bPoints = point: 0; games: 2; sets: 0 
+4/21/2022 20:02:39: [G_Auto 2] :  Store Text Value (Shared) for Thiago Monteiro: bServing = serving:0
+4/21/2022 20:02:39: [G_Auto 2] :  Store Value (Shared) for market: price = 1.26
+4/21/2022 20:02:39: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 116.96
+4/21/2022 20:02:39: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 140.29
+4/21/2022 20:02:39: [G_Auto 2] :  Store Value (Shared) for market: stake = 29.63
+4/21/2022 20:02:39: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 257.25
+4/21/2022 20:02:39: [G_Auto 2] :  Store Value (Shared) for market: pl = -6.54
+4/21/2022 20:02:39: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.25
+4/21/2022 20:02:39: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.8
+4/21/2022 20:02:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 20:03:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 20:03:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 20:03:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 20:04:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 20:04:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 20:04:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 20:04:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 20:05:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 20:05:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 20:06:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 20:07:09: [G_Auto 1] :  Placed closure bet with greening on Karen Khachanov by Backing 30.60 at 1.22
+4/21/2022 20:07:11: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aPoints = point: 0; games: 2; sets: 1 
+4/21/2022 20:07:11: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aServing = serving:0
+4/21/2022 20:07:11: [G_Auto 2] :  Store Text Value (Shared) for Thiago Monteiro: bPoints = point: 0; games: 2; sets: 0 
+4/21/2022 20:07:11: [G_Auto 2] :  Store Text Value (Shared) for Thiago Monteiro: bServing = serving:2
+4/21/2022 20:07:11: [G_Auto 2] :  Store Value (Shared) for market: price = 1.22
+4/21/2022 20:07:11: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 147.56
+4/21/2022 20:07:11: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 140.29
+4/21/2022 20:07:11: [G_Auto 2] :  Store Value (Shared) for market: stake = 30.6
+4/21/2022 20:07:11: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 287.85
+4/21/2022 20:07:11: [G_Auto 2] :  Store Value (Shared) for market: pl = -7.27
+4/21/2022 20:07:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.23
+4/21/2022 20:07:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.5
+4/21/2022 20:07:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 20:07:16: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aPoints = point: 0; games: 2; sets: 1 
+4/21/2022 20:07:16: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aServing = serving:0
+4/21/2022 20:07:16: [G_Auto 2] :  Store Text Value (Shared) for Thiago Monteiro: bPoints = point: 0; games: 2; sets: 0 
+4/21/2022 20:07:16: [G_Auto 2] :  Store Text Value (Shared) for Thiago Monteiro: bServing = serving:2
+4/21/2022 20:07:16: [G_Auto 2] :  Store Value (Shared) for market: price = 1.22
+4/21/2022 20:07:16: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 147.56
+4/21/2022 20:07:16: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 140.29
+4/21/2022 20:07:16: [G_Auto 2] :  Store Value (Shared) for market: stake = 30.6
+4/21/2022 20:07:16: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 287.85
+4/21/2022 20:07:16: [G_Auto 2] :  Store Value (Shared) for market: pl = -7.27
+4/21/2022 20:07:16: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.23
+4/21/2022 20:07:16: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.5
+4/21/2022 20:07:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 20:07:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 20:08:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 20:08:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 20:08:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 20:09:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 20:10:04: [G_Auto 1] :  € 26.67 Lay bet placed on Karen Khachanov at 1.3. Fully matched at 1.28.  Ref: 10267          ( Fill or kill bet with 15 seconds delay.   )
+4/21/2022 20:10:06: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aPoints = point: 0; games: 2; sets: 1 
+4/21/2022 20:10:06: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aServing = serving:1
+4/21/2022 20:10:06: [G_Auto 2] :  Store Text Value (Shared) for Thiago Monteiro: bPoints = point: 0; games: 3; sets: 0 
+4/21/2022 20:10:06: [G_Auto 2] :  Store Text Value (Shared) for Thiago Monteiro: bServing = serving:0
+4/21/2022 20:10:06: [G_Auto 2] :  Store Value (Shared) for market: price = 1.28
+4/21/2022 20:10:06: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 147.56
+4/21/2022 20:10:06: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 166.96
+4/21/2022 20:10:06: [G_Auto 2] :  Store Value (Shared) for market: stake = 26.67
+4/21/2022 20:10:06: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 314.52
+4/21/2022 20:10:06: [G_Auto 2] :  Store Value (Shared) for market: pl = -7.48
+4/21/2022 20:10:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.27
+4/21/2022 20:10:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.5
+4/21/2022 20:10:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 20:10:13: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aPoints = point: 0; games: 2; sets: 1 
+4/21/2022 20:10:13: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aServing = serving:1
+4/21/2022 20:10:13: [G_Auto 2] :  Store Text Value (Shared) for Thiago Monteiro: bPoints = point: 0; games: 3; sets: 0 
+4/21/2022 20:10:13: [G_Auto 2] :  Store Text Value (Shared) for Thiago Monteiro: bServing = serving:0
+4/21/2022 20:10:13: [G_Auto 2] :  Store Value (Shared) for market: price = 1.28
+4/21/2022 20:10:13: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 147.56
+4/21/2022 20:10:13: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 166.96
+4/21/2022 20:10:13: [G_Auto 2] :  Store Value (Shared) for market: stake = 26.67
+4/21/2022 20:10:13: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 314.52
+4/21/2022 20:10:13: [G_Auto 2] :  Store Value (Shared) for market: pl = -7.48
+4/21/2022 20:10:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.27
+4/21/2022 20:10:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.6
+4/21/2022 20:10:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 20:10:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 20:11:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 20:11:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 20:11:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 20:11:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 20:12:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 20:14:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 20:14:55: [G_Auto 1] :  Placed closure bet with greening on Karen Khachanov by Backing 27.53 at 1.24
+4/21/2022 20:14:57: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aPoints = point: 0; games: 3; sets: 1 
+4/21/2022 20:14:57: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aServing = serving:0
+4/21/2022 20:14:57: [G_Auto 2] :  Store Text Value (Shared) for Thiago Monteiro: bPoints = point: 0; games: 3; sets: 0 
+4/21/2022 20:14:57: [G_Auto 2] :  Store Text Value (Shared) for Thiago Monteiro: bServing = serving:2
+4/21/2022 20:14:57: [G_Auto 2] :  Store Value (Shared) for market: price = 1.24
+4/21/2022 20:14:57: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 175.09
+4/21/2022 20:14:57: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 166.96
+4/21/2022 20:14:57: [G_Auto 2] :  Store Value (Shared) for market: stake = 27.53
+4/21/2022 20:14:57: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 342.05
+4/21/2022 20:14:57: [G_Auto 2] :  Store Value (Shared) for market: pl = -8.13
+4/21/2022 20:14:57: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.25
+4/21/2022 20:14:57: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5
+4/21/2022 20:14:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 20:15:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 20:15:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 20:15:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 20:16:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 20:16:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 20:17:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 20:17:55: [G_Auto 1] :  € 23.53 Lay bet placed on Karen Khachanov at 1.34. Fully matched at 1.33.  Ref: 10271          ( Fill or kill bet with 15 seconds delay.   )
+4/21/2022 20:17:57: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aPoints = point: 0; games: 3; sets: 1 
+4/21/2022 20:17:57: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aServing = serving:1
+4/21/2022 20:17:57: [G_Auto 2] :  Store Text Value (Shared) for Thiago Monteiro: bPoints = point: 0; games: 4; sets: 0 
+4/21/2022 20:17:57: [G_Auto 2] :  Store Text Value (Shared) for Thiago Monteiro: bServing = serving:0
+4/21/2022 20:17:57: [G_Auto 2] :  Store Value (Shared) for market: price = 1.33
+4/21/2022 20:17:57: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 175.09
+4/21/2022 20:17:57: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 190.49
+4/21/2022 20:17:57: [G_Auto 2] :  Store Value (Shared) for market: stake = 23.53
+4/21/2022 20:17:57: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 365.58
+4/21/2022 20:17:57: [G_Auto 2] :  Store Value (Shared) for market: pl = -8.31
+4/21/2022 20:17:57: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.33
+4/21/2022 20:17:57: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.2
+4/21/2022 20:18:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 20:18:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 20:18:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 20:18:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 20:19:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 20:19:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 20:19:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 20:19:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 20:20:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 20:21:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 20:21:51: [G_Auto 1] :  Placed closure bet with greening on Karen Khachanov by Backing 25.24 at 1.24
+4/21/2022 20:21:53: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aPoints = point: 0; games: 4; sets: 1 
+4/21/2022 20:21:53: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aServing = serving:0
+4/21/2022 20:21:53: [G_Auto 2] :  Store Text Value (Shared) for Thiago Monteiro: bPoints = point: 0; games: 4; sets: 0 
+4/21/2022 20:21:53: [G_Auto 2] :  Store Text Value (Shared) for Thiago Monteiro: bServing = serving:2
+4/21/2022 20:21:53: [G_Auto 2] :  Store Value (Shared) for market: price = 1.24
+4/21/2022 20:21:53: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 200.33
+4/21/2022 20:21:53: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 190.49
+4/21/2022 20:21:53: [G_Auto 2] :  Store Value (Shared) for market: stake = 25.24
+4/21/2022 20:21:53: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 390.82
+4/21/2022 20:21:53: [G_Auto 2] :  Store Value (Shared) for market: pl = -9.84
+4/21/2022 20:21:53: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.25
+4/21/2022 20:21:53: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5
+4/21/2022 20:21:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 20:22:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 20:22:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 20:22:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 20:23:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 20:23:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 20:25:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 20:26:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 20:26:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 20:26:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 20:27:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 20:27:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 20:27:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 20:27:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 20:28:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 20:28:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 20:28:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/21/2022 20:30:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/21/2022 20:30:25:  Guardian has detected that the market is suspended

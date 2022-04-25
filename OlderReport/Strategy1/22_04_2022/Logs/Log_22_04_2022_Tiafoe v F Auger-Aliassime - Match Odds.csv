@@ -1,0 +1,494 @@
+4/22/2022 11:56:14: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: info = marketName: Tiafoe v F Auger-Aliassime - Match Odds; runnerA: Frances Tiafoe; runnerB: Felix Auger-Aliassime 
+4/22/2022 11:56:14: [G_Auto 2] :  Store Value (Shared) for market: aId = 19924839
+4/22/2022 11:56:14: [G_Auto 2] :  Store Value (Shared) for market: bId = 12210252
+4/22/2022 12:13:59:  Guardian has detected that the market is in-play
+4/22/2022 12:13:59:  Guardian has detected that the market is suspended
+4/22/2022 12:14:03: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 2.84; bBsp: 1.54; volume: 47828.21 
+4/22/2022 12:14:03: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 2.84; bBsp: 1.54; volume: 47828.21 
+4/22/2022 12:14:03:  Guardian has detected that the market is now unsuspended
+4/22/2022 12:14:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/22/2022 12:14:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/22/2022 12:16:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 12:17:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 12:17:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 12:17:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 12:18:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/22/2022 12:19:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 12:19:33: [G_Auto 1] :  € 12.12 Lay bet placed on Felix Auger-Aliassime at 1.66. Fully matched at 1.65.  Ref: 10008          ( Fill or kill bet with 15 seconds delay.   )
+4/22/2022 12:19:34: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: aPoints = point: 0; games: 1; sets: 0 
+4/22/2022 12:19:34: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: aServing = serving:0
+4/22/2022 12:19:34: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: bPoints = point: 0; games: 1; sets: 0 
+4/22/2022 12:19:34: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: bServing = serving:2
+4/22/2022 12:19:34: [G_Auto 2] :  Store Value (Shared) for market: price = 1.65
+4/22/2022 12:19:34: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+4/22/2022 12:19:34: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 12.12
+4/22/2022 12:19:34: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.12
+4/22/2022 12:19:34: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 12.12
+4/22/2022 12:19:34: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.07
+4/22/2022 12:19:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.56
+4/22/2022 12:19:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.65
+4/22/2022 12:19:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 12:19:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 12:20:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/22/2022 12:20:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/22/2022 12:20:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/22/2022 12:26:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 12:26:38: [G_Auto 1] :  Placed closure bet with greening on Felix Auger-Aliassime by Backing 12.42 at 1.61
+4/22/2022 12:26:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 12:26:39: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: aPoints = point: 0; games: 1; sets: 0 
+4/22/2022 12:26:39: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: aServing = serving:1
+4/22/2022 12:26:39: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: bPoints = point: 0; games: 2; sets: 0 
+4/22/2022 12:26:39: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: bServing = serving:0
+4/22/2022 12:26:39: [G_Auto 2] :  Store Value (Shared) for market: price = 1.61
+4/22/2022 12:26:39: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 12.42
+4/22/2022 12:26:39: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 12.12
+4/22/2022 12:26:39: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.42
+4/22/2022 12:26:39: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 24.54
+4/22/2022 12:26:39: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.3
+4/22/2022 12:26:39: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.6
+4/22/2022 12:26:39: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.62
+4/22/2022 12:26:47: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: aPoints = point: 0; games: 1; sets: 0 
+4/22/2022 12:26:47: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: aServing = serving:1
+4/22/2022 12:26:47: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: bPoints = point: 0; games: 2; sets: 0 
+4/22/2022 12:26:47: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: bServing = serving:0
+4/22/2022 12:26:47: [G_Auto 2] :  Store Value (Shared) for market: price = 1.61
+4/22/2022 12:26:47: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 12.42
+4/22/2022 12:26:47: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 12.12
+4/22/2022 12:26:47: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.42
+4/22/2022 12:26:47: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 24.54
+4/22/2022 12:26:47: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.3
+4/22/2022 12:26:47: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.62
+4/22/2022 12:26:47: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.61
+4/22/2022 12:26:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 12:27:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 12:27:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 12:27:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 12:28:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 12:28:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/22/2022 12:28:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/22/2022 12:29:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 12:29:51: [G_Auto 1] :  € 10.53 Lay bet placed on Felix Auger-Aliassime at 1.76. Fully matched at 1.75.  Ref: 10018          ( Fill or kill bet with 15 seconds delay.   )
+4/22/2022 12:29:52: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: aPoints = point: 0; games: 2; sets: 0 
+4/22/2022 12:29:52: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: aServing = serving:0
+4/22/2022 12:29:52: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: bPoints = point: 0; games: 2; sets: 0 
+4/22/2022 12:29:52: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: bServing = serving:2
+4/22/2022 12:29:52: [G_Auto 2] :  Store Value (Shared) for market: price = 1.75
+4/22/2022 12:29:52: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 12.42
+4/22/2022 12:29:52: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 22.65
+4/22/2022 12:29:52: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.53
+4/22/2022 12:29:52: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 35.07
+4/22/2022 12:29:52: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.36
+4/22/2022 12:29:52: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.34
+4/22/2022 12:29:52: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.75
+4/22/2022 12:29:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 12:30:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 12:30:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/22/2022 12:30:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/22/2022 12:33:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 12:33:22: [G_Auto 1] :  Placed closure bet with greening on Felix Auger-Aliassime by Backing 11.24 at 1.64
+4/22/2022 12:33:23: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: aPoints = point: 0; games: 2; sets: 0 
+4/22/2022 12:33:23: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: aServing = serving:1
+4/22/2022 12:33:23: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: bPoints = point: 0; games: 3; sets: 0 
+4/22/2022 12:33:23: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: bServing = serving:0
+4/22/2022 12:33:23: [G_Auto 2] :  Store Value (Shared) for market: price = 1.64
+4/22/2022 12:33:23: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 23.66
+4/22/2022 12:33:23: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 22.65
+4/22/2022 12:33:23: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.24
+4/22/2022 12:33:23: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 46.31
+4/22/2022 12:33:23: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.01
+4/22/2022 12:33:23: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.54
+4/22/2022 12:33:23: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.65
+4/22/2022 12:33:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 12:33:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 12:34:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 12:34:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 12:34:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 12:34:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 12:35:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/22/2022 12:35:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/22/2022 12:37:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 12:37:59: [G_Auto 1] :  € 11.11 Lay bet placed on Felix Auger-Aliassime at 1.72. Fully matched at 1.71.  Ref: 10025          ( Fill or kill bet with 15 seconds delay.   )
+4/22/2022 12:38:00: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: aPoints = point: 0; games: 3; sets: 0 
+4/22/2022 12:38:00: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: aServing = serving:0
+4/22/2022 12:38:00: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: bPoints = point: 0; games: 3; sets: 0 
+4/22/2022 12:38:00: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: bServing = serving:2
+4/22/2022 12:38:00: [G_Auto 2] :  Store Value (Shared) for market: price = 1.71
+4/22/2022 12:38:00: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 23.66
+4/22/2022 12:38:00: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 33.76
+4/22/2022 12:38:00: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.11
+4/22/2022 12:38:00: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 57.42
+4/22/2022 12:38:00: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.07
+4/22/2022 12:38:00: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.4
+4/22/2022 12:38:00: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.7
+4/22/2022 12:38:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 12:38:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 12:38:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/22/2022 12:38:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/22/2022 12:40:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 12:40:23: [G_Auto 1] :  Placed closure bet with greening on Felix Auger-Aliassime by Backing 12.33 at 1.54
+4/22/2022 12:40:24: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: aPoints = point: 0; games: 3; sets: 0 
+4/22/2022 12:40:24: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: aServing = serving:1
+4/22/2022 12:40:24: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: bPoints = point: 0; games: 4; sets: 0 
+4/22/2022 12:40:24: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: bServing = serving:0
+4/22/2022 12:40:24: [G_Auto 2] :  Store Value (Shared) for market: price = 1.54
+4/22/2022 12:40:24: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 35.99
+4/22/2022 12:40:24: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 33.76
+4/22/2022 12:40:24: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.33
+4/22/2022 12:40:24: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 69.75
+4/22/2022 12:40:24: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.23
+4/22/2022 12:40:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.86
+4/22/2022 12:40:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.55
+4/22/2022 12:40:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 12:40:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 12:41:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 12:41:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 12:41:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 12:41:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/22/2022 12:42:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/22/2022 12:45:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 12:45:17: [G_Auto 1] :  € 11.76 Lay bet placed on Felix Auger-Aliassime at 1.68. Fully matched at 1.67.  Ref: 10032          ( Fill or kill bet with 15 seconds delay.   )
+4/22/2022 12:45:18: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: aPoints = point: 0; games: 4; sets: 0 
+4/22/2022 12:45:18: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: aServing = serving:0
+4/22/2022 12:45:18: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: bPoints = point: 0; games: 4; sets: 0 
+4/22/2022 12:45:18: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: bServing = serving:2
+4/22/2022 12:45:18: [G_Auto 2] :  Store Value (Shared) for market: price = 1.67
+4/22/2022 12:45:18: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 35.99
+4/22/2022 12:45:18: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 45.52
+4/22/2022 12:45:18: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.76
+4/22/2022 12:45:18: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 81.51
+4/22/2022 12:45:18: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.38
+4/22/2022 12:45:18: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.52
+4/22/2022 12:45:18: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.66
+4/22/2022 12:45:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 12:45:25: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: aPoints = point: 0; games: 4; sets: 0 
+4/22/2022 12:45:25: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: aServing = serving:0
+4/22/2022 12:45:25: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: bPoints = point: 0; games: 4; sets: 0 
+4/22/2022 12:45:25: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: bServing = serving:2
+4/22/2022 12:45:25: [G_Auto 2] :  Store Value (Shared) for market: price = 1.67
+4/22/2022 12:45:25: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 35.99
+4/22/2022 12:45:25: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 45.52
+4/22/2022 12:45:25: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.76
+4/22/2022 12:45:25: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 81.51
+4/22/2022 12:45:25: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.38
+4/22/2022 12:45:25: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.52
+4/22/2022 12:45:25: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.66
+4/22/2022 12:45:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 12:45:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/22/2022 12:46:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/22/2022 12:48:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 12:48:55: [G_Auto 1] :  Placed closure bet with greening on Felix Auger-Aliassime by Backing 12.59 at 1.56
+4/22/2022 12:48:56: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: aPoints = point: 0; games: 4; sets: 0 
+4/22/2022 12:48:56: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: aServing = serving:1
+4/22/2022 12:48:56: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: bPoints = point: 0; games: 5; sets: 0 
+4/22/2022 12:48:56: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: bServing = serving:0
+4/22/2022 12:48:56: [G_Auto 2] :  Store Value (Shared) for market: price = 1.56
+4/22/2022 12:48:56: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 48.58
+4/22/2022 12:48:56: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 45.52
+4/22/2022 12:48:56: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.59
+4/22/2022 12:48:56: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 94.1
+4/22/2022 12:48:56: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.06
+4/22/2022 12:48:56: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.78
+4/22/2022 12:48:56: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.57
+4/22/2022 12:48:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 12:49:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 12:49:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 12:49:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 12:50:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 12:50:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 12:50:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/22/2022 12:52:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 12:52:53: [G_Auto 1] :  € 11.43 Lay bet placed on Felix Auger-Aliassime at 1.7. Fully matched at 1.69.  Ref: 10041          ( Fill or kill bet with 15 seconds delay.   )
+4/22/2022 12:52:53: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: aPoints = point: 0; games: 5; sets: 0 
+4/22/2022 12:52:53: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: aServing = serving:0
+4/22/2022 12:52:53: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: bPoints = point: 0; games: 5; sets: 0 
+4/22/2022 12:52:53: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: bServing = serving:2
+4/22/2022 12:52:53: [G_Auto 2] :  Store Value (Shared) for market: price = 1.69
+4/22/2022 12:52:53: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 48.58
+4/22/2022 12:52:53: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 56.95
+4/22/2022 12:52:53: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.43
+4/22/2022 12:52:53: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 105.53
+4/22/2022 12:52:53: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.06
+4/22/2022 12:52:53: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.46
+4/22/2022 12:52:53: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.69
+4/22/2022 12:52:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 12:53:01: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: aPoints = point: 0; games: 5; sets: 0 
+4/22/2022 12:53:01: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: aServing = serving:0
+4/22/2022 12:53:01: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: bPoints = point: 0; games: 5; sets: 0 
+4/22/2022 12:53:01: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: bServing = serving:2
+4/22/2022 12:53:01: [G_Auto 2] :  Store Value (Shared) for market: price = 1.69
+4/22/2022 12:53:01: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 48.58
+4/22/2022 12:53:01: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 56.95
+4/22/2022 12:53:01: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.43
+4/22/2022 12:53:01: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 105.53
+4/22/2022 12:53:01: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.93
+4/22/2022 12:53:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.4
+4/22/2022 12:53:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.71
+4/22/2022 12:53:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 12:53:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/22/2022 12:53:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/22/2022 12:54:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/22/2022 12:55:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 12:55:48: [G_Auto 1] :  Placed closure bet with greening on Felix Auger-Aliassime by Backing 12.39 at 1.56
+4/22/2022 12:55:48: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: aPoints = point: 0; games: 5; sets: 0 
+4/22/2022 12:55:48: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: aServing = serving:1
+4/22/2022 12:55:48: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: bPoints = point: 0; games: 6; sets: 0 
+4/22/2022 12:55:48: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: bServing = serving:0
+4/22/2022 12:55:48: [G_Auto 2] :  Store Value (Shared) for market: price = 1.56
+4/22/2022 12:55:48: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 60.97
+4/22/2022 12:55:48: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 56.95
+4/22/2022 12:55:48: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.39
+4/22/2022 12:55:48: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 117.92
+4/22/2022 12:55:48: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.02
+4/22/2022 12:55:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.76
+4/22/2022 12:55:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.57
+4/22/2022 12:55:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 12:56:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 12:56:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 12:56:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 12:57:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 12:57:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 12:57:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 12:57:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/22/2022 12:58:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/22/2022 13:04:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 13:04:11: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 6.4
+4/22/2022 13:04:11: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 1.19
+4/22/2022 13:04:18: [G_Auto 1] :  € 40.00 Lay bet placed on Felix Auger-Aliassime at 1.2. Fully matched at 1.19.  Ref: 10054          ( Fill or kill bet with 15 seconds delay.   )
+4/22/2022 13:04:18: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: aPoints = point: 0; games: 0; sets: 0 
+4/22/2022 13:04:18: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: aServing = serving:0
+4/22/2022 13:04:18: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: bPoints = point: 0; games: 0; sets: 1 
+4/22/2022 13:04:18: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: bServing = serving:2
+4/22/2022 13:04:18: [G_Auto 2] :  Store Value (Shared) for market: price = 1.19
+4/22/2022 13:04:18: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 60.97
+4/22/2022 13:04:18: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 96.95
+4/22/2022 13:04:18: [G_Auto 2] :  Store Value (Shared) for market: stake = 40
+4/22/2022 13:04:18: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 157.92
+4/22/2022 13:04:18: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.35
+4/22/2022 13:04:18: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 6.2
+4/22/2022 13:04:18: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.19
+4/22/2022 13:04:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 13:04:26: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: aPoints = point: 0; games: 0; sets: 0 
+4/22/2022 13:04:26: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: aServing = serving:0
+4/22/2022 13:04:26: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: bPoints = point: 0; games: 0; sets: 1 
+4/22/2022 13:04:26: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: bServing = serving:2
+4/22/2022 13:04:26: [G_Auto 2] :  Store Value (Shared) for market: price = 1.19
+4/22/2022 13:04:26: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 60.97
+4/22/2022 13:04:26: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 96.95
+4/22/2022 13:04:26: [G_Auto 2] :  Store Value (Shared) for market: stake = 40
+4/22/2022 13:04:26: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 157.92
+4/22/2022 13:04:26: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.35
+4/22/2022 13:04:26: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 6.2
+4/22/2022 13:04:26: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.19
+4/22/2022 13:04:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 13:04:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 13:05:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 13:05:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 13:05:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 13:06:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 13:06:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 13:06:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 13:07:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 13:07:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/22/2022 13:07:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/22/2022 13:11:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 13:11:38: [G_Auto 1] :  Placed closure bet with greening on Felix Auger-Aliassime by Backing 34.74 at 1.37
+4/22/2022 13:11:39: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: aPoints = point: 0; games: 1; sets: 0 
+4/22/2022 13:11:39: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: aServing = serving:1
+4/22/2022 13:11:39: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: bPoints = point: 0; games: 0; sets: 1 
+4/22/2022 13:11:39: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: bServing = serving:0
+4/22/2022 13:11:39: [G_Auto 2] :  Store Value (Shared) for market: price = 1.37
+4/22/2022 13:11:39: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 95.71
+4/22/2022 13:11:39: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 96.95
+4/22/2022 13:11:39: [G_Auto 2] :  Store Value (Shared) for market: stake = 34.74
+4/22/2022 13:11:39: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 192.66
+4/22/2022 13:11:39: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.22
+4/22/2022 13:11:39: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.6
+4/22/2022 13:11:39: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.38
+4/22/2022 13:11:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 13:12:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 13:12:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 13:12:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/22/2022 13:12:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/22/2022 13:16:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 13:17:02: [G_Auto 1] :  € 17.39 Lay bet placed on Felix Auger-Aliassime at 1.46. Fully matched at 1.45.  Ref: 10068          ( Fill or kill bet with 15 seconds delay.   )
+4/22/2022 13:17:02: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: aPoints = point: 0; games: 2; sets: 0 
+4/22/2022 13:17:02: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: aServing = serving:0
+4/22/2022 13:17:02: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: bPoints = point: 0; games: 0; sets: 1 
+4/22/2022 13:17:02: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: bServing = serving:2
+4/22/2022 13:17:02: [G_Auto 2] :  Store Value (Shared) for market: price = 1.45
+4/22/2022 13:17:02: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 95.71
+4/22/2022 13:17:02: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 114.34
+4/22/2022 13:17:02: [G_Auto 2] :  Store Value (Shared) for market: stake = 17.39
+4/22/2022 13:17:02: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 210.05
+4/22/2022 13:17:02: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.1
+4/22/2022 13:17:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.25
+4/22/2022 13:17:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.44
+4/22/2022 13:17:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 13:17:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 13:17:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/22/2022 13:17:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/22/2022 13:20:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 13:21:12: [G_Auto 1] :  Placed closure bet with greening on Felix Auger-Aliassime by Backing 15.10 at 1.67
+4/22/2022 13:21:13: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: aPoints = point: 0; games: 3; sets: 0 
+4/22/2022 13:21:13: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: aServing = serving:1
+4/22/2022 13:21:13: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: bPoints = point: 0; games: 0; sets: 1 
+4/22/2022 13:21:13: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: bServing = serving:0
+4/22/2022 13:21:13: [G_Auto 2] :  Store Value (Shared) for market: price = 1.67
+4/22/2022 13:21:13: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 110.81
+4/22/2022 13:21:13: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 114.34
+4/22/2022 13:21:13: [G_Auto 2] :  Store Value (Shared) for market: stake = 15.1
+4/22/2022 13:21:13: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 225.15
+4/22/2022 13:21:13: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.46
+4/22/2022 13:21:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.46
+4/22/2022 13:21:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.67
+4/22/2022 13:21:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 13:21:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 13:21:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 13:22:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 13:22:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 13:22:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 13:23:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 13:23:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/22/2022 13:23:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/22/2022 13:29:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 13:29:42: [G_Auto 1] :  € 17.02 Lay bet placed on Felix Auger-Aliassime at 1.47. Fully matched at 1.46.  Ref: 10086          ( Fill or kill bet with 15 seconds delay.   )
+4/22/2022 13:29:42: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: aPoints = point: 0; games: 3; sets: 0 
+4/22/2022 13:29:42: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: aServing = serving:0
+4/22/2022 13:29:42: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: bPoints = point: 0; games: 1; sets: 1 
+4/22/2022 13:29:42: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: bServing = serving:2
+4/22/2022 13:29:42: [G_Auto 2] :  Store Value (Shared) for market: price = 1.46
+4/22/2022 13:29:42: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 110.81
+4/22/2022 13:29:42: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 131.36
+4/22/2022 13:29:42: [G_Auto 2] :  Store Value (Shared) for market: stake = 17.02
+4/22/2022 13:29:42: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 242.17
+4/22/2022 13:29:42: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.34
+4/22/2022 13:29:42: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.15
+4/22/2022 13:29:42: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.46
+4/22/2022 13:29:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 13:30:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 13:30:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 13:30:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 13:30:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/22/2022 13:31:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/22/2022 13:35:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 13:36:10: [G_Auto 1] :  Placed closure bet with greening on Felix Auger-Aliassime by Backing 17.50 at 1.42
+4/22/2022 13:36:11: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: aPoints = point: 0; games: 3; sets: 0 
+4/22/2022 13:36:11: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: aServing = serving:1
+4/22/2022 13:36:11: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: bPoints = point: 0; games: 2; sets: 1 
+4/22/2022 13:36:11: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: bServing = serving:0
+4/22/2022 13:36:11: [G_Auto 2] :  Store Value (Shared) for market: price = 1.42
+4/22/2022 13:36:11: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 128.31
+4/22/2022 13:36:11: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 131.36
+4/22/2022 13:36:11: [G_Auto 2] :  Store Value (Shared) for market: stake = 17.5
+4/22/2022 13:36:11: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 259.67
+4/22/2022 13:36:11: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.99
+4/22/2022 13:36:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.1
+4/22/2022 13:36:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.43
+4/22/2022 13:36:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 13:36:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 13:36:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 13:37:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 13:37:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 13:37:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 13:37:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 13:38:16: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/22/2022 13:38:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/22/2022 13:44:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 13:44:49: [G_Auto 1] :  € 42.11 Lay bet placed on Felix Auger-Aliassime at 1.19. Fully matched at 1.18.  Ref: 10097          ( Fill or kill bet with 15 seconds delay.   )
+4/22/2022 13:44:49: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: aPoints = point: 0; games: 3; sets: 0 
+4/22/2022 13:44:49: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: aServing = serving:0
+4/22/2022 13:44:49: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: bPoints = point: 0; games: 3; sets: 1 
+4/22/2022 13:44:49: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: bServing = serving:2
+4/22/2022 13:44:49: [G_Auto 2] :  Store Value (Shared) for market: price = 1.18
+4/22/2022 13:44:49: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 128.31
+4/22/2022 13:44:49: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 173.47
+4/22/2022 13:44:49: [G_Auto 2] :  Store Value (Shared) for market: stake = 42.11
+4/22/2022 13:44:49: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 301.78
+4/22/2022 13:44:49: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.99
+4/22/2022 13:44:49: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 6.2
+4/22/2022 13:44:49: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.19
+4/22/2022 13:44:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 13:45:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/22/2022 13:45:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/22/2022 13:47:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 13:47:46: [G_Auto 1] :  Placed closure bet with greening on Felix Auger-Aliassime by Backing 43.97 at 1.13
+4/22/2022 13:47:47: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: aPoints = point: 0; games: 3; sets: 0 
+4/22/2022 13:47:47: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: aServing = serving:1
+4/22/2022 13:47:47: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: bPoints = point: 0; games: 4; sets: 1 
+4/22/2022 13:47:47: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: bServing = serving:0
+4/22/2022 13:47:47: [G_Auto 2] :  Store Value (Shared) for market: price = 1.13
+4/22/2022 13:47:47: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 172.28
+4/22/2022 13:47:47: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 173.47
+4/22/2022 13:47:47: [G_Auto 2] :  Store Value (Shared) for market: stake = 43.97
+4/22/2022 13:47:47: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 345.75
+4/22/2022 13:47:47: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.17
+4/22/2022 13:47:47: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 8
+4/22/2022 13:47:47: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.14
+4/22/2022 13:47:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 13:48:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 13:48:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 13:48:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 13:49:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 13:49:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 13:49:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 13:49:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/22/2022 13:50:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/22/2022 13:57:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 13:57:30: [G_Auto 1] :  € 38.10 Lay bet placed on Felix Auger-Aliassime at 1.21. Fully matched at 1.2.  Ref: 10112          ( Fill or kill bet with 15 seconds delay.   )
+4/22/2022 13:57:31: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: aPoints = point: 0; games: 4; sets: 0 
+4/22/2022 13:57:31: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: aServing = serving:0
+4/22/2022 13:57:31: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: bPoints = point: 0; games: 4; sets: 1 
+4/22/2022 13:57:31: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: bServing = serving:2
+4/22/2022 13:57:31: [G_Auto 2] :  Store Value (Shared) for market: price = 1.2
+4/22/2022 13:57:31: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 172.28
+4/22/2022 13:57:31: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 211.57
+4/22/2022 13:57:31: [G_Auto 2] :  Store Value (Shared) for market: stake = 38.1
+4/22/2022 13:57:31: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 383.85
+4/22/2022 13:57:31: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.85
+4/22/2022 13:57:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 6.4
+4/22/2022 13:57:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.19
+4/22/2022 13:57:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 13:57:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 13:58:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 13:58:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/22/2022 13:58:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/22/2022 13:58:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/22/2022 14:00:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 14:00:23: [G_Auto 1] :  Placed closure bet with greening on Felix Auger-Aliassime by Backing 41.19 at 1.11
+4/22/2022 14:00:23: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: aPoints = point: 0; games: 4; sets: 0 
+4/22/2022 14:00:23: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: aServing = serving:1
+4/22/2022 14:00:23: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: bPoints = point: 0; games: 5; sets: 1 
+4/22/2022 14:00:23: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: bServing = serving:0
+4/22/2022 14:00:23: [G_Auto 2] :  Store Value (Shared) for market: price = 1.11
+4/22/2022 14:00:23: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 213.47
+4/22/2022 14:00:23: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 211.57
+4/22/2022 14:00:23: [G_Auto 2] :  Store Value (Shared) for market: stake = 41.19
+4/22/2022 14:00:23: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 425.04
+4/22/2022 14:00:23: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.9
+4/22/2022 14:00:23: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 9.2
+4/22/2022 14:00:23: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.13
+4/22/2022 14:00:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 14:00:30: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: aPoints = point: 0; games: 4; sets: 0 
+4/22/2022 14:00:30: [G_Auto 2] :  Store Text Value (Shared) for Frances Tiafoe: aServing = serving:1
+4/22/2022 14:00:30: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: bPoints = point: 0; games: 5; sets: 1 
+4/22/2022 14:00:30: [G_Auto 2] :  Store Text Value (Shared) for Felix Auger-Aliassime: bServing = serving:0
+4/22/2022 14:00:30: [G_Auto 2] :  Store Value (Shared) for market: price = 1.11
+4/22/2022 14:00:30: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 213.47
+4/22/2022 14:00:30: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 211.57
+4/22/2022 14:00:30: [G_Auto 2] :  Store Value (Shared) for market: stake = 41.19
+4/22/2022 14:00:30: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 425.04
+4/22/2022 14:00:30: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.9
+4/22/2022 14:00:30: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 8.8
+4/22/2022 14:00:30: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.13
+4/22/2022 14:00:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 14:01:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 14:01:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 14:01:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 14:01:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 14:02:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 14:02:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 14:02:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/22/2022 14:02:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/22/2022 14:03:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/22/2022 14:06:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/22/2022 14:06:13:  Guardian has detected that the market is suspended
