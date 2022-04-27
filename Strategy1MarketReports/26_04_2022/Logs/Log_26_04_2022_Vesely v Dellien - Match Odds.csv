@@ -1,0 +1,304 @@
+4/26/2022 09:05:52: [G_Auto 2] :  Store Text Value (Shared) for Jiri Vesely: info = marketName: Vesely v Dellien - Match Odds; runnerA: Jiri Vesely; runnerB: Hugo Dellien 
+4/26/2022 09:05:52: [G_Auto 2] :  Store Value (Shared) for market: aId = 7032143
+4/26/2022 09:05:52: [G_Auto 2] :  Store Value (Shared) for market: bId = 8226987
+4/26/2022 15:33:13:  Guardian has detected that the market is in-play
+4/26/2022 15:33:13:  Guardian has detected that the market is suspended
+4/26/2022 15:33:16: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 2.82; bBsp: 1.54; volume: 145243.03 
+4/26/2022 15:33:16: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 2.82; bBsp: 1.54; volume: 145243.03 
+4/26/2022 15:33:16:  Guardian has detected that the market is now unsuspended
+4/26/2022 15:33:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 15:33:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 15:35:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 15:35:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 15:35:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 15:35:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 15:36:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 15:36:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 15:36:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 15:37:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 15:37:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 15:41:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 15:41:17: [G_Auto 1] :  € 15.38 Lay bet placed on Hugo Dellien at 1.52. Fully matched at 1.51.  Ref: 10220          ( Fill or kill bet with 15 seconds delay.   )
+4/26/2022 15:41:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 15:41:20: [G_Auto 2] :  Store Text Value (Shared) for Jiri Vesely: aPoints = point: 0; games: 1; sets: 0 
+4/26/2022 15:41:20: [G_Auto 2] :  Store Text Value (Shared) for Jiri Vesely: aServing = serving:0
+4/26/2022 15:41:20: [G_Auto 2] :  Store Text Value (Shared) for Hugo Dellien: bPoints = point: 0; games: 1; sets: 0 
+4/26/2022 15:41:20: [G_Auto 2] :  Store Text Value (Shared) for Hugo Dellien: bServing = serving:2
+4/26/2022 15:41:20: [G_Auto 2] :  Store Value (Shared) for market: price = 1.51
+4/26/2022 15:41:20: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+4/26/2022 15:41:20: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 15.38
+4/26/2022 15:41:20: [G_Auto 2] :  Store Value (Shared) for market: stake = 15.38
+4/26/2022 15:41:20: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 15.38
+4/26/2022 15:41:20: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.1
+4/26/2022 15:41:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3
+4/26/2022 15:41:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.5
+4/26/2022 15:41:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 15:41:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 15:41:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 15:43:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 15:43:17: [G_Auto 1] :  Placed closure bet with greening on Hugo Dellien by Backing 16.71 at 1.39
+4/26/2022 15:43:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 15:43:19: [G_Auto 2] :  Store Text Value (Shared) for Jiri Vesely: aPoints = point: 0; games: 1; sets: 0 
+4/26/2022 15:43:19: [G_Auto 2] :  Store Text Value (Shared) for Jiri Vesely: aServing = serving:1
+4/26/2022 15:43:19: [G_Auto 2] :  Store Text Value (Shared) for Hugo Dellien: bPoints = point: 0; games: 2; sets: 0 
+4/26/2022 15:43:19: [G_Auto 2] :  Store Text Value (Shared) for Hugo Dellien: bServing = serving:0
+4/26/2022 15:43:19: [G_Auto 2] :  Store Value (Shared) for market: price = 1.39
+4/26/2022 15:43:19: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 16.71
+4/26/2022 15:43:19: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 15.38
+4/26/2022 15:43:19: [G_Auto 2] :  Store Value (Shared) for market: stake = 16.71
+4/26/2022 15:43:19: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 32.09
+4/26/2022 15:43:19: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.33
+4/26/2022 15:43:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.55
+4/26/2022 15:43:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.38
+4/26/2022 15:43:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 15:43:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 15:44:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 15:44:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 15:44:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 15:44:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 15:45:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 15:45:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 15:45:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 15:47:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 15:48:01: [G_Auto 1] :  € 42.11 Lay bet placed on Hugo Dellien at 1.19. Fully matched at 1.18.  Ref: 10223          ( Fill or kill bet with 15 seconds delay.   )
+4/26/2022 15:48:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 15:48:03: [G_Auto 2] :  Store Text Value (Shared) for Jiri Vesely: aPoints = point: 0; games: 1; sets: 0 
+4/26/2022 15:48:03: [G_Auto 2] :  Store Text Value (Shared) for Jiri Vesely: aServing = serving:0
+4/26/2022 15:48:03: [G_Auto 2] :  Store Text Value (Shared) for Hugo Dellien: bPoints = point: 0; games: 3; sets: 0 
+4/26/2022 15:48:03: [G_Auto 2] :  Store Text Value (Shared) for Hugo Dellien: bServing = serving:2
+4/26/2022 15:48:03: [G_Auto 2] :  Store Value (Shared) for market: price = 1.18
+4/26/2022 15:48:03: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 16.71
+4/26/2022 15:48:03: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 57.49
+4/26/2022 15:48:03: [G_Auto 2] :  Store Value (Shared) for market: stake = 42.11
+4/26/2022 15:48:03: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 74.2
+4/26/2022 15:48:03: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.69
+4/26/2022 15:48:03: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 6.4
+4/26/2022 15:48:03: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.17
+4/26/2022 15:48:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 15:48:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 15:48:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 15:48:55: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 15:49:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 15:51:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 15:51:58: [G_Auto 1] :  Placed closure bet with greening on Hugo Dellien by Backing 43.58 at 1.14
+4/26/2022 15:52:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 15:52:00: [G_Auto 2] :  Store Text Value (Shared) for Jiri Vesely: aPoints = point: 0; games: 1; sets: 0 
+4/26/2022 15:52:00: [G_Auto 2] :  Store Text Value (Shared) for Jiri Vesely: aServing = serving:1
+4/26/2022 15:52:00: [G_Auto 2] :  Store Text Value (Shared) for Hugo Dellien: bPoints = point: 0; games: 4; sets: 0 
+4/26/2022 15:52:00: [G_Auto 2] :  Store Text Value (Shared) for Hugo Dellien: bServing = serving:0
+4/26/2022 15:52:00: [G_Auto 2] :  Store Value (Shared) for market: price = 1.14
+4/26/2022 15:52:00: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 60.29
+4/26/2022 15:52:00: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 57.49
+4/26/2022 15:52:00: [G_Auto 2] :  Store Value (Shared) for market: stake = 43.58
+4/26/2022 15:52:00: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 117.78
+4/26/2022 15:52:00: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.8
+4/26/2022 15:52:00: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 8
+4/26/2022 15:52:00: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.14
+4/26/2022 15:52:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 15:52:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 15:52:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 15:53:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 15:53:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 15:53:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 15:53:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 15:56:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 15:56:34: [G_Auto 1] :  € 47.06 Lay bet placed on Hugo Dellien at 1.17. Fully matched at 1.16.  Ref: 10228          ( Fill or kill bet with 15 seconds delay.   )
+4/26/2022 15:56:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 15:56:37: [G_Auto 2] :  Store Text Value (Shared) for Jiri Vesely: aPoints = point: 0; games: 2; sets: 0 
+4/26/2022 15:56:37: [G_Auto 2] :  Store Text Value (Shared) for Jiri Vesely: aServing = serving:0
+4/26/2022 15:56:37: [G_Auto 2] :  Store Text Value (Shared) for Hugo Dellien: bPoints = point: 0; games: 4; sets: 0 
+4/26/2022 15:56:37: [G_Auto 2] :  Store Text Value (Shared) for Hugo Dellien: bServing = serving:2
+4/26/2022 15:56:37: [G_Auto 2] :  Store Value (Shared) for market: price = 1.16
+4/26/2022 15:56:37: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 60.29
+4/26/2022 15:56:37: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 104.55
+4/26/2022 15:56:37: [G_Auto 2] :  Store Value (Shared) for market: stake = 47.06
+4/26/2022 15:56:37: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 164.84
+4/26/2022 15:56:37: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.21
+4/26/2022 15:56:37: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 7.2
+4/26/2022 15:56:37: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.15
+4/26/2022 15:56:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 15:57:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 15:57:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 15:57:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 15:59:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 15:59:40: [G_Auto 1] :  Placed closure bet with greening on Hugo Dellien by Backing 48.75 at 1.12
+4/26/2022 15:59:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 15:59:42: [G_Auto 2] :  Store Text Value (Shared) for Jiri Vesely: aPoints = point: 0; games: 2; sets: 0 
+4/26/2022 15:59:42: [G_Auto 2] :  Store Text Value (Shared) for Jiri Vesely: aServing = serving:1
+4/26/2022 15:59:42: [G_Auto 2] :  Store Text Value (Shared) for Hugo Dellien: bPoints = point: 0; games: 5; sets: 0 
+4/26/2022 15:59:42: [G_Auto 2] :  Store Text Value (Shared) for Hugo Dellien: bServing = serving:0
+4/26/2022 15:59:42: [G_Auto 2] :  Store Value (Shared) for market: price = 1.12
+4/26/2022 15:59:42: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 109.04
+4/26/2022 15:59:42: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 104.55
+4/26/2022 15:59:42: [G_Auto 2] :  Store Value (Shared) for market: stake = 48.75
+4/26/2022 15:59:42: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 213.59
+4/26/2022 15:59:42: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.49
+4/26/2022 15:59:42: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 8
+4/26/2022 15:59:42: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.12
+4/26/2022 15:59:48: [G_Auto 2] :  Store Text Value (Shared) for Jiri Vesely: aPoints = point: 0; games: 2; sets: 0 
+4/26/2022 15:59:48: [G_Auto 2] :  Store Text Value (Shared) for Jiri Vesely: aServing = serving:1
+4/26/2022 15:59:48: [G_Auto 2] :  Store Text Value (Shared) for Hugo Dellien: bPoints = point: 0; games: 5; sets: 0 
+4/26/2022 15:59:48: [G_Auto 2] :  Store Text Value (Shared) for Hugo Dellien: bServing = serving:0
+4/26/2022 15:59:48: [G_Auto 2] :  Store Value (Shared) for market: price = 1.12
+4/26/2022 15:59:48: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 109.04
+4/26/2022 15:59:48: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 104.55
+4/26/2022 15:59:48: [G_Auto 2] :  Store Value (Shared) for market: stake = 48.75
+4/26/2022 15:59:48: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 213.59
+4/26/2022 15:59:48: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.49
+4/26/2022 15:59:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 8
+4/26/2022 15:59:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.13
+4/26/2022 15:59:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:00:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:00:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:00:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:01:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:01:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:01:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:01:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:02:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:02:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:02:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 16:02:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 16:05:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:05:33: [G_Auto 1] :  € 61.54 Lay bet placed on Hugo Dellien at 1.13. Fully matched at 1.12.  Ref: 10233          ( Fill or kill bet with 15 seconds delay.   )
+4/26/2022 16:05:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:05:35: [G_Auto 2] :  Store Text Value (Shared) for Jiri Vesely: aPoints = point: 0; games: 3; sets: 0 
+4/26/2022 16:05:35: [G_Auto 2] :  Store Text Value (Shared) for Jiri Vesely: aServing = serving:0
+4/26/2022 16:05:35: [G_Auto 2] :  Store Text Value (Shared) for Hugo Dellien: bPoints = point: 0; games: 5; sets: 0 
+4/26/2022 16:05:35: [G_Auto 2] :  Store Text Value (Shared) for Hugo Dellien: bServing = serving:2
+4/26/2022 16:05:35: [G_Auto 2] :  Store Value (Shared) for market: price = 1.12
+4/26/2022 16:05:35: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 109.04
+4/26/2022 16:05:35: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 166.09
+4/26/2022 16:05:35: [G_Auto 2] :  Store Value (Shared) for market: stake = 61.54
+4/26/2022 16:05:35: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 275.13
+4/26/2022 16:05:35: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.04
+4/26/2022 16:05:35: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 10
+4/26/2022 16:05:35: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.11
+4/26/2022 16:05:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:06:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 16:06:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 16:09:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:09:08: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 12
+4/26/2022 16:09:08: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 1.09
+4/26/2022 16:09:14: [G_Auto 1] :  Placed closure bet with greening on Hugo Dellien by Backing 63.23 at 1.09
+4/26/2022 16:09:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:09:19: [G_Auto 2] :  Store Text Value (Shared) for Jiri Vesely: aPoints = point: 0; games: 0; sets: 0 
+4/26/2022 16:09:19: [G_Auto 2] :  Store Text Value (Shared) for Jiri Vesely: aServing = serving:1
+4/26/2022 16:09:19: [G_Auto 2] :  Store Text Value (Shared) for Hugo Dellien: bPoints = point: 0; games: 0; sets: 1 
+4/26/2022 16:09:19: [G_Auto 2] :  Store Text Value (Shared) for Hugo Dellien: bServing = serving:0
+4/26/2022 16:09:19: [G_Auto 2] :  Store Value (Shared) for market: price = 1.09
+4/26/2022 16:09:19: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 172.27
+4/26/2022 16:09:19: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 166.09
+4/26/2022 16:09:19: [G_Auto 2] :  Store Value (Shared) for market: stake = 63.23
+4/26/2022 16:09:19: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 338.36
+4/26/2022 16:09:19: [G_Auto 2] :  Store Value (Shared) for market: pl = -6.18
+4/26/2022 16:09:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 11
+4/26/2022 16:09:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.09
+4/26/2022 16:09:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:09:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:10:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:10:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:10:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:10:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:11:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:11:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:11:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:12:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:12:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:12:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:12:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 16:13:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 16:16:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:17:00: [G_Auto 1] :  € 66.67 Lay bet placed on Hugo Dellien at 1.12. Fully matched at 1.11.  Ref: 10242          ( Fill or kill bet with 15 seconds delay.   )
+4/26/2022 16:17:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:17:02: [G_Auto 2] :  Store Text Value (Shared) for Jiri Vesely: aPoints = point: 0; games: 1; sets: 0 
+4/26/2022 16:17:02: [G_Auto 2] :  Store Text Value (Shared) for Jiri Vesely: aServing = serving:0
+4/26/2022 16:17:02: [G_Auto 2] :  Store Text Value (Shared) for Hugo Dellien: bPoints = point: 0; games: 0; sets: 1 
+4/26/2022 16:17:02: [G_Auto 2] :  Store Text Value (Shared) for Hugo Dellien: bServing = serving:2
+4/26/2022 16:17:02: [G_Auto 2] :  Store Value (Shared) for market: price = 1.11
+4/26/2022 16:17:02: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 172.27
+4/26/2022 16:17:02: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 232.76
+4/26/2022 16:17:02: [G_Auto 2] :  Store Value (Shared) for market: stake = 66.67
+4/26/2022 16:17:02: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 405.03
+4/26/2022 16:17:02: [G_Auto 2] :  Store Value (Shared) for market: pl = -6.79
+4/26/2022 16:17:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 12
+4/26/2022 16:17:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.1
+4/26/2022 16:17:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:17:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:17:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 16:17:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 16:20:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:20:25: [G_Auto 1] :  Placed closure bet with greening on Hugo Dellien by Backing 68.52 at 1.08
+4/26/2022 16:20:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:20:27: [G_Auto 2] :  Store Text Value (Shared) for Jiri Vesely: aPoints = point: 0; games: 1; sets: 0 
+4/26/2022 16:20:27: [G_Auto 2] :  Store Text Value (Shared) for Jiri Vesely: aServing = serving:1
+4/26/2022 16:20:27: [G_Auto 2] :  Store Text Value (Shared) for Hugo Dellien: bPoints = point: 0; games: 1; sets: 1 
+4/26/2022 16:20:27: [G_Auto 2] :  Store Text Value (Shared) for Hugo Dellien: bServing = serving:0
+4/26/2022 16:20:27: [G_Auto 2] :  Store Value (Shared) for market: price = 1.08
+4/26/2022 16:20:27: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 240.79
+4/26/2022 16:20:27: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 232.76
+4/26/2022 16:20:27: [G_Auto 2] :  Store Value (Shared) for market: stake = 68.52
+4/26/2022 16:20:27: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 473.55
+4/26/2022 16:20:27: [G_Auto 2] :  Store Value (Shared) for market: pl = -8.03
+4/26/2022 16:20:27: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 12
+4/26/2022 16:20:27: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.08
+4/26/2022 16:20:33: [G_Auto 2] :  Store Text Value (Shared) for Jiri Vesely: aPoints = point: 0; games: 1; sets: 0 
+4/26/2022 16:20:33: [G_Auto 2] :  Store Text Value (Shared) for Jiri Vesely: aServing = serving:1
+4/26/2022 16:20:33: [G_Auto 2] :  Store Text Value (Shared) for Hugo Dellien: bPoints = point: 0; games: 1; sets: 1 
+4/26/2022 16:20:33: [G_Auto 2] :  Store Text Value (Shared) for Hugo Dellien: bServing = serving:0
+4/26/2022 16:20:33: [G_Auto 2] :  Store Value (Shared) for market: price = 1.08
+4/26/2022 16:20:33: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 240.79
+4/26/2022 16:20:33: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 232.76
+4/26/2022 16:20:33: [G_Auto 2] :  Store Value (Shared) for market: stake = 68.52
+4/26/2022 16:20:33: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 473.55
+4/26/2022 16:20:33: [G_Auto 2] :  Store Value (Shared) for market: pl = -8.03
+4/26/2022 16:20:33: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 12
+4/26/2022 16:20:33: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.08
+4/26/2022 16:20:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:20:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 16:21:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 16:23:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:23:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:24:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:24:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:24:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:24:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:25:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:25:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 16:25:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 16:28:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:28:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:28:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:29:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 16:29:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 16:32:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:32:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:33:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:33:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:33:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:34:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:34:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 16:34:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 16:40:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:40:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:40:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:41:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:41:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:41:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 16:41:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 16:45:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:46:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:46:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:46:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:46:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:47:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:47:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:47:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 16:47:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 16:50:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:50:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:50:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:51:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 16:51:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 16:51:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 16:53:04:  Guardian has detected that the market is suspended

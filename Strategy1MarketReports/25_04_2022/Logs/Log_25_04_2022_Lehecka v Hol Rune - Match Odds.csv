@@ -1,0 +1,441 @@
+4/25/2022 11:17:44: [G_Auto 2] :  Store Text Value (Shared) for Jiri Lehecka: info = marketName: Lehecka v Hol Rune - Match Odds; runnerA: Jiri Lehecka; runnerB: Holger Rune 
+4/25/2022 11:17:44: [G_Auto 2] :  Store Value (Shared) for market: aId = 13203243
+4/25/2022 11:17:44: [G_Auto 2] :  Store Value (Shared) for market: bId = 39127965
+4/25/2022 14:52:12:  Guardian has detected that the market is in-play
+4/25/2022 14:52:12:  Guardian has detected that the market is suspended
+4/25/2022 14:52:13: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 2.72; bBsp: 1.58; volume: 65248.85 
+4/25/2022 14:52:13: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 2.72; bBsp: 1.58; volume: 65248.85 
+4/25/2022 14:52:13:  Guardian has detected that the market is now unsuspended
+4/25/2022 14:52:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 14:52:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 14:54:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 14:54:46: [G_Auto 1] :  € 12.31 Lay bet placed on Holger Rune at 1.65. Fully matched at 1.65.  Ref: 10089          ( Fill or kill bet with 15 seconds delay.   )
+4/25/2022 14:54:47: [G_Auto 2] :  Store Text Value (Shared) for Jiri Lehecka: aPoints = point: 0; games: 1; sets: 0 
+4/25/2022 14:54:47: [G_Auto 2] :  Store Text Value (Shared) for Jiri Lehecka: aServing = serving:0
+4/25/2022 14:54:47: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: bPoints = point: 0; games: 0; sets: 0 
+4/25/2022 14:54:47: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: bServing = serving:2
+4/25/2022 14:54:47: [G_Auto 2] :  Store Value (Shared) for market: price = 1.65
+4/25/2022 14:54:47: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+4/25/2022 14:54:47: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 12.31
+4/25/2022 14:54:47: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.31
+4/25/2022 14:54:47: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 12.31
+4/25/2022 14:54:47: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.15
+4/25/2022 14:54:47: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.58
+4/25/2022 14:54:47: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.63
+4/25/2022 14:54:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 14:55:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 14:55:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 14:55:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 14:55:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 14:56:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 14:57:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 14:57:33: [G_Auto 1] :  Placed closure bet with greening on Holger Rune by Backing 13.02 at 1.56
+4/25/2022 14:57:34: [G_Auto 2] :  Store Text Value (Shared) for Jiri Lehecka: aPoints = point: 0; games: 1; sets: 0 
+4/25/2022 14:57:34: [G_Auto 2] :  Store Text Value (Shared) for Jiri Lehecka: aServing = serving:1
+4/25/2022 14:57:34: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: bPoints = point: 0; games: 1; sets: 0 
+4/25/2022 14:57:34: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: bServing = serving:0
+4/25/2022 14:57:34: [G_Auto 2] :  Store Value (Shared) for market: price = 1.56
+4/25/2022 14:57:34: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 13.02
+4/25/2022 14:57:34: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 12.31
+4/25/2022 14:57:34: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.02
+4/25/2022 14:57:34: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 25.33
+4/25/2022 14:57:34: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.71
+4/25/2022 14:57:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.74
+4/25/2022 14:57:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.56
+4/25/2022 14:57:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 14:57:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 14:57:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 14:58:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 15:03:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:03:16: [G_Auto 1] :  € 12.12 Lay bet placed on Holger Rune at 1.66. Fully matched at 1.65.  Ref: 10091          ( Fill or kill bet with 15 seconds delay.   )
+4/25/2022 15:03:17: [G_Auto 2] :  Store Text Value (Shared) for Jiri Lehecka: aPoints = point: 0; games: 2; sets: 0 
+4/25/2022 15:03:17: [G_Auto 2] :  Store Text Value (Shared) for Jiri Lehecka: aServing = serving:0
+4/25/2022 15:03:17: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: bPoints = point: 0; games: 1; sets: 0 
+4/25/2022 15:03:17: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: bServing = serving:2
+4/25/2022 15:03:17: [G_Auto 2] :  Store Value (Shared) for market: price = 1.65
+4/25/2022 15:03:17: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 13.02
+4/25/2022 15:03:17: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 24.43
+4/25/2022 15:03:17: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.12
+4/25/2022 15:03:17: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 37.45
+4/25/2022 15:03:17: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.78
+4/25/2022 15:03:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.54
+4/25/2022 15:03:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.64
+4/25/2022 15:03:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:03:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:03:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:04:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:04:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:04:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:04:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:05:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 15:05:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 15:07:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:08:10: [G_Auto 1] :  € 10.26 Lay bet placed on Jiri Lehecka at 1.78. Entirely unmatched when it initially reached the market.   Ref: 10092          ( Fill or kill bet with 15 seconds delay.   )
+4/25/2022 15:08:10: [G_Auto 1] :  Placed closure bet with greening on Holger Rune by Backing 8.77 at 2.28
+4/25/2022 15:08:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:08:12: [G_Auto 1] :  € 10.26 of unmatched bet (Ref:10092) was filled before remainder was killed.
+4/25/2022 15:08:13: [G_Auto 2] :  Store Text Value (Shared) for Jiri Lehecka: aPoints = point: 0; games: 3; sets: 0 
+4/25/2022 15:08:13: [G_Auto 2] :  Store Text Value (Shared) for Jiri Lehecka: aServing = serving:1
+4/25/2022 15:08:13: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: bPoints = point: 0; games: 1; sets: 0 
+4/25/2022 15:08:13: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: bServing = serving:0
+4/25/2022 15:08:13: [G_Auto 2] :  Store Value (Shared) for market: price = 1.78
+4/25/2022 15:08:13: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 21.79
+4/25/2022 15:08:13: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 34.69
+4/25/2022 15:08:13: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.26
+4/25/2022 15:08:13: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 56.48
+4/25/2022 15:08:13: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.53
+4/25/2022 15:08:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.78
+4/25/2022 15:08:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.28
+4/25/2022 15:08:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:08:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:08:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 15:09:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 15:12:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:12:15: [G_Auto 1] :  € 11.76 Lay bet placed on Holger Rune at 1.68. Entirely unmatched when it initially reached the market.   Ref: 10094          ( Fill or kill bet with 15 seconds delay.   )
+4/25/2022 15:12:15: [G_Auto 1] :  Placed closure bet with greening on Jiri Lehecka by Backing 7.61 at 2.4
+4/25/2022 15:12:16: [G_Auto 2] :  Store Text Value (Shared) for Jiri Lehecka: aPoints = point: 0; games: 3; sets: 0 
+4/25/2022 15:12:16: [G_Auto 2] :  Store Text Value (Shared) for Jiri Lehecka: aServing = serving:0
+4/25/2022 15:12:16: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: bPoints = point: 0; games: 2; sets: 0 
+4/25/2022 15:12:16: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: bServing = serving:2
+4/25/2022 15:12:16: [G_Auto 2] :  Store Value (Shared) for market: price = 2.44
+4/25/2022 15:12:16: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 29.4
+4/25/2022 15:12:16: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 34.69
+4/25/2022 15:12:16: [G_Auto 2] :  Store Value (Shared) for market: stake = 7.61
+4/25/2022 15:12:16: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 64.09
+4/25/2022 15:12:16: [G_Auto 2] :  Store Value (Shared) for market: pl = 5.3
+4/25/2022 15:12:16: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.48
+4/25/2022 15:12:16: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.69
+4/25/2022 15:12:17: [G_Auto 1] :  € 11.76 of unmatched bet (Ref:10094) was filled before remainder was killed.
+4/25/2022 15:12:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:12:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:12:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:13:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:13:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:13:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:13:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:14:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:14:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 15:14:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 15:16:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:16:48: [G_Auto 1] :  Placed closure bet with greening on Holger Rune by Backing 8.37 at 2.36
+4/25/2022 15:16:48: [G_Auto 1] :  € 10.67 Lay bet placed on Jiri Lehecka at 1.75. Fully matched at 1.74.  Ref: 10097          ( Fill or kill bet with 15 seconds delay.   )
+4/25/2022 15:16:48: [G_Auto 2] :  Store Text Value (Shared) for Jiri Lehecka: aPoints = point: 0; games: 4; sets: 0 
+4/25/2022 15:16:48: [G_Auto 2] :  Store Text Value (Shared) for Jiri Lehecka: aServing = serving:1
+4/25/2022 15:16:48: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: bPoints = point: 0; games: 2; sets: 0 
+4/25/2022 15:16:48: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: bServing = serving:0
+4/25/2022 15:16:48: [G_Auto 2] :  Store Value (Shared) for market: price = 2.36
+4/25/2022 15:16:48: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 37.77
+4/25/2022 15:16:48: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 57.12
+4/25/2022 15:16:48: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.37
+4/25/2022 15:16:48: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 94.89
+4/25/2022 15:16:48: [G_Auto 2] :  Store Value (Shared) for market: pl = 8.56
+4/25/2022 15:16:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.74
+4/25/2022 15:16:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.36
+4/25/2022 15:16:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:17:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:17:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:17:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 15:17:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 15:17:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 15:20:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:20:37: [G_Auto 1] :  Placed closure bet with greening on Jiri Lehecka by Backing 11.86 at 1.54
+4/25/2022 15:20:38: [G_Auto 2] :  Store Text Value (Shared) for Jiri Lehecka: aPoints = point: 0; games: 5; sets: 0 
+4/25/2022 15:20:38: [G_Auto 2] :  Store Text Value (Shared) for Jiri Lehecka: aServing = serving:0
+4/25/2022 15:20:38: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: bPoints = point: 0; games: 2; sets: 0 
+4/25/2022 15:20:38: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: bServing = serving:2
+4/25/2022 15:20:38: [G_Auto 2] :  Store Value (Shared) for market: price = 1.54
+4/25/2022 15:20:38: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 49.63
+4/25/2022 15:20:38: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 57.12
+4/25/2022 15:20:38: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.86
+4/25/2022 15:20:38: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 106.75
+4/25/2022 15:20:38: [G_Auto 2] :  Store Value (Shared) for market: pl = 7.34
+4/25/2022 15:20:38: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.55
+4/25/2022 15:20:38: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.82
+4/25/2022 15:20:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:20:44: [G_Auto 2] :  Store Text Value (Shared) for Jiri Lehecka: aPoints = point: 0; games: 5; sets: 0 
+4/25/2022 15:20:44: [G_Auto 2] :  Store Text Value (Shared) for Jiri Lehecka: aServing = serving:0
+4/25/2022 15:20:44: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: bPoints = point: 0; games: 2; sets: 0 
+4/25/2022 15:20:44: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: bServing = serving:2
+4/25/2022 15:20:44: [G_Auto 2] :  Store Value (Shared) for market: price = 1.54
+4/25/2022 15:20:44: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 49.63
+4/25/2022 15:20:44: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 57.12
+4/25/2022 15:20:44: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.86
+4/25/2022 15:20:44: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 106.75
+4/25/2022 15:20:44: [G_Auto 2] :  Store Value (Shared) for market: pl = 7.34
+4/25/2022 15:20:44: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.53
+4/25/2022 15:20:44: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.84
+4/25/2022 15:20:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:21:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:21:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:21:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:21:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:22:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:22:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 15:23:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:23:38: [G_Auto 1] :  € 12.50 Lay bet placed on Jiri Lehecka at 1.64. Entirely unmatched when it initially reached the market.   Ref: 10099          ( Fill or kill bet with 15 seconds delay.   )
+4/25/2022 15:23:40: [G_Auto 2] :  Store Text Value (Shared) for Jiri Lehecka: aPoints = point: 0; games: 5; sets: 0 
+4/25/2022 15:23:40: [G_Auto 2] :  Store Text Value (Shared) for Jiri Lehecka: aServing = serving:1
+4/25/2022 15:23:40: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: bPoints = point: 0; games: 3; sets: 0 
+4/25/2022 15:23:40: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: bServing = serving:0
+4/25/2022 15:23:40: [G_Auto 2] :  Store Value (Shared) for market: price = 1.64
+4/25/2022 15:23:40: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 49.63
+4/25/2022 15:23:40: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 69.62
+4/25/2022 15:23:40: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.5
+4/25/2022 15:23:40: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 119.25
+4/25/2022 15:23:40: [G_Auto 2] :  Store Value (Shared) for market: pl = 7.19
+4/25/2022 15:23:40: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.62
+4/25/2022 15:23:40: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.62
+4/25/2022 15:23:41: [G_Auto 1] :  € 12.5 of unmatched bet (Ref:10099) was filled before remainder was killed.
+4/25/2022 15:23:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:23:46: [G_Auto 2] :  Store Text Value (Shared) for Jiri Lehecka: aPoints = point: 0; games: 5; sets: 0 
+4/25/2022 15:23:46: [G_Auto 2] :  Store Text Value (Shared) for Jiri Lehecka: aServing = serving:1
+4/25/2022 15:23:46: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: bPoints = point: 0; games: 3; sets: 0 
+4/25/2022 15:23:46: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: bServing = serving:0
+4/25/2022 15:23:46: [G_Auto 2] :  Store Value (Shared) for market: price = 1.64
+4/25/2022 15:23:46: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 49.63
+4/25/2022 15:23:46: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 69.62
+4/25/2022 15:23:46: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.5
+4/25/2022 15:23:46: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 119.25
+4/25/2022 15:23:46: [G_Auto 2] :  Store Value (Shared) for market: pl = 7.11
+4/25/2022 15:23:46: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.62
+4/25/2022 15:23:46: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.6
+4/25/2022 15:23:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:24:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 15:24:16: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 15:24:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 15:27:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:27:47: [G_Auto 1] :  € 10.13 Lay bet placed on Holger Rune at 1.79. Fully matched at 1.79.  Ref: 10101          ( Fill or kill bet with 15 seconds delay.   )
+4/25/2022 15:27:47: [G_Auto 1] :  Placed closure bet with greening on Jiri Lehecka by Backing 9.07 at 2.26
+4/25/2022 15:27:47: [G_Auto 2] :  Store Text Value (Shared) for Jiri Lehecka: aPoints = point: 0; games: 5; sets: 0 
+4/25/2022 15:27:47: [G_Auto 2] :  Store Text Value (Shared) for Jiri Lehecka: aServing = serving:0
+4/25/2022 15:27:47: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: bPoints = point: 0; games: 4; sets: 0 
+4/25/2022 15:27:47: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: bServing = serving:2
+4/25/2022 15:27:47: [G_Auto 2] :  Store Value (Shared) for market: price = 2.26
+4/25/2022 15:27:47: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 58.7
+4/25/2022 15:27:47: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 79.75
+4/25/2022 15:27:47: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.07
+4/25/2022 15:27:47: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 138.45
+4/25/2022 15:27:47: [G_Auto 2] :  Store Value (Shared) for market: pl = 10.64
+4/25/2022 15:27:47: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.26
+4/25/2022 15:27:47: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.79
+4/25/2022 15:27:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:28:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:28:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:28:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:28:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:29:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:29:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:29:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:29:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:30:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 15:30:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 15:31:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:31:34: [G_Auto 1] :  Placed closure bet with greening on Holger Rune by Backing 11.86 at 1.53
+4/25/2022 15:31:35: [G_Auto 2] :  Store Text Value (Shared) for Jiri Lehecka: aPoints = point: 0; games: 5; sets: 0 
+4/25/2022 15:31:35: [G_Auto 2] :  Store Text Value (Shared) for Jiri Lehecka: aServing = serving:1
+4/25/2022 15:31:35: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: bPoints = point: 0; games: 5; sets: 0 
+4/25/2022 15:31:35: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: bServing = serving:0
+4/25/2022 15:31:35: [G_Auto 2] :  Store Value (Shared) for market: price = 1.53
+4/25/2022 15:31:35: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 70.56
+4/25/2022 15:31:35: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 79.75
+4/25/2022 15:31:35: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.86
+4/25/2022 15:31:35: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 150.31
+4/25/2022 15:31:35: [G_Auto 2] :  Store Value (Shared) for market: pl = 9.01
+4/25/2022 15:31:35: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.84
+4/25/2022 15:31:35: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.54
+4/25/2022 15:31:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:31:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:31:55: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 15:32:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 15:33:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:33:53: [G_Auto 1] :  € 34.78 Lay bet placed on Holger Rune at 1.23. Fully matched at 1.22.  Ref: 10107          ( Fill or kill bet with 15 seconds delay.   )
+4/25/2022 15:33:54: [G_Auto 2] :  Store Text Value (Shared) for Jiri Lehecka: aPoints = point: 0; games: 5; sets: 0 
+4/25/2022 15:33:54: [G_Auto 2] :  Store Text Value (Shared) for Jiri Lehecka: aServing = serving:0
+4/25/2022 15:33:54: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: bPoints = point: 0; games: 6; sets: 0 
+4/25/2022 15:33:54: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: bServing = serving:2
+4/25/2022 15:33:54: [G_Auto 2] :  Store Value (Shared) for market: price = 1.22
+4/25/2022 15:33:54: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 70.56
+4/25/2022 15:33:54: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 114.53
+4/25/2022 15:33:54: [G_Auto 2] :  Store Value (Shared) for market: stake = 34.78
+4/25/2022 15:33:54: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 185.09
+4/25/2022 15:33:54: [G_Auto 2] :  Store Value (Shared) for market: pl = 8.73
+4/25/2022 15:33:54: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 5.7
+4/25/2022 15:33:54: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.22
+4/25/2022 15:33:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:34:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:34:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:34:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:34:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:35:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:35:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:35:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:35:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 15:36:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 15:38:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:38:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:38:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:38:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 15:39:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 15:39:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 15:39:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 15:39:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 15:40:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 15:40:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 15:40:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 15:40:55: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 15:41:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 15:41:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 15:41:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 15:41:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 15:42:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 15:42:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 15:42:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 15:43:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 15:43:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 15:43:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 15:43:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 15:44:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 15:44:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 15:44:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 15:44:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 15:45:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 15:45:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 15:45:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 15:45:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 15:46:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 15:46:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 15:46:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:46:30: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 7
+4/25/2022 15:46:30: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 1.17
+4/25/2022 15:46:36: [G_Auto 1] :  € 42.11 Lay bet placed on Holger Rune at 1.19. Fully matched at 1.18.  Ref: 10112          ( Fill or kill bet with 15 seconds delay.   )
+4/25/2022 15:46:37: [G_Auto 2] :  Store Text Value (Shared) for Jiri Lehecka: aPoints = point: 0; games: 0; sets: 0 
+4/25/2022 15:46:37: [G_Auto 2] :  Store Text Value (Shared) for Jiri Lehecka: aServing = serving:0
+4/25/2022 15:46:37: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: bPoints = point: 0; games: 0; sets: 1 
+4/25/2022 15:46:37: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: bServing = serving:2
+4/25/2022 15:46:37: [G_Auto 2] :  Store Value (Shared) for market: price = 1.18
+4/25/2022 15:46:37: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 70.56
+4/25/2022 15:46:37: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 156.64
+4/25/2022 15:46:37: [G_Auto 2] :  Store Value (Shared) for market: stake = 42.11
+4/25/2022 15:46:37: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 227.2
+4/25/2022 15:46:37: [G_Auto 2] :  Store Value (Shared) for market: pl = 7.2
+4/25/2022 15:46:37: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 6.8
+4/25/2022 15:46:37: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.18
+4/25/2022 15:46:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:46:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:47:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:47:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:47:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:47:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:48:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:48:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:48:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:48:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:49:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:49:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:49:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:50:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:50:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:50:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:50:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:51:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:51:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:51:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:51:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:52:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:52:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:52:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:52:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:53:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:53:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 15:53:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 15:55:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:55:15: [G_Auto 1] :  Placed closure bet with greening on Holger Rune by Backing 82.25 at 1.12
+4/25/2022 15:55:16: [G_Auto 2] :  Store Text Value (Shared) for Jiri Lehecka: aPoints = point: 0; games: 0; sets: 0 
+4/25/2022 15:55:16: [G_Auto 2] :  Store Text Value (Shared) for Jiri Lehecka: aServing = serving:1
+4/25/2022 15:55:16: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: bPoints = point: 0; games: 1; sets: 1 
+4/25/2022 15:55:16: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: bServing = serving:0
+4/25/2022 15:55:16: [G_Auto 2] :  Store Value (Shared) for market: price = 1.12
+4/25/2022 15:55:16: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 152.81
+4/25/2022 15:55:16: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 156.64
+4/25/2022 15:55:16: [G_Auto 2] :  Store Value (Shared) for market: stake = 82.25
+4/25/2022 15:55:16: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 309.45
+4/25/2022 15:55:16: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.75
+4/25/2022 15:55:16: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 8.6
+4/25/2022 15:55:16: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.13
+4/25/2022 15:55:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:55:22: [G_Auto 2] :  Store Text Value (Shared) for Jiri Lehecka: aPoints = point: 0; games: 0; sets: 0 
+4/25/2022 15:55:22: [G_Auto 2] :  Store Text Value (Shared) for Jiri Lehecka: aServing = serving:1
+4/25/2022 15:55:22: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: bPoints = point: 0; games: 1; sets: 1 
+4/25/2022 15:55:22: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: bServing = serving:0
+4/25/2022 15:55:22: [G_Auto 2] :  Store Value (Shared) for market: price = 1.12
+4/25/2022 15:55:22: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 152.81
+4/25/2022 15:55:22: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 156.64
+4/25/2022 15:55:22: [G_Auto 2] :  Store Value (Shared) for market: stake = 82.25
+4/25/2022 15:55:22: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 309.45
+4/25/2022 15:55:22: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.75
+4/25/2022 15:55:22: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 8.6
+4/25/2022 15:55:22: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.14
+4/25/2022 15:55:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:55:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:56:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:56:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 15:56:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 15:56:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 15:59:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 15:59:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 16:00:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 16:00:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 16:00:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 16:00:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 16:03:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 16:03:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 16:04:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 16:04:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 16:04:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 16:04:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 16:05:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 16:05:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 16:05:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 16:05:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 16:05:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 16:06:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 16:10:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 16:10:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 16:11:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 16:11:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 16:11:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 16:12:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 16:12:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 16:13:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 16:13:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 16:13:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 16:13:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 16:14:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 16:14:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 16:14:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 16:14:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 16:15:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 16:15:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 16:17:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 16:17:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 16:17:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 16:17:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 16:18:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 16:20:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 16:21:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 16:21:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 16:21:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 16:21:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 16:22:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 16:22:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 16:22:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 16:22:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 16:22:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 16:24:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 16:24:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 16:24:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 16:24:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 16:25:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 16:25:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 16:28:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 16:28:55:  Guardian has detected that the market is suspended
