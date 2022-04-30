@@ -1,0 +1,65 @@
+4/28/2022 09:56:54: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: info = marketName: Se Baez v Cilic - Match Odds; runnerA: Sebastian Baez; runnerB: Marin Cilic 
+4/28/2022 09:56:54: [G_Auto 2] :  Store Value (Shared) for market: aId = 11285506
+4/28/2022 09:56:54: [G_Auto 2] :  Store Value (Shared) for market: bId = 2263681
+4/28/2022 15:39:08:  Guardian has detected that the market is in-play
+4/28/2022 15:39:08:  Guardian has detected that the market is suspended
+4/28/2022 15:39:13: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.86; bBsp: 2.16; volume: 50336.78 
+4/28/2022 15:39:13: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.86; bBsp: 2.16; volume: 50336.78 
+4/28/2022 15:39:13:  Guardian has detected that the market is now unsuspended
+4/28/2022 16:03:01: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 5.1
+4/28/2022 16:03:01: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 1.23
+4/28/2022 16:03:04: [G_Auto 1] :  € 10.00 Back bet placed on Sebastian Baez at 5.1. Fully matched at 5.2.  Ref: 10180
+4/28/2022 16:03:07: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: aPoints = point: 0; games: 0; sets: 0 
+4/28/2022 16:03:07: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: aServing = serving:1
+4/28/2022 16:03:07: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 0; sets: 1 
+4/28/2022 16:03:07: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:0
+4/28/2022 16:03:07: [G_Auto 2] :  Store Value (Shared) for market: price = 5.2
+4/28/2022 16:03:07: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 10
+4/28/2022 16:03:07: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 0
+4/28/2022 16:03:07: [G_Auto 2] :  Store Value (Shared) for market: stake = 10
+4/28/2022 16:03:07: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 10
+4/28/2022 16:03:07: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.37
+4/28/2022 16:03:07: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 5.1
+4/28/2022 16:03:07: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.23
+4/28/2022 16:11:23: [G_Auto 1] :  € 2.50 Lay bet placed on Sebastian Baez at 2.64. Fully matched at 2.62.  Ref: 10181
+4/28/2022 16:11:24: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: aPoints = point: 0; games: 2; sets: 0 
+4/28/2022 16:11:24: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: aServing = serving:1
+4/28/2022 16:11:24: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 0; sets: 1 
+4/28/2022 16:11:24: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:0
+4/28/2022 16:11:24: [G_Auto 2] :  Store Value (Shared) for market: price = 2.62
+4/28/2022 16:11:24: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 10
+4/28/2022 16:11:24: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 2.5
+4/28/2022 16:11:24: [G_Auto 2] :  Store Value (Shared) for market: stake = 2.5
+4/28/2022 16:11:24: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 12.5
+4/28/2022 16:11:24: [G_Auto 2] :  Store Value (Shared) for market: pl = 9.65
+4/28/2022 16:11:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.62
+4/28/2022 16:11:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.63
+4/28/2022 16:21:18: [G_Auto 1] :  € 3.00 Lay bet placed on Sebastian Baez at 1.98. Fully matched at 1.97.  Ref: 10182
+4/28/2022 16:21:19: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: aPoints = point: 0; games: 4; sets: 0 
+4/28/2022 16:21:19: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: aServing = serving:1
+4/28/2022 16:21:19: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 0; sets: 1 
+4/28/2022 16:21:19: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:0
+4/28/2022 16:21:19: [G_Auto 2] :  Store Value (Shared) for market: price = 1.97
+4/28/2022 16:21:19: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 10
+4/28/2022 16:21:19: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 5.5
+4/28/2022 16:21:19: [G_Auto 2] :  Store Value (Shared) for market: stake = 3
+4/28/2022 16:21:19: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 15.5
+4/28/2022 16:21:19: [G_Auto 2] :  Store Value (Shared) for market: pl = 15.26
+4/28/2022 16:21:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.97
+4/28/2022 16:21:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.02
+4/28/2022 16:30:18: [G_Auto 2] :  Store Value (Shared) for market: aSecondSetPrice = 1.8
+4/28/2022 16:30:18: [G_Auto 2] :  Store Value (Shared) for market: bSecondSetPrice = 2.24
+4/28/2022 16:30:21: [G_Auto 1] :  € 4.50 Lay bet placed on Sebastian Baez at 1.82. Fully matched at 1.81.  Ref: 10183
+4/28/2022 16:30:23: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: aPoints = point: 0; games: 0; sets: 1 
+4/28/2022 16:30:23: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: aServing = serving:0
+4/28/2022 16:30:23: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 0; sets: 1 
+4/28/2022 16:30:23: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:2
+4/28/2022 16:30:23: [G_Auto 2] :  Store Value (Shared) for market: price = 1.81
+4/28/2022 16:30:23: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 10
+4/28/2022 16:30:23: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 10
+4/28/2022 16:30:23: [G_Auto 2] :  Store Value (Shared) for market: stake = 4.5
+4/28/2022 16:30:23: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 20
+4/28/2022 16:30:23: [G_Auto 2] :  Store Value (Shared) for market: pl = 16.91
+4/28/2022 16:30:23: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.81
+4/28/2022 16:30:23: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.2
+4/28/2022 17:29:26:  Guardian has detected that the market is suspended

@@ -1,0 +1,321 @@
+4/29/2022 12:53:55: [G_Auto 2] :  Store Text Value (Shared) for Albert Ramos-Vinolas: info = marketName: Ramos-Vinolas v Verdasco - Match Odds; runnerA: Albert Ramos-Vinolas; runnerB: Fernando Verdasco 
+4/29/2022 12:53:55: [G_Auto 2] :  Store Value (Shared) for market: aId = 8621877
+4/29/2022 12:53:55: [G_Auto 2] :  Store Value (Shared) for market: bId = 2256480
+4/29/2022 13:08:40:  Guardian has detected that the market is in-play
+4/29/2022 13:08:40:  Guardian has detected that the market is suspended
+4/29/2022 13:08:43: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.43; bBsp: 3.35; volume: 57590.14 
+4/29/2022 13:08:43: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.43; bBsp: 3.35; volume: 57590.14 
+4/29/2022 13:08:43:  Guardian has detected that the market is now unsuspended
+4/29/2022 13:08:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 13:09:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 13:09:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 13:12:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:13:02: [G_Auto 1] :  € 17.02 Lay bet placed on Albert Ramos-Vinolas at 1.47. Fully matched at 1.46.  Ref: 10889          ( Fill or kill bet with 15 seconds delay.   )
+4/29/2022 13:13:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:13:05: [G_Auto 2] :  Store Text Value (Shared) for Albert Ramos-Vinolas: aPoints = point: 0; games: 0; sets: 0 
+4/29/2022 13:13:05: [G_Auto 2] :  Store Text Value (Shared) for Albert Ramos-Vinolas: aServing = serving:1
+4/29/2022 13:13:05: [G_Auto 2] :  Store Text Value (Shared) for Fernando Verdasco: bPoints = point: 0; games: 1; sets: 0 
+4/29/2022 13:13:05: [G_Auto 2] :  Store Text Value (Shared) for Fernando Verdasco: bServing = serving:0
+4/29/2022 13:13:05: [G_Auto 2] :  Store Value (Shared) for market: price = 1.46
+4/29/2022 13:13:05: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+4/29/2022 13:13:05: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 17.02
+4/29/2022 13:13:05: [G_Auto 2] :  Store Value (Shared) for market: stake = 17.02
+4/29/2022 13:13:05: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 17.02
+4/29/2022 13:13:05: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.12
+4/29/2022 13:13:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.45
+4/29/2022 13:13:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.25
+4/29/2022 13:13:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:13:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:13:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:13:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 13:14:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 13:22:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:22:16: [G_Auto 1] :  Placed closure bet with greening on Albert Ramos-Vinolas by Backing 17.14 at 1.45
+4/29/2022 13:22:16: [G_Auto 2] :  Store Text Value (Shared) for Albert Ramos-Vinolas: aPoints = point: 0; games: 1; sets: 0 
+4/29/2022 13:22:16: [G_Auto 2] :  Store Text Value (Shared) for Albert Ramos-Vinolas: aServing = serving:0
+4/29/2022 13:22:16: [G_Auto 2] :  Store Text Value (Shared) for Fernando Verdasco: bPoints = point: 0; games: 1; sets: 0 
+4/29/2022 13:22:16: [G_Auto 2] :  Store Text Value (Shared) for Fernando Verdasco: bServing = serving:2
+4/29/2022 13:22:16: [G_Auto 2] :  Store Value (Shared) for market: price = 1.45
+4/29/2022 13:22:16: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 17.14
+4/29/2022 13:22:16: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 17.02
+4/29/2022 13:22:16: [G_Auto 2] :  Store Value (Shared) for market: stake = 17.14
+4/29/2022 13:22:16: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 34.16
+4/29/2022 13:22:16: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.12
+4/29/2022 13:22:16: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.46
+4/29/2022 13:22:16: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.15
+4/29/2022 13:22:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:22:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:22:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:22:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 13:23:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 13:24:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:24:23: [G_Auto 1] :  € 13.11 Lay bet placed on Albert Ramos-Vinolas at 1.61. Fully matched at 1.6.  Ref: 10891          ( Fill or kill bet with 15 seconds delay.   )
+4/29/2022 13:24:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:24:26: [G_Auto 2] :  Store Text Value (Shared) for Albert Ramos-Vinolas: aPoints = point: 0; games: 1; sets: 0 
+4/29/2022 13:24:26: [G_Auto 2] :  Store Text Value (Shared) for Albert Ramos-Vinolas: aServing = serving:1
+4/29/2022 13:24:26: [G_Auto 2] :  Store Text Value (Shared) for Fernando Verdasco: bPoints = point: 0; games: 2; sets: 0 
+4/29/2022 13:24:26: [G_Auto 2] :  Store Text Value (Shared) for Fernando Verdasco: bServing = serving:0
+4/29/2022 13:24:26: [G_Auto 2] :  Store Value (Shared) for market: price = 1.6
+4/29/2022 13:24:26: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 17.14
+4/29/2022 13:24:26: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 30.13
+4/29/2022 13:24:26: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.11
+4/29/2022 13:24:26: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 47.27
+4/29/2022 13:24:26: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.2
+4/29/2022 13:24:26: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.59
+4/29/2022 13:24:26: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.7
+4/29/2022 13:24:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:24:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:25:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:25:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:25:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:25:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:26:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:26:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:26:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 13:26:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 13:27:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 13:29:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:29:48: [G_Auto 1] :  Placed closure bet with greening on Albert Ramos-Vinolas by Backing 13.98 at 1.5
+4/29/2022 13:29:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:29:51: [G_Auto 2] :  Store Text Value (Shared) for Albert Ramos-Vinolas: aPoints = point: 0; games: 2; sets: 0 
+4/29/2022 13:29:51: [G_Auto 2] :  Store Text Value (Shared) for Albert Ramos-Vinolas: aServing = serving:0
+4/29/2022 13:29:51: [G_Auto 2] :  Store Text Value (Shared) for Fernando Verdasco: bPoints = point: 0; games: 2; sets: 0 
+4/29/2022 13:29:51: [G_Auto 2] :  Store Text Value (Shared) for Fernando Verdasco: bServing = serving:2
+4/29/2022 13:29:51: [G_Auto 2] :  Store Value (Shared) for market: price = 1.5
+4/29/2022 13:29:51: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 31.12
+4/29/2022 13:29:51: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 30.13
+4/29/2022 13:29:51: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.98
+4/29/2022 13:29:51: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 61.25
+4/29/2022 13:29:51: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.99
+4/29/2022 13:29:51: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.52
+4/29/2022 13:29:51: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.96
+4/29/2022 13:30:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:30:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:30:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:30:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 13:30:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 13:31:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 13:34:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:34:28: [G_Auto 1] :  € 29.63 Lay bet placed on Albert Ramos-Vinolas at 1.27. Fully matched at 1.26.  Ref: 10893          ( Fill or kill bet with 15 seconds delay.   )
+4/29/2022 13:34:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:34:31: [G_Auto 2] :  Store Text Value (Shared) for Albert Ramos-Vinolas: aPoints = point: 0; games: 3; sets: 0 
+4/29/2022 13:34:31: [G_Auto 2] :  Store Text Value (Shared) for Albert Ramos-Vinolas: aServing = serving:1
+4/29/2022 13:34:31: [G_Auto 2] :  Store Text Value (Shared) for Fernando Verdasco: bPoints = point: 0; games: 2; sets: 0 
+4/29/2022 13:34:31: [G_Auto 2] :  Store Text Value (Shared) for Fernando Verdasco: bServing = serving:0
+4/29/2022 13:34:31: [G_Auto 2] :  Store Value (Shared) for market: price = 1.26
+4/29/2022 13:34:31: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 31.12
+4/29/2022 13:34:31: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 59.76
+4/29/2022 13:34:31: [G_Auto 2] :  Store Value (Shared) for market: stake = 29.63
+4/29/2022 13:34:31: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 90.88
+4/29/2022 13:34:31: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.23
+4/29/2022 13:34:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.25
+4/29/2022 13:34:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.8
+4/29/2022 13:34:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:35:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:35:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:35:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:35:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:36:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:36:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:36:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:36:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 13:36:55: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 13:37:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 13:39:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:40:10: [G_Auto 1] :  Placed closure bet with greening on Albert Ramos-Vinolas by Backing 30.60 at 1.22
+4/29/2022 13:40:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:40:14: [G_Auto 2] :  Store Text Value (Shared) for Albert Ramos-Vinolas: aPoints = point: 0; games: 4; sets: 0 
+4/29/2022 13:40:14: [G_Auto 2] :  Store Text Value (Shared) for Albert Ramos-Vinolas: aServing = serving:0
+4/29/2022 13:40:14: [G_Auto 2] :  Store Text Value (Shared) for Fernando Verdasco: bPoints = point: 0; games: 2; sets: 0 
+4/29/2022 13:40:14: [G_Auto 2] :  Store Text Value (Shared) for Fernando Verdasco: bServing = serving:2
+4/29/2022 13:40:14: [G_Auto 2] :  Store Value (Shared) for market: price = 1.22
+4/29/2022 13:40:14: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 61.72
+4/29/2022 13:40:14: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 59.76
+4/29/2022 13:40:14: [G_Auto 2] :  Store Value (Shared) for market: stake = 30.6
+4/29/2022 13:40:14: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 121.48
+4/29/2022 13:40:14: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.96
+4/29/2022 13:40:14: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.23
+4/29/2022 13:40:14: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.3
+4/29/2022 13:40:20: [G_Auto 2] :  Store Text Value (Shared) for Albert Ramos-Vinolas: aPoints = point: 0; games: 4; sets: 0 
+4/29/2022 13:40:20: [G_Auto 2] :  Store Text Value (Shared) for Albert Ramos-Vinolas: aServing = serving:0
+4/29/2022 13:40:20: [G_Auto 2] :  Store Text Value (Shared) for Fernando Verdasco: bPoints = point: 0; games: 2; sets: 0 
+4/29/2022 13:40:20: [G_Auto 2] :  Store Text Value (Shared) for Fernando Verdasco: bServing = serving:2
+4/29/2022 13:40:20: [G_Auto 2] :  Store Value (Shared) for market: price = 1.22
+4/29/2022 13:40:20: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 61.72
+4/29/2022 13:40:20: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 59.76
+4/29/2022 13:40:20: [G_Auto 2] :  Store Value (Shared) for market: stake = 30.6
+4/29/2022 13:40:20: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 121.48
+4/29/2022 13:40:20: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.96
+4/29/2022 13:40:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.23
+4/29/2022 13:40:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.3
+4/29/2022 13:40:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:40:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 13:40:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 13:41:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 13:43:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:43:35: [G_Auto 1] :  € 53.33 Lay bet placed on Albert Ramos-Vinolas at 1.15. Fully matched at 1.14.  Ref: 10895          ( Fill or kill bet with 15 seconds delay.   )
+4/29/2022 13:43:36: [G_Auto 2] :  Store Text Value (Shared) for Albert Ramos-Vinolas: aPoints = point: 0; games: 5; sets: 0 
+4/29/2022 13:43:36: [G_Auto 2] :  Store Text Value (Shared) for Albert Ramos-Vinolas: aServing = serving:1
+4/29/2022 13:43:36: [G_Auto 2] :  Store Text Value (Shared) for Fernando Verdasco: bPoints = point: 0; games: 2; sets: 0 
+4/29/2022 13:43:36: [G_Auto 2] :  Store Text Value (Shared) for Fernando Verdasco: bServing = serving:0
+4/29/2022 13:43:36: [G_Auto 2] :  Store Value (Shared) for market: price = 1.14
+4/29/2022 13:43:36: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 61.72
+4/29/2022 13:43:36: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 113.09
+4/29/2022 13:43:36: [G_Auto 2] :  Store Value (Shared) for market: stake = 53.33
+4/29/2022 13:43:36: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 174.81
+4/29/2022 13:43:36: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.44
+4/29/2022 13:43:36: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.12
+4/29/2022 13:43:36: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 8.6
+4/29/2022 13:43:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:43:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:44:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:44:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:44:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:44:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:45:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:45:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:45:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 13:45:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 13:46:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 13:47:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:48:05: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 1.12
+4/29/2022 13:48:05: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 9
+4/29/2022 13:48:08: [G_Auto 1] :  Placed closure bet with greening on Albert Ramos-Vinolas by Backing 54.29 at 1.12
+4/29/2022 13:48:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:48:11: [G_Auto 2] :  Store Text Value (Shared) for Albert Ramos-Vinolas: aPoints = point: 0; games: 0; sets: 1 
+4/29/2022 13:48:11: [G_Auto 2] :  Store Text Value (Shared) for Albert Ramos-Vinolas: aServing = serving:0
+4/29/2022 13:48:11: [G_Auto 2] :  Store Text Value (Shared) for Fernando Verdasco: bPoints = point: 0; games: 0; sets: 0 
+4/29/2022 13:48:11: [G_Auto 2] :  Store Text Value (Shared) for Fernando Verdasco: bServing = serving:2
+4/29/2022 13:48:11: [G_Auto 2] :  Store Value (Shared) for market: price = 1.12
+4/29/2022 13:48:11: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 116.01
+4/29/2022 13:48:11: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 113.09
+4/29/2022 13:48:11: [G_Auto 2] :  Store Value (Shared) for market: stake = 54.29
+4/29/2022 13:48:11: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 229.1
+4/29/2022 13:48:11: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.92
+4/29/2022 13:48:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.13
+4/29/2022 13:48:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 9
+4/29/2022 13:48:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:48:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:48:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:49:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:49:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:49:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:49:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:50:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:50:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:50:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:51:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:51:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:51:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:51:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:52:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:52:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:52:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:52:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:52:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 13:53:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 13:59:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:59:13: [G_Auto 1] :  € 44.44 Lay bet placed on Albert Ramos-Vinolas at 1.18. Fully matched at 1.17.  Ref: 10899          ( Fill or kill bet with 15 seconds delay.   )
+4/29/2022 13:59:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:59:16: [G_Auto 2] :  Store Text Value (Shared) for Albert Ramos-Vinolas: aPoints = point: 0; games: 0; sets: 1 
+4/29/2022 13:59:16: [G_Auto 2] :  Store Text Value (Shared) for Albert Ramos-Vinolas: aServing = serving:1
+4/29/2022 13:59:16: [G_Auto 2] :  Store Text Value (Shared) for Fernando Verdasco: bPoints = point: 0; games: 1; sets: 0 
+4/29/2022 13:59:16: [G_Auto 2] :  Store Text Value (Shared) for Fernando Verdasco: bServing = serving:0
+4/29/2022 13:59:16: [G_Auto 2] :  Store Value (Shared) for market: price = 1.17
+4/29/2022 13:59:16: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 116.01
+4/29/2022 13:59:16: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 157.53
+4/29/2022 13:59:16: [G_Auto 2] :  Store Value (Shared) for market: stake = 44.44
+4/29/2022 13:59:16: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 273.54
+4/29/2022 13:59:16: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.92
+4/29/2022 13:59:16: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.17
+4/29/2022 13:59:16: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 7
+4/29/2022 13:59:22: [G_Auto 2] :  Store Text Value (Shared) for Albert Ramos-Vinolas: aPoints = point: 0; games: 0; sets: 1 
+4/29/2022 13:59:22: [G_Auto 2] :  Store Text Value (Shared) for Albert Ramos-Vinolas: aServing = serving:1
+4/29/2022 13:59:22: [G_Auto 2] :  Store Text Value (Shared) for Fernando Verdasco: bPoints = point: 0; games: 1; sets: 0 
+4/29/2022 13:59:22: [G_Auto 2] :  Store Text Value (Shared) for Fernando Verdasco: bServing = serving:0
+4/29/2022 13:59:22: [G_Auto 2] :  Store Value (Shared) for market: price = 1.17
+4/29/2022 13:59:22: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 116.01
+4/29/2022 13:59:22: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 157.53
+4/29/2022 13:59:22: [G_Auto 2] :  Store Value (Shared) for market: stake = 44.44
+4/29/2022 13:59:22: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 273.54
+4/29/2022 13:59:22: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.92
+4/29/2022 13:59:22: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.17
+4/29/2022 13:59:22: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 7
+4/29/2022 13:59:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 13:59:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 14:00:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 14:00:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 14:00:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 14:00:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 14:02:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 14:02:21: [G_Auto 1] :  Placed closure bet with greening on Albert Ramos-Vinolas by Backing 46.01 at 1.13
+4/29/2022 14:02:21: [G_Auto 2] :  Store Text Value (Shared) for Albert Ramos-Vinolas: aPoints = point: 0; games: 1; sets: 1 
+4/29/2022 14:02:21: [G_Auto 2] :  Store Text Value (Shared) for Albert Ramos-Vinolas: aServing = serving:0
+4/29/2022 14:02:21: [G_Auto 2] :  Store Text Value (Shared) for Fernando Verdasco: bPoints = point: 0; games: 1; sets: 0 
+4/29/2022 14:02:21: [G_Auto 2] :  Store Text Value (Shared) for Fernando Verdasco: bServing = serving:2
+4/29/2022 14:02:21: [G_Auto 2] :  Store Value (Shared) for market: price = 1.13
+4/29/2022 14:02:21: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 162.02
+4/29/2022 14:02:21: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 157.53
+4/29/2022 14:02:21: [G_Auto 2] :  Store Value (Shared) for market: stake = 46.01
+4/29/2022 14:02:21: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 319.55
+4/29/2022 14:02:21: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.49
+4/29/2022 14:02:21: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.13
+4/29/2022 14:02:21: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 8.6
+4/29/2022 14:02:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 14:02:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 14:02:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 14:03:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 14:03:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 14:03:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 14:03:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 14:04:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 14:07:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 14:07:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 14:08:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 14:08:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 14:08:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 14:08:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 14:09:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 14:09:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 14:09:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 14:09:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 14:10:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 14:10:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 14:12:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 14:12:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 14:13:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 14:13:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 14:13:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 14:13:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 14:15:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 14:16:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 14:16:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 14:16:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 14:17:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 14:17:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 14:17:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 14:17:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 14:18:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 14:18:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 14:18:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 14:18:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 14:20:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 14:20:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 14:20:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 14:21:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 14:21:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 14:21:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 14:23:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 14:23:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 14:24:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 14:24:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 14:24:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 14:24:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 14:25:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 14:25:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 14:25:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 14:25:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 14:26:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 14:26:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 14:29:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 14:29:22:  Guardian has detected that the market is suspended

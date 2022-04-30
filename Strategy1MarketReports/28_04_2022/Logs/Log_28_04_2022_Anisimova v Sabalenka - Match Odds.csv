@@ -1,0 +1,599 @@
+4/28/2022 09:51:23: [G_Auto 2] :  Store Text Value (Shared) for A Anisimova: info = marketName: Anisimova v Sabalenka - Match Odds; runnerA: A Anisimova; runnerB: Aryna Sabalenka 
+4/28/2022 09:51:23: [G_Auto 2] :  Store Value (Shared) for market: aId = 44548586
+4/28/2022 09:51:23: [G_Auto 2] :  Store Value (Shared) for market: bId = 9628840
+4/28/2022 14:58:59:  Guardian has detected that the market is in-play
+4/28/2022 14:58:59:  Guardian has detected that the market is suspended
+4/28/2022 14:59:01: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 2.24; bBsp: 1.8; volume: 13210.89 
+4/28/2022 14:59:01: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 2.24; bBsp: 1.8; volume: 13210.89 
+4/28/2022 14:59:01:  Guardian has detected that the market is now unsuspended
+4/28/2022 14:59:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 14:59:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 14:59:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 15:03:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:03:33: [G_Auto 1] :  € 9.64 Lay bet placed on A Anisimova at 1.83. Entirely unmatched when it initially reached the market.   Ref: 10699          ( Fill or kill bet with 15 seconds delay.   )
+4/28/2022 15:03:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:03:40: [G_Auto 2] :  Store Text Value (Shared) for A Anisimova: aPoints = point: 0; games: 1; sets: 0 
+4/28/2022 15:03:40: [G_Auto 2] :  Store Text Value (Shared) for A Anisimova: aServing = serving:1
+4/28/2022 15:03:40: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: bPoints = point: 0; games: 0; sets: 0 
+4/28/2022 15:03:40: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: bServing = serving:0
+4/28/2022 15:03:40: [G_Auto 2] :  Store Value (Shared) for market: price = 1.83
+4/28/2022 15:03:40: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+4/28/2022 15:03:40: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 2.82
+4/28/2022 15:03:40: [G_Auto 2] :  Store Value (Shared) for market: stake = 2.82
+4/28/2022 15:03:40: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 2.82
+4/28/2022 15:03:40: [G_Auto 2] :  Store Value (Shared) for market: pl = 0
+4/28/2022 15:03:40: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.83
+4/28/2022 15:03:40: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.18
+4/28/2022 15:03:48: [G_Auto 1] :  € 5.19 of unmatched bet (Ref:10699) was filled before remainder was killed.
+4/28/2022 15:03:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:04:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:04:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:04:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 15:04:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 15:09:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:09:30: [G_Auto 1] :  Placed closure bet with greening on A Anisimova by Backing 5.55 at 1.71
+4/28/2022 15:09:32: [G_Auto 2] :  Store Text Value (Shared) for A Anisimova: aPoints = point: 0; games: 2; sets: 0 
+4/28/2022 15:09:32: [G_Auto 2] :  Store Text Value (Shared) for A Anisimova: aServing = serving:0
+4/28/2022 15:09:32: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: bPoints = point: 0; games: 0; sets: 0 
+4/28/2022 15:09:32: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: bServing = serving:2
+4/28/2022 15:09:32: [G_Auto 2] :  Store Value (Shared) for market: price = 1.71
+4/28/2022 15:09:32: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 5.55
+4/28/2022 15:09:32: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 5.19
+4/28/2022 15:09:32: [G_Auto 2] :  Store Value (Shared) for market: stake = 5.55
+4/28/2022 15:09:32: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 10.74
+4/28/2022 15:09:32: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.37
+4/28/2022 15:09:32: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.73
+4/28/2022 15:09:32: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.36
+4/28/2022 15:09:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:09:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:10:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:10:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 15:10:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 15:11:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:11:51: [G_Auto 1] :  € 8.08 Lay bet placed on A Anisimova at 1.99. Fully matched at 1.98.  Ref: 10708          ( Fill or kill bet with 15 seconds delay.   )
+4/28/2022 15:11:53: [G_Auto 2] :  Store Text Value (Shared) for A Anisimova: aPoints = point: 0; games: 2; sets: 0 
+4/28/2022 15:11:53: [G_Auto 2] :  Store Text Value (Shared) for A Anisimova: aServing = serving:1
+4/28/2022 15:11:53: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: bPoints = point: 0; games: 1; sets: 0 
+4/28/2022 15:11:53: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: bServing = serving:0
+4/28/2022 15:11:53: [G_Auto 2] :  Store Value (Shared) for market: price = 1.98
+4/28/2022 15:11:53: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 5.55
+4/28/2022 15:11:53: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 13.27
+4/28/2022 15:11:53: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.08
+4/28/2022 15:11:53: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 18.82
+4/28/2022 15:11:53: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.4
+4/28/2022 15:11:53: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.98
+4/28/2022 15:11:53: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.02
+4/28/2022 15:11:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:12:00: [G_Auto 2] :  Store Text Value (Shared) for A Anisimova: aPoints = point: 0; games: 2; sets: 0 
+4/28/2022 15:12:00: [G_Auto 2] :  Store Text Value (Shared) for A Anisimova: aServing = serving:1
+4/28/2022 15:12:00: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: bPoints = point: 0; games: 1; sets: 0 
+4/28/2022 15:12:00: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: bServing = serving:0
+4/28/2022 15:12:00: [G_Auto 2] :  Store Value (Shared) for market: price = 1.98
+4/28/2022 15:12:00: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 5.55
+4/28/2022 15:12:00: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 13.27
+4/28/2022 15:12:00: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.08
+4/28/2022 15:12:00: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 18.82
+4/28/2022 15:12:00: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.4
+4/28/2022 15:12:00: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.97
+4/28/2022 15:12:00: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.02
+4/28/2022 15:12:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:12:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:12:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:13:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:13:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:13:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:13:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 15:14:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 15:14:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:15:03: [G_Auto 1] :  Placed closure bet with greening on A Anisimova by Backing 9.36 at 1.71
+4/28/2022 15:15:05: [G_Auto 2] :  Store Text Value (Shared) for A Anisimova: aPoints = point: 0; games: 3; sets: 0 
+4/28/2022 15:15:05: [G_Auto 2] :  Store Text Value (Shared) for A Anisimova: aServing = serving:0
+4/28/2022 15:15:05: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: bPoints = point: 0; games: 1; sets: 0 
+4/28/2022 15:15:05: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: bServing = serving:2
+4/28/2022 15:15:05: [G_Auto 2] :  Store Value (Shared) for market: price = 1.71
+4/28/2022 15:15:05: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 14.91
+4/28/2022 15:15:05: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 13.27
+4/28/2022 15:15:05: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.36
+4/28/2022 15:15:05: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 28.18
+4/28/2022 15:15:05: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.64
+4/28/2022 15:15:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.72
+4/28/2022 15:15:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.4
+4/28/2022 15:15:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:15:10: [G_Auto 2] :  Store Text Value (Shared) for A Anisimova: aPoints = point: 0; games: 3; sets: 0 
+4/28/2022 15:15:10: [G_Auto 2] :  Store Text Value (Shared) for A Anisimova: aServing = serving:0
+4/28/2022 15:15:10: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: bPoints = point: 0; games: 1; sets: 0 
+4/28/2022 15:15:10: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: bServing = serving:2
+4/28/2022 15:15:10: [G_Auto 2] :  Store Value (Shared) for market: price = 1.71
+4/28/2022 15:15:10: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 14.91
+4/28/2022 15:15:10: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 13.27
+4/28/2022 15:15:10: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.36
+4/28/2022 15:15:10: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 28.18
+4/28/2022 15:15:10: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.64
+4/28/2022 15:15:10: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.71
+4/28/2022 15:15:10: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.4
+4/28/2022 15:15:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:15:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:15:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:16:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 15:19:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:20:04: [G_Auto 1] :  € 10.13 Lay bet placed on A Anisimova at 1.79. Fully matched at 1.77.  Ref: 10718          ( Fill or kill bet with 15 seconds delay.   )
+4/28/2022 15:20:05: [G_Auto 2] :  Store Text Value (Shared) for A Anisimova: aPoints = point: 0; games: 3; sets: 0 
+4/28/2022 15:20:05: [G_Auto 2] :  Store Text Value (Shared) for A Anisimova: aServing = serving:1
+4/28/2022 15:20:05: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: bPoints = point: 0; games: 2; sets: 0 
+4/28/2022 15:20:05: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: bServing = serving:0
+4/28/2022 15:20:05: [G_Auto 2] :  Store Value (Shared) for market: price = 1.77
+4/28/2022 15:20:05: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 14.91
+4/28/2022 15:20:05: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 23.4
+4/28/2022 15:20:05: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.13
+4/28/2022 15:20:05: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 38.31
+4/28/2022 15:20:05: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.7
+4/28/2022 15:20:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.77
+4/28/2022 15:20:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.28
+4/28/2022 15:20:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:20:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:20:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:20:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:21:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:21:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:21:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:21:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 15:22:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 15:24:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:24:39: [G_Auto 1] :  Placed closure bet with greening on A Anisimova by Backing 11.07 at 1.62
+4/28/2022 15:24:40: [G_Auto 2] :  Store Text Value (Shared) for A Anisimova: aPoints = point: 0; games: 4; sets: 0 
+4/28/2022 15:24:40: [G_Auto 2] :  Store Text Value (Shared) for A Anisimova: aServing = serving:0
+4/28/2022 15:24:40: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: bPoints = point: 0; games: 2; sets: 0 
+4/28/2022 15:24:40: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: bServing = serving:2
+4/28/2022 15:24:40: [G_Auto 2] :  Store Value (Shared) for market: price = 1.62
+4/28/2022 15:24:40: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 25.98
+4/28/2022 15:24:40: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 23.4
+4/28/2022 15:24:40: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.07
+4/28/2022 15:24:40: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 49.38
+4/28/2022 15:24:40: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.58
+4/28/2022 15:24:40: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.63
+4/28/2022 15:24:40: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.62
+4/28/2022 15:24:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:24:47: [G_Auto 2] :  Store Text Value (Shared) for A Anisimova: aPoints = point: 0; games: 4; sets: 0 
+4/28/2022 15:24:47: [G_Auto 2] :  Store Text Value (Shared) for A Anisimova: aServing = serving:0
+4/28/2022 15:24:47: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: bPoints = point: 0; games: 2; sets: 0 
+4/28/2022 15:24:47: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: bServing = serving:2
+4/28/2022 15:24:47: [G_Auto 2] :  Store Value (Shared) for market: price = 1.62
+4/28/2022 15:24:47: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 25.98
+4/28/2022 15:24:47: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 23.4
+4/28/2022 15:24:47: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.07
+4/28/2022 15:24:47: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 49.38
+4/28/2022 15:24:47: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.58
+4/28/2022 15:24:47: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.63
+4/28/2022 15:24:47: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.58
+4/28/2022 15:24:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:25:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 15:25:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 15:27:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:27:40: [G_Auto 1] :  € 19.05 Lay bet placed on A Anisimova at 1.42. Fully matched at 1.41.  Ref: 10726          ( Fill or kill bet with 15 seconds delay.   )
+4/28/2022 15:27:41: [G_Auto 2] :  Store Text Value (Shared) for A Anisimova: aPoints = point: 0; games: 5; sets: 0 
+4/28/2022 15:27:41: [G_Auto 2] :  Store Text Value (Shared) for A Anisimova: aServing = serving:1
+4/28/2022 15:27:41: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: bPoints = point: 0; games: 2; sets: 0 
+4/28/2022 15:27:41: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: bServing = serving:0
+4/28/2022 15:27:41: [G_Auto 2] :  Store Value (Shared) for market: price = 1.41
+4/28/2022 15:27:41: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 25.98
+4/28/2022 15:27:41: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 42.45
+4/28/2022 15:27:41: [G_Auto 2] :  Store Value (Shared) for market: stake = 19.05
+4/28/2022 15:27:41: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 68.43
+4/28/2022 15:27:41: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.85
+4/28/2022 15:27:41: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.4
+4/28/2022 15:27:41: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.45
+4/28/2022 15:27:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:28:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:28:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:28:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:28:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:29:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:29:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:29:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 15:29:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 15:29:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 15:33:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:33:48: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 1.35
+4/28/2022 15:33:48: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 3.8
+4/28/2022 15:33:51: [G_Auto 1] :  Placed closure bet with greening on A Anisimova by Backing 20.04 at 1.34
+4/28/2022 15:33:53: [G_Auto 2] :  Store Text Value (Shared) for A Anisimova: aPoints = point: 0; games: 0; sets: 1 
+4/28/2022 15:33:53: [G_Auto 2] :  Store Text Value (Shared) for A Anisimova: aServing = serving:0
+4/28/2022 15:33:53: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: bPoints = point: 0; games: 0; sets: 0 
+4/28/2022 15:33:53: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: bServing = serving:2
+4/28/2022 15:33:53: [G_Auto 2] :  Store Value (Shared) for market: price = 1.34
+4/28/2022 15:33:53: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 46.02
+4/28/2022 15:33:53: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 42.45
+4/28/2022 15:33:53: [G_Auto 2] :  Store Value (Shared) for market: stake = 20.04
+4/28/2022 15:33:53: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 88.47
+4/28/2022 15:33:53: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.57
+4/28/2022 15:33:53: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.35
+4/28/2022 15:33:53: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.85
+4/28/2022 15:33:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:34:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:34:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:34:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:34:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:35:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:35:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:35:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:36:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:36:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:36:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:36:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:37:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:37:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:37:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:37:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:38:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:38:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:38:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:39:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:39:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 15:39:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 15:40:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:41:03: [G_Auto 1] :  € 16.00 Lay bet placed on A Anisimova at 1.5. Fully matched at 1.48.  Ref: 10738          ( Fill or kill bet with 15 seconds delay.   )
+4/28/2022 15:41:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:41:05: [G_Auto 2] :  Store Text Value (Shared) for A Anisimova: aPoints = point: 0; games: 0; sets: 1 
+4/28/2022 15:41:05: [G_Auto 2] :  Store Text Value (Shared) for A Anisimova: aServing = serving:1
+4/28/2022 15:41:05: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: bPoints = point: 0; games: 1; sets: 0 
+4/28/2022 15:41:05: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: bServing = serving:0
+4/28/2022 15:41:05: [G_Auto 2] :  Store Value (Shared) for market: price = 1.48
+4/28/2022 15:41:05: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 46.02
+4/28/2022 15:41:05: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 58.45
+4/28/2022 15:41:05: [G_Auto 2] :  Store Value (Shared) for market: stake = 16
+4/28/2022 15:41:05: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 104.47
+4/28/2022 15:41:05: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.79
+4/28/2022 15:41:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.47
+4/28/2022 15:41:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.1
+4/28/2022 15:41:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:41:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:41:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:41:55: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 15:42:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 15:42:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:43:01: [G_Auto 1] :  Placed closure bet with greening on A Anisimova by Backing 17.54 at 1.35
+4/28/2022 15:43:03: [G_Auto 2] :  Store Text Value (Shared) for A Anisimova: aPoints = point: 0; games: 1; sets: 1 
+4/28/2022 15:43:03: [G_Auto 2] :  Store Text Value (Shared) for A Anisimova: aServing = serving:0
+4/28/2022 15:43:03: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: bPoints = point: 0; games: 1; sets: 0 
+4/28/2022 15:43:03: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: bServing = serving:2
+4/28/2022 15:43:03: [G_Auto 2] :  Store Value (Shared) for market: price = 1.35
+4/28/2022 15:43:03: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 63.56
+4/28/2022 15:43:03: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 58.45
+4/28/2022 15:43:03: [G_Auto 2] :  Store Value (Shared) for market: stake = 17.54
+4/28/2022 15:43:03: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 122.01
+4/28/2022 15:43:03: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.11
+4/28/2022 15:43:03: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.35
+4/28/2022 15:43:03: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.75
+4/28/2022 15:43:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:43:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:43:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 15:43:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 15:43:55: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 15:49:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:49:48: [G_Auto 1] :  € 17.78 Lay bet placed on A Anisimova at 1.45. Fully matched at 1.44.  Ref: 10747          ( Fill or kill bet with 15 seconds delay.   )
+4/28/2022 15:49:50: [G_Auto 2] :  Store Text Value (Shared) for A Anisimova: aPoints = point: 0; games: 1; sets: 1 
+4/28/2022 15:49:50: [G_Auto 2] :  Store Text Value (Shared) for A Anisimova: aServing = serving:1
+4/28/2022 15:49:50: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: bPoints = point: 0; games: 2; sets: 0 
+4/28/2022 15:49:50: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: bServing = serving:0
+4/28/2022 15:49:50: [G_Auto 2] :  Store Value (Shared) for market: price = 1.44
+4/28/2022 15:49:50: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 63.56
+4/28/2022 15:49:50: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 76.23
+4/28/2022 15:49:50: [G_Auto 2] :  Store Value (Shared) for market: stake = 17.78
+4/28/2022 15:49:50: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 139.79
+4/28/2022 15:49:50: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.24
+4/28/2022 15:49:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.43
+4/28/2022 15:49:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.2
+4/28/2022 15:49:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:50:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:50:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:50:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:50:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:51:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:51:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:51:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 15:51:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 15:53:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:53:58: [G_Auto 1] :  Placed closure bet with greening on A Anisimova by Backing 13.99 at 1.83
+4/28/2022 15:53:59: [G_Auto 2] :  Store Text Value (Shared) for A Anisimova: aPoints = point: 0; games: 1; sets: 1 
+4/28/2022 15:53:59: [G_Auto 2] :  Store Text Value (Shared) for A Anisimova: aServing = serving:0
+4/28/2022 15:53:59: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: bPoints = point: 0; games: 3; sets: 0 
+4/28/2022 15:53:59: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: bServing = serving:2
+4/28/2022 15:53:59: [G_Auto 2] :  Store Value (Shared) for market: price = 1.83
+4/28/2022 15:53:59: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 77.55
+4/28/2022 15:53:59: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 76.23
+4/28/2022 15:53:59: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.99
+4/28/2022 15:53:59: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 153.78
+4/28/2022 15:53:59: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.33
+4/28/2022 15:53:59: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.83
+4/28/2022 15:53:59: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.22
+4/28/2022 15:54:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:54:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:54:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:54:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:54:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 15:55:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 15:55:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 15:57:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:57:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:57:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:58:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:58:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:58:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:58:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:59:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 15:59:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 15:59:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 16:00:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:01:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:01:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:01:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 16:01:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 16:07:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:07:33: [G_Auto 1] :  € 16.33 Lay bet placed on A Anisimova at 1.49. Fully matched at 1.49.  Ref: 10765          ( Fill or kill bet with 15 seconds delay.   )
+4/28/2022 16:07:35: [G_Auto 2] :  Store Text Value (Shared) for A Anisimova: aPoints = point: 0; games: 3; sets: 1 
+4/28/2022 16:07:35: [G_Auto 2] :  Store Text Value (Shared) for A Anisimova: aServing = serving:1
+4/28/2022 16:07:35: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: bPoints = point: 0; games: 4; sets: 0 
+4/28/2022 16:07:35: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: bServing = serving:0
+4/28/2022 16:07:35: [G_Auto 2] :  Store Value (Shared) for market: price = 1.49
+4/28/2022 16:07:35: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 77.55
+4/28/2022 16:07:35: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 92.56
+4/28/2022 16:07:35: [G_Auto 2] :  Store Value (Shared) for market: stake = 16.33
+4/28/2022 16:07:35: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 170.11
+4/28/2022 16:07:35: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.43
+4/28/2022 16:07:35: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.48
+4/28/2022 16:07:35: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3
+4/28/2022 16:07:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:07:42: [G_Auto 2] :  Store Text Value (Shared) for A Anisimova: aPoints = point: 0; games: 3; sets: 1 
+4/28/2022 16:07:42: [G_Auto 2] :  Store Text Value (Shared) for A Anisimova: aServing = serving:1
+4/28/2022 16:07:42: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: bPoints = point: 0; games: 4; sets: 0 
+4/28/2022 16:07:42: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: bServing = serving:0
+4/28/2022 16:07:42: [G_Auto 2] :  Store Value (Shared) for market: price = 1.49
+4/28/2022 16:07:42: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 77.55
+4/28/2022 16:07:42: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 92.56
+4/28/2022 16:07:42: [G_Auto 2] :  Store Value (Shared) for market: stake = 16.33
+4/28/2022 16:07:42: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 170.11
+4/28/2022 16:07:42: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.43
+4/28/2022 16:07:42: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.49
+4/28/2022 16:07:42: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3
+4/28/2022 16:07:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:08:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:08:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:08:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:08:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:09:16: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 16:09:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 16:10:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:11:08: [G_Auto 1] :  Placed closure bet with greening on A Anisimova by Backing 11.70 at 2.08
+4/28/2022 16:11:08: [G_Auto 1] :  € 8.70 Lay bet placed on Aryna Sabalenka at 1.92. Entirely unmatched when it initially reached the market.   Ref: 10770          ( Fill or kill bet with 15 seconds delay.   )
+4/28/2022 16:11:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:11:18: [G_Auto 1] :  € 8.7 of unmatched bet (Ref:10770) was filled before remainder was killed.
+4/28/2022 16:11:18: [G_Auto 2] :  Store Text Value (Shared) for A Anisimova: aPoints = point: 0; games: 3; sets: 1 
+4/28/2022 16:11:18: [G_Auto 2] :  Store Text Value (Shared) for A Anisimova: aServing = serving:0
+4/28/2022 16:11:18: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: bPoints = point: 0; games: 5; sets: 0 
+4/28/2022 16:11:18: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: bServing = serving:2
+4/28/2022 16:11:18: [G_Auto 2] :  Store Value (Shared) for market: price = 1.92
+4/28/2022 16:11:18: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 77.55
+4/28/2022 16:11:18: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 101.26
+4/28/2022 16:11:18: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.7
+4/28/2022 16:11:18: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 178.81
+4/28/2022 16:11:18: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.09
+4/28/2022 16:11:18: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.06
+4/28/2022 16:11:18: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.93
+4/28/2022 16:11:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:11:28: [G_Auto 2] :  Store Text Value (Shared) for A Anisimova: aPoints = point: 0; games: 3; sets: 1 
+4/28/2022 16:11:28: [G_Auto 2] :  Store Text Value (Shared) for A Anisimova: aServing = serving:0
+4/28/2022 16:11:28: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: bPoints = point: 0; games: 5; sets: 0 
+4/28/2022 16:11:28: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: bServing = serving:2
+4/28/2022 16:11:28: [G_Auto 2] :  Store Value (Shared) for market: price = 2.08
+4/28/2022 16:11:28: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 89.25
+4/28/2022 16:11:28: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 101.26
+4/28/2022 16:11:28: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.7
+4/28/2022 16:11:28: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 190.51
+4/28/2022 16:11:28: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.68
+4/28/2022 16:11:28: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.06
+4/28/2022 16:11:28: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.9
+4/28/2022 16:11:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 16:11:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 16:14:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:15:05: [G_Auto 2] :  Store Value (Shared) for market: aSecondSetPrice = 2.34
+4/28/2022 16:15:05: [G_Auto 2] :  Store Value (Shared) for market: bSecondSetPrice = 1.75
+4/28/2022 16:15:11: [G_Auto 1] :  Placed closure bet with greening on Aryna Sabalenka by Backing 9.71 at 1.72
+4/28/2022 16:15:12: [G_Auto 2] :  Store Text Value (Shared) for A Anisimova: aPoints = point: 0; games: 0; sets: 1 
+4/28/2022 16:15:12: [G_Auto 2] :  Store Text Value (Shared) for A Anisimova: aServing = serving:1
+4/28/2022 16:15:12: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: bPoints = point: 0; games: 0; sets: 1 
+4/28/2022 16:15:12: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: bServing = serving:0
+4/28/2022 16:15:12: [G_Auto 2] :  Store Value (Shared) for market: price = 1.72
+4/28/2022 16:15:12: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 98.96
+4/28/2022 16:15:12: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 101.26
+4/28/2022 16:15:12: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.71
+4/28/2022 16:15:12: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 200.22
+4/28/2022 16:15:12: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.25
+4/28/2022 16:15:12: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.32
+4/28/2022 16:15:12: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.75
+4/28/2022 16:15:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:15:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:15:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:16:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:16:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:16:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:16:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:17:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:17:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:17:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:17:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 16:18:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 16:19:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:19:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:20:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:20:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:20:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 16:21:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 16:21:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 16:23:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:24:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:24:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:24:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 16:24:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 16:25:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 16:27:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:27:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:27:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:27:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:28:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:28:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:28:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:28:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:29:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 16:29:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 16:31:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:32:09: [G_Auto 1] :  € 25.81 Lay bet placed on A Anisimova at 1.31. Fully matched at 1.31.  Ref: 10791          ( Fill or kill bet with 15 seconds delay.   )
+4/28/2022 16:32:10: [G_Auto 2] :  Store Text Value (Shared) for A Anisimova: aPoints = point: 0; games: 3; sets: 1 
+4/28/2022 16:32:10: [G_Auto 2] :  Store Text Value (Shared) for A Anisimova: aServing = serving:1
+4/28/2022 16:32:10: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: bPoints = point: 0; games: 1; sets: 1 
+4/28/2022 16:32:10: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: bServing = serving:0
+4/28/2022 16:32:10: [G_Auto 2] :  Store Value (Shared) for market: price = 1.31
+4/28/2022 16:32:10: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 98.96
+4/28/2022 16:32:10: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 127.07
+4/28/2022 16:32:10: [G_Auto 2] :  Store Value (Shared) for market: stake = 25.81
+4/28/2022 16:32:10: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 226.03
+4/28/2022 16:32:10: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.06
+4/28/2022 16:32:10: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.31
+4/28/2022 16:32:10: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.2
+4/28/2022 16:32:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:32:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:32:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:32:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:33:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 16:33:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 16:33:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 16:37:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:37:50: [G_Auto 1] :  Placed closure bet with greening on A Anisimova by Backing 29.15 at 1.16
+4/28/2022 16:37:51: [G_Auto 2] :  Store Text Value (Shared) for A Anisimova: aPoints = point: 0; games: 4; sets: 1 
+4/28/2022 16:37:51: [G_Auto 2] :  Store Text Value (Shared) for A Anisimova: aServing = serving:0
+4/28/2022 16:37:51: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: bPoints = point: 0; games: 1; sets: 1 
+4/28/2022 16:37:51: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: bServing = serving:2
+4/28/2022 16:37:51: [G_Auto 2] :  Store Value (Shared) for market: price = 1.17
+4/28/2022 16:37:51: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 128.11
+4/28/2022 16:37:51: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 127.07
+4/28/2022 16:37:51: [G_Auto 2] :  Store Value (Shared) for market: stake = 29.15
+4/28/2022 16:37:51: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 255.18
+4/28/2022 16:37:51: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.79
+4/28/2022 16:37:51: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.18
+4/28/2022 16:37:51: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 6.6
+4/28/2022 16:37:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:38:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:38:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:38:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:38:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:39:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:39:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 16:39:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 16:41:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:41:46: [G_Auto 1] :  € 29.63 Lay bet placed on A Anisimova at 1.27. Fully matched at 1.26.  Ref: 10803          ( Fill or kill bet with 15 seconds delay.   )
+4/28/2022 16:41:46: [G_Auto 2] :  Store Text Value (Shared) for A Anisimova: aPoints = point: 0; games: 4; sets: 1 
+4/28/2022 16:41:46: [G_Auto 2] :  Store Text Value (Shared) for A Anisimova: aServing = serving:1
+4/28/2022 16:41:46: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: bPoints = point: 0; games: 2; sets: 1 
+4/28/2022 16:41:46: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: bServing = serving:0
+4/28/2022 16:41:46: [G_Auto 2] :  Store Value (Shared) for market: price = 1.26
+4/28/2022 16:41:46: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 128.11
+4/28/2022 16:41:46: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 156.7
+4/28/2022 16:41:46: [G_Auto 2] :  Store Value (Shared) for market: stake = 29.63
+4/28/2022 16:41:46: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 284.81
+4/28/2022 16:41:46: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.04
+4/28/2022 16:41:46: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.25
+4/28/2022 16:41:46: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.8
+4/28/2022 16:41:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:41:51: [G_Auto 2] :  Store Text Value (Shared) for A Anisimova: aPoints = point: 0; games: 4; sets: 1 
+4/28/2022 16:41:51: [G_Auto 2] :  Store Text Value (Shared) for A Anisimova: aServing = serving:1
+4/28/2022 16:41:51: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: bPoints = point: 0; games: 2; sets: 1 
+4/28/2022 16:41:51: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: bServing = serving:0
+4/28/2022 16:41:51: [G_Auto 2] :  Store Value (Shared) for market: price = 1.26
+4/28/2022 16:41:51: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 128.11
+4/28/2022 16:41:51: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 156.7
+4/28/2022 16:41:51: [G_Auto 2] :  Store Value (Shared) for market: stake = 29.63
+4/28/2022 16:41:51: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 284.81
+4/28/2022 16:41:51: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.81
+4/28/2022 16:41:51: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.26
+4/28/2022 16:41:51: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.8
+4/28/2022 16:42:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:42:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 16:42:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 16:42:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 16:43:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:43:51: [G_Auto 1] :  Placed closure bet with greening on A Anisimova by Backing 19.70 at 1.88
+4/28/2022 16:43:51: [G_Auto 2] :  Store Text Value (Shared) for A Anisimova: aPoints = point: 0; games: 4; sets: 1 
+4/28/2022 16:43:51: [G_Auto 2] :  Store Text Value (Shared) for A Anisimova: aServing = serving:0
+4/28/2022 16:43:51: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: bPoints = point: 0; games: 3; sets: 1 
+4/28/2022 16:43:51: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: bServing = serving:2
+4/28/2022 16:43:51: [G_Auto 2] :  Store Value (Shared) for market: price = 1.89
+4/28/2022 16:43:51: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 147.81
+4/28/2022 16:43:51: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 156.7
+4/28/2022 16:43:51: [G_Auto 2] :  Store Value (Shared) for market: stake = 19.7
+4/28/2022 16:43:51: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 304.51
+4/28/2022 16:43:51: [G_Auto 2] :  Store Value (Shared) for market: pl = 8.81
+4/28/2022 16:43:51: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.9
+4/28/2022 16:43:51: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.1
+4/28/2022 16:43:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:43:58: [G_Auto 2] :  Store Text Value (Shared) for A Anisimova: aPoints = point: 0; games: 4; sets: 1 
+4/28/2022 16:43:58: [G_Auto 2] :  Store Text Value (Shared) for A Anisimova: aServing = serving:0
+4/28/2022 16:43:58: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: bPoints = point: 0; games: 3; sets: 1 
+4/28/2022 16:43:58: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: bServing = serving:2
+4/28/2022 16:43:58: [G_Auto 2] :  Store Value (Shared) for market: price = 1.89
+4/28/2022 16:43:58: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 147.81
+4/28/2022 16:43:58: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 156.7
+4/28/2022 16:43:58: [G_Auto 2] :  Store Value (Shared) for market: stake = 19.7
+4/28/2022 16:43:58: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 304.51
+4/28/2022 16:43:58: [G_Auto 2] :  Store Value (Shared) for market: pl = 8.81
+4/28/2022 16:43:58: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.92
+4/28/2022 16:43:58: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.08
+4/28/2022 16:44:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:44:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:44:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:44:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:45:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:45:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 16:45:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 16:47:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:47:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:47:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:48:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:48:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:48:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 16:48:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 16:50:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:50:43: [G_Auto 1] :  Placed closure bet with greening on A Anisimova by Laying 0.11 at 1.75
+4/28/2022 16:50:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:50:43: [G_Auto 2] :  Store Text Value (Shared) for A Anisimova: aPoints = point: 0; games: 5; sets: 1 
+4/28/2022 16:50:43: [G_Auto 2] :  Store Text Value (Shared) for A Anisimova: aServing = serving:0
+4/28/2022 16:50:43: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: bPoints = point: 0; games: 4; sets: 1 
+4/28/2022 16:50:43: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: bServing = serving:2
+4/28/2022 16:50:43: [G_Auto 2] :  Store Value (Shared) for market: price = 1.74
+4/28/2022 16:50:43: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 147.81
+4/28/2022 16:50:43: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 156.81
+4/28/2022 16:50:43: [G_Auto 2] :  Store Value (Shared) for market: stake = 0.11
+4/28/2022 16:50:43: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 304.62
+4/28/2022 16:50:43: [G_Auto 2] :  Store Value (Shared) for market: pl = 8.82
+4/28/2022 16:50:43: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.75
+4/28/2022 16:50:43: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.32
+4/28/2022 16:50:49: [G_Auto 2] :  Store Text Value (Shared) for A Anisimova: aPoints = point: 0; games: 5; sets: 1 
+4/28/2022 16:50:49: [G_Auto 2] :  Store Text Value (Shared) for A Anisimova: aServing = serving:0
+4/28/2022 16:50:49: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: bPoints = point: 0; games: 4; sets: 1 
+4/28/2022 16:50:49: [G_Auto 2] :  Store Text Value (Shared) for Aryna Sabalenka: bServing = serving:2
+4/28/2022 16:50:49: [G_Auto 2] :  Store Value (Shared) for market: price = 1.74
+4/28/2022 16:50:49: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 147.81
+4/28/2022 16:50:49: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 156.81
+4/28/2022 16:50:49: [G_Auto 2] :  Store Value (Shared) for market: stake = 0.11
+4/28/2022 16:50:49: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 304.62
+4/28/2022 16:50:49: [G_Auto 2] :  Store Value (Shared) for market: pl = 8.82
+4/28/2022 16:50:49: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.75
+4/28/2022 16:50:49: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.34
+4/28/2022 16:50:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:51:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:51:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:51:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:52:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:52:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:52:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 16:52:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 16:54:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 16:54:41:  Guardian has detected that the market is suspended
