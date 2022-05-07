@@ -1,0 +1,608 @@
+5/3/2022 10:12:56: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: info = marketName: Murray v Shapovalov - Match Odds; runnerA: Andy Murray; runnerB: Denis Shapovalov 
+5/3/2022 10:12:56: [G_Auto 1] :  Store Value (Shared) for market: aId = 2256509
+5/3/2022 10:12:56: [G_Auto 1] :  Store Value (Shared) for market: bId = 19924829
+5/3/2022 21:25:48:  Guardian has detected that the market is in-play
+5/3/2022 21:25:48:  Guardian has detected that the market is suspended
+5/3/2022 21:25:48: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 2.9; bBsp: 1.52; volume: 87247.99 
+5/3/2022 21:25:48: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 2.9; bBsp: 1.52; volume: 87247.99 
+5/3/2022 21:25:48:  Guardian has detected that the market is now unsuspended
+5/3/2022 21:25:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 21:26:01: [G_Auto 2] :  € 16.33 Lay bet placed on Denis Shapovalov at 1.49. Entirely unmatched when it initially reached the market.   Ref: 10603          ( Fill or kill bet with 15 seconds delay.   )
+5/3/2022 21:26:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 21:26:08: [G_Auto 2] :  € 16.33 of unmatched bet (Ref:10603) was filled before remainder was killed.
+5/3/2022 21:26:08: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: aPoints = point: 0; games: 0; sets: 0 
+5/3/2022 21:26:08: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: aServing = serving:0
+5/3/2022 21:26:08: [G_Auto 1] :  Store Text Value (Shared) for Denis Shapovalov: bPoints = point: 0; games: 0; sets: 0 
+5/3/2022 21:26:08: [G_Auto 1] :  Store Text Value (Shared) for Denis Shapovalov: bServing = serving:2
+5/3/2022 21:26:08: [G_Auto 1] :  Store Value (Shared) for market: price = 1.49
+5/3/2022 21:26:08: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 0
+5/3/2022 21:26:08: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 16.33
+5/3/2022 21:26:08: [G_Auto 1] :  Store Value (Shared) for market: stake = 16.33
+5/3/2022 21:26:08: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 16.33
+5/3/2022 21:26:08: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.81
+5/3/2022 21:26:08: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.92
+5/3/2022 21:26:08: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.47
+5/3/2022 21:26:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 21:26:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 21:26:41: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 21:26:56: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 21:27:11: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 21:27:26: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 21:29:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 21:30:00: [G_Auto 2] :  Placed closure bet with greening on Denis Shapovalov by Backing 15.30 at 1.59
+5/3/2022 21:30:00: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: aPoints = point: 0; games: 1; sets: 0 
+5/3/2022 21:30:00: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: aServing = serving:1
+5/3/2022 21:30:00: [G_Auto 1] :  Store Text Value (Shared) for Denis Shapovalov: bPoints = point: 0; games: 0; sets: 0 
+5/3/2022 21:30:00: [G_Auto 1] :  Store Text Value (Shared) for Denis Shapovalov: bServing = serving:0
+5/3/2022 21:30:00: [G_Auto 1] :  Store Value (Shared) for market: price = 1.6
+5/3/2022 21:30:00: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 15.3
+5/3/2022 21:30:00: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 16.33
+5/3/2022 21:30:00: [G_Auto 1] :  Store Value (Shared) for market: stake = 15.3
+5/3/2022 21:30:00: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 31.63
+5/3/2022 21:30:00: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.1
+5/3/2022 21:30:00: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.72
+5/3/2022 21:30:00: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.61
+5/3/2022 21:30:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 21:30:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 21:30:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 21:30:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 21:31:01: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 21:31:16: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 21:33:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 21:33:48: [G_Auto 2] :  € 15.69 Lay bet placed on Denis Shapovalov at 1.51. Fully matched at 1.5.  Ref: 10605          ( Fill or kill bet with 15 seconds delay.   )
+5/3/2022 21:33:49: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: aPoints = point: 0; games: 1; sets: 0 
+5/3/2022 21:33:49: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: aServing = serving:0
+5/3/2022 21:33:49: [G_Auto 1] :  Store Text Value (Shared) for Denis Shapovalov: bPoints = point: 0; games: 1; sets: 0 
+5/3/2022 21:33:49: [G_Auto 1] :  Store Text Value (Shared) for Denis Shapovalov: bServing = serving:2
+5/3/2022 21:33:49: [G_Auto 1] :  Store Value (Shared) for market: price = 1.5
+5/3/2022 21:33:49: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 15.3
+5/3/2022 21:33:49: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 32.02
+5/3/2022 21:33:49: [G_Auto 1] :  Store Value (Shared) for market: stake = 15.69
+5/3/2022 21:33:49: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 47.32
+5/3/2022 21:33:49: [G_Auto 1] :  Store Value (Shared) for market: pl = 1
+5/3/2022 21:33:49: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3
+5/3/2022 21:33:49: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.5
+5/3/2022 21:33:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 21:34:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 21:34:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 21:34:29: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 21:34:44: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 21:34:59: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 21:35:14: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 21:37:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 21:37:16: [G_Auto 2] :  Placed closure bet with greening on Denis Shapovalov by Backing 14.53 at 1.61
+5/3/2022 21:37:17: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: aPoints = point: 0; games: 2; sets: 0 
+5/3/2022 21:37:17: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: aServing = serving:1
+5/3/2022 21:37:17: [G_Auto 1] :  Store Text Value (Shared) for Denis Shapovalov: bPoints = point: 0; games: 1; sets: 0 
+5/3/2022 21:37:17: [G_Auto 1] :  Store Text Value (Shared) for Denis Shapovalov: bServing = serving:0
+5/3/2022 21:37:17: [G_Auto 1] :  Store Value (Shared) for market: price = 1.61
+5/3/2022 21:37:17: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 29.83
+5/3/2022 21:37:17: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 32.02
+5/3/2022 21:37:17: [G_Auto 1] :  Store Value (Shared) for market: stake = 14.53
+5/3/2022 21:37:17: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 61.85
+5/3/2022 21:37:17: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.15
+5/3/2022 21:37:17: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.6
+5/3/2022 21:37:17: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.61
+5/3/2022 21:37:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 21:37:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 21:37:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 21:38:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 21:38:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 21:38:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 21:38:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 21:39:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 21:39:14: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 21:39:29: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 21:44:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 21:44:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 21:44:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 21:44:46: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 21:45:01: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 21:51:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 21:52:07: [G_Auto 2] :  € 12.12 Lay bet placed on Andy Murray at 1.66. Fully matched at 1.66.  Ref: 10607          ( Fill or kill bet with 15 seconds delay.   )
+5/3/2022 21:52:08: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: aPoints = point: 0; games: 4; sets: 0 
+5/3/2022 21:52:08: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: aServing = serving:1
+5/3/2022 21:52:08: [G_Auto 1] :  Store Text Value (Shared) for Denis Shapovalov: bPoints = point: 0; games: 1; sets: 0 
+5/3/2022 21:52:08: [G_Auto 1] :  Store Text Value (Shared) for Denis Shapovalov: bServing = serving:0
+5/3/2022 21:52:08: [G_Auto 1] :  Store Value (Shared) for market: price = 1.66
+5/3/2022 21:52:08: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 29.83
+5/3/2022 21:52:08: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 44.14
+5/3/2022 21:52:08: [G_Auto 1] :  Store Value (Shared) for market: stake = 12.12
+5/3/2022 21:52:08: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 73.97
+5/3/2022 21:52:08: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.08
+5/3/2022 21:52:08: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.66
+5/3/2022 21:52:08: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.52
+5/3/2022 21:52:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 21:52:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 21:52:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 21:52:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 21:53:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 21:53:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 21:53:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 21:53:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 21:54:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 21:54:17: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 21:54:32: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 21:54:48: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 21:55:03: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 21:58:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 21:58:13: [G_Auto 2] :  Placed closure bet with greening on Andy Murray by Backing 13.88 at 1.45
+5/3/2022 21:58:14: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: aPoints = point: 0; games: 5; sets: 0 
+5/3/2022 21:58:14: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: aServing = serving:0
+5/3/2022 21:58:14: [G_Auto 1] :  Store Text Value (Shared) for Denis Shapovalov: bPoints = point: 0; games: 1; sets: 0 
+5/3/2022 21:58:14: [G_Auto 1] :  Store Text Value (Shared) for Denis Shapovalov: bServing = serving:2
+5/3/2022 21:58:14: [G_Auto 1] :  Store Value (Shared) for market: price = 1.45
+5/3/2022 21:58:14: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 31.055
+5/3/2022 21:58:14: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 44.14
+5/3/2022 21:58:14: [G_Auto 1] :  Store Value (Shared) for market: stake = 1.225
+5/3/2022 21:58:14: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 75.195
+5/3/2022 21:58:14: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.34
+5/3/2022 21:58:14: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.45
+5/3/2022 21:58:14: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.2
+5/3/2022 21:58:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 21:58:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 21:58:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 21:59:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 21:59:06: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 21:59:21: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 21:59:36: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 21:59:51: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 22:01:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:01:40: [G_Auto 1] :  Store Value (Shared) for market: aFirstSetPrice = 1.42
+5/3/2022 22:01:40: [G_Auto 1] :  Store Value (Shared) for market: bFirstSetPrice = 3.4
+5/3/2022 22:01:45: [G_Auto 2] :  € 18.60 Lay bet placed on Andy Murray at 1.43. Fully matched at 1.42.  Ref: 10612          ( Fill or kill bet with 15 seconds delay.   )
+5/3/2022 22:01:45: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: aPoints = point: 0; games: 0; sets: 1 
+5/3/2022 22:01:45: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: aServing = serving:1
+5/3/2022 22:01:45: [G_Auto 1] :  Store Text Value (Shared) for Denis Shapovalov: bPoints = point: 0; games: 0; sets: 0 
+5/3/2022 22:01:45: [G_Auto 1] :  Store Text Value (Shared) for Denis Shapovalov: bServing = serving:0
+5/3/2022 22:01:45: [G_Auto 1] :  Store Value (Shared) for market: price = 1.42
+5/3/2022 22:01:45: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 43.71
+5/3/2022 22:01:45: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 62.74
+5/3/2022 22:01:45: [G_Auto 1] :  Store Value (Shared) for market: stake = 18.6
+5/3/2022 22:01:45: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 106.45
+5/3/2022 22:01:45: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.29
+5/3/2022 22:01:45: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.41
+5/3/2022 22:01:45: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.4
+5/3/2022 22:01:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:02:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:02:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:02:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:02:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:03:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:03:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:03:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:03:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:04:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:04:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:04:23: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 22:04:38: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 22:04:53: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 22:06:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:06:16: [G_Auto 2] :  Placed closure bet with greening on Andy Murray by Backing 17.49 at 1.51
+5/3/2022 22:06:16: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: aPoints = point: 0; games: 0; sets: 1 
+5/3/2022 22:06:16: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: aServing = serving:0
+5/3/2022 22:06:16: [G_Auto 1] :  Store Text Value (Shared) for Denis Shapovalov: bPoints = point: 0; games: 1; sets: 0 
+5/3/2022 22:06:16: [G_Auto 1] :  Store Text Value (Shared) for Denis Shapovalov: bServing = serving:2
+5/3/2022 22:06:16: [G_Auto 1] :  Store Value (Shared) for market: price = 1.52
+5/3/2022 22:06:16: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 61.2
+5/3/2022 22:06:16: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 62.74
+5/3/2022 22:06:16: [G_Auto 1] :  Store Value (Shared) for market: stake = 17.49
+5/3/2022 22:06:16: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 123.94
+5/3/2022 22:06:16: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.63
+5/3/2022 22:06:16: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.52
+5/3/2022 22:06:16: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.94
+5/3/2022 22:06:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:06:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:06:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:07:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:07:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:07:23: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 22:07:38: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 22:07:53: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 22:08:08: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 22:08:23: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 22:10:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:10:24: [G_Auto 2] :  € 18.60 Lay bet placed on Andy Murray at 1.43. Fully matched at 1.42.  Ref: 10616          ( Fill or kill bet with 15 seconds delay.   )
+5/3/2022 22:10:25: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: aPoints = point: 0; games: 1; sets: 1 
+5/3/2022 22:10:25: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: aServing = serving:1
+5/3/2022 22:10:25: [G_Auto 1] :  Store Text Value (Shared) for Denis Shapovalov: bPoints = point: 0; games: 1; sets: 0 
+5/3/2022 22:10:25: [G_Auto 1] :  Store Text Value (Shared) for Denis Shapovalov: bServing = serving:0
+5/3/2022 22:10:25: [G_Auto 1] :  Store Value (Shared) for market: price = 1.42
+5/3/2022 22:10:25: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 61.2
+5/3/2022 22:10:25: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 81.34
+5/3/2022 22:10:25: [G_Auto 1] :  Store Value (Shared) for market: stake = 18.6
+5/3/2022 22:10:25: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 142.54
+5/3/2022 22:10:25: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.51
+5/3/2022 22:10:25: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.42
+5/3/2022 22:10:25: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.4
+5/3/2022 22:10:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:10:30: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: aPoints = point: 0; games: 1; sets: 1 
+5/3/2022 22:10:30: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: aServing = serving:1
+5/3/2022 22:10:30: [G_Auto 1] :  Store Text Value (Shared) for Denis Shapovalov: bPoints = point: 0; games: 1; sets: 0 
+5/3/2022 22:10:30: [G_Auto 1] :  Store Text Value (Shared) for Denis Shapovalov: bServing = serving:0
+5/3/2022 22:10:30: [G_Auto 1] :  Store Value (Shared) for market: price = 1.42
+5/3/2022 22:10:30: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 61.2
+5/3/2022 22:10:30: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 81.34
+5/3/2022 22:10:30: [G_Auto 1] :  Store Value (Shared) for market: stake = 18.6
+5/3/2022 22:10:30: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 142.54
+5/3/2022 22:10:30: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.64
+5/3/2022 22:10:30: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.42
+5/3/2022 22:10:30: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.35
+5/3/2022 22:10:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:10:52: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 22:11:07: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 22:11:22: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 22:11:38: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 22:11:53: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 22:12:08: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 22:14:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:14:34: [G_Auto 2] :  Placed closure bet with greening on Andy Murray by Backing 17.49 at 1.5
+5/3/2022 22:14:34: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: aPoints = point: 0; games: 1; sets: 1 
+5/3/2022 22:14:34: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: aServing = serving:0
+5/3/2022 22:14:34: [G_Auto 1] :  Store Text Value (Shared) for Denis Shapovalov: bPoints = point: 0; games: 2; sets: 0 
+5/3/2022 22:14:34: [G_Auto 1] :  Store Text Value (Shared) for Denis Shapovalov: bServing = serving:2
+5/3/2022 22:14:34: [G_Auto 1] :  Store Value (Shared) for market: price = 1.5
+5/3/2022 22:14:34: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 78.69
+5/3/2022 22:14:34: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 81.34
+5/3/2022 22:14:34: [G_Auto 1] :  Store Value (Shared) for market: stake = 17.49
+5/3/2022 22:14:34: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 160.03
+5/3/2022 22:14:34: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.6
+5/3/2022 22:14:34: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.5
+5/3/2022 22:14:34: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3
+5/3/2022 22:14:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:14:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:15:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:15:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:15:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:15:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:16:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:16:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:16:25: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 22:16:41: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 22:16:56: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 22:17:11: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 22:18:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:19:07: [G_Auto 2] :  € 17.78 Lay bet placed on Andy Murray at 1.45. Fully matched at 1.44.  Ref: 10619          ( Fill or kill bet with 15 seconds delay.   )
+5/3/2022 22:19:08: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: aPoints = point: 0; games: 2; sets: 1 
+5/3/2022 22:19:08: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: aServing = serving:1
+5/3/2022 22:19:08: [G_Auto 1] :  Store Text Value (Shared) for Denis Shapovalov: bPoints = point: 0; games: 2; sets: 0 
+5/3/2022 22:19:08: [G_Auto 1] :  Store Text Value (Shared) for Denis Shapovalov: bServing = serving:0
+5/3/2022 22:19:08: [G_Auto 1] :  Store Value (Shared) for market: price = 1.44
+5/3/2022 22:19:08: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 78.69
+5/3/2022 22:19:08: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 99.12
+5/3/2022 22:19:08: [G_Auto 1] :  Store Value (Shared) for market: stake = 17.78
+5/3/2022 22:19:08: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 177.81
+5/3/2022 22:19:08: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.48
+5/3/2022 22:19:08: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.44
+5/3/2022 22:19:08: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.25
+5/3/2022 22:19:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:19:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:19:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:19:49: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 22:20:04: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 22:20:19: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 22:29:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:30:02: [G_Auto 2] :  Placed closure bet with greening on Andy Murray by Backing 17.53 at 1.46
+5/3/2022 22:30:03: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: aPoints = point: 0; games: 2; sets: 1 
+5/3/2022 22:30:03: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: aServing = serving:0
+5/3/2022 22:30:03: [G_Auto 1] :  Store Text Value (Shared) for Denis Shapovalov: bPoints = point: 0; games: 3; sets: 0 
+5/3/2022 22:30:03: [G_Auto 1] :  Store Text Value (Shared) for Denis Shapovalov: bServing = serving:2
+5/3/2022 22:30:03: [G_Auto 1] :  Store Value (Shared) for market: price = 1.46
+5/3/2022 22:30:03: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 96.22
+5/3/2022 22:30:03: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 99.12
+5/3/2022 22:30:03: [G_Auto 1] :  Store Value (Shared) for market: stake = 17.53
+5/3/2022 22:30:03: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 195.34
+5/3/2022 22:30:03: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.83
+5/3/2022 22:30:03: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.46
+5/3/2022 22:30:03: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.2
+5/3/2022 22:30:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:30:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:30:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:30:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:31:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:31:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:31:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:31:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:32:06: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:32:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:32:28: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 22:32:43: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 22:34:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:35:09: [G_Auto 2] :  € 7.84 Lay bet placed on Andy Murray at 2.02. Fully matched at 2.02.  Ref: 10622          ( Fill or kill bet with 15 seconds delay.   )
+5/3/2022 22:35:09: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: aPoints = point: 0; games: 2; sets: 1 
+5/3/2022 22:35:09: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: aServing = serving:1
+5/3/2022 22:35:09: [G_Auto 1] :  Store Text Value (Shared) for Denis Shapovalov: bPoints = point: 0; games: 4; sets: 0 
+5/3/2022 22:35:09: [G_Auto 1] :  Store Text Value (Shared) for Denis Shapovalov: bServing = serving:0
+5/3/2022 22:35:09: [G_Auto 1] :  Store Value (Shared) for market: price = 2.02
+5/3/2022 22:35:09: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 96.22
+5/3/2022 22:35:09: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 106.96
+5/3/2022 22:35:09: [G_Auto 1] :  Store Value (Shared) for market: stake = 7.84
+5/3/2022 22:35:09: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 203.18
+5/3/2022 22:35:09: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.72
+5/3/2022 22:35:09: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.99
+5/3/2022 22:35:09: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.99
+5/3/2022 22:35:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:35:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:35:39: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 22:35:54: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 22:36:09: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 22:36:24: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 22:39:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:39:42: [G_Auto 2] :  € 9.30 Lay bet placed on Denis Shapovalov at 1.86. Fully matched at 1.85.  Ref: 10624          ( Fill or kill bet with 15 seconds delay.   )
+5/3/2022 22:39:42: [G_Auto 2] :  Placed closure bet with greening on Andy Murray by Backing 7.34 at 2.16
+5/3/2022 22:39:43: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: aPoints = point: 0; games: 2; sets: 1 
+5/3/2022 22:39:43: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: aServing = serving:0
+5/3/2022 22:39:43: [G_Auto 1] :  Store Text Value (Shared) for Denis Shapovalov: bPoints = point: 0; games: 5; sets: 0 
+5/3/2022 22:39:43: [G_Auto 1] :  Store Text Value (Shared) for Denis Shapovalov: bServing = serving:2
+5/3/2022 22:39:43: [G_Auto 1] :  Store Value (Shared) for market: price = 1.85
+5/3/2022 22:39:43: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 103.56
+5/3/2022 22:39:43: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 116.26
+5/3/2022 22:39:43: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.3
+5/3/2022 22:39:43: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 219.82
+5/3/2022 22:39:43: [G_Auto 1] :  Store Value (Shared) for market: pl = 3.35
+5/3/2022 22:39:43: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.18
+5/3/2022 22:39:43: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.85
+5/3/2022 22:39:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:40:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:40:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:40:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:40:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:41:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:41:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:41:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:41:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:42:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:42:04: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 22:42:19: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 22:42:34: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 22:44:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:45:10: [G_Auto 2] :  Placed closure bet with greening on Denis Shapovalov by Backing 9.40 at 1.83
+5/3/2022 22:45:10: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: aPoints = point: 0; games: 3; sets: 1 
+5/3/2022 22:45:10: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: aServing = serving:1
+5/3/2022 22:45:10: [G_Auto 1] :  Store Text Value (Shared) for Denis Shapovalov: bPoints = point: 0; games: 5; sets: 0 
+5/3/2022 22:45:10: [G_Auto 1] :  Store Text Value (Shared) for Denis Shapovalov: bServing = serving:0
+5/3/2022 22:45:10: [G_Auto 1] :  Store Value (Shared) for market: price = 1.84
+5/3/2022 22:45:10: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 112.96
+5/3/2022 22:45:10: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 116.26
+5/3/2022 22:45:10: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.4
+5/3/2022 22:45:10: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 229.22
+5/3/2022 22:45:10: [G_Auto 1] :  Store Value (Shared) for market: pl = 3.35
+5/3/2022 22:45:10: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.22
+5/3/2022 22:45:10: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.84
+5/3/2022 22:45:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:45:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:45:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:45:59: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 22:46:14: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 22:46:29: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 22:46:44: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 22:49:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:49:53: [G_Auto 1] :  Store Value (Shared) for market: aSecondSetPrice = 2.36
+5/3/2022 22:49:53: [G_Auto 1] :  Store Value (Shared) for market: bSecondSetPrice = 1.7
+5/3/2022 22:49:58: [G_Auto 2] :  € 11.11 Lay bet placed on Denis Shapovalov at 1.72. Entirely unmatched when it initially reached the market.   Ref: 10627          ( Fill or kill bet with 15 seconds delay.   )
+5/3/2022 22:49:59: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: aPoints = point: 0; games: 0; sets: 1 
+5/3/2022 22:49:59: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: aServing = serving:0
+5/3/2022 22:49:59: [G_Auto 1] :  Store Text Value (Shared) for Denis Shapovalov: bPoints = point: 0; games: 0; sets: 1 
+5/3/2022 22:49:59: [G_Auto 1] :  Store Text Value (Shared) for Denis Shapovalov: bServing = serving:2
+5/3/2022 22:49:59: [G_Auto 1] :  Store Value (Shared) for market: price = 1.72
+5/3/2022 22:49:59: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 112.96
+5/3/2022 22:49:59: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 127.37
+5/3/2022 22:49:59: [G_Auto 1] :  Store Value (Shared) for market: stake = 11.11
+5/3/2022 22:49:59: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 240.33
+5/3/2022 22:49:59: [G_Auto 1] :  Store Value (Shared) for market: pl = 3.35
+5/3/2022 22:49:59: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.36
+5/3/2022 22:49:59: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.73
+5/3/2022 22:49:59: [G_Auto 2] :  € 11.11 of unmatched bet (Ref:10627) was filled before remainder was killed.
+5/3/2022 22:50:01: [G_Auto 2] :  Placed closure bet with greening on Andy Murray by Laying 0.06 at 2.44
+5/3/2022 22:50:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:50:04: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: aPoints = point: 0; games: 0; sets: 1 
+5/3/2022 22:50:04: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: aServing = serving:0
+5/3/2022 22:50:04: [G_Auto 1] :  Store Text Value (Shared) for Denis Shapovalov: bPoints = point: 0; games: 0; sets: 1 
+5/3/2022 22:50:04: [G_Auto 1] :  Store Text Value (Shared) for Denis Shapovalov: bServing = serving:2
+5/3/2022 22:50:04: [G_Auto 1] :  Store Value (Shared) for market: price = 2.42
+5/3/2022 22:50:04: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 112.96
+5/3/2022 22:50:04: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 127.43
+5/3/2022 22:50:04: [G_Auto 1] :  Store Value (Shared) for market: stake = 0.06
+5/3/2022 22:50:04: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 240.39
+5/3/2022 22:50:04: [G_Auto 1] :  Store Value (Shared) for market: pl = 3.36
+5/3/2022 22:50:04: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.42
+5/3/2022 22:50:04: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.72
+5/3/2022 22:50:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:50:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:50:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:51:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:51:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:51:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:51:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:52:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:52:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:52:22: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 22:52:37: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 22:55:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:55:53: [G_Auto 2] :  Placed closure bet with greening on Denis Shapovalov by Backing 9.80 at 1.94
+5/3/2022 22:55:53: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: aPoints = point: 0; games: 1; sets: 1 
+5/3/2022 22:55:53: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: aServing = serving:1
+5/3/2022 22:55:53: [G_Auto 1] :  Store Text Value (Shared) for Denis Shapovalov: bPoints = point: 0; games: 0; sets: 1 
+5/3/2022 22:55:53: [G_Auto 1] :  Store Text Value (Shared) for Denis Shapovalov: bServing = serving:0
+5/3/2022 22:55:53: [G_Auto 1] :  Store Value (Shared) for market: price = 1.94
+5/3/2022 22:55:53: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 122.76
+5/3/2022 22:55:53: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 127.43
+5/3/2022 22:55:53: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.8
+5/3/2022 22:55:53: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 250.19
+5/3/2022 22:55:53: [G_Auto 1] :  Store Value (Shared) for market: pl = 4.59
+5/3/2022 22:55:53: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.08
+5/3/2022 22:55:53: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.94
+5/3/2022 22:55:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:55:58: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: aPoints = point: 0; games: 1; sets: 1 
+5/3/2022 22:55:58: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: aServing = serving:1
+5/3/2022 22:55:58: [G_Auto 1] :  Store Text Value (Shared) for Denis Shapovalov: bPoints = point: 0; games: 0; sets: 1 
+5/3/2022 22:55:58: [G_Auto 1] :  Store Text Value (Shared) for Denis Shapovalov: bServing = serving:0
+5/3/2022 22:55:58: [G_Auto 1] :  Store Value (Shared) for market: price = 1.94
+5/3/2022 22:55:58: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 122.76
+5/3/2022 22:55:58: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 127.43
+5/3/2022 22:55:58: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.8
+5/3/2022 22:55:58: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 250.19
+5/3/2022 22:55:58: [G_Auto 1] :  Store Value (Shared) for market: pl = 4.59
+5/3/2022 22:55:58: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.08
+5/3/2022 22:55:58: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.94
+5/3/2022 22:56:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:56:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:56:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:56:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:57:01: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 22:57:16: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 22:57:31: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 22:59:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 22:59:43: [G_Auto 2] :  € 10.53 Lay bet placed on Denis Shapovalov at 1.76. Fully matched at 1.75.  Ref: 10634          ( Fill or kill bet with 15 seconds delay.   )
+5/3/2022 22:59:43: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: aPoints = point: 0; games: 1; sets: 1 
+5/3/2022 22:59:43: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: aServing = serving:0
+5/3/2022 22:59:43: [G_Auto 1] :  Store Text Value (Shared) for Denis Shapovalov: bPoints = point: 0; games: 1; sets: 1 
+5/3/2022 22:59:43: [G_Auto 1] :  Store Text Value (Shared) for Denis Shapovalov: bServing = serving:2
+5/3/2022 22:59:43: [G_Auto 1] :  Store Value (Shared) for market: price = 1.75
+5/3/2022 22:59:43: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 122.76
+5/3/2022 22:59:43: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 137.96
+5/3/2022 22:59:43: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.53
+5/3/2022 22:59:43: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 260.72
+5/3/2022 22:59:43: [G_Auto 1] :  Store Value (Shared) for market: pl = 4.53
+5/3/2022 22:59:43: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.34
+5/3/2022 22:59:43: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.75
+5/3/2022 22:59:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 23:00:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 23:00:12: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 23:00:27: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 23:00:42: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 23:02:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 23:02:41: [G_Auto 2] :  Placed closure bet with greening on Denis Shapovalov by Backing 9.40 at 1.96
+5/3/2022 23:02:42: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: aPoints = point: 0; games: 2; sets: 1 
+5/3/2022 23:02:42: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: aServing = serving:1
+5/3/2022 23:02:42: [G_Auto 1] :  Store Text Value (Shared) for Denis Shapovalov: bPoints = point: 0; games: 1; sets: 1 
+5/3/2022 23:02:42: [G_Auto 1] :  Store Text Value (Shared) for Denis Shapovalov: bServing = serving:0
+5/3/2022 23:02:42: [G_Auto 1] :  Store Value (Shared) for market: price = 1.96
+5/3/2022 23:02:42: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 132.16
+5/3/2022 23:02:42: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 137.96
+5/3/2022 23:02:42: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.4
+5/3/2022 23:02:42: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 270.12
+5/3/2022 23:02:42: [G_Auto 1] :  Store Value (Shared) for market: pl = 5.69
+5/3/2022 23:02:42: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.02
+5/3/2022 23:02:42: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.96
+5/3/2022 23:02:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 23:02:47: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: aPoints = point: 0; games: 2; sets: 1 
+5/3/2022 23:02:47: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: aServing = serving:1
+5/3/2022 23:02:47: [G_Auto 1] :  Store Text Value (Shared) for Denis Shapovalov: bPoints = point: 0; games: 1; sets: 1 
+5/3/2022 23:02:47: [G_Auto 1] :  Store Text Value (Shared) for Denis Shapovalov: bServing = serving:0
+5/3/2022 23:02:47: [G_Auto 1] :  Store Value (Shared) for market: price = 1.96
+5/3/2022 23:02:47: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 132.16
+5/3/2022 23:02:47: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 137.96
+5/3/2022 23:02:47: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.4
+5/3/2022 23:02:47: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 270.12
+5/3/2022 23:02:47: [G_Auto 1] :  Store Value (Shared) for market: pl = 5.69
+5/3/2022 23:02:47: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.04
+5/3/2022 23:02:47: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.96
+5/3/2022 23:02:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 23:03:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 23:03:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 23:03:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 23:04:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 23:04:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 23:04:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 23:04:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 23:04:49: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 23:05:04: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 23:13:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 23:13:13: [G_Auto 2] :  € 9.64 Lay bet placed on Denis Shapovalov at 1.83. Fully matched at 1.82.  Ref: 10637          ( Fill or kill bet with 15 seconds delay.   )
+5/3/2022 23:13:14: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: aPoints = point: 0; games: 2; sets: 1 
+5/3/2022 23:13:14: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: aServing = serving:0
+5/3/2022 23:13:14: [G_Auto 1] :  Store Text Value (Shared) for Denis Shapovalov: bPoints = point: 0; games: 2; sets: 1 
+5/3/2022 23:13:14: [G_Auto 1] :  Store Text Value (Shared) for Denis Shapovalov: bServing = serving:2
+5/3/2022 23:13:14: [G_Auto 1] :  Store Value (Shared) for market: price = 1.82
+5/3/2022 23:13:14: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 132.16
+5/3/2022 23:13:14: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 147.6
+5/3/2022 23:13:14: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.64
+5/3/2022 23:13:14: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 279.76
+5/3/2022 23:13:14: [G_Auto 1] :  Store Value (Shared) for market: pl = 5.64
+5/3/2022 23:13:14: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.2
+5/3/2022 23:13:14: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.82
+5/3/2022 23:13:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 23:13:19: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: aPoints = point: 0; games: 2; sets: 1 
+5/3/2022 23:13:19: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: aServing = serving:0
+5/3/2022 23:13:19: [G_Auto 1] :  Store Text Value (Shared) for Denis Shapovalov: bPoints = point: 0; games: 2; sets: 1 
+5/3/2022 23:13:19: [G_Auto 1] :  Store Text Value (Shared) for Denis Shapovalov: bServing = serving:2
+5/3/2022 23:13:19: [G_Auto 1] :  Store Value (Shared) for market: price = 1.82
+5/3/2022 23:13:19: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 132.16
+5/3/2022 23:13:19: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 147.6
+5/3/2022 23:13:19: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.64
+5/3/2022 23:13:19: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 279.76
+5/3/2022 23:13:19: [G_Auto 1] :  Store Value (Shared) for market: pl = 5.54
+5/3/2022 23:13:19: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.24
+5/3/2022 23:13:19: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.8
+5/3/2022 23:13:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 23:13:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 23:14:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 23:14:08: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 23:14:23: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 23:14:38: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 23:16:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 23:16:52: [G_Auto 2] :  Placed closure bet with greening on Denis Shapovalov by Backing 8.12 at 2.16
+5/3/2022 23:16:52: [G_Auto 2] :  € 9.41 Lay bet placed on Andy Murray at 1.85. Entirely unmatched when it initially reached the market.   Ref: 10639          ( Fill or kill bet with 15 seconds delay.   )
+5/3/2022 23:16:52: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: aPoints = point: 0; games: 3; sets: 1 
+5/3/2022 23:16:52: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: aServing = serving:1
+5/3/2022 23:16:52: [G_Auto 1] :  Store Text Value (Shared) for Denis Shapovalov: bPoints = point: 0; games: 2; sets: 1 
+5/3/2022 23:16:52: [G_Auto 1] :  Store Text Value (Shared) for Denis Shapovalov: bServing = serving:0
+5/3/2022 23:16:52: [G_Auto 1] :  Store Value (Shared) for market: price = 2.16
+5/3/2022 23:16:52: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 140.28
+5/3/2022 23:16:52: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 147.6
+5/3/2022 23:16:52: [G_Auto 1] :  Store Value (Shared) for market: stake = 8.12
+5/3/2022 23:16:52: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 287.88
+5/3/2022 23:16:52: [G_Auto 1] :  Store Value (Shared) for market: pl = 7.18
+5/3/2022 23:16:52: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.86
+5/3/2022 23:16:52: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.16
+5/3/2022 23:16:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 23:16:57: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: aPoints = point: 0; games: 3; sets: 1 
+5/3/2022 23:16:57: [G_Auto 1] :  Store Text Value (Shared) for Andy Murray: aServing = serving:1
+5/3/2022 23:16:57: [G_Auto 1] :  Store Text Value (Shared) for Denis Shapovalov: bPoints = point: 0; games: 2; sets: 1 
+5/3/2022 23:16:57: [G_Auto 1] :  Store Text Value (Shared) for Denis Shapovalov: bServing = serving:0
+5/3/2022 23:16:57: [G_Auto 1] :  Store Value (Shared) for market: price = 2.16
+5/3/2022 23:16:57: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 140.28
+5/3/2022 23:16:57: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 147.6
+5/3/2022 23:16:57: [G_Auto 1] :  Store Value (Shared) for market: stake = 8.12
+5/3/2022 23:16:57: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 287.88
+5/3/2022 23:16:57: [G_Auto 1] :  Store Value (Shared) for market: pl = 7.18
+5/3/2022 23:16:57: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.87
+5/3/2022 23:16:57: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.16
+5/3/2022 23:17:07: [G_Auto 2] :  € 9.41 unmatched bet (Ref:10639) was killed.
+5/3/2022 23:17:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 23:17:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 23:17:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 23:17:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 23:18:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 23:18:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 23:18:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 23:18:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 23:19:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 23:19:16: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 23:19:31: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 23:19:46: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 23:20:01: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 23:20:16: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 23:24:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 23:24:16: [G_Auto 2] :  While Placing closure bet with greening on, unable to place € 0.01 Lay bet at 1.2 on Andy Murray due to betfair's rules regarding payout/liability rounding.
+5/3/2022 23:24:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 23:24:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 23:24:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 23:25:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 23:25:14: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 23:25:29: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 23:29:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 23:30:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 23:30:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 23:30:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 23:30:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 23:31:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 23:31:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 23:31:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 23:31:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 23:31:57: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 23:32:12: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 23:32:27: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 23:34:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 23:34:54:  Guardian has detected that the market is suspended

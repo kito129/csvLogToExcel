@@ -1,0 +1,588 @@
+5/5/2022 09:35:22: [G_Auto 1] :  Store Text Value (Shared) for Andrey Rublev: info = marketName: Rublev v Evans - Match Odds; runnerA: Andrey Rublev; runnerB: Daniel Evans 
+5/5/2022 09:35:22: [G_Auto 1] :  Store Value (Shared) for market: aId = 7797771
+5/5/2022 09:35:22: [G_Auto 1] :  Store Value (Shared) for market: bId = 3103121
+5/5/2022 11:10:10:  Guardian has detected that the market is in-play
+5/5/2022 11:10:10:  Guardian has detected that the market is suspended
+5/5/2022 11:10:12: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.24; bBsp: 5.3; volume: 181916.41 
+5/5/2022 11:10:12: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.24; bBsp: 5.3; volume: 181916.41 
+5/5/2022 11:10:12:  Guardian has detected that the market is now unsuspended
+5/5/2022 11:10:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 11:10:26: [G_Auto 2] :  € 33.33 Lay bet placed on Andrey Rublev at 1.24. Fully matched at 1.24.  Ref: 10923          ( Fill or kill bet with 15 seconds delay.   )
+5/5/2022 11:10:26: [G_Auto 1] :  Store Text Value (Shared) for Andrey Rublev: aPoints = point: 0; games: 0; sets: 0 
+5/5/2022 11:10:26: [G_Auto 1] :  Store Text Value (Shared) for Andrey Rublev: aServing = serving:1
+5/5/2022 11:10:26: [G_Auto 1] :  Store Text Value (Shared) for Daniel Evans: bPoints = point: 0; games: 0; sets: 0 
+5/5/2022 11:10:26: [G_Auto 1] :  Store Text Value (Shared) for Daniel Evans: bServing = serving:0
+5/5/2022 11:10:26: [G_Auto 1] :  Store Value (Shared) for market: price = 1.24
+5/5/2022 11:10:26: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 0
+5/5/2022 11:10:26: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 33.33
+5/5/2022 11:10:26: [G_Auto 1] :  Store Value (Shared) for market: stake = 33.33
+5/5/2022 11:10:26: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 33.33
+5/5/2022 11:10:26: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.27
+5/5/2022 11:10:26: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.24
+5/5/2022 11:10:26: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 5.3
+5/5/2022 11:10:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 11:10:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 11:11:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 11:11:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 11:11:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 11:11:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 11:12:01: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 11:12:18: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 11:16:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 11:17:05: [G_Auto 2] :  Placed closure bet with greening on Andrey Rublev by Backing 28.70 at 1.44
+5/5/2022 11:17:06: [G_Auto 1] :  Store Text Value (Shared) for Andrey Rublev: aPoints = point: 0; games: 0; sets: 0 
+5/5/2022 11:17:06: [G_Auto 1] :  Store Text Value (Shared) for Andrey Rublev: aServing = serving:0
+5/5/2022 11:17:06: [G_Auto 1] :  Store Text Value (Shared) for Daniel Evans: bPoints = point: 0; games: 1; sets: 0 
+5/5/2022 11:17:06: [G_Auto 1] :  Store Text Value (Shared) for Daniel Evans: bServing = serving:2
+5/5/2022 11:17:06: [G_Auto 1] :  Store Value (Shared) for market: price = 1.44
+5/5/2022 11:17:06: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 28.7
+5/5/2022 11:17:06: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 33.33
+5/5/2022 11:17:06: [G_Auto 1] :  Store Value (Shared) for market: stake = 28.7
+5/5/2022 11:17:06: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 62.03
+5/5/2022 11:17:06: [G_Auto 1] :  Store Value (Shared) for market: pl = 4.54
+5/5/2022 11:17:06: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.45
+5/5/2022 11:17:06: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.3
+5/5/2022 11:17:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 11:17:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 11:17:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 11:17:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 11:18:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 11:18:14: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 11:18:31: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 11:18:47: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 11:22:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 11:23:12: [G_Auto 2] :  € 15.09 Lay bet placed on Andrey Rublev at 1.53. Fully matched at 1.51.  Ref: 10925          ( Fill or kill bet with 15 seconds delay.   )
+5/5/2022 11:23:12: [G_Auto 1] :  Store Text Value (Shared) for Andrey Rublev: aPoints = point: 0; games: 0; sets: 0 
+5/5/2022 11:23:12: [G_Auto 1] :  Store Text Value (Shared) for Andrey Rublev: aServing = serving:1
+5/5/2022 11:23:12: [G_Auto 1] :  Store Text Value (Shared) for Daniel Evans: bPoints = point: 0; games: 2; sets: 0 
+5/5/2022 11:23:12: [G_Auto 1] :  Store Text Value (Shared) for Daniel Evans: bServing = serving:0
+5/5/2022 11:23:12: [G_Auto 1] :  Store Value (Shared) for market: price = 1.51
+5/5/2022 11:23:12: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 28.7
+5/5/2022 11:23:12: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 48.42
+5/5/2022 11:23:12: [G_Auto 1] :  Store Value (Shared) for market: stake = 15.09
+5/5/2022 11:23:12: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 77.12
+5/5/2022 11:23:12: [G_Auto 1] :  Store Value (Shared) for market: pl = 4.44
+5/5/2022 11:23:12: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.51
+5/5/2022 11:23:12: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.96
+5/5/2022 11:23:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 11:23:18: [G_Auto 1] :  Store Text Value (Shared) for Andrey Rublev: aPoints = point: 0; games: 0; sets: 0 
+5/5/2022 11:23:18: [G_Auto 1] :  Store Text Value (Shared) for Andrey Rublev: aServing = serving:1
+5/5/2022 11:23:18: [G_Auto 1] :  Store Text Value (Shared) for Daniel Evans: bPoints = point: 0; games: 2; sets: 0 
+5/5/2022 11:23:18: [G_Auto 1] :  Store Text Value (Shared) for Daniel Evans: bServing = serving:0
+5/5/2022 11:23:18: [G_Auto 1] :  Store Value (Shared) for market: price = 1.51
+5/5/2022 11:23:18: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 28.7
+5/5/2022 11:23:18: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 48.42
+5/5/2022 11:23:18: [G_Auto 1] :  Store Value (Shared) for market: stake = 15.09
+5/5/2022 11:23:18: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 77.12
+5/5/2022 11:23:18: [G_Auto 1] :  Store Value (Shared) for market: pl = 4.34
+5/5/2022 11:23:18: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.49
+5/5/2022 11:23:18: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3
+5/5/2022 11:23:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 11:23:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 11:23:52: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 11:24:07: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 11:26:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 11:26:36: [G_Auto 2] :  Placed closure bet with greening on Andrey Rublev by Backing 15.82 at 1.44
+5/5/2022 11:26:37: [G_Auto 1] :  Store Text Value (Shared) for Andrey Rublev: aPoints = point: 0; games: 1; sets: 0 
+5/5/2022 11:26:37: [G_Auto 1] :  Store Text Value (Shared) for Andrey Rublev: aServing = serving:0
+5/5/2022 11:26:37: [G_Auto 1] :  Store Text Value (Shared) for Daniel Evans: bPoints = point: 0; games: 2; sets: 0 
+5/5/2022 11:26:37: [G_Auto 1] :  Store Text Value (Shared) for Daniel Evans: bServing = serving:2
+5/5/2022 11:26:37: [G_Auto 1] :  Store Value (Shared) for market: price = 1.44
+5/5/2022 11:26:37: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 44.52
+5/5/2022 11:26:37: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 48.42
+5/5/2022 11:26:37: [G_Auto 1] :  Store Value (Shared) for market: stake = 15.82
+5/5/2022 11:26:37: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 92.94
+5/5/2022 11:26:37: [G_Auto 1] :  Store Value (Shared) for market: pl = 3.81
+5/5/2022 11:26:37: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.46
+5/5/2022 11:26:37: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.15
+5/5/2022 11:26:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 11:26:42: [G_Auto 1] :  Store Text Value (Shared) for Andrey Rublev: aPoints = point: 0; games: 1; sets: 0 
+5/5/2022 11:26:42: [G_Auto 1] :  Store Text Value (Shared) for Andrey Rublev: aServing = serving:0
+5/5/2022 11:26:42: [G_Auto 1] :  Store Text Value (Shared) for Daniel Evans: bPoints = point: 0; games: 2; sets: 0 
+5/5/2022 11:26:42: [G_Auto 1] :  Store Text Value (Shared) for Daniel Evans: bServing = serving:2
+5/5/2022 11:26:42: [G_Auto 1] :  Store Value (Shared) for market: price = 1.44
+5/5/2022 11:26:42: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 44.52
+5/5/2022 11:26:42: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 48.42
+5/5/2022 11:26:42: [G_Auto 1] :  Store Value (Shared) for market: stake = 15.82
+5/5/2022 11:26:42: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 92.94
+5/5/2022 11:26:42: [G_Auto 1] :  Store Value (Shared) for market: pl = 3.81
+5/5/2022 11:26:42: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.44
+5/5/2022 11:26:42: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.2
+5/5/2022 11:26:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 11:27:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 11:27:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 11:27:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 11:28:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 11:28:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 11:28:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 11:28:47: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 11:29:04: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 11:32:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 11:32:19: [G_Auto 2] :  € 13.33 Lay bet placed on Andrey Rublev at 1.6. Fully matched at 1.59.  Ref: 10927          ( Fill or kill bet with 15 seconds delay.   )
+5/5/2022 11:32:20: [G_Auto 1] :  Store Text Value (Shared) for Andrey Rublev: aPoints = point: 0; games: 1; sets: 0 
+5/5/2022 11:32:20: [G_Auto 1] :  Store Text Value (Shared) for Andrey Rublev: aServing = serving:1
+5/5/2022 11:32:20: [G_Auto 1] :  Store Text Value (Shared) for Daniel Evans: bPoints = point: 0; games: 3; sets: 0 
+5/5/2022 11:32:20: [G_Auto 1] :  Store Text Value (Shared) for Daniel Evans: bServing = serving:0
+5/5/2022 11:32:20: [G_Auto 1] :  Store Value (Shared) for market: price = 1.59
+5/5/2022 11:32:20: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 44.52
+5/5/2022 11:32:20: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 61.75
+5/5/2022 11:32:20: [G_Auto 1] :  Store Value (Shared) for market: stake = 13.33
+5/5/2022 11:32:20: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 106.27
+5/5/2022 11:32:20: [G_Auto 1] :  Store Value (Shared) for market: pl = 3.66
+5/5/2022 11:32:20: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.58
+5/5/2022 11:32:20: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.74
+5/5/2022 11:32:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 11:32:26: [G_Auto 1] :  Store Text Value (Shared) for Andrey Rublev: aPoints = point: 0; games: 1; sets: 0 
+5/5/2022 11:32:26: [G_Auto 1] :  Store Text Value (Shared) for Andrey Rublev: aServing = serving:1
+5/5/2022 11:32:26: [G_Auto 1] :  Store Text Value (Shared) for Daniel Evans: bPoints = point: 0; games: 3; sets: 0 
+5/5/2022 11:32:26: [G_Auto 1] :  Store Text Value (Shared) for Daniel Evans: bServing = serving:0
+5/5/2022 11:32:26: [G_Auto 1] :  Store Value (Shared) for market: price = 1.59
+5/5/2022 11:32:26: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 44.52
+5/5/2022 11:32:26: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 61.75
+5/5/2022 11:32:26: [G_Auto 1] :  Store Value (Shared) for market: stake = 13.33
+5/5/2022 11:32:26: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 106.27
+5/5/2022 11:32:26: [G_Auto 1] :  Store Value (Shared) for market: pl = 3.66
+5/5/2022 11:32:26: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.57
+5/5/2022 11:32:26: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.76
+5/5/2022 11:32:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 11:32:43: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 11:32:58: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 11:37:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 11:37:40: [G_Auto 2] :  Placed closure bet with greening on Andrey Rublev by Backing 13.95 at 1.52
+5/5/2022 11:37:41: [G_Auto 1] :  Store Text Value (Shared) for Andrey Rublev: aPoints = point: 0; games: 2; sets: 0 
+5/5/2022 11:37:41: [G_Auto 1] :  Store Text Value (Shared) for Andrey Rublev: aServing = serving:0
+5/5/2022 11:37:41: [G_Auto 1] :  Store Text Value (Shared) for Daniel Evans: bPoints = point: 0; games: 3; sets: 0 
+5/5/2022 11:37:41: [G_Auto 1] :  Store Text Value (Shared) for Daniel Evans: bServing = serving:2
+5/5/2022 11:37:41: [G_Auto 1] :  Store Value (Shared) for market: price = 1.52
+5/5/2022 11:37:41: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 58.47
+5/5/2022 11:37:41: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 61.75
+5/5/2022 11:37:41: [G_Auto 1] :  Store Value (Shared) for market: stake = 13.95
+5/5/2022 11:37:41: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 120.22
+5/5/2022 11:37:41: [G_Auto 1] :  Store Value (Shared) for market: pl = 3.21
+5/5/2022 11:37:41: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.53
+5/5/2022 11:37:41: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.88
+5/5/2022 11:37:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 11:38:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 11:38:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 11:38:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 11:38:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 11:39:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 11:39:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 11:39:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 11:39:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 11:40:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 11:40:15: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 11:40:30: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 11:40:47: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 11:45:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 11:45:37: [G_Auto 2] :  € 28.57 Lay bet placed on Andrey Rublev at 1.28. Fully matched at 1.27.  Ref: 10929          ( Fill or kill bet with 15 seconds delay.   )
+5/5/2022 11:45:38: [G_Auto 1] :  Store Text Value (Shared) for Andrey Rublev: aPoints = point: 0; games: 3; sets: 0 
+5/5/2022 11:45:38: [G_Auto 1] :  Store Text Value (Shared) for Andrey Rublev: aServing = serving:1
+5/5/2022 11:45:38: [G_Auto 1] :  Store Text Value (Shared) for Daniel Evans: bPoints = point: 0; games: 3; sets: 0 
+5/5/2022 11:45:38: [G_Auto 1] :  Store Text Value (Shared) for Daniel Evans: bServing = serving:0
+5/5/2022 11:45:38: [G_Auto 1] :  Store Value (Shared) for market: price = 1.27
+5/5/2022 11:45:38: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 58.47
+5/5/2022 11:45:38: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 90.32
+5/5/2022 11:45:38: [G_Auto 1] :  Store Value (Shared) for market: stake = 28.57
+5/5/2022 11:45:38: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 148.79
+5/5/2022 11:45:38: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.77
+5/5/2022 11:45:38: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.27
+5/5/2022 11:45:38: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.8
+5/5/2022 11:45:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 11:45:44: [G_Auto 1] :  Store Text Value (Shared) for Andrey Rublev: aPoints = point: 0; games: 3; sets: 0 
+5/5/2022 11:45:44: [G_Auto 1] :  Store Text Value (Shared) for Andrey Rublev: aServing = serving:1
+5/5/2022 11:45:44: [G_Auto 1] :  Store Text Value (Shared) for Daniel Evans: bPoints = point: 0; games: 3; sets: 0 
+5/5/2022 11:45:44: [G_Auto 1] :  Store Text Value (Shared) for Daniel Evans: bServing = serving:0
+5/5/2022 11:45:44: [G_Auto 1] :  Store Value (Shared) for market: price = 1.27
+5/5/2022 11:45:44: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 58.47
+5/5/2022 11:45:44: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 90.32
+5/5/2022 11:45:44: [G_Auto 1] :  Store Value (Shared) for market: stake = 28.57
+5/5/2022 11:45:44: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 148.79
+5/5/2022 11:45:44: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.77
+5/5/2022 11:45:44: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.26
+5/5/2022 11:45:44: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.8
+5/5/2022 11:45:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 11:46:04: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 11:46:20: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 11:48:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 11:48:19: [G_Auto 2] :  Placed closure bet with greening on Andrey Rublev by Backing 29.98 at 1.21
+5/5/2022 11:48:20: [G_Auto 1] :  Store Text Value (Shared) for Andrey Rublev: aPoints = point: 0; games: 4; sets: 0 
+5/5/2022 11:48:20: [G_Auto 1] :  Store Text Value (Shared) for Andrey Rublev: aServing = serving:0
+5/5/2022 11:48:20: [G_Auto 1] :  Store Text Value (Shared) for Daniel Evans: bPoints = point: 0; games: 3; sets: 0 
+5/5/2022 11:48:20: [G_Auto 1] :  Store Text Value (Shared) for Daniel Evans: bServing = serving:2
+5/5/2022 11:48:20: [G_Auto 1] :  Store Value (Shared) for market: price = 1.21
+5/5/2022 11:48:20: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 88.45
+5/5/2022 11:48:20: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 90.32
+5/5/2022 11:48:20: [G_Auto 1] :  Store Value (Shared) for market: stake = 29.98
+5/5/2022 11:48:20: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 178.77
+5/5/2022 11:48:20: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.82
+5/5/2022 11:48:20: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.21
+5/5/2022 11:48:20: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 5.7
+5/5/2022 11:48:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 11:48:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 11:48:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 11:49:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 11:49:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 11:49:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 11:50:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 11:50:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 11:50:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 11:50:41: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 11:50:57: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 11:56:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 11:56:56: [G_Auto 2] :  € 28.57 Lay bet placed on Andrey Rublev at 1.28. Fully matched at 1.27.  Ref: 10931          ( Fill or kill bet with 15 seconds delay.   )
+5/5/2022 11:56:57: [G_Auto 1] :  Store Text Value (Shared) for Andrey Rublev: aPoints = point: 0; games: 4; sets: 0 
+5/5/2022 11:56:57: [G_Auto 1] :  Store Text Value (Shared) for Andrey Rublev: aServing = serving:1
+5/5/2022 11:56:57: [G_Auto 1] :  Store Text Value (Shared) for Daniel Evans: bPoints = point: 0; games: 4; sets: 0 
+5/5/2022 11:56:57: [G_Auto 1] :  Store Text Value (Shared) for Daniel Evans: bServing = serving:0
+5/5/2022 11:56:57: [G_Auto 1] :  Store Value (Shared) for market: price = 1.27
+5/5/2022 11:56:57: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 88.45
+5/5/2022 11:56:57: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 118.89
+5/5/2022 11:56:57: [G_Auto 1] :  Store Value (Shared) for market: stake = 28.57
+5/5/2022 11:56:57: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 207.34
+5/5/2022 11:56:57: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.61
+5/5/2022 11:56:57: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.26
+5/5/2022 11:56:57: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.9
+5/5/2022 11:57:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 11:57:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 11:57:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 11:57:47: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 11:58:03: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:00:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:00:19: [G_Auto 2] :  Placed closure bet with greening on Andrey Rublev by Backing 29.99 at 1.21
+5/5/2022 12:00:20: [G_Auto 1] :  Store Text Value (Shared) for Andrey Rublev: aPoints = point: 0; games: 5; sets: 0 
+5/5/2022 12:00:20: [G_Auto 1] :  Store Text Value (Shared) for Andrey Rublev: aServing = serving:0
+5/5/2022 12:00:20: [G_Auto 1] :  Store Text Value (Shared) for Daniel Evans: bPoints = point: 0; games: 4; sets: 0 
+5/5/2022 12:00:20: [G_Auto 1] :  Store Text Value (Shared) for Daniel Evans: bServing = serving:2
+5/5/2022 12:00:20: [G_Auto 1] :  Store Value (Shared) for market: price = 1.21
+5/5/2022 12:00:20: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 118.44
+5/5/2022 12:00:20: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 118.89
+5/5/2022 12:00:20: [G_Auto 1] :  Store Value (Shared) for market: stake = 29.99
+5/5/2022 12:00:20: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 237.33
+5/5/2022 12:00:20: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.44
+5/5/2022 12:00:20: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.22
+5/5/2022 12:00:20: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 5.5
+5/5/2022 12:00:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:00:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:00:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:01:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:01:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:01:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:02:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:02:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:02:24: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:02:40: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:05:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:05:42: [G_Auto 2] :  € 27.59 Lay bet placed on Andrey Rublev at 1.29. Fully matched at 1.28.  Ref: 10933          ( Fill or kill bet with 15 seconds delay.   )
+5/5/2022 12:05:43: [G_Auto 1] :  Store Text Value (Shared) for Andrey Rublev: aPoints = point: 0; games: 5; sets: 0 
+5/5/2022 12:05:43: [G_Auto 1] :  Store Text Value (Shared) for Andrey Rublev: aServing = serving:1
+5/5/2022 12:05:43: [G_Auto 1] :  Store Text Value (Shared) for Daniel Evans: bPoints = point: 0; games: 5; sets: 0 
+5/5/2022 12:05:43: [G_Auto 1] :  Store Text Value (Shared) for Daniel Evans: bServing = serving:0
+5/5/2022 12:05:43: [G_Auto 1] :  Store Value (Shared) for market: price = 1.28
+5/5/2022 12:05:43: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 118.44
+5/5/2022 12:05:43: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 146.48
+5/5/2022 12:05:43: [G_Auto 1] :  Store Value (Shared) for market: stake = 27.59
+5/5/2022 12:05:43: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 264.92
+5/5/2022 12:05:43: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.23
+5/5/2022 12:05:43: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.27
+5/5/2022 12:05:43: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.7
+5/5/2022 12:05:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:06:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:06:02: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:06:17: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:07:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:08:06: [G_Auto 2] :  Placed closure bet with greening on Andrey Rublev by Backing 29.19 at 1.21
+5/5/2022 12:08:07: [G_Auto 1] :  Store Text Value (Shared) for Andrey Rublev: aPoints = point: 0; games: 6; sets: 0 
+5/5/2022 12:08:07: [G_Auto 1] :  Store Text Value (Shared) for Andrey Rublev: aServing = serving:0
+5/5/2022 12:08:07: [G_Auto 1] :  Store Text Value (Shared) for Daniel Evans: bPoints = point: 0; games: 5; sets: 0 
+5/5/2022 12:08:07: [G_Auto 1] :  Store Text Value (Shared) for Daniel Evans: bServing = serving:2
+5/5/2022 12:08:07: [G_Auto 1] :  Store Value (Shared) for market: price = 1.21
+5/5/2022 12:08:07: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 147.63
+5/5/2022 12:08:07: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 146.48
+5/5/2022 12:08:07: [G_Auto 1] :  Store Value (Shared) for market: stake = 29.19
+5/5/2022 12:08:07: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 294.11
+5/5/2022 12:08:07: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.15
+5/5/2022 12:08:07: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.21
+5/5/2022 12:08:07: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 5.5
+5/5/2022 12:08:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:08:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:08:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:08:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:09:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:09:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:09:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:10:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:10:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:10:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:10:33: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:10:50: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:11:06: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:12:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:12:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:13:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:13:13: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:13:30: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:13:45: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:14:02: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:14:17: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:14:34: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:14:49: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:15:05: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:15:20: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:15:37: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:15:52: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:16:09: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:16:24: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:16:40: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:16:57: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:17:14: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:17:31: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:17:46: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:18:02: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:18:17: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:18:34: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:18:50: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:19:07: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:19:24: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:19:40: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:19:57: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:20:13: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:20:30: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:20:46: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:21:03: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:21:20: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:21:36: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:21:53: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:22:10: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:22:26: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:22:43: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:22:58: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:23:14: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:23:31: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:23:46: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:24:03: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:24:19: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:24:36: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:24:53: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:25:08: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:25:24: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:25:39: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:25:54: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:26:09: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:26:24: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:26:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:26:36: [G_Auto 1] :  Store Value (Shared) for market: aFirstSetPrice = 1.09
+5/5/2022 12:26:36: [G_Auto 1] :  Store Value (Shared) for market: bFirstSetPrice = 12
+5/5/2022 12:26:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:26:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:27:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:27:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:27:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:27:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:28:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:28:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:28:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:28:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:29:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:29:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:29:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:30:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:30:05: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:30:20: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:33:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:34:09: [G_Auto 2] :  € 57.14 Lay bet placed on Andrey Rublev at 1.14. Fully matched at 1.13.  Ref: 10935          ( Fill or kill bet with 15 seconds delay.   )
+5/5/2022 12:34:10: [G_Auto 1] :  Store Text Value (Shared) for Andrey Rublev: aPoints = point: 0; games: 0; sets: 1 
+5/5/2022 12:34:10: [G_Auto 1] :  Store Text Value (Shared) for Andrey Rublev: aServing = serving:1
+5/5/2022 12:34:10: [G_Auto 1] :  Store Text Value (Shared) for Daniel Evans: bPoints = point: 0; games: 1; sets: 0 
+5/5/2022 12:34:10: [G_Auto 1] :  Store Text Value (Shared) for Daniel Evans: bServing = serving:0
+5/5/2022 12:34:10: [G_Auto 1] :  Store Value (Shared) for market: price = 1.13
+5/5/2022 12:34:10: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 147.63
+5/5/2022 12:34:10: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 203.62
+5/5/2022 12:34:10: [G_Auto 1] :  Store Value (Shared) for market: stake = 57.14
+5/5/2022 12:34:10: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 351.25
+5/5/2022 12:34:10: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.66
+5/5/2022 12:34:10: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.13
+5/5/2022 12:34:10: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 9.2
+5/5/2022 12:34:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:34:16: [G_Auto 1] :  Store Text Value (Shared) for Andrey Rublev: aPoints = point: 0; games: 0; sets: 1 
+5/5/2022 12:34:16: [G_Auto 1] :  Store Text Value (Shared) for Andrey Rublev: aServing = serving:1
+5/5/2022 12:34:16: [G_Auto 1] :  Store Text Value (Shared) for Daniel Evans: bPoints = point: 0; games: 1; sets: 0 
+5/5/2022 12:34:16: [G_Auto 1] :  Store Text Value (Shared) for Daniel Evans: bServing = serving:0
+5/5/2022 12:34:16: [G_Auto 1] :  Store Value (Shared) for market: price = 1.13
+5/5/2022 12:34:16: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 147.63
+5/5/2022 12:34:16: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 203.62
+5/5/2022 12:34:16: [G_Auto 1] :  Store Value (Shared) for market: stake = 57.14
+5/5/2022 12:34:16: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 351.25
+5/5/2022 12:34:16: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.66
+5/5/2022 12:34:16: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.13
+5/5/2022 12:34:16: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 9.2
+5/5/2022 12:34:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:34:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:34:47: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:36:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:36:41: [G_Auto 2] :  Placed closure bet with greening on Andrey Rublev by Backing 59.23 at 1.09
+5/5/2022 12:36:42: [G_Auto 1] :  Store Text Value (Shared) for Andrey Rublev: aPoints = point: 0; games: 1; sets: 1 
+5/5/2022 12:36:42: [G_Auto 1] :  Store Text Value (Shared) for Andrey Rublev: aServing = serving:0
+5/5/2022 12:36:42: [G_Auto 1] :  Store Text Value (Shared) for Daniel Evans: bPoints = point: 0; games: 1; sets: 0 
+5/5/2022 12:36:42: [G_Auto 1] :  Store Text Value (Shared) for Daniel Evans: bServing = serving:2
+5/5/2022 12:36:42: [G_Auto 1] :  Store Value (Shared) for market: price = 1.09
+5/5/2022 12:36:42: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 206.86
+5/5/2022 12:36:42: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 203.62
+5/5/2022 12:36:42: [G_Auto 1] :  Store Value (Shared) for market: stake = 59.23
+5/5/2022 12:36:42: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 410.48
+5/5/2022 12:36:42: [G_Auto 1] :  Store Value (Shared) for market: pl = -3.24
+5/5/2022 12:36:42: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.09
+5/5/2022 12:36:42: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 11.5
+5/5/2022 12:36:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:37:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:37:14: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:37:30: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:45:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:46:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:46:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:46:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:46:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:47:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:47:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:47:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:47:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:48:01: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:48:18: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:48:34: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:50:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:50:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:50:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:50:36: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:50:51: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:53:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:53:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:53:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:54:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:54:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:54:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:55:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:55:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:55:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 12:55:41: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 12:55:58: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 13:01:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:02:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:02:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:02:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:03:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:03:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:03:26: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 13:03:43: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 13:08:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:08:52: [G_Auto 2] :  € 47.06 Lay bet placed on Andrey Rublev at 1.17. Fully matched at 1.16.  Ref: 10937          ( Fill or kill bet with 15 seconds delay.   )
+5/5/2022 13:08:53: [G_Auto 1] :  Store Text Value (Shared) for Andrey Rublev: aPoints = point: 0; games: 3; sets: 1 
+5/5/2022 13:08:53: [G_Auto 1] :  Store Text Value (Shared) for Andrey Rublev: aServing = serving:1
+5/5/2022 13:08:53: [G_Auto 1] :  Store Text Value (Shared) for Daniel Evans: bPoints = point: 0; games: 4; sets: 0 
+5/5/2022 13:08:53: [G_Auto 1] :  Store Text Value (Shared) for Daniel Evans: bServing = serving:0
+5/5/2022 13:08:53: [G_Auto 1] :  Store Value (Shared) for market: price = 1.16
+5/5/2022 13:08:53: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 206.86
+5/5/2022 13:08:53: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 250.68
+5/5/2022 13:08:53: [G_Auto 1] :  Store Value (Shared) for market: stake = 47.06
+5/5/2022 13:08:53: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 457.54
+5/5/2022 13:08:53: [G_Auto 1] :  Store Value (Shared) for market: pl = -3.65
+5/5/2022 13:08:53: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.15
+5/5/2022 13:08:53: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 7.4
+5/5/2022 13:08:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:09:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:09:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:09:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:10:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:10:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:10:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:10:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:11:06: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:11:08: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 13:11:23: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 13:17:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:17:36: [G_Auto 2] :  Placed closure bet with greening on Andrey Rublev by Backing 48.74 at 1.12
+5/5/2022 13:17:37: [G_Auto 1] :  Store Text Value (Shared) for Andrey Rublev: aPoints = point: 0; games: 4; sets: 1 
+5/5/2022 13:17:37: [G_Auto 1] :  Store Text Value (Shared) for Andrey Rublev: aServing = serving:0
+5/5/2022 13:17:37: [G_Auto 1] :  Store Text Value (Shared) for Daniel Evans: bPoints = point: 0; games: 4; sets: 0 
+5/5/2022 13:17:37: [G_Auto 1] :  Store Text Value (Shared) for Daniel Evans: bServing = serving:2
+5/5/2022 13:17:37: [G_Auto 1] :  Store Value (Shared) for market: price = 1.12
+5/5/2022 13:17:37: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 255.6
+5/5/2022 13:17:37: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 250.68
+5/5/2022 13:17:37: [G_Auto 1] :  Store Value (Shared) for market: stake = 48.74
+5/5/2022 13:17:37: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 506.28
+5/5/2022 13:17:37: [G_Auto 1] :  Store Value (Shared) for market: pl = -4.92
+5/5/2022 13:17:37: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.13
+5/5/2022 13:17:37: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 9
+5/5/2022 13:17:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:17:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:18:05: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 13:18:22: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 13:18:38: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 13:27:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:27:37: [G_Auto 2] :  € 47.06 Lay bet placed on Andrey Rublev at 1.17. Fully matched at 1.16.  Ref: 10939          ( Fill or kill bet with 15 seconds delay.   )
+5/5/2022 13:27:38: [G_Auto 1] :  Store Text Value (Shared) for Andrey Rublev: aPoints = point: 0; games: 4; sets: 1 
+5/5/2022 13:27:38: [G_Auto 1] :  Store Text Value (Shared) for Andrey Rublev: aServing = serving:1
+5/5/2022 13:27:38: [G_Auto 1] :  Store Text Value (Shared) for Daniel Evans: bPoints = point: 0; games: 5; sets: 0 
+5/5/2022 13:27:38: [G_Auto 1] :  Store Text Value (Shared) for Daniel Evans: bServing = serving:0
+5/5/2022 13:27:38: [G_Auto 1] :  Store Value (Shared) for market: price = 1.16
+5/5/2022 13:27:38: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 255.6
+5/5/2022 13:27:38: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 297.74
+5/5/2022 13:27:38: [G_Auto 1] :  Store Value (Shared) for market: stake = 47.06
+5/5/2022 13:27:38: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 553.34
+5/5/2022 13:27:38: [G_Auto 1] :  Store Value (Shared) for market: pl = -5.33
+5/5/2022 13:27:38: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.15
+5/5/2022 13:27:38: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 7.6
+5/5/2022 13:27:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:27:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:28:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:28:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:28:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:28:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:29:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:29:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:29:30: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 13:29:45: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 13:32:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:32:15: [G_Auto 2] :  Placed closure bet with greening on Andrey Rublev by Backing 49.18 at 1.11
+5/5/2022 13:32:16: [G_Auto 1] :  Store Text Value (Shared) for Andrey Rublev: aPoints = point: 0; games: 5; sets: 1 
+5/5/2022 13:32:16: [G_Auto 1] :  Store Text Value (Shared) for Andrey Rublev: aServing = serving:0
+5/5/2022 13:32:16: [G_Auto 1] :  Store Text Value (Shared) for Daniel Evans: bPoints = point: 0; games: 5; sets: 0 
+5/5/2022 13:32:16: [G_Auto 1] :  Store Text Value (Shared) for Daniel Evans: bServing = serving:2
+5/5/2022 13:32:16: [G_Auto 1] :  Store Value (Shared) for market: price = 1.11
+5/5/2022 13:32:16: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 304.78
+5/5/2022 13:32:16: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 297.74
+5/5/2022 13:32:16: [G_Auto 1] :  Store Value (Shared) for market: stake = 49.18
+5/5/2022 13:32:16: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 602.52
+5/5/2022 13:32:16: [G_Auto 1] :  Store Value (Shared) for market: pl = -7.04
+5/5/2022 13:32:16: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.11
+5/5/2022 13:32:16: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 9.6
+5/5/2022 13:32:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:32:22: [G_Auto 1] :  Store Text Value (Shared) for Andrey Rublev: aPoints = point: 0; games: 5; sets: 1 
+5/5/2022 13:32:22: [G_Auto 1] :  Store Text Value (Shared) for Andrey Rublev: aServing = serving:0
+5/5/2022 13:32:22: [G_Auto 1] :  Store Text Value (Shared) for Daniel Evans: bPoints = point: 0; games: 5; sets: 0 
+5/5/2022 13:32:22: [G_Auto 1] :  Store Text Value (Shared) for Daniel Evans: bServing = serving:2
+5/5/2022 13:32:22: [G_Auto 1] :  Store Value (Shared) for market: price = 1.11
+5/5/2022 13:32:22: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 304.78
+5/5/2022 13:32:22: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 297.74
+5/5/2022 13:32:22: [G_Auto 1] :  Store Value (Shared) for market: stake = 49.18
+5/5/2022 13:32:22: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 602.52
+5/5/2022 13:32:22: [G_Auto 1] :  Store Value (Shared) for market: pl = -7.04
+5/5/2022 13:32:22: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.12
+5/5/2022 13:32:22: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 9.8
+5/5/2022 13:32:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:32:44: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 13:32:59: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 13:33:14: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 13:35:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:36:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:36:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:36:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:36:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:37:06: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:37:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:37:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:37:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:38:02: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 13:38:19: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 13:38:34: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 13:40:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:40:15:  Guardian has detected that the market is suspended

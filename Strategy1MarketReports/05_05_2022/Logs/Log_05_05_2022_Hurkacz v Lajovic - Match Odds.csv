@@ -1,0 +1,401 @@
+5/5/2022 09:35:22: [G_Auto 1] :  Store Text Value (Shared) for Hubert Hurkacz: info = marketName: Hurkacz v Lajovic - Match Odds; runnerA: Hubert Hurkacz; runnerB: Dusan Lajovic 
+5/5/2022 09:35:22: [G_Auto 1] :  Store Value (Shared) for market: aId = 19924838
+5/5/2022 09:35:22: [G_Auto 1] :  Store Value (Shared) for market: bId = 4688724
+5/5/2022 13:23:34:  Guardian has detected that the market is in-play
+5/5/2022 13:23:34:  Guardian has detected that the market is suspended
+5/5/2022 13:23:36: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.35; bBsp: 4; volume: 137433.99 
+5/5/2022 13:23:36: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.35; bBsp: 4; volume: 137433.99 
+5/5/2022 13:23:36:  Guardian has detected that the market is now unsuspended
+5/5/2022 13:23:38: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 13:23:54: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 13:26:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:26:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:26:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:27:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:27:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:27:39: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 13:27:55: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 13:28:10: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 13:28:25: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 13:31:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:32:08: [G_Auto 2] :  € 21.62 Lay bet placed on Hubert Hurkacz at 1.37. Fully matched at 1.35.  Ref: 10940          ( Fill or kill bet with 15 seconds delay.   )
+5/5/2022 13:32:09: [G_Auto 1] :  Store Text Value (Shared) for Hubert Hurkacz: aPoints = point: 0; games: 1; sets: 0 
+5/5/2022 13:32:09: [G_Auto 1] :  Store Text Value (Shared) for Hubert Hurkacz: aServing = serving:1
+5/5/2022 13:32:09: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: bPoints = point: 0; games: 1; sets: 0 
+5/5/2022 13:32:09: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: bServing = serving:0
+5/5/2022 13:32:09: [G_Auto 1] :  Store Value (Shared) for market: price = 1.35
+5/5/2022 13:32:09: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 0
+5/5/2022 13:32:09: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 21.62
+5/5/2022 13:32:09: [G_Auto 1] :  Store Value (Shared) for market: stake = 21.62
+5/5/2022 13:32:09: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 21.62
+5/5/2022 13:32:09: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.16
+5/5/2022 13:32:09: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.34
+5/5/2022 13:32:09: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.95
+5/5/2022 13:32:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:32:25: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 13:32:41: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 13:34:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:34:53: [G_Auto 2] :  Placed closure bet with greening on Hubert Hurkacz by Backing 22.45 at 1.3
+5/5/2022 13:34:54: [G_Auto 1] :  Store Text Value (Shared) for Hubert Hurkacz: aPoints = point: 0; games: 2; sets: 0 
+5/5/2022 13:34:54: [G_Auto 1] :  Store Text Value (Shared) for Hubert Hurkacz: aServing = serving:0
+5/5/2022 13:34:54: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: bPoints = point: 0; games: 1; sets: 0 
+5/5/2022 13:34:54: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: bServing = serving:2
+5/5/2022 13:34:54: [G_Auto 1] :  Store Value (Shared) for market: price = 1.3
+5/5/2022 13:34:54: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 22.45
+5/5/2022 13:34:54: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 21.62
+5/5/2022 13:34:54: [G_Auto 1] :  Store Value (Shared) for market: stake = 22.45
+5/5/2022 13:34:54: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 44.07
+5/5/2022 13:34:54: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.83
+5/5/2022 13:34:54: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.31
+5/5/2022 13:34:54: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.2
+5/5/2022 13:34:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:34:59: [G_Auto 1] :  Store Text Value (Shared) for Hubert Hurkacz: aPoints = point: 0; games: 2; sets: 0 
+5/5/2022 13:34:59: [G_Auto 1] :  Store Text Value (Shared) for Hubert Hurkacz: aServing = serving:0
+5/5/2022 13:34:59: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: bPoints = point: 0; games: 1; sets: 0 
+5/5/2022 13:34:59: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: bServing = serving:2
+5/5/2022 13:34:59: [G_Auto 1] :  Store Value (Shared) for market: price = 1.3
+5/5/2022 13:34:59: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 22.45
+5/5/2022 13:34:59: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 21.62
+5/5/2022 13:34:59: [G_Auto 1] :  Store Value (Shared) for market: stake = 22.45
+5/5/2022 13:34:59: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 44.07
+5/5/2022 13:34:59: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.83
+5/5/2022 13:34:59: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.31
+5/5/2022 13:34:59: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.2
+5/5/2022 13:35:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:35:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:35:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:36:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:36:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:36:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:36:45: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 13:37:00: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 13:37:16: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 13:38:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:38:26: [G_Auto 2] :  € 19.51 Lay bet placed on Hubert Hurkacz at 1.41. Fully matched at 1.4.  Ref: 10943          ( Fill or kill bet with 15 seconds delay.   )
+5/5/2022 13:38:27: [G_Auto 1] :  Store Text Value (Shared) for Hubert Hurkacz: aPoints = point: 0; games: 2; sets: 0 
+5/5/2022 13:38:27: [G_Auto 1] :  Store Text Value (Shared) for Hubert Hurkacz: aServing = serving:1
+5/5/2022 13:38:27: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: bPoints = point: 0; games: 2; sets: 0 
+5/5/2022 13:38:27: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: bServing = serving:0
+5/5/2022 13:38:27: [G_Auto 1] :  Store Value (Shared) for market: price = 1.4
+5/5/2022 13:38:27: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 22.45
+5/5/2022 13:38:27: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 41.13
+5/5/2022 13:38:27: [G_Auto 1] :  Store Value (Shared) for market: stake = 19.51
+5/5/2022 13:38:27: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 63.58
+5/5/2022 13:38:27: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.97
+5/5/2022 13:38:27: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.39
+5/5/2022 13:38:27: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.6
+5/5/2022 13:38:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:38:32: [G_Auto 1] :  Store Text Value (Shared) for Hubert Hurkacz: aPoints = point: 0; games: 2; sets: 0 
+5/5/2022 13:38:32: [G_Auto 1] :  Store Text Value (Shared) for Hubert Hurkacz: aServing = serving:1
+5/5/2022 13:38:32: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: bPoints = point: 0; games: 2; sets: 0 
+5/5/2022 13:38:32: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: bServing = serving:0
+5/5/2022 13:38:32: [G_Auto 1] :  Store Value (Shared) for market: price = 1.4
+5/5/2022 13:38:32: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 22.45
+5/5/2022 13:38:32: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 41.13
+5/5/2022 13:38:32: [G_Auto 1] :  Store Value (Shared) for market: stake = 19.51
+5/5/2022 13:38:32: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 63.58
+5/5/2022 13:38:32: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.97
+5/5/2022 13:38:32: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.39
+5/5/2022 13:38:32: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.5
+5/5/2022 13:38:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:39:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:39:04: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 13:39:19: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 13:39:36: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 13:41:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:41:20: [G_Auto 2] :  Placed closure bet with greening on Hubert Hurkacz by Backing 20.54 at 1.33
+5/5/2022 13:41:21: [G_Auto 1] :  Store Text Value (Shared) for Hubert Hurkacz: aPoints = point: 0; games: 3; sets: 0 
+5/5/2022 13:41:21: [G_Auto 1] :  Store Text Value (Shared) for Hubert Hurkacz: aServing = serving:0
+5/5/2022 13:41:21: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: bPoints = point: 0; games: 2; sets: 0 
+5/5/2022 13:41:21: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: bServing = serving:2
+5/5/2022 13:41:21: [G_Auto 1] :  Store Value (Shared) for market: price = 1.33
+5/5/2022 13:41:21: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 42.99
+5/5/2022 13:41:21: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 41.13
+5/5/2022 13:41:21: [G_Auto 1] :  Store Value (Shared) for market: stake = 20.54
+5/5/2022 13:41:21: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 84.12
+5/5/2022 13:41:21: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.86
+5/5/2022 13:41:21: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.34
+5/5/2022 13:41:21: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.9
+5/5/2022 13:41:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:41:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:41:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:42:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:42:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:42:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:42:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:43:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:43:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:43:41: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 13:43:58: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 13:44:14: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 13:49:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:49:24: [G_Auto 2] :  € 21.05 Lay bet placed on Hubert Hurkacz at 1.38. Fully matched at 1.37.  Ref: 10945          ( Fill or kill bet with 15 seconds delay.   )
+5/5/2022 13:49:24: [G_Auto 1] :  Store Text Value (Shared) for Hubert Hurkacz: aPoints = point: 0; games: 3; sets: 0 
+5/5/2022 13:49:24: [G_Auto 1] :  Store Text Value (Shared) for Hubert Hurkacz: aServing = serving:1
+5/5/2022 13:49:24: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: bPoints = point: 0; games: 3; sets: 0 
+5/5/2022 13:49:24: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: bServing = serving:0
+5/5/2022 13:49:24: [G_Auto 1] :  Store Value (Shared) for market: price = 1.37
+5/5/2022 13:49:24: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 42.99
+5/5/2022 13:49:24: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 62.18
+5/5/2022 13:49:24: [G_Auto 1] :  Store Value (Shared) for market: stake = 21.05
+5/5/2022 13:49:24: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 105.17
+5/5/2022 13:49:24: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.01
+5/5/2022 13:49:24: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.36
+5/5/2022 13:49:24: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.8
+5/5/2022 13:49:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:49:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:49:50: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 13:50:07: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 13:51:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:51:45: [G_Auto 2] :  Placed closure bet with greening on Hubert Hurkacz by Backing 22.18 at 1.3
+5/5/2022 13:51:46: [G_Auto 1] :  Store Text Value (Shared) for Hubert Hurkacz: aPoints = point: 0; games: 4; sets: 0 
+5/5/2022 13:51:46: [G_Auto 1] :  Store Text Value (Shared) for Hubert Hurkacz: aServing = serving:0
+5/5/2022 13:51:46: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: bPoints = point: 0; games: 3; sets: 0 
+5/5/2022 13:51:46: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: bServing = serving:2
+5/5/2022 13:51:46: [G_Auto 1] :  Store Value (Shared) for market: price = 1.3
+5/5/2022 13:51:46: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 65.17
+5/5/2022 13:51:46: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 62.18
+5/5/2022 13:51:46: [G_Auto 1] :  Store Value (Shared) for market: stake = 22.18
+5/5/2022 13:51:46: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 127.35
+5/5/2022 13:51:46: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.99
+5/5/2022 13:51:46: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.31
+5/5/2022 13:51:46: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.2
+5/5/2022 13:51:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:52:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:52:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:52:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:52:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:53:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:53:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:53:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:53:55: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 13:54:10: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 13:55:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:55:25: [G_Auto 2] :  € 19.51 Lay bet placed on Hubert Hurkacz at 1.41. Fully matched at 1.4.  Ref: 10947          ( Fill or kill bet with 15 seconds delay.   )
+5/5/2022 13:55:26: [G_Auto 1] :  Store Text Value (Shared) for Hubert Hurkacz: aPoints = point: 0; games: 4; sets: 0 
+5/5/2022 13:55:26: [G_Auto 1] :  Store Text Value (Shared) for Hubert Hurkacz: aServing = serving:1
+5/5/2022 13:55:26: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: bPoints = point: 0; games: 4; sets: 0 
+5/5/2022 13:55:26: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: bServing = serving:0
+5/5/2022 13:55:26: [G_Auto 1] :  Store Value (Shared) for market: price = 1.4
+5/5/2022 13:55:26: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 65.17
+5/5/2022 13:55:26: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 81.69
+5/5/2022 13:55:26: [G_Auto 1] :  Store Value (Shared) for market: stake = 19.51
+5/5/2022 13:55:26: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 146.86
+5/5/2022 13:55:26: [G_Auto 1] :  Store Value (Shared) for market: pl = -3.13
+5/5/2022 13:55:26: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.39
+5/5/2022 13:55:26: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.6
+5/5/2022 13:55:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:55:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 13:55:56: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 13:56:13: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 14:01:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:01:22: [G_Auto 2] :  Placed closure bet with greening on Hubert Hurkacz by Backing 20.09 at 1.36
+5/5/2022 14:01:22: [G_Auto 1] :  Store Text Value (Shared) for Hubert Hurkacz: aPoints = point: 0; games: 5; sets: 0 
+5/5/2022 14:01:22: [G_Auto 1] :  Store Text Value (Shared) for Hubert Hurkacz: aServing = serving:0
+5/5/2022 14:01:22: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: bPoints = point: 0; games: 4; sets: 0 
+5/5/2022 14:01:22: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: bServing = serving:2
+5/5/2022 14:01:22: [G_Auto 1] :  Store Value (Shared) for market: price = 1.36
+5/5/2022 14:01:22: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 85.26
+5/5/2022 14:01:22: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 81.69
+5/5/2022 14:01:22: [G_Auto 1] :  Store Value (Shared) for market: stake = 20.09
+5/5/2022 14:01:22: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 166.95
+5/5/2022 14:01:22: [G_Auto 1] :  Store Value (Shared) for market: pl = -3.56
+5/5/2022 14:01:22: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.37
+5/5/2022 14:01:22: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.7
+5/5/2022 14:01:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:01:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:01:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:02:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:02:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:02:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:02:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:03:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:03:22: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 14:03:37: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 14:03:53: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 14:07:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:07:54: [G_Auto 2] :  € 18.60 Lay bet placed on Hubert Hurkacz at 1.43. Fully matched at 1.42.  Ref: 10952          ( Fill or kill bet with 15 seconds delay.   )
+5/5/2022 14:07:54: [G_Auto 1] :  Store Text Value (Shared) for Hubert Hurkacz: aPoints = point: 0; games: 5; sets: 0 
+5/5/2022 14:07:54: [G_Auto 1] :  Store Text Value (Shared) for Hubert Hurkacz: aServing = serving:1
+5/5/2022 14:07:54: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: bPoints = point: 0; games: 5; sets: 0 
+5/5/2022 14:07:54: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: bServing = serving:0
+5/5/2022 14:07:54: [G_Auto 1] :  Store Value (Shared) for market: price = 1.42
+5/5/2022 14:07:54: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 85.26
+5/5/2022 14:07:54: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 100.29
+5/5/2022 14:07:54: [G_Auto 1] :  Store Value (Shared) for market: stake = 18.6
+5/5/2022 14:07:54: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 185.55
+5/5/2022 14:07:54: [G_Auto 1] :  Store Value (Shared) for market: pl = -3.7
+5/5/2022 14:07:54: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.41
+5/5/2022 14:07:54: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.45
+5/5/2022 14:07:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:08:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:08:16: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 14:08:32: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 14:08:47: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 14:10:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:10:52: [G_Auto 2] :  Placed closure bet with greening on Hubert Hurkacz by Backing 19.71 at 1.34
+5/5/2022 14:10:53: [G_Auto 1] :  Store Text Value (Shared) for Hubert Hurkacz: aPoints = point: 0; games: 6; sets: 0 
+5/5/2022 14:10:53: [G_Auto 1] :  Store Text Value (Shared) for Hubert Hurkacz: aServing = serving:0
+5/5/2022 14:10:53: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: bPoints = point: 0; games: 5; sets: 0 
+5/5/2022 14:10:53: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: bServing = serving:2
+5/5/2022 14:10:53: [G_Auto 1] :  Store Value (Shared) for market: price = 1.34
+5/5/2022 14:10:53: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 104.97
+5/5/2022 14:10:53: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 100.29
+5/5/2022 14:10:53: [G_Auto 1] :  Store Value (Shared) for market: stake = 19.71
+5/5/2022 14:10:53: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 205.26
+5/5/2022 14:10:53: [G_Auto 1] :  Store Value (Shared) for market: pl = -4.67
+5/5/2022 14:10:53: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.34
+5/5/2022 14:10:53: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.85
+5/5/2022 14:10:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:10:59: [G_Auto 1] :  Store Text Value (Shared) for Hubert Hurkacz: aPoints = point: 0; games: 6; sets: 0 
+5/5/2022 14:10:59: [G_Auto 1] :  Store Text Value (Shared) for Hubert Hurkacz: aServing = serving:0
+5/5/2022 14:10:59: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: bPoints = point: 0; games: 5; sets: 0 
+5/5/2022 14:10:59: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: bServing = serving:2
+5/5/2022 14:10:59: [G_Auto 1] :  Store Value (Shared) for market: price = 1.34
+5/5/2022 14:10:59: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 104.97
+5/5/2022 14:10:59: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 100.29
+5/5/2022 14:10:59: [G_Auto 1] :  Store Value (Shared) for market: stake = 19.71
+5/5/2022 14:10:59: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 205.26
+5/5/2022 14:10:59: [G_Auto 1] :  Store Value (Shared) for market: pl = -4.67
+5/5/2022 14:10:59: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.35
+5/5/2022 14:10:59: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.85
+5/5/2022 14:11:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:11:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:11:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:11:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:12:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:12:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:12:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:12:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:13:09: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 14:13:24: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 14:17:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:17:39: [G_Auto 1] :  Store Value (Shared) for market: aFirstSetPrice = 1.12
+5/5/2022 14:17:39: [G_Auto 1] :  Store Value (Shared) for market: bFirstSetPrice = 9.8
+5/5/2022 14:17:43: [G_Auto 2] :  € 61.54 Lay bet placed on Hubert Hurkacz at 1.13. Fully matched at 1.12.  Ref: 10956          ( Fill or kill bet with 15 seconds delay.   )
+5/5/2022 14:17:43: [G_Auto 1] :  Store Text Value (Shared) for Hubert Hurkacz: aPoints = point: 0; games: 0; sets: 1 
+5/5/2022 14:17:43: [G_Auto 1] :  Store Text Value (Shared) for Hubert Hurkacz: aServing = serving:1
+5/5/2022 14:17:43: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: bPoints = point: 0; games: 0; sets: 0 
+5/5/2022 14:17:43: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: bServing = serving:0
+5/5/2022 14:17:43: [G_Auto 1] :  Store Value (Shared) for market: price = 1.12
+5/5/2022 14:17:43: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 104.97
+5/5/2022 14:17:43: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 161.83
+5/5/2022 14:17:43: [G_Auto 1] :  Store Value (Shared) for market: stake = 61.54
+5/5/2022 14:17:43: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 266.8
+5/5/2022 14:17:43: [G_Auto 1] :  Store Value (Shared) for market: pl = -5.23
+5/5/2022 14:17:43: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.12
+5/5/2022 14:17:43: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 9.8
+5/5/2022 14:17:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:18:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:18:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:18:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:18:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:19:06: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:19:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:19:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:19:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:20:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:20:25: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 14:22:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:22:54: [G_Auto 2] :  Placed closure bet with greening on Hubert Hurkacz by Backing 62.65 at 1.1
+5/5/2022 14:22:55: [G_Auto 1] :  Store Text Value (Shared) for Hubert Hurkacz: aPoints = point: 0; games: 1; sets: 1 
+5/5/2022 14:22:55: [G_Auto 1] :  Store Text Value (Shared) for Hubert Hurkacz: aServing = serving:0
+5/5/2022 14:22:55: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: bPoints = point: 0; games: 0; sets: 0 
+5/5/2022 14:22:55: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: bServing = serving:2
+5/5/2022 14:22:55: [G_Auto 1] :  Store Value (Shared) for market: price = 1.1
+5/5/2022 14:22:55: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 167.62
+5/5/2022 14:22:55: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 161.83
+5/5/2022 14:22:55: [G_Auto 1] :  Store Value (Shared) for market: stake = 62.65
+5/5/2022 14:22:55: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 329.45
+5/5/2022 14:22:55: [G_Auto 1] :  Store Value (Shared) for market: pl = -5.79
+5/5/2022 14:22:55: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.1
+5/5/2022 14:22:55: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 10.5
+5/5/2022 14:22:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:23:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:23:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:23:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:23:54: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 14:24:10: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 14:28:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:28:43: [G_Auto 2] :  € 53.33 Lay bet placed on Hubert Hurkacz at 1.15. Fully matched at 1.14.  Ref: 10960          ( Fill or kill bet with 15 seconds delay.   )
+5/5/2022 14:28:43: [G_Auto 1] :  Store Text Value (Shared) for Hubert Hurkacz: aPoints = point: 0; games: 1; sets: 1 
+5/5/2022 14:28:43: [G_Auto 1] :  Store Text Value (Shared) for Hubert Hurkacz: aServing = serving:1
+5/5/2022 14:28:43: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: bPoints = point: 0; games: 1; sets: 0 
+5/5/2022 14:28:43: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: bServing = serving:0
+5/5/2022 14:28:43: [G_Auto 1] :  Store Value (Shared) for market: price = 1.14
+5/5/2022 14:28:43: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 167.62
+5/5/2022 14:28:43: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 215.16
+5/5/2022 14:28:43: [G_Auto 1] :  Store Value (Shared) for market: stake = 53.33
+5/5/2022 14:28:43: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 382.78
+5/5/2022 14:28:43: [G_Auto 1] :  Store Value (Shared) for market: pl = -6.27
+5/5/2022 14:28:43: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.13
+5/5/2022 14:28:43: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 8.8
+5/5/2022 14:28:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:29:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:29:13: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 14:29:28: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 14:36:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:36:36: [G_Auto 2] :  Placed closure bet with greening on Hubert Hurkacz by Backing 54.29 at 1.12
+5/5/2022 14:36:37: [G_Auto 1] :  Store Text Value (Shared) for Hubert Hurkacz: aPoints = point: 0; games: 2; sets: 1 
+5/5/2022 14:36:37: [G_Auto 1] :  Store Text Value (Shared) for Hubert Hurkacz: aServing = serving:0
+5/5/2022 14:36:37: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: bPoints = point: 0; games: 1; sets: 0 
+5/5/2022 14:36:37: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: bServing = serving:2
+5/5/2022 14:36:37: [G_Auto 1] :  Store Value (Shared) for market: price = 1.12
+5/5/2022 14:36:37: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 221.91
+5/5/2022 14:36:37: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 215.16
+5/5/2022 14:36:37: [G_Auto 1] :  Store Value (Shared) for market: stake = 54.29
+5/5/2022 14:36:37: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 437.07
+5/5/2022 14:36:37: [G_Auto 1] :  Store Value (Shared) for market: pl = -6.75
+5/5/2022 14:36:37: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.13
+5/5/2022 14:36:37: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 8.6
+5/5/2022 14:36:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:36:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:37:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:37:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:37:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:38:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:38:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:38:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:38:42: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 14:38:58: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 14:42:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:42:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:43:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:43:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:43:32: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 14:43:47: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 14:45:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:46:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:46:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:46:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:46:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:47:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:47:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:47:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:47:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:47:54: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 14:48:09: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 14:49:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:49:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:49:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:49:35: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 14:49:50: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 14:51:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:51:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:51:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:51:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:52:06: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:52:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:52:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:52:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:53:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:53:23: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 14:53:40: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 14:56:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:57:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:57:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:57:37: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 14:57:52: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 14:58:09: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 14:59:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:59:49:  Guardian has detected that the market is suspended

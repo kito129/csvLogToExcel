@@ -1,0 +1,754 @@
+5/4/2022 09:43:04: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: info = marketName: Lajovic v Ruud - Match Odds; runnerA: Dusan Lajovic; runnerB: Casper Ruud 
+5/4/2022 09:43:04: [G_Auto 1] :  Store Value (Shared) for market: aId = 4688724
+5/4/2022 09:43:04: [G_Auto 1] :  Store Value (Shared) for market: bId = 9629711
+5/4/2022 11:10:19:  Guardian has detected that the market is in-play
+5/4/2022 11:10:19:  Guardian has detected that the market is suspended
+5/4/2022 11:10:23: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 5.8; bBsp: 1.19; volume: 45390.28 
+5/4/2022 11:10:23: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 5.8; bBsp: 1.19; volume: 45390.28 
+5/4/2022 11:10:23:  Guardian has detected that the market is now unsuspended
+5/4/2022 11:10:26: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 11:10:42: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 11:12:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 11:12:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 11:13:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 11:13:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 11:13:35: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 11:13:52: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 11:14:08: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 11:15:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 11:16:00: [G_Auto 2] :  € 34.78 Lay bet placed on Casper Ruud at 1.23. Fully matched at 1.22.  Ref: 10644          ( Fill or kill bet with 15 seconds delay.   )
+5/4/2022 11:16:01: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 1; sets: 0 
+5/4/2022 11:16:01: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:0
+5/4/2022 11:16:01: [G_Auto 1] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 1; sets: 0 
+5/4/2022 11:16:01: [G_Auto 1] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:2
+5/4/2022 11:16:01: [G_Auto 1] :  Store Value (Shared) for market: price = 1.22
+5/4/2022 11:16:01: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 0
+5/4/2022 11:16:01: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 34.78
+5/4/2022 11:16:01: [G_Auto 1] :  Store Value (Shared) for market: stake = 34.78
+5/4/2022 11:16:01: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 34.78
+5/4/2022 11:16:01: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.29
+5/4/2022 11:16:01: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 5.6
+5/4/2022 11:16:01: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.21
+5/4/2022 11:16:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 11:16:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 11:16:27: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 11:16:43: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 11:17:00: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 11:24:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 11:24:50: [G_Auto 2] :  Placed closure bet with greening on Casper Ruud by Backing 28.29 at 1.5
+5/4/2022 11:24:50: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 2; sets: 0 
+5/4/2022 11:24:50: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:1
+5/4/2022 11:24:50: [G_Auto 1] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 1; sets: 0 
+5/4/2022 11:24:50: [G_Auto 1] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:0
+5/4/2022 11:24:50: [G_Auto 1] :  Store Value (Shared) for market: price = 1.5
+5/4/2022 11:24:50: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 28.29
+5/4/2022 11:24:50: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 34.78
+5/4/2022 11:24:50: [G_Auto 1] :  Store Value (Shared) for market: stake = 28.29
+5/4/2022 11:24:50: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 63.07
+5/4/2022 11:24:50: [G_Auto 1] :  Store Value (Shared) for market: pl = 6.36
+5/4/2022 11:24:50: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.98
+5/4/2022 11:24:50: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.52
+5/4/2022 11:24:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 11:25:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 11:25:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 11:25:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 11:26:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 11:26:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 11:26:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 11:26:47: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 11:27:03: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 11:27:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 11:28:03: [G_Auto 2] :  € 12.90 Lay bet placed on Casper Ruud at 1.62. Fully matched at 1.61.  Ref: 10651          ( Fill or kill bet with 15 seconds delay.   )
+5/4/2022 11:28:03: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 3; sets: 0 
+5/4/2022 11:28:03: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:0
+5/4/2022 11:28:03: [G_Auto 1] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 1; sets: 0 
+5/4/2022 11:28:03: [G_Auto 1] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:2
+5/4/2022 11:28:03: [G_Auto 1] :  Store Value (Shared) for market: price = 1.61
+5/4/2022 11:28:03: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 28.29
+5/4/2022 11:28:03: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 47.68
+5/4/2022 11:28:03: [G_Auto 1] :  Store Value (Shared) for market: stake = 12.9
+5/4/2022 11:28:03: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 75.97
+5/4/2022 11:28:03: [G_Auto 1] :  Store Value (Shared) for market: pl = 6.28
+5/4/2022 11:28:03: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.62
+5/4/2022 11:28:03: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.61
+5/4/2022 11:28:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 11:28:10: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 3; sets: 0 
+5/4/2022 11:28:10: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:0
+5/4/2022 11:28:10: [G_Auto 1] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 1; sets: 0 
+5/4/2022 11:28:10: [G_Auto 1] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:2
+5/4/2022 11:28:10: [G_Auto 1] :  Store Value (Shared) for market: price = 1.61
+5/4/2022 11:28:10: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 28.29
+5/4/2022 11:28:10: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 47.68
+5/4/2022 11:28:10: [G_Auto 1] :  Store Value (Shared) for market: stake = 12.9
+5/4/2022 11:28:10: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 75.97
+5/4/2022 11:28:10: [G_Auto 1] :  Store Value (Shared) for market: pl = 6.28
+5/4/2022 11:28:10: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.62
+5/4/2022 11:28:10: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.6
+5/4/2022 11:28:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 11:28:33: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 11:28:50: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 11:29:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 11:30:09: [G_Auto 2] :  Placed closure bet with greening on Casper Ruud by Backing 13.57 at 1.53
+5/4/2022 11:30:10: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 3; sets: 0 
+5/4/2022 11:30:10: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:1
+5/4/2022 11:30:10: [G_Auto 1] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 2; sets: 0 
+5/4/2022 11:30:10: [G_Auto 1] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:0
+5/4/2022 11:30:10: [G_Auto 1] :  Store Value (Shared) for market: price = 1.53
+5/4/2022 11:30:10: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 41.86
+5/4/2022 11:30:10: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 47.68
+5/4/2022 11:30:10: [G_Auto 1] :  Store Value (Shared) for market: stake = 13.57
+5/4/2022 11:30:10: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 89.54
+5/4/2022 11:30:10: [G_Auto 1] :  Store Value (Shared) for market: pl = 5.7
+5/4/2022 11:30:10: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.88
+5/4/2022 11:30:10: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.53
+5/4/2022 11:30:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 11:30:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 11:30:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 11:31:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 11:31:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 11:31:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 11:31:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 11:32:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 11:32:23: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 11:32:40: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 11:34:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 11:34:28: [G_Auto 2] :  € 32.00 Lay bet placed on Casper Ruud at 1.25. Fully matched at 1.24.  Ref: 10658          ( Fill or kill bet with 15 seconds delay.   )
+5/4/2022 11:34:29: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 3; sets: 0 
+5/4/2022 11:34:29: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:0
+5/4/2022 11:34:29: [G_Auto 1] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 3; sets: 0 
+5/4/2022 11:34:29: [G_Auto 1] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:2
+5/4/2022 11:34:29: [G_Auto 1] :  Store Value (Shared) for market: price = 1.24
+5/4/2022 11:34:29: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 41.86
+5/4/2022 11:34:29: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 79.68
+5/4/2022 11:34:29: [G_Auto 1] :  Store Value (Shared) for market: stake = 32
+5/4/2022 11:34:29: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 121.54
+5/4/2022 11:34:29: [G_Auto 1] :  Store Value (Shared) for market: pl = 5.18
+5/4/2022 11:34:29: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 5.5
+5/4/2022 11:34:29: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.22
+5/4/2022 11:34:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 11:34:35: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 3; sets: 0 
+5/4/2022 11:34:35: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:0
+5/4/2022 11:34:35: [G_Auto 1] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 3; sets: 0 
+5/4/2022 11:34:35: [G_Auto 1] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:2
+5/4/2022 11:34:35: [G_Auto 1] :  Store Value (Shared) for market: price = 1.24
+5/4/2022 11:34:35: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 41.86
+5/4/2022 11:34:35: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 79.68
+5/4/2022 11:34:35: [G_Auto 1] :  Store Value (Shared) for market: stake = 32
+5/4/2022 11:34:35: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 121.54
+5/4/2022 11:34:35: [G_Auto 1] :  Store Value (Shared) for market: pl = 5.18
+5/4/2022 11:34:35: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 5.3
+5/4/2022 11:34:35: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.23
+5/4/2022 11:34:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 11:34:59: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 11:35:16: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 11:38:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 11:38:55: [G_Auto 2] :  Placed closure bet with greening on Casper Ruud by Backing 33.07 at 1.2
+5/4/2022 11:38:55: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 3; sets: 0 
+5/4/2022 11:38:55: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:1
+5/4/2022 11:38:55: [G_Auto 1] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 4; sets: 0 
+5/4/2022 11:38:55: [G_Auto 1] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:0
+5/4/2022 11:38:55: [G_Auto 1] :  Store Value (Shared) for market: price = 1.2
+5/4/2022 11:38:55: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 74.93
+5/4/2022 11:38:55: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 79.68
+5/4/2022 11:38:55: [G_Auto 1] :  Store Value (Shared) for market: stake = 33.07
+5/4/2022 11:38:55: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 154.61
+5/4/2022 11:38:55: [G_Auto 1] :  Store Value (Shared) for market: pl = 4.65
+5/4/2022 11:38:55: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 5.8
+5/4/2022 11:38:55: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.21
+5/4/2022 11:38:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 11:39:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 11:39:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 11:39:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 11:40:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 11:40:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 11:40:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 11:40:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 11:41:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 11:41:20: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 11:41:36: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 11:43:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 11:43:29: [G_Auto 2] :  € 28.57 Lay bet placed on Casper Ruud at 1.28. Fully matched at 1.27.  Ref: 10665          ( Fill or kill bet with 15 seconds delay.   )
+5/4/2022 11:43:29: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 4; sets: 0 
+5/4/2022 11:43:29: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:0
+5/4/2022 11:43:29: [G_Auto 1] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 4; sets: 0 
+5/4/2022 11:43:29: [G_Auto 1] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:2
+5/4/2022 11:43:29: [G_Auto 1] :  Store Value (Shared) for market: price = 1.27
+5/4/2022 11:43:29: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 74.93
+5/4/2022 11:43:29: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 108.25
+5/4/2022 11:43:29: [G_Auto 1] :  Store Value (Shared) for market: stake = 28.57
+5/4/2022 11:43:29: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 183.18
+5/4/2022 11:43:29: [G_Auto 1] :  Store Value (Shared) for market: pl = 4.43
+5/4/2022 11:43:29: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 4.9
+5/4/2022 11:43:29: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.27
+5/4/2022 11:43:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 11:43:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 11:44:06: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 11:44:23: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 11:44:39: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 11:46:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 11:46:31: [G_Auto 2] :  Placed closure bet with greening on Casper Ruud by Backing 30.24 at 1.2
+5/4/2022 11:46:31: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 4; sets: 0 
+5/4/2022 11:46:31: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:1
+5/4/2022 11:46:31: [G_Auto 1] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 5; sets: 0 
+5/4/2022 11:46:31: [G_Auto 1] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:0
+5/4/2022 11:46:31: [G_Auto 1] :  Store Value (Shared) for market: price = 1.2
+5/4/2022 11:46:31: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 105.17
+5/4/2022 11:46:31: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 108.25
+5/4/2022 11:46:31: [G_Auto 1] :  Store Value (Shared) for market: stake = 30.24
+5/4/2022 11:46:31: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 213.42
+5/4/2022 11:46:31: [G_Auto 1] :  Store Value (Shared) for market: pl = 3.02
+5/4/2022 11:46:31: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 5.7
+5/4/2022 11:46:31: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.21
+5/4/2022 11:46:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 11:46:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 11:47:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 11:47:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 11:47:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 11:47:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 11:48:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 11:48:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 11:48:36: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 11:48:53: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 11:50:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 11:50:35: [G_Auto 2] :  € 26.67 Lay bet placed on Casper Ruud at 1.3. Fully matched at 1.29.  Ref: 10671          ( Fill or kill bet with 15 seconds delay.   )
+5/4/2022 11:50:35: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 5; sets: 0 
+5/4/2022 11:50:35: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:0
+5/4/2022 11:50:35: [G_Auto 1] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 5; sets: 0 
+5/4/2022 11:50:35: [G_Auto 1] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:2
+5/4/2022 11:50:35: [G_Auto 1] :  Store Value (Shared) for market: price = 1.29
+5/4/2022 11:50:35: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 105.17
+5/4/2022 11:50:35: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 134.92
+5/4/2022 11:50:35: [G_Auto 1] :  Store Value (Shared) for market: stake = 26.67
+5/4/2022 11:50:35: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 240.09
+5/4/2022 11:50:35: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.82
+5/4/2022 11:50:35: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 4.4
+5/4/2022 11:50:35: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.29
+5/4/2022 11:50:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 11:50:42: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 5; sets: 0 
+5/4/2022 11:50:42: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:0
+5/4/2022 11:50:42: [G_Auto 1] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 5; sets: 0 
+5/4/2022 11:50:42: [G_Auto 1] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:2
+5/4/2022 11:50:42: [G_Auto 1] :  Store Value (Shared) for market: price = 1.29
+5/4/2022 11:50:42: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 105.17
+5/4/2022 11:50:42: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 134.92
+5/4/2022 11:50:42: [G_Auto 1] :  Store Value (Shared) for market: stake = 26.67
+5/4/2022 11:50:42: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 240.09
+5/4/2022 11:50:42: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.82
+5/4/2022 11:50:42: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 4.4
+5/4/2022 11:50:42: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.28
+5/4/2022 11:50:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 11:50:58: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 11:51:15: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 11:53:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 11:53:37: [G_Auto 2] :  Placed closure bet with greening on Casper Ruud by Backing 27.97 at 1.23
+5/4/2022 11:53:38: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 5; sets: 0 
+5/4/2022 11:53:38: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:1
+5/4/2022 11:53:38: [G_Auto 1] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 6; sets: 0 
+5/4/2022 11:53:38: [G_Auto 1] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:0
+5/4/2022 11:53:38: [G_Auto 1] :  Store Value (Shared) for market: price = 1.23
+5/4/2022 11:53:38: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 133.14
+5/4/2022 11:53:38: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 134.92
+5/4/2022 11:53:38: [G_Auto 1] :  Store Value (Shared) for market: stake = 27.97
+5/4/2022 11:53:38: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 268.06
+5/4/2022 11:53:38: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.74
+5/4/2022 11:53:38: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 5.1
+5/4/2022 11:53:38: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.23
+5/4/2022 11:53:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 11:53:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 11:54:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 11:54:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 11:54:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 11:55:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 11:55:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 11:55:37: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 11:55:53: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 11:57:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 11:57:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 11:57:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 11:57:39: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 11:57:56: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 11:58:13: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 11:58:29: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 11:58:46: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 11:59:03: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 11:59:19: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 11:59:36: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 11:59:52: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 12:00:09: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 12:00:25: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 12:00:42: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 12:00:59: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 12:01:15: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 12:01:32: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 12:01:49: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 12:02:05: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 12:02:22: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 12:02:39: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 12:02:55: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 12:03:12: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 12:03:29: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 12:03:45: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 12:04:02: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 12:04:18: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 12:04:35: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 12:04:51: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 12:05:08: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 12:05:25: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 12:05:41: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 12:05:58: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 12:06:15: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 12:06:31: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 12:06:48: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 12:07:05: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 12:07:21: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 12:07:38: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 12:07:55: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 12:08:12: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 12:08:28: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 12:08:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:08:55: [G_Auto 1] :  Store Value (Shared) for market: aFirstSetPrice = 1.95
+5/4/2022 12:08:55: [G_Auto 1] :  Store Value (Shared) for market: bFirstSetPrice = 2.08
+5/4/2022 12:08:58: [G_Auto 2] :  € 8.42 Lay bet placed on Dusan Lajovic at 1.95. Fully matched at 1.95.  Ref: 10681          ( Fill or kill bet with 15 seconds delay.   )
+5/4/2022 12:08:58: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 0; sets: 1 
+5/4/2022 12:08:58: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:1
+5/4/2022 12:08:58: [G_Auto 1] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 0; sets: 0 
+5/4/2022 12:08:58: [G_Auto 1] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:0
+5/4/2022 12:08:58: [G_Auto 1] :  Store Value (Shared) for market: price = 1.95
+5/4/2022 12:08:58: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 133.14
+5/4/2022 12:08:58: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 143.34
+5/4/2022 12:08:58: [G_Auto 1] :  Store Value (Shared) for market: stake = 8.42
+5/4/2022 12:08:58: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 276.48
+5/4/2022 12:08:58: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.66
+5/4/2022 12:08:58: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.95
+5/4/2022 12:08:58: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.06
+5/4/2022 12:09:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:09:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:09:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:09:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:10:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:10:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:10:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:10:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:11:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:11:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:11:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:11:52: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 12:12:08: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 12:16:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:17:00: [G_Auto 2] :  Placed closure bet with greening on Dusan Lajovic by Backing 7.97 at 2.06
+5/4/2022 12:17:00: [G_Auto 2] :  € 8.42 Lay bet placed on Casper Ruud at 1.95. Fully matched at 1.94.  Ref: 10684          ( Fill or kill bet with 15 seconds delay.   )
+5/4/2022 12:17:00: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 1; sets: 1 
+5/4/2022 12:17:00: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:0
+5/4/2022 12:17:00: [G_Auto 1] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 0; sets: 0 
+5/4/2022 12:17:00: [G_Auto 1] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:2
+5/4/2022 12:17:00: [G_Auto 1] :  Store Value (Shared) for market: price = 2.06
+5/4/2022 12:17:00: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 141.11
+5/4/2022 12:17:00: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 151.76
+5/4/2022 12:17:00: [G_Auto 1] :  Store Value (Shared) for market: stake = 7.97
+5/4/2022 12:17:00: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 292.87
+5/4/2022 12:17:00: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.22
+5/4/2022 12:17:00: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.06
+5/4/2022 12:17:00: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.95
+5/4/2022 12:17:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:17:07: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 1; sets: 1 
+5/4/2022 12:17:07: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:0
+5/4/2022 12:17:07: [G_Auto 1] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 0; sets: 0 
+5/4/2022 12:17:07: [G_Auto 1] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:2
+5/4/2022 12:17:07: [G_Auto 1] :  Store Value (Shared) for market: price = 2.06
+5/4/2022 12:17:07: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 141.11
+5/4/2022 12:17:07: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 151.76
+5/4/2022 12:17:07: [G_Auto 1] :  Store Value (Shared) for market: stake = 7.97
+5/4/2022 12:17:07: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 292.87
+5/4/2022 12:17:07: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.27
+5/4/2022 12:17:07: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.04
+5/4/2022 12:17:07: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.96
+5/4/2022 12:17:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:17:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:17:52: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 12:18:07: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 12:18:23: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 12:18:38: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 12:19:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:20:09: [G_Auto 2] :  Placed closure bet with greening on Casper Ruud by Backing 8.92 at 1.83
+5/4/2022 12:20:12: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 1; sets: 1 
+5/4/2022 12:20:12: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:1
+5/4/2022 12:20:12: [G_Auto 1] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 1; sets: 0 
+5/4/2022 12:20:12: [G_Auto 1] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:0
+5/4/2022 12:20:12: [G_Auto 1] :  Store Value (Shared) for market: price = 1.83
+5/4/2022 12:20:12: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 150.03
+5/4/2022 12:20:12: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 151.76
+5/4/2022 12:20:12: [G_Auto 1] :  Store Value (Shared) for market: stake = 8.92
+5/4/2022 12:20:12: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 301.79
+5/4/2022 12:20:12: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.7
+5/4/2022 12:20:12: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.18
+5/4/2022 12:20:12: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.83
+5/4/2022 12:20:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:20:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:20:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:20:56: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 12:21:11: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 12:21:27: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 12:24:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:24:13: [G_Auto 2] :  € 18.60 Lay bet placed on Casper Ruud at 1.43. Fully matched at 1.43.  Ref: 10688          ( Fill or kill bet with 15 seconds delay.   )
+5/4/2022 12:24:16: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 1; sets: 1 
+5/4/2022 12:24:16: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:0
+5/4/2022 12:24:16: [G_Auto 1] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 2; sets: 0 
+5/4/2022 12:24:16: [G_Auto 1] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:2
+5/4/2022 12:24:16: [G_Auto 1] :  Store Value (Shared) for market: price = 1.43
+5/4/2022 12:24:16: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 150.03
+5/4/2022 12:24:16: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 170.36
+5/4/2022 12:24:16: [G_Auto 1] :  Store Value (Shared) for market: stake = 18.6
+5/4/2022 12:24:16: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 320.39
+5/4/2022 12:24:16: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.69
+5/4/2022 12:24:16: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.25
+5/4/2022 12:24:16: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.44
+5/4/2022 12:24:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:24:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:24:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:25:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:25:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:25:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:25:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:26:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:26:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:26:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:26:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:27:03: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 12:27:19: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 12:28:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:28:47: [G_Auto 2] :  Placed closure bet with greening on Casper Ruud by Backing 19.71 at 1.35
+5/4/2022 12:28:50: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 1; sets: 1 
+5/4/2022 12:28:50: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:1
+5/4/2022 12:28:50: [G_Auto 1] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 3; sets: 0 
+5/4/2022 12:28:50: [G_Auto 1] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:0
+5/4/2022 12:28:50: [G_Auto 1] :  Store Value (Shared) for market: price = 1.35
+5/4/2022 12:28:50: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 169.74
+5/4/2022 12:28:50: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 170.36
+5/4/2022 12:28:50: [G_Auto 1] :  Store Value (Shared) for market: stake = 19.71
+5/4/2022 12:28:50: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 340.1
+5/4/2022 12:28:50: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.61
+5/4/2022 12:28:50: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.75
+5/4/2022 12:28:50: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.37
+5/4/2022 12:28:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:29:06: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:29:21: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 12:29:37: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 12:32:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:32:16: [G_Auto 2] :  € 29.63 Lay bet placed on Casper Ruud at 1.27. Fully matched at 1.26.  Ref: 10692          ( Fill or kill bet with 15 seconds delay.   )
+5/4/2022 12:32:19: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 1; sets: 1 
+5/4/2022 12:32:19: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:0
+5/4/2022 12:32:19: [G_Auto 1] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 4; sets: 0 
+5/4/2022 12:32:19: [G_Auto 1] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:2
+5/4/2022 12:32:19: [G_Auto 1] :  Store Value (Shared) for market: price = 1.26
+5/4/2022 12:32:19: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 169.74
+5/4/2022 12:32:19: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 199.99
+5/4/2022 12:32:19: [G_Auto 1] :  Store Value (Shared) for market: stake = 29.63
+5/4/2022 12:32:19: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 369.73
+5/4/2022 12:32:19: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.37
+5/4/2022 12:32:19: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 4.8
+5/4/2022 12:32:19: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.26
+5/4/2022 12:32:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:32:26: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 1; sets: 1 
+5/4/2022 12:32:26: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:0
+5/4/2022 12:32:26: [G_Auto 1] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 4; sets: 0 
+5/4/2022 12:32:26: [G_Auto 1] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:2
+5/4/2022 12:32:26: [G_Auto 1] :  Store Value (Shared) for market: price = 1.26
+5/4/2022 12:32:26: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 169.74
+5/4/2022 12:32:26: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 199.99
+5/4/2022 12:32:26: [G_Auto 1] :  Store Value (Shared) for market: stake = 29.63
+5/4/2022 12:32:26: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 369.73
+5/4/2022 12:32:26: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.37
+5/4/2022 12:32:26: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 4.8
+5/4/2022 12:32:26: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.26
+5/4/2022 12:32:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:32:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:33:06: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:33:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:33:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:33:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:34:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:34:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:34:30: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 12:34:45: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 12:35:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:36:10: [G_Auto 2] :  Placed closure bet with greening on Casper Ruud by Backing 30.60 at 1.22
+5/4/2022 12:36:10: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 1; sets: 1 
+5/4/2022 12:36:10: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:1
+5/4/2022 12:36:10: [G_Auto 1] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 5; sets: 0 
+5/4/2022 12:36:10: [G_Auto 1] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:0
+5/4/2022 12:36:10: [G_Auto 1] :  Store Value (Shared) for market: price = 1.22
+5/4/2022 12:36:10: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 200.34
+5/4/2022 12:36:10: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 199.99
+5/4/2022 12:36:10: [G_Auto 1] :  Store Value (Shared) for market: stake = 30.6
+5/4/2022 12:36:10: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 400.33
+5/4/2022 12:36:10: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.35
+5/4/2022 12:36:10: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 5.4
+5/4/2022 12:36:10: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.22
+5/4/2022 12:36:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:36:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:36:32: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 12:36:47: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 12:38:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:38:33: [G_Auto 2] :  € 32.00 Lay bet placed on Casper Ruud at 1.25. Fully matched at 1.24.  Ref: 10695          ( Fill or kill bet with 15 seconds delay.   )
+5/4/2022 12:38:36: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 2; sets: 1 
+5/4/2022 12:38:36: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:0
+5/4/2022 12:38:36: [G_Auto 1] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 5; sets: 0 
+5/4/2022 12:38:36: [G_Auto 1] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:2
+5/4/2022 12:38:36: [G_Auto 1] :  Store Value (Shared) for market: price = 1.24
+5/4/2022 12:38:36: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 200.34
+5/4/2022 12:38:36: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 231.99
+5/4/2022 12:38:36: [G_Auto 1] :  Store Value (Shared) for market: stake = 32
+5/4/2022 12:38:36: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 432.33
+5/4/2022 12:38:36: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.61
+5/4/2022 12:38:36: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 5.1
+5/4/2022 12:38:36: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.24
+5/4/2022 12:38:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:38:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:39:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:39:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:39:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:39:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:40:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:40:22: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 12:40:38: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 12:40:53: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 12:42:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:42:51: [G_Auto 1] :  Store Value (Shared) for market: aSecondSetPrice = 5.1
+5/4/2022 12:42:51: [G_Auto 1] :  Store Value (Shared) for market: bSecondSetPrice = 1.24
+5/4/2022 12:42:54: [G_Auto 2] :  Placed closure bet with greening on Casper Ruud by Backing 32.26 at 1.23
+5/4/2022 12:42:57: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 0; sets: 1 
+5/4/2022 12:42:57: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:1
+5/4/2022 12:42:57: [G_Auto 1] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 0; sets: 1 
+5/4/2022 12:42:57: [G_Auto 1] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:0
+5/4/2022 12:42:57: [G_Auto 1] :  Store Value (Shared) for market: price = 1.23
+5/4/2022 12:42:57: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 232.6
+5/4/2022 12:42:57: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 231.99
+5/4/2022 12:42:57: [G_Auto 1] :  Store Value (Shared) for market: stake = 32.26
+5/4/2022 12:42:57: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 464.59
+5/4/2022 12:42:57: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.61
+5/4/2022 12:42:57: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 5.1
+5/4/2022 12:42:57: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.24
+5/4/2022 12:42:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:43:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:43:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:43:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:44:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:44:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:44:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:44:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:45:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:45:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:45:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:45:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:46:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:46:22: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 12:46:37: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 12:46:53: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 12:49:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:49:28: [G_Auto 2] :  € 22.22 Lay bet placed on Casper Ruud at 1.36. Fully matched at 1.35.  Ref: 10702          ( Fill or kill bet with 15 seconds delay.   )
+5/4/2022 12:49:31: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 1; sets: 1 
+5/4/2022 12:49:31: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:0
+5/4/2022 12:49:31: [G_Auto 1] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 0; sets: 1 
+5/4/2022 12:49:31: [G_Auto 1] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:2
+5/4/2022 12:49:31: [G_Auto 1] :  Store Value (Shared) for market: price = 1.35
+5/4/2022 12:49:31: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 232.6
+5/4/2022 12:49:31: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 254.21
+5/4/2022 12:49:31: [G_Auto 1] :  Store Value (Shared) for market: stake = 22.22
+5/4/2022 12:49:31: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 486.81
+5/4/2022 12:49:31: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.78
+5/4/2022 12:49:31: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.8
+5/4/2022 12:49:31: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.34
+5/4/2022 12:49:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:49:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:50:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:50:18: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 12:50:34: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 12:50:50: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 12:53:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:53:16: [G_Auto 2] :  Placed closure bet with greening on Casper Ruud by Backing 23.25 at 1.29
+5/4/2022 12:53:19: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 1; sets: 1 
+5/4/2022 12:53:19: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:1
+5/4/2022 12:53:19: [G_Auto 1] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 1; sets: 1 
+5/4/2022 12:53:19: [G_Auto 1] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:0
+5/4/2022 12:53:19: [G_Auto 1] :  Store Value (Shared) for market: price = 1.29
+5/4/2022 12:53:19: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 255.85
+5/4/2022 12:53:19: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 254.21
+5/4/2022 12:53:19: [G_Auto 1] :  Store Value (Shared) for market: stake = 23.25
+5/4/2022 12:53:19: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 510.06
+5/4/2022 12:53:19: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.64
+5/4/2022 12:53:19: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 4.3
+5/4/2022 12:53:19: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.3
+5/4/2022 12:53:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:53:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:53:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:54:00: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 12:54:16: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 12:54:31: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 12:56:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:56:21: [G_Auto 2] :  € 18.18 Lay bet placed on Casper Ruud at 1.44. Fully matched at 1.43.  Ref: 10706          ( Fill or kill bet with 15 seconds delay.   )
+5/4/2022 12:56:24: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 2; sets: 1 
+5/4/2022 12:56:24: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:0
+5/4/2022 12:56:24: [G_Auto 1] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 1; sets: 1 
+5/4/2022 12:56:24: [G_Auto 1] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:2
+5/4/2022 12:56:24: [G_Auto 1] :  Store Value (Shared) for market: price = 1.43
+5/4/2022 12:56:24: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 255.85
+5/4/2022 12:56:24: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 272.39
+5/4/2022 12:56:24: [G_Auto 1] :  Store Value (Shared) for market: stake = 18.18
+5/4/2022 12:56:24: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 528.24
+5/4/2022 12:56:24: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.9
+5/4/2022 12:56:24: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.4
+5/4/2022 12:56:24: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.42
+5/4/2022 12:56:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:56:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:56:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:57:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:57:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:57:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:57:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:58:15: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 12:58:31: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 12:59:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 12:59:46: [G_Auto 2] :  Placed closure bet with greening on Casper Ruud by Backing 19.55 at 1.33
+5/4/2022 12:59:46: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 2; sets: 1 
+5/4/2022 12:59:46: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:1
+5/4/2022 12:59:46: [G_Auto 1] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 2; sets: 1 
+5/4/2022 12:59:46: [G_Auto 1] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:0
+5/4/2022 12:59:46: [G_Auto 1] :  Store Value (Shared) for market: price = 1.33
+5/4/2022 12:59:46: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 275.4
+5/4/2022 12:59:46: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 272.39
+5/4/2022 12:59:46: [G_Auto 1] :  Store Value (Shared) for market: stake = 19.55
+5/4/2022 12:59:46: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 547.79
+5/4/2022 12:59:46: [G_Auto 1] :  Store Value (Shared) for market: pl = -3.01
+5/4/2022 12:59:46: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 4
+5/4/2022 12:59:46: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.33
+5/4/2022 12:59:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 13:00:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 13:00:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 13:00:36: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 13:00:52: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 13:02:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 13:02:34: [G_Auto 2] :  € 17.02 Lay bet placed on Casper Ruud at 1.47. Fully matched at 1.46.  Ref: 10711          ( Fill or kill bet with 15 seconds delay.   )
+5/4/2022 13:02:34: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 3; sets: 1 
+5/4/2022 13:02:34: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:0
+5/4/2022 13:02:34: [G_Auto 1] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 2; sets: 1 
+5/4/2022 13:02:34: [G_Auto 1] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:2
+5/4/2022 13:02:34: [G_Auto 1] :  Store Value (Shared) for market: price = 1.46
+5/4/2022 13:02:34: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 275.4
+5/4/2022 13:02:34: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 289.41
+5/4/2022 13:02:34: [G_Auto 1] :  Store Value (Shared) for market: stake = 17.02
+5/4/2022 13:02:34: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 564.81
+5/4/2022 13:02:34: [G_Auto 1] :  Store Value (Shared) for market: pl = -3.13
+5/4/2022 13:02:34: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.25
+5/4/2022 13:02:34: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.45
+5/4/2022 13:02:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 13:02:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 13:03:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 13:03:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 13:03:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 13:03:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 13:04:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 13:04:26: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 13:04:41: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 13:04:57: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 13:06:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 13:06:46: [G_Auto 2] :  Placed closure bet with greening on Casper Ruud by Backing 18.82 at 1.32
+5/4/2022 13:06:49: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 3; sets: 1 
+5/4/2022 13:06:49: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:1
+5/4/2022 13:06:49: [G_Auto 1] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 3; sets: 1 
+5/4/2022 13:06:49: [G_Auto 1] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:0
+5/4/2022 13:06:49: [G_Auto 1] :  Store Value (Shared) for market: price = 1.32
+5/4/2022 13:06:49: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 294.22
+5/4/2022 13:06:49: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 289.41
+5/4/2022 13:06:49: [G_Auto 1] :  Store Value (Shared) for market: stake = 18.82
+5/4/2022 13:06:49: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 583.63
+5/4/2022 13:06:49: [G_Auto 1] :  Store Value (Shared) for market: pl = -4.81
+5/4/2022 13:06:49: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 4
+5/4/2022 13:06:49: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.33
+5/4/2022 13:06:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 13:06:55: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 3; sets: 1 
+5/4/2022 13:06:55: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:1
+5/4/2022 13:06:55: [G_Auto 1] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 3; sets: 1 
+5/4/2022 13:06:55: [G_Auto 1] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:0
+5/4/2022 13:06:55: [G_Auto 1] :  Store Value (Shared) for market: price = 1.32
+5/4/2022 13:06:55: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 294.22
+5/4/2022 13:06:55: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 289.41
+5/4/2022 13:06:55: [G_Auto 1] :  Store Value (Shared) for market: stake = 18.82
+5/4/2022 13:06:55: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 583.63
+5/4/2022 13:06:55: [G_Auto 1] :  Store Value (Shared) for market: pl = -4.81
+5/4/2022 13:06:55: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 4
+5/4/2022 13:06:55: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.33
+5/4/2022 13:07:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 13:07:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 13:07:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 13:07:51: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 13:08:07: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 13:08:23: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 13:11:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 13:11:21: [G_Auto 2] :  € 16.00 Lay bet placed on Casper Ruud at 1.5. Fully matched at 1.5.  Ref: 10715          ( Fill or kill bet with 15 seconds delay.   )
+5/4/2022 13:11:24: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 4; sets: 1 
+5/4/2022 13:11:24: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:0
+5/4/2022 13:11:24: [G_Auto 1] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 3; sets: 1 
+5/4/2022 13:11:24: [G_Auto 1] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:2
+5/4/2022 13:11:24: [G_Auto 1] :  Store Value (Shared) for market: price = 1.5
+5/4/2022 13:11:24: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 294.22
+5/4/2022 13:11:24: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 305.41
+5/4/2022 13:11:24: [G_Auto 1] :  Store Value (Shared) for market: stake = 16
+5/4/2022 13:11:24: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 599.63
+5/4/2022 13:11:24: [G_Auto 1] :  Store Value (Shared) for market: pl = -5.03
+5/4/2022 13:11:24: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.1
+5/4/2022 13:11:24: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.48
+5/4/2022 13:11:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 13:11:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 13:11:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 13:12:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 13:12:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 13:12:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 13:12:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 13:13:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 13:13:17: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 13:13:33: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 13:13:48: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 13:17:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 13:17:54: [G_Auto 2] :  Placed closure bet with greening on Casper Ruud by Backing 17.15 at 1.4
+5/4/2022 13:17:58: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 4; sets: 1 
+5/4/2022 13:17:58: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:1
+5/4/2022 13:17:58: [G_Auto 1] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 4; sets: 1 
+5/4/2022 13:17:58: [G_Auto 1] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:0
+5/4/2022 13:17:58: [G_Auto 1] :  Store Value (Shared) for market: price = 1.4
+5/4/2022 13:17:58: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 311.37
+5/4/2022 13:17:58: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 305.41
+5/4/2022 13:17:58: [G_Auto 1] :  Store Value (Shared) for market: stake = 17.15
+5/4/2022 13:17:58: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 616.78
+5/4/2022 13:17:58: [G_Auto 1] :  Store Value (Shared) for market: pl = -5.96
+5/4/2022 13:17:58: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.55
+5/4/2022 13:17:58: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.39
+5/4/2022 13:17:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 13:18:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 13:18:23: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 13:18:38: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 13:18:54: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 13:19:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 13:20:04: [G_Auto 2] :  € 12.31 Lay bet placed on Casper Ruud at 1.65. Fully matched at 1.64.  Ref: 10718          ( Fill or kill bet with 15 seconds delay.   )
+5/4/2022 13:20:07: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: aPoints = point: 0; games: 5; sets: 1 
+5/4/2022 13:20:07: [G_Auto 1] :  Store Text Value (Shared) for Dusan Lajovic: aServing = serving:0
+5/4/2022 13:20:07: [G_Auto 1] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 4; sets: 1 
+5/4/2022 13:20:07: [G_Auto 1] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:2
+5/4/2022 13:20:07: [G_Auto 1] :  Store Value (Shared) for market: price = 1.64
+5/4/2022 13:20:07: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 311.37
+5/4/2022 13:20:07: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 317.72
+5/4/2022 13:20:07: [G_Auto 1] :  Store Value (Shared) for market: stake = 12.31
+5/4/2022 13:20:07: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 629.09
+5/4/2022 13:20:07: [G_Auto 1] :  Store Value (Shared) for market: pl = -6.03
+5/4/2022 13:20:07: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.56
+5/4/2022 13:20:07: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.63
+5/4/2022 13:20:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 13:20:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 13:20:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 13:20:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 13:21:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 13:21:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 13:21:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 13:21:52: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 13:22:07: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 13:28:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 13:28:11:  Guardian has detected that the market is suspended

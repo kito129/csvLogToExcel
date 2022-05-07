@@ -1,0 +1,801 @@
+5/3/2022 10:12:58: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: info = marketName: Van de Zandschulp v Carreno Busta - Match Odds; runnerA: Botic Van de Zandschulp; runnerB: Pablo Carreno Busta 
+5/3/2022 10:12:58: [G_Auto 1] :  Store Value (Shared) for market: aId = 11204614
+5/3/2022 10:12:58: [G_Auto 1] :  Store Value (Shared) for market: bId = 5479878
+5/3/2022 18:22:22:  Guardian has detected that the market is in-play
+5/3/2022 18:22:22:  Guardian has detected that the market is suspended
+5/3/2022 18:22:24: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 3.25; bBsp: 1.44; volume: 47952.51 
+5/3/2022 18:22:24: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 3.25; bBsp: 1.44; volume: 47952.51 
+5/3/2022 18:22:24:  Guardian has detected that the market is now unsuspended
+5/3/2022 18:22:25: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 18:22:40: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 18:28:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:29:05: [G_Auto 2] :  € 18.18 Lay bet placed on Pablo Carreno Busta at 1.44. Fully matched at 1.43.  Ref: 10529          ( Fill or kill bet with 15 seconds delay.   )
+5/3/2022 18:29:06: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: aPoints = point: 0; games: 1; sets: 0 
+5/3/2022 18:29:06: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: aServing = serving:0
+5/3/2022 18:29:06: [G_Auto 1] :  Store Text Value (Shared) for Pablo Carreno Busta: bPoints = point: 0; games: 0; sets: 0 
+5/3/2022 18:29:06: [G_Auto 1] :  Store Text Value (Shared) for Pablo Carreno Busta: bServing = serving:2
+5/3/2022 18:29:06: [G_Auto 1] :  Store Value (Shared) for market: price = 1.43
+5/3/2022 18:29:06: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 0
+5/3/2022 18:29:06: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 18.18
+5/3/2022 18:29:06: [G_Auto 1] :  Store Value (Shared) for market: stake = 18.18
+5/3/2022 18:29:06: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 18.18
+5/3/2022 18:29:06: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.13
+5/3/2022 18:29:06: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.35
+5/3/2022 18:29:06: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.42
+5/3/2022 18:29:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:29:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:29:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:29:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:29:58: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 18:30:14: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 18:33:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:33:46: [G_Auto 2] :  Placed closure bet with greening on Pablo Carreno Busta by Backing 18.98 at 1.37
+5/3/2022 18:33:47: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: aPoints = point: 0; games: 1; sets: 0 
+5/3/2022 18:33:47: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: aServing = serving:1
+5/3/2022 18:33:47: [G_Auto 1] :  Store Text Value (Shared) for Pablo Carreno Busta: bPoints = point: 0; games: 1; sets: 0 
+5/3/2022 18:33:47: [G_Auto 1] :  Store Text Value (Shared) for Pablo Carreno Busta: bServing = serving:0
+5/3/2022 18:33:47: [G_Auto 1] :  Store Value (Shared) for market: price = 1.37
+5/3/2022 18:33:47: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 18.98
+5/3/2022 18:33:47: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 18.18
+5/3/2022 18:33:47: [G_Auto 1] :  Store Value (Shared) for market: stake = 18.98
+5/3/2022 18:33:47: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 37.16
+5/3/2022 18:33:47: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.8
+5/3/2022 18:33:47: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.6
+5/3/2022 18:33:47: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.38
+5/3/2022 18:33:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:33:53: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: aPoints = point: 0; games: 1; sets: 0 
+5/3/2022 18:33:53: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: aServing = serving:1
+5/3/2022 18:33:53: [G_Auto 1] :  Store Text Value (Shared) for Pablo Carreno Busta: bPoints = point: 0; games: 1; sets: 0 
+5/3/2022 18:33:53: [G_Auto 1] :  Store Text Value (Shared) for Pablo Carreno Busta: bServing = serving:0
+5/3/2022 18:33:53: [G_Auto 1] :  Store Value (Shared) for market: price = 1.37
+5/3/2022 18:33:53: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 18.98
+5/3/2022 18:33:53: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 18.18
+5/3/2022 18:33:53: [G_Auto 1] :  Store Value (Shared) for market: stake = 18.98
+5/3/2022 18:33:53: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 37.16
+5/3/2022 18:33:53: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.8
+5/3/2022 18:33:53: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.6
+5/3/2022 18:33:53: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.38
+5/3/2022 18:34:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:34:11: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 18:34:27: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 18:35:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:35:44: [G_Auto 2] :  € 16.33 Lay bet placed on Pablo Carreno Busta at 1.49. Fully matched at 1.48.  Ref: 10531          ( Fill or kill bet with 15 seconds delay.   )
+5/3/2022 18:35:45: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: aPoints = point: 0; games: 2; sets: 0 
+5/3/2022 18:35:45: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: aServing = serving:0
+5/3/2022 18:35:45: [G_Auto 1] :  Store Text Value (Shared) for Pablo Carreno Busta: bPoints = point: 0; games: 1; sets: 0 
+5/3/2022 18:35:45: [G_Auto 1] :  Store Text Value (Shared) for Pablo Carreno Busta: bServing = serving:2
+5/3/2022 18:35:45: [G_Auto 1] :  Store Value (Shared) for market: price = 1.48
+5/3/2022 18:35:45: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 18.98
+5/3/2022 18:35:45: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 34.51
+5/3/2022 18:35:45: [G_Auto 1] :  Store Value (Shared) for market: stake = 16.33
+5/3/2022 18:35:45: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 53.49
+5/3/2022 18:35:45: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.91
+5/3/2022 18:35:45: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.05
+5/3/2022 18:35:45: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.47
+5/3/2022 18:35:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:36:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:36:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:36:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:36:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:37:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:37:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:37:35: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 18:37:51: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 18:41:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:41:14: [G_Auto 2] :  Placed closure bet with greening on Pablo Carreno Busta by Backing 17.14 at 1.41
+5/3/2022 18:41:15: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: aPoints = point: 0; games: 2; sets: 0 
+5/3/2022 18:41:15: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: aServing = serving:1
+5/3/2022 18:41:15: [G_Auto 1] :  Store Text Value (Shared) for Pablo Carreno Busta: bPoints = point: 0; games: 2; sets: 0 
+5/3/2022 18:41:15: [G_Auto 1] :  Store Text Value (Shared) for Pablo Carreno Busta: bServing = serving:0
+5/3/2022 18:41:15: [G_Auto 1] :  Store Value (Shared) for market: price = 1.41
+5/3/2022 18:41:15: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 36.12
+5/3/2022 18:41:15: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 34.51
+5/3/2022 18:41:15: [G_Auto 1] :  Store Value (Shared) for market: stake = 17.14
+5/3/2022 18:41:15: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 70.63
+5/3/2022 18:41:15: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.61
+5/3/2022 18:41:15: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.3
+5/3/2022 18:41:15: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.43
+5/3/2022 18:41:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:41:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:41:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:42:01: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 18:42:16: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 18:44:06: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:44:18: [G_Auto 2] :  € 14.55 Lay bet placed on Pablo Carreno Busta at 1.55. Fully matched at 1.55.  Ref: 10534          ( Fill or kill bet with 15 seconds delay.   )
+5/3/2022 18:44:19: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: aPoints = point: 0; games: 3; sets: 0 
+5/3/2022 18:44:19: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: aServing = serving:0
+5/3/2022 18:44:19: [G_Auto 1] :  Store Text Value (Shared) for Pablo Carreno Busta: bPoints = point: 0; games: 2; sets: 0 
+5/3/2022 18:44:19: [G_Auto 1] :  Store Text Value (Shared) for Pablo Carreno Busta: bServing = serving:2
+5/3/2022 18:44:19: [G_Auto 1] :  Store Value (Shared) for market: price = 1.55
+5/3/2022 18:44:19: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 36.12
+5/3/2022 18:44:19: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 49.06
+5/3/2022 18:44:19: [G_Auto 1] :  Store Value (Shared) for market: stake = 14.55
+5/3/2022 18:44:19: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 85.18
+5/3/2022 18:44:19: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.7
+5/3/2022 18:44:19: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.84
+5/3/2022 18:44:19: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.54
+5/3/2022 18:44:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:44:25: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: aPoints = point: 0; games: 3; sets: 0 
+5/3/2022 18:44:25: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: aServing = serving:0
+5/3/2022 18:44:25: [G_Auto 1] :  Store Text Value (Shared) for Pablo Carreno Busta: bPoints = point: 0; games: 2; sets: 0 
+5/3/2022 18:44:25: [G_Auto 1] :  Store Text Value (Shared) for Pablo Carreno Busta: bServing = serving:2
+5/3/2022 18:44:25: [G_Auto 1] :  Store Value (Shared) for market: price = 1.55
+5/3/2022 18:44:25: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 36.12
+5/3/2022 18:44:25: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 49.06
+5/3/2022 18:44:25: [G_Auto 1] :  Store Value (Shared) for market: stake = 14.55
+5/3/2022 18:44:25: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 85.18
+5/3/2022 18:44:25: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.7
+5/3/2022 18:44:25: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.8
+5/3/2022 18:44:25: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.54
+5/3/2022 18:44:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:44:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:45:06: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:45:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:45:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:45:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:46:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:46:17: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 18:46:33: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 18:49:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:49:20: [G_Auto 2] :  Placed closure bet with greening on Pablo Carreno Busta by Backing 15.66 at 1.44
+5/3/2022 18:49:21: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: aPoints = point: 0; games: 3; sets: 0 
+5/3/2022 18:49:21: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: aServing = serving:1
+5/3/2022 18:49:21: [G_Auto 1] :  Store Text Value (Shared) for Pablo Carreno Busta: bPoints = point: 0; games: 3; sets: 0 
+5/3/2022 18:49:21: [G_Auto 1] :  Store Text Value (Shared) for Pablo Carreno Busta: bServing = serving:0
+5/3/2022 18:49:21: [G_Auto 1] :  Store Value (Shared) for market: price = 1.44
+5/3/2022 18:49:21: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 51.78
+5/3/2022 18:49:21: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 49.06
+5/3/2022 18:49:21: [G_Auto 1] :  Store Value (Shared) for market: stake = 15.66
+5/3/2022 18:49:21: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 100.84
+5/3/2022 18:49:21: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.72
+5/3/2022 18:49:21: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.2
+5/3/2022 18:49:21: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.45
+5/3/2022 18:49:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:49:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:49:53: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 18:50:08: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 18:51:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:51:52: [G_Auto 2] :  € 13.79 Lay bet placed on Pablo Carreno Busta at 1.58. Fully matched at 1.58.  Ref: 10537          ( Fill or kill bet with 15 seconds delay.   )
+5/3/2022 18:51:53: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: aPoints = point: 0; games: 4; sets: 0 
+5/3/2022 18:51:53: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: aServing = serving:0
+5/3/2022 18:51:53: [G_Auto 1] :  Store Text Value (Shared) for Pablo Carreno Busta: bPoints = point: 0; games: 3; sets: 0 
+5/3/2022 18:51:53: [G_Auto 1] :  Store Text Value (Shared) for Pablo Carreno Busta: bServing = serving:2
+5/3/2022 18:51:53: [G_Auto 1] :  Store Value (Shared) for market: price = 1.58
+5/3/2022 18:51:53: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 51.78
+5/3/2022 18:51:53: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 62.85
+5/3/2022 18:51:53: [G_Auto 1] :  Store Value (Shared) for market: stake = 13.79
+5/3/2022 18:51:53: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 114.63
+5/3/2022 18:51:53: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.99
+5/3/2022 18:51:53: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.8
+5/3/2022 18:51:53: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.55
+5/3/2022 18:51:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:52:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:52:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:52:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:52:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:53:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:53:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:53:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:53:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:54:06: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 18:54:21: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 18:54:36: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 18:54:52: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 18:55:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:56:05: [G_Auto 2] :  Placed closure bet with greening on Pablo Carreno Busta by Backing 15.13 at 1.44
+5/3/2022 18:56:06: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: aPoints = point: 0; games: 4; sets: 0 
+5/3/2022 18:56:06: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: aServing = serving:1
+5/3/2022 18:56:06: [G_Auto 1] :  Store Text Value (Shared) for Pablo Carreno Busta: bPoints = point: 0; games: 4; sets: 0 
+5/3/2022 18:56:06: [G_Auto 1] :  Store Text Value (Shared) for Pablo Carreno Busta: bServing = serving:0
+5/3/2022 18:56:06: [G_Auto 1] :  Store Value (Shared) for market: price = 1.44
+5/3/2022 18:56:06: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 66.91
+5/3/2022 18:56:06: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 62.85
+5/3/2022 18:56:06: [G_Auto 1] :  Store Value (Shared) for market: stake = 15.13
+5/3/2022 18:56:06: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 129.76
+5/3/2022 18:56:06: [G_Auto 1] :  Store Value (Shared) for market: pl = -4.06
+5/3/2022 18:56:06: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.2
+5/3/2022 18:56:06: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.45
+5/3/2022 18:56:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:56:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:56:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:56:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:57:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:57:11: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 18:57:26: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:02:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:02:25: [G_Auto 2] :  € 14.81 Lay bet placed on Pablo Carreno Busta at 1.54. Fully matched at 1.53.  Ref: 10541          ( Fill or kill bet with 15 seconds delay.   )
+5/3/2022 19:02:25: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: aPoints = point: 0; games: 5; sets: 0 
+5/3/2022 19:02:25: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: aServing = serving:0
+5/3/2022 19:02:25: [G_Auto 1] :  Store Text Value (Shared) for Pablo Carreno Busta: bPoints = point: 0; games: 4; sets: 0 
+5/3/2022 19:02:25: [G_Auto 1] :  Store Text Value (Shared) for Pablo Carreno Busta: bServing = serving:2
+5/3/2022 19:02:25: [G_Auto 1] :  Store Value (Shared) for market: price = 1.53
+5/3/2022 19:02:25: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 66.91
+5/3/2022 19:02:25: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 77.66
+5/3/2022 19:02:25: [G_Auto 1] :  Store Value (Shared) for market: stake = 14.81
+5/3/2022 19:02:25: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 144.57
+5/3/2022 19:02:25: [G_Auto 1] :  Store Value (Shared) for market: pl = -4.16
+5/3/2022 19:02:25: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.94
+5/3/2022 19:02:25: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.53
+5/3/2022 19:02:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:02:30: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: aPoints = point: 0; games: 5; sets: 0 
+5/3/2022 19:02:30: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: aServing = serving:0
+5/3/2022 19:02:30: [G_Auto 1] :  Store Text Value (Shared) for Pablo Carreno Busta: bPoints = point: 0; games: 4; sets: 0 
+5/3/2022 19:02:30: [G_Auto 1] :  Store Text Value (Shared) for Pablo Carreno Busta: bServing = serving:2
+5/3/2022 19:02:30: [G_Auto 1] :  Store Value (Shared) for market: price = 1.53
+5/3/2022 19:02:30: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 66.91
+5/3/2022 19:02:30: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 77.66
+5/3/2022 19:02:30: [G_Auto 1] :  Store Value (Shared) for market: stake = 14.81
+5/3/2022 19:02:30: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 144.57
+5/3/2022 19:02:30: [G_Auto 1] :  Store Value (Shared) for market: pl = -4.26
+5/3/2022 19:02:30: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.96
+5/3/2022 19:02:30: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.51
+5/3/2022 19:02:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:02:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:03:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:03:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:03:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:03:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:04:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:04:16: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:04:31: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:05:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:06:00: [G_Auto 2] :  Placed closure bet with greening on Pablo Carreno Busta by Backing 16.18 at 1.4
+5/3/2022 19:06:01: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: aPoints = point: 0; games: 5; sets: 0 
+5/3/2022 19:06:01: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: aServing = serving:1
+5/3/2022 19:06:01: [G_Auto 1] :  Store Text Value (Shared) for Pablo Carreno Busta: bPoints = point: 0; games: 5; sets: 0 
+5/3/2022 19:06:01: [G_Auto 1] :  Store Text Value (Shared) for Pablo Carreno Busta: bServing = serving:0
+5/3/2022 19:06:01: [G_Auto 1] :  Store Value (Shared) for market: price = 1.4
+5/3/2022 19:06:01: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 83.09
+5/3/2022 19:06:01: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 77.66
+5/3/2022 19:06:01: [G_Auto 1] :  Store Value (Shared) for market: stake = 16.18
+5/3/2022 19:06:01: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 160.75
+5/3/2022 19:06:01: [G_Auto 1] :  Store Value (Shared) for market: pl = -5.43
+5/3/2022 19:06:01: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.4
+5/3/2022 19:06:01: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.41
+5/3/2022 19:06:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:06:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:06:23: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:06:39: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:07:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:08:06: [G_Auto 2] :  € 14.29 Lay bet placed on Pablo Carreno Busta at 1.56. Fully matched at 1.55.  Ref: 10544          ( Fill or kill bet with 15 seconds delay.   )
+5/3/2022 19:08:07: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: aPoints = point: 0; games: 6; sets: 0 
+5/3/2022 19:08:07: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: aServing = serving:0
+5/3/2022 19:08:07: [G_Auto 1] :  Store Text Value (Shared) for Pablo Carreno Busta: bPoints = point: 0; games: 5; sets: 0 
+5/3/2022 19:08:07: [G_Auto 1] :  Store Text Value (Shared) for Pablo Carreno Busta: bServing = serving:2
+5/3/2022 19:08:07: [G_Auto 1] :  Store Value (Shared) for market: price = 1.55
+5/3/2022 19:08:07: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 83.09
+5/3/2022 19:08:07: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 91.95
+5/3/2022 19:08:07: [G_Auto 1] :  Store Value (Shared) for market: stake = 14.29
+5/3/2022 19:08:07: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 175.04
+5/3/2022 19:08:07: [G_Auto 1] :  Store Value (Shared) for market: pl = -5.53
+5/3/2022 19:08:07: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.8
+5/3/2022 19:08:07: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.54
+5/3/2022 19:08:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:08:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:08:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:08:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:09:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:09:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:09:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:09:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:10:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:10:21: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:10:36: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:10:51: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:12:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:12:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:13:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:13:15: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:13:31: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:13:47: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:14:02: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:14:18: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:14:33: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:14:49: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:15:05: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:15:20: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:15:36: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:15:52: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:16:07: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:16:23: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:16:38: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:16:54: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:17:10: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:17:26: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:17:41: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:17:57: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:18:13: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:18:28: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:18:44: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:19:00: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:19:15: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:19:31: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:19:46: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:20:02: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:20:18: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:20:33: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:20:49: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:21:05: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:21:20: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:21:36: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:21:52: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:22:08: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:22:23: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:22:39: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:22:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:22:48: [G_Auto 1] :  Store Value (Shared) for market: aFirstSetPrice = 7.6
+5/3/2022 19:22:48: [G_Auto 1] :  Store Value (Shared) for market: bFirstSetPrice = 1.16
+5/3/2022 19:22:53: [G_Auto 2] :  € 47.06 Lay bet placed on Pablo Carreno Busta at 1.17. Fully matched at 1.15.  Ref: 10549          ( Fill or kill bet with 15 seconds delay.   )
+5/3/2022 19:22:54: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: aPoints = point: 0; games: 0; sets: 0 
+5/3/2022 19:22:54: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: aServing = serving:0
+5/3/2022 19:22:54: [G_Auto 1] :  Store Text Value (Shared) for Pablo Carreno Busta: bPoints = point: 0; games: 0; sets: 1 
+5/3/2022 19:22:54: [G_Auto 1] :  Store Text Value (Shared) for Pablo Carreno Busta: bServing = serving:2
+5/3/2022 19:22:54: [G_Auto 1] :  Store Value (Shared) for market: price = 1.15
+5/3/2022 19:22:54: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 83.09
+5/3/2022 19:22:54: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 139.01
+5/3/2022 19:22:54: [G_Auto 1] :  Store Value (Shared) for market: stake = 47.06
+5/3/2022 19:22:54: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 222.1
+5/3/2022 19:22:54: [G_Auto 1] :  Store Value (Shared) for market: pl = -10.99
+5/3/2022 19:22:54: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 7.6
+5/3/2022 19:22:54: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.15
+5/3/2022 19:22:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:23:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:23:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:23:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:23:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:24:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:24:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:24:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:25:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:25:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:25:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:25:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:26:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:26:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:26:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:26:37: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:26:53: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:27:08: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:28:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:28:30: [G_Auto 2] :  Placed closure bet with greening on Pablo Carreno Busta by Backing 68.10 at 1.12
+5/3/2022 19:28:30: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: aPoints = point: 0; games: 0; sets: 0 
+5/3/2022 19:28:30: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: aServing = serving:1
+5/3/2022 19:28:30: [G_Auto 1] :  Store Text Value (Shared) for Pablo Carreno Busta: bPoints = point: 0; games: 1; sets: 1 
+5/3/2022 19:28:30: [G_Auto 1] :  Store Text Value (Shared) for Pablo Carreno Busta: bServing = serving:0
+5/3/2022 19:28:30: [G_Auto 1] :  Store Value (Shared) for market: price = 1.12
+5/3/2022 19:28:30: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 151.19
+5/3/2022 19:28:30: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 139.01
+5/3/2022 19:28:30: [G_Auto 1] :  Store Value (Shared) for market: stake = 68.1
+5/3/2022 19:28:30: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 290.2
+5/3/2022 19:28:30: [G_Auto 1] :  Store Value (Shared) for market: pl = -12.18
+5/3/2022 19:28:30: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 9.2
+5/3/2022 19:28:30: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.12
+5/3/2022 19:28:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:28:35: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: aPoints = point: 0; games: 0; sets: 0 
+5/3/2022 19:28:35: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: aServing = serving:1
+5/3/2022 19:28:35: [G_Auto 1] :  Store Text Value (Shared) for Pablo Carreno Busta: bPoints = point: 0; games: 1; sets: 1 
+5/3/2022 19:28:35: [G_Auto 1] :  Store Text Value (Shared) for Pablo Carreno Busta: bServing = serving:0
+5/3/2022 19:28:35: [G_Auto 1] :  Store Value (Shared) for market: price = 1.12
+5/3/2022 19:28:35: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 151.19
+5/3/2022 19:28:35: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 139.01
+5/3/2022 19:28:35: [G_Auto 1] :  Store Value (Shared) for market: stake = 68.1
+5/3/2022 19:28:35: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 290.2
+5/3/2022 19:28:35: [G_Auto 1] :  Store Value (Shared) for market: pl = -12.18
+5/3/2022 19:28:35: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 8.8
+5/3/2022 19:28:35: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.13
+5/3/2022 19:28:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:29:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:29:20: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:29:35: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:32:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:32:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:32:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:32:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:33:02: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:33:18: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:34:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:34:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:34:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:35:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:35:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:35:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:35:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:36:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:36:23: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:36:38: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:36:53: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:38:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:38:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:38:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:38:54: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:39:10: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:41:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:41:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:41:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:41:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:42:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:42:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:42:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:42:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:43:03: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:43:19: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:47:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:47:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:48:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:48:23: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:48:39: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:48:55: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:49:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:50:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:50:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:50:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:51:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:51:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:51:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:51:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:52:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:52:07: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:52:23: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:53:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:53:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:54:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:54:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:54:21: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:54:37: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:54:52: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:58:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:58:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:59:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:59:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:59:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:00:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:00:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:00:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:00:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:00:52: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 20:01:07: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 20:02:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:02:58: [G_Auto 2] :  € 38.10 Lay bet placed on Pablo Carreno Busta at 1.21. Fully matched at 1.2.  Ref: 10562          ( Fill or kill bet with 15 seconds delay.   )
+5/3/2022 20:02:58: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: aPoints = point: 0; games: 5; sets: 0 
+5/3/2022 20:02:58: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: aServing = serving:0
+5/3/2022 20:02:58: [G_Auto 1] :  Store Text Value (Shared) for Pablo Carreno Busta: bPoints = point: 0; games: 5; sets: 1 
+5/3/2022 20:02:58: [G_Auto 1] :  Store Text Value (Shared) for Pablo Carreno Busta: bServing = serving:2
+5/3/2022 20:02:58: [G_Auto 1] :  Store Value (Shared) for market: price = 1.2
+5/3/2022 20:02:58: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 151.19
+5/3/2022 20:02:58: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 177.11
+5/3/2022 20:02:58: [G_Auto 1] :  Store Value (Shared) for market: stake = 38.1
+5/3/2022 20:02:58: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 328.3
+5/3/2022 20:02:58: [G_Auto 1] :  Store Value (Shared) for market: pl = -12.5
+5/3/2022 20:02:58: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 6
+5/3/2022 20:02:58: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.19
+5/3/2022 20:03:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:03:03: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: aPoints = point: 0; games: 5; sets: 0 
+5/3/2022 20:03:03: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: aServing = serving:0
+5/3/2022 20:03:03: [G_Auto 1] :  Store Text Value (Shared) for Pablo Carreno Busta: bPoints = point: 0; games: 5; sets: 1 
+5/3/2022 20:03:03: [G_Auto 1] :  Store Text Value (Shared) for Pablo Carreno Busta: bServing = serving:2
+5/3/2022 20:03:03: [G_Auto 1] :  Store Value (Shared) for market: price = 1.2
+5/3/2022 20:03:03: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 151.19
+5/3/2022 20:03:03: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 177.11
+5/3/2022 20:03:03: [G_Auto 1] :  Store Value (Shared) for market: stake = 38.1
+5/3/2022 20:03:03: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 328.3
+5/3/2022 20:03:03: [G_Auto 1] :  Store Value (Shared) for market: pl = -12.83
+5/3/2022 20:03:03: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 6.4
+5/3/2022 20:03:03: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.19
+5/3/2022 20:03:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:03:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:03:39: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 20:03:54: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 20:06:06: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:06:19: [G_Auto 2] :  Placed closure bet with greening on Pablo Carreno Busta by Backing 40.11 at 1.14
+5/3/2022 20:06:20: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: aPoints = point: 0; games: 5; sets: 0 
+5/3/2022 20:06:20: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: aServing = serving:1
+5/3/2022 20:06:20: [G_Auto 1] :  Store Text Value (Shared) for Pablo Carreno Busta: bPoints = point: 0; games: 6; sets: 1 
+5/3/2022 20:06:20: [G_Auto 1] :  Store Text Value (Shared) for Pablo Carreno Busta: bServing = serving:0
+5/3/2022 20:06:20: [G_Auto 1] :  Store Value (Shared) for market: price = 1.14
+5/3/2022 20:06:20: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 191.3
+5/3/2022 20:06:20: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 177.11
+5/3/2022 20:06:20: [G_Auto 1] :  Store Value (Shared) for market: stake = 40.11
+5/3/2022 20:06:20: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 368.41
+5/3/2022 20:06:20: [G_Auto 1] :  Store Value (Shared) for market: pl = -14.19
+5/3/2022 20:06:20: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 7.6
+5/3/2022 20:06:20: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.14
+5/3/2022 20:06:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:06:25: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: aPoints = point: 0; games: 5; sets: 0 
+5/3/2022 20:06:25: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: aServing = serving:1
+5/3/2022 20:06:25: [G_Auto 1] :  Store Text Value (Shared) for Pablo Carreno Busta: bPoints = point: 0; games: 6; sets: 1 
+5/3/2022 20:06:25: [G_Auto 1] :  Store Text Value (Shared) for Pablo Carreno Busta: bServing = serving:0
+5/3/2022 20:06:25: [G_Auto 1] :  Store Value (Shared) for market: price = 1.14
+5/3/2022 20:06:25: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 191.3
+5/3/2022 20:06:25: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 177.11
+5/3/2022 20:06:25: [G_Auto 1] :  Store Value (Shared) for market: stake = 40.11
+5/3/2022 20:06:25: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 368.41
+5/3/2022 20:06:25: [G_Auto 1] :  Store Value (Shared) for market: pl = -14.19
+5/3/2022 20:06:25: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 7.6
+5/3/2022 20:06:25: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.15
+5/3/2022 20:06:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:06:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:07:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:07:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:07:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:07:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:08:09: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 20:08:25: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 20:08:40: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 20:14:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:14:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:14:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:14:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:15:05: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 20:15:20: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 20:15:36: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 20:15:51: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 20:16:06: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 20:16:21: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 20:16:37: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 20:16:53: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 20:17:09: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 20:17:24: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 20:17:40: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 20:17:55: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 20:18:11: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 20:18:27: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 20:18:43: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 20:18:58: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 20:19:14: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 20:19:30: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 20:19:45: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 20:20:01: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 20:20:17: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 20:20:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:20:40: [G_Auto 1] :  Store Value (Shared) for market: aSecondSetPrice = 2.54
+5/3/2022 20:20:40: [G_Auto 1] :  Store Value (Shared) for market: bSecondSetPrice = 1.62
+5/3/2022 20:20:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:21:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:21:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:21:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:21:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:22:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:22:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:22:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:22:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:23:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:23:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:23:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:23:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:23:56: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 20:24:11: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 20:26:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:27:04: [G_Auto 2] :  € 10.53 Lay bet placed on Pablo Carreno Busta at 1.76. Fully matched at 1.75.  Ref: 10571          ( Fill or kill bet with 15 seconds delay.   )
+5/3/2022 20:27:05: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: aPoints = point: 0; games: 1; sets: 1 
+5/3/2022 20:27:05: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: aServing = serving:0
+5/3/2022 20:27:05: [G_Auto 1] :  Store Text Value (Shared) for Pablo Carreno Busta: bPoints = point: 0; games: 0; sets: 1 
+5/3/2022 20:27:05: [G_Auto 1] :  Store Text Value (Shared) for Pablo Carreno Busta: bServing = serving:2
+5/3/2022 20:27:05: [G_Auto 1] :  Store Value (Shared) for market: price = 1.75
+5/3/2022 20:27:05: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 191.3
+5/3/2022 20:27:05: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 187.64
+5/3/2022 20:27:05: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.53
+5/3/2022 20:27:05: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 378.94
+5/3/2022 20:27:05: [G_Auto 1] :  Store Value (Shared) for market: pl = -14.31
+5/3/2022 20:27:05: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.36
+5/3/2022 20:27:05: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.74
+5/3/2022 20:27:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:27:10: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: aPoints = point: 0; games: 1; sets: 1 
+5/3/2022 20:27:10: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: aServing = serving:0
+5/3/2022 20:27:10: [G_Auto 1] :  Store Text Value (Shared) for Pablo Carreno Busta: bPoints = point: 0; games: 0; sets: 1 
+5/3/2022 20:27:10: [G_Auto 1] :  Store Text Value (Shared) for Pablo Carreno Busta: bServing = serving:2
+5/3/2022 20:27:10: [G_Auto 1] :  Store Value (Shared) for market: price = 1.75
+5/3/2022 20:27:10: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 191.3
+5/3/2022 20:27:10: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 187.64
+5/3/2022 20:27:10: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.53
+5/3/2022 20:27:10: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 378.94
+5/3/2022 20:27:10: [G_Auto 1] :  Store Value (Shared) for market: pl = -14.31
+5/3/2022 20:27:10: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.38
+5/3/2022 20:27:10: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.73
+5/3/2022 20:27:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:27:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:27:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:28:09: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 20:28:25: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 20:29:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:29:52: [G_Auto 2] :  Placed closure bet with greening on Pablo Carreno Busta by Backing 11.81 at 1.56
+5/3/2022 20:29:52: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: aPoints = point: 0; games: 1; sets: 1 
+5/3/2022 20:29:52: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: aServing = serving:1
+5/3/2022 20:29:52: [G_Auto 1] :  Store Text Value (Shared) for Pablo Carreno Busta: bPoints = point: 0; games: 1; sets: 1 
+5/3/2022 20:29:52: [G_Auto 1] :  Store Text Value (Shared) for Pablo Carreno Busta: bServing = serving:0
+5/3/2022 20:29:52: [G_Auto 1] :  Store Value (Shared) for market: price = 1.56
+5/3/2022 20:29:52: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 203.11
+5/3/2022 20:29:52: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 187.64
+5/3/2022 20:29:52: [G_Auto 1] :  Store Value (Shared) for market: stake = 11.81
+5/3/2022 20:29:52: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 390.75
+5/3/2022 20:29:52: [G_Auto 1] :  Store Value (Shared) for market: pl = -15.47
+5/3/2022 20:29:52: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.78
+5/3/2022 20:29:52: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.57
+5/3/2022 20:29:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:29:58: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: aPoints = point: 0; games: 1; sets: 1 
+5/3/2022 20:29:58: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: aServing = serving:1
+5/3/2022 20:29:58: [G_Auto 1] :  Store Text Value (Shared) for Pablo Carreno Busta: bPoints = point: 0; games: 1; sets: 1 
+5/3/2022 20:29:58: [G_Auto 1] :  Store Text Value (Shared) for Pablo Carreno Busta: bServing = serving:0
+5/3/2022 20:29:58: [G_Auto 1] :  Store Value (Shared) for market: price = 1.56
+5/3/2022 20:29:58: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 203.11
+5/3/2022 20:29:58: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 187.64
+5/3/2022 20:29:58: [G_Auto 1] :  Store Value (Shared) for market: stake = 11.81
+5/3/2022 20:29:58: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 390.75
+5/3/2022 20:29:58: [G_Auto 1] :  Store Value (Shared) for market: pl = -15.47
+5/3/2022 20:29:58: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.74
+5/3/2022 20:29:58: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.58
+5/3/2022 20:30:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:30:15: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 20:30:31: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 20:32:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:32:45: [G_Auto 2] :  € 10.67 Lay bet placed on Pablo Carreno Busta at 1.75. Fully matched at 1.73.  Ref: 10574          ( Fill or kill bet with 15 seconds delay.   )
+5/3/2022 20:32:46: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: aPoints = point: 0; games: 2; sets: 1 
+5/3/2022 20:32:46: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: aServing = serving:0
+5/3/2022 20:32:46: [G_Auto 1] :  Store Text Value (Shared) for Pablo Carreno Busta: bPoints = point: 0; games: 1; sets: 1 
+5/3/2022 20:32:46: [G_Auto 1] :  Store Text Value (Shared) for Pablo Carreno Busta: bServing = serving:2
+5/3/2022 20:32:46: [G_Auto 1] :  Store Value (Shared) for market: price = 1.73
+5/3/2022 20:32:46: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 203.11
+5/3/2022 20:32:46: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 198.31
+5/3/2022 20:32:46: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.67
+5/3/2022 20:32:46: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 401.42
+5/3/2022 20:32:46: [G_Auto 1] :  Store Value (Shared) for market: pl = -15.53
+5/3/2022 20:32:46: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.36
+5/3/2022 20:32:46: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.73
+5/3/2022 20:32:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:32:51: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: aPoints = point: 0; games: 2; sets: 1 
+5/3/2022 20:32:51: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: aServing = serving:0
+5/3/2022 20:32:51: [G_Auto 1] :  Store Text Value (Shared) for Pablo Carreno Busta: bPoints = point: 0; games: 1; sets: 1 
+5/3/2022 20:32:51: [G_Auto 1] :  Store Text Value (Shared) for Pablo Carreno Busta: bServing = serving:2
+5/3/2022 20:32:51: [G_Auto 1] :  Store Value (Shared) for market: price = 1.73
+5/3/2022 20:32:51: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 203.11
+5/3/2022 20:32:51: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 198.31
+5/3/2022 20:32:51: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.67
+5/3/2022 20:32:51: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 401.42
+5/3/2022 20:32:51: [G_Auto 1] :  Store Value (Shared) for market: pl = -15.53
+5/3/2022 20:32:51: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.36
+5/3/2022 20:32:51: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.72
+5/3/2022 20:33:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:33:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:33:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:33:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:34:06: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:34:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:34:34: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 20:34:49: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 20:36:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:36:36: [G_Auto 2] :  Placed closure bet with greening on Pablo Carreno Busta by Backing 11.76 at 1.57
+5/3/2022 20:36:37: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: aPoints = point: 0; games: 2; sets: 1 
+5/3/2022 20:36:37: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: aServing = serving:1
+5/3/2022 20:36:37: [G_Auto 1] :  Store Text Value (Shared) for Pablo Carreno Busta: bPoints = point: 0; games: 2; sets: 1 
+5/3/2022 20:36:37: [G_Auto 1] :  Store Text Value (Shared) for Pablo Carreno Busta: bServing = serving:0
+5/3/2022 20:36:37: [G_Auto 1] :  Store Value (Shared) for market: price = 1.57
+5/3/2022 20:36:37: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 214.87
+5/3/2022 20:36:37: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 198.31
+5/3/2022 20:36:37: [G_Auto 1] :  Store Value (Shared) for market: stake = 11.76
+5/3/2022 20:36:37: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 413.18
+5/3/2022 20:36:37: [G_Auto 1] :  Store Value (Shared) for market: pl = -16.56
+5/3/2022 20:36:37: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.74
+5/3/2022 20:36:37: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.58
+5/3/2022 20:36:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:36:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:36:59: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 20:37:14: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 20:39:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:40:10: [G_Auto 2] :  € 10.39 Lay bet placed on Pablo Carreno Busta at 1.77. Fully matched at 1.76.  Ref: 10579          ( Fill or kill bet with 15 seconds delay.   )
+5/3/2022 20:40:10: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: aPoints = point: 0; games: 3; sets: 1 
+5/3/2022 20:40:10: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: aServing = serving:0
+5/3/2022 20:40:10: [G_Auto 1] :  Store Text Value (Shared) for Pablo Carreno Busta: bPoints = point: 0; games: 2; sets: 1 
+5/3/2022 20:40:10: [G_Auto 1] :  Store Text Value (Shared) for Pablo Carreno Busta: bServing = serving:2
+5/3/2022 20:40:10: [G_Auto 1] :  Store Value (Shared) for market: price = 1.76
+5/3/2022 20:40:10: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 214.87
+5/3/2022 20:40:10: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 208.7
+5/3/2022 20:40:10: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.39
+5/3/2022 20:40:10: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 423.57
+5/3/2022 20:40:10: [G_Auto 1] :  Store Value (Shared) for market: pl = -16.62
+5/3/2022 20:40:10: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.32
+5/3/2022 20:40:10: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.75
+5/3/2022 20:40:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:40:15: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: aPoints = point: 0; games: 3; sets: 1 
+5/3/2022 20:40:15: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: aServing = serving:0
+5/3/2022 20:40:15: [G_Auto 1] :  Store Text Value (Shared) for Pablo Carreno Busta: bPoints = point: 0; games: 2; sets: 1 
+5/3/2022 20:40:15: [G_Auto 1] :  Store Text Value (Shared) for Pablo Carreno Busta: bServing = serving:2
+5/3/2022 20:40:15: [G_Auto 1] :  Store Value (Shared) for market: price = 1.76
+5/3/2022 20:40:15: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 214.87
+5/3/2022 20:40:15: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 208.7
+5/3/2022 20:40:15: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.39
+5/3/2022 20:40:15: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 423.57
+5/3/2022 20:40:15: [G_Auto 1] :  Store Value (Shared) for market: pl = -16.68
+5/3/2022 20:40:15: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.32
+5/3/2022 20:40:15: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.75
+5/3/2022 20:40:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:40:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:41:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:41:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:41:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:41:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:42:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:42:04: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 20:42:20: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 20:42:35: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 20:42:51: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 20:48:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:48:30: [G_Auto 2] :  Placed closure bet with greening on Pablo Carreno Busta by Backing 3.52 at 5.2
+5/3/2022 20:48:30: [G_Auto 2] :  € 32.00 Lay bet placed on Botic Van de Zandschulp at 1.25. Fully matched at 1.24.  Ref: 10585          ( Fill or kill bet with 15 seconds delay.   )
+5/3/2022 20:48:30: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: aPoints = point: 0; games: 4; sets: 1 
+5/3/2022 20:48:30: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: aServing = serving:1
+5/3/2022 20:48:30: [G_Auto 1] :  Store Text Value (Shared) for Pablo Carreno Busta: bPoints = point: 0; games: 2; sets: 1 
+5/3/2022 20:48:30: [G_Auto 1] :  Store Text Value (Shared) for Pablo Carreno Busta: bServing = serving:0
+5/3/2022 20:48:30: [G_Auto 1] :  Store Value (Shared) for market: price = 5.2
+5/3/2022 20:48:30: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 218.39
+5/3/2022 20:48:30: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 240.7
+5/3/2022 20:48:30: [G_Auto 1] :  Store Value (Shared) for market: stake = 3.52
+5/3/2022 20:48:30: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 459.09
+5/3/2022 20:48:30: [G_Auto 1] :  Store Value (Shared) for market: pl = -9.95
+5/3/2022 20:48:30: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.24
+5/3/2022 20:48:30: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 5.2
+5/3/2022 20:48:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:48:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:49:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:49:15: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 20:49:31: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 20:49:47: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 20:50:02: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 20:54:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:54:55: [G_Auto 2] :  Placed closure bet with greening on Botic Van de Zandschulp by Backing 34.81 at 1.14
+5/3/2022 20:54:55: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: aPoints = point: 0; games: 5; sets: 1 
+5/3/2022 20:54:55: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: aServing = serving:0
+5/3/2022 20:54:55: [G_Auto 1] :  Store Text Value (Shared) for Pablo Carreno Busta: bPoints = point: 0; games: 2; sets: 1 
+5/3/2022 20:54:55: [G_Auto 1] :  Store Text Value (Shared) for Pablo Carreno Busta: bServing = serving:2
+5/3/2022 20:54:55: [G_Auto 1] :  Store Value (Shared) for market: price = 1.14
+5/3/2022 20:54:55: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 253.2
+5/3/2022 20:54:55: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 240.7
+5/3/2022 20:54:55: [G_Auto 1] :  Store Value (Shared) for market: stake = 34.81
+5/3/2022 20:54:55: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 493.9
+5/3/2022 20:54:55: [G_Auto 1] :  Store Value (Shared) for market: pl = -12.5
+5/3/2022 20:54:55: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.16
+5/3/2022 20:54:55: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 7.2
+5/3/2022 20:54:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:55:00: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: aPoints = point: 0; games: 5; sets: 1 
+5/3/2022 20:55:00: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: aServing = serving:0
+5/3/2022 20:55:00: [G_Auto 1] :  Store Text Value (Shared) for Pablo Carreno Busta: bPoints = point: 0; games: 2; sets: 1 
+5/3/2022 20:55:00: [G_Auto 1] :  Store Text Value (Shared) for Pablo Carreno Busta: bServing = serving:2
+5/3/2022 20:55:00: [G_Auto 1] :  Store Value (Shared) for market: price = 1.14
+5/3/2022 20:55:00: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 253.2
+5/3/2022 20:55:00: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 240.7
+5/3/2022 20:55:00: [G_Auto 1] :  Store Value (Shared) for market: stake = 34.81
+5/3/2022 20:55:00: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 493.9
+5/3/2022 20:55:00: [G_Auto 1] :  Store Value (Shared) for market: pl = -12.5
+5/3/2022 20:55:00: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.16
+5/3/2022 20:55:00: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 7.2
+5/3/2022 20:55:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:55:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:55:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:56:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:56:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:56:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:56:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:57:03: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 20:57:19: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 20:57:34: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 20:59:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:59:13: [G_Auto 2] :  € 44.44 Lay bet placed on Botic Van de Zandschulp at 1.18. Fully matched at 1.17.  Ref: 10593          ( Fill or kill bet with 15 seconds delay.   )
+5/3/2022 20:59:13: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: aPoints = point: 0; games: 5; sets: 1 
+5/3/2022 20:59:13: [G_Auto 1] :  Store Text Value (Shared) for Botic Van de Zandschulp: aServing = serving:1
+5/3/2022 20:59:13: [G_Auto 1] :  Store Text Value (Shared) for Pablo Carreno Busta: bPoints = point: 0; games: 3; sets: 1 
+5/3/2022 20:59:13: [G_Auto 1] :  Store Text Value (Shared) for Pablo Carreno Busta: bServing = serving:0
+5/3/2022 20:59:13: [G_Auto 1] :  Store Value (Shared) for market: price = 1.17
+5/3/2022 20:59:13: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 253.2
+5/3/2022 20:59:13: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 285.14
+5/3/2022 20:59:13: [G_Auto 1] :  Store Value (Shared) for market: stake = 44.44
+5/3/2022 20:59:13: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 538.34
+5/3/2022 20:59:13: [G_Auto 1] :  Store Value (Shared) for market: pl = -12.88
+5/3/2022 20:59:13: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.16
+5/3/2022 20:59:13: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 7
+5/3/2022 20:59:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:59:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 20:59:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 21:00:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 21:00:10: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 21:00:25: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 21:00:40: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 21:05:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 21:05:12:  Guardian has detected that the market is suspended
