@@ -1,0 +1,350 @@
+5/8/2022 09:39:03: [G_Auto 2] :  Store Text Value (Shared) for Carlos Alcaraz: info = marketName: Carlos Alcaraz v A Zverev - Match Odds; runnerA: Carlos Alcaraz; runnerB: Alexander Zverev 
+5/8/2022 09:39:03: [G_Auto 2] :  Store Value (Shared) for market: aId = 25215583
+5/8/2022 09:39:03: [G_Auto 2] :  Store Value (Shared) for market: bId = 19924823
+5/8/2022 17:40:53:  Guardian has detected that the market is in-play
+5/8/2022 17:40:53:  Guardian has detected that the market is suspended
+5/8/2022 17:40:54: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.64; bBsp: 2.56; volume: 436074.42 
+5/8/2022 17:40:54: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.64; bBsp: 2.56; volume: 436074.42 
+5/8/2022 17:40:54:  Guardian has detected that the market is now unsuspended
+5/8/2022 17:40:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 17:41:08: [G_Auto 1] :  € 12.70 Lay bet placed on Carlos Alcaraz at 1.63. Entirely unmatched when it initially reached the market.   Ref: 10070          ( Fill or kill bet with 15 seconds delay.   )
+5/8/2022 17:41:09: [G_Auto 2] :  Store Text Value (Shared) for Carlos Alcaraz: aPoints = point: 0; games: 0; sets: 0 
+5/8/2022 17:41:09: [G_Auto 2] :  Store Text Value (Shared) for Carlos Alcaraz: aServing = serving:1
+5/8/2022 17:41:09: [G_Auto 2] :  Store Text Value (Shared) for Alexander Zverev: bPoints = point: 0; games: 0; sets: 0 
+5/8/2022 17:41:09: [G_Auto 2] :  Store Text Value (Shared) for Alexander Zverev: bServing = serving:0
+5/8/2022 17:41:09: [G_Auto 2] :  Store Value (Shared) for market: price = 1.63
+5/8/2022 17:41:09: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+5/8/2022 17:41:09: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 12.7
+5/8/2022 17:41:09: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.7
+5/8/2022 17:41:09: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 12.7
+5/8/2022 17:41:09: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.49
+5/8/2022 17:41:09: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.66
+5/8/2022 17:41:09: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.5
+5/8/2022 17:41:09: [G_Auto 1] :  € 12.7 of unmatched bet (Ref:10070) was filled before remainder was killed.
+5/8/2022 17:41:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 17:41:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/8/2022 17:41:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/8/2022 17:44:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 17:44:44: [G_Auto 1] :  Placed closure bet with greening on Carlos Alcaraz by Backing 12.94 at 1.6
+5/8/2022 17:44:45: [G_Auto 2] :  Store Text Value (Shared) for Carlos Alcaraz: aPoints = point: 0; games: 1; sets: 0 
+5/8/2022 17:44:45: [G_Auto 2] :  Store Text Value (Shared) for Carlos Alcaraz: aServing = serving:0
+5/8/2022 17:44:45: [G_Auto 2] :  Store Text Value (Shared) for Alexander Zverev: bPoints = point: 0; games: 0; sets: 0 
+5/8/2022 17:44:45: [G_Auto 2] :  Store Text Value (Shared) for Alexander Zverev: bServing = serving:2
+5/8/2022 17:44:45: [G_Auto 2] :  Store Value (Shared) for market: price = 1.61
+5/8/2022 17:44:45: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 12.94
+5/8/2022 17:44:45: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 12.7
+5/8/2022 17:44:45: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.94
+5/8/2022 17:44:45: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 25.64
+5/8/2022 17:44:45: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.16
+5/8/2022 17:44:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.61
+5/8/2022 17:44:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.62
+5/8/2022 17:44:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 17:45:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 17:45:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 17:45:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/8/2022 17:45:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/8/2022 17:45:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/8/2022 17:47:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 17:48:01: [G_Auto 1] :  € 10.96 Lay bet placed on Carlos Alcaraz at 1.73. Fully matched at 1.72.  Ref: 10072          ( Fill or kill bet with 15 seconds delay.   )
+5/8/2022 17:48:01: [G_Auto 2] :  Store Text Value (Shared) for Carlos Alcaraz: aPoints = point: 0; games: 1; sets: 0 
+5/8/2022 17:48:01: [G_Auto 2] :  Store Text Value (Shared) for Carlos Alcaraz: aServing = serving:1
+5/8/2022 17:48:01: [G_Auto 2] :  Store Text Value (Shared) for Alexander Zverev: bPoints = point: 0; games: 1; sets: 0 
+5/8/2022 17:48:01: [G_Auto 2] :  Store Text Value (Shared) for Alexander Zverev: bServing = serving:0
+5/8/2022 17:48:01: [G_Auto 2] :  Store Value (Shared) for market: price = 1.72
+5/8/2022 17:48:01: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 12.94
+5/8/2022 17:48:01: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 23.66
+5/8/2022 17:48:01: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.96
+5/8/2022 17:48:01: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 36.6
+5/8/2022 17:48:01: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.23
+5/8/2022 17:48:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.71
+5/8/2022 17:48:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.42
+5/8/2022 17:48:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 17:48:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 17:48:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/8/2022 17:48:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/8/2022 17:49:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/8/2022 17:49:16: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/8/2022 17:50:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 17:50:56: [G_Auto 1] :  Placed closure bet with greening on Carlos Alcaraz by Backing 11.55 at 1.62
+5/8/2022 17:50:57: [G_Auto 2] :  Store Text Value (Shared) for Carlos Alcaraz: aPoints = point: 0; games: 2; sets: 0 
+5/8/2022 17:50:57: [G_Auto 2] :  Store Text Value (Shared) for Carlos Alcaraz: aServing = serving:0
+5/8/2022 17:50:57: [G_Auto 2] :  Store Text Value (Shared) for Alexander Zverev: bPoints = point: 0; games: 1; sets: 0 
+5/8/2022 17:50:57: [G_Auto 2] :  Store Text Value (Shared) for Alexander Zverev: bServing = serving:2
+5/8/2022 17:50:57: [G_Auto 2] :  Store Value (Shared) for market: price = 1.62
+5/8/2022 17:50:57: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 24.49
+5/8/2022 17:50:57: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 23.66
+5/8/2022 17:50:57: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.55
+5/8/2022 17:50:57: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 48.15
+5/8/2022 17:50:57: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.84
+5/8/2022 17:50:57: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.62
+5/8/2022 17:50:57: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.64
+5/8/2022 17:50:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 17:51:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 17:51:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 17:51:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 17:51:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 17:52:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 17:52:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 17:52:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 17:52:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/8/2022 17:53:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/8/2022 17:56:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 17:56:16: [G_Auto 1] :  € 11.27 Lay bet placed on Carlos Alcaraz at 1.71. Fully matched at 1.7.  Ref: 10074          ( Fill or kill bet with 15 seconds delay.   )
+5/8/2022 17:56:16: [G_Auto 2] :  Store Text Value (Shared) for Carlos Alcaraz: aPoints = point: 0; games: 2; sets: 0 
+5/8/2022 17:56:16: [G_Auto 2] :  Store Text Value (Shared) for Carlos Alcaraz: aServing = serving:1
+5/8/2022 17:56:16: [G_Auto 2] :  Store Text Value (Shared) for Alexander Zverev: bPoints = point: 0; games: 2; sets: 0 
+5/8/2022 17:56:16: [G_Auto 2] :  Store Text Value (Shared) for Alexander Zverev: bServing = serving:0
+5/8/2022 17:56:16: [G_Auto 2] :  Store Value (Shared) for market: price = 1.7
+5/8/2022 17:56:16: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 24.49
+5/8/2022 17:56:16: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 34.93
+5/8/2022 17:56:16: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.27
+5/8/2022 17:56:16: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 59.42
+5/8/2022 17:56:16: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.9
+5/8/2022 17:56:16: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.69
+5/8/2022 17:56:16: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.44
+5/8/2022 17:56:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 17:56:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 17:56:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 17:57:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/8/2022 17:57:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/8/2022 17:58:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 17:58:45: [G_Auto 1] :  Placed closure bet with greening on Carlos Alcaraz by Backing 11.90 at 1.61
+5/8/2022 17:58:45: [G_Auto 2] :  Store Text Value (Shared) for Carlos Alcaraz: aPoints = point: 0; games: 3; sets: 0 
+5/8/2022 17:58:45: [G_Auto 2] :  Store Text Value (Shared) for Carlos Alcaraz: aServing = serving:0
+5/8/2022 17:58:45: [G_Auto 2] :  Store Text Value (Shared) for Alexander Zverev: bPoints = point: 0; games: 2; sets: 0 
+5/8/2022 17:58:45: [G_Auto 2] :  Store Text Value (Shared) for Alexander Zverev: bServing = serving:2
+5/8/2022 17:58:45: [G_Auto 2] :  Store Value (Shared) for market: price = 1.61
+5/8/2022 17:58:45: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 36.39
+5/8/2022 17:58:45: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 34.93
+5/8/2022 17:58:45: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.9
+5/8/2022 17:58:45: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 71.32
+5/8/2022 17:58:45: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.47
+5/8/2022 17:58:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.62
+5/8/2022 17:58:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.64
+5/8/2022 17:58:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 17:58:50: [G_Auto 2] :  Store Text Value (Shared) for Carlos Alcaraz: aPoints = point: 0; games: 3; sets: 0 
+5/8/2022 17:58:50: [G_Auto 2] :  Store Text Value (Shared) for Carlos Alcaraz: aServing = serving:0
+5/8/2022 17:58:50: [G_Auto 2] :  Store Text Value (Shared) for Alexander Zverev: bPoints = point: 0; games: 2; sets: 0 
+5/8/2022 17:58:50: [G_Auto 2] :  Store Text Value (Shared) for Alexander Zverev: bServing = serving:2
+5/8/2022 17:58:50: [G_Auto 2] :  Store Value (Shared) for market: price = 1.61
+5/8/2022 17:58:50: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 36.39
+5/8/2022 17:58:50: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 34.93
+5/8/2022 17:58:50: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.9
+5/8/2022 17:58:50: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 71.32
+5/8/2022 17:58:50: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.47
+5/8/2022 17:58:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.62
+5/8/2022 17:58:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.6
+5/8/2022 17:59:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 17:59:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 17:59:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 17:59:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 18:00:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 18:00:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 18:00:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 18:00:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 18:00:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/8/2022 18:01:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/8/2022 18:01:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/8/2022 18:01:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/8/2022 18:03:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 18:03:29: [G_Auto 1] :  € 24.24 Lay bet placed on Carlos Alcaraz at 1.33. Fully matched at 1.32.  Ref: 10076          ( Fill or kill bet with 15 seconds delay.   )
+5/8/2022 18:03:29: [G_Auto 2] :  Store Text Value (Shared) for Carlos Alcaraz: aPoints = point: 0; games: 4; sets: 0 
+5/8/2022 18:03:29: [G_Auto 2] :  Store Text Value (Shared) for Carlos Alcaraz: aServing = serving:1
+5/8/2022 18:03:29: [G_Auto 2] :  Store Text Value (Shared) for Alexander Zverev: bPoints = point: 0; games: 2; sets: 0 
+5/8/2022 18:03:29: [G_Auto 2] :  Store Text Value (Shared) for Alexander Zverev: bServing = serving:0
+5/8/2022 18:03:29: [G_Auto 2] :  Store Value (Shared) for market: price = 1.32
+5/8/2022 18:03:29: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 36.39
+5/8/2022 18:03:29: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 59.17
+5/8/2022 18:03:29: [G_Auto 2] :  Store Value (Shared) for market: stake = 24.24
+5/8/2022 18:03:29: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 95.56
+5/8/2022 18:03:29: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.65
+5/8/2022 18:03:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.32
+5/8/2022 18:03:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.2
+5/8/2022 18:03:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 18:03:34: [G_Auto 2] :  Store Text Value (Shared) for Carlos Alcaraz: aPoints = point: 0; games: 4; sets: 0 
+5/8/2022 18:03:34: [G_Auto 2] :  Store Text Value (Shared) for Carlos Alcaraz: aServing = serving:1
+5/8/2022 18:03:34: [G_Auto 2] :  Store Text Value (Shared) for Alexander Zverev: bPoints = point: 0; games: 2; sets: 0 
+5/8/2022 18:03:34: [G_Auto 2] :  Store Text Value (Shared) for Alexander Zverev: bServing = serving:0
+5/8/2022 18:03:34: [G_Auto 2] :  Store Value (Shared) for market: price = 1.32
+5/8/2022 18:03:34: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 36.39
+5/8/2022 18:03:34: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 59.17
+5/8/2022 18:03:34: [G_Auto 2] :  Store Value (Shared) for market: stake = 24.24
+5/8/2022 18:03:34: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 95.56
+5/8/2022 18:03:34: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.65
+5/8/2022 18:03:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.32
+5/8/2022 18:03:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.2
+5/8/2022 18:03:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 18:04:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 18:04:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/8/2022 18:04:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/8/2022 18:04:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/8/2022 18:06:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 18:06:42: [G_Auto 1] :  Placed closure bet with greening on Carlos Alcaraz by Backing 25.40 at 1.26
+5/8/2022 18:06:42: [G_Auto 2] :  Store Text Value (Shared) for Carlos Alcaraz: aPoints = point: 0; games: 5; sets: 0 
+5/8/2022 18:06:42: [G_Auto 2] :  Store Text Value (Shared) for Carlos Alcaraz: aServing = serving:0
+5/8/2022 18:06:42: [G_Auto 2] :  Store Text Value (Shared) for Alexander Zverev: bPoints = point: 0; games: 2; sets: 0 
+5/8/2022 18:06:42: [G_Auto 2] :  Store Text Value (Shared) for Alexander Zverev: bServing = serving:2
+5/8/2022 18:06:42: [G_Auto 2] :  Store Value (Shared) for market: price = 1.26
+5/8/2022 18:06:42: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 61.79
+5/8/2022 18:06:42: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 59.17
+5/8/2022 18:06:42: [G_Auto 2] :  Store Value (Shared) for market: stake = 25.4
+5/8/2022 18:06:42: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 120.96
+5/8/2022 18:06:42: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.62
+5/8/2022 18:06:42: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.26
+5/8/2022 18:06:42: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.8
+5/8/2022 18:06:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 18:06:47: [G_Auto 2] :  Store Text Value (Shared) for Carlos Alcaraz: aPoints = point: 0; games: 5; sets: 0 
+5/8/2022 18:06:47: [G_Auto 2] :  Store Text Value (Shared) for Carlos Alcaraz: aServing = serving:0
+5/8/2022 18:06:47: [G_Auto 2] :  Store Text Value (Shared) for Alexander Zverev: bPoints = point: 0; games: 2; sets: 0 
+5/8/2022 18:06:47: [G_Auto 2] :  Store Text Value (Shared) for Alexander Zverev: bServing = serving:2
+5/8/2022 18:06:47: [G_Auto 2] :  Store Value (Shared) for market: price = 1.26
+5/8/2022 18:06:47: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 61.79
+5/8/2022 18:06:47: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 59.17
+5/8/2022 18:06:47: [G_Auto 2] :  Store Value (Shared) for market: stake = 25.4
+5/8/2022 18:06:47: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 120.96
+5/8/2022 18:06:47: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.62
+5/8/2022 18:06:47: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.26
+5/8/2022 18:06:47: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.9
+5/8/2022 18:07:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 18:07:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 18:07:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 18:07:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 18:08:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 18:08:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 18:08:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 18:08:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/8/2022 18:08:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/8/2022 18:09:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 18:09:39: [G_Auto 1] :  € 26.67 Lay bet placed on Carlos Alcaraz at 1.3. Fully matched at 1.3.  Ref: 10078          ( Fill or kill bet with 15 seconds delay.   )
+5/8/2022 18:09:40: [G_Auto 2] :  Store Text Value (Shared) for Carlos Alcaraz: aPoints = point: 0; games: 5; sets: 0 
+5/8/2022 18:09:40: [G_Auto 2] :  Store Text Value (Shared) for Carlos Alcaraz: aServing = serving:1
+5/8/2022 18:09:40: [G_Auto 2] :  Store Text Value (Shared) for Alexander Zverev: bPoints = point: 0; games: 3; sets: 0 
+5/8/2022 18:09:40: [G_Auto 2] :  Store Text Value (Shared) for Alexander Zverev: bServing = serving:0
+5/8/2022 18:09:40: [G_Auto 2] :  Store Value (Shared) for market: price = 1.3
+5/8/2022 18:09:40: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 61.79
+5/8/2022 18:09:40: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 85.84
+5/8/2022 18:09:40: [G_Auto 2] :  Store Value (Shared) for market: stake = 26.67
+5/8/2022 18:09:40: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 147.63
+5/8/2022 18:09:40: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.83
+5/8/2022 18:09:40: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.29
+5/8/2022 18:09:40: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.4
+5/8/2022 18:09:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 18:09:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 18:10:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 18:10:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/8/2022 18:10:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/8/2022 18:10:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/8/2022 18:12:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 18:12:47: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 1.24
+5/8/2022 18:12:47: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 5.2
+5/8/2022 18:12:52: [G_Auto 1] :  Placed closure bet with greening on Carlos Alcaraz by Backing 28.19 at 1.23
+5/8/2022 18:12:52: [G_Auto 2] :  Store Text Value (Shared) for Carlos Alcaraz: aPoints = point: 0; games: 0; sets: 1 
+5/8/2022 18:12:52: [G_Auto 2] :  Store Text Value (Shared) for Carlos Alcaraz: aServing = serving:0
+5/8/2022 18:12:52: [G_Auto 2] :  Store Text Value (Shared) for Alexander Zverev: bPoints = point: 0; games: 0; sets: 0 
+5/8/2022 18:12:52: [G_Auto 2] :  Store Text Value (Shared) for Alexander Zverev: bServing = serving:2
+5/8/2022 18:12:52: [G_Auto 2] :  Store Value (Shared) for market: price = 1.23
+5/8/2022 18:12:52: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 89.98
+5/8/2022 18:12:52: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 85.84
+5/8/2022 18:12:52: [G_Auto 2] :  Store Value (Shared) for market: stake = 28.19
+5/8/2022 18:12:52: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 175.82
+5/8/2022 18:12:52: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.14
+5/8/2022 18:12:52: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.24
+5/8/2022 18:12:52: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.1
+5/8/2022 18:12:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 18:13:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 18:13:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 18:13:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 18:13:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 18:14:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 18:14:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 18:14:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 18:14:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 18:15:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/8/2022 18:15:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/8/2022 18:15:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/8/2022 18:17:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 18:18:08: [G_Auto 1] :  € 26.67 Lay bet placed on Carlos Alcaraz at 1.3. Fully matched at 1.29.  Ref: 10080          ( Fill or kill bet with 15 seconds delay.   )
+5/8/2022 18:18:08: [G_Auto 2] :  Store Text Value (Shared) for Carlos Alcaraz: aPoints = point: 0; games: 0; sets: 1 
+5/8/2022 18:18:08: [G_Auto 2] :  Store Text Value (Shared) for Carlos Alcaraz: aServing = serving:1
+5/8/2022 18:18:08: [G_Auto 2] :  Store Text Value (Shared) for Alexander Zverev: bPoints = point: 0; games: 1; sets: 0 
+5/8/2022 18:18:08: [G_Auto 2] :  Store Text Value (Shared) for Alexander Zverev: bServing = serving:0
+5/8/2022 18:18:08: [G_Auto 2] :  Store Value (Shared) for market: price = 1.29
+5/8/2022 18:18:08: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 89.98
+5/8/2022 18:18:08: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 112.51
+5/8/2022 18:18:08: [G_Auto 2] :  Store Value (Shared) for market: stake = 26.67
+5/8/2022 18:18:08: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 202.49
+5/8/2022 18:18:08: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.35
+5/8/2022 18:18:08: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.28
+5/8/2022 18:18:08: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.6
+5/8/2022 18:18:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 18:18:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 18:18:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 18:18:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/8/2022 18:19:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/8/2022 18:19:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/8/2022 18:19:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/8/2022 18:19:55: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/8/2022 18:20:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/8/2022 18:20:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/8/2022 18:20:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/8/2022 18:22:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 18:22:21: [G_Auto 1] :  Placed closure bet with greening on Carlos Alcaraz by Backing 27.97 at 1.23
+5/8/2022 18:22:21: [G_Auto 2] :  Store Text Value (Shared) for Carlos Alcaraz: aPoints = point: 0; games: 1; sets: 1 
+5/8/2022 18:22:21: [G_Auto 2] :  Store Text Value (Shared) for Carlos Alcaraz: aServing = serving:0
+5/8/2022 18:22:21: [G_Auto 2] :  Store Text Value (Shared) for Alexander Zverev: bPoints = point: 0; games: 1; sets: 0 
+5/8/2022 18:22:21: [G_Auto 2] :  Store Text Value (Shared) for Alexander Zverev: bServing = serving:2
+5/8/2022 18:22:21: [G_Auto 2] :  Store Value (Shared) for market: price = 1.23
+5/8/2022 18:22:21: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 117.95
+5/8/2022 18:22:21: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 112.51
+5/8/2022 18:22:21: [G_Auto 2] :  Store Value (Shared) for market: stake = 27.97
+5/8/2022 18:22:21: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 230.46
+5/8/2022 18:22:21: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.44
+5/8/2022 18:22:21: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.24
+5/8/2022 18:22:21: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.1
+5/8/2022 18:22:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 18:22:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 18:22:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 18:22:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/8/2022 18:23:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/8/2022 18:23:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/8/2022 18:23:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/8/2022 18:25:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 18:25:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 18:25:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 18:26:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 18:26:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 18:26:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 18:26:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 18:27:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 18:27:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 18:27:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 18:27:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 18:28:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/8/2022 18:28:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/8/2022 18:28:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/8/2022 18:28:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/8/2022 18:30:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 18:31:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 18:31:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 18:31:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/8/2022 18:31:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/8/2022 18:34:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 18:35:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 18:35:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 18:35:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 18:35:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 18:36:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 18:36:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 18:36:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 18:36:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/8/2022 18:37:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/8/2022 18:37:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/8/2022 18:38:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 18:38:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 18:38:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 18:39:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 18:39:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/8/2022 18:39:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/8/2022 18:39:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/8/2022 18:43:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/8/2022 18:43:08:  Guardian has detected that the market is suspended

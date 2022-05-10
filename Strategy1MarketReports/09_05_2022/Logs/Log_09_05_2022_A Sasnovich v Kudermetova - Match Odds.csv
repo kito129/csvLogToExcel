@@ -1,0 +1,623 @@
+5/9/2022 09:57:56: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: info = marketName: A Sasnovich v Kudermetova - Match Odds; runnerA: Aliaksandra Sasnovich; runnerB: Veronika Kudermetova 
+5/9/2022 09:57:56: [G_Auto 2] :  Store Value (Shared) for market: aId = 7283310
+5/9/2022 09:57:56: [G_Auto 2] :  Store Value (Shared) for market: bId = 8279497
+5/9/2022 13:07:16:  Guardian has detected that the market is in-play
+5/9/2022 13:07:16:  Guardian has detected that the market is suspended
+5/9/2022 13:07:20: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 2.42; bBsp: 1.7; volume: 63179.91 
+5/9/2022 13:07:20: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 2.42; bBsp: 1.7; volume: 63179.91 
+5/9/2022 13:07:20:  Guardian has detected that the market is now unsuspended
+5/9/2022 13:07:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 13:07:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 13:10:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:11:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:11:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:11:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:12:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:12:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 13:12:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 13:16:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:17:07: [G_Auto 1] :  € 11.11 Lay bet placed on Veronika Kudermetova at 1.72. Fully matched at 1.71.  Ref: 10215          ( Fill or kill bet with 15 seconds delay.   )
+5/9/2022 13:17:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:17:08: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aPoints = point: 0; games: 1; sets: 0 
+5/9/2022 13:17:08: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aServing = serving:0
+5/9/2022 13:17:08: [G_Auto 2] :  Store Text Value (Shared) for Veronika Kudermetova: bPoints = point: 0; games: 1; sets: 0 
+5/9/2022 13:17:08: [G_Auto 2] :  Store Text Value (Shared) for Veronika Kudermetova: bServing = serving:2
+5/9/2022 13:17:08: [G_Auto 2] :  Store Value (Shared) for market: price = 1.71
+5/9/2022 13:17:08: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+5/9/2022 13:17:08: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 11.11
+5/9/2022 13:17:08: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.11
+5/9/2022 13:17:08: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 11.11
+5/9/2022 13:17:08: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.07
+5/9/2022 13:17:08: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.42
+5/9/2022 13:17:08: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.7
+5/9/2022 13:17:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:17:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:17:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 13:17:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 13:19:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:19:46: [G_Auto 1] :  Placed closure bet with greening on Veronika Kudermetova by Backing 12.18 at 1.56
+5/9/2022 13:19:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:19:47: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aPoints = point: 0; games: 1; sets: 0 
+5/9/2022 13:19:47: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aServing = serving:1
+5/9/2022 13:19:47: [G_Auto 2] :  Store Text Value (Shared) for Veronika Kudermetova: bPoints = point: 0; games: 2; sets: 0 
+5/9/2022 13:19:47: [G_Auto 2] :  Store Text Value (Shared) for Veronika Kudermetova: bServing = serving:0
+5/9/2022 13:19:47: [G_Auto 2] :  Store Value (Shared) for market: price = 1.56
+5/9/2022 13:19:47: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 12.18
+5/9/2022 13:19:47: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 11.11
+5/9/2022 13:19:47: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.18
+5/9/2022 13:19:47: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 23.29
+5/9/2022 13:19:47: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.07
+5/9/2022 13:19:47: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.78
+5/9/2022 13:19:47: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.57
+5/9/2022 13:19:55: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aPoints = point: 0; games: 1; sets: 0 
+5/9/2022 13:19:55: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aServing = serving:1
+5/9/2022 13:19:55: [G_Auto 2] :  Store Text Value (Shared) for Veronika Kudermetova: bPoints = point: 0; games: 2; sets: 0 
+5/9/2022 13:19:55: [G_Auto 2] :  Store Text Value (Shared) for Veronika Kudermetova: bServing = serving:0
+5/9/2022 13:19:55: [G_Auto 2] :  Store Value (Shared) for market: price = 1.56
+5/9/2022 13:19:55: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 12.18
+5/9/2022 13:19:55: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 11.11
+5/9/2022 13:19:55: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.18
+5/9/2022 13:19:55: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 23.29
+5/9/2022 13:19:55: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.07
+5/9/2022 13:19:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.76
+5/9/2022 13:19:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.54
+5/9/2022 13:20:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:20:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:20:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:20:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:21:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:21:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:21:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:21:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 13:21:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 13:22:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 13:23:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:23:31: [G_Auto 1] :  € 10.96 Lay bet placed on Veronika Kudermetova at 1.73. Fully matched at 1.73.  Ref: 10221          ( Fill or kill bet with 15 seconds delay.   )
+5/9/2022 13:23:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:23:32: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aPoints = point: 0; games: 2; sets: 0 
+5/9/2022 13:23:32: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aServing = serving:0
+5/9/2022 13:23:32: [G_Auto 2] :  Store Text Value (Shared) for Veronika Kudermetova: bPoints = point: 0; games: 2; sets: 0 
+5/9/2022 13:23:32: [G_Auto 2] :  Store Text Value (Shared) for Veronika Kudermetova: bServing = serving:2
+5/9/2022 13:23:32: [G_Auto 2] :  Store Value (Shared) for market: price = 1.73
+5/9/2022 13:23:32: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 12.18
+5/9/2022 13:23:32: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 22.07
+5/9/2022 13:23:32: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.96
+5/9/2022 13:23:32: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 34.25
+5/9/2022 13:23:32: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.13
+5/9/2022 13:23:32: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.42
+5/9/2022 13:23:32: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.72
+5/9/2022 13:23:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 13:24:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 13:26:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:26:26: [G_Auto 1] :  Placed closure bet with greening on Veronika Kudermetova by Backing 12.08 at 1.57
+5/9/2022 13:26:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:26:27: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aPoints = point: 0; games: 2; sets: 0 
+5/9/2022 13:26:27: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aServing = serving:1
+5/9/2022 13:26:27: [G_Auto 2] :  Store Text Value (Shared) for Veronika Kudermetova: bPoints = point: 0; games: 3; sets: 0 
+5/9/2022 13:26:27: [G_Auto 2] :  Store Text Value (Shared) for Veronika Kudermetova: bServing = serving:0
+5/9/2022 13:26:27: [G_Auto 2] :  Store Value (Shared) for market: price = 1.57
+5/9/2022 13:26:27: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 24.26
+5/9/2022 13:26:27: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 22.07
+5/9/2022 13:26:27: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.08
+5/9/2022 13:26:27: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 46.33
+5/9/2022 13:26:27: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.19
+5/9/2022 13:26:27: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.72
+5/9/2022 13:26:27: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.58
+5/9/2022 13:26:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:26:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:27:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:27:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:27:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:28:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:28:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:28:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:28:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 13:28:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 13:29:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 13:30:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:31:06: [G_Auto 1] :  € 10.39 Lay bet placed on Veronika Kudermetova at 1.77. Fully matched at 1.77.  Ref: 10227          ( Fill or kill bet with 15 seconds delay.   )
+5/9/2022 13:31:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:31:07: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aPoints = point: 0; games: 3; sets: 0 
+5/9/2022 13:31:07: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aServing = serving:0
+5/9/2022 13:31:07: [G_Auto 2] :  Store Text Value (Shared) for Veronika Kudermetova: bPoints = point: 0; games: 3; sets: 0 
+5/9/2022 13:31:07: [G_Auto 2] :  Store Text Value (Shared) for Veronika Kudermetova: bServing = serving:2
+5/9/2022 13:31:07: [G_Auto 2] :  Store Value (Shared) for market: price = 1.77
+5/9/2022 13:31:07: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 24.26
+5/9/2022 13:31:07: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 32.46
+5/9/2022 13:31:07: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.39
+5/9/2022 13:31:07: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 56.72
+5/9/2022 13:31:07: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.3
+5/9/2022 13:31:07: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.36
+5/9/2022 13:31:07: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.75
+5/9/2022 13:31:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:31:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 13:31:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 13:39:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:39:56: [G_Auto 1] :  Placed closure bet with greening on Veronika Kudermetova by Backing 11.49 at 1.6
+5/9/2022 13:39:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:39:57: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aPoints = point: 0; games: 3; sets: 0 
+5/9/2022 13:39:57: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aServing = serving:1
+5/9/2022 13:39:57: [G_Auto 2] :  Store Text Value (Shared) for Veronika Kudermetova: bPoints = point: 0; games: 4; sets: 0 
+5/9/2022 13:39:57: [G_Auto 2] :  Store Text Value (Shared) for Veronika Kudermetova: bServing = serving:0
+5/9/2022 13:39:57: [G_Auto 2] :  Store Value (Shared) for market: price = 1.6
+5/9/2022 13:39:57: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 35.75
+5/9/2022 13:39:57: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 32.46
+5/9/2022 13:39:57: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.49
+5/9/2022 13:39:57: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 68.21
+5/9/2022 13:39:57: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.29
+5/9/2022 13:39:57: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.6
+5/9/2022 13:39:57: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.62
+5/9/2022 13:40:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:40:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:40:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:41:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:41:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:41:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:41:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:41:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 13:42:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 13:42:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 13:44:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:44:27: [G_Auto 1] :  € 24.24 Lay bet placed on Veronika Kudermetova at 1.33. Fully matched at 1.32.  Ref: 10237          ( Fill or kill bet with 15 seconds delay.   )
+5/9/2022 13:44:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:44:28: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aPoints = point: 0; games: 3; sets: 0 
+5/9/2022 13:44:28: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aServing = serving:0
+5/9/2022 13:44:28: [G_Auto 2] :  Store Text Value (Shared) for Veronika Kudermetova: bPoints = point: 0; games: 5; sets: 0 
+5/9/2022 13:44:28: [G_Auto 2] :  Store Text Value (Shared) for Veronika Kudermetova: bServing = serving:2
+5/9/2022 13:44:28: [G_Auto 2] :  Store Value (Shared) for market: price = 1.32
+5/9/2022 13:44:28: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 35.75
+5/9/2022 13:44:28: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 56.7
+5/9/2022 13:44:28: [G_Auto 2] :  Store Value (Shared) for market: stake = 24.24
+5/9/2022 13:44:28: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 92.45
+5/9/2022 13:44:28: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.47
+5/9/2022 13:44:28: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.1
+5/9/2022 13:44:28: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.32
+5/9/2022 13:44:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 13:44:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 13:47:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:47:32: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 5.4
+5/9/2022 13:47:32: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 1.24
+5/9/2022 13:47:39: [G_Auto 1] :  Placed closure bet with greening on Veronika Kudermetova by Backing 26.01 at 1.23
+5/9/2022 13:47:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:47:39: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aPoints = point: 0; games: 0; sets: 0 
+5/9/2022 13:47:39: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aServing = serving:1
+5/9/2022 13:47:39: [G_Auto 2] :  Store Text Value (Shared) for Veronika Kudermetova: bPoints = point: 0; games: 0; sets: 1 
+5/9/2022 13:47:39: [G_Auto 2] :  Store Text Value (Shared) for Veronika Kudermetova: bServing = serving:0
+5/9/2022 13:47:39: [G_Auto 2] :  Store Value (Shared) for market: price = 1.23
+5/9/2022 13:47:39: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 61.76
+5/9/2022 13:47:39: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 56.7
+5/9/2022 13:47:39: [G_Auto 2] :  Store Value (Shared) for market: stake = 26.01
+5/9/2022 13:47:39: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 118.46
+5/9/2022 13:47:39: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.06
+5/9/2022 13:47:39: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 5.4
+5/9/2022 13:47:39: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.24
+5/9/2022 13:47:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:48:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:48:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:48:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:48:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:49:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:49:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:49:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:49:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:50:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:50:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:50:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:51:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:51:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:51:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:51:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 13:52:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 13:52:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 13:53:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:54:04: [G_Auto 1] :  € 23.53 Lay bet placed on Veronika Kudermetova at 1.34. Fully matched at 1.33.  Ref: 10244          ( Fill or kill bet with 15 seconds delay.   )
+5/9/2022 13:54:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:54:05: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aPoints = point: 0; games: 1; sets: 0 
+5/9/2022 13:54:05: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aServing = serving:0
+5/9/2022 13:54:05: [G_Auto 2] :  Store Text Value (Shared) for Veronika Kudermetova: bPoints = point: 0; games: 0; sets: 1 
+5/9/2022 13:54:05: [G_Auto 2] :  Store Text Value (Shared) for Veronika Kudermetova: bServing = serving:2
+5/9/2022 13:54:05: [G_Auto 2] :  Store Value (Shared) for market: price = 1.33
+5/9/2022 13:54:05: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 61.76
+5/9/2022 13:54:05: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 80.23
+5/9/2022 13:54:05: [G_Auto 2] :  Store Value (Shared) for market: stake = 23.53
+5/9/2022 13:54:05: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 141.99
+5/9/2022 13:54:05: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.24
+5/9/2022 13:54:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.1
+5/9/2022 13:54:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.32
+5/9/2022 13:54:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:54:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:54:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:55:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:55:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 13:55:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 13:55:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 13:57:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:57:18: [G_Auto 1] :  Placed closure bet with greening on Veronika Kudermetova by Backing 25.24 at 1.24
+5/9/2022 13:57:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:57:19: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aPoints = point: 0; games: 1; sets: 0 
+5/9/2022 13:57:19: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aServing = serving:1
+5/9/2022 13:57:19: [G_Auto 2] :  Store Text Value (Shared) for Veronika Kudermetova: bPoints = point: 0; games: 1; sets: 1 
+5/9/2022 13:57:19: [G_Auto 2] :  Store Text Value (Shared) for Veronika Kudermetova: bServing = serving:0
+5/9/2022 13:57:19: [G_Auto 2] :  Store Value (Shared) for market: price = 1.24
+5/9/2022 13:57:19: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 87
+5/9/2022 13:57:19: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 80.23
+5/9/2022 13:57:19: [G_Auto 2] :  Store Value (Shared) for market: stake = 25.24
+5/9/2022 13:57:19: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 167.23
+5/9/2022 13:57:19: [G_Auto 2] :  Store Value (Shared) for market: pl = -6.77
+5/9/2022 13:57:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 5
+5/9/2022 13:57:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.24
+5/9/2022 13:57:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:57:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:57:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 13:58:16: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 14:00:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:00:43: [G_Auto 1] :  € 22.86 Lay bet placed on Veronika Kudermetova at 1.35. Fully matched at 1.34.  Ref: 10251          ( Fill or kill bet with 15 seconds delay.   )
+5/9/2022 14:00:43: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aPoints = point: 0; games: 2; sets: 0 
+5/9/2022 14:00:43: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aServing = serving:0
+5/9/2022 14:00:43: [G_Auto 2] :  Store Text Value (Shared) for Veronika Kudermetova: bPoints = point: 0; games: 1; sets: 1 
+5/9/2022 14:00:43: [G_Auto 2] :  Store Text Value (Shared) for Veronika Kudermetova: bServing = serving:2
+5/9/2022 14:00:43: [G_Auto 2] :  Store Value (Shared) for market: price = 1.34
+5/9/2022 14:00:43: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 87
+5/9/2022 14:00:43: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 103.09
+5/9/2022 14:00:43: [G_Auto 2] :  Store Value (Shared) for market: stake = 22.86
+5/9/2022 14:00:43: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 190.09
+5/9/2022 14:00:43: [G_Auto 2] :  Store Value (Shared) for market: pl = -6.94
+5/9/2022 14:00:43: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.1
+5/9/2022 14:00:43: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.33
+5/9/2022 14:00:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:01:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:01:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:01:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:02:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:02:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:02:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:02:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:03:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 14:03:16: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 14:03:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 14:05:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:05:54: [G_Auto 1] :  Placed closure bet with greening on Veronika Kudermetova by Backing 24.51 at 1.25
+5/9/2022 14:05:55: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aPoints = point: 0; games: 2; sets: 0 
+5/9/2022 14:05:55: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aServing = serving:1
+5/9/2022 14:05:55: [G_Auto 2] :  Store Text Value (Shared) for Veronika Kudermetova: bPoints = point: 0; games: 2; sets: 1 
+5/9/2022 14:05:55: [G_Auto 2] :  Store Text Value (Shared) for Veronika Kudermetova: bServing = serving:0
+5/9/2022 14:05:55: [G_Auto 2] :  Store Value (Shared) for market: price = 1.25
+5/9/2022 14:05:55: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 111.51
+5/9/2022 14:05:55: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 103.09
+5/9/2022 14:05:55: [G_Auto 2] :  Store Value (Shared) for market: stake = 24.51
+5/9/2022 14:05:55: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 214.6
+5/9/2022 14:05:55: [G_Auto 2] :  Store Value (Shared) for market: pl = -8.42
+5/9/2022 14:05:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 5
+5/9/2022 14:05:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.27
+5/9/2022 14:05:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:06:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:06:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 14:06:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 14:09:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:09:21: [G_Auto 1] :  € 21.05 Lay bet placed on Veronika Kudermetova at 1.38. Fully matched at 1.37.  Ref: 10257          ( Fill or kill bet with 15 seconds delay.   )
+5/9/2022 14:09:22: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aPoints = point: 0; games: 3; sets: 0 
+5/9/2022 14:09:22: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aServing = serving:0
+5/9/2022 14:09:22: [G_Auto 2] :  Store Text Value (Shared) for Veronika Kudermetova: bPoints = point: 0; games: 2; sets: 1 
+5/9/2022 14:09:22: [G_Auto 2] :  Store Text Value (Shared) for Veronika Kudermetova: bServing = serving:2
+5/9/2022 14:09:22: [G_Auto 2] :  Store Value (Shared) for market: price = 1.37
+5/9/2022 14:09:22: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 111.51
+5/9/2022 14:09:22: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 124.14
+5/9/2022 14:09:22: [G_Auto 2] :  Store Value (Shared) for market: stake = 21.05
+5/9/2022 14:09:22: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 235.65
+5/9/2022 14:09:22: [G_Auto 2] :  Store Value (Shared) for market: pl = -8.57
+5/9/2022 14:09:22: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.8
+5/9/2022 14:09:22: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.36
+5/9/2022 14:09:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:09:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:10:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:10:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:10:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:10:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:11:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:11:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 14:11:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 14:16:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:17:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:17:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:18:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:18:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 14:18:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 14:20:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:20:53: [G_Auto 1] :  € 17.39 Lay bet placed on Veronika Kudermetova at 1.46. Fully matched at 1.45.  Ref: 10262          ( Fill or kill bet with 15 seconds delay.   )
+5/9/2022 14:20:53: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aPoints = point: 0; games: 4; sets: 0 
+5/9/2022 14:20:53: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aServing = serving:0
+5/9/2022 14:20:53: [G_Auto 2] :  Store Text Value (Shared) for Veronika Kudermetova: bPoints = point: 0; games: 3; sets: 1 
+5/9/2022 14:20:53: [G_Auto 2] :  Store Text Value (Shared) for Veronika Kudermetova: bServing = serving:2
+5/9/2022 14:20:53: [G_Auto 2] :  Store Value (Shared) for market: price = 1.45
+5/9/2022 14:20:53: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 111.51
+5/9/2022 14:20:53: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 141.53
+5/9/2022 14:20:53: [G_Auto 2] :  Store Value (Shared) for market: stake = 17.39
+5/9/2022 14:20:53: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 253.04
+5/9/2022 14:20:53: [G_Auto 2] :  Store Value (Shared) for market: pl = -7.51
+5/9/2022 14:20:53: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.3
+5/9/2022 14:20:53: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.44
+5/9/2022 14:20:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:21:00: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aPoints = point: 0; games: 4; sets: 0 
+5/9/2022 14:21:00: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aServing = serving:0
+5/9/2022 14:21:00: [G_Auto 2] :  Store Text Value (Shared) for Veronika Kudermetova: bPoints = point: 0; games: 3; sets: 1 
+5/9/2022 14:21:00: [G_Auto 2] :  Store Text Value (Shared) for Veronika Kudermetova: bServing = serving:2
+5/9/2022 14:21:00: [G_Auto 2] :  Store Value (Shared) for market: price = 1.45
+5/9/2022 14:21:00: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 111.51
+5/9/2022 14:21:00: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 141.53
+5/9/2022 14:21:00: [G_Auto 2] :  Store Value (Shared) for market: stake = 17.39
+5/9/2022 14:21:00: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 253.04
+5/9/2022 14:21:00: [G_Auto 2] :  Store Value (Shared) for market: pl = -7.51
+5/9/2022 14:21:00: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.3
+5/9/2022 14:21:00: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.44
+5/9/2022 14:21:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:21:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:21:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:22:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:22:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:22:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:23:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 14:23:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 14:25:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:25:13: [G_Auto 1] :  Placed closure bet with greening on Veronika Kudermetova by Backing 41.58 at 1.3
+5/9/2022 14:25:14: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aPoints = point: 0; games: 4; sets: 0 
+5/9/2022 14:25:14: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aServing = serving:1
+5/9/2022 14:25:14: [G_Auto 2] :  Store Text Value (Shared) for Veronika Kudermetova: bPoints = point: 0; games: 4; sets: 1 
+5/9/2022 14:25:14: [G_Auto 2] :  Store Text Value (Shared) for Veronika Kudermetova: bServing = serving:0
+5/9/2022 14:25:14: [G_Auto 2] :  Store Value (Shared) for market: price = 1.3
+5/9/2022 14:25:14: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 153.09
+5/9/2022 14:25:14: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 141.53
+5/9/2022 14:25:14: [G_Auto 2] :  Store Value (Shared) for market: stake = 41.58
+5/9/2022 14:25:14: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 294.62
+5/9/2022 14:25:14: [G_Auto 2] :  Store Value (Shared) for market: pl = -11.56
+5/9/2022 14:25:14: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.2
+5/9/2022 14:25:14: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.31
+5/9/2022 14:25:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:25:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:25:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 14:25:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 14:27:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:27:55: [G_Auto 1] :  € 16.33 Lay bet placed on Veronika Kudermetova at 1.49. Fully matched at 1.48.  Ref: 10266          ( Fill or kill bet with 15 seconds delay.   )
+5/9/2022 14:27:55: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aPoints = point: 0; games: 5; sets: 0 
+5/9/2022 14:27:55: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aServing = serving:0
+5/9/2022 14:27:55: [G_Auto 2] :  Store Text Value (Shared) for Veronika Kudermetova: bPoints = point: 0; games: 4; sets: 1 
+5/9/2022 14:27:55: [G_Auto 2] :  Store Text Value (Shared) for Veronika Kudermetova: bServing = serving:2
+5/9/2022 14:27:55: [G_Auto 2] :  Store Value (Shared) for market: price = 1.48
+5/9/2022 14:27:55: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 153.09
+5/9/2022 14:27:55: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 157.86
+5/9/2022 14:27:55: [G_Auto 2] :  Store Value (Shared) for market: stake = 16.33
+5/9/2022 14:27:55: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 310.95
+5/9/2022 14:27:55: [G_Auto 2] :  Store Value (Shared) for market: pl = -11.67
+5/9/2022 14:27:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.05
+5/9/2022 14:27:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.47
+5/9/2022 14:27:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:28:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:28:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:28:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:29:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:29:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:29:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:29:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 14:30:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 14:32:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:32:45: [G_Auto 1] :  Placed closure bet with greening on Veronika Kudermetova by Backing 18.31 at 1.32
+5/9/2022 14:32:45: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aPoints = point: 0; games: 5; sets: 0 
+5/9/2022 14:32:45: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aServing = serving:1
+5/9/2022 14:32:45: [G_Auto 2] :  Store Text Value (Shared) for Veronika Kudermetova: bPoints = point: 0; games: 5; sets: 1 
+5/9/2022 14:32:45: [G_Auto 2] :  Store Text Value (Shared) for Veronika Kudermetova: bServing = serving:0
+5/9/2022 14:32:45: [G_Auto 2] :  Store Value (Shared) for market: price = 1.32
+5/9/2022 14:32:45: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 171.4
+5/9/2022 14:32:45: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 157.86
+5/9/2022 14:32:45: [G_Auto 2] :  Store Value (Shared) for market: stake = 18.31
+5/9/2022 14:32:45: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 329.26
+5/9/2022 14:32:45: [G_Auto 2] :  Store Value (Shared) for market: pl = -13.54
+5/9/2022 14:32:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4
+5/9/2022 14:32:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.33
+5/9/2022 14:32:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:32:51: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aPoints = point: 0; games: 5; sets: 0 
+5/9/2022 14:32:51: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aServing = serving:1
+5/9/2022 14:32:51: [G_Auto 2] :  Store Text Value (Shared) for Veronika Kudermetova: bPoints = point: 0; games: 5; sets: 1 
+5/9/2022 14:32:51: [G_Auto 2] :  Store Text Value (Shared) for Veronika Kudermetova: bServing = serving:0
+5/9/2022 14:32:51: [G_Auto 2] :  Store Value (Shared) for market: price = 1.32
+5/9/2022 14:32:51: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 171.4
+5/9/2022 14:32:51: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 157.86
+5/9/2022 14:32:51: [G_Auto 2] :  Store Value (Shared) for market: stake = 18.31
+5/9/2022 14:32:51: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 329.26
+5/9/2022 14:32:51: [G_Auto 2] :  Store Value (Shared) for market: pl = -13.54
+5/9/2022 14:32:51: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4
+5/9/2022 14:32:51: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.33
+5/9/2022 14:33:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:33:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 14:33:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 14:35:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:35:48: [G_Auto 1] :  € 16.33 Lay bet placed on Veronika Kudermetova at 1.49. Fully matched at 1.49.  Ref: 10271          ( Fill or kill bet with 15 seconds delay.   )
+5/9/2022 14:35:49: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aPoints = point: 0; games: 6; sets: 0 
+5/9/2022 14:35:49: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aServing = serving:0
+5/9/2022 14:35:49: [G_Auto 2] :  Store Text Value (Shared) for Veronika Kudermetova: bPoints = point: 0; games: 5; sets: 1 
+5/9/2022 14:35:49: [G_Auto 2] :  Store Text Value (Shared) for Veronika Kudermetova: bServing = serving:2
+5/9/2022 14:35:49: [G_Auto 2] :  Store Value (Shared) for market: price = 1.49
+5/9/2022 14:35:49: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 171.4
+5/9/2022 14:35:49: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 174.19
+5/9/2022 14:35:49: [G_Auto 2] :  Store Value (Shared) for market: stake = 16.33
+5/9/2022 14:35:49: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 345.59
+5/9/2022 14:35:49: [G_Auto 2] :  Store Value (Shared) for market: pl = -13.65
+5/9/2022 14:35:49: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3
+5/9/2022 14:35:49: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.48
+5/9/2022 14:35:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:36:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:36:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:36:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:36:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:37:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:37:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:37:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:38:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:38:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:38:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:38:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 14:38:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 14:39:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 14:41:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:41:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:41:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:41:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 14:42:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 14:42:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 14:42:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 14:43:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 14:43:16: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 14:43:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 14:43:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 14:44:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 14:44:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 14:44:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 14:44:55: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 14:45:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 14:45:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 14:45:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 14:46:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 14:46:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 14:46:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 14:46:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 14:47:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 14:47:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 14:47:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 14:47:55: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 14:48:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 14:48:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:48:28: [G_Auto 2] :  Store Value (Shared) for market: aSecondSetPrice = 2.04
+5/9/2022 14:48:28: [G_Auto 2] :  Store Value (Shared) for market: bSecondSetPrice = 1.98
+5/9/2022 14:48:31: [G_Auto 1] :  € 8.00 Lay bet placed on Veronika Kudermetova at 2. Fully matched at 1.99.  Ref: 10280          ( Fill or kill bet with 15 seconds delay.   )
+5/9/2022 14:48:31: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aPoints = point: 0; games: 0; sets: 1 
+5/9/2022 14:48:31: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aServing = serving:0
+5/9/2022 14:48:31: [G_Auto 2] :  Store Text Value (Shared) for Veronika Kudermetova: bPoints = point: 0; games: 0; sets: 1 
+5/9/2022 14:48:31: [G_Auto 2] :  Store Text Value (Shared) for Veronika Kudermetova: bServing = serving:2
+5/9/2022 14:48:31: [G_Auto 2] :  Store Value (Shared) for market: price = 1.99
+5/9/2022 14:48:31: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 171.4
+5/9/2022 14:48:31: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 182.19
+5/9/2022 14:48:31: [G_Auto 2] :  Store Value (Shared) for market: stake = 8
+5/9/2022 14:48:31: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 353.59
+5/9/2022 14:48:31: [G_Auto 2] :  Store Value (Shared) for market: pl = -9.54
+5/9/2022 14:48:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.04
+5/9/2022 14:48:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.98
+5/9/2022 14:48:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:48:38: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aPoints = point: 0; games: 0; sets: 1 
+5/9/2022 14:48:38: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aServing = serving:0
+5/9/2022 14:48:38: [G_Auto 2] :  Store Text Value (Shared) for Veronika Kudermetova: bPoints = point: 0; games: 0; sets: 1 
+5/9/2022 14:48:38: [G_Auto 2] :  Store Text Value (Shared) for Veronika Kudermetova: bServing = serving:2
+5/9/2022 14:48:38: [G_Auto 2] :  Store Value (Shared) for market: price = 1.99
+5/9/2022 14:48:38: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 171.4
+5/9/2022 14:48:38: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 182.19
+5/9/2022 14:48:38: [G_Auto 2] :  Store Value (Shared) for market: stake = 8
+5/9/2022 14:48:38: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 353.59
+5/9/2022 14:48:38: [G_Auto 2] :  Store Value (Shared) for market: pl = -9.64
+5/9/2022 14:48:38: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.02
+5/9/2022 14:48:38: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.97
+5/9/2022 14:48:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:49:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:49:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:49:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:49:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:50:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:50:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:50:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:51:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:51:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 14:51:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 14:52:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:53:00: [G_Auto 1] :  Placed closure bet with greening on Veronika Kudermetova by Backing 25.31 at 1.59
+5/9/2022 14:53:00: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aPoints = point: 0; games: 0; sets: 1 
+5/9/2022 14:53:00: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aServing = serving:1
+5/9/2022 14:53:00: [G_Auto 2] :  Store Text Value (Shared) for Veronika Kudermetova: bPoints = point: 0; games: 1; sets: 1 
+5/9/2022 14:53:00: [G_Auto 2] :  Store Text Value (Shared) for Veronika Kudermetova: bServing = serving:0
+5/9/2022 14:53:00: [G_Auto 2] :  Store Value (Shared) for market: price = 1.59
+5/9/2022 14:53:00: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 196.71
+5/9/2022 14:53:00: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 182.19
+5/9/2022 14:53:00: [G_Auto 2] :  Store Value (Shared) for market: stake = 25.31
+5/9/2022 14:53:00: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 378.9
+5/9/2022 14:53:00: [G_Auto 2] :  Store Value (Shared) for market: pl = -14.52
+5/9/2022 14:53:00: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.66
+5/9/2022 14:53:00: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.63
+5/9/2022 14:53:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:53:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:53:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:53:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 14:54:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 14:54:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 14:55:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:56:11: [G_Auto 1] :  € 8.89 Lay bet placed on Veronika Kudermetova at 1.9. Fully matched at 1.9.  Ref: 10286          ( Fill or kill bet with 15 seconds delay.   )
+5/9/2022 14:56:11: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aPoints = point: 0; games: 1; sets: 1 
+5/9/2022 14:56:11: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aServing = serving:0
+5/9/2022 14:56:11: [G_Auto 2] :  Store Text Value (Shared) for Veronika Kudermetova: bPoints = point: 0; games: 1; sets: 1 
+5/9/2022 14:56:11: [G_Auto 2] :  Store Text Value (Shared) for Veronika Kudermetova: bServing = serving:2
+5/9/2022 14:56:11: [G_Auto 2] :  Store Value (Shared) for market: price = 1.9
+5/9/2022 14:56:11: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 196.71
+5/9/2022 14:56:11: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 191.08
+5/9/2022 14:56:11: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.89
+5/9/2022 14:56:11: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 387.79
+5/9/2022 14:56:11: [G_Auto 2] :  Store Value (Shared) for market: pl = -14.66
+5/9/2022 14:56:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.14
+5/9/2022 14:56:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.88
+5/9/2022 14:56:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:56:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 14:56:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 15:02:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 15:02:13: [G_Auto 1] :  € 17.02 Lay bet placed on Aliaksandra Sasnovich at 1.47. Fully matched at 1.47.  Ref: 10291          ( Fill or kill bet with 15 seconds delay.   )
+5/9/2022 15:02:13: [G_Auto 1] :  Placed closure bet with greening on Veronika Kudermetova by Backing 5.45 at 3.1
+5/9/2022 15:02:13: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aPoints = point: 0; games: 2; sets: 1 
+5/9/2022 15:02:13: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aServing = serving:1
+5/9/2022 15:02:13: [G_Auto 2] :  Store Text Value (Shared) for Veronika Kudermetova: bPoints = point: 0; games: 1; sets: 1 
+5/9/2022 15:02:13: [G_Auto 2] :  Store Text Value (Shared) for Veronika Kudermetova: bServing = serving:0
+5/9/2022 15:02:13: [G_Auto 2] :  Store Value (Shared) for market: price = 3.1
+5/9/2022 15:02:13: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 202.16
+5/9/2022 15:02:13: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 208.1
+5/9/2022 15:02:13: [G_Auto 2] :  Store Value (Shared) for market: stake = 5.45
+5/9/2022 15:02:13: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 410.26
+5/9/2022 15:02:13: [G_Auto 2] :  Store Value (Shared) for market: pl = -11.2
+5/9/2022 15:02:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.47
+5/9/2022 15:02:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.1
+5/9/2022 15:02:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 15:02:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 15:02:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 15:03:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 15:03:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 15:03:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 15:03:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 15:04:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 15:04:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 15:04:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 15:06:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 15:06:45: [G_Auto 1] :  Placed closure bet with greening on Aliaksandra Sasnovich by Backing 19.70 at 1.27
+5/9/2022 15:06:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 15:06:48: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aPoints = point: 0; games: 3; sets: 1 
+5/9/2022 15:06:48: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: aServing = serving:0
+5/9/2022 15:06:48: [G_Auto 2] :  Store Text Value (Shared) for Veronika Kudermetova: bPoints = point: 0; games: 1; sets: 1 
+5/9/2022 15:06:48: [G_Auto 2] :  Store Text Value (Shared) for Veronika Kudermetova: bServing = serving:2
+5/9/2022 15:06:48: [G_Auto 2] :  Store Value (Shared) for market: price = 1.27
+5/9/2022 15:06:48: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 221.86
+5/9/2022 15:06:48: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 208.1
+5/9/2022 15:06:48: [G_Auto 2] :  Store Value (Shared) for market: stake = 19.7
+5/9/2022 15:06:48: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 429.96
+5/9/2022 15:06:48: [G_Auto 2] :  Store Value (Shared) for market: pl = -13.76
+5/9/2022 15:06:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.28
+5/9/2022 15:06:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.5
+5/9/2022 15:07:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 15:07:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 15:09:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 15:10:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 15:10:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 15:10:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 15:10:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 15:11:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 15:11:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 15:11:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 15:11:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 15:12:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 15:12:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 15:12:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 15:14:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 15:15:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 15:15:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 15:15:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 15:17:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 15:17:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 15:18:08:  Guardian has detected that the market is suspended

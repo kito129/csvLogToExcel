@@ -1,0 +1,475 @@
+5/9/2022 09:57:52: [G_Auto 2] :  Store Text Value (Shared) for Petra Martic: info = marketName: Martic v Muchova - Match Odds; runnerA: Petra Martic; runnerB: Karolina Muchova 
+5/9/2022 09:57:52: [G_Auto 2] :  Store Value (Shared) for market: aId = 2346703
+5/9/2022 09:57:52: [G_Auto 2] :  Store Value (Shared) for market: bId = 9632758
+5/9/2022 11:55:48:  Guardian has detected that the market is in-play
+5/9/2022 11:55:48:  Guardian has detected that the market is suspended
+5/9/2022 11:55:52: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 2.36; bBsp: 1.74; volume: 32298.45 
+5/9/2022 11:55:52: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 2.36; bBsp: 1.74; volume: 32298.45 
+5/9/2022 11:55:52:  Guardian has detected that the market is now unsuspended
+5/9/2022 11:55:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:56:09: [G_Auto 1] :  € 10.81 Lay bet placed on Karolina Muchova at 1.74. Entirely unmatched when it initially reached the market.   Ref: 10156          ( Fill or kill bet with 15 seconds delay.   )
+5/9/2022 11:56:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 11:56:16: [G_Auto 2] :  Store Text Value (Shared) for Petra Martic: aPoints = point: 0; games: 0; sets: 0 
+5/9/2022 11:56:16: [G_Auto 2] :  Store Text Value (Shared) for Petra Martic: aServing = serving:0
+5/9/2022 11:56:16: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: bPoints = point: 15; games: 0; sets: 0 
+5/9/2022 11:56:16: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: bServing = serving:2
+5/9/2022 11:56:16: [G_Auto 2] :  Store Value (Shared) for market: price = 1.74
+5/9/2022 11:56:16: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+5/9/2022 11:56:16: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 10.81
+5/9/2022 11:56:16: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.81
+5/9/2022 11:56:16: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 10.81
+5/9/2022 11:56:16: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.25
+5/9/2022 11:56:16: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.38
+5/9/2022 11:56:16: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.7
+5/9/2022 11:56:16: [G_Auto 1] :  € 10.81 of unmatched bet (Ref:10156) was filled before remainder was killed.
+5/9/2022 11:56:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 11:56:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 12:00:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:00:20: [G_Auto 1] :  Placed closure bet with greening on Karolina Muchova by Backing 8.63 at 2.18
+5/9/2022 12:00:20: [G_Auto 1] :  € 9.88 Lay bet placed on Petra Martic at 1.81. Entirely unmatched when it initially reached the market.   Ref: 10160          ( Fill or kill bet with 15 seconds delay.   )
+5/9/2022 12:00:21: [G_Auto 2] :  Store Text Value (Shared) for Petra Martic: aPoints = point: 0; games: 1; sets: 0 
+5/9/2022 12:00:21: [G_Auto 2] :  Store Text Value (Shared) for Petra Martic: aServing = serving:1
+5/9/2022 12:00:21: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: bPoints = point: 0; games: 0; sets: 0 
+5/9/2022 12:00:21: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: bServing = serving:0
+5/9/2022 12:00:21: [G_Auto 2] :  Store Value (Shared) for market: price = 2.18
+5/9/2022 12:00:21: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 8.63
+5/9/2022 12:00:21: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 10.81
+5/9/2022 12:00:21: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.63
+5/9/2022 12:00:21: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 19.44
+5/9/2022 12:00:21: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.14
+5/9/2022 12:00:21: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.82
+5/9/2022 12:00:21: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.2
+5/9/2022 12:00:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:00:35: [G_Auto 1] :  € 9.88 unmatched bet (Ref:10160) was killed.
+5/9/2022 12:00:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:01:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:01:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 12:01:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 12:04:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:04:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:05:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:05:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 12:05:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 12:05:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 12:07:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:08:06: [G_Auto 1] :  € 11.11 Lay bet placed on Petra Martic at 1.72. Fully matched at 1.72.  Ref: 10166          ( Fill or kill bet with 15 seconds delay.   )
+5/9/2022 12:08:07: [G_Auto 2] :  Store Text Value (Shared) for Petra Martic: aPoints = point: 0; games: 2; sets: 0 
+5/9/2022 12:08:07: [G_Auto 2] :  Store Text Value (Shared) for Petra Martic: aServing = serving:1
+5/9/2022 12:08:07: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: bPoints = point: 0; games: 1; sets: 0 
+5/9/2022 12:08:07: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: bServing = serving:0
+5/9/2022 12:08:07: [G_Auto 2] :  Store Value (Shared) for market: price = 1.72
+5/9/2022 12:08:07: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 8.63
+5/9/2022 12:08:07: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 21.92
+5/9/2022 12:08:07: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.11
+5/9/2022 12:08:07: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 30.55
+5/9/2022 12:08:07: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.01
+5/9/2022 12:08:07: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.71
+5/9/2022 12:08:07: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.44
+5/9/2022 12:08:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:08:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:08:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:09:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:09:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:09:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:10:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:10:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 12:10:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 12:10:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 12:11:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 12:14:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:14:38: [G_Auto 1] :  Placed closure bet with greening on Petra Martic by Backing 12.66 at 1.51
+5/9/2022 12:14:40: [G_Auto 2] :  Store Text Value (Shared) for Petra Martic: aPoints = point: 0; games: 3; sets: 0 
+5/9/2022 12:14:40: [G_Auto 2] :  Store Text Value (Shared) for Petra Martic: aServing = serving:0
+5/9/2022 12:14:40: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: bPoints = point: 0; games: 1; sets: 0 
+5/9/2022 12:14:40: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: bServing = serving:2
+5/9/2022 12:14:40: [G_Auto 2] :  Store Value (Shared) for market: price = 1.51
+5/9/2022 12:14:40: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 21.29
+5/9/2022 12:14:40: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 21.92
+5/9/2022 12:14:40: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.66
+5/9/2022 12:14:40: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 43.21
+5/9/2022 12:14:40: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.63
+5/9/2022 12:14:40: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.53
+5/9/2022 12:14:40: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.88
+5/9/2022 12:14:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:15:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:15:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:15:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 12:15:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 12:16:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 12:20:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:20:18: [G_Auto 1] :  € 23.53 Lay bet placed on Petra Martic at 1.34. Fully matched at 1.33.  Ref: 10176          ( Fill or kill bet with 15 seconds delay.   )
+5/9/2022 12:20:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:20:19: [G_Auto 2] :  Store Text Value (Shared) for Petra Martic: aPoints = point: 0; games: 4; sets: 0 
+5/9/2022 12:20:19: [G_Auto 2] :  Store Text Value (Shared) for Petra Martic: aServing = serving:1
+5/9/2022 12:20:19: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: bPoints = point: 0; games: 1; sets: 0 
+5/9/2022 12:20:19: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: bServing = serving:0
+5/9/2022 12:20:19: [G_Auto 2] :  Store Value (Shared) for market: price = 1.33
+5/9/2022 12:20:19: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 21.29
+5/9/2022 12:20:19: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 45.45
+5/9/2022 12:20:19: [G_Auto 2] :  Store Value (Shared) for market: stake = 23.53
+5/9/2022 12:20:19: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 66.74
+5/9/2022 12:20:19: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.45
+5/9/2022 12:20:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.33
+5/9/2022 12:20:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.1
+5/9/2022 12:20:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:20:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:21:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:21:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:21:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:22:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:22:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:22:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 12:22:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 12:23:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 12:23:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 12:25:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:25:57: [G_Auto 1] :  Placed closure bet with greening on Petra Martic by Backing 24.64 at 1.27
+5/9/2022 12:25:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:25:58: [G_Auto 2] :  Store Text Value (Shared) for Petra Martic: aPoints = point: 0; games: 5; sets: 0 
+5/9/2022 12:25:58: [G_Auto 2] :  Store Text Value (Shared) for Petra Martic: aServing = serving:0
+5/9/2022 12:25:58: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: bPoints = point: 0; games: 1; sets: 0 
+5/9/2022 12:25:58: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: bServing = serving:2
+5/9/2022 12:25:58: [G_Auto 2] :  Store Value (Shared) for market: price = 1.27
+5/9/2022 12:25:58: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 45.93
+5/9/2022 12:25:58: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 45.45
+5/9/2022 12:25:58: [G_Auto 2] :  Store Value (Shared) for market: stake = 24.64
+5/9/2022 12:25:58: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 91.38
+5/9/2022 12:25:58: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.47
+5/9/2022 12:25:58: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.27
+5/9/2022 12:25:58: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.5
+5/9/2022 12:26:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:26:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 12:26:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 12:26:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 12:29:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:29:20: [G_Auto 1] :  € 25.81 Lay bet placed on Petra Martic at 1.31. Fully matched at 1.3.  Ref: 10181          ( Fill or kill bet with 15 seconds delay.   )
+5/9/2022 12:29:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:29:21: [G_Auto 2] :  Store Text Value (Shared) for Petra Martic: aPoints = point: 0; games: 5; sets: 0 
+5/9/2022 12:29:21: [G_Auto 2] :  Store Text Value (Shared) for Petra Martic: aServing = serving:1
+5/9/2022 12:29:21: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: bPoints = point: 0; games: 2; sets: 0 
+5/9/2022 12:29:21: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: bServing = serving:0
+5/9/2022 12:29:21: [G_Auto 2] :  Store Value (Shared) for market: price = 1.3
+5/9/2022 12:29:21: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 45.93
+5/9/2022 12:29:21: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 71.26
+5/9/2022 12:29:21: [G_Auto 2] :  Store Value (Shared) for market: stake = 25.81
+5/9/2022 12:29:21: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 117.19
+5/9/2022 12:29:21: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.68
+5/9/2022 12:29:21: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.3
+5/9/2022 12:29:21: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.5
+5/9/2022 12:29:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:29:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:30:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:30:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:30:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:31:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:31:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:31:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 12:36:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:36:24: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 1.25
+5/9/2022 12:36:24: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 4.7
+5/9/2022 12:36:31: [G_Auto 1] :  Placed closure bet with greening on Petra Martic by Backing 26.84 at 1.25
+5/9/2022 12:36:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:36:32: [G_Auto 2] :  Store Text Value (Shared) for Petra Martic: aPoints = point: 0; games: 0; sets: 1 
+5/9/2022 12:36:32: [G_Auto 2] :  Store Text Value (Shared) for Petra Martic: aServing = serving:0
+5/9/2022 12:36:32: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: bPoints = point: 0; games: 0; sets: 0 
+5/9/2022 12:36:32: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: bServing = serving:2
+5/9/2022 12:36:32: [G_Auto 2] :  Store Value (Shared) for market: price = 1.25
+5/9/2022 12:36:32: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 72.77
+5/9/2022 12:36:32: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 71.26
+5/9/2022 12:36:32: [G_Auto 2] :  Store Value (Shared) for market: stake = 26.84
+5/9/2022 12:36:32: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 144.03
+5/9/2022 12:36:32: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.51
+5/9/2022 12:36:32: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.26
+5/9/2022 12:36:32: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.8
+5/9/2022 12:36:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:37:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:37:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:37:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:37:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:38:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:38:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:38:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:39:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 12:39:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 12:42:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:42:22: [G_Auto 1] :  € 22.22 Lay bet placed on Petra Martic at 1.36. Fully matched at 1.35.  Ref: 10190          ( Fill or kill bet with 15 seconds delay.   )
+5/9/2022 12:42:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:42:23: [G_Auto 2] :  Store Text Value (Shared) for Petra Martic: aPoints = point: 0; games: 0; sets: 1 
+5/9/2022 12:42:23: [G_Auto 2] :  Store Text Value (Shared) for Petra Martic: aServing = serving:1
+5/9/2022 12:42:23: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: bPoints = point: 0; games: 1; sets: 0 
+5/9/2022 12:42:23: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: bServing = serving:0
+5/9/2022 12:42:23: [G_Auto 2] :  Store Value (Shared) for market: price = 1.35
+5/9/2022 12:42:23: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 72.77
+5/9/2022 12:42:23: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 93.48
+5/9/2022 12:42:23: [G_Auto 2] :  Store Value (Shared) for market: stake = 22.22
+5/9/2022 12:42:23: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 166.25
+5/9/2022 12:42:23: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.51
+5/9/2022 12:42:23: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.36
+5/9/2022 12:42:23: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.95
+5/9/2022 12:42:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:42:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:43:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:43:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 12:43:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 12:43:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 12:46:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:46:45: [G_Auto 1] :  Placed closure bet with greening on Petra Martic by Backing 22.90 at 1.31
+5/9/2022 12:46:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:46:46: [G_Auto 2] :  Store Text Value (Shared) for Petra Martic: aPoints = point: 0; games: 1; sets: 1 
+5/9/2022 12:46:46: [G_Auto 2] :  Store Text Value (Shared) for Petra Martic: aServing = serving:0
+5/9/2022 12:46:46: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: bPoints = point: 0; games: 1; sets: 0 
+5/9/2022 12:46:46: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: bServing = serving:2
+5/9/2022 12:46:46: [G_Auto 2] :  Store Value (Shared) for market: price = 1.31
+5/9/2022 12:46:46: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 95.67
+5/9/2022 12:46:46: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 93.48
+5/9/2022 12:46:46: [G_Auto 2] :  Store Value (Shared) for market: stake = 22.9
+5/9/2022 12:46:46: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 189.15
+5/9/2022 12:46:46: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.19
+5/9/2022 12:46:46: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.32
+5/9/2022 12:46:46: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.2
+5/9/2022 12:47:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:47:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 12:47:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 12:47:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 12:49:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:50:15: [G_Auto 1] :  € 20.00 Lay bet placed on Petra Martic at 1.4. Fully matched at 1.39.  Ref: 10196          ( Fill or kill bet with 15 seconds delay.   )
+5/9/2022 12:50:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:50:16: [G_Auto 2] :  Store Text Value (Shared) for Petra Martic: aPoints = point: 0; games: 1; sets: 1 
+5/9/2022 12:50:16: [G_Auto 2] :  Store Text Value (Shared) for Petra Martic: aServing = serving:1
+5/9/2022 12:50:16: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: bPoints = point: 0; games: 2; sets: 0 
+5/9/2022 12:50:16: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: bServing = serving:0
+5/9/2022 12:50:16: [G_Auto 2] :  Store Value (Shared) for market: price = 1.39
+5/9/2022 12:50:16: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 95.67
+5/9/2022 12:50:16: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 113.48
+5/9/2022 12:50:16: [G_Auto 2] :  Store Value (Shared) for market: stake = 20
+5/9/2022 12:50:16: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 209.15
+5/9/2022 12:50:16: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.33
+5/9/2022 12:50:16: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.39
+5/9/2022 12:50:16: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.6
+5/9/2022 12:50:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:50:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:51:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:51:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:51:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:51:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:52:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 12:52:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 12:55:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:55:31: [G_Auto 1] :  Placed closure bet with greening on Petra Martic by Backing 20.74 at 1.34
+5/9/2022 12:55:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:55:32: [G_Auto 2] :  Store Text Value (Shared) for Petra Martic: aPoints = point: 0; games: 2; sets: 1 
+5/9/2022 12:55:32: [G_Auto 2] :  Store Text Value (Shared) for Petra Martic: aServing = serving:0
+5/9/2022 12:55:32: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: bPoints = point: 0; games: 2; sets: 0 
+5/9/2022 12:55:32: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: bServing = serving:2
+5/9/2022 12:55:32: [G_Auto 2] :  Store Value (Shared) for market: price = 1.34
+5/9/2022 12:55:32: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 116.41
+5/9/2022 12:55:32: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 113.48
+5/9/2022 12:55:32: [G_Auto 2] :  Store Value (Shared) for market: stake = 20.74
+5/9/2022 12:55:32: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 229.89
+5/9/2022 12:55:32: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.93
+5/9/2022 12:55:32: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.34
+5/9/2022 12:55:32: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.85
+5/9/2022 12:55:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:55:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 12:56:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 12:56:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 12:59:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:59:50: [G_Auto 1] :  € 19.05 Lay bet placed on Petra Martic at 1.42. Fully matched at 1.41.  Ref: 10203          ( Fill or kill bet with 15 seconds delay.   )
+5/9/2022 12:59:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:59:52: [G_Auto 2] :  Store Text Value (Shared) for Petra Martic: aPoints = point: 0; games: 2; sets: 1 
+5/9/2022 12:59:52: [G_Auto 2] :  Store Text Value (Shared) for Petra Martic: aServing = serving:1
+5/9/2022 12:59:52: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: bPoints = point: 0; games: 3; sets: 0 
+5/9/2022 12:59:52: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: bServing = serving:0
+5/9/2022 12:59:52: [G_Auto 2] :  Store Value (Shared) for market: price = 1.41
+5/9/2022 12:59:52: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 116.41
+5/9/2022 12:59:52: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 132.53
+5/9/2022 12:59:52: [G_Auto 2] :  Store Value (Shared) for market: stake = 19.05
+5/9/2022 12:59:52: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 248.94
+5/9/2022 12:59:52: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.07
+5/9/2022 12:59:52: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.4
+5/9/2022 12:59:52: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.5
+5/9/2022 13:00:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:00:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:00:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:00:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:01:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:01:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:01:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:01:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 13:02:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 13:02:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 13:02:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 13:04:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:04:31: [G_Auto 1] :  Placed closure bet with greening on Petra Martic by Backing 15.35 at 1.75
+5/9/2022 13:04:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:04:32: [G_Auto 2] :  Store Text Value (Shared) for Petra Martic: aPoints = point: 0; games: 2; sets: 1 
+5/9/2022 13:04:32: [G_Auto 2] :  Store Text Value (Shared) for Petra Martic: aServing = serving:0
+5/9/2022 13:04:32: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: bPoints = point: 0; games: 4; sets: 0 
+5/9/2022 13:04:32: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: bServing = serving:2
+5/9/2022 13:04:32: [G_Auto 2] :  Store Value (Shared) for market: price = 1.75
+5/9/2022 13:04:32: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 131.76
+5/9/2022 13:04:32: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 132.53
+5/9/2022 13:04:32: [G_Auto 2] :  Store Value (Shared) for market: stake = 15.35
+5/9/2022 13:04:32: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 264.29
+5/9/2022 13:04:32: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.75
+5/9/2022 13:04:32: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.77
+5/9/2022 13:04:32: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.3
+5/9/2022 13:04:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:05:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 13:05:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 13:05:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 13:09:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:09:20: [G_Auto 1] :  € 8.89 Lay bet placed on Petra Martic at 1.9. Fully matched at 1.9.  Ref: 10211          ( Fill or kill bet with 15 seconds delay.   )
+5/9/2022 13:09:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:09:21: [G_Auto 2] :  Store Text Value (Shared) for Petra Martic: aPoints = point: 0; games: 2; sets: 1 
+5/9/2022 13:09:21: [G_Auto 2] :  Store Text Value (Shared) for Petra Martic: aServing = serving:1
+5/9/2022 13:09:21: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: bPoints = point: 0; games: 5; sets: 0 
+5/9/2022 13:09:21: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: bServing = serving:0
+5/9/2022 13:09:21: [G_Auto 2] :  Store Value (Shared) for market: price = 1.9
+5/9/2022 13:09:21: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 131.76
+5/9/2022 13:09:21: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 141.42
+5/9/2022 13:09:21: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.89
+5/9/2022 13:09:21: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 273.18
+5/9/2022 13:09:21: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.62
+5/9/2022 13:09:21: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.88
+5/9/2022 13:09:21: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.14
+5/9/2022 13:09:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:09:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:10:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:10:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:10:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:10:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:11:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:11:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 13:11:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 13:14:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:14:15: [G_Auto 1] :  Placed closure bet with greening on Petra Martic by Backing 9.44 at 1.79
+5/9/2022 13:14:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:14:16: [G_Auto 2] :  Store Text Value (Shared) for Petra Martic: aPoints = point: 0; games: 3; sets: 1 
+5/9/2022 13:14:16: [G_Auto 2] :  Store Text Value (Shared) for Petra Martic: aServing = serving:0
+5/9/2022 13:14:16: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: bPoints = point: 0; games: 5; sets: 0 
+5/9/2022 13:14:16: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: bServing = serving:2
+5/9/2022 13:14:16: [G_Auto 2] :  Store Value (Shared) for market: price = 1.79
+5/9/2022 13:14:16: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 141.2
+5/9/2022 13:14:16: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 141.42
+5/9/2022 13:14:16: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.44
+5/9/2022 13:14:16: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 282.62
+5/9/2022 13:14:16: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.22
+5/9/2022 13:14:16: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.78
+5/9/2022 13:14:16: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.22
+5/9/2022 13:14:24: [G_Auto 2] :  Store Text Value (Shared) for Petra Martic: aPoints = point: 0; games: 3; sets: 1 
+5/9/2022 13:14:24: [G_Auto 2] :  Store Text Value (Shared) for Petra Martic: aServing = serving:0
+5/9/2022 13:14:24: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: bPoints = point: 0; games: 5; sets: 0 
+5/9/2022 13:14:24: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: bServing = serving:2
+5/9/2022 13:14:24: [G_Auto 2] :  Store Value (Shared) for market: price = 1.79
+5/9/2022 13:14:24: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 141.2
+5/9/2022 13:14:24: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 141.42
+5/9/2022 13:14:24: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.44
+5/9/2022 13:14:24: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 282.62
+5/9/2022 13:14:24: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.22
+5/9/2022 13:14:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.82
+5/9/2022 13:14:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.22
+5/9/2022 13:14:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:14:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:15:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:15:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:15:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 13:15:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 13:15:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 13:16:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 13:18:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:19:01: [G_Auto 2] :  Store Value (Shared) for market: aSecondSetPrice = 2.02
+5/9/2022 13:19:01: [G_Auto 2] :  Store Value (Shared) for market: bSecondSetPrice = 2
+5/9/2022 13:19:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:19:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:19:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:19:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:20:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:20:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:20:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:20:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:21:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:21:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:21:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:21:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:22:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 13:22:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 13:25:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:25:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:25:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:26:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:26:16: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 13:26:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 13:26:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 13:28:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:28:54: [G_Auto 1] :  € 25.81 Lay bet placed on Petra Martic at 1.31. Fully matched at 1.3.  Ref: 10226          ( Fill or kill bet with 15 seconds delay.   )
+5/9/2022 13:28:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:28:55: [G_Auto 2] :  Store Text Value (Shared) for Petra Martic: aPoints = point: 0; games: 2; sets: 1 
+5/9/2022 13:28:55: [G_Auto 2] :  Store Text Value (Shared) for Petra Martic: aServing = serving:1
+5/9/2022 13:28:55: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: bPoints = point: 0; games: 0; sets: 1 
+5/9/2022 13:28:55: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: bServing = serving:0
+5/9/2022 13:28:55: [G_Auto 2] :  Store Value (Shared) for market: price = 1.3
+5/9/2022 13:28:55: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 141.2
+5/9/2022 13:28:55: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 167.23
+5/9/2022 13:28:55: [G_Auto 2] :  Store Value (Shared) for market: stake = 25.81
+5/9/2022 13:28:55: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 308.43
+5/9/2022 13:28:55: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.02
+5/9/2022 13:28:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.29
+5/9/2022 13:28:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.5
+5/9/2022 13:29:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:29:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 13:29:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 13:29:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 13:33:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:34:06: [G_Auto 1] :  Placed closure bet with greening on Petra Martic by Backing 28.19 at 1.19
+5/9/2022 13:34:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:34:07: [G_Auto 2] :  Store Text Value (Shared) for Petra Martic: aPoints = point: 0; games: 3; sets: 1 
+5/9/2022 13:34:07: [G_Auto 2] :  Store Text Value (Shared) for Petra Martic: aServing = serving:0
+5/9/2022 13:34:07: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: bPoints = point: 0; games: 0; sets: 1 
+5/9/2022 13:34:07: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: bServing = serving:2
+5/9/2022 13:34:07: [G_Auto 2] :  Store Value (Shared) for market: price = 1.19
+5/9/2022 13:34:07: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 169.39
+5/9/2022 13:34:07: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 167.23
+5/9/2022 13:34:07: [G_Auto 2] :  Store Value (Shared) for market: stake = 28.19
+5/9/2022 13:34:07: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 336.62
+5/9/2022 13:34:07: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.16
+5/9/2022 13:34:07: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.2
+5/9/2022 13:34:07: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 6
+5/9/2022 13:34:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:34:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:34:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:35:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:35:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:35:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:35:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:36:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 13:36:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 13:39:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:40:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:40:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:40:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:40:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:41:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 13:41:16: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 13:41:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 13:41:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 13:44:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:44:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:44:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:44:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:45:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:45:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:45:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:45:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:46:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:46:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 13:46:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 13:46:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 13:52:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:52:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:52:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:53:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:53:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 13:53:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 13:56:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 13:56:29:  Guardian has detected that the market is suspended
