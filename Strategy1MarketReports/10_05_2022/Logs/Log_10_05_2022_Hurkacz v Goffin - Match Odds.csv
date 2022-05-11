@@ -1,0 +1,492 @@
+5/10/2022 09:40:47: [G_Auto 2] :  Store Text Value (Shared) for Hubert Hurkacz: info = marketName: Hurkacz v Goffin - Match Odds; runnerA: Hubert Hurkacz; runnerB: David Goffin 
+5/10/2022 09:40:47: [G_Auto 2] :  Store Value (Shared) for market: aId = 19924838
+5/10/2022 09:40:47: [G_Auto 2] :  Store Value (Shared) for market: bId = 19924835
+5/10/2022 14:09:44:  Guardian has detected that the market is in-play
+5/10/2022 14:09:44:  Guardian has detected that the market is suspended
+5/10/2022 14:09:48: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.66; bBsp: 2.3; volume: 33193.67 
+5/10/2022 14:09:48: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.66; bBsp: 2.3; volume: 33193.67 
+5/10/2022 14:09:48:  Guardian has detected that the market is now unsuspended
+5/10/2022 14:09:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 14:10:06: [G_Auto 1] :  € 10.96 Lay bet placed on Hubert Hurkacz at 1.73. Entirely unmatched when it initially reached the market.   Ref: 10188          ( Fill or kill bet with 15 seconds delay.   )
+5/10/2022 14:10:15: [G_Auto 1] :  € 10.96 of unmatched bet (Ref:10188) was filled before remainder was killed.
+5/10/2022 14:10:15: [G_Auto 1] :  1 Automation Signals Cleared
+5/10/2022 14:10:15: [G_Auto 2] :  Store Text Value (Shared) for Hubert Hurkacz: aPoints = point: 0; games: 0; sets: 0 
+5/10/2022 14:10:15: [G_Auto 2] :  Store Text Value (Shared) for Hubert Hurkacz: aServing = serving:1
+5/10/2022 14:10:15: [G_Auto 2] :  Store Text Value (Shared) for David Goffin: bPoints = point: 0; games: 0; sets: 0 
+5/10/2022 14:10:15: [G_Auto 2] :  Store Text Value (Shared) for David Goffin: bServing = serving:0
+5/10/2022 14:10:15: [G_Auto 2] :  Store Value (Shared) for market: price = 1.73
+5/10/2022 14:10:15: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+5/10/2022 14:10:15: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 10.96
+5/10/2022 14:10:15: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.96
+5/10/2022 14:10:15: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 10.96
+5/10/2022 14:10:15: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.39
+5/10/2022 14:10:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.75
+5/10/2022 14:10:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.3
+5/10/2022 14:10:23: [G_Auto 2] :  Store Text Value (Shared) for Hubert Hurkacz: aPoints = point: 15; games: 0; sets: 0 
+5/10/2022 14:10:23: [G_Auto 2] :  Store Text Value (Shared) for Hubert Hurkacz: aServing = serving:1
+5/10/2022 14:10:23: [G_Auto 2] :  Store Text Value (Shared) for David Goffin: bPoints = point: 0; games: 0; sets: 0 
+5/10/2022 14:10:23: [G_Auto 2] :  Store Text Value (Shared) for David Goffin: bServing = serving:0
+5/10/2022 14:10:23: [G_Auto 2] :  Store Value (Shared) for market: price = 1.73
+5/10/2022 14:10:23: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+5/10/2022 14:10:23: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 10.96
+5/10/2022 14:10:23: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.96
+5/10/2022 14:10:23: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 10.96
+5/10/2022 14:10:23: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.46
+5/10/2022 14:10:23: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.66
+5/10/2022 14:10:23: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.38
+5/10/2022 14:11:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 14:11:36: [G_Auto 1] :  Placed closure bet with greening on Hubert Hurkacz by Backing 11.93 at 1.59
+5/10/2022 14:11:37: [G_Auto 2] :  Store Text Value (Shared) for Hubert Hurkacz: aPoints = point: 0; games: 1; sets: 0 
+5/10/2022 14:11:37: [G_Auto 2] :  Store Text Value (Shared) for Hubert Hurkacz: aServing = serving:0
+5/10/2022 14:11:37: [G_Auto 2] :  Store Text Value (Shared) for David Goffin: bPoints = point: 0; games: 0; sets: 0 
+5/10/2022 14:11:37: [G_Auto 2] :  Store Text Value (Shared) for David Goffin: bServing = serving:2
+5/10/2022 14:11:37: [G_Auto 2] :  Store Value (Shared) for market: price = 1.59
+5/10/2022 14:11:37: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 11.93
+5/10/2022 14:11:37: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 10.96
+5/10/2022 14:11:37: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.93
+5/10/2022 14:11:37: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 22.89
+5/10/2022 14:11:37: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.96
+5/10/2022 14:11:37: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.6
+5/10/2022 14:11:37: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.66
+5/10/2022 14:11:45: [G_Auto 2] :  Store Text Value (Shared) for Hubert Hurkacz: aPoints = point: 0; games: 1; sets: 0 
+5/10/2022 14:11:45: [G_Auto 2] :  Store Text Value (Shared) for Hubert Hurkacz: aServing = serving:0
+5/10/2022 14:11:45: [G_Auto 2] :  Store Text Value (Shared) for David Goffin: bPoints = point: 0; games: 0; sets: 0 
+5/10/2022 14:11:45: [G_Auto 2] :  Store Text Value (Shared) for David Goffin: bServing = serving:2
+5/10/2022 14:11:45: [G_Auto 2] :  Store Value (Shared) for market: price = 1.59
+5/10/2022 14:11:45: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 11.93
+5/10/2022 14:11:45: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 10.96
+5/10/2022 14:11:45: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.93
+5/10/2022 14:11:45: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 22.89
+5/10/2022 14:11:45: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.96
+5/10/2022 14:11:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.61
+5/10/2022 14:11:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.62
+5/10/2022 14:12:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 14:12:31: [G_Auto 1] :  1 Automation Signals Cleared
+5/10/2022 14:20:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 14:20:22: [G_Auto 1] :  € 13.11 Lay bet placed on Hubert Hurkacz at 1.61. Fully matched at 1.6.  Ref: 10197          ( Fill or kill bet with 15 seconds delay.   )
+5/10/2022 14:20:23: [G_Auto 2] :  Store Text Value (Shared) for Hubert Hurkacz: aPoints = point: 0; games: 1; sets: 0 
+5/10/2022 14:20:23: [G_Auto 2] :  Store Text Value (Shared) for Hubert Hurkacz: aServing = serving:1
+5/10/2022 14:20:23: [G_Auto 2] :  Store Text Value (Shared) for David Goffin: bPoints = point: 0; games: 1; sets: 0 
+5/10/2022 14:20:23: [G_Auto 2] :  Store Text Value (Shared) for David Goffin: bServing = serving:0
+5/10/2022 14:20:23: [G_Auto 2] :  Store Value (Shared) for market: price = 1.6
+5/10/2022 14:20:23: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 11.93
+5/10/2022 14:20:23: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 24.07
+5/10/2022 14:20:23: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.11
+5/10/2022 14:20:23: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 36
+5/10/2022 14:20:23: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.05
+5/10/2022 14:20:23: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.59
+5/10/2022 14:20:23: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.68
+5/10/2022 14:21:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 14:21:14: [G_Auto 1] :  1 Automation Signals Cleared
+5/10/2022 14:23:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 14:23:33: [G_Auto 1] :  Placed closure bet with greening on Hubert Hurkacz by Backing 14.17 at 1.48
+5/10/2022 14:23:34: [G_Auto 2] :  Store Text Value (Shared) for Hubert Hurkacz: aPoints = point: 0; games: 2; sets: 0 
+5/10/2022 14:23:34: [G_Auto 2] :  Store Text Value (Shared) for Hubert Hurkacz: aServing = serving:0
+5/10/2022 14:23:34: [G_Auto 2] :  Store Text Value (Shared) for David Goffin: bPoints = point: 0; games: 1; sets: 0 
+5/10/2022 14:23:34: [G_Auto 2] :  Store Text Value (Shared) for David Goffin: bServing = serving:2
+5/10/2022 14:23:34: [G_Auto 2] :  Store Value (Shared) for market: price = 1.48
+5/10/2022 14:23:34: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 26.1
+5/10/2022 14:23:34: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 24.07
+5/10/2022 14:23:34: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.17
+5/10/2022 14:23:34: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 50.17
+5/10/2022 14:23:34: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.03
+5/10/2022 14:23:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.5
+5/10/2022 14:23:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3
+5/10/2022 14:24:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 14:25:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 14:25:48: [G_Auto 1] :  1 Automation Signals Cleared
+5/10/2022 14:29:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 14:29:49: [G_Auto 1] :  € 14.29 Lay bet placed on Hubert Hurkacz at 1.56. Fully matched at 1.55.  Ref: 10208          ( Fill or kill bet with 15 seconds delay.   )
+5/10/2022 14:29:50: [G_Auto 2] :  Store Text Value (Shared) for Hubert Hurkacz: aPoints = point: 0; games: 2; sets: 0 
+5/10/2022 14:29:50: [G_Auto 2] :  Store Text Value (Shared) for Hubert Hurkacz: aServing = serving:1
+5/10/2022 14:29:50: [G_Auto 2] :  Store Text Value (Shared) for David Goffin: bPoints = point: 0; games: 2; sets: 0 
+5/10/2022 14:29:50: [G_Auto 2] :  Store Text Value (Shared) for David Goffin: bServing = serving:0
+5/10/2022 14:29:50: [G_Auto 2] :  Store Value (Shared) for market: price = 1.55
+5/10/2022 14:29:50: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 26.1
+5/10/2022 14:29:50: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 38.36
+5/10/2022 14:29:50: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.29
+5/10/2022 14:29:50: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 64.46
+5/10/2022 14:29:50: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.12
+5/10/2022 14:29:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.54
+5/10/2022 14:29:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.8
+5/10/2022 14:29:58: [G_Auto 2] :  Store Text Value (Shared) for Hubert Hurkacz: aPoints = point: 0; games: 2; sets: 0 
+5/10/2022 14:29:58: [G_Auto 2] :  Store Text Value (Shared) for Hubert Hurkacz: aServing = serving:1
+5/10/2022 14:29:58: [G_Auto 2] :  Store Text Value (Shared) for David Goffin: bPoints = point: 0; games: 2; sets: 0 
+5/10/2022 14:29:58: [G_Auto 2] :  Store Text Value (Shared) for David Goffin: bServing = serving:0
+5/10/2022 14:29:58: [G_Auto 2] :  Store Value (Shared) for market: price = 1.55
+5/10/2022 14:29:58: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 26.1
+5/10/2022 14:29:58: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 38.36
+5/10/2022 14:29:58: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.29
+5/10/2022 14:29:58: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 64.46
+5/10/2022 14:29:58: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.12
+5/10/2022 14:29:58: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.54
+5/10/2022 14:29:58: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.82
+5/10/2022 14:30:22: [G_Auto 1] :  1 Automation Signals Cleared
+5/10/2022 14:38:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 14:38:34: [G_Auto 1] :  Placed closure bet with greening on Hubert Hurkacz by Backing 14.57 at 1.52
+5/10/2022 14:38:35: [G_Auto 2] :  Store Text Value (Shared) for Hubert Hurkacz: aPoints = point: 0; games: 3; sets: 0 
+5/10/2022 14:38:35: [G_Auto 2] :  Store Text Value (Shared) for Hubert Hurkacz: aServing = serving:0
+5/10/2022 14:38:35: [G_Auto 2] :  Store Text Value (Shared) for David Goffin: bPoints = point: 0; games: 2; sets: 0 
+5/10/2022 14:38:35: [G_Auto 2] :  Store Text Value (Shared) for David Goffin: bServing = serving:2
+5/10/2022 14:38:35: [G_Auto 2] :  Store Value (Shared) for market: price = 1.52
+5/10/2022 14:38:35: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 40.67
+5/10/2022 14:38:35: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 38.36
+5/10/2022 14:38:35: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.57
+5/10/2022 14:38:35: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 79.03
+5/10/2022 14:38:35: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.31
+5/10/2022 14:38:35: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.53
+5/10/2022 14:38:35: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.92
+5/10/2022 14:38:42: [G_Auto 2] :  Store Text Value (Shared) for Hubert Hurkacz: aPoints = point: 0; games: 3; sets: 0 
+5/10/2022 14:38:42: [G_Auto 2] :  Store Text Value (Shared) for Hubert Hurkacz: aServing = serving:0
+5/10/2022 14:38:42: [G_Auto 2] :  Store Text Value (Shared) for David Goffin: bPoints = point: 0; games: 2; sets: 0 
+5/10/2022 14:38:42: [G_Auto 2] :  Store Text Value (Shared) for David Goffin: bServing = serving:2
+5/10/2022 14:38:42: [G_Auto 2] :  Store Value (Shared) for market: price = 1.52
+5/10/2022 14:38:42: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 40.67
+5/10/2022 14:38:42: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 38.36
+5/10/2022 14:38:42: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.57
+5/10/2022 14:38:42: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 79.03
+5/10/2022 14:38:42: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.31
+5/10/2022 14:38:42: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.53
+5/10/2022 14:38:42: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.88
+5/10/2022 14:39:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 14:40:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 14:41:17: [G_Auto 1] :  1 Automation Signals Cleared
+5/10/2022 14:44:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 14:44:23: [G_Auto 1] :  € 12.50 Lay bet placed on Hubert Hurkacz at 1.64. Fully matched at 1.63.  Ref: 10221          ( Fill or kill bet with 15 seconds delay.   )
+5/10/2022 14:44:24: [G_Auto 2] :  Store Text Value (Shared) for Hubert Hurkacz: aPoints = point: 0; games: 3; sets: 0 
+5/10/2022 14:44:24: [G_Auto 2] :  Store Text Value (Shared) for Hubert Hurkacz: aServing = serving:1
+5/10/2022 14:44:24: [G_Auto 2] :  Store Text Value (Shared) for David Goffin: bPoints = point: 0; games: 3; sets: 0 
+5/10/2022 14:44:24: [G_Auto 2] :  Store Text Value (Shared) for David Goffin: bServing = serving:0
+5/10/2022 14:44:24: [G_Auto 2] :  Store Value (Shared) for market: price = 1.63
+5/10/2022 14:44:24: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 40.67
+5/10/2022 14:44:24: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 50.86
+5/10/2022 14:44:24: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.5
+5/10/2022 14:44:24: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 91.53
+5/10/2022 14:44:24: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.39
+5/10/2022 14:44:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.63
+5/10/2022 14:44:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.6
+5/10/2022 14:44:46: [G_Auto 1] :  1 Automation Signals Cleared
+5/10/2022 14:49:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 14:49:32: [G_Auto 1] :  Placed closure bet with greening on Hubert Hurkacz by Backing 13.32 at 1.53
+5/10/2022 14:49:33: [G_Auto 2] :  Store Text Value (Shared) for Hubert Hurkacz: aPoints = point: 0; games: 4; sets: 0 
+5/10/2022 14:49:33: [G_Auto 2] :  Store Text Value (Shared) for Hubert Hurkacz: aServing = serving:0
+5/10/2022 14:49:33: [G_Auto 2] :  Store Text Value (Shared) for David Goffin: bPoints = point: 0; games: 3; sets: 0 
+5/10/2022 14:49:33: [G_Auto 2] :  Store Text Value (Shared) for David Goffin: bServing = serving:2
+5/10/2022 14:49:33: [G_Auto 2] :  Store Value (Shared) for market: price = 1.53
+5/10/2022 14:49:33: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 53.99
+5/10/2022 14:49:33: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 50.86
+5/10/2022 14:49:33: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.32
+5/10/2022 14:49:33: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 104.85
+5/10/2022 14:49:33: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.12
+5/10/2022 14:49:33: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.55
+5/10/2022 14:49:33: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.8
+5/10/2022 14:49:40: [G_Auto 2] :  Store Text Value (Shared) for Hubert Hurkacz: aPoints = point: 0; games: 4; sets: 0 
+5/10/2022 14:49:40: [G_Auto 2] :  Store Text Value (Shared) for Hubert Hurkacz: aServing = serving:0
+5/10/2022 14:49:40: [G_Auto 2] :  Store Text Value (Shared) for David Goffin: bPoints = point: 0; games: 3; sets: 0 
+5/10/2022 14:49:40: [G_Auto 2] :  Store Text Value (Shared) for David Goffin: bServing = serving:2
+5/10/2022 14:49:40: [G_Auto 2] :  Store Value (Shared) for market: price = 1.53
+5/10/2022 14:49:40: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 53.99
+5/10/2022 14:49:40: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 50.86
+5/10/2022 14:49:40: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.32
+5/10/2022 14:49:40: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 104.85
+5/10/2022 14:49:40: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.12
+5/10/2022 14:49:40: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.55
+5/10/2022 14:49:40: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.8
+5/10/2022 14:50:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 14:51:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 14:52:02: [G_Auto 1] :  1 Automation Signals Cleared
+5/10/2022 14:57:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 14:57:44: [G_Auto 1] :  € 12.31 Lay bet placed on Hubert Hurkacz at 1.65. Fully matched at 1.64.  Ref: 10228          ( Fill or kill bet with 15 seconds delay.   )
+5/10/2022 14:57:44: [G_Auto 2] :  Store Text Value (Shared) for Hubert Hurkacz: aPoints = point: 0; games: 4; sets: 0 
+5/10/2022 14:57:44: [G_Auto 2] :  Store Text Value (Shared) for Hubert Hurkacz: aServing = serving:1
+5/10/2022 14:57:44: [G_Auto 2] :  Store Text Value (Shared) for David Goffin: bPoints = point: 0; games: 4; sets: 0 
+5/10/2022 14:57:44: [G_Auto 2] :  Store Text Value (Shared) for David Goffin: bServing = serving:0
+5/10/2022 14:57:44: [G_Auto 2] :  Store Value (Shared) for market: price = 1.64
+5/10/2022 14:57:44: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 53.99
+5/10/2022 14:57:44: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 63.17
+5/10/2022 14:57:44: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.31
+5/10/2022 14:57:44: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 117.16
+5/10/2022 14:57:44: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.98
+5/10/2022 14:57:44: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.66
+5/10/2022 14:57:44: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.52
+5/10/2022 14:58:23: [G_Auto 1] :  1 Automation Signals Cleared
+5/10/2022 15:00:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 15:00:44: [G_Auto 1] :  Placed closure bet with greening on Hubert Hurkacz by Backing 13.55 at 1.49
+5/10/2022 15:00:45: [G_Auto 2] :  Store Text Value (Shared) for Hubert Hurkacz: aPoints = point: 0; games: 5; sets: 0 
+5/10/2022 15:00:45: [G_Auto 2] :  Store Text Value (Shared) for Hubert Hurkacz: aServing = serving:0
+5/10/2022 15:00:45: [G_Auto 2] :  Store Text Value (Shared) for David Goffin: bPoints = point: 0; games: 4; sets: 0 
+5/10/2022 15:00:45: [G_Auto 2] :  Store Text Value (Shared) for David Goffin: bServing = serving:2
+5/10/2022 15:00:45: [G_Auto 2] :  Store Value (Shared) for market: price = 1.49
+5/10/2022 15:00:45: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 67.54
+5/10/2022 15:00:45: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 63.17
+5/10/2022 15:00:45: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.55
+5/10/2022 15:00:45: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 130.71
+5/10/2022 15:00:45: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.36
+5/10/2022 15:00:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.51
+5/10/2022 15:00:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.98
+5/10/2022 15:01:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 15:02:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 15:03:14: [G_Auto 1] :  1 Automation Signals Cleared
+5/10/2022 15:05:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 15:05:31: [G_Auto 1] :  € 12.31 Lay bet placed on Hubert Hurkacz at 1.65. Fully matched at 1.64.  Ref: 10230          ( Fill or kill bet with 15 seconds delay.   )
+5/10/2022 15:05:31: [G_Auto 2] :  Store Text Value (Shared) for Hubert Hurkacz: aPoints = point: 0; games: 5; sets: 0 
+5/10/2022 15:05:31: [G_Auto 2] :  Store Text Value (Shared) for Hubert Hurkacz: aServing = serving:1
+5/10/2022 15:05:31: [G_Auto 2] :  Store Text Value (Shared) for David Goffin: bPoints = point: 0; games: 5; sets: 0 
+5/10/2022 15:05:31: [G_Auto 2] :  Store Text Value (Shared) for David Goffin: bServing = serving:0
+5/10/2022 15:05:31: [G_Auto 2] :  Store Value (Shared) for market: price = 1.64
+5/10/2022 15:05:31: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 67.54
+5/10/2022 15:05:31: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 75.48
+5/10/2022 15:05:31: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.31
+5/10/2022 15:05:31: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 143.02
+5/10/2022 15:05:31: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.44
+5/10/2022 15:05:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.63
+5/10/2022 15:05:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.56
+5/10/2022 15:05:56: [G_Auto 1] :  1 Automation Signals Cleared
+5/10/2022 15:07:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 15:08:03: [G_Auto 1] :  Placed closure bet with greening on Hubert Hurkacz by Backing 13.28 at 1.52
+5/10/2022 15:08:03: [G_Auto 2] :  Store Text Value (Shared) for Hubert Hurkacz: aPoints = point: 0; games: 6; sets: 0 
+5/10/2022 15:08:03: [G_Auto 2] :  Store Text Value (Shared) for Hubert Hurkacz: aServing = serving:0
+5/10/2022 15:08:03: [G_Auto 2] :  Store Text Value (Shared) for David Goffin: bPoints = point: 0; games: 5; sets: 0 
+5/10/2022 15:08:03: [G_Auto 2] :  Store Text Value (Shared) for David Goffin: bServing = serving:2
+5/10/2022 15:08:03: [G_Auto 2] :  Store Value (Shared) for market: price = 1.52
+5/10/2022 15:08:03: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 80.82
+5/10/2022 15:08:03: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 75.48
+5/10/2022 15:08:03: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.28
+5/10/2022 15:08:03: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 156.3
+5/10/2022 15:08:03: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.34
+5/10/2022 15:08:03: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.52
+5/10/2022 15:08:03: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.92
+5/10/2022 15:08:10: [G_Auto 2] :  Store Text Value (Shared) for Hubert Hurkacz: aPoints = point: 0; games: 6; sets: 0 
+5/10/2022 15:08:10: [G_Auto 2] :  Store Text Value (Shared) for Hubert Hurkacz: aServing = serving:0
+5/10/2022 15:08:10: [G_Auto 2] :  Store Text Value (Shared) for David Goffin: bPoints = point: 0; games: 5; sets: 0 
+5/10/2022 15:08:10: [G_Auto 2] :  Store Text Value (Shared) for David Goffin: bServing = serving:2
+5/10/2022 15:08:10: [G_Auto 2] :  Store Value (Shared) for market: price = 1.52
+5/10/2022 15:08:10: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 80.82
+5/10/2022 15:08:10: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 75.48
+5/10/2022 15:08:10: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.28
+5/10/2022 15:08:10: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 156.3
+5/10/2022 15:08:10: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.34
+5/10/2022 15:08:10: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.53
+5/10/2022 15:08:10: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.9
+5/10/2022 15:08:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 15:09:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 15:10:16: [G_Auto 1] :  1 Automation Signals Cleared
+5/10/2022 15:16:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 15:32:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 15:32:58: [G_Auto 1] :  Store Value (Shared) for Hubert Hurkacz: PRICE SET 2 = 2.76
+5/10/2022 15:32:58: [G_Auto 1] :  Alert: STORE PRICE AT SET 2 [ Hubert Hurkacz ]
+5/10/2022 15:32:58: [G_Auto 1] :  Automation Signal for market: VALID = 1
+5/10/2022 15:32:58: [G_Auto 1] :  Store Value (Shared) for David Goffin: PRICE SET 2 = 1.57
+5/10/2022 15:32:58: [G_Auto 1] :  Alert: STORE PRICE AT SET 2 [ David Goffin ]
+5/10/2022 15:32:58: [G_Auto 1] :  Automation Signal for market: VALID = 1
+5/10/2022 15:32:58: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 2.76
+5/10/2022 15:32:58: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 1.57
+5/10/2022 15:33:01: [G_Auto 1] :  € 13.79 Lay bet placed on David Goffin at 1.58. Fully matched at 1.57.  Ref: 10246          ( Fill or kill bet with 15 seconds delay.   )
+5/10/2022 15:33:01: [G_Auto 2] :  Store Text Value (Shared) for Hubert Hurkacz: aPoints = point: 0; games: 0; sets: 0 
+5/10/2022 15:33:01: [G_Auto 2] :  Store Text Value (Shared) for Hubert Hurkacz: aServing = serving:0
+5/10/2022 15:33:01: [G_Auto 2] :  Store Text Value (Shared) for David Goffin: bPoints = point: 0; games: 0; sets: 1 
+5/10/2022 15:33:01: [G_Auto 2] :  Store Text Value (Shared) for David Goffin: bServing = serving:2
+5/10/2022 15:33:01: [G_Auto 2] :  Store Value (Shared) for market: price = 1.57
+5/10/2022 15:33:01: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 80.82
+5/10/2022 15:33:01: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 89.27
+5/10/2022 15:33:01: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.79
+5/10/2022 15:33:01: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 170.09
+5/10/2022 15:33:01: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.43
+5/10/2022 15:33:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.76
+5/10/2022 15:33:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.57
+5/10/2022 15:33:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 15:34:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 15:35:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 15:36:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 15:37:08: [G_Auto 1] :  2 Automation Signals Cleared
+5/10/2022 15:39:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 15:39:28: [G_Auto 1] :  Placed closure bet with greening on David Goffin by Backing 14.34 at 1.51
+5/10/2022 15:39:28: [G_Auto 2] :  Store Text Value (Shared) for Hubert Hurkacz: aPoints = point: 0; games: 0; sets: 0 
+5/10/2022 15:39:28: [G_Auto 2] :  Store Text Value (Shared) for Hubert Hurkacz: aServing = serving:1
+5/10/2022 15:39:28: [G_Auto 2] :  Store Text Value (Shared) for David Goffin: bPoints = point: 0; games: 1; sets: 1 
+5/10/2022 15:39:28: [G_Auto 2] :  Store Text Value (Shared) for David Goffin: bServing = serving:0
+5/10/2022 15:39:28: [G_Auto 2] :  Store Value (Shared) for market: price = 1.51
+5/10/2022 15:39:28: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 95.16
+5/10/2022 15:39:28: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 89.27
+5/10/2022 15:39:28: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.34
+5/10/2022 15:39:28: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 184.43
+5/10/2022 15:39:28: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.89
+5/10/2022 15:39:28: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.96
+5/10/2022 15:39:28: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.52
+5/10/2022 15:40:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 15:40:27: [G_Auto 1] :  1 Automation Signals Cleared
+5/10/2022 15:41:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 15:41:57: [G_Auto 1] :  € 12.31 Lay bet placed on David Goffin at 1.65. Fully matched at 1.64.  Ref: 10256          ( Fill or kill bet with 15 seconds delay.   )
+5/10/2022 15:41:58: [G_Auto 2] :  Store Text Value (Shared) for Hubert Hurkacz: aPoints = point: 0; games: 1; sets: 0 
+5/10/2022 15:41:58: [G_Auto 2] :  Store Text Value (Shared) for Hubert Hurkacz: aServing = serving:0
+5/10/2022 15:41:58: [G_Auto 2] :  Store Text Value (Shared) for David Goffin: bPoints = point: 0; games: 1; sets: 1 
+5/10/2022 15:41:58: [G_Auto 2] :  Store Text Value (Shared) for David Goffin: bServing = serving:2
+5/10/2022 15:41:58: [G_Auto 2] :  Store Value (Shared) for market: price = 1.64
+5/10/2022 15:41:58: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 95.16
+5/10/2022 15:41:58: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 101.58
+5/10/2022 15:41:58: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.31
+5/10/2022 15:41:58: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 196.74
+5/10/2022 15:41:58: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.96
+5/10/2022 15:41:58: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.6
+5/10/2022 15:41:58: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.64
+5/10/2022 15:42:34: [G_Auto 1] :  1 Automation Signals Cleared
+5/10/2022 15:44:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 15:44:44: [G_Auto 1] :  Placed closure bet with greening on David Goffin by Backing 13.46 at 1.5
+5/10/2022 15:44:44: [G_Auto 2] :  Store Text Value (Shared) for Hubert Hurkacz: aPoints = point: 0; games: 1; sets: 0 
+5/10/2022 15:44:44: [G_Auto 2] :  Store Text Value (Shared) for Hubert Hurkacz: aServing = serving:1
+5/10/2022 15:44:44: [G_Auto 2] :  Store Text Value (Shared) for David Goffin: bPoints = point: 0; games: 2; sets: 1 
+5/10/2022 15:44:44: [G_Auto 2] :  Store Text Value (Shared) for David Goffin: bServing = serving:0
+5/10/2022 15:44:44: [G_Auto 2] :  Store Value (Shared) for market: price = 1.5
+5/10/2022 15:44:44: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 108.62
+5/10/2022 15:44:44: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 101.58
+5/10/2022 15:44:44: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.46
+5/10/2022 15:44:44: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 210.2
+5/10/2022 15:44:44: [G_Auto 2] :  Store Value (Shared) for market: pl = -7.04
+5/10/2022 15:44:44: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.96
+5/10/2022 15:44:44: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.51
+5/10/2022 15:44:51: [G_Auto 2] :  Store Text Value (Shared) for Hubert Hurkacz: aPoints = point: 0; games: 1; sets: 0 
+5/10/2022 15:44:51: [G_Auto 2] :  Store Text Value (Shared) for Hubert Hurkacz: aServing = serving:1
+5/10/2022 15:44:51: [G_Auto 2] :  Store Text Value (Shared) for David Goffin: bPoints = point: 0; games: 2; sets: 1 
+5/10/2022 15:44:51: [G_Auto 2] :  Store Text Value (Shared) for David Goffin: bServing = serving:0
+5/10/2022 15:44:51: [G_Auto 2] :  Store Value (Shared) for market: price = 1.5
+5/10/2022 15:44:51: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 108.62
+5/10/2022 15:44:51: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 101.58
+5/10/2022 15:44:51: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.46
+5/10/2022 15:44:51: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 210.2
+5/10/2022 15:44:51: [G_Auto 2] :  Store Value (Shared) for market: pl = -7.04
+5/10/2022 15:44:51: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.96
+5/10/2022 15:44:51: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.51
+5/10/2022 15:45:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 15:46:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 15:46:39: [G_Auto 1] :  1 Automation Signals Cleared
+5/10/2022 15:50:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 15:51:08: [G_Auto 1] :  € 14.04 Lay bet placed on David Goffin at 1.57. Fully matched at 1.56.  Ref: 10263          ( Fill or kill bet with 15 seconds delay.   )
+5/10/2022 15:51:08: [G_Auto 2] :  Store Text Value (Shared) for Hubert Hurkacz: aPoints = point: 0; games: 2; sets: 0 
+5/10/2022 15:51:08: [G_Auto 2] :  Store Text Value (Shared) for Hubert Hurkacz: aServing = serving:0
+5/10/2022 15:51:08: [G_Auto 2] :  Store Text Value (Shared) for David Goffin: bPoints = point: 0; games: 2; sets: 1 
+5/10/2022 15:51:08: [G_Auto 2] :  Store Text Value (Shared) for David Goffin: bServing = serving:2
+5/10/2022 15:51:08: [G_Auto 2] :  Store Value (Shared) for market: price = 1.56
+5/10/2022 15:51:08: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 108.62
+5/10/2022 15:51:08: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 115.62
+5/10/2022 15:51:08: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.04
+5/10/2022 15:51:08: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 224.24
+5/10/2022 15:51:08: [G_Auto 2] :  Store Value (Shared) for market: pl = -7.12
+5/10/2022 15:51:08: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.82
+5/10/2022 15:51:08: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.55
+5/10/2022 15:51:38: [G_Auto 1] :  1 Automation Signals Cleared
+5/10/2022 15:53:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 15:53:56: [G_Auto 1] :  Placed closure bet with greening on David Goffin by Backing 15.10 at 1.45
+5/10/2022 15:53:56: [G_Auto 2] :  Store Text Value (Shared) for Hubert Hurkacz: aPoints = point: 0; games: 2; sets: 0 
+5/10/2022 15:53:56: [G_Auto 2] :  Store Text Value (Shared) for Hubert Hurkacz: aServing = serving:1
+5/10/2022 15:53:56: [G_Auto 2] :  Store Text Value (Shared) for David Goffin: bPoints = point: 0; games: 3; sets: 1 
+5/10/2022 15:53:56: [G_Auto 2] :  Store Text Value (Shared) for David Goffin: bServing = serving:0
+5/10/2022 15:53:56: [G_Auto 2] :  Store Value (Shared) for market: price = 1.45
+5/10/2022 15:53:56: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 123.72
+5/10/2022 15:53:56: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 115.62
+5/10/2022 15:53:56: [G_Auto 2] :  Store Value (Shared) for market: stake = 15.1
+5/10/2022 15:53:56: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 239.34
+5/10/2022 15:53:56: [G_Auto 2] :  Store Value (Shared) for market: pl = -8.1
+5/10/2022 15:53:56: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.2
+5/10/2022 15:53:56: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.45
+5/10/2022 15:54:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 15:55:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 15:55:50: [G_Auto 1] :  1 Automation Signals Cleared
+5/10/2022 15:58:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 15:58:22: [G_Auto 1] :  € 15.09 Lay bet placed on David Goffin at 1.53. Fully matched at 1.52.  Ref: 10269          ( Fill or kill bet with 15 seconds delay.   )
+5/10/2022 15:58:25: [G_Auto 2] :  Store Text Value (Shared) for Hubert Hurkacz: aPoints = point: 0; games: 3; sets: 0 
+5/10/2022 15:58:25: [G_Auto 2] :  Store Text Value (Shared) for Hubert Hurkacz: aServing = serving:0
+5/10/2022 15:58:25: [G_Auto 2] :  Store Text Value (Shared) for David Goffin: bPoints = point: 0; games: 3; sets: 1 
+5/10/2022 15:58:25: [G_Auto 2] :  Store Text Value (Shared) for David Goffin: bServing = serving:2
+5/10/2022 15:58:25: [G_Auto 2] :  Store Value (Shared) for market: price = 1.52
+5/10/2022 15:58:25: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 123.72
+5/10/2022 15:58:25: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 130.71
+5/10/2022 15:58:25: [G_Auto 2] :  Store Value (Shared) for market: stake = 15.09
+5/10/2022 15:58:25: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 254.43
+5/10/2022 15:58:25: [G_Auto 2] :  Store Value (Shared) for market: pl = -8.2
+5/10/2022 15:58:25: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.98
+5/10/2022 15:58:25: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.51
+5/10/2022 15:58:31: [G_Auto 2] :  Store Text Value (Shared) for Hubert Hurkacz: aPoints = point: 0; games: 3; sets: 0 
+5/10/2022 15:58:31: [G_Auto 2] :  Store Text Value (Shared) for Hubert Hurkacz: aServing = serving:0
+5/10/2022 15:58:31: [G_Auto 2] :  Store Text Value (Shared) for David Goffin: bPoints = point: 0; games: 3; sets: 1 
+5/10/2022 15:58:31: [G_Auto 2] :  Store Text Value (Shared) for David Goffin: bServing = serving:2
+5/10/2022 15:58:31: [G_Auto 2] :  Store Value (Shared) for market: price = 1.52
+5/10/2022 15:58:31: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 123.72
+5/10/2022 15:58:31: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 130.71
+5/10/2022 15:58:31: [G_Auto 2] :  Store Value (Shared) for market: stake = 15.09
+5/10/2022 15:58:31: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 254.43
+5/10/2022 15:58:31: [G_Auto 2] :  Store Value (Shared) for market: pl = -8.3
+5/10/2022 15:58:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.98
+5/10/2022 15:58:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.5
+5/10/2022 15:58:53: [G_Auto 1] :  1 Automation Signals Cleared
+5/10/2022 16:00:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 16:00:54: [G_Auto 1] :  Placed closure bet with greening on David Goffin by Backing 16.62 at 1.38
+5/10/2022 16:00:58: [G_Auto 2] :  Store Text Value (Shared) for Hubert Hurkacz: aPoints = point: 0; games: 3; sets: 0 
+5/10/2022 16:00:58: [G_Auto 2] :  Store Text Value (Shared) for Hubert Hurkacz: aServing = serving:1
+5/10/2022 16:00:58: [G_Auto 2] :  Store Text Value (Shared) for David Goffin: bPoints = point: 0; games: 4; sets: 1 
+5/10/2022 16:00:58: [G_Auto 2] :  Store Text Value (Shared) for David Goffin: bServing = serving:0
+5/10/2022 16:00:58: [G_Auto 2] :  Store Value (Shared) for market: price = 1.38
+5/10/2022 16:00:58: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 140.34
+5/10/2022 16:00:58: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 130.71
+5/10/2022 16:00:58: [G_Auto 2] :  Store Value (Shared) for market: stake = 16.62
+5/10/2022 16:00:58: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 271.05
+5/10/2022 16:00:58: [G_Auto 2] :  Store Value (Shared) for market: pl = -9.63
+5/10/2022 16:00:58: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.55
+5/10/2022 16:00:58: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.39
+5/10/2022 16:01:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 16:02:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 16:03:04: [G_Auto 1] :  1 Automation Signals Cleared
+5/10/2022 16:05:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 16:06:26: [G_Auto 1] :  1 Automation Signals Cleared
+5/10/2022 16:10:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 16:11:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 16:12:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 16:12:42: [G_Auto 1] :  1 Automation Signals Cleared
+5/10/2022 16:18:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 16:18:47: [G_Auto 1] :  € 15.38 Lay bet placed on David Goffin at 1.52. Fully matched at 1.51.  Ref: 10278          ( Fill or kill bet with 15 seconds delay.   )
+5/10/2022 16:18:50: [G_Auto 2] :  Store Text Value (Shared) for Hubert Hurkacz: aPoints = point: 0; games: 5; sets: 0 
+5/10/2022 16:18:50: [G_Auto 2] :  Store Text Value (Shared) for Hubert Hurkacz: aServing = serving:0
+5/10/2022 16:18:50: [G_Auto 2] :  Store Text Value (Shared) for David Goffin: bPoints = point: 0; games: 5; sets: 1 
+5/10/2022 16:18:50: [G_Auto 2] :  Store Text Value (Shared) for David Goffin: bServing = serving:2
+5/10/2022 16:18:50: [G_Auto 2] :  Store Value (Shared) for market: price = 1.51
+5/10/2022 16:18:50: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 140.34
+5/10/2022 16:18:50: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 146.09
+5/10/2022 16:18:50: [G_Auto 2] :  Store Value (Shared) for market: stake = 15.38
+5/10/2022 16:18:50: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 286.43
+5/10/2022 16:18:50: [G_Auto 2] :  Store Value (Shared) for market: pl = -9.84
+5/10/2022 16:18:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3
+5/10/2022 16:18:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.5
+5/10/2022 16:19:25: [G_Auto 1] :  1 Automation Signals Cleared
+5/10/2022 16:24:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 16:25:02: [G_Auto 1] :  Placed closure bet with greening on David Goffin by Backing 16.95 at 1.37
+5/10/2022 16:25:04: [G_Auto 2] :  Store Text Value (Shared) for Hubert Hurkacz: aPoints = point: 0; games: 5; sets: 0 
+5/10/2022 16:25:04: [G_Auto 2] :  Store Text Value (Shared) for Hubert Hurkacz: aServing = serving:1
+5/10/2022 16:25:04: [G_Auto 2] :  Store Text Value (Shared) for David Goffin: bPoints = point: 0; games: 6; sets: 1 
+5/10/2022 16:25:04: [G_Auto 2] :  Store Text Value (Shared) for David Goffin: bServing = serving:0
+5/10/2022 16:25:04: [G_Auto 2] :  Store Value (Shared) for market: price = 1.37
+5/10/2022 16:25:04: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 157.29
+5/10/2022 16:25:04: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 146.09
+5/10/2022 16:25:04: [G_Auto 2] :  Store Value (Shared) for market: stake = 16.95
+5/10/2022 16:25:04: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 303.38
+5/10/2022 16:25:04: [G_Auto 2] :  Store Value (Shared) for market: pl = -11.2
+5/10/2022 16:25:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.6
+5/10/2022 16:25:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.38
+5/10/2022 16:25:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 16:26:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 16:27:01: [G_Auto 1] :  1 Automation Signals Cleared
+5/10/2022 16:30:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 16:30:17: [G_Auto 1] :  € 15.69 Lay bet placed on David Goffin at 1.51. Fully matched at 1.5.  Ref: 10285          ( Fill or kill bet with 15 seconds delay.   )
+5/10/2022 16:30:19: [G_Auto 2] :  Store Text Value (Shared) for Hubert Hurkacz: aPoints = point: 0; games: 6; sets: 0 
+5/10/2022 16:30:19: [G_Auto 2] :  Store Text Value (Shared) for Hubert Hurkacz: aServing = serving:0
+5/10/2022 16:30:19: [G_Auto 2] :  Store Text Value (Shared) for David Goffin: bPoints = point: 0; games: 6; sets: 1 
+5/10/2022 16:30:19: [G_Auto 2] :  Store Text Value (Shared) for David Goffin: bServing = serving:2
+5/10/2022 16:30:19: [G_Auto 2] :  Store Value (Shared) for market: price = 1.5
+5/10/2022 16:30:19: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 157.29
+5/10/2022 16:30:19: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 161.78
+5/10/2022 16:30:19: [G_Auto 2] :  Store Value (Shared) for market: stake = 15.69
+5/10/2022 16:30:19: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 319.07
+5/10/2022 16:30:19: [G_Auto 2] :  Store Value (Shared) for market: pl = -11.31
+5/10/2022 16:30:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3
+5/10/2022 16:30:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.5
+5/10/2022 16:31:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 16:37:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 16:37:27:  Guardian has detected that the market is suspended
