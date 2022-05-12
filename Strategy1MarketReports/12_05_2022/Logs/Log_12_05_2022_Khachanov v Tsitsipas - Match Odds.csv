@@ -1,0 +1,522 @@
+5/12/2022 10:05:39: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: info = marketName: Khachanov v Tsitsipas - Match Odds; runnerA: Karen Khachanov; runnerB: Stefanos Tsitsipas 
+5/12/2022 10:05:39: [G_Auto 2] :  Store Value (Shared) for market: aId = 7659623
+5/12/2022 10:05:39: [G_Auto 2] :  Store Value (Shared) for market: bId = 9193006
+5/12/2022 12:39:10:  Guardian has detected that the market is in-play
+5/12/2022 12:39:10:  Guardian has detected that the market is suspended
+5/12/2022 12:39:13: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 5.5; bBsp: 1.22; volume: 64408.75 
+5/12/2022 12:39:13: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 5.5; bBsp: 1.22; volume: 64408.75 
+5/12/2022 12:39:13:  Guardian has detected that the market is now unsuspended
+5/12/2022 12:39:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 12:39:29: [G_Auto 1] :  € 33.33 Lay bet placed on Stefanos Tsitsipas at 1.24. Fully matched at 1.23.  Ref: 10033          ( Fill or kill bet with 15 seconds delay.   )
+5/12/2022 12:39:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 12:39:32: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aPoints = point: 15; games: 0; sets: 0 
+5/12/2022 12:39:32: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aServing = serving:0
+5/12/2022 12:39:32: [G_Auto 2] :  Store Text Value (Shared) for Stefanos Tsitsipas: bPoints = point: 0; games: 0; sets: 0 
+5/12/2022 12:39:32: [G_Auto 2] :  Store Text Value (Shared) for Stefanos Tsitsipas: bServing = serving:2
+5/12/2022 12:39:32: [G_Auto 2] :  Store Value (Shared) for market: price = 1.23
+5/12/2022 12:39:32: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+5/12/2022 12:39:32: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 33.33
+5/12/2022 12:39:32: [G_Auto 2] :  Store Value (Shared) for market: stake = 33.33
+5/12/2022 12:39:32: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 33.33
+5/12/2022 12:39:32: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.27
+5/12/2022 12:39:32: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 5.1
+5/12/2022 12:39:32: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.24
+5/12/2022 12:39:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 12:42:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 12:42:40: [G_Auto 1] :  Placed closure bet with greening on Stefanos Tsitsipas by Backing 28.27 at 1.45
+5/12/2022 12:42:40: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aPoints = point: 0; games: 1; sets: 0 
+5/12/2022 12:42:40: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aServing = serving:1
+5/12/2022 12:42:40: [G_Auto 2] :  Store Text Value (Shared) for Stefanos Tsitsipas: bPoints = point: 0; games: 0; sets: 0 
+5/12/2022 12:42:40: [G_Auto 2] :  Store Text Value (Shared) for Stefanos Tsitsipas: bServing = serving:0
+5/12/2022 12:42:40: [G_Auto 2] :  Store Value (Shared) for market: price = 1.45
+5/12/2022 12:42:40: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 28.27
+5/12/2022 12:42:40: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 33.33
+5/12/2022 12:42:40: [G_Auto 2] :  Store Value (Shared) for market: stake = 28.27
+5/12/2022 12:42:40: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 61.6
+5/12/2022 12:42:40: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.96
+5/12/2022 12:42:40: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.2
+5/12/2022 12:42:40: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.46
+5/12/2022 12:42:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 12:42:46: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aPoints = point: 0; games: 1; sets: 0 
+5/12/2022 12:42:46: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aServing = serving:1
+5/12/2022 12:42:46: [G_Auto 2] :  Store Text Value (Shared) for Stefanos Tsitsipas: bPoints = point: 0; games: 0; sets: 0 
+5/12/2022 12:42:46: [G_Auto 2] :  Store Text Value (Shared) for Stefanos Tsitsipas: bServing = serving:0
+5/12/2022 12:42:46: [G_Auto 2] :  Store Value (Shared) for market: price = 1.45
+5/12/2022 12:42:46: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 28.27
+5/12/2022 12:42:46: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 33.33
+5/12/2022 12:42:46: [G_Auto 2] :  Store Value (Shared) for market: stake = 28.27
+5/12/2022 12:42:46: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 61.6
+5/12/2022 12:42:46: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.96
+5/12/2022 12:42:46: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.15
+5/12/2022 12:42:46: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.46
+5/12/2022 12:42:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 12:43:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 12:43:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 12:43:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 12:43:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 12:44:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 12:45:03: [G_Auto 1] :  € 13.33 Lay bet placed on Stefanos Tsitsipas at 1.6. Fully matched at 1.6.  Ref: 10039          ( Fill or kill bet with 15 seconds delay.   )
+5/12/2022 12:45:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 12:45:06: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aPoints = point: 0; games: 2; sets: 0 
+5/12/2022 12:45:06: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aServing = serving:0
+5/12/2022 12:45:06: [G_Auto 2] :  Store Text Value (Shared) for Stefanos Tsitsipas: bPoints = point: 0; games: 0; sets: 0 
+5/12/2022 12:45:06: [G_Auto 2] :  Store Text Value (Shared) for Stefanos Tsitsipas: bServing = serving:2
+5/12/2022 12:45:06: [G_Auto 2] :  Store Value (Shared) for market: price = 1.6
+5/12/2022 12:45:06: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 28.27
+5/12/2022 12:45:06: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 46.66
+5/12/2022 12:45:06: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.33
+5/12/2022 12:45:06: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 74.93
+5/12/2022 12:45:06: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.87
+5/12/2022 12:45:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.72
+5/12/2022 12:45:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.59
+5/12/2022 12:45:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 12:45:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 12:45:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 12:46:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 12:46:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 12:48:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 12:48:40: [G_Auto 1] :  Placed closure bet with greening on Stefanos Tsitsipas by Backing 13.85 at 1.54
+5/12/2022 12:48:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 12:48:44: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aPoints = point: 0; games: 2; sets: 0 
+5/12/2022 12:48:44: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aServing = serving:1
+5/12/2022 12:48:44: [G_Auto 2] :  Store Text Value (Shared) for Stefanos Tsitsipas: bPoints = point: 0; games: 1; sets: 0 
+5/12/2022 12:48:44: [G_Auto 2] :  Store Text Value (Shared) for Stefanos Tsitsipas: bServing = serving:0
+5/12/2022 12:48:44: [G_Auto 2] :  Store Value (Shared) for market: price = 1.54
+5/12/2022 12:48:44: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 42.12
+5/12/2022 12:48:44: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 46.66
+5/12/2022 12:48:44: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.85
+5/12/2022 12:48:44: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 88.78
+5/12/2022 12:48:44: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.45
+5/12/2022 12:48:44: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.84
+5/12/2022 12:48:44: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.55
+5/12/2022 12:48:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 12:49:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 12:49:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 12:49:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 12:50:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 12:50:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 12:50:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 12:50:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 12:51:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 12:51:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 12:55:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 12:55:29: [G_Auto 1] :  € 12.12 Lay bet placed on Stefanos Tsitsipas at 1.66. Fully matched at 1.65.  Ref: 10043          ( Fill or kill bet with 15 seconds delay.   )
+5/12/2022 12:55:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 12:55:32: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aPoints = point: 0; games: 3; sets: 0 
+5/12/2022 12:55:32: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aServing = serving:0
+5/12/2022 12:55:32: [G_Auto 2] :  Store Text Value (Shared) for Stefanos Tsitsipas: bPoints = point: 0; games: 1; sets: 0 
+5/12/2022 12:55:32: [G_Auto 2] :  Store Text Value (Shared) for Stefanos Tsitsipas: bServing = serving:2
+5/12/2022 12:55:32: [G_Auto 2] :  Store Value (Shared) for market: price = 1.65
+5/12/2022 12:55:32: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 42.12
+5/12/2022 12:55:32: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 58.78
+5/12/2022 12:55:32: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.12
+5/12/2022 12:55:32: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 100.9
+5/12/2022 12:55:32: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.37
+5/12/2022 12:55:32: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.58
+5/12/2022 12:55:32: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.64
+5/12/2022 12:55:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 12:56:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 12:56:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 12:56:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 12:58:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 12:58:42: [G_Auto 1] :  Placed closure bet with greening on Stefanos Tsitsipas by Backing 12.74 at 1.57
+5/12/2022 12:58:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 12:58:45: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aPoints = point: 0; games: 3; sets: 0 
+5/12/2022 12:58:45: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aServing = serving:1
+5/12/2022 12:58:45: [G_Auto 2] :  Store Text Value (Shared) for Stefanos Tsitsipas: bPoints = point: 0; games: 2; sets: 0 
+5/12/2022 12:58:45: [G_Auto 2] :  Store Text Value (Shared) for Stefanos Tsitsipas: bServing = serving:0
+5/12/2022 12:58:45: [G_Auto 2] :  Store Value (Shared) for market: price = 1.57
+5/12/2022 12:58:45: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 54.86
+5/12/2022 12:58:45: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 58.78
+5/12/2022 12:58:45: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.74
+5/12/2022 12:58:45: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 113.64
+5/12/2022 12:58:45: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.84
+5/12/2022 12:58:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.72
+5/12/2022 12:58:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.57
+5/12/2022 12:59:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 12:59:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 12:59:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 12:59:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:00:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:00:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:00:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:00:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:01:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 13:01:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 13:03:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:03:34: [G_Auto 1] :  € 29.63 Lay bet placed on Stefanos Tsitsipas at 1.27. Fully matched at 1.27.  Ref: 10047          ( Fill or kill bet with 15 seconds delay.   )
+5/12/2022 13:03:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:03:37: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aPoints = point: 0; games: 3; sets: 0 
+5/12/2022 13:03:37: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aServing = serving:0
+5/12/2022 13:03:37: [G_Auto 2] :  Store Text Value (Shared) for Stefanos Tsitsipas: bPoints = point: 0; games: 3; sets: 0 
+5/12/2022 13:03:37: [G_Auto 2] :  Store Text Value (Shared) for Stefanos Tsitsipas: bServing = serving:2
+5/12/2022 13:03:37: [G_Auto 2] :  Store Value (Shared) for market: price = 1.27
+5/12/2022 13:03:37: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 54.86
+5/12/2022 13:03:37: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 88.41
+5/12/2022 13:03:37: [G_Auto 2] :  Store Value (Shared) for market: stake = 29.63
+5/12/2022 13:03:37: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 143.27
+5/12/2022 13:03:37: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.38
+5/12/2022 13:03:37: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.8
+5/12/2022 13:03:37: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.27
+5/12/2022 13:03:43: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aPoints = point: 0; games: 3; sets: 0 
+5/12/2022 13:03:43: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aServing = serving:0
+5/12/2022 13:03:43: [G_Auto 2] :  Store Text Value (Shared) for Stefanos Tsitsipas: bPoints = point: 0; games: 3; sets: 0 
+5/12/2022 13:03:43: [G_Auto 2] :  Store Text Value (Shared) for Stefanos Tsitsipas: bServing = serving:2
+5/12/2022 13:03:43: [G_Auto 2] :  Store Value (Shared) for market: price = 1.27
+5/12/2022 13:03:43: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 54.86
+5/12/2022 13:03:43: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 88.41
+5/12/2022 13:03:43: [G_Auto 2] :  Store Value (Shared) for market: stake = 29.63
+5/12/2022 13:03:43: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 143.27
+5/12/2022 13:03:43: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.62
+5/12/2022 13:03:43: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.9
+5/12/2022 13:03:43: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.27
+5/12/2022 13:03:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:04:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:04:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 13:04:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 13:04:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 13:05:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 13:06:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:06:51: [G_Auto 1] :  Placed closure bet with greening on Stefanos Tsitsipas by Backing 31.36 at 1.2
+5/12/2022 13:06:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:06:54: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aPoints = point: 0; games: 3; sets: 0 
+5/12/2022 13:06:54: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aServing = serving:1
+5/12/2022 13:06:54: [G_Auto 2] :  Store Text Value (Shared) for Stefanos Tsitsipas: bPoints = point: 0; games: 4; sets: 0 
+5/12/2022 13:06:54: [G_Auto 2] :  Store Text Value (Shared) for Stefanos Tsitsipas: bServing = serving:0
+5/12/2022 13:06:54: [G_Auto 2] :  Store Value (Shared) for market: price = 1.2
+5/12/2022 13:06:54: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 86.22
+5/12/2022 13:06:54: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 88.41
+5/12/2022 13:06:54: [G_Auto 2] :  Store Value (Shared) for market: stake = 31.36
+5/12/2022 13:06:54: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 174.63
+5/12/2022 13:06:54: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.15
+5/12/2022 13:06:54: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 5.8
+5/12/2022 13:06:54: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.21
+5/12/2022 13:07:00: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aPoints = point: 0; games: 3; sets: 0 
+5/12/2022 13:07:00: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aServing = serving:1
+5/12/2022 13:07:00: [G_Auto 2] :  Store Text Value (Shared) for Stefanos Tsitsipas: bPoints = point: 0; games: 4; sets: 0 
+5/12/2022 13:07:00: [G_Auto 2] :  Store Text Value (Shared) for Stefanos Tsitsipas: bServing = serving:0
+5/12/2022 13:07:00: [G_Auto 2] :  Store Value (Shared) for market: price = 1.2
+5/12/2022 13:07:00: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 86.22
+5/12/2022 13:07:00: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 88.41
+5/12/2022 13:07:00: [G_Auto 2] :  Store Value (Shared) for market: stake = 31.36
+5/12/2022 13:07:00: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 174.63
+5/12/2022 13:07:00: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.15
+5/12/2022 13:07:00: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 5.8
+5/12/2022 13:07:00: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.21
+5/12/2022 13:07:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:07:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:07:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:08:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:08:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:08:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:08:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:09:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:09:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 13:09:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 13:09:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 13:12:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:12:31: [G_Auto 1] :  € 30.77 Lay bet placed on Stefanos Tsitsipas at 1.26. Fully matched at 1.25.  Ref: 10052          ( Fill or kill bet with 15 seconds delay.   )
+5/12/2022 13:12:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:12:34: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aPoints = point: 0; games: 4; sets: 0 
+5/12/2022 13:12:34: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aServing = serving:0
+5/12/2022 13:12:34: [G_Auto 2] :  Store Text Value (Shared) for Stefanos Tsitsipas: bPoints = point: 0; games: 4; sets: 0 
+5/12/2022 13:12:34: [G_Auto 2] :  Store Text Value (Shared) for Stefanos Tsitsipas: bServing = serving:2
+5/12/2022 13:12:34: [G_Auto 2] :  Store Value (Shared) for market: price = 1.25
+5/12/2022 13:12:34: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 86.22
+5/12/2022 13:12:34: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 119.18
+5/12/2022 13:12:34: [G_Auto 2] :  Store Value (Shared) for market: stake = 30.77
+5/12/2022 13:12:34: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 205.4
+5/12/2022 13:12:34: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.9
+5/12/2022 13:12:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 5.2
+5/12/2022 13:12:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.24
+5/12/2022 13:12:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:13:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:13:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 13:13:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 13:13:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 13:19:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:19:35: [G_Auto 1] :  Placed closure bet with greening on Stefanos Tsitsipas by Backing 22.10 at 1.74
+5/12/2022 13:19:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:19:38: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aPoints = point: 0; games: 5; sets: 0 
+5/12/2022 13:19:38: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aServing = serving:1
+5/12/2022 13:19:38: [G_Auto 2] :  Store Text Value (Shared) for Stefanos Tsitsipas: bPoints = point: 0; games: 4; sets: 0 
+5/12/2022 13:19:38: [G_Auto 2] :  Store Text Value (Shared) for Stefanos Tsitsipas: bServing = serving:0
+5/12/2022 13:19:38: [G_Auto 2] :  Store Value (Shared) for market: price = 1.74
+5/12/2022 13:19:38: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 108.32
+5/12/2022 13:19:38: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 119.18
+5/12/2022 13:19:38: [G_Auto 2] :  Store Value (Shared) for market: stake = 22.1
+5/12/2022 13:19:38: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 227.5
+5/12/2022 13:19:38: [G_Auto 2] :  Store Value (Shared) for market: pl = 10.64
+5/12/2022 13:19:38: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.32
+5/12/2022 13:19:38: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.74
+5/12/2022 13:19:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:20:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:20:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:20:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:21:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:21:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:21:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:21:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:22:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 13:22:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 13:24:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:24:09: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 1.94
+5/12/2022 13:24:09: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 2.04
+5/12/2022 13:24:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:24:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:24:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:25:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:25:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:25:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:26:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:26:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:26:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:26:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:27:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:27:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:27:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:28:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:28:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:28:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:28:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 13:29:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 13:31:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:32:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:32:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:32:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:33:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:33:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 13:33:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 13:33:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 13:35:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:35:59: [G_Auto 1] :  € 16.33 Lay bet placed on Stefanos Tsitsipas at 1.49. Fully matched at 1.47.  Ref: 10070          ( Fill or kill bet with 15 seconds delay.   )
+5/12/2022 13:36:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:36:02: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aPoints = point: 0; games: 0; sets: 1 
+5/12/2022 13:36:02: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aServing = serving:0
+5/12/2022 13:36:02: [G_Auto 2] :  Store Text Value (Shared) for Stefanos Tsitsipas: bPoints = point: 0; games: 2; sets: 0 
+5/12/2022 13:36:02: [G_Auto 2] :  Store Text Value (Shared) for Stefanos Tsitsipas: bServing = serving:2
+5/12/2022 13:36:02: [G_Auto 2] :  Store Value (Shared) for market: price = 1.47
+5/12/2022 13:36:02: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 108.32
+5/12/2022 13:36:02: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 135.51
+5/12/2022 13:36:02: [G_Auto 2] :  Store Value (Shared) for market: stake = 16.33
+5/12/2022 13:36:02: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 243.83
+5/12/2022 13:36:02: [G_Auto 2] :  Store Value (Shared) for market: pl = 10.53
+5/12/2022 13:36:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.15
+5/12/2022 13:36:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.47
+5/12/2022 13:36:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:36:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 13:36:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 13:38:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:39:07: [G_Auto 1] :  Placed closure bet with greening on Stefanos Tsitsipas by Backing 17.15 at 1.4
+5/12/2022 13:39:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:39:10: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aPoints = point: 0; games: 0; sets: 1 
+5/12/2022 13:39:10: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aServing = serving:1
+5/12/2022 13:39:10: [G_Auto 2] :  Store Text Value (Shared) for Stefanos Tsitsipas: bPoints = point: 0; games: 3; sets: 0 
+5/12/2022 13:39:10: [G_Auto 2] :  Store Text Value (Shared) for Stefanos Tsitsipas: bServing = serving:0
+5/12/2022 13:39:10: [G_Auto 2] :  Store Value (Shared) for market: price = 1.4
+5/12/2022 13:39:10: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 125.47
+5/12/2022 13:39:10: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 135.51
+5/12/2022 13:39:10: [G_Auto 2] :  Store Value (Shared) for market: stake = 17.15
+5/12/2022 13:39:10: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 260.98
+5/12/2022 13:39:10: [G_Auto 2] :  Store Value (Shared) for market: pl = 9.84
+5/12/2022 13:39:10: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.45
+5/12/2022 13:39:10: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.41
+5/12/2022 13:39:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:39:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:40:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:40:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:40:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:40:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:41:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:41:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:41:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 13:41:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 13:44:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:44:32: [G_Auto 1] :  € 25.00 Lay bet placed on Stefanos Tsitsipas at 1.32. Fully matched at 1.31.  Ref: 10077          ( Fill or kill bet with 15 seconds delay.   )
+5/12/2022 13:44:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:44:35: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aPoints = point: 0; games: 0; sets: 1 
+5/12/2022 13:44:35: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aServing = serving:0
+5/12/2022 13:44:35: [G_Auto 2] :  Store Text Value (Shared) for Stefanos Tsitsipas: bPoints = point: 0; games: 4; sets: 0 
+5/12/2022 13:44:35: [G_Auto 2] :  Store Text Value (Shared) for Stefanos Tsitsipas: bServing = serving:2
+5/12/2022 13:44:35: [G_Auto 2] :  Store Value (Shared) for market: price = 1.31
+5/12/2022 13:44:35: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 125.47
+5/12/2022 13:44:35: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 160.51
+5/12/2022 13:44:35: [G_Auto 2] :  Store Value (Shared) for market: stake = 25
+5/12/2022 13:44:35: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 285.98
+5/12/2022 13:44:35: [G_Auto 2] :  Store Value (Shared) for market: pl = 9.65
+5/12/2022 13:44:35: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.3
+5/12/2022 13:44:35: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.31
+5/12/2022 13:44:40: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aPoints = point: 0; games: 0; sets: 1 
+5/12/2022 13:44:40: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aServing = serving:0
+5/12/2022 13:44:40: [G_Auto 2] :  Store Text Value (Shared) for Stefanos Tsitsipas: bPoints = point: 0; games: 4; sets: 0 
+5/12/2022 13:44:40: [G_Auto 2] :  Store Text Value (Shared) for Stefanos Tsitsipas: bServing = serving:2
+5/12/2022 13:44:40: [G_Auto 2] :  Store Value (Shared) for market: price = 1.31
+5/12/2022 13:44:40: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 125.47
+5/12/2022 13:44:40: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 160.51
+5/12/2022 13:44:40: [G_Auto 2] :  Store Value (Shared) for market: stake = 25
+5/12/2022 13:44:40: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 285.98
+5/12/2022 13:44:40: [G_Auto 2] :  Store Value (Shared) for market: pl = 9.46
+5/12/2022 13:44:40: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.4
+5/12/2022 13:44:40: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.3
+5/12/2022 13:44:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:45:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 13:45:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 13:45:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 13:50:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:50:21: [G_Auto 1] :  Placed closure bet with greening on Stefanos Tsitsipas by Backing 25.19 at 1.3
+5/12/2022 13:50:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:50:24: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aPoints = point: 0; games: 0; sets: 1 
+5/12/2022 13:50:24: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aServing = serving:1
+5/12/2022 13:50:24: [G_Auto 2] :  Store Text Value (Shared) for Stefanos Tsitsipas: bPoints = point: 0; games: 5; sets: 0 
+5/12/2022 13:50:24: [G_Auto 2] :  Store Text Value (Shared) for Stefanos Tsitsipas: bServing = serving:0
+5/12/2022 13:50:24: [G_Auto 2] :  Store Value (Shared) for market: price = 1.3
+5/12/2022 13:50:24: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 150.66
+5/12/2022 13:50:24: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 160.51
+5/12/2022 13:50:24: [G_Auto 2] :  Store Value (Shared) for market: stake = 25.19
+5/12/2022 13:50:24: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 311.17
+5/12/2022 13:50:24: [G_Auto 2] :  Store Value (Shared) for market: pl = 9.65
+5/12/2022 13:50:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.2
+5/12/2022 13:50:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.31
+5/12/2022 13:50:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:50:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:51:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:51:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:51:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:52:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:52:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 13:52:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 13:56:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:56:13: [G_Auto 2] :  Store Value (Shared) for market: aSecondSetPrice = 4.8
+5/12/2022 13:56:13: [G_Auto 2] :  Store Value (Shared) for market: bSecondSetPrice = 1.27
+5/12/2022 13:56:19: [G_Auto 1] :  € 28.57 Lay bet placed on Stefanos Tsitsipas at 1.28. Fully matched at 1.27.  Ref: 10086          ( Fill or kill bet with 15 seconds delay.   )
+5/12/2022 13:56:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:56:22: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aPoints = point: 0; games: 0; sets: 1 
+5/12/2022 13:56:22: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aServing = serving:0
+5/12/2022 13:56:22: [G_Auto 2] :  Store Text Value (Shared) for Stefanos Tsitsipas: bPoints = point: 0; games: 0; sets: 1 
+5/12/2022 13:56:22: [G_Auto 2] :  Store Text Value (Shared) for Stefanos Tsitsipas: bServing = serving:2
+5/12/2022 13:56:22: [G_Auto 2] :  Store Value (Shared) for market: price = 1.27
+5/12/2022 13:56:22: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 150.66
+5/12/2022 13:56:22: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 189.08
+5/12/2022 13:56:22: [G_Auto 2] :  Store Value (Shared) for market: stake = 28.57
+5/12/2022 13:56:22: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 339.74
+5/12/2022 13:56:22: [G_Auto 2] :  Store Value (Shared) for market: pl = 9.43
+5/12/2022 13:56:22: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.8
+5/12/2022 13:56:22: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.26
+5/12/2022 13:56:27: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aPoints = point: 0; games: 0; sets: 1 
+5/12/2022 13:56:27: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aServing = serving:0
+5/12/2022 13:56:27: [G_Auto 2] :  Store Text Value (Shared) for Stefanos Tsitsipas: bPoints = point: 0; games: 0; sets: 1 
+5/12/2022 13:56:27: [G_Auto 2] :  Store Text Value (Shared) for Stefanos Tsitsipas: bServing = serving:2
+5/12/2022 13:56:27: [G_Auto 2] :  Store Value (Shared) for market: price = 1.27
+5/12/2022 13:56:27: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 150.66
+5/12/2022 13:56:27: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 189.08
+5/12/2022 13:56:27: [G_Auto 2] :  Store Value (Shared) for market: stake = 28.57
+5/12/2022 13:56:27: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 339.74
+5/12/2022 13:56:27: [G_Auto 2] :  Store Value (Shared) for market: pl = 9.65
+5/12/2022 13:56:27: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.8
+5/12/2022 13:56:27: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.28
+5/12/2022 13:56:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:56:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:57:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:57:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:57:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:58:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:58:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:58:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:58:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:59:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:59:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 13:59:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 14:00:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 14:00:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 14:00:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 14:00:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 14:01:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 14:02:03: [G_Auto 1] :  Placed closure bet with greening on Stefanos Tsitsipas by Backing 29.99 at 1.21
+5/12/2022 14:02:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 14:02:06: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aPoints = point: 0; games: 0; sets: 1 
+5/12/2022 14:02:06: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aServing = serving:1
+5/12/2022 14:02:06: [G_Auto 2] :  Store Text Value (Shared) for Stefanos Tsitsipas: bPoints = point: 0; games: 1; sets: 1 
+5/12/2022 14:02:06: [G_Auto 2] :  Store Text Value (Shared) for Stefanos Tsitsipas: bServing = serving:0
+5/12/2022 14:02:06: [G_Auto 2] :  Store Value (Shared) for market: price = 1.21
+5/12/2022 14:02:06: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 180.65
+5/12/2022 14:02:06: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 189.08
+5/12/2022 14:02:06: [G_Auto 2] :  Store Value (Shared) for market: stake = 29.99
+5/12/2022 14:02:06: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 369.73
+5/12/2022 14:02:06: [G_Auto 2] :  Store Value (Shared) for market: pl = 8.26
+5/12/2022 14:02:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 5.6
+5/12/2022 14:02:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.21
+5/12/2022 14:02:12: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aPoints = point: 0; games: 0; sets: 1 
+5/12/2022 14:02:12: [G_Auto 2] :  Store Text Value (Shared) for Karen Khachanov: aServing = serving:1
+5/12/2022 14:02:12: [G_Auto 2] :  Store Text Value (Shared) for Stefanos Tsitsipas: bPoints = point: 0; games: 1; sets: 1 
+5/12/2022 14:02:12: [G_Auto 2] :  Store Text Value (Shared) for Stefanos Tsitsipas: bServing = serving:0
+5/12/2022 14:02:12: [G_Auto 2] :  Store Value (Shared) for market: price = 1.21
+5/12/2022 14:02:12: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 180.65
+5/12/2022 14:02:12: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 189.08
+5/12/2022 14:02:12: [G_Auto 2] :  Store Value (Shared) for market: stake = 29.99
+5/12/2022 14:02:12: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 369.73
+5/12/2022 14:02:12: [G_Auto 2] :  Store Value (Shared) for market: pl = 8.26
+5/12/2022 14:02:12: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 5.6
+5/12/2022 14:02:12: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.22
+5/12/2022 14:02:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 14:02:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 14:02:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 14:03:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 14:03:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 14:05:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 14:05:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 14:06:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 14:06:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 14:06:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 14:06:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 14:08:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 14:08:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 14:09:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 14:09:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 14:09:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 14:09:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 14:10:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 14:10:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 14:10:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 14:10:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 14:11:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 14:12:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 14:12:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 14:12:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 14:13:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 14:13:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 14:14:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 14:14:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 14:14:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 14:14:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 14:15:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 14:15:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 14:15:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 14:15:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 14:16:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 14:16:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 14:16:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 14:16:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 14:19:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 14:19:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 14:19:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 14:20:16: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 14:20:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 14:22:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 14:22:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 14:23:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 14:23:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 14:23:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 14:23:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 14:24:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 14:24:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 14:24:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 14:24:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 14:25:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 14:26:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 14:27:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 14:27:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 14:27:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 14:27:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 14:28:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 14:28:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 14:30:12:  Guardian has detected that the market is suspended

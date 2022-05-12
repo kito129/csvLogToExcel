@@ -1,0 +1,520 @@
+5/11/2022 09:32:03: [G_Auto 2] :  Store Text Value (Shared) for Nastasja Schunk: info = marketName: Nas Schunk v Pera - Match Odds; runnerA: Nastasja Schunk; runnerB: Bernarda Pera 
+5/11/2022 09:32:03: [G_Auto 2] :  Store Value (Shared) for market: aId = 24143414
+5/11/2022 09:32:03: [G_Auto 2] :  Store Value (Shared) for market: bId = 8784983
+5/11/2022 14:39:52:  Guardian has detected that the market is in-play
+5/11/2022 14:39:52:  Guardian has detected that the market is suspended
+5/11/2022 14:39:55: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 2.18; bBsp: 1.84; volume: 239.88 
+5/11/2022 14:39:55: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 2.18; bBsp: 1.84; volume: 239.88 
+5/11/2022 14:39:55:  Guardian has detected that the market is now unsuspended
+5/11/2022 14:39:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 14:40:10: [G_Auto 1] :  1 Automation Signals Cleared
+5/11/2022 14:45:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 14:45:42: [G_Auto 1] :  € 9.64 Lay bet placed on Nastasja Schunk at 1.83. Fully matched at 1.82.  Ref: 10678          ( Fill or kill bet with 15 seconds delay.   )
+5/11/2022 14:45:43: [G_Auto 2] :  Store Text Value (Shared) for Nastasja Schunk: aPoints = point: 0; games: 1; sets: 0 
+5/11/2022 14:45:43: [G_Auto 2] :  Store Text Value (Shared) for Nastasja Schunk: aServing = serving:1
+5/11/2022 14:45:43: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: bPoints = point: 0; games: 0; sets: 0 
+5/11/2022 14:45:43: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: bServing = serving:0
+5/11/2022 14:45:43: [G_Auto 2] :  Store Value (Shared) for market: price = 1.82
+5/11/2022 14:45:43: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+5/11/2022 14:45:43: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 9.64
+5/11/2022 14:45:43: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.64
+5/11/2022 14:45:43: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 9.64
+5/11/2022 14:45:43: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.05
+5/11/2022 14:45:43: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.82
+5/11/2022 14:45:43: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.2
+5/11/2022 14:45:50: [G_Auto 2] :  Store Text Value (Shared) for Nastasja Schunk: aPoints = point: 0; games: 1; sets: 0 
+5/11/2022 14:45:50: [G_Auto 2] :  Store Text Value (Shared) for Nastasja Schunk: aServing = serving:1
+5/11/2022 14:45:50: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: bPoints = point: 0; games: 0; sets: 0 
+5/11/2022 14:45:50: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: bServing = serving:0
+5/11/2022 14:45:50: [G_Auto 2] :  Store Value (Shared) for market: price = 1.82
+5/11/2022 14:45:50: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+5/11/2022 14:45:50: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 9.64
+5/11/2022 14:45:50: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.64
+5/11/2022 14:45:50: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 9.64
+5/11/2022 14:45:50: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.11
+5/11/2022 14:45:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.81
+5/11/2022 14:45:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.2
+5/11/2022 14:46:27: [G_Auto 1] :  1 Automation Signals Cleared
+5/11/2022 14:48:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 14:48:44: [G_Auto 1] :  Placed closure bet with greening on Nastasja Schunk by Backing 10.76 at 1.63
+5/11/2022 14:48:45: [G_Auto 2] :  Store Text Value (Shared) for Nastasja Schunk: aPoints = point: 0; games: 2; sets: 0 
+5/11/2022 14:48:45: [G_Auto 2] :  Store Text Value (Shared) for Nastasja Schunk: aServing = serving:0
+5/11/2022 14:48:45: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: bPoints = point: 0; games: 0; sets: 0 
+5/11/2022 14:48:45: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: bServing = serving:2
+5/11/2022 14:48:45: [G_Auto 2] :  Store Value (Shared) for market: price = 1.63
+5/11/2022 14:48:45: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 10.76
+5/11/2022 14:48:45: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 9.64
+5/11/2022 14:48:45: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.76
+5/11/2022 14:48:45: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 20.4
+5/11/2022 14:48:45: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.13
+5/11/2022 14:48:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.64
+5/11/2022 14:48:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.5
+5/11/2022 14:49:30: [G_Auto 1] :  1 Automation Signals Cleared
+5/11/2022 14:51:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 14:51:21: [G_Auto 1] :  € 9.76 Lay bet placed on Nastasja Schunk at 1.82. Fully matched at 1.81.  Ref: 10681          ( Fill or kill bet with 15 seconds delay.   )
+5/11/2022 14:51:21: [G_Auto 2] :  Store Text Value (Shared) for Nastasja Schunk: aPoints = point: 0; games: 2; sets: 0 
+5/11/2022 14:51:21: [G_Auto 2] :  Store Text Value (Shared) for Nastasja Schunk: aServing = serving:1
+5/11/2022 14:51:21: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: bPoints = point: 0; games: 1; sets: 0 
+5/11/2022 14:51:21: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: bServing = serving:0
+5/11/2022 14:51:21: [G_Auto 2] :  Store Value (Shared) for market: price = 1.81
+5/11/2022 14:51:21: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 10.76
+5/11/2022 14:51:21: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 19.4
+5/11/2022 14:51:21: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.76
+5/11/2022 14:51:21: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 30.16
+5/11/2022 14:51:21: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.18
+5/11/2022 14:51:21: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.8
+5/11/2022 14:51:21: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.24
+5/11/2022 14:52:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 14:53:02: [G_Auto 1] :  1 Automation Signals Cleared
+5/11/2022 14:56:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 14:56:22: [G_Auto 1] :  Placed closure bet with greening on Nastasja Schunk by Backing 7.82 at 2.26
+5/11/2022 14:56:22: [G_Auto 1] :  € 10.53 Lay bet placed on Bernarda Pera at 1.76. Entirely unmatched when it initially reached the market.   Ref: 10685          ( Fill or kill bet with 15 seconds delay.   )
+5/11/2022 14:56:23: [G_Auto 2] :  Store Text Value (Shared) for Nastasja Schunk: aPoints = point: 0; games: 2; sets: 0 
+5/11/2022 14:56:23: [G_Auto 2] :  Store Text Value (Shared) for Nastasja Schunk: aServing = serving:0
+5/11/2022 14:56:23: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: bPoints = point: 0; games: 2; sets: 0 
+5/11/2022 14:56:23: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: bServing = serving:2
+5/11/2022 14:56:23: [G_Auto 2] :  Store Value (Shared) for market: price = 2.26
+5/11/2022 14:56:23: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 18.58
+5/11/2022 14:56:23: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 19.4
+5/11/2022 14:56:23: [G_Auto 2] :  Store Value (Shared) for market: stake = 7.82
+5/11/2022 14:56:23: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 37.98
+5/11/2022 14:56:23: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.8
+5/11/2022 14:56:23: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.26
+5/11/2022 14:56:23: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.74
+5/11/2022 14:56:30: [G_Auto 2] :  Store Text Value (Shared) for Nastasja Schunk: aPoints = point: 0; games: 2; sets: 0 
+5/11/2022 14:56:30: [G_Auto 2] :  Store Text Value (Shared) for Nastasja Schunk: aServing = serving:0
+5/11/2022 14:56:30: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: bPoints = point: 0; games: 2; sets: 0 
+5/11/2022 14:56:30: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: bServing = serving:2
+5/11/2022 14:56:30: [G_Auto 2] :  Store Value (Shared) for market: price = 1.76
+5/11/2022 14:56:30: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 18.58
+5/11/2022 14:56:30: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 29.93
+5/11/2022 14:56:30: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.53
+5/11/2022 14:56:30: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 48.51
+5/11/2022 14:56:30: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.63
+5/11/2022 14:56:30: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.36
+5/11/2022 14:56:30: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.74
+5/11/2022 14:56:30: [G_Auto 1] :  € 10.53 of unmatched bet (Ref:10685) was filled before remainder was killed.
+5/11/2022 14:56:36: [G_Auto 2] :  Store Text Value (Shared) for Nastasja Schunk: aPoints = point: 0; games: 2; sets: 0 
+5/11/2022 14:56:36: [G_Auto 2] :  Store Text Value (Shared) for Nastasja Schunk: aServing = serving:0
+5/11/2022 14:56:36: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: bPoints = point: 0; games: 2; sets: 0 
+5/11/2022 14:56:36: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: bServing = serving:2
+5/11/2022 14:56:36: [G_Auto 2] :  Store Value (Shared) for market: price = 1.76
+5/11/2022 14:56:36: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 18.58
+5/11/2022 14:56:36: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 29.93
+5/11/2022 14:56:36: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.53
+5/11/2022 14:56:36: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 48.51
+5/11/2022 14:56:36: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.63
+5/11/2022 14:56:36: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.36
+5/11/2022 14:56:36: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.74
+5/11/2022 14:57:08: [G_Auto 1] :  1 Automation Signals Cleared
+5/11/2022 15:00:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 15:00:37: [G_Auto 1] :  Placed closure bet with greening on Bernarda Pera by Backing 8.35 at 2.22
+5/11/2022 15:00:37: [G_Auto 1] :  € 9.64 Lay bet placed on Nastasja Schunk at 1.83. Fully matched at 1.82.  Ref: 10689          ( Fill or kill bet with 15 seconds delay.   )
+5/11/2022 15:00:37: [G_Auto 2] :  Store Text Value (Shared) for Nastasja Schunk: aPoints = point: 0; games: 3; sets: 0 
+5/11/2022 15:00:37: [G_Auto 2] :  Store Text Value (Shared) for Nastasja Schunk: aServing = serving:1
+5/11/2022 15:00:37: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: bPoints = point: 0; games: 2; sets: 0 
+5/11/2022 15:00:37: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: bServing = serving:0
+5/11/2022 15:00:37: [G_Auto 2] :  Store Value (Shared) for market: price = 1.82
+5/11/2022 15:00:37: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 26.93
+5/11/2022 15:00:37: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 39.57
+5/11/2022 15:00:37: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.64
+5/11/2022 15:00:37: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 66.5
+5/11/2022 15:00:37: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.89
+5/11/2022 15:00:37: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.82
+5/11/2022 15:00:37: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.22
+5/11/2022 15:01:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 15:02:05: [G_Auto 1] :  1 Automation Signals Cleared
+5/11/2022 15:04:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 15:04:57: [G_Auto 1] :  Placed closure bet with greening on Nastasja Schunk by Backing 11.25 at 1.56
+5/11/2022 15:04:58: [G_Auto 2] :  Store Text Value (Shared) for Nastasja Schunk: aPoints = point: 0; games: 4; sets: 0 
+5/11/2022 15:04:58: [G_Auto 2] :  Store Text Value (Shared) for Nastasja Schunk: aServing = serving:0
+5/11/2022 15:04:58: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: bPoints = point: 0; games: 2; sets: 0 
+5/11/2022 15:04:58: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: bServing = serving:2
+5/11/2022 15:04:58: [G_Auto 2] :  Store Value (Shared) for market: price = 1.56
+5/11/2022 15:04:58: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 38.18
+5/11/2022 15:04:58: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 39.57
+5/11/2022 15:04:58: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.25
+5/11/2022 15:04:58: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 77.75
+5/11/2022 15:04:58: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.37
+5/11/2022 15:04:58: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.57
+5/11/2022 15:04:58: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.76
+5/11/2022 15:05:33: [G_Auto 1] :  1 Automation Signals Cleared
+5/11/2022 15:07:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 15:07:25: [G_Auto 1] :  € 10.13 Lay bet placed on Nastasja Schunk at 1.79. Fully matched at 1.78.  Ref: 10697          ( Fill or kill bet with 15 seconds delay.   )
+5/11/2022 15:07:25: [G_Auto 2] :  Store Text Value (Shared) for Nastasja Schunk: aPoints = point: 0; games: 4; sets: 0 
+5/11/2022 15:07:25: [G_Auto 2] :  Store Text Value (Shared) for Nastasja Schunk: aServing = serving:1
+5/11/2022 15:07:25: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: bPoints = point: 0; games: 3; sets: 0 
+5/11/2022 15:07:25: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: bServing = serving:0
+5/11/2022 15:07:25: [G_Auto 2] :  Store Value (Shared) for market: price = 1.78
+5/11/2022 15:07:25: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 38.18
+5/11/2022 15:07:25: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 49.7
+5/11/2022 15:07:25: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.13
+5/11/2022 15:07:25: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 87.88
+5/11/2022 15:07:25: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.31
+5/11/2022 15:07:25: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.77
+5/11/2022 15:07:25: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.3
+5/11/2022 15:08:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 15:08:59: [G_Auto 1] :  1 Automation Signals Cleared
+5/11/2022 15:09:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 15:10:02: [G_Auto 1] :  Placed closure bet with greening on Nastasja Schunk by Backing 12.02 at 1.5
+5/11/2022 15:10:02: [G_Auto 2] :  Store Text Value (Shared) for Nastasja Schunk: aPoints = point: 0; games: 5; sets: 0 
+5/11/2022 15:10:02: [G_Auto 2] :  Store Text Value (Shared) for Nastasja Schunk: aServing = serving:0
+5/11/2022 15:10:02: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: bPoints = point: 0; games: 3; sets: 0 
+5/11/2022 15:10:02: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: bServing = serving:2
+5/11/2022 15:10:02: [G_Auto 2] :  Store Value (Shared) for market: price = 1.5
+5/11/2022 15:10:02: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 50.2
+5/11/2022 15:10:02: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 49.7
+5/11/2022 15:10:02: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.02
+5/11/2022 15:10:02: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 99.9
+5/11/2022 15:10:02: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.49
+5/11/2022 15:10:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.51
+5/11/2022 15:10:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.82
+5/11/2022 15:10:34: [G_Auto 1] :  1 Automation Signals Cleared
+5/11/2022 15:12:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 15:12:15: [G_Auto 1] :  € 12.12 Lay bet placed on Nastasja Schunk at 1.66. Fully matched at 1.66.  Ref: 10704          ( Fill or kill bet with 15 seconds delay.   )
+5/11/2022 15:12:15: [G_Auto 2] :  Store Text Value (Shared) for Nastasja Schunk: aPoints = point: 0; games: 5; sets: 0 
+5/11/2022 15:12:15: [G_Auto 2] :  Store Text Value (Shared) for Nastasja Schunk: aServing = serving:1
+5/11/2022 15:12:15: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: bPoints = point: 0; games: 4; sets: 0 
+5/11/2022 15:12:15: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: bServing = serving:0
+5/11/2022 15:12:15: [G_Auto 2] :  Store Value (Shared) for market: price = 1.66
+5/11/2022 15:12:15: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 50.2
+5/11/2022 15:12:15: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 61.82
+5/11/2022 15:12:15: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.12
+5/11/2022 15:12:15: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 112.02
+5/11/2022 15:12:15: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.64
+5/11/2022 15:12:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.65
+5/11/2022 15:12:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.52
+5/11/2022 15:12:22: [G_Auto 2] :  Store Text Value (Shared) for Nastasja Schunk: aPoints = point: 0; games: 5; sets: 0 
+5/11/2022 15:12:22: [G_Auto 2] :  Store Text Value (Shared) for Nastasja Schunk: aServing = serving:1
+5/11/2022 15:12:22: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: bPoints = point: 0; games: 4; sets: 0 
+5/11/2022 15:12:22: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: bServing = serving:0
+5/11/2022 15:12:22: [G_Auto 2] :  Store Value (Shared) for market: price = 1.66
+5/11/2022 15:12:22: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 50.2
+5/11/2022 15:12:22: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 61.82
+5/11/2022 15:12:22: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.12
+5/11/2022 15:12:22: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 112.02
+5/11/2022 15:12:22: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.64
+5/11/2022 15:12:22: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.65
+5/11/2022 15:12:22: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.52
+5/11/2022 15:13:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 15:13:40: [G_Auto 1] :  1 Automation Signals Cleared
+5/11/2022 15:22:53: [G_Auto 1] :  0 Automation Signals Cleared
+5/11/2022 15:24:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 15:24:23: [G_Auto 1] :  € 33.33 Lay bet placed on Nastasja Schunk at 1.24. Fully matched at 1.23.  Ref: 10716          ( Fill or kill bet with 15 seconds delay.   )
+5/11/2022 15:24:23: [G_Auto 2] :  Store Text Value (Shared) for Nastasja Schunk: aPoints = point: 0; games: 1; sets: 1 
+5/11/2022 15:24:23: [G_Auto 2] :  Store Text Value (Shared) for Nastasja Schunk: aServing = serving:1
+5/11/2022 15:24:23: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: bPoints = point: 0; games: 0; sets: 0 
+5/11/2022 15:24:23: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: bServing = serving:0
+5/11/2022 15:24:23: [G_Auto 2] :  Store Value (Shared) for market: price = 1.23
+5/11/2022 15:24:23: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 50.2
+5/11/2022 15:24:23: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 95.15
+5/11/2022 15:24:23: [G_Auto 2] :  Store Value (Shared) for market: stake = 33.33
+5/11/2022 15:24:23: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 145.35
+5/11/2022 15:24:23: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.14
+5/11/2022 15:24:23: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.23
+5/11/2022 15:24:23: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5
+5/11/2022 15:25:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 15:25:18: [G_Auto 1] :  1 Automation Signals Cleared
+5/11/2022 15:28:17: [G_Auto 1] :  0 Automation Signals Cleared
+5/11/2022 15:30:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 15:30:14: [G_Auto 1] :  € 32.00 Lay bet placed on Nastasja Schunk at 1.25. Fully matched at 1.25.  Ref: 10719          ( Fill or kill bet with 15 seconds delay.   )
+5/11/2022 15:30:17: [G_Auto 2] :  Store Text Value (Shared) for Nastasja Schunk: aPoints = point: 0; games: 2; sets: 1 
+5/11/2022 15:30:17: [G_Auto 2] :  Store Text Value (Shared) for Nastasja Schunk: aServing = serving:1
+5/11/2022 15:30:17: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: bPoints = point: 0; games: 1; sets: 0 
+5/11/2022 15:30:17: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: bServing = serving:0
+5/11/2022 15:30:17: [G_Auto 2] :  Store Value (Shared) for market: price = 1.25
+5/11/2022 15:30:17: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 50.2
+5/11/2022 15:30:17: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 127.15
+5/11/2022 15:30:17: [G_Auto 2] :  Store Value (Shared) for market: stake = 32
+5/11/2022 15:30:17: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 177.35
+5/11/2022 15:30:17: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.93
+5/11/2022 15:30:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.23
+5/11/2022 15:30:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.4
+5/11/2022 15:31:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 15:31:52: [G_Auto 1] :  1 Automation Signals Cleared
+5/11/2022 15:35:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 15:35:59: [G_Auto 1] :  Placed closure bet with greening on Nastasja Schunk by Backing 69.73 at 1.45
+5/11/2022 15:36:02: [G_Auto 2] :  Store Text Value (Shared) for Nastasja Schunk: aPoints = point: 0; games: 2; sets: 1 
+5/11/2022 15:36:02: [G_Auto 2] :  Store Text Value (Shared) for Nastasja Schunk: aServing = serving:0
+5/11/2022 15:36:02: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: bPoints = point: 0; games: 2; sets: 0 
+5/11/2022 15:36:02: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: bServing = serving:2
+5/11/2022 15:36:02: [G_Auto 2] :  Store Value (Shared) for market: price = 1.45
+5/11/2022 15:36:02: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 119.93
+5/11/2022 15:36:02: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 127.15
+5/11/2022 15:36:02: [G_Auto 2] :  Store Value (Shared) for market: stake = 69.73
+5/11/2022 15:36:02: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 247.08
+5/11/2022 15:36:02: [G_Auto 2] :  Store Value (Shared) for market: pl = 7.08
+5/11/2022 15:36:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.45
+5/11/2022 15:36:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4
+5/11/2022 15:36:45: [G_Auto 1] :  1 Automation Signals Cleared
+5/11/2022 15:40:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 15:40:16: [G_Auto 1] :  € 14.55 Lay bet placed on Nastasja Schunk at 1.55. Fully matched at 1.54.  Ref: 10731          ( Fill or kill bet with 15 seconds delay.   )
+5/11/2022 15:40:19: [G_Auto 2] :  Store Text Value (Shared) for Nastasja Schunk: aPoints = point: 0; games: 2; sets: 1 
+5/11/2022 15:40:19: [G_Auto 2] :  Store Text Value (Shared) for Nastasja Schunk: aServing = serving:1
+5/11/2022 15:40:19: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: bPoints = point: 0; games: 3; sets: 0 
+5/11/2022 15:40:19: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: bServing = serving:0
+5/11/2022 15:40:19: [G_Auto 2] :  Store Value (Shared) for market: price = 1.54
+5/11/2022 15:40:19: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 119.93
+5/11/2022 15:40:19: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 141.7
+5/11/2022 15:40:19: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.55
+5/11/2022 15:40:19: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 261.63
+5/11/2022 15:40:19: [G_Auto 2] :  Store Value (Shared) for market: pl = 6.98
+5/11/2022 15:40:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.53
+5/11/2022 15:40:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.3
+5/11/2022 15:40:25: [G_Auto 2] :  Store Text Value (Shared) for Nastasja Schunk: aPoints = point: 0; games: 2; sets: 1 
+5/11/2022 15:40:25: [G_Auto 2] :  Store Text Value (Shared) for Nastasja Schunk: aServing = serving:1
+5/11/2022 15:40:25: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: bPoints = point: 0; games: 3; sets: 0 
+5/11/2022 15:40:25: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: bServing = serving:0
+5/11/2022 15:40:25: [G_Auto 2] :  Store Value (Shared) for market: price = 1.54
+5/11/2022 15:40:25: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 119.93
+5/11/2022 15:40:25: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 141.7
+5/11/2022 15:40:25: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.55
+5/11/2022 15:40:25: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 261.63
+5/11/2022 15:40:25: [G_Auto 2] :  Store Value (Shared) for market: pl = 6.98
+5/11/2022 15:40:25: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.54
+5/11/2022 15:40:25: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.84
+5/11/2022 15:41:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 15:41:48: [G_Auto 1] :  1 Automation Signals Cleared
+5/11/2022 15:43:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 15:43:18: [G_Auto 1] :  Placed closure bet with greening on Nastasja Schunk by Backing 16.01 at 1.4
+5/11/2022 15:43:18: [G_Auto 2] :  Store Text Value (Shared) for Nastasja Schunk: aPoints = point: 0; games: 3; sets: 1 
+5/11/2022 15:43:18: [G_Auto 2] :  Store Text Value (Shared) for Nastasja Schunk: aServing = serving:0
+5/11/2022 15:43:18: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: bPoints = point: 0; games: 3; sets: 0 
+5/11/2022 15:43:18: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: bServing = serving:2
+5/11/2022 15:43:18: [G_Auto 2] :  Store Value (Shared) for market: price = 1.4
+5/11/2022 15:43:18: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 135.94
+5/11/2022 15:43:18: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 141.7
+5/11/2022 15:43:18: [G_Auto 2] :  Store Value (Shared) for market: stake = 16.01
+5/11/2022 15:43:18: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 277.64
+5/11/2022 15:43:18: [G_Auto 2] :  Store Value (Shared) for market: pl = 5.65
+5/11/2022 15:43:18: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.41
+5/11/2022 15:43:18: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.35
+5/11/2022 15:44:01: [G_Auto 1] :  1 Automation Signals Cleared
+5/11/2022 15:45:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 15:46:05: [G_Auto 1] :  € 12.70 Lay bet placed on Nastasja Schunk at 1.63. Fully matched at 1.62.  Ref: 10738          ( Fill or kill bet with 15 seconds delay.   )
+5/11/2022 15:46:08: [G_Auto 2] :  Store Text Value (Shared) for Nastasja Schunk: aPoints = point: 0; games: 3; sets: 1 
+5/11/2022 15:46:08: [G_Auto 2] :  Store Text Value (Shared) for Nastasja Schunk: aServing = serving:1
+5/11/2022 15:46:08: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: bPoints = point: 0; games: 4; sets: 0 
+5/11/2022 15:46:08: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: bServing = serving:0
+5/11/2022 15:46:08: [G_Auto 2] :  Store Value (Shared) for market: price = 1.62
+5/11/2022 15:46:08: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 135.94
+5/11/2022 15:46:08: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 154.4
+5/11/2022 15:46:08: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.7
+5/11/2022 15:46:08: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 290.34
+5/11/2022 15:46:08: [G_Auto 2] :  Store Value (Shared) for market: pl = 5.57
+5/11/2022 15:46:08: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.57
+5/11/2022 15:46:08: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.74
+5/11/2022 15:46:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 15:47:34: [G_Auto 1] :  1 Automation Signals Cleared
+5/11/2022 15:49:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 15:50:08: [G_Auto 1] :  Placed closure bet with greening on Nastasja Schunk by Backing 14.59 at 1.41
+5/11/2022 15:50:09: [G_Auto 2] :  Store Text Value (Shared) for Nastasja Schunk: aPoints = point: 0; games: 4; sets: 1 
+5/11/2022 15:50:09: [G_Auto 2] :  Store Text Value (Shared) for Nastasja Schunk: aServing = serving:0
+5/11/2022 15:50:09: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: bPoints = point: 0; games: 4; sets: 0 
+5/11/2022 15:50:09: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: bServing = serving:2
+5/11/2022 15:50:09: [G_Auto 2] :  Store Value (Shared) for market: price = 1.41
+5/11/2022 15:50:09: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 150.53
+5/11/2022 15:50:09: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 154.4
+5/11/2022 15:50:09: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.59
+5/11/2022 15:50:09: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 304.93
+5/11/2022 15:50:09: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.79
+5/11/2022 15:50:09: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.44
+5/11/2022 15:50:09: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.9
+5/11/2022 15:50:55: [G_Auto 1] :  1 Automation Signals Cleared
+5/11/2022 15:54:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 15:55:03: [G_Auto 1] :  € 12.12 Lay bet placed on Nastasja Schunk at 1.66. Fully matched at 1.66.  Ref: 10751          ( Fill or kill bet with 15 seconds delay.   )
+5/11/2022 15:55:03: [G_Auto 2] :  Store Text Value (Shared) for Nastasja Schunk: aPoints = point: 0; games: 4; sets: 1 
+5/11/2022 15:55:03: [G_Auto 2] :  Store Text Value (Shared) for Nastasja Schunk: aServing = serving:1
+5/11/2022 15:55:03: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: bPoints = point: 0; games: 5; sets: 0 
+5/11/2022 15:55:03: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: bServing = serving:0
+5/11/2022 15:55:03: [G_Auto 2] :  Store Value (Shared) for market: price = 1.66
+5/11/2022 15:55:03: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 150.53
+5/11/2022 15:55:03: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 166.52
+5/11/2022 15:55:03: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.12
+5/11/2022 15:55:03: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 317.05
+5/11/2022 15:55:03: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.65
+5/11/2022 15:55:03: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.64
+5/11/2022 15:55:03: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.58
+5/11/2022 15:55:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 15:56:30: [G_Auto 1] :  1 Automation Signals Cleared
+5/11/2022 15:59:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 15:59:18: [G_Auto 2] :  Store Value (Shared) for market: aSecondSetPrice = 2.46
+5/11/2022 15:59:18: [G_Auto 2] :  Store Value (Shared) for market: bSecondSetPrice = 1.68
+5/11/2022 15:59:21: [G_Auto 1] :  Placed closure bet with greening on Nastasja Schunk by Backing 8.18 at 2.46
+5/11/2022 15:59:21: [G_Auto 1] :  € 12.12 Lay bet placed on Bernarda Pera at 1.66. Entirely unmatched when it initially reached the market.   Ref: 10755          ( Fill or kill bet with 15 seconds delay.   )
+5/11/2022 15:59:24: [G_Auto 2] :  Store Text Value (Shared) for Nastasja Schunk: aPoints = point: 0; games: 0; sets: 1 
+5/11/2022 15:59:24: [G_Auto 2] :  Store Text Value (Shared) for Nastasja Schunk: aServing = serving:0
+5/11/2022 15:59:24: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: bPoints = point: 0; games: 0; sets: 1 
+5/11/2022 15:59:24: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: bServing = serving:2
+5/11/2022 15:59:24: [G_Auto 2] :  Store Value (Shared) for market: price = 2.46
+5/11/2022 15:59:24: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 158.71
+5/11/2022 15:59:24: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 166.52
+5/11/2022 15:59:24: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.18
+5/11/2022 15:59:24: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 325.23
+5/11/2022 15:59:24: [G_Auto 2] :  Store Value (Shared) for market: pl = 7.66
+5/11/2022 15:59:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.46
+5/11/2022 15:59:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.69
+5/11/2022 15:59:30: [G_Auto 2] :  Store Text Value (Shared) for Nastasja Schunk: aPoints = point: 0; games: 0; sets: 1 
+5/11/2022 15:59:30: [G_Auto 2] :  Store Text Value (Shared) for Nastasja Schunk: aServing = serving:0
+5/11/2022 15:59:30: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: bPoints = point: 0; games: 0; sets: 1 
+5/11/2022 15:59:30: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: bServing = serving:2
+5/11/2022 15:59:30: [G_Auto 2] :  Store Value (Shared) for market: price = 1.66
+5/11/2022 15:59:30: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 158.71
+5/11/2022 15:59:30: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 167.36
+5/11/2022 15:59:30: [G_Auto 2] :  Store Value (Shared) for market: stake = 0.84
+5/11/2022 15:59:30: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 326.07
+5/11/2022 15:59:30: [G_Auto 2] :  Store Value (Shared) for market: pl = 7.67
+5/11/2022 15:59:30: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.46
+5/11/2022 15:59:30: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.69
+5/11/2022 15:59:36: [G_Auto 1] :  € 0.84 of unmatched bet (Ref:10755) was filled before remainder was killed.
+5/11/2022 15:59:37: [G_Auto 2] :  Store Text Value (Shared) for Nastasja Schunk: aPoints = point: 0; games: 0; sets: 1 
+5/11/2022 15:59:37: [G_Auto 2] :  Store Text Value (Shared) for Nastasja Schunk: aServing = serving:0
+5/11/2022 15:59:37: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: bPoints = point: 0; games: 0; sets: 1 
+5/11/2022 15:59:37: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: bServing = serving:2
+5/11/2022 15:59:37: [G_Auto 2] :  Store Value (Shared) for market: price = 1.66
+5/11/2022 15:59:37: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 158.71
+5/11/2022 15:59:37: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 167.36
+5/11/2022 15:59:37: [G_Auto 2] :  Store Value (Shared) for market: stake = 0.84
+5/11/2022 15:59:37: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 326.07
+5/11/2022 15:59:37: [G_Auto 2] :  Store Value (Shared) for market: pl = 7.67
+5/11/2022 15:59:37: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.44
+5/11/2022 15:59:37: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.7
+5/11/2022 16:00:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 16:01:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 16:02:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 16:02:35: [G_Auto 1] :  1 Automation Signals Cleared
+5/11/2022 16:04:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 16:04:29: [G_Auto 1] :  Placed closure bet with greening on Bernarda Pera by Backing 0.97 at 1.43
+5/11/2022 16:04:29: [G_Auto 2] :  Store Text Value (Shared) for Nastasja Schunk: aPoints = point: 0; games: 0; sets: 1 
+5/11/2022 16:04:29: [G_Auto 2] :  Store Text Value (Shared) for Nastasja Schunk: aServing = serving:1
+5/11/2022 16:04:29: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: bPoints = point: 0; games: 1; sets: 1 
+5/11/2022 16:04:29: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: bServing = serving:0
+5/11/2022 16:04:29: [G_Auto 2] :  Store Value (Shared) for market: price = 1.43
+5/11/2022 16:04:29: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 159.68
+5/11/2022 16:04:29: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 167.36
+5/11/2022 16:04:29: [G_Auto 2] :  Store Value (Shared) for market: stake = 0.97
+5/11/2022 16:04:29: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 327.04
+5/11/2022 16:04:29: [G_Auto 2] :  Store Value (Shared) for market: pl = 7.54
+5/11/2022 16:04:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.96
+5/11/2022 16:04:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.44
+5/11/2022 16:04:36: [G_Auto 2] :  Store Text Value (Shared) for Nastasja Schunk: aPoints = point: 0; games: 0; sets: 1 
+5/11/2022 16:04:36: [G_Auto 2] :  Store Text Value (Shared) for Nastasja Schunk: aServing = serving:1
+5/11/2022 16:04:36: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: bPoints = point: 0; games: 1; sets: 1 
+5/11/2022 16:04:36: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: bServing = serving:0
+5/11/2022 16:04:36: [G_Auto 2] :  Store Value (Shared) for market: price = 1.43
+5/11/2022 16:04:36: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 159.68
+5/11/2022 16:04:36: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 167.36
+5/11/2022 16:04:36: [G_Auto 2] :  Store Value (Shared) for market: stake = 0.97
+5/11/2022 16:04:36: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 327.04
+5/11/2022 16:04:36: [G_Auto 2] :  Store Value (Shared) for market: pl = 7.54
+5/11/2022 16:04:36: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.25
+5/11/2022 16:04:36: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.44
+5/11/2022 16:05:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 16:05:23: [G_Auto 1] :  1 Automation Signals Cleared
+5/11/2022 16:07:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 16:08:01: [G_Auto 1] :  € 38.10 Lay bet placed on Bernarda Pera at 1.21. Fully matched at 1.2.  Ref: 10769          ( Fill or kill bet with 15 seconds delay.   )
+5/11/2022 16:08:04: [G_Auto 2] :  Store Text Value (Shared) for Nastasja Schunk: aPoints = point: 0; games: 0; sets: 1 
+5/11/2022 16:08:04: [G_Auto 2] :  Store Text Value (Shared) for Nastasja Schunk: aServing = serving:0
+5/11/2022 16:08:04: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: bPoints = point: 0; games: 2; sets: 1 
+5/11/2022 16:08:04: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: bServing = serving:2
+5/11/2022 16:08:04: [G_Auto 2] :  Store Value (Shared) for market: price = 1.2
+5/11/2022 16:08:04: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 159.68
+5/11/2022 16:08:04: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 205.46
+5/11/2022 16:08:04: [G_Auto 2] :  Store Value (Shared) for market: stake = 38.1
+5/11/2022 16:08:04: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 365.14
+5/11/2022 16:08:04: [G_Auto 2] :  Store Value (Shared) for market: pl = 7.21
+5/11/2022 16:08:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 6
+5/11/2022 16:08:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.2
+5/11/2022 16:08:11: [G_Auto 2] :  Store Text Value (Shared) for Nastasja Schunk: aPoints = point: 0; games: 0; sets: 1 
+5/11/2022 16:08:11: [G_Auto 2] :  Store Text Value (Shared) for Nastasja Schunk: aServing = serving:0
+5/11/2022 16:08:11: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: bPoints = point: 0; games: 2; sets: 1 
+5/11/2022 16:08:11: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: bServing = serving:2
+5/11/2022 16:08:11: [G_Auto 2] :  Store Value (Shared) for market: price = 1.2
+5/11/2022 16:08:11: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 159.68
+5/11/2022 16:08:11: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 205.46
+5/11/2022 16:08:11: [G_Auto 2] :  Store Value (Shared) for market: stake = 38.1
+5/11/2022 16:08:11: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 365.14
+5/11/2022 16:08:11: [G_Auto 2] :  Store Value (Shared) for market: pl = 7.21
+5/11/2022 16:08:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 6
+5/11/2022 16:08:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.2
+5/11/2022 16:08:26: [G_Auto 1] :  1 Automation Signals Cleared
+5/11/2022 16:10:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 16:10:18: [G_Auto 1] :  Placed closure bet with greening on Bernarda Pera by Backing 41.57 at 1.1
+5/11/2022 16:10:21: [G_Auto 2] :  Store Text Value (Shared) for Nastasja Schunk: aPoints = point: 0; games: 0; sets: 1 
+5/11/2022 16:10:21: [G_Auto 2] :  Store Text Value (Shared) for Nastasja Schunk: aServing = serving:1
+5/11/2022 16:10:21: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: bPoints = point: 0; games: 3; sets: 1 
+5/11/2022 16:10:21: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: bServing = serving:0
+5/11/2022 16:10:21: [G_Auto 2] :  Store Value (Shared) for market: price = 1.1
+5/11/2022 16:10:21: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 201.25
+5/11/2022 16:10:21: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 205.46
+5/11/2022 16:10:21: [G_Auto 2] :  Store Value (Shared) for market: stake = 41.57
+5/11/2022 16:10:21: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 406.71
+5/11/2022 16:10:21: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.14
+5/11/2022 16:10:21: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 10
+5/11/2022 16:10:21: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.11
+5/11/2022 16:11:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 16:11:55: [G_Auto 1] :  1 Automation Signals Cleared
+5/11/2022 16:13:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 16:13:32: [G_Auto 1] :  € 42.11 Lay bet placed on Bernarda Pera at 1.19. Fully matched at 1.18.  Ref: 10776          ( Fill or kill bet with 15 seconds delay.   )
+5/11/2022 16:13:35: [G_Auto 2] :  Store Text Value (Shared) for Nastasja Schunk: aPoints = point: 0; games: 1; sets: 1 
+5/11/2022 16:13:35: [G_Auto 2] :  Store Text Value (Shared) for Nastasja Schunk: aServing = serving:0
+5/11/2022 16:13:35: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: bPoints = point: 0; games: 3; sets: 1 
+5/11/2022 16:13:35: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: bServing = serving:2
+5/11/2022 16:13:35: [G_Auto 2] :  Store Value (Shared) for market: price = 1.18
+5/11/2022 16:13:35: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 201.25
+5/11/2022 16:13:35: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 247.57
+5/11/2022 16:13:35: [G_Auto 2] :  Store Value (Shared) for market: stake = 42.11
+5/11/2022 16:13:35: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 448.82
+5/11/2022 16:13:35: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.78
+5/11/2022 16:13:35: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 6.6
+5/11/2022 16:13:35: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.18
+5/11/2022 16:14:06: [G_Auto 1] :  1 Automation Signals Cleared
+5/11/2022 16:15:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 16:16:04: [G_Auto 1] :  Placed closure bet with greening on Bernarda Pera by Backing 46.01 at 1.08
+5/11/2022 16:16:08: [G_Auto 2] :  Store Text Value (Shared) for Nastasja Schunk: aPoints = point: 0; games: 1; sets: 1 
+5/11/2022 16:16:08: [G_Auto 2] :  Store Text Value (Shared) for Nastasja Schunk: aServing = serving:1
+5/11/2022 16:16:08: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: bPoints = point: 0; games: 4; sets: 1 
+5/11/2022 16:16:08: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: bServing = serving:0
+5/11/2022 16:16:08: [G_Auto 2] :  Store Value (Shared) for market: price = 1.08
+5/11/2022 16:16:08: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 247.26
+5/11/2022 16:16:08: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 247.57
+5/11/2022 16:16:08: [G_Auto 2] :  Store Value (Shared) for market: stake = 46.01
+5/11/2022 16:16:08: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 494.83
+5/11/2022 16:16:08: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.31
+5/11/2022 16:16:08: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 8
+5/11/2022 16:16:08: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.09
+5/11/2022 16:16:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 16:17:35: [G_Auto 1] :  1 Automation Signals Cleared
+5/11/2022 16:20:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 16:21:05: [G_Auto 1] :  1 Automation Signals Cleared
+5/11/2022 16:23:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 16:24:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 16:25:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 16:26:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 16:27:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 16:28:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 16:29:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 16:30:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 16:31:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 16:32:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 16:33:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 16:34:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 16:35:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 16:36:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 16:37:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 16:38:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 16:39:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 16:40:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 16:41:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 16:42:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 16:43:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 16:44:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 16:45:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 16:46:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 16:47:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 16:48:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 16:49:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 16:50:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 16:51:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 16:52:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/11/2022 16:53:37:  Guardian has detected that the market is suspended
