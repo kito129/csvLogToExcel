@@ -1,0 +1,513 @@
+5/12/2022 10:05:38: [G_Auto 2] :  Store Text Value (Shared) for Cori Gauff: info = marketName: Gauff v Sakkari - Match Odds; runnerA: Cori Gauff; runnerB: Maria Sakkari 
+5/12/2022 10:05:38: [G_Auto 2] :  Store Value (Shared) for market: aId = 19249131
+5/12/2022 10:05:38: [G_Auto 2] :  Store Value (Shared) for market: bId = 9002331
+5/12/2022 18:57:00:  Guardian has detected that the market is in-play
+5/12/2022 18:57:00:  Guardian has detected that the market is suspended
+5/12/2022 18:57:01: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 2.5; bBsp: 1.66; volume: 73904.13 
+5/12/2022 18:57:01: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 2.5; bBsp: 1.66; volume: 73904.13 
+5/12/2022 18:57:01:  Guardian has detected that the market is now unsuspended
+5/12/2022 18:57:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:57:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:57:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 18:57:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 18:57:55: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 19:00:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:00:54: [G_Auto 1] :  € 9.09 Lay bet placed on Maria Sakkari at 1.88. Entirely unmatched when it initially reached the market.   Ref: 10162          ( Fill or kill bet with 15 seconds delay.   )
+5/12/2022 19:00:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:00:57: [G_Auto 1] :  € 9.09 of unmatched bet (Ref:10162) was filled before remainder was killed.
+5/12/2022 19:00:57: [G_Auto 2] :  Store Text Value (Shared) for Cori Gauff: aPoints = point: 0; games: 1; sets: 0 
+5/12/2022 19:00:57: [G_Auto 2] :  Store Text Value (Shared) for Cori Gauff: aServing = serving:0
+5/12/2022 19:00:57: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bPoints = point: 0; games: 0; sets: 0 
+5/12/2022 19:00:57: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bServing = serving:2
+5/12/2022 19:00:57: [G_Auto 2] :  Store Value (Shared) for market: price = 1.88
+5/12/2022 19:00:57: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+5/12/2022 19:00:57: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 9.09
+5/12/2022 19:00:57: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.09
+5/12/2022 19:00:57: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 9.09
+5/12/2022 19:00:57: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.15
+5/12/2022 19:00:57: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.16
+5/12/2022 19:00:57: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.86
+5/12/2022 19:01:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:01:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:01:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:01:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:02:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 19:02:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 19:02:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 19:04:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:04:41: [G_Auto 1] :  Placed closure bet with greening on Maria Sakkari by Backing 10.23 at 1.67
+5/12/2022 19:04:41: [G_Auto 2] :  Store Text Value (Shared) for Cori Gauff: aPoints = point: 0; games: 1; sets: 0 
+5/12/2022 19:04:41: [G_Auto 2] :  Store Text Value (Shared) for Cori Gauff: aServing = serving:1
+5/12/2022 19:04:41: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bPoints = point: 0; games: 1; sets: 0 
+5/12/2022 19:04:41: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bServing = serving:0
+5/12/2022 19:04:41: [G_Auto 2] :  Store Value (Shared) for market: price = 1.67
+5/12/2022 19:04:41: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 10.23
+5/12/2022 19:04:41: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 9.09
+5/12/2022 19:04:41: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.23
+5/12/2022 19:04:41: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 19.32
+5/12/2022 19:04:41: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.14
+5/12/2022 19:04:41: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.46
+5/12/2022 19:04:41: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.67
+5/12/2022 19:04:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:04:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:05:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 19:05:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 19:05:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 19:05:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 19:08:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:08:44: [G_Auto 1] :  € 17.78 Lay bet placed on Maria Sakkari at 1.45. Fully matched at 1.45.  Ref: 10164          ( Fill or kill bet with 15 seconds delay.   )
+5/12/2022 19:08:44: [G_Auto 2] :  Store Text Value (Shared) for Cori Gauff: aPoints = point: 0; games: 1; sets: 0 
+5/12/2022 19:08:44: [G_Auto 2] :  Store Text Value (Shared) for Cori Gauff: aServing = serving:0
+5/12/2022 19:08:44: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bPoints = point: 0; games: 2; sets: 0 
+5/12/2022 19:08:44: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bServing = serving:2
+5/12/2022 19:08:44: [G_Auto 2] :  Store Value (Shared) for market: price = 1.45
+5/12/2022 19:08:44: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 10.23
+5/12/2022 19:08:44: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 26.87
+5/12/2022 19:08:44: [G_Auto 2] :  Store Value (Shared) for market: stake = 17.78
+5/12/2022 19:08:44: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 37.1
+5/12/2022 19:08:44: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.39
+5/12/2022 19:08:44: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.25
+5/12/2022 19:08:44: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.45
+5/12/2022 19:08:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:08:49: [G_Auto 2] :  Store Text Value (Shared) for Cori Gauff: aPoints = point: 0; games: 1; sets: 0 
+5/12/2022 19:08:49: [G_Auto 2] :  Store Text Value (Shared) for Cori Gauff: aServing = serving:0
+5/12/2022 19:08:49: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bPoints = point: 0; games: 2; sets: 0 
+5/12/2022 19:08:49: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bServing = serving:2
+5/12/2022 19:08:49: [G_Auto 2] :  Store Value (Shared) for market: price = 1.45
+5/12/2022 19:08:49: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 10.23
+5/12/2022 19:08:49: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 26.87
+5/12/2022 19:08:49: [G_Auto 2] :  Store Value (Shared) for market: stake = 17.78
+5/12/2022 19:08:49: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 37.1
+5/12/2022 19:08:49: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.27
+5/12/2022 19:08:49: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.25
+5/12/2022 19:08:49: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.45
+5/12/2022 19:09:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:09:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:09:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:09:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:10:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:10:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:10:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:10:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:10:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 19:11:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 19:16:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:16:49: [G_Auto 1] :  Placed closure bet with greening on Maria Sakkari by Backing 14.57 at 1.77
+5/12/2022 19:16:50: [G_Auto 2] :  Store Text Value (Shared) for Cori Gauff: aPoints = point: 0; games: 2; sets: 0 
+5/12/2022 19:16:50: [G_Auto 2] :  Store Text Value (Shared) for Cori Gauff: aServing = serving:1
+5/12/2022 19:16:50: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bPoints = point: 0; games: 2; sets: 0 
+5/12/2022 19:16:50: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bServing = serving:0
+5/12/2022 19:16:50: [G_Auto 2] :  Store Value (Shared) for market: price = 1.77
+5/12/2022 19:16:50: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 24.8
+5/12/2022 19:16:50: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 26.87
+5/12/2022 19:16:50: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.57
+5/12/2022 19:16:50: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 51.67
+5/12/2022 19:16:50: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.03
+5/12/2022 19:16:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.26
+5/12/2022 19:16:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.79
+5/12/2022 19:16:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:16:55: [G_Auto 2] :  Store Text Value (Shared) for Cori Gauff: aPoints = point: 0; games: 2; sets: 0 
+5/12/2022 19:16:55: [G_Auto 2] :  Store Text Value (Shared) for Cori Gauff: aServing = serving:1
+5/12/2022 19:16:55: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bPoints = point: 0; games: 2; sets: 0 
+5/12/2022 19:16:55: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bServing = serving:0
+5/12/2022 19:16:55: [G_Auto 2] :  Store Value (Shared) for market: price = 1.77
+5/12/2022 19:16:55: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 24.8
+5/12/2022 19:16:55: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 26.87
+5/12/2022 19:16:55: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.57
+5/12/2022 19:16:55: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 51.67
+5/12/2022 19:16:55: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.03
+5/12/2022 19:16:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.3
+5/12/2022 19:16:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.77
+5/12/2022 19:17:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:17:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 19:17:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 19:17:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 19:18:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 19:18:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 19:20:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:20:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:20:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:20:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:21:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:21:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:21:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:21:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:22:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:22:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 19:22:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 19:22:55: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 19:25:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:25:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:25:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:25:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 19:26:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 19:30:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:30:28: [G_Auto 1] :  € 17.78 Lay bet placed on Maria Sakkari at 1.45. Fully matched at 1.45.  Ref: 10166          ( Fill or kill bet with 15 seconds delay.   )
+5/12/2022 19:30:28: [G_Auto 2] :  Store Text Value (Shared) for Cori Gauff: aPoints = point: 0; games: 3; sets: 0 
+5/12/2022 19:30:28: [G_Auto 2] :  Store Text Value (Shared) for Cori Gauff: aServing = serving:0
+5/12/2022 19:30:28: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bPoints = point: 0; games: 4; sets: 0 
+5/12/2022 19:30:28: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bServing = serving:2
+5/12/2022 19:30:28: [G_Auto 2] :  Store Value (Shared) for market: price = 1.45
+5/12/2022 19:30:28: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 24.8
+5/12/2022 19:30:28: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 44.65
+5/12/2022 19:30:28: [G_Auto 2] :  Store Value (Shared) for market: stake = 17.78
+5/12/2022 19:30:28: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 69.45
+5/12/2022 19:30:28: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.91
+5/12/2022 19:30:28: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.25
+5/12/2022 19:30:28: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.45
+5/12/2022 19:30:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:30:34: [G_Auto 2] :  Store Text Value (Shared) for Cori Gauff: aPoints = point: 0; games: 3; sets: 0 
+5/12/2022 19:30:34: [G_Auto 2] :  Store Text Value (Shared) for Cori Gauff: aServing = serving:0
+5/12/2022 19:30:34: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bPoints = point: 0; games: 4; sets: 0 
+5/12/2022 19:30:34: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bServing = serving:2
+5/12/2022 19:30:34: [G_Auto 2] :  Store Value (Shared) for market: price = 1.45
+5/12/2022 19:30:34: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 24.8
+5/12/2022 19:30:34: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 44.65
+5/12/2022 19:30:34: [G_Auto 2] :  Store Value (Shared) for market: stake = 17.78
+5/12/2022 19:30:34: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 69.45
+5/12/2022 19:30:34: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.91
+5/12/2022 19:30:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.25
+5/12/2022 19:30:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.45
+5/12/2022 19:30:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:31:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:31:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:31:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:31:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:32:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:32:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:32:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:32:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 19:32:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 19:33:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 19:37:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:37:32: [G_Auto 1] :  Placed closure bet with greening on Maria Sakkari by Backing 19.24 at 1.34
+5/12/2022 19:37:33: [G_Auto 2] :  Store Text Value (Shared) for Cori Gauff: aPoints = point: 0; games: 3; sets: 0 
+5/12/2022 19:37:33: [G_Auto 2] :  Store Text Value (Shared) for Cori Gauff: aServing = serving:1
+5/12/2022 19:37:33: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bPoints = point: 0; games: 5; sets: 0 
+5/12/2022 19:37:33: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bServing = serving:0
+5/12/2022 19:37:33: [G_Auto 2] :  Store Value (Shared) for market: price = 1.34
+5/12/2022 19:37:33: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 44.04
+5/12/2022 19:37:33: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 44.65
+5/12/2022 19:37:33: [G_Auto 2] :  Store Value (Shared) for market: stake = 19.24
+5/12/2022 19:37:33: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 88.69
+5/12/2022 19:37:33: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.6
+5/12/2022 19:37:33: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.95
+5/12/2022 19:37:33: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.34
+5/12/2022 19:37:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:37:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:38:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 19:38:16: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 19:40:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:40:43: [G_Auto 1] :  € 18.60 Lay bet placed on Maria Sakkari at 1.43. Fully matched at 1.43.  Ref: 10170          ( Fill or kill bet with 15 seconds delay.   )
+5/12/2022 19:40:44: [G_Auto 2] :  Store Text Value (Shared) for Cori Gauff: aPoints = point: 0; games: 4; sets: 0 
+5/12/2022 19:40:44: [G_Auto 2] :  Store Text Value (Shared) for Cori Gauff: aServing = serving:0
+5/12/2022 19:40:44: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bPoints = point: 0; games: 5; sets: 0 
+5/12/2022 19:40:44: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bServing = serving:2
+5/12/2022 19:40:44: [G_Auto 2] :  Store Value (Shared) for market: price = 1.43
+5/12/2022 19:40:44: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 44.04
+5/12/2022 19:40:44: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 63.25
+5/12/2022 19:40:44: [G_Auto 2] :  Store Value (Shared) for market: stake = 18.6
+5/12/2022 19:40:44: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 107.29
+5/12/2022 19:40:44: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.34
+5/12/2022 19:40:44: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.4
+5/12/2022 19:40:44: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.42
+5/12/2022 19:40:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:41:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:41:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:41:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:41:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:42:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:42:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:42:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:42:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 19:42:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 19:43:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 19:45:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:45:45: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 4.6
+5/12/2022 19:45:45: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 1.27
+5/12/2022 19:45:49: [G_Auto 1] :  Placed closure bet with greening on Maria Sakkari by Backing 21.11 at 1.26
+5/12/2022 19:45:50: [G_Auto 2] :  Store Text Value (Shared) for Cori Gauff: aPoints = point: 0; games: 0; sets: 0 
+5/12/2022 19:45:50: [G_Auto 2] :  Store Text Value (Shared) for Cori Gauff: aServing = serving:1
+5/12/2022 19:45:50: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bPoints = point: 0; games: 0; sets: 1 
+5/12/2022 19:45:50: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bServing = serving:0
+5/12/2022 19:45:50: [G_Auto 2] :  Store Value (Shared) for market: price = 1.26
+5/12/2022 19:45:50: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 65.15
+5/12/2022 19:45:50: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 63.25
+5/12/2022 19:45:50: [G_Auto 2] :  Store Value (Shared) for market: stake = 21.11
+5/12/2022 19:45:50: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 128.4
+5/12/2022 19:45:50: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.9
+5/12/2022 19:45:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.7
+5/12/2022 19:45:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.27
+5/12/2022 19:45:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:46:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:46:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:46:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:46:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:47:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:47:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:47:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:47:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:48:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:48:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 19:48:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 19:50:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:50:18: [G_Auto 1] :  € 50.00 Lay bet placed on Maria Sakkari at 1.16. Fully matched at 1.15.  Ref: 10175          ( Fill or kill bet with 15 seconds delay.   )
+5/12/2022 19:50:18: [G_Auto 2] :  Store Text Value (Shared) for Cori Gauff: aPoints = point: 0; games: 0; sets: 0 
+5/12/2022 19:50:18: [G_Auto 2] :  Store Text Value (Shared) for Cori Gauff: aServing = serving:0
+5/12/2022 19:50:18: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bPoints = point: 0; games: 1; sets: 1 
+5/12/2022 19:50:18: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bServing = serving:2
+5/12/2022 19:50:18: [G_Auto 2] :  Store Value (Shared) for market: price = 1.15
+5/12/2022 19:50:18: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 65.15
+5/12/2022 19:50:18: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 113.25
+5/12/2022 19:50:18: [G_Auto 2] :  Store Value (Shared) for market: stake = 50
+5/12/2022 19:50:18: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 178.4
+5/12/2022 19:50:18: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.34
+5/12/2022 19:50:18: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 8.2
+5/12/2022 19:50:18: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.14
+5/12/2022 19:50:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:50:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:50:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:51:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:51:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 19:51:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 19:51:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 19:55:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:56:06: [G_Auto 1] :  Placed closure bet with greening on Maria Sakkari by Backing 52.75 at 1.09
+5/12/2022 19:56:07: [G_Auto 2] :  Store Text Value (Shared) for Cori Gauff: aPoints = point: 0; games: 0; sets: 0 
+5/12/2022 19:56:07: [G_Auto 2] :  Store Text Value (Shared) for Cori Gauff: aServing = serving:1
+5/12/2022 19:56:07: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bPoints = point: 0; games: 2; sets: 1 
+5/12/2022 19:56:07: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bServing = serving:0
+5/12/2022 19:56:07: [G_Auto 2] :  Store Value (Shared) for market: price = 1.09
+5/12/2022 19:56:07: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 117.9
+5/12/2022 19:56:07: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 113.25
+5/12/2022 19:56:07: [G_Auto 2] :  Store Value (Shared) for market: stake = 52.75
+5/12/2022 19:56:07: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 231.15
+5/12/2022 19:56:07: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.65
+5/12/2022 19:56:07: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 11
+5/12/2022 19:56:07: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.1
+5/12/2022 19:56:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:56:13: [G_Auto 2] :  Store Text Value (Shared) for Cori Gauff: aPoints = point: 0; games: 0; sets: 0 
+5/12/2022 19:56:13: [G_Auto 2] :  Store Text Value (Shared) for Cori Gauff: aServing = serving:1
+5/12/2022 19:56:13: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bPoints = point: 0; games: 2; sets: 1 
+5/12/2022 19:56:13: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bServing = serving:0
+5/12/2022 19:56:13: [G_Auto 2] :  Store Value (Shared) for market: price = 1.09
+5/12/2022 19:56:13: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 117.9
+5/12/2022 19:56:13: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 113.25
+5/12/2022 19:56:13: [G_Auto 2] :  Store Value (Shared) for market: stake = 52.75
+5/12/2022 19:56:13: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 231.15
+5/12/2022 19:56:13: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.65
+5/12/2022 19:56:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 11
+5/12/2022 19:56:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.1
+5/12/2022 19:56:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:56:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:56:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:56:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 19:57:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 19:57:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 19:59:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 20:00:01: [G_Auto 1] :  € 50.00 Lay bet placed on Maria Sakkari at 1.16. Fully matched at 1.15.  Ref: 10180          ( Fill or kill bet with 15 seconds delay.   )
+5/12/2022 20:00:02: [G_Auto 2] :  Store Text Value (Shared) for Cori Gauff: aPoints = point: 0; games: 1; sets: 0 
+5/12/2022 20:00:02: [G_Auto 2] :  Store Text Value (Shared) for Cori Gauff: aServing = serving:0
+5/12/2022 20:00:02: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bPoints = point: 0; games: 2; sets: 1 
+5/12/2022 20:00:02: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bServing = serving:2
+5/12/2022 20:00:02: [G_Auto 2] :  Store Value (Shared) for market: price = 1.15
+5/12/2022 20:00:02: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 117.9
+5/12/2022 20:00:02: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 163.25
+5/12/2022 20:00:02: [G_Auto 2] :  Store Value (Shared) for market: stake = 50
+5/12/2022 20:00:02: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 281.15
+5/12/2022 20:00:02: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.09
+5/12/2022 20:00:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 7.6
+5/12/2022 20:00:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.14
+5/12/2022 20:00:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 20:00:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 20:00:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 20:00:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 20:01:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 20:01:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 20:01:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 20:01:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 20:01:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 20:02:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 20:02:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 20:04:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 20:05:07: [G_Auto 1] :  Placed closure bet with greening on Maria Sakkari by Backing 52.75 at 1.09
+5/12/2022 20:05:07: [G_Auto 2] :  Store Text Value (Shared) for Cori Gauff: aPoints = point: 0; games: 1; sets: 0 
+5/12/2022 20:05:07: [G_Auto 2] :  Store Text Value (Shared) for Cori Gauff: aServing = serving:1
+5/12/2022 20:05:07: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bPoints = point: 0; games: 3; sets: 1 
+5/12/2022 20:05:07: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bServing = serving:0
+5/12/2022 20:05:07: [G_Auto 2] :  Store Value (Shared) for market: price = 1.09
+5/12/2022 20:05:07: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 170.65
+5/12/2022 20:05:07: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 163.25
+5/12/2022 20:05:07: [G_Auto 2] :  Store Value (Shared) for market: stake = 52.75
+5/12/2022 20:05:07: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 333.9
+5/12/2022 20:05:07: [G_Auto 2] :  Store Value (Shared) for market: pl = -7.4
+5/12/2022 20:05:07: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 11
+5/12/2022 20:05:07: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.1
+5/12/2022 20:05:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 20:05:13: [G_Auto 2] :  Store Text Value (Shared) for Cori Gauff: aPoints = point: 0; games: 1; sets: 0 
+5/12/2022 20:05:13: [G_Auto 2] :  Store Text Value (Shared) for Cori Gauff: aServing = serving:1
+5/12/2022 20:05:13: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bPoints = point: 0; games: 3; sets: 1 
+5/12/2022 20:05:13: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bServing = serving:0
+5/12/2022 20:05:13: [G_Auto 2] :  Store Value (Shared) for market: price = 1.09
+5/12/2022 20:05:13: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 170.65
+5/12/2022 20:05:13: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 163.25
+5/12/2022 20:05:13: [G_Auto 2] :  Store Value (Shared) for market: stake = 52.75
+5/12/2022 20:05:13: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 333.9
+5/12/2022 20:05:13: [G_Auto 2] :  Store Value (Shared) for market: pl = -7.4
+5/12/2022 20:05:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 11.5
+5/12/2022 20:05:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.1
+5/12/2022 20:05:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 20:05:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 20:05:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 20:06:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 20:11:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 20:11:14: [G_Auto 1] :  € 57.14 Lay bet placed on Maria Sakkari at 1.14. Fully matched at 1.13.  Ref: 10183          ( Fill or kill bet with 15 seconds delay.   )
+5/12/2022 20:11:14: [G_Auto 2] :  Store Text Value (Shared) for Cori Gauff: aPoints = point: 0; games: 2; sets: 0 
+5/12/2022 20:11:14: [G_Auto 2] :  Store Text Value (Shared) for Cori Gauff: aServing = serving:0
+5/12/2022 20:11:14: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bPoints = point: 0; games: 3; sets: 1 
+5/12/2022 20:11:14: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bServing = serving:2
+5/12/2022 20:11:14: [G_Auto 2] :  Store Value (Shared) for market: price = 1.13
+5/12/2022 20:11:14: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 170.65
+5/12/2022 20:11:14: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 220.39
+5/12/2022 20:11:14: [G_Auto 2] :  Store Value (Shared) for market: stake = 57.14
+5/12/2022 20:11:14: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 391.04
+5/12/2022 20:11:14: [G_Auto 2] :  Store Value (Shared) for market: pl = -7.91
+5/12/2022 20:11:14: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 10.5
+5/12/2022 20:11:14: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.12
+5/12/2022 20:11:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 20:11:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 20:11:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 20:12:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 20:12:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 20:12:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 20:12:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 20:13:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 20:13:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 20:13:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 20:17:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 20:18:05: [G_Auto 1] :  Placed closure bet with greening on Maria Sakkari by Backing 50.44 at 1.28
+5/12/2022 20:18:06: [G_Auto 2] :  Store Text Value (Shared) for Cori Gauff: aPoints = point: 0; games: 3; sets: 0 
+5/12/2022 20:18:06: [G_Auto 2] :  Store Text Value (Shared) for Cori Gauff: aServing = serving:1
+5/12/2022 20:18:06: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bPoints = point: 0; games: 3; sets: 1 
+5/12/2022 20:18:06: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bServing = serving:0
+5/12/2022 20:18:06: [G_Auto 2] :  Store Value (Shared) for market: price = 1.28
+5/12/2022 20:18:06: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 221.09
+5/12/2022 20:18:06: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 220.39
+5/12/2022 20:18:06: [G_Auto 2] :  Store Value (Shared) for market: stake = 50.44
+5/12/2022 20:18:06: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 441.48
+5/12/2022 20:18:06: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.7
+5/12/2022 20:18:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.6
+5/12/2022 20:18:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.28
+5/12/2022 20:18:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 20:18:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 20:18:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 20:18:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 20:19:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 20:19:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 20:19:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 20:23:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 20:23:44: [G_Auto 1] :  € 19.51 Lay bet placed on Maria Sakkari at 1.41. Fully matched at 1.4.  Ref: 10188          ( Fill or kill bet with 15 seconds delay.   )
+5/12/2022 20:23:45: [G_Auto 2] :  Store Text Value (Shared) for Cori Gauff: aPoints = point: 0; games: 4; sets: 0 
+5/12/2022 20:23:45: [G_Auto 2] :  Store Text Value (Shared) for Cori Gauff: aServing = serving:0
+5/12/2022 20:23:45: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bPoints = point: 0; games: 3; sets: 1 
+5/12/2022 20:23:45: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bServing = serving:2
+5/12/2022 20:23:45: [G_Auto 2] :  Store Value (Shared) for market: price = 1.4
+5/12/2022 20:23:45: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 221.09
+5/12/2022 20:23:45: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 239.9
+5/12/2022 20:23:45: [G_Auto 2] :  Store Value (Shared) for market: stake = 19.51
+5/12/2022 20:23:45: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 460.99
+5/12/2022 20:23:45: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.84
+5/12/2022 20:23:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.6
+5/12/2022 20:23:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.39
+5/12/2022 20:23:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 20:24:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 20:24:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 20:24:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 20:24:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 20:25:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 20:25:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 20:25:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 20:25:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 20:25:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 20:26:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 20:26:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 20:29:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 20:29:13: [G_Auto 1] :  Placed closure bet with greening on Maria Sakkari by Backing 21.51 at 1.27
+5/12/2022 20:29:13: [G_Auto 2] :  Store Text Value (Shared) for Cori Gauff: aPoints = point: 0; games: 4; sets: 0 
+5/12/2022 20:29:13: [G_Auto 2] :  Store Text Value (Shared) for Cori Gauff: aServing = serving:1
+5/12/2022 20:29:13: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bPoints = point: 0; games: 4; sets: 1 
+5/12/2022 20:29:13: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bServing = serving:0
+5/12/2022 20:29:13: [G_Auto 2] :  Store Value (Shared) for market: price = 1.27
+5/12/2022 20:29:13: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 242.6
+5/12/2022 20:29:13: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 239.9
+5/12/2022 20:29:13: [G_Auto 2] :  Store Value (Shared) for market: stake = 21.51
+5/12/2022 20:29:13: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 482.5
+5/12/2022 20:29:13: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.7
+5/12/2022 20:29:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.5
+5/12/2022 20:29:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.28
+5/12/2022 20:29:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 20:29:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 20:29:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 20:29:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 20:30:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 20:31:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 20:32:10: [G_Auto 1] :  € 17.39 Lay bet placed on Maria Sakkari at 1.46. Fully matched at 1.45.  Ref: 10190          ( Fill or kill bet with 15 seconds delay.   )
+5/12/2022 20:32:11: [G_Auto 2] :  Store Text Value (Shared) for Cori Gauff: aPoints = point: 0; games: 5; sets: 0 
+5/12/2022 20:32:11: [G_Auto 2] :  Store Text Value (Shared) for Cori Gauff: aServing = serving:0
+5/12/2022 20:32:11: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bPoints = point: 0; games: 4; sets: 1 
+5/12/2022 20:32:11: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bServing = serving:2
+5/12/2022 20:32:11: [G_Auto 2] :  Store Value (Shared) for market: price = 1.45
+5/12/2022 20:32:11: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 242.6
+5/12/2022 20:32:11: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 257.29
+5/12/2022 20:32:11: [G_Auto 2] :  Store Value (Shared) for market: stake = 17.39
+5/12/2022 20:32:11: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 499.89
+5/12/2022 20:32:11: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.82
+5/12/2022 20:32:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.3
+5/12/2022 20:32:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.44
+5/12/2022 20:32:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 20:32:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 20:32:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 20:33:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 20:33:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 20:33:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 20:33:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 20:34:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 20:34:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 20:34:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 20:34:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 20:34:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 20:37:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 20:37:39: [G_Auto 1] :  Placed closure bet with greening on Maria Sakkari by Backing 19.70 at 1.28
+5/12/2022 20:37:40: [G_Auto 2] :  Store Text Value (Shared) for Cori Gauff: aPoints = point: 0; games: 5; sets: 0 
+5/12/2022 20:37:40: [G_Auto 2] :  Store Text Value (Shared) for Cori Gauff: aServing = serving:1
+5/12/2022 20:37:40: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bPoints = point: 0; games: 5; sets: 1 
+5/12/2022 20:37:40: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bServing = serving:0
+5/12/2022 20:37:40: [G_Auto 2] :  Store Value (Shared) for market: price = 1.28
+5/12/2022 20:37:40: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 262.3
+5/12/2022 20:37:40: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 257.29
+5/12/2022 20:37:40: [G_Auto 2] :  Store Value (Shared) for market: stake = 19.7
+5/12/2022 20:37:40: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 519.59
+5/12/2022 20:37:40: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.01
+5/12/2022 20:37:40: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.4
+5/12/2022 20:37:40: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.29
+5/12/2022 20:37:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 20:37:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 20:38:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 20:38:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 20:41:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 20:42:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 20:42:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 20:42:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 20:42:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 20:43:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 20:43:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 20:43:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 20:43:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 20:44:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 20:44:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 20:44:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 20:44:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 20:44:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 20:46:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 20:46:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 20:46:39:  Guardian has detected that the market is suspended

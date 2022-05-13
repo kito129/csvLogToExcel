@@ -1,0 +1,269 @@
+5/12/2022 10:05:36: [G_Auto 2] :  Store Text Value (Shared) for Jenson Brooksby: info = marketName: Brooksby v Ruud - Match Odds; runnerA: Jenson Brooksby; runnerB: Casper Ruud 
+5/12/2022 10:05:36: [G_Auto 2] :  Store Value (Shared) for market: aId = 11881072
+5/12/2022 10:05:36: [G_Auto 2] :  Store Value (Shared) for market: bId = 9629711
+5/12/2022 17:38:47:  Guardian has detected that the market is in-play
+5/12/2022 17:38:47:  Guardian has detected that the market is suspended
+5/12/2022 17:38:48: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 4.4; bBsp: 1.26; volume: 35444.41 
+5/12/2022 17:38:48: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 4.4; bBsp: 1.26; volume: 35444.41 
+5/12/2022 17:38:48:  Guardian has detected that the market is now unsuspended
+5/12/2022 17:38:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 17:39:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 17:39:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 17:41:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:41:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:41:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:42:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:42:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 17:42:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 17:42:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 17:45:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:45:34: [G_Auto 1] :  € 27.59 Lay bet placed on Casper Ruud at 1.29. Fully matched at 1.29.  Ref: 10150          ( Fill or kill bet with 15 seconds delay.   )
+5/12/2022 17:45:35: [G_Auto 2] :  Store Text Value (Shared) for Jenson Brooksby: aPoints = point: 0; games: 1; sets: 0 
+5/12/2022 17:45:35: [G_Auto 2] :  Store Text Value (Shared) for Jenson Brooksby: aServing = serving:0
+5/12/2022 17:45:35: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 1; sets: 0 
+5/12/2022 17:45:35: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:2
+5/12/2022 17:45:35: [G_Auto 2] :  Store Value (Shared) for market: price = 1.29
+5/12/2022 17:45:35: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+5/12/2022 17:45:35: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 27.59
+5/12/2022 17:45:35: [G_Auto 2] :  Store Value (Shared) for market: stake = 27.59
+5/12/2022 17:45:35: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 27.59
+5/12/2022 17:45:35: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.43
+5/12/2022 17:45:35: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.4
+5/12/2022 17:45:35: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.28
+5/12/2022 17:45:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:45:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:46:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 17:46:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 17:48:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:48:18: [G_Auto 1] :  Placed closure bet with greening on Casper Ruud by Backing 29.17 at 1.22
+5/12/2022 17:48:19: [G_Auto 2] :  Store Text Value (Shared) for Jenson Brooksby: aPoints = point: 0; games: 1; sets: 0 
+5/12/2022 17:48:19: [G_Auto 2] :  Store Text Value (Shared) for Jenson Brooksby: aServing = serving:1
+5/12/2022 17:48:19: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 2; sets: 0 
+5/12/2022 17:48:19: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:0
+5/12/2022 17:48:19: [G_Auto 2] :  Store Value (Shared) for market: price = 1.22
+5/12/2022 17:48:19: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 29.17
+5/12/2022 17:48:19: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 27.59
+5/12/2022 17:48:19: [G_Auto 2] :  Store Value (Shared) for market: stake = 29.17
+5/12/2022 17:48:19: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 56.76
+5/12/2022 17:48:19: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.58
+5/12/2022 17:48:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 5.3
+5/12/2022 17:48:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.23
+5/12/2022 17:48:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:48:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:48:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:49:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:49:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:49:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:49:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:50:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:50:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 17:50:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 17:58:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:58:49: [G_Auto 1] :  € 29.63 Lay bet placed on Casper Ruud at 1.27. Fully matched at 1.26.  Ref: 10153          ( Fill or kill bet with 15 seconds delay.   )
+5/12/2022 17:58:51: [G_Auto 2] :  Store Text Value (Shared) for Jenson Brooksby: aPoints = point: 0; games: 2; sets: 0 
+5/12/2022 17:58:51: [G_Auto 2] :  Store Text Value (Shared) for Jenson Brooksby: aServing = serving:0
+5/12/2022 17:58:51: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 2; sets: 0 
+5/12/2022 17:58:51: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:2
+5/12/2022 17:58:51: [G_Auto 2] :  Store Value (Shared) for market: price = 1.26
+5/12/2022 17:58:51: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 29.17
+5/12/2022 17:58:51: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 57.22
+5/12/2022 17:58:51: [G_Auto 2] :  Store Value (Shared) for market: stake = 29.63
+5/12/2022 17:58:51: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 86.39
+5/12/2022 17:58:51: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.06
+5/12/2022 17:58:51: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 5
+5/12/2022 17:58:51: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.25
+5/12/2022 17:58:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:59:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:59:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 17:59:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 17:59:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 18:00:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:01:04: [G_Auto 1] :  Placed closure bet with greening on Casper Ruud by Backing 31.38 at 1.19
+5/12/2022 18:01:06: [G_Auto 2] :  Store Text Value (Shared) for Jenson Brooksby: aPoints = point: 0; games: 2; sets: 0 
+5/12/2022 18:01:06: [G_Auto 2] :  Store Text Value (Shared) for Jenson Brooksby: aServing = serving:1
+5/12/2022 18:01:06: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 3; sets: 0 
+5/12/2022 18:01:06: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:0
+5/12/2022 18:01:06: [G_Auto 2] :  Store Value (Shared) for market: price = 1.19
+5/12/2022 18:01:06: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 60.55
+5/12/2022 18:01:06: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 57.22
+5/12/2022 18:01:06: [G_Auto 2] :  Store Value (Shared) for market: stake = 31.38
+5/12/2022 18:01:06: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 117.77
+5/12/2022 18:01:06: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.33
+5/12/2022 18:01:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 6
+5/12/2022 18:01:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.2
+5/12/2022 18:01:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:01:12: [G_Auto 2] :  Store Text Value (Shared) for Jenson Brooksby: aPoints = point: 0; games: 2; sets: 0 
+5/12/2022 18:01:12: [G_Auto 2] :  Store Text Value (Shared) for Jenson Brooksby: aServing = serving:1
+5/12/2022 18:01:12: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 3; sets: 0 
+5/12/2022 18:01:12: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:0
+5/12/2022 18:01:12: [G_Auto 2] :  Store Value (Shared) for market: price = 1.19
+5/12/2022 18:01:12: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 60.55
+5/12/2022 18:01:12: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 57.22
+5/12/2022 18:01:12: [G_Auto 2] :  Store Value (Shared) for market: stake = 31.38
+5/12/2022 18:01:12: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 117.77
+5/12/2022 18:01:12: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.33
+5/12/2022 18:01:12: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 6
+5/12/2022 18:01:12: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.2
+5/12/2022 18:01:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:01:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:01:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:02:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:02:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:02:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:02:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:03:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 18:03:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 18:03:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 18:07:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:07:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:07:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:08:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:08:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:08:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 18:12:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:12:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:12:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:13:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:13:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:13:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:13:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:14:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:14:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:14:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:14:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 18:15:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 18:16:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:17:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:17:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:17:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:17:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:17:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 18:25:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:25:40: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 10
+5/12/2022 18:25:40: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 1.08
+5/12/2022 18:25:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:26:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:26:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:26:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:26:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:27:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:27:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:27:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:27:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:28:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:28:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:28:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:28:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:29:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 18:29:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 18:29:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 18:35:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:35:24: [G_Auto 1] :  € 66.67 Lay bet placed on Casper Ruud at 1.12. Fully matched at 1.11.  Ref: 10160          ( Fill or kill bet with 15 seconds delay.   )
+5/12/2022 18:35:25: [G_Auto 2] :  Store Text Value (Shared) for Jenson Brooksby: aPoints = point: 0; games: 1; sets: 0 
+5/12/2022 18:35:25: [G_Auto 2] :  Store Text Value (Shared) for Jenson Brooksby: aServing = serving:0
+5/12/2022 18:35:25: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 0; sets: 1 
+5/12/2022 18:35:25: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:2
+5/12/2022 18:35:25: [G_Auto 2] :  Store Value (Shared) for market: price = 1.11
+5/12/2022 18:35:25: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 60.55
+5/12/2022 18:35:25: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 123.89
+5/12/2022 18:35:25: [G_Auto 2] :  Store Value (Shared) for market: stake = 66.67
+5/12/2022 18:35:25: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 184.44
+5/12/2022 18:35:25: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.93
+5/12/2022 18:35:25: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 10
+5/12/2022 18:35:25: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.1
+5/12/2022 18:35:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:35:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:35:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:36:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:36:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 18:36:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 18:36:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 18:37:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:38:09: [G_Auto 1] :  Placed closure bet with greening on Casper Ruud by Backing 68.52 at 1.08
+5/12/2022 18:38:10: [G_Auto 2] :  Store Text Value (Shared) for Jenson Brooksby: aPoints = point: 0; games: 1; sets: 0 
+5/12/2022 18:38:10: [G_Auto 2] :  Store Text Value (Shared) for Jenson Brooksby: aServing = serving:1
+5/12/2022 18:38:10: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 1; sets: 1 
+5/12/2022 18:38:10: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:0
+5/12/2022 18:38:10: [G_Auto 2] :  Store Value (Shared) for market: price = 1.08
+5/12/2022 18:38:10: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 129.07
+5/12/2022 18:38:10: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 123.89
+5/12/2022 18:38:10: [G_Auto 2] :  Store Value (Shared) for market: stake = 68.52
+5/12/2022 18:38:10: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 252.96
+5/12/2022 18:38:10: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.18
+5/12/2022 18:38:10: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 13.5
+5/12/2022 18:38:10: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.09
+5/12/2022 18:38:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:38:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:38:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 18:38:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 18:43:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:44:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:44:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:44:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:44:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:45:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:45:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:45:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:45:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:46:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:46:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 18:46:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 18:46:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 18:47:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 18:47:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:48:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:48:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:48:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 18:48:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 18:49:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:49:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:50:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:50:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:50:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:50:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:51:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:51:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:51:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:51:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 18:52:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 18:52:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 18:54:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:54:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:55:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:55:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:55:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:55:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 18:56:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 18:56:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 18:58:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:58:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:58:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:58:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:59:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:59:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:59:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:00:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:00:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:00:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 19:00:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 19:01:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 19:05:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:05:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:05:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:05:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:06:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 19:06:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 19:06:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 19:06:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 19:09:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:10:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:10:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:10:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:10:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:11:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:11:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:11:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:11:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 19:12:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 19:14:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 19:14:49:  Guardian has detected that the market is suspended

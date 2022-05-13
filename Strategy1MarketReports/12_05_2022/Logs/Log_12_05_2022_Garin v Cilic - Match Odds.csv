@@ -1,0 +1,761 @@
+5/12/2022 10:05:39: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: info = marketName: Garin v Cilic - Match Odds; runnerA: Cristian Garin; runnerB: Marin Cilic 
+5/12/2022 10:05:39: [G_Auto 2] :  Store Value (Shared) for market: aId = 23814703
+5/12/2022 10:05:39: [G_Auto 2] :  Store Value (Shared) for market: bId = 2263681
+5/12/2022 15:40:06:  Guardian has detected that the market is in-play
+5/12/2022 15:40:06:  Guardian has detected that the market is suspended
+5/12/2022 15:40:08: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 2.7; bBsp: 1.58; volume: 44073.51 
+5/12/2022 15:40:08: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 2.7; bBsp: 1.58; volume: 44073.51 
+5/12/2022 15:40:08:  Guardian has detected that the market is now unsuspended
+5/12/2022 15:40:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 15:40:23: [G_Auto 1] :  € 13.56 Lay bet placed on Marin Cilic at 1.59. Entirely unmatched when it initially reached the market.   Ref: 10103          ( Fill or kill bet with 15 seconds delay.   )
+5/12/2022 15:40:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 15:40:29: [G_Auto 1] :  € 13.56 of unmatched bet (Ref:10103) was filled before remainder was killed.
+5/12/2022 15:40:29: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 0; sets: 0 
+5/12/2022 15:40:29: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:0
+5/12/2022 15:40:29: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 15; games: 0; sets: 0 
+5/12/2022 15:40:29: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:2
+5/12/2022 15:40:29: [G_Auto 2] :  Store Value (Shared) for market: price = 1.59
+5/12/2022 15:40:29: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+5/12/2022 15:40:29: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 13.56
+5/12/2022 15:40:29: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.56
+5/12/2022 15:40:29: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 13.56
+5/12/2022 15:40:29: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.26
+5/12/2022 15:40:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.74
+5/12/2022 15:40:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.57
+5/12/2022 15:40:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 15:40:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 15:42:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 15:42:16: [G_Auto 1] :  Placed closure bet with greening on Marin Cilic by Backing 14.67 at 1.47
+5/12/2022 15:42:17: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 0; sets: 0 
+5/12/2022 15:42:17: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:1
+5/12/2022 15:42:17: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 1; sets: 0 
+5/12/2022 15:42:17: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:0
+5/12/2022 15:42:17: [G_Auto 2] :  Store Value (Shared) for market: price = 1.48
+5/12/2022 15:42:17: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 14.67
+5/12/2022 15:42:17: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 13.56
+5/12/2022 15:42:17: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.67
+5/12/2022 15:42:17: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 28.23
+5/12/2022 15:42:17: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.01
+5/12/2022 15:42:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3
+5/12/2022 15:42:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.49
+5/12/2022 15:42:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 15:42:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 15:42:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 15:43:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 15:43:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 15:43:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 15:43:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 15:46:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 15:46:16: [G_Auto 1] :  € 13.11 Lay bet placed on Marin Cilic at 1.61. Fully matched at 1.6.  Ref: 10106          ( Fill or kill bet with 15 seconds delay.   )
+5/12/2022 15:46:17: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 1; sets: 0 
+5/12/2022 15:46:17: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:0
+5/12/2022 15:46:17: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 1; sets: 0 
+5/12/2022 15:46:17: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:2
+5/12/2022 15:46:17: [G_Auto 2] :  Store Value (Shared) for market: price = 1.6
+5/12/2022 15:46:17: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 14.67
+5/12/2022 15:46:17: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 26.67
+5/12/2022 15:46:17: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.11
+5/12/2022 15:46:17: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 41.34
+5/12/2022 15:46:17: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.1
+5/12/2022 15:46:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.66
+5/12/2022 15:46:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.6
+5/12/2022 15:46:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 15:46:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 15:46:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 15:46:55: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 15:47:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 15:49:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 15:50:11: [G_Auto 1] :  Placed closure bet with greening on Marin Cilic by Backing 13.98 at 1.49
+5/12/2022 15:50:13: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 1; sets: 0 
+5/12/2022 15:50:13: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:1
+5/12/2022 15:50:13: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 2; sets: 0 
+5/12/2022 15:50:13: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:0
+5/12/2022 15:50:13: [G_Auto 2] :  Store Value (Shared) for market: price = 1.5
+5/12/2022 15:50:13: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 28.65
+5/12/2022 15:50:13: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 26.67
+5/12/2022 15:50:13: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.98
+5/12/2022 15:50:13: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 55.32
+5/12/2022 15:50:13: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.88
+5/12/2022 15:50:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3
+5/12/2022 15:50:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.51
+5/12/2022 15:50:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 15:50:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 15:50:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 15:51:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 15:51:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 15:51:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 15:51:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 15:52:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 15:52:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 15:59:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 16:00:00: [G_Auto 1] :  € 14.04 Lay bet placed on Marin Cilic at 1.57. Fully matched at 1.56.  Ref: 10109          ( Fill or kill bet with 15 seconds delay.   )
+5/12/2022 16:00:01: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 2; sets: 0 
+5/12/2022 16:00:01: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:0
+5/12/2022 16:00:01: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 2; sets: 0 
+5/12/2022 16:00:01: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:2
+5/12/2022 16:00:01: [G_Auto 2] :  Store Value (Shared) for market: price = 1.56
+5/12/2022 16:00:01: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 28.65
+5/12/2022 16:00:01: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 40.71
+5/12/2022 16:00:01: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.04
+5/12/2022 16:00:01: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 69.36
+5/12/2022 16:00:01: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.98
+5/12/2022 16:00:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.82
+5/12/2022 16:00:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.55
+5/12/2022 16:00:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 16:00:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 16:00:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 16:00:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 16:00:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 16:01:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 16:01:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 16:04:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 16:04:34: [G_Auto 1] :  Placed closure bet with greening on Marin Cilic by Backing 10.67 at 2.04
+5/12/2022 16:04:34: [G_Auto 1] :  € 8.42 Lay bet placed on Cristian Garin at 1.95. Entirely unmatched when it initially reached the market.   Ref: 10110          ( Fill or kill bet with 15 seconds delay.   )
+5/12/2022 16:04:35: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 3; sets: 0 
+5/12/2022 16:04:35: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:1
+5/12/2022 16:04:35: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 2; sets: 0 
+5/12/2022 16:04:35: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:0
+5/12/2022 16:04:35: [G_Auto 2] :  Store Value (Shared) for market: price = 2.04
+5/12/2022 16:04:35: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 39.32
+5/12/2022 16:04:35: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 40.71
+5/12/2022 16:04:35: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.67
+5/12/2022 16:04:35: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 80.03
+5/12/2022 16:04:35: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.36
+5/12/2022 16:04:35: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.95
+5/12/2022 16:04:35: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.04
+5/12/2022 16:04:37: [G_Auto 1] :  € 8.42 of unmatched bet (Ref:10110) was filled before remainder was killed.
+5/12/2022 16:04:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 16:04:40: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 3; sets: 0 
+5/12/2022 16:04:40: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:1
+5/12/2022 16:04:40: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 2; sets: 0 
+5/12/2022 16:04:40: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:0
+5/12/2022 16:04:40: [G_Auto 2] :  Store Value (Shared) for market: price = 1.95
+5/12/2022 16:04:40: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 39.32
+5/12/2022 16:04:40: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 49.13
+5/12/2022 16:04:40: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.42
+5/12/2022 16:04:40: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 88.45
+5/12/2022 16:04:40: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.32
+5/12/2022 16:04:40: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.94
+5/12/2022 16:04:40: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.04
+5/12/2022 16:04:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 16:05:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 16:05:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 16:05:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 16:06:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 16:06:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 16:06:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 16:06:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 16:06:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 16:07:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 16:09:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 16:09:29: [G_Auto 1] :  Placed closure bet with greening on Cristian Garin by Backing 9.60 at 1.71
+5/12/2022 16:09:30: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 4; sets: 0 
+5/12/2022 16:09:30: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:0
+5/12/2022 16:09:30: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 2; sets: 0 
+5/12/2022 16:09:30: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:2
+5/12/2022 16:09:30: [G_Auto 2] :  Store Value (Shared) for market: price = 1.71
+5/12/2022 16:09:30: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 48.92
+5/12/2022 16:09:30: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 49.13
+5/12/2022 16:09:30: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.6
+5/12/2022 16:09:30: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 98.05
+5/12/2022 16:09:30: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.21
+5/12/2022 16:09:30: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.72
+5/12/2022 16:09:30: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.38
+5/12/2022 16:09:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 16:09:36: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 4; sets: 0 
+5/12/2022 16:09:36: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:0
+5/12/2022 16:09:36: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 2; sets: 0 
+5/12/2022 16:09:36: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:2
+5/12/2022 16:09:36: [G_Auto 2] :  Store Value (Shared) for market: price = 1.71
+5/12/2022 16:09:36: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 48.92
+5/12/2022 16:09:36: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 49.13
+5/12/2022 16:09:36: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.6
+5/12/2022 16:09:36: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 98.05
+5/12/2022 16:09:36: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.21
+5/12/2022 16:09:36: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.72
+5/12/2022 16:09:36: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.4
+5/12/2022 16:09:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 16:10:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 16:10:16: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 16:10:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 16:10:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 16:13:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 16:13:58: [G_Auto 1] :  € 9.88 Lay bet placed on Cristian Garin at 1.81. Fully matched at 1.8.  Ref: 10113          ( Fill or kill bet with 15 seconds delay.   )
+5/12/2022 16:13:59: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 4; sets: 0 
+5/12/2022 16:13:59: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:1
+5/12/2022 16:13:59: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 3; sets: 0 
+5/12/2022 16:13:59: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:0
+5/12/2022 16:13:59: [G_Auto 2] :  Store Value (Shared) for market: price = 1.8
+5/12/2022 16:13:59: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 48.92
+5/12/2022 16:13:59: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 59.01
+5/12/2022 16:13:59: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.88
+5/12/2022 16:13:59: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 107.93
+5/12/2022 16:13:59: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.15
+5/12/2022 16:13:59: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.79
+5/12/2022 16:13:59: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.26
+5/12/2022 16:14:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 16:14:04: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 4; sets: 0 
+5/12/2022 16:14:04: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:1
+5/12/2022 16:14:04: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 3; sets: 0 
+5/12/2022 16:14:04: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:0
+5/12/2022 16:14:04: [G_Auto 2] :  Store Value (Shared) for market: price = 1.8
+5/12/2022 16:14:04: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 48.92
+5/12/2022 16:14:04: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 59.01
+5/12/2022 16:14:04: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.88
+5/12/2022 16:14:04: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 107.93
+5/12/2022 16:14:04: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.15
+5/12/2022 16:14:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.8
+5/12/2022 16:14:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.26
+5/12/2022 16:14:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 16:14:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 16:14:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 16:15:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 16:15:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 16:15:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 16:15:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 16:16:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 16:24:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 16:24:47: [G_Auto 1] :  Placed closure bet with greening on Cristian Garin by Backing 10.85 at 1.64
+5/12/2022 16:24:48: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 5; sets: 0 
+5/12/2022 16:24:48: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:0
+5/12/2022 16:24:48: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 3; sets: 0 
+5/12/2022 16:24:48: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:2
+5/12/2022 16:24:48: [G_Auto 2] :  Store Value (Shared) for market: price = 1.64
+5/12/2022 16:24:48: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 59.77
+5/12/2022 16:24:48: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 59.01
+5/12/2022 16:24:48: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.85
+5/12/2022 16:24:48: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 118.78
+5/12/2022 16:24:48: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.75
+5/12/2022 16:24:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.66
+5/12/2022 16:24:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.5
+5/12/2022 16:24:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 16:25:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 16:25:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 16:25:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 16:28:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 16:28:53: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 1.5
+5/12/2022 16:28:53: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 3
+5/12/2022 16:28:58: [G_Auto 1] :  € 15.69 Lay bet placed on Cristian Garin at 1.51. Fully matched at 1.51.  Ref: 10118          ( Fill or kill bet with 15 seconds delay.   )
+5/12/2022 16:28:59: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 0; sets: 1 
+5/12/2022 16:28:59: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:1
+5/12/2022 16:28:59: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 0; sets: 0 
+5/12/2022 16:28:59: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:0
+5/12/2022 16:28:59: [G_Auto 2] :  Store Value (Shared) for market: price = 1.51
+5/12/2022 16:28:59: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 59.77
+5/12/2022 16:28:59: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 74.7
+5/12/2022 16:28:59: [G_Auto 2] :  Store Value (Shared) for market: stake = 15.69
+5/12/2022 16:28:59: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 134.47
+5/12/2022 16:28:59: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.86
+5/12/2022 16:28:59: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.5
+5/12/2022 16:28:59: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3
+5/12/2022 16:29:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 16:29:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 16:29:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 16:29:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 16:30:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 16:30:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 16:30:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 16:30:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 16:31:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 16:31:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 16:31:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 16:32:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 16:32:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 16:32:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 16:32:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 16:33:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 16:33:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 16:37:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 16:37:15: [G_Auto 1] :  Placed closure bet with greening on Cristian Garin by Backing 16.92 at 1.4
+5/12/2022 16:37:16: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 1; sets: 1 
+5/12/2022 16:37:16: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:0
+5/12/2022 16:37:16: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 0; sets: 0 
+5/12/2022 16:37:16: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:2
+5/12/2022 16:37:16: [G_Auto 2] :  Store Value (Shared) for market: price = 1.41
+5/12/2022 16:37:16: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 76.69
+5/12/2022 16:37:16: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 74.7
+5/12/2022 16:37:16: [G_Auto 2] :  Store Value (Shared) for market: stake = 16.92
+5/12/2022 16:37:16: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 151.39
+5/12/2022 16:37:16: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.87
+5/12/2022 16:37:16: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.42
+5/12/2022 16:37:16: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.35
+5/12/2022 16:37:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 16:37:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 16:37:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 16:38:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 16:38:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 16:38:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 16:40:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 16:40:23: [G_Auto 1] :  € 14.81 Lay bet placed on Cristian Garin at 1.54. Fully matched at 1.53.  Ref: 10125          ( Fill or kill bet with 15 seconds delay.   )
+5/12/2022 16:40:24: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 1; sets: 1 
+5/12/2022 16:40:24: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:1
+5/12/2022 16:40:24: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 1; sets: 0 
+5/12/2022 16:40:24: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:0
+5/12/2022 16:40:24: [G_Auto 2] :  Store Value (Shared) for market: price = 1.53
+5/12/2022 16:40:24: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 76.69
+5/12/2022 16:40:24: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 89.51
+5/12/2022 16:40:24: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.81
+5/12/2022 16:40:24: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 166.2
+5/12/2022 16:40:24: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.88
+5/12/2022 16:40:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.53
+5/12/2022 16:40:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.86
+5/12/2022 16:40:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 16:40:29: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 1; sets: 1 
+5/12/2022 16:40:29: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:1
+5/12/2022 16:40:29: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 1; sets: 0 
+5/12/2022 16:40:29: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:0
+5/12/2022 16:40:29: [G_Auto 2] :  Store Value (Shared) for market: price = 1.53
+5/12/2022 16:40:29: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 76.69
+5/12/2022 16:40:29: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 89.51
+5/12/2022 16:40:29: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.81
+5/12/2022 16:40:29: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 166.2
+5/12/2022 16:40:29: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.97
+5/12/2022 16:40:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.52
+5/12/2022 16:40:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.92
+5/12/2022 16:40:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 16:41:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 16:41:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 16:41:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 16:41:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 16:45:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 16:45:37: [G_Auto 1] :  Placed closure bet with greening on Cristian Garin by Backing 15.95 at 1.41
+5/12/2022 16:45:38: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 2; sets: 1 
+5/12/2022 16:45:38: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:0
+5/12/2022 16:45:38: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 1; sets: 0 
+5/12/2022 16:45:38: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:2
+5/12/2022 16:45:38: [G_Auto 2] :  Store Value (Shared) for market: price = 1.42
+5/12/2022 16:45:38: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 92.64
+5/12/2022 16:45:38: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 89.51
+5/12/2022 16:45:38: [G_Auto 2] :  Store Value (Shared) for market: stake = 15.95
+5/12/2022 16:45:38: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 182.15
+5/12/2022 16:45:38: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.02
+5/12/2022 16:45:38: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.43
+5/12/2022 16:45:38: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.3
+5/12/2022 16:45:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 16:45:43: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 2; sets: 1 
+5/12/2022 16:45:43: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:0
+5/12/2022 16:45:43: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 1; sets: 0 
+5/12/2022 16:45:43: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:2
+5/12/2022 16:45:43: [G_Auto 2] :  Store Value (Shared) for market: price = 1.42
+5/12/2022 16:45:43: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 92.64
+5/12/2022 16:45:43: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 89.51
+5/12/2022 16:45:43: [G_Auto 2] :  Store Value (Shared) for market: stake = 15.95
+5/12/2022 16:45:43: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 182.15
+5/12/2022 16:45:43: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.02
+5/12/2022 16:45:43: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.43
+5/12/2022 16:45:43: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.35
+5/12/2022 16:45:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 16:46:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 16:46:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 16:46:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 16:47:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 16:47:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 16:47:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 16:47:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 16:47:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 16:48:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 16:48:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 16:53:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 16:54:04: [G_Auto 1] :  € 50.00 Lay bet placed on Cristian Garin at 1.16. Fully matched at 1.16.  Ref: 10133          ( Fill or kill bet with 15 seconds delay.   )
+5/12/2022 16:54:04: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 3; sets: 1 
+5/12/2022 16:54:04: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:1
+5/12/2022 16:54:04: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 1; sets: 0 
+5/12/2022 16:54:04: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:0
+5/12/2022 16:54:04: [G_Auto 2] :  Store Value (Shared) for market: price = 1.16
+5/12/2022 16:54:04: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 92.64
+5/12/2022 16:54:04: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 139.51
+5/12/2022 16:54:04: [G_Auto 2] :  Store Value (Shared) for market: stake = 50
+5/12/2022 16:54:04: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 232.15
+5/12/2022 16:54:04: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.42
+5/12/2022 16:54:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.15
+5/12/2022 16:54:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 7.8
+5/12/2022 16:54:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 16:54:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 16:54:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 16:54:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 16:55:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 17:02:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:02:50: [G_Auto 1] :  Placed closure bet with greening on Cristian Garin by Backing 40.45 at 1.43
+5/12/2022 17:02:51: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 3; sets: 1 
+5/12/2022 17:02:51: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:0
+5/12/2022 17:02:51: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 2; sets: 0 
+5/12/2022 17:02:51: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:2
+5/12/2022 17:02:51: [G_Auto 2] :  Store Value (Shared) for market: price = 1.43
+5/12/2022 17:02:51: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 133.09
+5/12/2022 17:02:51: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 139.51
+5/12/2022 17:02:51: [G_Auto 2] :  Store Value (Shared) for market: stake = 40.45
+5/12/2022 17:02:51: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 272.6
+5/12/2022 17:02:51: [G_Auto 2] :  Store Value (Shared) for market: pl = 6.3
+5/12/2022 17:02:51: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.43
+5/12/2022 17:02:51: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.3
+5/12/2022 17:02:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:03:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:03:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:03:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:03:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:04:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:04:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:04:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:05:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:05:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 17:05:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 17:09:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:10:08: [G_Auto 1] :  € 14.81 Lay bet placed on Cristian Garin at 1.54. Fully matched at 1.54.  Ref: 10140          ( Fill or kill bet with 15 seconds delay.   )
+5/12/2022 17:10:09: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 3; sets: 1 
+5/12/2022 17:10:09: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:1
+5/12/2022 17:10:09: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 3; sets: 0 
+5/12/2022 17:10:09: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:0
+5/12/2022 17:10:09: [G_Auto 2] :  Store Value (Shared) for market: price = 1.54
+5/12/2022 17:10:09: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 133.09
+5/12/2022 17:10:09: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 154.32
+5/12/2022 17:10:09: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.81
+5/12/2022 17:10:09: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 287.41
+5/12/2022 17:10:09: [G_Auto 2] :  Store Value (Shared) for market: pl = 6.2
+5/12/2022 17:10:09: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.53
+5/12/2022 17:10:09: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.9
+5/12/2022 17:10:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:10:14: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 3; sets: 1 
+5/12/2022 17:10:14: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:1
+5/12/2022 17:10:14: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 3; sets: 0 
+5/12/2022 17:10:14: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:0
+5/12/2022 17:10:14: [G_Auto 2] :  Store Value (Shared) for market: price = 1.54
+5/12/2022 17:10:14: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 133.09
+5/12/2022 17:10:14: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 154.32
+5/12/2022 17:10:14: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.81
+5/12/2022 17:10:14: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 287.41
+5/12/2022 17:10:14: [G_Auto 2] :  Store Value (Shared) for market: pl = 6.11
+5/12/2022 17:10:14: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.52
+5/12/2022 17:10:14: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.88
+5/12/2022 17:10:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:10:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:10:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 17:10:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 17:15:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:16:09: [G_Auto 1] :  Placed closure bet with greening on Cristian Garin by Backing 16.52 at 1.38
+5/12/2022 17:16:10: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 4; sets: 1 
+5/12/2022 17:16:10: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:0
+5/12/2022 17:16:10: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 3; sets: 0 
+5/12/2022 17:16:10: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:2
+5/12/2022 17:16:10: [G_Auto 2] :  Store Value (Shared) for market: price = 1.38
+5/12/2022 17:16:10: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 149.61
+5/12/2022 17:16:10: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 154.32
+5/12/2022 17:16:10: [G_Auto 2] :  Store Value (Shared) for market: stake = 16.52
+5/12/2022 17:16:10: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 303.93
+5/12/2022 17:16:10: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.62
+5/12/2022 17:16:10: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.39
+5/12/2022 17:16:10: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.55
+5/12/2022 17:16:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:16:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:16:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:17:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:17:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:17:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:17:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:18:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:18:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:18:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 17:18:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 17:19:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 17:21:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:21:32: [G_Auto 1] :  € 13.11 Lay bet placed on Cristian Garin at 1.61. Fully matched at 1.6.  Ref: 10142          ( Fill or kill bet with 15 seconds delay.   )
+5/12/2022 17:21:33: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 4; sets: 1 
+5/12/2022 17:21:33: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:1
+5/12/2022 17:21:33: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 4; sets: 0 
+5/12/2022 17:21:33: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:0
+5/12/2022 17:21:33: [G_Auto 2] :  Store Value (Shared) for market: price = 1.6
+5/12/2022 17:21:33: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 149.61
+5/12/2022 17:21:33: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 167.43
+5/12/2022 17:21:33: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.11
+5/12/2022 17:21:33: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 317.04
+5/12/2022 17:21:33: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.45
+5/12/2022 17:21:33: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.58
+5/12/2022 17:21:33: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.7
+5/12/2022 17:21:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:21:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:22:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:22:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 17:22:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 17:22:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 17:22:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 17:24:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:24:14: [G_Auto 1] :  € 11.27 Lay bet placed on Marin Cilic at 1.71. Fully matched at 1.69.  Ref: 10143          ( Fill or kill bet with 15 seconds delay.   )
+5/12/2022 17:24:14: [G_Auto 1] :  Placed closure bet with greening on Cristian Garin by Backing 8.67 at 2.42
+5/12/2022 17:24:16: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 4; sets: 1 
+5/12/2022 17:24:16: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:0
+5/12/2022 17:24:16: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 5; sets: 0 
+5/12/2022 17:24:16: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:2
+5/12/2022 17:24:16: [G_Auto 2] :  Store Value (Shared) for market: price = 2.46
+5/12/2022 17:24:16: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 158.28
+5/12/2022 17:24:16: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 178.7
+5/12/2022 17:24:16: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.67
+5/12/2022 17:24:16: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 336.98
+5/12/2022 17:24:16: [G_Auto 2] :  Store Value (Shared) for market: pl = 8.98
+5/12/2022 17:24:16: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.46
+5/12/2022 17:24:16: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.68
+5/12/2022 17:24:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:24:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:24:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:25:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:25:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:25:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:25:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:26:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:26:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:26:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 17:26:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 17:31:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:31:58: [G_Auto 2] :  Store Value (Shared) for market: aSecondSetPrice = 2.66
+5/12/2022 17:31:58: [G_Auto 2] :  Store Value (Shared) for market: bSecondSetPrice = 1.59
+5/12/2022 17:32:03: [G_Auto 1] :  Placed closure bet with greening on Marin Cilic by Backing 12.05 at 1.58
+5/12/2022 17:32:05: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 0; sets: 1 
+5/12/2022 17:32:05: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:1
+5/12/2022 17:32:05: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 0; sets: 1 
+5/12/2022 17:32:05: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:0
+5/12/2022 17:32:05: [G_Auto 2] :  Store Value (Shared) for market: price = 1.59
+5/12/2022 17:32:05: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 170.33
+5/12/2022 17:32:05: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 178.7
+5/12/2022 17:32:05: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.05
+5/12/2022 17:32:05: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 349.03
+5/12/2022 17:32:05: [G_Auto 2] :  Store Value (Shared) for market: pl = 8.41
+5/12/2022 17:32:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.68
+5/12/2022 17:32:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.6
+5/12/2022 17:32:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:32:11: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 0; sets: 1 
+5/12/2022 17:32:11: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:1
+5/12/2022 17:32:11: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 0; sets: 1 
+5/12/2022 17:32:11: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:0
+5/12/2022 17:32:11: [G_Auto 2] :  Store Value (Shared) for market: price = 1.59
+5/12/2022 17:32:11: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 170.33
+5/12/2022 17:32:11: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 178.7
+5/12/2022 17:32:11: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.05
+5/12/2022 17:32:11: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 349.03
+5/12/2022 17:32:11: [G_Auto 2] :  Store Value (Shared) for market: pl = 8.41
+5/12/2022 17:32:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.68
+5/12/2022 17:32:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.6
+5/12/2022 17:32:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:32:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:32:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:33:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:33:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:33:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:33:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:34:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:34:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:34:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:35:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:35:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:35:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:35:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:36:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:36:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:36:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 17:36:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 17:36:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 17:41:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:41:34: [G_Auto 1] :  € 10.13 Lay bet placed on Marin Cilic at 1.79. Fully matched at 1.79.  Ref: 10146          ( Fill or kill bet with 15 seconds delay.   )
+5/12/2022 17:41:35: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 1; sets: 1 
+5/12/2022 17:41:35: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:0
+5/12/2022 17:41:35: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 0; sets: 1 
+5/12/2022 17:41:35: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:2
+5/12/2022 17:41:35: [G_Auto 2] :  Store Value (Shared) for market: price = 1.79
+5/12/2022 17:41:35: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 170.33
+5/12/2022 17:41:35: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 188.83
+5/12/2022 17:41:35: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.13
+5/12/2022 17:41:35: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 359.16
+5/12/2022 17:41:35: [G_Auto 2] :  Store Value (Shared) for market: pl = 8.25
+5/12/2022 17:41:35: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.32
+5/12/2022 17:41:35: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.76
+5/12/2022 17:41:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:41:37: [G_Auto 1] :  Placed closure bet with greening on Cristian Garin by Laying 0.15 at 2.3
+5/12/2022 17:41:41: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 1; sets: 1 
+5/12/2022 17:41:41: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:0
+5/12/2022 17:41:41: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 0; sets: 1 
+5/12/2022 17:41:41: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:2
+5/12/2022 17:41:41: [G_Auto 2] :  Store Value (Shared) for market: price = 2.3
+5/12/2022 17:41:41: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 170.33
+5/12/2022 17:41:41: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 188.98
+5/12/2022 17:41:41: [G_Auto 2] :  Store Value (Shared) for market: stake = 0.15
+5/12/2022 17:41:41: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 359.31
+5/12/2022 17:41:41: [G_Auto 2] :  Store Value (Shared) for market: pl = 8.25
+5/12/2022 17:41:41: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.3
+5/12/2022 17:41:41: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.77
+5/12/2022 17:41:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:42:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:42:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:42:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:42:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 17:43:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 17:43:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 17:44:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:44:49: [G_Auto 1] :  Placed closure bet with greening on Marin Cilic by Backing 11.47 at 1.57
+5/12/2022 17:44:51: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 1; sets: 1 
+5/12/2022 17:44:51: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:1
+5/12/2022 17:44:51: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 1; sets: 1 
+5/12/2022 17:44:51: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:0
+5/12/2022 17:44:51: [G_Auto 2] :  Store Value (Shared) for market: price = 1.57
+5/12/2022 17:44:51: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 181.8
+5/12/2022 17:44:51: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 188.98
+5/12/2022 17:44:51: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.47
+5/12/2022 17:44:51: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 370.78
+5/12/2022 17:44:51: [G_Auto 2] :  Store Value (Shared) for market: pl = 7.04
+5/12/2022 17:44:51: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.72
+5/12/2022 17:44:51: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.58
+5/12/2022 17:44:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:45:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:45:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:45:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 17:45:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 17:45:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 17:46:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 17:51:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:51:41: [G_Auto 1] :  € 36.36 Lay bet placed on Marin Cilic at 1.22. Fully matched at 1.21.  Ref: 10152          ( Fill or kill bet with 15 seconds delay.   )
+5/12/2022 17:51:43: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 1; sets: 1 
+5/12/2022 17:51:43: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:0
+5/12/2022 17:51:43: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 2; sets: 1 
+5/12/2022 17:51:43: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:2
+5/12/2022 17:51:43: [G_Auto 2] :  Store Value (Shared) for market: price = 1.21
+5/12/2022 17:51:43: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 181.8
+5/12/2022 17:51:43: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 225.34
+5/12/2022 17:51:43: [G_Auto 2] :  Store Value (Shared) for market: stake = 36.36
+5/12/2022 17:51:43: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 407.14
+5/12/2022 17:51:43: [G_Auto 2] :  Store Value (Shared) for market: pl = 6.74
+5/12/2022 17:51:43: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 6
+5/12/2022 17:51:43: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.2
+5/12/2022 17:51:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:52:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:52:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:52:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:52:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:53:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:53:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:53:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:53:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 17:54:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 17:54:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 18:02:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:02:29: [G_Auto 1] :  Placed closure bet with greening on Marin Cilic by Backing 26.67 at 1.65
+5/12/2022 18:02:30: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 2; sets: 1 
+5/12/2022 18:02:30: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:1
+5/12/2022 18:02:30: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 2; sets: 1 
+5/12/2022 18:02:30: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:0
+5/12/2022 18:02:30: [G_Auto 2] :  Store Value (Shared) for market: price = 1.66
+5/12/2022 18:02:30: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 208.47
+5/12/2022 18:02:30: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 225.34
+5/12/2022 18:02:30: [G_Auto 2] :  Store Value (Shared) for market: stake = 26.67
+5/12/2022 18:02:30: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 433.81
+5/12/2022 18:02:30: [G_Auto 2] :  Store Value (Shared) for market: pl = 16.7
+5/12/2022 18:02:30: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.48
+5/12/2022 18:02:30: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.66
+5/12/2022 18:02:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:02:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:03:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 18:03:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 18:05:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:05:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:06:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:06:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:06:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:07:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:07:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:07:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:07:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:08:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 18:08:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 18:08:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 18:08:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 18:09:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 18:13:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:13:20: [G_Auto 1] :  € 29.63 Lay bet placed on Cristian Garin at 1.27. Fully matched at 1.27.  Ref: 10156          ( Fill or kill bet with 15 seconds delay.   )
+5/12/2022 18:13:21: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 4; sets: 1 
+5/12/2022 18:13:21: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:1
+5/12/2022 18:13:21: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 2; sets: 1 
+5/12/2022 18:13:21: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:0
+5/12/2022 18:13:21: [G_Auto 2] :  Store Value (Shared) for market: price = 1.27
+5/12/2022 18:13:21: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 208.47
+5/12/2022 18:13:21: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 254.97
+5/12/2022 18:13:21: [G_Auto 2] :  Store Value (Shared) for market: stake = 29.63
+5/12/2022 18:13:21: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 463.44
+5/12/2022 18:13:21: [G_Auto 2] :  Store Value (Shared) for market: pl = 16.36
+5/12/2022 18:13:21: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.27
+5/12/2022 18:13:21: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.7
+5/12/2022 18:13:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:13:23: [G_Auto 1] :  Placed closure bet with greening on Marin Cilic by Laying 0.05 at 5
+5/12/2022 18:13:27: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 4; sets: 1 
+5/12/2022 18:13:27: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:1
+5/12/2022 18:13:27: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 2; sets: 1 
+5/12/2022 18:13:27: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:0
+5/12/2022 18:13:27: [G_Auto 2] :  Store Value (Shared) for market: price = 4.9
+5/12/2022 18:13:27: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 208.47
+5/12/2022 18:13:27: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 255.02
+5/12/2022 18:13:27: [G_Auto 2] :  Store Value (Shared) for market: stake = 0.05
+5/12/2022 18:13:27: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 463.49
+5/12/2022 18:13:27: [G_Auto 2] :  Store Value (Shared) for market: pl = 16.36
+5/12/2022 18:13:27: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.27
+5/12/2022 18:13:27: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.7
+5/12/2022 18:13:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:13:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:14:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:14:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:14:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:14:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:15:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 18:15:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 18:20:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:20:52: [G_Auto 1] :  Placed closure bet with greening on Cristian Garin by Backing 19.40 at 1.94
+5/12/2022 18:20:54: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 4; sets: 1 
+5/12/2022 18:20:54: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:0
+5/12/2022 18:20:54: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 3; sets: 1 
+5/12/2022 18:20:54: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:2
+5/12/2022 18:20:54: [G_Auto 2] :  Store Value (Shared) for market: price = 1.94
+5/12/2022 18:20:54: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 227.87
+5/12/2022 18:20:54: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 255.02
+5/12/2022 18:20:54: [G_Auto 2] :  Store Value (Shared) for market: stake = 19.4
+5/12/2022 18:20:54: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 482.89
+5/12/2022 18:20:54: [G_Auto 2] :  Store Value (Shared) for market: pl = 26.63
+5/12/2022 18:20:54: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.94
+5/12/2022 18:20:54: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.04
+5/12/2022 18:20:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:20:59: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aPoints = point: 0; games: 4; sets: 1 
+5/12/2022 18:20:59: [G_Auto 2] :  Store Text Value (Shared) for Cristian Garin: aServing = serving:0
+5/12/2022 18:20:59: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bPoints = point: 0; games: 3; sets: 1 
+5/12/2022 18:20:59: [G_Auto 2] :  Store Text Value (Shared) for Marin Cilic: bServing = serving:2
+5/12/2022 18:20:59: [G_Auto 2] :  Store Value (Shared) for market: price = 1.94
+5/12/2022 18:20:59: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 227.87
+5/12/2022 18:20:59: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 255.02
+5/12/2022 18:20:59: [G_Auto 2] :  Store Value (Shared) for market: stake = 19.4
+5/12/2022 18:20:59: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 482.89
+5/12/2022 18:20:59: [G_Auto 2] :  Store Value (Shared) for market: pl = 26.63
+5/12/2022 18:20:59: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.94
+5/12/2022 18:20:59: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.06
+5/12/2022 18:21:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:21:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:21:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:21:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:22:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:22:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:22:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:23:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 18:23:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 18:28:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:28:52: [G_Auto 1] :  While Placing closure bet with greening on, unable to place € 0.02 Lay bet at 1.71 on Marin Cilic due to betfair's rules regarding payout/liability rounding.
+5/12/2022 18:28:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:29:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:29:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:29:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 18:29:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 18:30:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:31:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:31:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:31:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:32:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:32:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:32:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:32:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:33:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:33:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:33:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:33:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 18:33:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 18:34:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/12/2022 18:36:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/12/2022 18:36:17:  Guardian has detected that the market is suspended
