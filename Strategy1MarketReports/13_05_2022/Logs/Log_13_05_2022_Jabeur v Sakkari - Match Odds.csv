@@ -1,0 +1,562 @@
+5/13/2022 03:47:29: [G_Auto 2] :  Store Text Value (Shared) for Ons Jabeur: info = marketName: Jabeur v Sakkari - Match Odds; runnerA: Ons Jabeur; runnerB: Maria Sakkari 
+5/13/2022 03:47:29: [G_Auto 2] :  Store Value (Shared) for market: aId = 6161111
+5/13/2022 03:47:29: [G_Auto 2] :  Store Value (Shared) for market: bId = 9002331
+5/13/2022 09:39:26:  Guardian has detected that the market is in-play
+5/13/2022 09:39:26:  Guardian has detected that the market is suspended
+5/13/2022 09:39:27: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.72; bBsp: 2.34; volume: 94304.02 
+5/13/2022 09:39:27: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.72; bBsp: 2.34; volume: 94304.02 
+5/13/2022 09:39:27:  Guardian has detected that the market is now unsuspended
+5/13/2022 09:39:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/13/2022 09:39:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/13/2022 09:40:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 09:41:02: [G_Auto 1] :  € 8.60 Lay bet placed on Ons Jabeur at 1.93. Fully matched at 1.92.  Ref: 10291          ( Fill or kill bet with 15 seconds delay.   )
+5/13/2022 09:41:03: [G_Auto 2] :  Store Text Value (Shared) for Ons Jabeur: aPoints = point: 0; games: 0; sets: 0 
+5/13/2022 09:41:03: [G_Auto 2] :  Store Text Value (Shared) for Ons Jabeur: aServing = serving:1
+5/13/2022 09:41:03: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bPoints = point: 0; games: 1; sets: 0 
+5/13/2022 09:41:03: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bServing = serving:0
+5/13/2022 09:41:03: [G_Auto 2] :  Store Value (Shared) for market: price = 1.92
+5/13/2022 09:41:03: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+5/13/2022 09:41:03: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 8.6
+5/13/2022 09:41:03: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.6
+5/13/2022 09:41:03: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 8.6
+5/13/2022 09:41:03: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.05
+5/13/2022 09:41:03: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.92
+5/13/2022 09:41:03: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.08
+5/13/2022 09:41:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 09:41:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 09:41:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/13/2022 09:41:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/13/2022 09:41:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/13/2022 09:42:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/13/2022 09:44:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 09:44:12: [G_Auto 1] :  € 11.27 Lay bet placed on Maria Sakkari at 1.71. Fully matched at 1.7.  Ref: 10292          ( Fill or kill bet with 15 seconds delay.   )
+5/13/2022 09:44:12: [G_Auto 1] :  Placed closure bet with greening on Ons Jabeur by Backing 6.82 at 2.42
+5/13/2022 09:44:12: [G_Auto 2] :  Store Text Value (Shared) for Ons Jabeur: aPoints = point: 0; games: 0; sets: 0 
+5/13/2022 09:44:12: [G_Auto 2] :  Store Text Value (Shared) for Ons Jabeur: aServing = serving:0
+5/13/2022 09:44:12: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bPoints = point: 0; games: 2; sets: 0 
+5/13/2022 09:44:12: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bServing = serving:2
+5/13/2022 09:44:12: [G_Auto 2] :  Store Value (Shared) for market: price = 1.7
+5/13/2022 09:44:12: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 6.82
+5/13/2022 09:44:12: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 19.87
+5/13/2022 09:44:12: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.27
+5/13/2022 09:44:12: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 26.69
+5/13/2022 09:44:12: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.61
+5/13/2022 09:44:12: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.42
+5/13/2022 09:44:12: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.68
+5/13/2022 09:44:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 09:44:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 09:44:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 09:44:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/13/2022 09:45:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/13/2022 09:45:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/13/2022 09:48:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 09:48:34: [G_Auto 1] :  Placed closure bet with greening on Maria Sakkari by Backing 12.44 at 1.54
+5/13/2022 09:48:35: [G_Auto 2] :  Store Text Value (Shared) for Ons Jabeur: aPoints = point: 0; games: 0; sets: 0 
+5/13/2022 09:48:35: [G_Auto 2] :  Store Text Value (Shared) for Ons Jabeur: aServing = serving:1
+5/13/2022 09:48:35: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bPoints = point: 0; games: 3; sets: 0 
+5/13/2022 09:48:35: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bServing = serving:0
+5/13/2022 09:48:35: [G_Auto 2] :  Store Value (Shared) for market: price = 1.54
+5/13/2022 09:48:35: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 19.26
+5/13/2022 09:48:35: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 19.87
+5/13/2022 09:48:35: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.44
+5/13/2022 09:48:35: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 39.13
+5/13/2022 09:48:35: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.59
+5/13/2022 09:48:35: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.82
+5/13/2022 09:48:35: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.55
+5/13/2022 09:48:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 09:48:40: [G_Auto 2] :  Store Text Value (Shared) for Ons Jabeur: aPoints = point: 0; games: 0; sets: 0 
+5/13/2022 09:48:40: [G_Auto 2] :  Store Text Value (Shared) for Ons Jabeur: aServing = serving:1
+5/13/2022 09:48:40: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bPoints = point: 0; games: 3; sets: 0 
+5/13/2022 09:48:40: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bServing = serving:0
+5/13/2022 09:48:40: [G_Auto 2] :  Store Value (Shared) for market: price = 1.54
+5/13/2022 09:48:40: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 19.26
+5/13/2022 09:48:40: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 19.87
+5/13/2022 09:48:40: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.44
+5/13/2022 09:48:40: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 39.13
+5/13/2022 09:48:40: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.59
+5/13/2022 09:48:40: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.82
+5/13/2022 09:48:40: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.55
+5/13/2022 09:48:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 09:49:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 09:49:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 09:49:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 09:49:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 09:50:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 09:50:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/13/2022 09:50:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/13/2022 09:52:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 09:52:13: [G_Auto 1] :  € 13.56 Lay bet placed on Maria Sakkari at 1.59. Fully matched at 1.59.  Ref: 10297          ( Fill or kill bet with 15 seconds delay.   )
+5/13/2022 09:52:15: [G_Auto 2] :  Store Text Value (Shared) for Ons Jabeur: aPoints = point: 0; games: 1; sets: 0 
+5/13/2022 09:52:15: [G_Auto 2] :  Store Text Value (Shared) for Ons Jabeur: aServing = serving:0
+5/13/2022 09:52:15: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bPoints = point: 0; games: 3; sets: 0 
+5/13/2022 09:52:15: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bServing = serving:2
+5/13/2022 09:52:15: [G_Auto 2] :  Store Value (Shared) for market: price = 1.59
+5/13/2022 09:52:15: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 19.26
+5/13/2022 09:52:15: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 33.43
+5/13/2022 09:52:15: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.56
+5/13/2022 09:52:15: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 52.69
+5/13/2022 09:52:15: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.51
+5/13/2022 09:52:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.72
+5/13/2022 09:52:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.58
+5/13/2022 09:52:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 09:52:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 09:52:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/13/2022 09:52:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/13/2022 09:53:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/13/2022 09:59:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 09:59:37: [G_Auto 1] :  Placed closure bet with greening on Maria Sakkari by Backing 14.37 at 1.5
+5/13/2022 09:59:37: [G_Auto 2] :  Store Text Value (Shared) for Ons Jabeur: aPoints = point: 0; games: 1; sets: 0 
+5/13/2022 09:59:37: [G_Auto 2] :  Store Text Value (Shared) for Ons Jabeur: aServing = serving:1
+5/13/2022 09:59:37: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bPoints = point: 0; games: 4; sets: 0 
+5/13/2022 09:59:37: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bServing = serving:0
+5/13/2022 09:59:37: [G_Auto 2] :  Store Value (Shared) for market: price = 1.5
+5/13/2022 09:59:37: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 33.63
+5/13/2022 09:59:37: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 33.43
+5/13/2022 09:59:37: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.37
+5/13/2022 09:59:37: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 67.06
+5/13/2022 09:59:37: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.21
+5/13/2022 09:59:37: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.98
+5/13/2022 09:59:37: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.5
+5/13/2022 09:59:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 09:59:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:00:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:00:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:00:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:00:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:01:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:01:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/13/2022 10:09:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:09:19: [G_Auto 1] :  € 22.86 Lay bet placed on Maria Sakkari at 1.35. Fully matched at 1.34.  Ref: 10301          ( Fill or kill bet with 15 seconds delay.   )
+5/13/2022 10:09:19: [G_Auto 2] :  Store Text Value (Shared) for Ons Jabeur: aPoints = point: 0; games: 1; sets: 0 
+5/13/2022 10:09:19: [G_Auto 2] :  Store Text Value (Shared) for Ons Jabeur: aServing = serving:0
+5/13/2022 10:09:19: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bPoints = point: 0; games: 5; sets: 0 
+5/13/2022 10:09:19: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bServing = serving:2
+5/13/2022 10:09:19: [G_Auto 2] :  Store Value (Shared) for market: price = 1.34
+5/13/2022 10:09:19: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 33.63
+5/13/2022 10:09:19: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 56.29
+5/13/2022 10:09:19: [G_Auto 2] :  Store Value (Shared) for market: stake = 22.86
+5/13/2022 10:09:19: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 89.92
+5/13/2022 10:09:19: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.38
+5/13/2022 10:09:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.9
+5/13/2022 10:09:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.34
+5/13/2022 10:09:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:09:24: [G_Auto 2] :  Store Text Value (Shared) for Ons Jabeur: aPoints = point: 0; games: 1; sets: 0 
+5/13/2022 10:09:24: [G_Auto 2] :  Store Text Value (Shared) for Ons Jabeur: aServing = serving:0
+5/13/2022 10:09:24: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bPoints = point: 0; games: 5; sets: 0 
+5/13/2022 10:09:24: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bServing = serving:2
+5/13/2022 10:09:24: [G_Auto 2] :  Store Value (Shared) for market: price = 1.34
+5/13/2022 10:09:24: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 33.63
+5/13/2022 10:09:24: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 56.29
+5/13/2022 10:09:24: [G_Auto 2] :  Store Value (Shared) for market: stake = 22.86
+5/13/2022 10:09:24: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 89.92
+5/13/2022 10:09:24: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.38
+5/13/2022 10:09:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.9
+5/13/2022 10:09:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.34
+5/13/2022 10:09:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:09:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:09:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/13/2022 10:10:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/13/2022 10:10:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/13/2022 10:10:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/13/2022 10:12:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:12:32: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 4.8
+5/13/2022 10:12:32: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 1.27
+5/13/2022 10:12:36: [G_Auto 1] :  Placed closure bet with greening on Maria Sakkari by Backing 24.32 at 1.26
+5/13/2022 10:12:37: [G_Auto 2] :  Store Text Value (Shared) for Ons Jabeur: aPoints = point: 0; games: 0; sets: 0 
+5/13/2022 10:12:37: [G_Auto 2] :  Store Text Value (Shared) for Ons Jabeur: aServing = serving:1
+5/13/2022 10:12:37: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bPoints = point: 0; games: 0; sets: 1 
+5/13/2022 10:12:37: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bServing = serving:0
+5/13/2022 10:12:37: [G_Auto 2] :  Store Value (Shared) for market: price = 1.26
+5/13/2022 10:12:37: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 57.95
+5/13/2022 10:12:37: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 56.29
+5/13/2022 10:12:37: [G_Auto 2] :  Store Value (Shared) for market: stake = 24.32
+5/13/2022 10:12:37: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 114.24
+5/13/2022 10:12:37: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.67
+5/13/2022 10:12:37: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.7
+5/13/2022 10:12:37: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.27
+5/13/2022 10:12:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:12:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:13:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:13:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:13:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:13:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:14:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:14:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:14:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:14:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:15:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:15:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:15:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:15:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:16:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:16:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:16:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:16:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:17:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/13/2022 10:17:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/13/2022 10:18:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:19:05: [G_Auto 1] :  € 50.00 Lay bet placed on Maria Sakkari at 1.16. Fully matched at 1.15.  Ref: 10303          ( Fill or kill bet with 15 seconds delay.   )
+5/13/2022 10:19:05: [G_Auto 2] :  Store Text Value (Shared) for Ons Jabeur: aPoints = point: 0; games: 0; sets: 0 
+5/13/2022 10:19:05: [G_Auto 2] :  Store Text Value (Shared) for Ons Jabeur: aServing = serving:0
+5/13/2022 10:19:05: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bPoints = point: 0; games: 1; sets: 1 
+5/13/2022 10:19:05: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bServing = serving:2
+5/13/2022 10:19:05: [G_Auto 2] :  Store Value (Shared) for market: price = 1.15
+5/13/2022 10:19:05: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 57.95
+5/13/2022 10:19:05: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 106.29
+5/13/2022 10:19:05: [G_Auto 2] :  Store Value (Shared) for market: stake = 50
+5/13/2022 10:19:05: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 164.24
+5/13/2022 10:19:05: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.1
+5/13/2022 10:19:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 7.8
+5/13/2022 10:19:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.15
+5/13/2022 10:19:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:19:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:19:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:19:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:19:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/13/2022 10:20:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/13/2022 10:21:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:22:08: [G_Auto 1] :  Placed closure bet with greening on Maria Sakkari by Backing 52.75 at 1.09
+5/13/2022 10:22:09: [G_Auto 2] :  Store Text Value (Shared) for Ons Jabeur: aPoints = point: 0; games: 0; sets: 0 
+5/13/2022 10:22:09: [G_Auto 2] :  Store Text Value (Shared) for Ons Jabeur: aServing = serving:1
+5/13/2022 10:22:09: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bPoints = point: 0; games: 2; sets: 1 
+5/13/2022 10:22:09: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bServing = serving:0
+5/13/2022 10:22:09: [G_Auto 2] :  Store Value (Shared) for market: price = 1.09
+5/13/2022 10:22:09: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 110.7
+5/13/2022 10:22:09: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 106.29
+5/13/2022 10:22:09: [G_Auto 2] :  Store Value (Shared) for market: stake = 52.75
+5/13/2022 10:22:09: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 216.99
+5/13/2022 10:22:09: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.42
+5/13/2022 10:22:09: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 12.5
+5/13/2022 10:22:09: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.09
+5/13/2022 10:22:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:22:15: [G_Auto 2] :  Store Text Value (Shared) for Ons Jabeur: aPoints = point: 0; games: 0; sets: 0 
+5/13/2022 10:22:15: [G_Auto 2] :  Store Text Value (Shared) for Ons Jabeur: aServing = serving:1
+5/13/2022 10:22:15: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bPoints = point: 0; games: 2; sets: 1 
+5/13/2022 10:22:15: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bServing = serving:0
+5/13/2022 10:22:15: [G_Auto 2] :  Store Value (Shared) for market: price = 1.09
+5/13/2022 10:22:15: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 110.7
+5/13/2022 10:22:15: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 106.29
+5/13/2022 10:22:15: [G_Auto 2] :  Store Value (Shared) for market: stake = 52.75
+5/13/2022 10:22:15: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 216.99
+5/13/2022 10:22:15: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.42
+5/13/2022 10:22:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 12.5
+5/13/2022 10:22:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.1
+5/13/2022 10:22:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:22:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/13/2022 10:22:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/13/2022 10:24:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:24:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:24:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:25:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:25:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:25:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:26:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:26:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:26:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:26:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/13/2022 10:26:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/13/2022 10:27:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/13/2022 10:29:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:30:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:30:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:30:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/13/2022 10:30:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/13/2022 10:33:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:33:12: [G_Auto 1] :  € 47.06 Lay bet placed on Maria Sakkari at 1.17. Fully matched at 1.16.  Ref: 10309          ( Fill or kill bet with 15 seconds delay.   )
+5/13/2022 10:33:13: [G_Auto 2] :  Store Text Value (Shared) for Ons Jabeur: aPoints = point: 0; games: 2; sets: 0 
+5/13/2022 10:33:13: [G_Auto 2] :  Store Text Value (Shared) for Ons Jabeur: aServing = serving:0
+5/13/2022 10:33:13: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bPoints = point: 0; games: 3; sets: 1 
+5/13/2022 10:33:13: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bServing = serving:2
+5/13/2022 10:33:13: [G_Auto 2] :  Store Value (Shared) for market: price = 1.16
+5/13/2022 10:33:13: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 110.7
+5/13/2022 10:33:13: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 153.35
+5/13/2022 10:33:13: [G_Auto 2] :  Store Value (Shared) for market: stake = 47.06
+5/13/2022 10:33:13: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 264.05
+5/13/2022 10:33:13: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.83
+5/13/2022 10:33:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 7.8
+5/13/2022 10:33:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.16
+5/13/2022 10:33:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:33:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:33:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:34:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:34:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:34:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:34:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:35:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:35:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/13/2022 10:35:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/13/2022 10:35:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/13/2022 10:42:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:42:33: [G_Auto 1] :  Placed closure bet with greening on Maria Sakkari by Backing 50.08 at 1.09
+5/13/2022 10:42:33: [G_Auto 2] :  Store Text Value (Shared) for Ons Jabeur: aPoints = point: 0; games: 2; sets: 0 
+5/13/2022 10:42:33: [G_Auto 2] :  Store Text Value (Shared) for Ons Jabeur: aServing = serving:1
+5/13/2022 10:42:33: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bPoints = point: 0; games: 4; sets: 1 
+5/13/2022 10:42:33: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bServing = serving:0
+5/13/2022 10:42:33: [G_Auto 2] :  Store Value (Shared) for market: price = 1.09
+5/13/2022 10:42:33: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 160.78
+5/13/2022 10:42:33: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 153.35
+5/13/2022 10:42:33: [G_Auto 2] :  Store Value (Shared) for market: stake = 50.08
+5/13/2022 10:42:33: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 314.13
+5/13/2022 10:42:33: [G_Auto 2] :  Store Value (Shared) for market: pl = -7.44
+5/13/2022 10:42:33: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 11
+5/13/2022 10:42:33: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.1
+5/13/2022 10:42:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:42:39: [G_Auto 2] :  Store Text Value (Shared) for Ons Jabeur: aPoints = point: 0; games: 2; sets: 0 
+5/13/2022 10:42:39: [G_Auto 2] :  Store Text Value (Shared) for Ons Jabeur: aServing = serving:1
+5/13/2022 10:42:39: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bPoints = point: 0; games: 4; sets: 1 
+5/13/2022 10:42:39: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bServing = serving:0
+5/13/2022 10:42:39: [G_Auto 2] :  Store Value (Shared) for market: price = 1.09
+5/13/2022 10:42:39: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 160.78
+5/13/2022 10:42:39: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 153.35
+5/13/2022 10:42:39: [G_Auto 2] :  Store Value (Shared) for market: stake = 50.08
+5/13/2022 10:42:39: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 314.13
+5/13/2022 10:42:39: [G_Auto 2] :  Store Value (Shared) for market: pl = -7.44
+5/13/2022 10:42:39: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 11
+5/13/2022 10:42:39: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.1
+5/13/2022 10:42:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/13/2022 10:43:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/13/2022 10:46:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:46:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:46:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:46:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:47:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:47:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:47:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:47:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:48:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:48:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:48:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/13/2022 10:48:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/13/2022 10:48:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/13/2022 10:49:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/13/2022 10:51:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:51:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:52:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:52:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/13/2022 10:52:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/13/2022 10:55:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:55:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:55:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:56:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:56:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:56:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:56:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:57:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 10:57:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/13/2022 10:57:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/13/2022 10:57:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/13/2022 11:01:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 11:02:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 11:02:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 11:02:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 11:02:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/13/2022 11:03:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/13/2022 11:05:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 11:05:38: [G_Auto 1] :  € 14.29 Lay bet placed on Maria Sakkari at 1.56. Fully matched at 1.56.  Ref: 10317          ( Fill or kill bet with 15 seconds delay.   )
+5/13/2022 11:05:39: [G_Auto 2] :  Store Text Value (Shared) for Ons Jabeur: aPoints = point: 0; games: 6; sets: 0 
+5/13/2022 11:05:39: [G_Auto 2] :  Store Text Value (Shared) for Ons Jabeur: aServing = serving:0
+5/13/2022 11:05:39: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bPoints = point: 0; games: 5; sets: 1 
+5/13/2022 11:05:39: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bServing = serving:2
+5/13/2022 11:05:39: [G_Auto 2] :  Store Value (Shared) for market: price = 1.56
+5/13/2022 11:05:39: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 160.78
+5/13/2022 11:05:39: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 167.64
+5/13/2022 11:05:39: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.29
+5/13/2022 11:05:39: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 328.42
+5/13/2022 11:05:39: [G_Auto 2] :  Store Value (Shared) for market: pl = -7.53
+5/13/2022 11:05:39: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.82
+5/13/2022 11:05:39: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.55
+5/13/2022 11:05:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 11:05:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 11:06:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 11:06:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 11:06:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 11:06:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 11:07:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 11:07:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 11:07:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/13/2022 11:07:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/13/2022 11:09:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 11:09:48: [G_Auto 2] :  Store Value (Shared) for market: aSecondSetPrice = 1.82
+5/13/2022 11:09:48: [G_Auto 2] :  Store Value (Shared) for market: bSecondSetPrice = 2.2
+5/13/2022 11:09:52: [G_Auto 1] :  € 9.41 Lay bet placed on Ons Jabeur at 1.85. Fully matched at 1.84.  Ref: 10318          ( Fill or kill bet with 15 seconds delay.   )
+5/13/2022 11:09:52: [G_Auto 1] :  Placed closure bet with greening on Maria Sakkari by Backing 10.32 at 2.16
+5/13/2022 11:09:53: [G_Auto 2] :  Store Text Value (Shared) for Ons Jabeur: aPoints = point: 0; games: 0; sets: 1 
+5/13/2022 11:09:53: [G_Auto 2] :  Store Text Value (Shared) for Ons Jabeur: aServing = serving:1
+5/13/2022 11:09:53: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bPoints = point: 0; games: 0; sets: 1 
+5/13/2022 11:09:53: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bServing = serving:0
+5/13/2022 11:09:53: [G_Auto 2] :  Store Value (Shared) for market: price = 1.84
+5/13/2022 11:09:53: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 171.1
+5/13/2022 11:09:53: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 177.05
+5/13/2022 11:09:53: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.41
+5/13/2022 11:09:53: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 348.15
+5/13/2022 11:09:53: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.28
+5/13/2022 11:09:53: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.84
+5/13/2022 11:09:53: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.2
+5/13/2022 11:09:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 11:10:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 11:10:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 11:10:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 11:10:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 11:11:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 11:11:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 11:11:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 11:11:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 11:12:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 11:12:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 11:12:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 11:13:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 11:13:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 11:13:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 11:13:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/13/2022 11:13:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/13/2022 11:15:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 11:15:16: [G_Auto 1] :  Placed closure bet with greening on Ons Jabeur by Backing 11.47 at 1.51
+5/13/2022 11:15:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 11:15:20: [G_Auto 2] :  Store Text Value (Shared) for Ons Jabeur: aPoints = point: 0; games: 1; sets: 1 
+5/13/2022 11:15:20: [G_Auto 2] :  Store Text Value (Shared) for Ons Jabeur: aServing = serving:0
+5/13/2022 11:15:20: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bPoints = point: 0; games: 0; sets: 1 
+5/13/2022 11:15:20: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bServing = serving:2
+5/13/2022 11:15:20: [G_Auto 2] :  Store Value (Shared) for market: price = 1.51
+5/13/2022 11:15:20: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 182.57
+5/13/2022 11:15:20: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 177.05
+5/13/2022 11:15:20: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.47
+5/13/2022 11:15:20: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 359.62
+5/13/2022 11:15:20: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.38
+5/13/2022 11:15:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.52
+5/13/2022 11:15:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.92
+5/13/2022 11:15:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 11:15:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 11:16:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 11:16:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/13/2022 11:16:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/13/2022 11:17:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 11:18:08: [G_Auto 1] :  € 34.78 Lay bet placed on Ons Jabeur at 1.23. Fully matched at 1.22.  Ref: 10322          ( Fill or kill bet with 15 seconds delay.   )
+5/13/2022 11:18:09: [G_Auto 2] :  Store Text Value (Shared) for Ons Jabeur: aPoints = point: 0; games: 2; sets: 1 
+5/13/2022 11:18:09: [G_Auto 2] :  Store Text Value (Shared) for Ons Jabeur: aServing = serving:1
+5/13/2022 11:18:09: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bPoints = point: 0; games: 0; sets: 1 
+5/13/2022 11:18:09: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bServing = serving:0
+5/13/2022 11:18:09: [G_Auto 2] :  Store Value (Shared) for market: price = 1.22
+5/13/2022 11:18:09: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 182.57
+5/13/2022 11:18:09: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 211.83
+5/13/2022 11:18:09: [G_Auto 2] :  Store Value (Shared) for market: stake = 34.78
+5/13/2022 11:18:09: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 394.4
+5/13/2022 11:18:09: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.74
+5/13/2022 11:18:09: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.22
+5/13/2022 11:18:09: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.5
+5/13/2022 11:18:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 11:18:11: [G_Auto 1] :  Placed closure bet with greening on Maria Sakkari by Laying 0.07 at 5.8
+5/13/2022 11:18:15: [G_Auto 2] :  Store Text Value (Shared) for Ons Jabeur: aPoints = point: 0; games: 2; sets: 1 
+5/13/2022 11:18:15: [G_Auto 2] :  Store Text Value (Shared) for Ons Jabeur: aServing = serving:1
+5/13/2022 11:18:15: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bPoints = point: 0; games: 0; sets: 1 
+5/13/2022 11:18:15: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bServing = serving:0
+5/13/2022 11:18:15: [G_Auto 2] :  Store Value (Shared) for market: price = 5.8
+5/13/2022 11:18:15: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 182.57
+5/13/2022 11:18:15: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 211.9
+5/13/2022 11:18:15: [G_Auto 2] :  Store Value (Shared) for market: stake = 0.07
+5/13/2022 11:18:15: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 394.47
+5/13/2022 11:18:15: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.45
+5/13/2022 11:18:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.22
+5/13/2022 11:18:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.6
+5/13/2022 11:18:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 11:18:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 11:18:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/13/2022 11:19:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/13/2022 11:20:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 11:20:18: [G_Auto 1] :  Placed closure bet with greening on Ons Jabeur by Backing 38.23 at 1.11
+5/13/2022 11:20:19: [G_Auto 2] :  Store Text Value (Shared) for Ons Jabeur: aPoints = point: 0; games: 3; sets: 1 
+5/13/2022 11:20:19: [G_Auto 2] :  Store Text Value (Shared) for Ons Jabeur: aServing = serving:0
+5/13/2022 11:20:19: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bPoints = point: 0; games: 0; sets: 1 
+5/13/2022 11:20:19: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bServing = serving:2
+5/13/2022 11:20:19: [G_Auto 2] :  Store Value (Shared) for market: price = 1.11
+5/13/2022 11:20:19: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 220.8
+5/13/2022 11:20:19: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 211.9
+5/13/2022 11:20:19: [G_Auto 2] :  Store Value (Shared) for market: stake = 38.23
+5/13/2022 11:20:19: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 432.7
+5/13/2022 11:20:19: [G_Auto 2] :  Store Value (Shared) for market: pl = -8.9
+5/13/2022 11:20:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.12
+5/13/2022 11:20:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 9.6
+5/13/2022 11:20:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 11:20:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 11:20:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 11:21:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 11:21:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 11:21:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 11:21:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 11:21:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/13/2022 11:22:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/13/2022 11:27:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 11:27:57: [G_Auto 1] :  € 40.00 Lay bet placed on Ons Jabeur at 1.2. Fully matched at 1.19.  Ref: 10325          ( Fill or kill bet with 15 seconds delay.   )
+5/13/2022 11:27:57: [G_Auto 2] :  Store Text Value (Shared) for Ons Jabeur: aPoints = point: 0; games: 3; sets: 1 
+5/13/2022 11:27:57: [G_Auto 2] :  Store Text Value (Shared) for Ons Jabeur: aServing = serving:1
+5/13/2022 11:27:57: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bPoints = point: 0; games: 1; sets: 1 
+5/13/2022 11:27:57: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bServing = serving:0
+5/13/2022 11:27:57: [G_Auto 2] :  Store Value (Shared) for market: price = 1.19
+5/13/2022 11:27:57: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 220.8
+5/13/2022 11:27:57: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 251.9
+5/13/2022 11:27:57: [G_Auto 2] :  Store Value (Shared) for market: stake = 40
+5/13/2022 11:27:57: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 472.7
+5/13/2022 11:27:57: [G_Auto 2] :  Store Value (Shared) for market: pl = -8.9
+5/13/2022 11:27:57: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.19
+5/13/2022 11:27:57: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 6.4
+5/13/2022 11:28:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 11:28:02: [G_Auto 2] :  Store Text Value (Shared) for Ons Jabeur: aPoints = point: 0; games: 3; sets: 1 
+5/13/2022 11:28:02: [G_Auto 2] :  Store Text Value (Shared) for Ons Jabeur: aServing = serving:1
+5/13/2022 11:28:02: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bPoints = point: 0; games: 1; sets: 1 
+5/13/2022 11:28:02: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bServing = serving:0
+5/13/2022 11:28:02: [G_Auto 2] :  Store Value (Shared) for market: price = 1.19
+5/13/2022 11:28:02: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 220.8
+5/13/2022 11:28:02: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 251.9
+5/13/2022 11:28:02: [G_Auto 2] :  Store Value (Shared) for market: stake = 40
+5/13/2022 11:28:02: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 472.7
+5/13/2022 11:28:02: [G_Auto 2] :  Store Value (Shared) for market: pl = -8.9
+5/13/2022 11:28:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.19
+5/13/2022 11:28:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 6.4
+5/13/2022 11:28:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 11:28:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/13/2022 11:28:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/13/2022 11:31:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 11:32:08: [G_Auto 1] :  Placed closure bet with greening on Ons Jabeur by Backing 43.67 at 1.09
+5/13/2022 11:32:08: [G_Auto 2] :  Store Text Value (Shared) for Ons Jabeur: aPoints = point: 0; games: 4; sets: 1 
+5/13/2022 11:32:08: [G_Auto 2] :  Store Text Value (Shared) for Ons Jabeur: aServing = serving:0
+5/13/2022 11:32:08: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bPoints = point: 0; games: 1; sets: 1 
+5/13/2022 11:32:08: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bServing = serving:2
+5/13/2022 11:32:08: [G_Auto 2] :  Store Value (Shared) for market: price = 1.09
+5/13/2022 11:32:08: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 264.47
+5/13/2022 11:32:08: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 251.9
+5/13/2022 11:32:08: [G_Auto 2] :  Store Value (Shared) for market: stake = 43.67
+5/13/2022 11:32:08: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 516.37
+5/13/2022 11:32:08: [G_Auto 2] :  Store Value (Shared) for market: pl = -12.57
+5/13/2022 11:32:08: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.1
+5/13/2022 11:32:08: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 11
+5/13/2022 11:32:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 11:32:14: [G_Auto 2] :  Store Text Value (Shared) for Ons Jabeur: aPoints = point: 0; games: 4; sets: 1 
+5/13/2022 11:32:14: [G_Auto 2] :  Store Text Value (Shared) for Ons Jabeur: aServing = serving:0
+5/13/2022 11:32:14: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bPoints = point: 0; games: 1; sets: 1 
+5/13/2022 11:32:14: [G_Auto 2] :  Store Text Value (Shared) for Maria Sakkari: bServing = serving:2
+5/13/2022 11:32:14: [G_Auto 2] :  Store Value (Shared) for market: price = 1.09
+5/13/2022 11:32:14: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 264.47
+5/13/2022 11:32:14: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 251.9
+5/13/2022 11:32:14: [G_Auto 2] :  Store Value (Shared) for market: stake = 43.67
+5/13/2022 11:32:14: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 516.37
+5/13/2022 11:32:14: [G_Auto 2] :  Store Value (Shared) for market: pl = -12.57
+5/13/2022 11:32:14: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.09
+5/13/2022 11:32:14: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 11
+5/13/2022 11:32:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 11:32:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 11:32:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 11:33:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 11:33:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 11:33:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 11:33:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 11:34:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/13/2022 11:34:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/13/2022 11:34:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/13/2022 11:37:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 11:37:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 11:38:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 11:38:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/13/2022 11:38:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/13/2022 11:39:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 11:40:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 11:40:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/13/2022 11:40:36:  Guardian has detected that the market is suspended

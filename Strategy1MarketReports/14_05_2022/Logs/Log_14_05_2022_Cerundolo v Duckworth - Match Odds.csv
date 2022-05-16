@@ -1,0 +1,395 @@
+5/14/2022 16:37:03: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: info = marketName: Cerundolo v Duckworth - Match Odds; runnerA: Francisco Cerundolo; runnerB: James Duckworth 
+5/14/2022 16:37:03: [G_Auto 2] :  Store Value (Shared) for market: aId = 11204210
+5/14/2022 16:37:03: [G_Auto 2] :  Store Value (Shared) for market: bId = 6064287
+5/14/2022 18:28:39:  Guardian has detected that the market is in-play
+5/14/2022 18:28:39:  Guardian has detected that the market is suspended
+5/14/2022 18:28:41: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.15; bBsp: 7.4; volume: 4811.15 
+5/14/2022 18:28:41: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.15; bBsp: 7.4; volume: 4811.15 
+5/14/2022 18:28:41:  Guardian has detected that the market is now unsuspended
+5/14/2022 18:28:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 18:28:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 18:29:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 18:29:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 18:29:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 18:42:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 18:42:49: [G_Auto 1] :  € 42.11 Lay bet placed on Francisco Cerundolo at 1.19. Fully matched at 1.18.  Ref: 10084          ( Fill or kill bet with 15 seconds delay.   )
+5/14/2022 18:42:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 18:42:50: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 0; sets: 0 
+5/14/2022 18:42:50: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:1
+5/14/2022 18:42:50: [G_Auto 2] :  Store Text Value (Shared) for James Duckworth: bPoints = point: 0; games: 1; sets: 0 
+5/14/2022 18:42:50: [G_Auto 2] :  Store Text Value (Shared) for James Duckworth: bServing = serving:0
+5/14/2022 18:42:50: [G_Auto 2] :  Store Value (Shared) for market: price = 1.18
+5/14/2022 18:42:50: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+5/14/2022 18:42:50: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 42.11
+5/14/2022 18:42:50: [G_Auto 2] :  Store Value (Shared) for market: stake = 42.11
+5/14/2022 18:42:50: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 42.11
+5/14/2022 18:42:50: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.36
+5/14/2022 18:42:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.18
+5/14/2022 18:42:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 6.6
+5/14/2022 18:43:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 18:43:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 18:43:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 18:43:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 18:44:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 18:46:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 18:46:49: [G_Auto 1] :  Placed closure bet with greening on Francisco Cerundolo by Backing 43.21 at 1.15
+5/14/2022 18:46:51: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 1; sets: 0 
+5/14/2022 18:46:51: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:0
+5/14/2022 18:46:51: [G_Auto 2] :  Store Text Value (Shared) for James Duckworth: bPoints = point: 0; games: 1; sets: 0 
+5/14/2022 18:46:51: [G_Auto 2] :  Store Text Value (Shared) for James Duckworth: bServing = serving:2
+5/14/2022 18:46:51: [G_Auto 2] :  Store Value (Shared) for market: price = 1.15
+5/14/2022 18:46:51: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 43.21
+5/14/2022 18:46:51: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 42.11
+5/14/2022 18:46:51: [G_Auto 2] :  Store Value (Shared) for market: stake = 43.21
+5/14/2022 18:46:51: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 85.32
+5/14/2022 18:46:51: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.1
+5/14/2022 18:46:51: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.16
+5/14/2022 18:46:51: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 7.8
+5/14/2022 18:46:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 18:47:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 18:47:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 18:47:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 18:47:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 18:48:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 18:48:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 18:50:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 18:50:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 18:51:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 18:51:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 18:51:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 18:51:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 18:52:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 18:52:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 18:52:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 18:52:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 18:52:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 18:54:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 18:54:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 18:54:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 18:54:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 18:55:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 18:57:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 18:57:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 18:58:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 18:58:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 18:58:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 18:58:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 18:59:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 18:59:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 18:59:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 18:59:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 19:00:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 19:02:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:02:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:02:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:02:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 19:03:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 19:04:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:05:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:05:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:05:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:06:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:06:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:06:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:06:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:07:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:07:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 19:07:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 19:07:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 19:10:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:10:14: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 1.04
+5/14/2022 19:10:14: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 21
+5/14/2022 19:10:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:10:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:10:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:11:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:11:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:11:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:11:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:12:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:12:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:12:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:12:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:13:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:13:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:13:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 19:13:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 19:14:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:15:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:15:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:15:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:15:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 19:16:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 19:17:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:18:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:18:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:18:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 19:18:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 19:19:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 19:21:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:21:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:21:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:21:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:22:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:22:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:22:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:23:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:23:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 19:23:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 19:24:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:25:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:25:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:25:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 19:25:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 19:28:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:28:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:29:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:29:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:29:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:29:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:30:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:30:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:30:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:30:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 19:31:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 19:32:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:32:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:32:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:32:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 19:33:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 19:35:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:37:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:37:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:37:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:37:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:38:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:38:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:38:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:39:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:39:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 19:39:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 19:42:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:42:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:42:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:42:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 19:43:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 19:44:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:44:14: [G_Auto 2] :  Store Value (Shared) for market: aSecondSetPrice = 1.41
+5/14/2022 19:44:14: [G_Auto 2] :  Store Value (Shared) for market: bSecondSetPrice = 3.45
+5/14/2022 19:44:19: [G_Auto 1] :  € 18.60 Lay bet placed on Francisco Cerundolo at 1.43. Fully matched at 1.42.  Ref: 10091          ( Fill or kill bet with 15 seconds delay.   )
+5/14/2022 19:44:20: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 0; sets: 1 
+5/14/2022 19:44:20: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:1
+5/14/2022 19:44:20: [G_Auto 2] :  Store Text Value (Shared) for James Duckworth: bPoints = point: 0; games: 0; sets: 1 
+5/14/2022 19:44:20: [G_Auto 2] :  Store Text Value (Shared) for James Duckworth: bServing = serving:0
+5/14/2022 19:44:20: [G_Auto 2] :  Store Value (Shared) for market: price = 1.42
+5/14/2022 19:44:20: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 43.21
+5/14/2022 19:44:20: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 60.71
+5/14/2022 19:44:20: [G_Auto 2] :  Store Value (Shared) for market: stake = 18.6
+5/14/2022 19:44:20: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 103.92
+5/14/2022 19:44:20: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.23
+5/14/2022 19:44:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.41
+5/14/2022 19:44:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.35
+5/14/2022 19:44:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:44:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:44:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:45:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:45:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:45:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:46:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:46:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:46:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:46:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:47:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:47:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:47:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:47:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:48:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 19:48:16: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 19:49:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:49:53: [G_Auto 1] :  Placed closure bet with greening on Francisco Cerundolo by Backing 20.47 at 1.29
+5/14/2022 19:49:54: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 1; sets: 1 
+5/14/2022 19:49:54: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:0
+5/14/2022 19:49:54: [G_Auto 2] :  Store Text Value (Shared) for James Duckworth: bPoints = point: 0; games: 0; sets: 1 
+5/14/2022 19:49:54: [G_Auto 2] :  Store Text Value (Shared) for James Duckworth: bServing = serving:2
+5/14/2022 19:49:54: [G_Auto 2] :  Store Value (Shared) for market: price = 1.29
+5/14/2022 19:49:54: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 63.68
+5/14/2022 19:49:54: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 60.71
+5/14/2022 19:49:54: [G_Auto 2] :  Store Value (Shared) for market: stake = 20.47
+5/14/2022 19:49:54: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 124.39
+5/14/2022 19:49:54: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.97
+5/14/2022 19:49:54: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.3
+5/14/2022 19:49:54: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.3
+5/14/2022 19:49:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:50:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:50:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:50:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:50:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 19:51:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 19:52:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:52:18: [G_Auto 1] :  € 16.67 Lay bet placed on Francisco Cerundolo at 1.48. Fully matched at 1.48.  Ref: 10095          ( Fill or kill bet with 15 seconds delay.   )
+5/14/2022 19:52:19: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 1; sets: 1 
+5/14/2022 19:52:19: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:1
+5/14/2022 19:52:19: [G_Auto 2] :  Store Text Value (Shared) for James Duckworth: bPoints = point: 0; games: 1; sets: 1 
+5/14/2022 19:52:19: [G_Auto 2] :  Store Text Value (Shared) for James Duckworth: bServing = serving:0
+5/14/2022 19:52:19: [G_Auto 2] :  Store Value (Shared) for market: price = 1.48
+5/14/2022 19:52:19: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 63.68
+5/14/2022 19:52:19: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 77.38
+5/14/2022 19:52:19: [G_Auto 2] :  Store Value (Shared) for market: stake = 16.67
+5/14/2022 19:52:19: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 141.06
+5/14/2022 19:52:19: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.2
+5/14/2022 19:52:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.46
+5/14/2022 19:52:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.1
+5/14/2022 19:52:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:52:25: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 1; sets: 1 
+5/14/2022 19:52:25: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:1
+5/14/2022 19:52:25: [G_Auto 2] :  Store Text Value (Shared) for James Duckworth: bPoints = point: 0; games: 1; sets: 1 
+5/14/2022 19:52:25: [G_Auto 2] :  Store Text Value (Shared) for James Duckworth: bServing = serving:0
+5/14/2022 19:52:25: [G_Auto 2] :  Store Value (Shared) for market: price = 1.48
+5/14/2022 19:52:25: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 63.68
+5/14/2022 19:52:25: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 77.38
+5/14/2022 19:52:25: [G_Auto 2] :  Store Value (Shared) for market: stake = 16.67
+5/14/2022 19:52:25: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 141.06
+5/14/2022 19:52:25: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.2
+5/14/2022 19:52:25: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.46
+5/14/2022 19:52:25: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.1
+5/14/2022 19:52:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:52:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 19:52:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 19:54:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:54:21: [G_Auto 1] :  Placed closure bet with greening on Francisco Cerundolo by Backing 18.98 at 1.3
+5/14/2022 19:54:22: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 2; sets: 1 
+5/14/2022 19:54:22: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:0
+5/14/2022 19:54:22: [G_Auto 2] :  Store Text Value (Shared) for James Duckworth: bPoints = point: 0; games: 1; sets: 1 
+5/14/2022 19:54:22: [G_Auto 2] :  Store Text Value (Shared) for James Duckworth: bServing = serving:2
+5/14/2022 19:54:22: [G_Auto 2] :  Store Value (Shared) for market: price = 1.3
+5/14/2022 19:54:22: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 82.66
+5/14/2022 19:54:22: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 77.38
+5/14/2022 19:54:22: [G_Auto 2] :  Store Value (Shared) for market: stake = 18.98
+5/14/2022 19:54:22: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 160.04
+5/14/2022 19:54:22: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.28
+5/14/2022 19:54:22: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.31
+5/14/2022 19:54:22: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.1
+5/14/2022 19:54:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:54:28: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 2; sets: 1 
+5/14/2022 19:54:28: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:0
+5/14/2022 19:54:28: [G_Auto 2] :  Store Text Value (Shared) for James Duckworth: bPoints = point: 0; games: 1; sets: 1 
+5/14/2022 19:54:28: [G_Auto 2] :  Store Text Value (Shared) for James Duckworth: bServing = serving:2
+5/14/2022 19:54:28: [G_Auto 2] :  Store Value (Shared) for market: price = 1.3
+5/14/2022 19:54:28: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 82.66
+5/14/2022 19:54:28: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 77.38
+5/14/2022 19:54:28: [G_Auto 2] :  Store Value (Shared) for market: stake = 18.98
+5/14/2022 19:54:28: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 160.04
+5/14/2022 19:54:28: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.28
+5/14/2022 19:54:28: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.32
+5/14/2022 19:54:28: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.1
+5/14/2022 19:54:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:54:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:55:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:55:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:55:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:56:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:56:16: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 19:58:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:58:28: [G_Auto 1] :  € 16.67 Lay bet placed on Francisco Cerundolo at 1.48. Fully matched at 1.48.  Ref: 10098          ( Fill or kill bet with 15 seconds delay.   )
+5/14/2022 19:58:29: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 2; sets: 1 
+5/14/2022 19:58:29: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:1
+5/14/2022 19:58:29: [G_Auto 2] :  Store Text Value (Shared) for James Duckworth: bPoints = point: 0; games: 2; sets: 1 
+5/14/2022 19:58:29: [G_Auto 2] :  Store Text Value (Shared) for James Duckworth: bServing = serving:0
+5/14/2022 19:58:29: [G_Auto 2] :  Store Value (Shared) for market: price = 1.48
+5/14/2022 19:58:29: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 82.66
+5/14/2022 19:58:29: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 94.05
+5/14/2022 19:58:29: [G_Auto 2] :  Store Value (Shared) for market: stake = 16.67
+5/14/2022 19:58:29: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 176.71
+5/14/2022 19:58:29: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.51
+5/14/2022 19:58:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.46
+5/14/2022 19:58:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.1
+5/14/2022 19:58:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:58:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 19:59:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 19:59:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 20:02:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 20:03:00: [G_Auto 1] :  Placed closure bet with greening on Francisco Cerundolo by Backing 18.41 at 1.34
+5/14/2022 20:03:01: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 3; sets: 1 
+5/14/2022 20:03:01: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:0
+5/14/2022 20:03:01: [G_Auto 2] :  Store Text Value (Shared) for James Duckworth: bPoints = point: 0; games: 2; sets: 1 
+5/14/2022 20:03:01: [G_Auto 2] :  Store Text Value (Shared) for James Duckworth: bServing = serving:2
+5/14/2022 20:03:01: [G_Auto 2] :  Store Value (Shared) for market: price = 1.34
+5/14/2022 20:03:01: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 101.07
+5/14/2022 20:03:01: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 94.05
+5/14/2022 20:03:01: [G_Auto 2] :  Store Value (Shared) for market: stake = 18.41
+5/14/2022 20:03:01: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 195.12
+5/14/2022 20:03:01: [G_Auto 2] :  Store Value (Shared) for market: pl = -7.02
+5/14/2022 20:03:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.35
+5/14/2022 20:03:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.85
+5/14/2022 20:03:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 20:03:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 20:03:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 20:03:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 20:04:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 20:04:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 20:04:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 20:04:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 20:05:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 20:05:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 20:06:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 20:06:53: [G_Auto 1] :  € 14.04 Lay bet placed on Francisco Cerundolo at 1.57. Fully matched at 1.56.  Ref: 10105          ( Fill or kill bet with 15 seconds delay.   )
+5/14/2022 20:06:54: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 3; sets: 1 
+5/14/2022 20:06:54: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:1
+5/14/2022 20:06:54: [G_Auto 2] :  Store Text Value (Shared) for James Duckworth: bPoints = point: 0; games: 3; sets: 1 
+5/14/2022 20:06:54: [G_Auto 2] :  Store Text Value (Shared) for James Duckworth: bServing = serving:0
+5/14/2022 20:06:54: [G_Auto 2] :  Store Value (Shared) for market: price = 1.56
+5/14/2022 20:06:54: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 101.07
+5/14/2022 20:06:54: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 108.09
+5/14/2022 20:06:54: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.04
+5/14/2022 20:06:54: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 209.16
+5/14/2022 20:06:54: [G_Auto 2] :  Store Value (Shared) for market: pl = -7.11
+5/14/2022 20:06:54: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.55
+5/14/2022 20:06:54: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.82
+5/14/2022 20:06:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 20:07:01: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 3; sets: 1 
+5/14/2022 20:07:01: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:1
+5/14/2022 20:07:01: [G_Auto 2] :  Store Text Value (Shared) for James Duckworth: bPoints = point: 0; games: 3; sets: 1 
+5/14/2022 20:07:01: [G_Auto 2] :  Store Text Value (Shared) for James Duckworth: bServing = serving:0
+5/14/2022 20:07:01: [G_Auto 2] :  Store Value (Shared) for market: price = 1.56
+5/14/2022 20:07:01: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 101.07
+5/14/2022 20:07:01: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 108.09
+5/14/2022 20:07:01: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.04
+5/14/2022 20:07:01: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 209.16
+5/14/2022 20:07:01: [G_Auto 2] :  Store Value (Shared) for market: pl = -7.02
+5/14/2022 20:07:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.56
+5/14/2022 20:07:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.78
+5/14/2022 20:07:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 20:07:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 20:07:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 20:10:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 20:10:56: [G_Auto 1] :  Placed closure bet with greening on Francisco Cerundolo by Backing 15.87 at 1.38
+5/14/2022 20:10:58: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 4; sets: 1 
+5/14/2022 20:10:58: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:0
+5/14/2022 20:10:58: [G_Auto 2] :  Store Text Value (Shared) for James Duckworth: bPoints = point: 0; games: 3; sets: 1 
+5/14/2022 20:10:58: [G_Auto 2] :  Store Text Value (Shared) for James Duckworth: bServing = serving:2
+5/14/2022 20:10:58: [G_Auto 2] :  Store Value (Shared) for market: price = 1.38
+5/14/2022 20:10:58: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 116.94
+5/14/2022 20:10:58: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 108.09
+5/14/2022 20:10:58: [G_Auto 2] :  Store Value (Shared) for market: stake = 15.87
+5/14/2022 20:10:58: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 225.03
+5/14/2022 20:10:58: [G_Auto 2] :  Store Value (Shared) for market: pl = -8.86
+5/14/2022 20:10:58: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.39
+5/14/2022 20:10:58: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.6
+5/14/2022 20:11:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 20:11:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 20:11:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 20:11:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 20:12:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 20:12:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 20:12:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 20:12:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 20:13:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 20:13:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 20:15:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 20:15:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 20:15:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 20:16:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 20:16:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 20:16:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 20:17:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 20:17:46:  Guardian has detected that the market is suspended
