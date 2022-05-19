@@ -1,0 +1,558 @@
+5/18/2022 09:56:32: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: info = marketName: Mertens v Friedsam - Match Odds; runnerA: Elise Mertens; runnerB: Anna-Lena Friedsam 
+5/18/2022 09:56:32: [G_Auto 2] :  Store Value (Shared) for market: aId = 9002334
+5/18/2022 09:56:32: [G_Auto 2] :  Store Value (Shared) for market: bId = 7593369
+5/18/2022 12:48:11:  Guardian has detected that the market is in-play
+5/18/2022 12:48:11:  Guardian has detected that the market is suspended
+5/18/2022 12:48:15: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.26; bBsp: 4.7; volume: 15168.03 
+5/18/2022 12:48:15: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.26; bBsp: 4.7; volume: 15168.03 
+5/18/2022 12:48:15:  Guardian has detected that the market is now unsuspended
+5/18/2022 12:48:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:48:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 12:48:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 12:48:55: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 12:51:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:51:56: [G_Auto 1] :  € 42.11 Lay bet placed on Elise Mertens at 1.19. Fully matched at 1.18.  Ref: 10061          ( Fill or kill bet with 15 seconds delay.   )
+5/18/2022 12:51:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:51:57: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aPoints = point: 0; games: 1; sets: 0 
+5/18/2022 12:51:57: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aServing = serving:1
+5/18/2022 12:51:57: [G_Auto 2] :  Store Text Value (Shared) for Anna-Lena Friedsam: bPoints = point: 0; games: 0; sets: 0 
+5/18/2022 12:51:57: [G_Auto 2] :  Store Text Value (Shared) for Anna-Lena Friedsam: bServing = serving:0
+5/18/2022 12:51:57: [G_Auto 2] :  Store Value (Shared) for market: price = 1.18
+5/18/2022 12:51:57: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+5/18/2022 12:51:57: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 42.11
+5/18/2022 12:51:57: [G_Auto 2] :  Store Value (Shared) for market: stake = 42.11
+5/18/2022 12:51:57: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 42.11
+5/18/2022 12:51:57: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.36
+5/18/2022 12:51:57: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.18
+5/18/2022 12:51:57: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.6
+5/18/2022 12:52:05: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aPoints = point: 0; games: 1; sets: 0 
+5/18/2022 12:52:05: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aServing = serving:1
+5/18/2022 12:52:05: [G_Auto 2] :  Store Text Value (Shared) for Anna-Lena Friedsam: bPoints = point: 0; games: 0; sets: 0 
+5/18/2022 12:52:05: [G_Auto 2] :  Store Text Value (Shared) for Anna-Lena Friedsam: bServing = serving:0
+5/18/2022 12:52:05: [G_Auto 2] :  Store Value (Shared) for market: price = 1.18
+5/18/2022 12:52:05: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+5/18/2022 12:52:05: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 42.11
+5/18/2022 12:52:05: [G_Auto 2] :  Store Value (Shared) for market: stake = 42.11
+5/18/2022 12:52:05: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 42.11
+5/18/2022 12:52:05: [G_Auto 2] :  Store Value (Shared) for market: pl = 0
+5/18/2022 12:52:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.18
+5/18/2022 12:52:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 6.4
+5/18/2022 12:52:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:52:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:52:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:52:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 12:53:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 12:53:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 12:53:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 12:56:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:56:45: [G_Auto 1] :  Placed closure bet with greening on Elise Mertens by Backing 37.93 at 1.31
+5/18/2022 12:56:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:56:45: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aPoints = point: 0; games: 1; sets: 0 
+5/18/2022 12:56:45: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aServing = serving:0
+5/18/2022 12:56:45: [G_Auto 2] :  Store Text Value (Shared) for Anna-Lena Friedsam: bPoints = point: 0; games: 1; sets: 0 
+5/18/2022 12:56:45: [G_Auto 2] :  Store Text Value (Shared) for Anna-Lena Friedsam: bServing = serving:2
+5/18/2022 12:56:45: [G_Auto 2] :  Store Value (Shared) for market: price = 1.31
+5/18/2022 12:56:45: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 37.93
+5/18/2022 12:56:45: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 42.11
+5/18/2022 12:56:45: [G_Auto 2] :  Store Value (Shared) for market: stake = 37.93
+5/18/2022 12:56:45: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 80.04
+5/18/2022 12:56:45: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.1
+5/18/2022 12:56:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.32
+5/18/2022 12:56:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.1
+5/18/2022 12:57:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:57:16: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 12:57:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 12:59:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:00:08: [G_Auto 1] :  € 17.78 Lay bet placed on Elise Mertens at 1.45. Fully matched at 1.44.  Ref: 10066          ( Fill or kill bet with 15 seconds delay.   )
+5/18/2022 13:00:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:00:09: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aPoints = point: 0; games: 1; sets: 0 
+5/18/2022 13:00:09: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aServing = serving:1
+5/18/2022 13:00:09: [G_Auto 2] :  Store Text Value (Shared) for Anna-Lena Friedsam: bPoints = point: 0; games: 2; sets: 0 
+5/18/2022 13:00:09: [G_Auto 2] :  Store Text Value (Shared) for Anna-Lena Friedsam: bServing = serving:0
+5/18/2022 13:00:09: [G_Auto 2] :  Store Value (Shared) for market: price = 1.44
+5/18/2022 13:00:09: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 37.93
+5/18/2022 13:00:09: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 59.89
+5/18/2022 13:00:09: [G_Auto 2] :  Store Value (Shared) for market: stake = 17.78
+5/18/2022 13:00:09: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 97.82
+5/18/2022 13:00:09: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.97
+5/18/2022 13:00:09: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.43
+5/18/2022 13:00:09: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.35
+5/18/2022 13:00:16: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aPoints = point: 0; games: 1; sets: 0 
+5/18/2022 13:00:16: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aServing = serving:1
+5/18/2022 13:00:16: [G_Auto 2] :  Store Text Value (Shared) for Anna-Lena Friedsam: bPoints = point: 0; games: 2; sets: 0 
+5/18/2022 13:00:16: [G_Auto 2] :  Store Text Value (Shared) for Anna-Lena Friedsam: bServing = serving:0
+5/18/2022 13:00:16: [G_Auto 2] :  Store Value (Shared) for market: price = 1.44
+5/18/2022 13:00:16: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 37.93
+5/18/2022 13:00:16: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 59.89
+5/18/2022 13:00:16: [G_Auto 2] :  Store Value (Shared) for market: stake = 17.78
+5/18/2022 13:00:16: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 97.82
+5/18/2022 13:00:16: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.97
+5/18/2022 13:00:16: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.45
+5/18/2022 13:00:16: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.2
+5/18/2022 13:00:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:00:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:00:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:01:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:01:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:01:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:01:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 13:02:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 13:04:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:04:41: [G_Auto 1] :  Placed closure bet with greening on Elise Mertens by Backing 19.25 at 1.33
+5/18/2022 13:04:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:04:42: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aPoints = point: 0; games: 2; sets: 0 
+5/18/2022 13:04:42: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aServing = serving:0
+5/18/2022 13:04:42: [G_Auto 2] :  Store Text Value (Shared) for Anna-Lena Friedsam: bPoints = point: 0; games: 2; sets: 0 
+5/18/2022 13:04:42: [G_Auto 2] :  Store Text Value (Shared) for Anna-Lena Friedsam: bServing = serving:2
+5/18/2022 13:04:42: [G_Auto 2] :  Store Value (Shared) for market: price = 1.33
+5/18/2022 13:04:42: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 57.18
+5/18/2022 13:04:42: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 59.89
+5/18/2022 13:04:42: [G_Auto 2] :  Store Value (Shared) for market: stake = 19.25
+5/18/2022 13:04:42: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 117.07
+5/18/2022 13:04:42: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.66
+5/18/2022 13:04:42: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.34
+5/18/2022 13:04:42: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.95
+5/18/2022 13:04:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:05:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 13:05:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 13:05:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 13:10:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:10:27: [G_Auto 1] :  € 17.78 Lay bet placed on Elise Mertens at 1.45. Fully matched at 1.44.  Ref: 10076          ( Fill or kill bet with 15 seconds delay.   )
+5/18/2022 13:10:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:10:28: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aPoints = point: 0; games: 2; sets: 0 
+5/18/2022 13:10:28: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aServing = serving:1
+5/18/2022 13:10:28: [G_Auto 2] :  Store Text Value (Shared) for Anna-Lena Friedsam: bPoints = point: 0; games: 3; sets: 0 
+5/18/2022 13:10:28: [G_Auto 2] :  Store Text Value (Shared) for Anna-Lena Friedsam: bServing = serving:0
+5/18/2022 13:10:28: [G_Auto 2] :  Store Value (Shared) for market: price = 1.44
+5/18/2022 13:10:28: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 57.18
+5/18/2022 13:10:28: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 77.67
+5/18/2022 13:10:28: [G_Auto 2] :  Store Value (Shared) for market: stake = 17.78
+5/18/2022 13:10:28: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 134.85
+5/18/2022 13:10:28: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.53
+5/18/2022 13:10:28: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.43
+5/18/2022 13:10:28: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.35
+5/18/2022 13:10:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:10:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:11:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:11:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:11:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:12:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:12:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:12:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:12:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 13:12:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 13:13:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 13:19:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:19:20: [G_Auto 1] :  Placed closure bet with greening on Elise Mertens by Backing 19.11 at 1.34
+5/18/2022 13:19:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:19:21: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aPoints = point: 0; games: 3; sets: 0 
+5/18/2022 13:19:21: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aServing = serving:0
+5/18/2022 13:19:21: [G_Auto 2] :  Store Text Value (Shared) for Anna-Lena Friedsam: bPoints = point: 0; games: 3; sets: 0 
+5/18/2022 13:19:21: [G_Auto 2] :  Store Text Value (Shared) for Anna-Lena Friedsam: bServing = serving:2
+5/18/2022 13:19:21: [G_Auto 2] :  Store Value (Shared) for market: price = 1.34
+5/18/2022 13:19:21: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 76.29
+5/18/2022 13:19:21: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 77.67
+5/18/2022 13:19:21: [G_Auto 2] :  Store Value (Shared) for market: stake = 19.11
+5/18/2022 13:19:21: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 153.96
+5/18/2022 13:19:21: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.35
+5/18/2022 13:19:21: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.34
+5/18/2022 13:19:21: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.8
+5/18/2022 13:19:28: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aPoints = point: 0; games: 3; sets: 0 
+5/18/2022 13:19:28: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aServing = serving:0
+5/18/2022 13:19:28: [G_Auto 2] :  Store Text Value (Shared) for Anna-Lena Friedsam: bPoints = point: 0; games: 3; sets: 0 
+5/18/2022 13:19:28: [G_Auto 2] :  Store Text Value (Shared) for Anna-Lena Friedsam: bServing = serving:2
+5/18/2022 13:19:28: [G_Auto 2] :  Store Value (Shared) for market: price = 1.34
+5/18/2022 13:19:28: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 76.29
+5/18/2022 13:19:28: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 77.67
+5/18/2022 13:19:28: [G_Auto 2] :  Store Value (Shared) for market: stake = 19.11
+5/18/2022 13:19:28: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 153.96
+5/18/2022 13:19:28: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.35
+5/18/2022 13:19:28: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.34
+5/18/2022 13:19:28: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.8
+5/18/2022 13:19:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:19:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:20:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 13:20:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 13:20:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 13:21:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:22:03: [G_Auto 1] :  € 14.29 Lay bet placed on Elise Mertens at 1.56. Fully matched at 1.55.  Ref: 10086          ( Fill or kill bet with 15 seconds delay.   )
+5/18/2022 13:22:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:22:04: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aPoints = point: 0; games: 3; sets: 0 
+5/18/2022 13:22:04: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aServing = serving:1
+5/18/2022 13:22:04: [G_Auto 2] :  Store Text Value (Shared) for Anna-Lena Friedsam: bPoints = point: 0; games: 4; sets: 0 
+5/18/2022 13:22:04: [G_Auto 2] :  Store Text Value (Shared) for Anna-Lena Friedsam: bServing = serving:0
+5/18/2022 13:22:04: [G_Auto 2] :  Store Value (Shared) for market: price = 1.55
+5/18/2022 13:22:04: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 76.29
+5/18/2022 13:22:04: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 91.96
+5/18/2022 13:22:04: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.29
+5/18/2022 13:22:04: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 168.25
+5/18/2022 13:22:04: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.26
+5/18/2022 13:22:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.54
+5/18/2022 13:22:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.8
+5/18/2022 13:22:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:22:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:22:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:23:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:23:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:23:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:23:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:24:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:24:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 13:24:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 13:24:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 13:26:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:26:31: [G_Auto 1] :  Placed closure bet with greening on Elise Mertens by Backing 16.28 at 1.36
+5/18/2022 13:26:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:26:32: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aPoints = point: 0; games: 4; sets: 0 
+5/18/2022 13:26:32: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aServing = serving:0
+5/18/2022 13:26:32: [G_Auto 2] :  Store Text Value (Shared) for Anna-Lena Friedsam: bPoints = point: 0; games: 4; sets: 0 
+5/18/2022 13:26:32: [G_Auto 2] :  Store Text Value (Shared) for Anna-Lena Friedsam: bServing = serving:2
+5/18/2022 13:26:32: [G_Auto 2] :  Store Value (Shared) for market: price = 1.36
+5/18/2022 13:26:32: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 92.57
+5/18/2022 13:26:32: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 91.96
+5/18/2022 13:26:32: [G_Auto 2] :  Store Value (Shared) for market: stake = 16.28
+5/18/2022 13:26:32: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 184.53
+5/18/2022 13:26:32: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.62
+5/18/2022 13:26:32: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.38
+5/18/2022 13:26:32: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.65
+5/18/2022 13:26:40: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aPoints = point: 0; games: 4; sets: 0 
+5/18/2022 13:26:40: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aServing = serving:0
+5/18/2022 13:26:40: [G_Auto 2] :  Store Text Value (Shared) for Anna-Lena Friedsam: bPoints = point: 0; games: 4; sets: 0 
+5/18/2022 13:26:40: [G_Auto 2] :  Store Text Value (Shared) for Anna-Lena Friedsam: bServing = serving:2
+5/18/2022 13:26:40: [G_Auto 2] :  Store Value (Shared) for market: price = 1.36
+5/18/2022 13:26:40: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 92.57
+5/18/2022 13:26:40: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 91.96
+5/18/2022 13:26:40: [G_Auto 2] :  Store Value (Shared) for market: stake = 16.28
+5/18/2022 13:26:40: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 184.53
+5/18/2022 13:26:40: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.62
+5/18/2022 13:26:40: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.37
+5/18/2022 13:26:40: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.65
+5/18/2022 13:26:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:26:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 13:27:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 13:27:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 13:29:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:29:17: [G_Auto 1] :  € 14.04 Lay bet placed on Elise Mertens at 1.57. Fully matched at 1.56.  Ref: 10095          ( Fill or kill bet with 15 seconds delay.   )
+5/18/2022 13:29:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:29:18: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aPoints = point: 0; games: 4; sets: 0 
+5/18/2022 13:29:18: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aServing = serving:1
+5/18/2022 13:29:18: [G_Auto 2] :  Store Text Value (Shared) for Anna-Lena Friedsam: bPoints = point: 0; games: 5; sets: 0 
+5/18/2022 13:29:18: [G_Auto 2] :  Store Text Value (Shared) for Anna-Lena Friedsam: bServing = serving:0
+5/18/2022 13:29:18: [G_Auto 2] :  Store Value (Shared) for market: price = 1.56
+5/18/2022 13:29:18: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 92.57
+5/18/2022 13:29:18: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 106
+5/18/2022 13:29:18: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.04
+5/18/2022 13:29:18: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 198.57
+5/18/2022 13:29:18: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.7
+5/18/2022 13:29:18: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.55
+5/18/2022 13:29:18: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.8
+5/18/2022 13:29:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:29:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:30:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:30:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:30:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:30:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:31:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:31:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 13:31:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 13:33:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:33:54: [G_Auto 1] :  Placed closure bet with greening on Elise Mertens by Backing 15.99 at 1.37
+5/18/2022 13:33:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:33:55: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aPoints = point: 0; games: 5; sets: 0 
+5/18/2022 13:33:55: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aServing = serving:0
+5/18/2022 13:33:55: [G_Auto 2] :  Store Text Value (Shared) for Anna-Lena Friedsam: bPoints = point: 0; games: 5; sets: 0 
+5/18/2022 13:33:55: [G_Auto 2] :  Store Text Value (Shared) for Anna-Lena Friedsam: bServing = serving:2
+5/18/2022 13:33:55: [G_Auto 2] :  Store Value (Shared) for market: price = 1.37
+5/18/2022 13:33:55: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 108.56
+5/18/2022 13:33:55: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 106
+5/18/2022 13:33:55: [G_Auto 2] :  Store Value (Shared) for market: stake = 15.99
+5/18/2022 13:33:55: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 214.56
+5/18/2022 13:33:55: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.56
+5/18/2022 13:33:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.37
+5/18/2022 13:33:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.6
+5/18/2022 13:34:02: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aPoints = point: 0; games: 5; sets: 0 
+5/18/2022 13:34:02: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aServing = serving:0
+5/18/2022 13:34:02: [G_Auto 2] :  Store Text Value (Shared) for Anna-Lena Friedsam: bPoints = point: 0; games: 5; sets: 0 
+5/18/2022 13:34:02: [G_Auto 2] :  Store Text Value (Shared) for Anna-Lena Friedsam: bServing = serving:2
+5/18/2022 13:34:02: [G_Auto 2] :  Store Value (Shared) for market: price = 1.37
+5/18/2022 13:34:02: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 108.56
+5/18/2022 13:34:02: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 106
+5/18/2022 13:34:02: [G_Auto 2] :  Store Value (Shared) for market: stake = 15.99
+5/18/2022 13:34:02: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 214.56
+5/18/2022 13:34:02: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.56
+5/18/2022 13:34:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.38
+5/18/2022 13:34:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.6
+5/18/2022 13:34:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:34:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 13:34:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 13:34:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 13:42:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:42:41: [G_Auto 1] :  € 47.06 Lay bet placed on Elise Mertens at 1.17. Fully matched at 1.16.  Ref: 10104          ( Fill or kill bet with 15 seconds delay.   )
+5/18/2022 13:42:42: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aPoints = point: 0; games: 6; sets: 0 
+5/18/2022 13:42:42: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aServing = serving:1
+5/18/2022 13:42:42: [G_Auto 2] :  Store Text Value (Shared) for Anna-Lena Friedsam: bPoints = point: 0; games: 5; sets: 0 
+5/18/2022 13:42:42: [G_Auto 2] :  Store Text Value (Shared) for Anna-Lena Friedsam: bServing = serving:0
+5/18/2022 13:42:42: [G_Auto 2] :  Store Value (Shared) for market: price = 1.16
+5/18/2022 13:42:42: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 108.56
+5/18/2022 13:42:42: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 153.06
+5/18/2022 13:42:42: [G_Auto 2] :  Store Value (Shared) for market: stake = 47.06
+5/18/2022 13:42:42: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 261.62
+5/18/2022 13:42:42: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.97
+5/18/2022 13:42:42: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.16
+5/18/2022 13:42:42: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 7.4
+5/18/2022 13:42:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:43:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:43:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:43:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:43:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:44:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:44:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:44:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 13:44:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 13:49:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:49:09: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 1.1
+5/18/2022 13:49:09: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 8.2
+5/18/2022 13:49:15: [G_Auto 1] :  Placed closure bet with greening on Elise Mertens by Backing 49.63 at 1.1
+5/18/2022 13:49:16: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aPoints = point: 0; games: 0; sets: 1 
+5/18/2022 13:49:16: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aServing = serving:0
+5/18/2022 13:49:16: [G_Auto 2] :  Store Text Value (Shared) for Anna-Lena Friedsam: bPoints = point: 0; games: 0; sets: 0 
+5/18/2022 13:49:16: [G_Auto 2] :  Store Text Value (Shared) for Anna-Lena Friedsam: bServing = serving:2
+5/18/2022 13:49:16: [G_Auto 2] :  Store Value (Shared) for market: price = 1.1
+5/18/2022 13:49:16: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 158.19
+5/18/2022 13:49:16: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 153.06
+5/18/2022 13:49:16: [G_Auto 2] :  Store Value (Shared) for market: stake = 49.63
+5/18/2022 13:49:16: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 311.25
+5/18/2022 13:49:16: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.13
+5/18/2022 13:49:16: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.11
+5/18/2022 13:49:16: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 10
+5/18/2022 13:49:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:49:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:49:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:50:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:50:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:50:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:51:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:51:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:51:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:51:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:52:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:52:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:52:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:53:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:53:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:53:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:53:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:54:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:54:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:54:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:55:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:55:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:55:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:55:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:56:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 13:56:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 13:59:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 14:00:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 14:00:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 14:00:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 14:01:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 14:01:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 14:01:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 14:01:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 14:01:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 14:02:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 14:02:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 14:03:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 14:04:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 14:04:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 14:04:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 14:05:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 14:05:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 14:11:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 14:11:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 14:12:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 14:12:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 14:12:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 14:13:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 14:13:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 14:13:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 14:13:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 14:14:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 14:24:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 14:24:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 14:24:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 14:24:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 14:25:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 14:25:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 14:30:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 14:30:52: [G_Auto 1] :  € 33.33 Lay bet placed on Elise Mertens at 1.24. Fully matched at 1.24.  Ref: 10142          ( Fill or kill bet with 15 seconds delay.   )
+5/18/2022 14:30:52: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aPoints = point: 0; games: 2; sets: 1 
+5/18/2022 14:30:52: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aServing = serving:1
+5/18/2022 14:30:52: [G_Auto 2] :  Store Text Value (Shared) for Anna-Lena Friedsam: bPoints = point: 0; games: 3; sets: 0 
+5/18/2022 14:30:52: [G_Auto 2] :  Store Text Value (Shared) for Anna-Lena Friedsam: bServing = serving:0
+5/18/2022 14:30:52: [G_Auto 2] :  Store Value (Shared) for market: price = 1.24
+5/18/2022 14:30:52: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 158.19
+5/18/2022 14:30:52: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 186.39
+5/18/2022 14:30:52: [G_Auto 2] :  Store Value (Shared) for market: stake = 33.33
+5/18/2022 14:30:52: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 344.58
+5/18/2022 14:30:52: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.68
+5/18/2022 14:30:52: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.22
+5/18/2022 14:30:52: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.6
+5/18/2022 14:30:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 14:31:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 14:31:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 14:31:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 14:32:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 14:32:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 14:32:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 14:32:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 14:32:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 14:33:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 14:36:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 14:37:09: [G_Auto 1] :  Placed closure bet with greening on Elise Mertens by Backing 35.94 at 1.15
+5/18/2022 14:37:10: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aPoints = point: 0; games: 3; sets: 1 
+5/18/2022 14:37:10: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aServing = serving:0
+5/18/2022 14:37:10: [G_Auto 2] :  Store Text Value (Shared) for Anna-Lena Friedsam: bPoints = point: 0; games: 3; sets: 0 
+5/18/2022 14:37:10: [G_Auto 2] :  Store Text Value (Shared) for Anna-Lena Friedsam: bServing = serving:2
+5/18/2022 14:37:10: [G_Auto 2] :  Store Value (Shared) for market: price = 1.15
+5/18/2022 14:37:10: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 194.13
+5/18/2022 14:37:10: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 186.39
+5/18/2022 14:37:10: [G_Auto 2] :  Store Value (Shared) for market: stake = 35.94
+5/18/2022 14:37:10: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 380.52
+5/18/2022 14:37:10: [G_Auto 2] :  Store Value (Shared) for market: pl = -7.74
+5/18/2022 14:37:10: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.15
+5/18/2022 14:37:10: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 7.2
+5/18/2022 14:37:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 14:37:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 14:37:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 14:37:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 14:40:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 14:40:14: [G_Auto 1] :  € 29.63 Lay bet placed on Elise Mertens at 1.27. Fully matched at 1.26.  Ref: 10147          ( Fill or kill bet with 15 seconds delay.   )
+5/18/2022 14:40:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 14:40:17: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aPoints = point: 0; games: 3; sets: 1 
+5/18/2022 14:40:17: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aServing = serving:1
+5/18/2022 14:40:17: [G_Auto 2] :  Store Text Value (Shared) for Anna-Lena Friedsam: bPoints = point: 0; games: 4; sets: 0 
+5/18/2022 14:40:17: [G_Auto 2] :  Store Text Value (Shared) for Anna-Lena Friedsam: bServing = serving:0
+5/18/2022 14:40:17: [G_Auto 2] :  Store Value (Shared) for market: price = 1.26
+5/18/2022 14:40:17: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 194.13
+5/18/2022 14:40:17: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 216.02
+5/18/2022 14:40:17: [G_Auto 2] :  Store Value (Shared) for market: stake = 29.63
+5/18/2022 14:40:17: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 410.15
+5/18/2022 14:40:17: [G_Auto 2] :  Store Value (Shared) for market: pl = -7.98
+5/18/2022 14:40:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.25
+5/18/2022 14:40:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5
+5/18/2022 14:40:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 14:40:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 14:41:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 14:41:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 14:41:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 14:41:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 14:42:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 14:42:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 14:42:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 14:42:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 14:47:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 14:47:48: [G_Auto 1] :  Placed closure bet with greening on Elise Mertens by Backing 31.91 at 1.17
+5/18/2022 14:47:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 14:47:51: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aPoints = point: 0; games: 4; sets: 1 
+5/18/2022 14:47:51: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aServing = serving:0
+5/18/2022 14:47:51: [G_Auto 2] :  Store Text Value (Shared) for Anna-Lena Friedsam: bPoints = point: 0; games: 4; sets: 0 
+5/18/2022 14:47:51: [G_Auto 2] :  Store Text Value (Shared) for Anna-Lena Friedsam: bServing = serving:2
+5/18/2022 14:47:51: [G_Auto 2] :  Store Value (Shared) for market: price = 1.17
+5/18/2022 14:47:51: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 226.04
+5/18/2022 14:47:51: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 216.02
+5/18/2022 14:47:51: [G_Auto 2] :  Store Value (Shared) for market: stake = 31.91
+5/18/2022 14:47:51: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 442.06
+5/18/2022 14:47:51: [G_Auto 2] :  Store Value (Shared) for market: pl = -10.02
+5/18/2022 14:47:51: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.18
+5/18/2022 14:47:51: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 6.2
+5/18/2022 14:48:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 14:48:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 14:48:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 14:48:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 14:48:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 14:49:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 14:49:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 14:52:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 14:52:55: [G_Auto 1] :  € 28.57 Lay bet placed on Elise Mertens at 1.28. Fully matched at 1.28.  Ref: 10157          ( Fill or kill bet with 15 seconds delay.   )
+5/18/2022 14:52:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 14:52:58: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aPoints = point: 0; games: 4; sets: 1 
+5/18/2022 14:52:58: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aServing = serving:1
+5/18/2022 14:52:58: [G_Auto 2] :  Store Text Value (Shared) for Anna-Lena Friedsam: bPoints = point: 0; games: 5; sets: 0 
+5/18/2022 14:52:58: [G_Auto 2] :  Store Text Value (Shared) for Anna-Lena Friedsam: bServing = serving:0
+5/18/2022 14:52:58: [G_Auto 2] :  Store Value (Shared) for market: price = 1.28
+5/18/2022 14:52:58: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 226.04
+5/18/2022 14:52:58: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 244.59
+5/18/2022 14:52:58: [G_Auto 2] :  Store Value (Shared) for market: stake = 28.57
+5/18/2022 14:52:58: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 470.63
+5/18/2022 14:52:58: [G_Auto 2] :  Store Value (Shared) for market: pl = -10.24
+5/18/2022 14:52:58: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.27
+5/18/2022 14:52:58: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.8
+5/18/2022 14:53:05: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aPoints = point: 0; games: 4; sets: 1 
+5/18/2022 14:53:05: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aServing = serving:1
+5/18/2022 14:53:05: [G_Auto 2] :  Store Text Value (Shared) for Anna-Lena Friedsam: bPoints = point: 0; games: 5; sets: 0 
+5/18/2022 14:53:05: [G_Auto 2] :  Store Text Value (Shared) for Anna-Lena Friedsam: bServing = serving:0
+5/18/2022 14:53:05: [G_Auto 2] :  Store Value (Shared) for market: price = 1.28
+5/18/2022 14:53:05: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 226.04
+5/18/2022 14:53:05: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 244.59
+5/18/2022 14:53:05: [G_Auto 2] :  Store Value (Shared) for market: stake = 28.57
+5/18/2022 14:53:05: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 470.63
+5/18/2022 14:53:05: [G_Auto 2] :  Store Value (Shared) for market: pl = -10.24
+5/18/2022 14:53:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.27
+5/18/2022 14:53:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.6
+5/18/2022 14:53:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 14:53:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 14:53:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 14:54:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 14:54:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 14:54:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 14:54:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 14:55:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 14:55:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 14:55:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 14:55:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 14:57:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 14:57:21: [G_Auto 1] :  Placed closure bet with greening on Elise Mertens by Backing 31.80 at 1.15
+5/18/2022 14:57:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 14:57:24: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aPoints = point: 0; games: 5; sets: 1 
+5/18/2022 14:57:24: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aServing = serving:0
+5/18/2022 14:57:24: [G_Auto 2] :  Store Text Value (Shared) for Anna-Lena Friedsam: bPoints = point: 0; games: 5; sets: 0 
+5/18/2022 14:57:24: [G_Auto 2] :  Store Text Value (Shared) for Anna-Lena Friedsam: bServing = serving:2
+5/18/2022 14:57:24: [G_Auto 2] :  Store Value (Shared) for market: price = 1.15
+5/18/2022 14:57:24: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 257.84
+5/18/2022 14:57:24: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 244.59
+5/18/2022 14:57:24: [G_Auto 2] :  Store Value (Shared) for market: stake = 31.8
+5/18/2022 14:57:24: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 502.43
+5/18/2022 14:57:24: [G_Auto 2] :  Store Value (Shared) for market: pl = -13.25
+5/18/2022 14:57:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.15
+5/18/2022 14:57:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 7.2
+5/18/2022 14:57:30: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aPoints = point: 0; games: 5; sets: 1 
+5/18/2022 14:57:30: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aServing = serving:0
+5/18/2022 14:57:30: [G_Auto 2] :  Store Text Value (Shared) for Anna-Lena Friedsam: bPoints = point: 0; games: 5; sets: 0 
+5/18/2022 14:57:30: [G_Auto 2] :  Store Text Value (Shared) for Anna-Lena Friedsam: bServing = serving:2
+5/18/2022 14:57:30: [G_Auto 2] :  Store Value (Shared) for market: price = 1.15
+5/18/2022 14:57:30: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 257.84
+5/18/2022 14:57:30: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 244.59
+5/18/2022 14:57:30: [G_Auto 2] :  Store Value (Shared) for market: stake = 31.8
+5/18/2022 14:57:30: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 502.43
+5/18/2022 14:57:30: [G_Auto 2] :  Store Value (Shared) for market: pl = -13.25
+5/18/2022 14:57:30: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.16
+5/18/2022 14:57:30: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 7.2
+5/18/2022 14:57:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 14:57:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 14:58:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 15:03:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 15:03:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 15:04:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 15:04:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 15:04:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 15:05:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 15:05:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 15:05:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 15:05:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 15:06:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 15:06:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 15:06:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 15:06:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 15:07:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 15:09:34:  Guardian has detected that the market is suspended

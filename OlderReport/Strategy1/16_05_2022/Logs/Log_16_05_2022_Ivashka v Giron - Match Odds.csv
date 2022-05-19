@@ -1,0 +1,618 @@
+5/16/2022 09:08:37: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: info = marketName: Ivashka v Giron - Match Odds; runnerA: Ilya Ivashka; runnerB: Marcos Giron 
+5/16/2022 09:08:37: [G_Auto 2] :  Store Value (Shared) for market: aId = 19924837
+5/16/2022 09:08:37: [G_Auto 2] :  Store Value (Shared) for market: bId = 8230256
+5/16/2022 11:08:59:  Guardian has detected that the market is in-play
+5/16/2022 11:08:59:  Guardian has detected that the market is suspended
+5/16/2022 11:09:04: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.54; bBsp: 2.84; volume: 37039.25 
+5/16/2022 11:09:04: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.54; bBsp: 2.84; volume: 37039.25 
+5/16/2022 11:09:04:  Guardian has detected that the market is now unsuspended
+5/16/2022 11:09:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 11:09:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 11:10:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:10:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:11:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:11:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:11:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:11:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 11:12:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 11:14:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:14:16: [G_Auto 1] :  € 14.04 Lay bet placed on Ilya Ivashka at 1.57. Entirely unmatched when it initially reached the market.   Ref: 10032          ( Fill or kill bet with 15 seconds delay.   )
+5/16/2022 11:14:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:14:24: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 1; sets: 0 
+5/16/2022 11:14:24: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:1
+5/16/2022 11:14:24: [G_Auto 2] :  Store Text Value (Shared) for Marcos Giron: bPoints = point: 0; games: 1; sets: 0 
+5/16/2022 11:14:24: [G_Auto 2] :  Store Text Value (Shared) for Marcos Giron: bServing = serving:0
+5/16/2022 11:14:24: [G_Auto 2] :  Store Value (Shared) for market: price = 1.57
+5/16/2022 11:14:24: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+5/16/2022 11:14:24: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 14.04
+5/16/2022 11:14:24: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.04
+5/16/2022 11:14:24: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 14.04
+5/16/2022 11:14:24: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.09
+5/16/2022 11:14:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.57
+5/16/2022 11:14:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.74
+5/16/2022 11:14:24: [G_Auto 1] :  € 14.04 of unmatched bet (Ref:10032) was filled before remainder was killed.
+5/16/2022 11:14:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:14:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:15:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 11:15:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 11:15:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 11:16:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:17:11: [G_Auto 1] :  Placed closure bet with greening on Ilya Ivashka by Backing 15.00 at 1.47
+5/16/2022 11:17:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:17:13: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 2; sets: 0 
+5/16/2022 11:17:13: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:0
+5/16/2022 11:17:13: [G_Auto 2] :  Store Text Value (Shared) for Marcos Giron: bPoints = point: 0; games: 1; sets: 0 
+5/16/2022 11:17:13: [G_Auto 2] :  Store Text Value (Shared) for Marcos Giron: bServing = serving:2
+5/16/2022 11:17:13: [G_Auto 2] :  Store Value (Shared) for market: price = 1.47
+5/16/2022 11:17:13: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 15
+5/16/2022 11:17:13: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 14.04
+5/16/2022 11:17:13: [G_Auto 2] :  Store Value (Shared) for market: stake = 15
+5/16/2022 11:17:13: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 29.04
+5/16/2022 11:17:13: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.95
+5/16/2022 11:17:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.49
+5/16/2022 11:17:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3
+5/16/2022 11:17:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:17:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:18:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:18:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:18:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:18:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:19:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:19:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 11:19:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 11:22:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:22:40: [G_Auto 1] :  € 14.29 Lay bet placed on Ilya Ivashka at 1.56. Fully matched at 1.55.  Ref: 10041          ( Fill or kill bet with 15 seconds delay.   )
+5/16/2022 11:22:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:22:42: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 2; sets: 0 
+5/16/2022 11:22:42: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:1
+5/16/2022 11:22:42: [G_Auto 2] :  Store Text Value (Shared) for Marcos Giron: bPoints = point: 0; games: 2; sets: 0 
+5/16/2022 11:22:42: [G_Auto 2] :  Store Text Value (Shared) for Marcos Giron: bServing = serving:0
+5/16/2022 11:22:42: [G_Auto 2] :  Store Value (Shared) for market: price = 1.55
+5/16/2022 11:22:42: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 15
+5/16/2022 11:22:42: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 28.33
+5/16/2022 11:22:42: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.29
+5/16/2022 11:22:42: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 43.33
+5/16/2022 11:22:42: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.96
+5/16/2022 11:22:42: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.55
+5/16/2022 11:22:42: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.8
+5/16/2022 11:22:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:23:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:23:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 11:23:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 11:23:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 11:25:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:25:41: [G_Auto 1] :  Placed closure bet with greening on Ilya Ivashka by Backing 10.44 at 2.12
+5/16/2022 11:25:41: [G_Auto 1] :  € 9.09 Lay bet placed on Marcos Giron at 1.88. Fully matched at 1.88.  Ref: 10043          ( Fill or kill bet with 15 seconds delay.   )
+5/16/2022 11:25:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:25:43: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 2; sets: 0 
+5/16/2022 11:25:43: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:0
+5/16/2022 11:25:43: [G_Auto 2] :  Store Text Value (Shared) for Marcos Giron: bPoints = point: 0; games: 3; sets: 0 
+5/16/2022 11:25:43: [G_Auto 2] :  Store Text Value (Shared) for Marcos Giron: bServing = serving:2
+5/16/2022 11:25:43: [G_Auto 2] :  Store Value (Shared) for market: price = 1.88
+5/16/2022 11:25:43: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 25.44
+5/16/2022 11:25:43: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 37.42
+5/16/2022 11:25:43: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.09
+5/16/2022 11:25:43: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 62.86
+5/16/2022 11:25:43: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.72
+5/16/2022 11:25:43: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.12
+5/16/2022 11:25:43: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.88
+5/16/2022 11:25:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:26:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:26:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:26:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:27:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:27:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:27:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 11:27:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 11:29:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:30:02: [G_Auto 1] :  Placed closure bet with greening on Marcos Giron by Backing 9.99 at 1.71
+5/16/2022 11:30:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:30:04: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 2; sets: 0 
+5/16/2022 11:30:04: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:1
+5/16/2022 11:30:04: [G_Auto 2] :  Store Text Value (Shared) for Marcos Giron: bPoints = point: 0; games: 4; sets: 0 
+5/16/2022 11:30:04: [G_Auto 2] :  Store Text Value (Shared) for Marcos Giron: bServing = serving:0
+5/16/2022 11:30:04: [G_Auto 2] :  Store Value (Shared) for market: price = 1.71
+5/16/2022 11:30:04: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 35.43
+5/16/2022 11:30:04: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 37.42
+5/16/2022 11:30:04: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.99
+5/16/2022 11:30:04: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 72.85
+5/16/2022 11:30:04: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.94
+5/16/2022 11:30:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.38
+5/16/2022 11:30:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.73
+5/16/2022 11:30:10: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 2; sets: 0 
+5/16/2022 11:30:10: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:1
+5/16/2022 11:30:10: [G_Auto 2] :  Store Text Value (Shared) for Marcos Giron: bPoints = point: 0; games: 4; sets: 0 
+5/16/2022 11:30:10: [G_Auto 2] :  Store Text Value (Shared) for Marcos Giron: bServing = serving:0
+5/16/2022 11:30:10: [G_Auto 2] :  Store Value (Shared) for market: price = 1.71
+5/16/2022 11:30:10: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 35.43
+5/16/2022 11:30:10: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 37.42
+5/16/2022 11:30:10: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.99
+5/16/2022 11:30:10: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 72.85
+5/16/2022 11:30:10: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.94
+5/16/2022 11:30:10: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.38
+5/16/2022 11:30:10: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.72
+5/16/2022 11:30:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 11:31:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:31:45: [G_Auto 1] :  € 9.09 Lay bet placed on Marcos Giron at 1.88. Fully matched at 1.88.  Ref: 10051          ( Fill or kill bet with 15 seconds delay.   )
+5/16/2022 11:31:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:31:47: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 3; sets: 0 
+5/16/2022 11:31:47: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:0
+5/16/2022 11:31:47: [G_Auto 2] :  Store Text Value (Shared) for Marcos Giron: bPoints = point: 0; games: 4; sets: 0 
+5/16/2022 11:31:47: [G_Auto 2] :  Store Text Value (Shared) for Marcos Giron: bServing = serving:2
+5/16/2022 11:31:47: [G_Auto 2] :  Store Value (Shared) for market: price = 1.88
+5/16/2022 11:31:47: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 35.43
+5/16/2022 11:31:47: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 46.51
+5/16/2022 11:31:47: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.09
+5/16/2022 11:31:47: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 81.94
+5/16/2022 11:31:47: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.79
+5/16/2022 11:31:47: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.16
+5/16/2022 11:31:47: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.85
+5/16/2022 11:31:52: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 3; sets: 0 
+5/16/2022 11:31:52: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:0
+5/16/2022 11:31:52: [G_Auto 2] :  Store Text Value (Shared) for Marcos Giron: bPoints = point: 0; games: 4; sets: 0 
+5/16/2022 11:31:52: [G_Auto 2] :  Store Text Value (Shared) for Marcos Giron: bServing = serving:2
+5/16/2022 11:31:52: [G_Auto 2] :  Store Value (Shared) for market: price = 1.88
+5/16/2022 11:31:52: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 35.43
+5/16/2022 11:31:52: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 46.51
+5/16/2022 11:31:52: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.09
+5/16/2022 11:31:52: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 81.94
+5/16/2022 11:31:52: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.79
+5/16/2022 11:31:52: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.16
+5/16/2022 11:31:52: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.85
+5/16/2022 11:32:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:32:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:32:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:32:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:33:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:33:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:33:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:33:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:33:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 11:34:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 11:34:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:35:09: [G_Auto 1] :  Placed closure bet with greening on Marcos Giron by Backing 10.62 at 1.61
+5/16/2022 11:35:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:35:11: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 3; sets: 0 
+5/16/2022 11:35:11: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:1
+5/16/2022 11:35:11: [G_Auto 2] :  Store Text Value (Shared) for Marcos Giron: bPoints = point: 0; games: 5; sets: 0 
+5/16/2022 11:35:11: [G_Auto 2] :  Store Text Value (Shared) for Marcos Giron: bServing = serving:0
+5/16/2022 11:35:11: [G_Auto 2] :  Store Value (Shared) for market: price = 1.61
+5/16/2022 11:35:11: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 46.05
+5/16/2022 11:35:11: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 46.51
+5/16/2022 11:35:11: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.62
+5/16/2022 11:35:11: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 92.56
+5/16/2022 11:35:11: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.44
+5/16/2022 11:35:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.5
+5/16/2022 11:35:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.62
+5/16/2022 11:35:16: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 3; sets: 0 
+5/16/2022 11:35:16: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:1
+5/16/2022 11:35:16: [G_Auto 2] :  Store Text Value (Shared) for Marcos Giron: bPoints = point: 0; games: 5; sets: 0 
+5/16/2022 11:35:16: [G_Auto 2] :  Store Text Value (Shared) for Marcos Giron: bServing = serving:0
+5/16/2022 11:35:16: [G_Auto 2] :  Store Value (Shared) for market: price = 1.61
+5/16/2022 11:35:16: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 46.05
+5/16/2022 11:35:16: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 46.51
+5/16/2022 11:35:16: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.62
+5/16/2022 11:35:16: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 92.56
+5/16/2022 11:35:16: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.44
+5/16/2022 11:35:16: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.6
+5/16/2022 11:35:16: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.63
+5/16/2022 11:35:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 11:35:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 11:38:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:38:18: [G_Auto 1] :  € 11.59 Lay bet placed on Marcos Giron at 1.69. Fully matched at 1.69.  Ref: 10054          ( Fill or kill bet with 15 seconds delay.   )
+5/16/2022 11:38:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:38:20: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 4; sets: 0 
+5/16/2022 11:38:20: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:0
+5/16/2022 11:38:20: [G_Auto 2] :  Store Text Value (Shared) for Marcos Giron: bPoints = point: 0; games: 5; sets: 0 
+5/16/2022 11:38:20: [G_Auto 2] :  Store Text Value (Shared) for Marcos Giron: bServing = serving:2
+5/16/2022 11:38:20: [G_Auto 2] :  Store Value (Shared) for market: price = 1.69
+5/16/2022 11:38:20: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 46.05
+5/16/2022 11:38:20: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 58.1
+5/16/2022 11:38:20: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.59
+5/16/2022 11:38:20: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 104.15
+5/16/2022 11:38:20: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.3
+5/16/2022 11:38:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.44
+5/16/2022 11:38:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.68
+5/16/2022 11:38:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:38:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:39:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:39:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:39:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:39:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:40:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:40:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 11:42:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:42:10: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 2.88
+5/16/2022 11:42:10: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 1.53
+5/16/2022 11:42:13: [G_Auto 1] :  Placed closure bet with greening on Marcos Giron by Backing 12.88 at 1.52
+5/16/2022 11:42:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:42:15: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 0; sets: 0 
+5/16/2022 11:42:15: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:1
+5/16/2022 11:42:15: [G_Auto 2] :  Store Text Value (Shared) for Marcos Giron: bPoints = point: 0; games: 0; sets: 1 
+5/16/2022 11:42:15: [G_Auto 2] :  Store Text Value (Shared) for Marcos Giron: bServing = serving:0
+5/16/2022 11:42:15: [G_Auto 2] :  Store Value (Shared) for market: price = 1.52
+5/16/2022 11:42:15: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 58.93
+5/16/2022 11:42:15: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 58.1
+5/16/2022 11:42:15: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.88
+5/16/2022 11:42:15: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 117.03
+5/16/2022 11:42:15: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.84
+5/16/2022 11:42:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.88
+5/16/2022 11:42:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.52
+5/16/2022 11:42:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:42:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:43:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:43:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:43:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:43:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:44:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:44:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:44:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:44:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 11:44:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 11:49:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:49:22: [G_Auto 1] :  € 12.90 Lay bet placed on Marcos Giron at 1.62. Entirely unmatched when it initially reached the market.   Ref: 10065          ( Fill or kill bet with 15 seconds delay.   )
+5/16/2022 11:49:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:49:34: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 1; sets: 0 
+5/16/2022 11:49:34: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:0
+5/16/2022 11:49:34: [G_Auto 2] :  Store Text Value (Shared) for Marcos Giron: bPoints = point: 0; games: 0; sets: 1 
+5/16/2022 11:49:34: [G_Auto 2] :  Store Text Value (Shared) for Marcos Giron: bServing = serving:2
+5/16/2022 11:49:34: [G_Auto 2] :  Store Value (Shared) for market: price = 1.62
+5/16/2022 11:49:34: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 58.93
+5/16/2022 11:49:34: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 71
+5/16/2022 11:49:34: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.9
+5/16/2022 11:49:34: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 129.93
+5/16/2022 11:49:34: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.09
+5/16/2022 11:49:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.7
+5/16/2022 11:49:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.59
+5/16/2022 11:49:35: [G_Auto 1] :  € 12.9 of unmatched bet (Ref:10065) was filled before remainder was killed.
+5/16/2022 11:49:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:49:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:50:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 11:50:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 11:51:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:51:50: [G_Auto 1] :  Placed closure bet with greening on Marcos Giron by Backing 13.94 at 1.5
+5/16/2022 11:51:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:51:52: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 1; sets: 0 
+5/16/2022 11:51:52: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:1
+5/16/2022 11:51:52: [G_Auto 2] :  Store Text Value (Shared) for Marcos Giron: bPoints = point: 0; games: 1; sets: 1 
+5/16/2022 11:51:52: [G_Auto 2] :  Store Text Value (Shared) for Marcos Giron: bServing = serving:0
+5/16/2022 11:51:52: [G_Auto 2] :  Store Value (Shared) for market: price = 1.5
+5/16/2022 11:51:52: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 72.87
+5/16/2022 11:51:52: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 71
+5/16/2022 11:51:52: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.94
+5/16/2022 11:51:52: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 143.87
+5/16/2022 11:51:52: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.88
+5/16/2022 11:51:52: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.96
+5/16/2022 11:51:52: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.51
+5/16/2022 11:51:57: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 1; sets: 0 
+5/16/2022 11:51:57: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:1
+5/16/2022 11:51:57: [G_Auto 2] :  Store Text Value (Shared) for Marcos Giron: bPoints = point: 0; games: 1; sets: 1 
+5/16/2022 11:51:57: [G_Auto 2] :  Store Text Value (Shared) for Marcos Giron: bServing = serving:0
+5/16/2022 11:51:57: [G_Auto 2] :  Store Value (Shared) for market: price = 1.5
+5/16/2022 11:51:57: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 72.87
+5/16/2022 11:51:57: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 71
+5/16/2022 11:51:57: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.94
+5/16/2022 11:51:57: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 143.87
+5/16/2022 11:51:57: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.88
+5/16/2022 11:51:57: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.96
+5/16/2022 11:51:57: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.51
+5/16/2022 11:52:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:52:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 11:52:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 11:52:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 11:53:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 11:54:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:54:29: [G_Auto 1] :  € 12.90 Lay bet placed on Marcos Giron at 1.62. Fully matched at 1.61.  Ref: 10070          ( Fill or kill bet with 15 seconds delay.   )
+5/16/2022 11:54:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:54:31: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 2; sets: 0 
+5/16/2022 11:54:31: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:0
+5/16/2022 11:54:31: [G_Auto 2] :  Store Text Value (Shared) for Marcos Giron: bPoints = point: 0; games: 1; sets: 1 
+5/16/2022 11:54:31: [G_Auto 2] :  Store Text Value (Shared) for Marcos Giron: bServing = serving:2
+5/16/2022 11:54:31: [G_Auto 2] :  Store Value (Shared) for market: price = 1.61
+5/16/2022 11:54:31: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 72.87
+5/16/2022 11:54:31: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 83.9
+5/16/2022 11:54:31: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.9
+5/16/2022 11:54:31: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 156.77
+5/16/2022 11:54:31: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.96
+5/16/2022 11:54:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.66
+5/16/2022 11:54:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.6
+5/16/2022 11:54:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:55:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:55:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:55:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:55:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:56:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:56:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 11:56:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 11:56:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 11:57:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 11:57:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 11:57:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 11:57:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 12:01:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:02:09: [G_Auto 1] :  € 9.88 Lay bet placed on Ilya Ivashka at 1.81. Entirely unmatched when it initially reached the market.   Ref: 10079          ( Fill or kill bet with 15 seconds delay.   )
+5/16/2022 12:02:09: [G_Auto 1] :  Placed closure bet with greening on Marcos Giron by Backing 9.44 at 2.2
+5/16/2022 12:02:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:02:11: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 3; sets: 0 
+5/16/2022 12:02:11: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:1
+5/16/2022 12:02:11: [G_Auto 2] :  Store Text Value (Shared) for Marcos Giron: bPoints = point: 0; games: 1; sets: 1 
+5/16/2022 12:02:11: [G_Auto 2] :  Store Text Value (Shared) for Marcos Giron: bServing = serving:0
+5/16/2022 12:02:11: [G_Auto 2] :  Store Value (Shared) for market: price = 2.2
+5/16/2022 12:02:11: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 82.31
+5/16/2022 12:02:11: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 83.9
+5/16/2022 12:02:11: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.44
+5/16/2022 12:02:11: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 166.21
+5/16/2022 12:02:11: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.55
+5/16/2022 12:02:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.81
+5/16/2022 12:02:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.24
+5/16/2022 12:02:16: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 3; sets: 0 
+5/16/2022 12:02:16: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:1
+5/16/2022 12:02:16: [G_Auto 2] :  Store Text Value (Shared) for Marcos Giron: bPoints = point: 0; games: 1; sets: 1 
+5/16/2022 12:02:16: [G_Auto 2] :  Store Text Value (Shared) for Marcos Giron: bServing = serving:0
+5/16/2022 12:02:16: [G_Auto 2] :  Store Value (Shared) for market: price = 1.81
+5/16/2022 12:02:16: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 82.31
+5/16/2022 12:02:16: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 93.78
+5/16/2022 12:02:16: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.88
+5/16/2022 12:02:16: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 176.09
+5/16/2022 12:02:16: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.44
+5/16/2022 12:02:16: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.82
+5/16/2022 12:02:16: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.2
+5/16/2022 12:02:16: [G_Auto 1] :  € 9.88 of unmatched bet (Ref:10079) was filled before remainder was killed.
+5/16/2022 12:02:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:02:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 12:02:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 12:03:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 12:03:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 12:03:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 12:05:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:05:49: [G_Auto 1] :  Placed closure bet with greening on Ilya Ivashka by Backing 10.78 at 1.66
+5/16/2022 12:05:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:05:51: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 4; sets: 0 
+5/16/2022 12:05:51: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:0
+5/16/2022 12:05:51: [G_Auto 2] :  Store Text Value (Shared) for Marcos Giron: bPoints = point: 0; games: 1; sets: 1 
+5/16/2022 12:05:51: [G_Auto 2] :  Store Text Value (Shared) for Marcos Giron: bServing = serving:2
+5/16/2022 12:05:51: [G_Auto 2] :  Store Value (Shared) for market: price = 1.66
+5/16/2022 12:05:51: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 93.09
+5/16/2022 12:05:51: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 93.78
+5/16/2022 12:05:51: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.78
+5/16/2022 12:05:51: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 186.87
+5/16/2022 12:05:51: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.68
+5/16/2022 12:05:51: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.67
+5/16/2022 12:05:51: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.48
+5/16/2022 12:06:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:06:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:06:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:06:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:07:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:07:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:07:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 12:07:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 12:08:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 12:11:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:11:43: [G_Auto 1] :  € 9.88 Lay bet placed on Ilya Ivashka at 1.81. Fully matched at 1.8.  Ref: 10087          ( Fill or kill bet with 15 seconds delay.   )
+5/16/2022 12:11:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:11:45: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 4; sets: 0 
+5/16/2022 12:11:45: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:1
+5/16/2022 12:11:45: [G_Auto 2] :  Store Text Value (Shared) for Marcos Giron: bPoints = point: 0; games: 2; sets: 1 
+5/16/2022 12:11:45: [G_Auto 2] :  Store Text Value (Shared) for Marcos Giron: bServing = serving:0
+5/16/2022 12:11:45: [G_Auto 2] :  Store Value (Shared) for market: price = 1.8
+5/16/2022 12:11:45: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 93.09
+5/16/2022 12:11:45: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 103.66
+5/16/2022 12:11:45: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.88
+5/16/2022 12:11:45: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 196.75
+5/16/2022 12:11:45: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.57
+5/16/2022 12:11:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.79
+5/16/2022 12:11:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.26
+5/16/2022 12:11:50: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 4; sets: 0 
+5/16/2022 12:11:50: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:1
+5/16/2022 12:11:50: [G_Auto 2] :  Store Text Value (Shared) for Marcos Giron: bPoints = point: 0; games: 2; sets: 1 
+5/16/2022 12:11:50: [G_Auto 2] :  Store Text Value (Shared) for Marcos Giron: bServing = serving:0
+5/16/2022 12:11:50: [G_Auto 2] :  Store Value (Shared) for market: price = 1.8
+5/16/2022 12:11:50: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 93.09
+5/16/2022 12:11:50: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 103.66
+5/16/2022 12:11:50: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.88
+5/16/2022 12:11:50: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 196.75
+5/16/2022 12:11:50: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.57
+5/16/2022 12:11:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.78
+5/16/2022 12:11:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.26
+5/16/2022 12:12:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:12:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:12:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:12:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 12:13:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 12:15:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:15:45: [G_Auto 1] :  Placed closure bet with greening on Ilya Ivashka by Backing 10.84 at 1.64
+5/16/2022 12:15:47: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 5; sets: 0 
+5/16/2022 12:15:47: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:0
+5/16/2022 12:15:47: [G_Auto 2] :  Store Text Value (Shared) for Marcos Giron: bPoints = point: 0; games: 2; sets: 1 
+5/16/2022 12:15:47: [G_Auto 2] :  Store Text Value (Shared) for Marcos Giron: bServing = serving:2
+5/16/2022 12:15:47: [G_Auto 2] :  Store Value (Shared) for market: price = 1.64
+5/16/2022 12:15:47: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 103.93
+5/16/2022 12:15:47: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 103.66
+5/16/2022 12:15:47: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.84
+5/16/2022 12:15:47: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 207.59
+5/16/2022 12:15:47: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.27
+5/16/2022 12:15:47: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.65
+5/16/2022 12:15:47: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.52
+5/16/2022 12:15:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:16:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:16:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:16:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:17:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:17:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:17:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:17:55: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 12:20:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:20:25: [G_Auto 1] :  € 11.43 Lay bet placed on Ilya Ivashka at 1.7. Fully matched at 1.7.  Ref: 10092          ( Fill or kill bet with 15 seconds delay.   )
+5/16/2022 12:20:27: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 5; sets: 0 
+5/16/2022 12:20:27: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:1
+5/16/2022 12:20:27: [G_Auto 2] :  Store Text Value (Shared) for Marcos Giron: bPoints = point: 0; games: 3; sets: 1 
+5/16/2022 12:20:27: [G_Auto 2] :  Store Text Value (Shared) for Marcos Giron: bServing = serving:0
+5/16/2022 12:20:27: [G_Auto 2] :  Store Value (Shared) for market: price = 1.7
+5/16/2022 12:20:27: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 103.93
+5/16/2022 12:20:27: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 115.09
+5/16/2022 12:20:27: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.43
+5/16/2022 12:20:27: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 219.02
+5/16/2022 12:20:27: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.41
+5/16/2022 12:20:27: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.68
+5/16/2022 12:20:27: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.46
+5/16/2022 12:20:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:20:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:21:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 12:21:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 12:27:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:27:41: [G_Auto 2] :  Store Value (Shared) for market: aSecondSetPrice = 1.61
+5/16/2022 12:27:41: [G_Auto 2] :  Store Value (Shared) for market: bSecondSetPrice = 2.62
+5/16/2022 12:27:44: [G_Auto 1] :  Placed closure bet with greening on Ilya Ivashka by Backing 12.15 at 1.6
+5/16/2022 12:27:46: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 0; sets: 1 
+5/16/2022 12:27:46: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:0
+5/16/2022 12:27:46: [G_Auto 2] :  Store Text Value (Shared) for Marcos Giron: bPoints = point: 0; games: 0; sets: 1 
+5/16/2022 12:27:46: [G_Auto 2] :  Store Text Value (Shared) for Marcos Giron: bServing = serving:2
+5/16/2022 12:27:46: [G_Auto 2] :  Store Value (Shared) for market: price = 1.6
+5/16/2022 12:27:46: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 116.08
+5/16/2022 12:27:46: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 115.09
+5/16/2022 12:27:46: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.15
+5/16/2022 12:27:46: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 231.17
+5/16/2022 12:27:46: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.98
+5/16/2022 12:27:46: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.61
+5/16/2022 12:27:46: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.6
+5/16/2022 12:27:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:28:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:28:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:28:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:29:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:29:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:29:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:30:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:30:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:30:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:31:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:31:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 12:31:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 12:34:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:34:58: [G_Auto 1] :  € 34.78 Lay bet placed on Ilya Ivashka at 1.23. Fully matched at 1.22.  Ref: 10100          ( Fill or kill bet with 15 seconds delay.   )
+5/16/2022 12:35:00: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 1; sets: 1 
+5/16/2022 12:35:00: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:1
+5/16/2022 12:35:00: [G_Auto 2] :  Store Text Value (Shared) for Marcos Giron: bPoints = point: 0; games: 0; sets: 1 
+5/16/2022 12:35:00: [G_Auto 2] :  Store Text Value (Shared) for Marcos Giron: bServing = serving:0
+5/16/2022 12:35:00: [G_Auto 2] :  Store Value (Shared) for market: price = 1.22
+5/16/2022 12:35:00: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 116.08
+5/16/2022 12:35:00: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 149.87
+5/16/2022 12:35:00: [G_Auto 2] :  Store Value (Shared) for market: stake = 34.78
+5/16/2022 12:35:00: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 265.95
+5/16/2022 12:35:00: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.27
+5/16/2022 12:35:00: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.22
+5/16/2022 12:35:00: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.7
+5/16/2022 12:35:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:35:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:35:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:35:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 12:38:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:38:58: [G_Auto 1] :  Placed closure bet with greening on Ilya Ivashka by Backing 36.57 at 1.16
+5/16/2022 12:38:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:38:59: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 2; sets: 1 
+5/16/2022 12:38:59: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:0
+5/16/2022 12:38:59: [G_Auto 2] :  Store Text Value (Shared) for Marcos Giron: bPoints = point: 0; games: 0; sets: 1 
+5/16/2022 12:38:59: [G_Auto 2] :  Store Text Value (Shared) for Marcos Giron: bServing = serving:2
+5/16/2022 12:38:59: [G_Auto 2] :  Store Value (Shared) for market: price = 1.16
+5/16/2022 12:38:59: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 152.65
+5/16/2022 12:38:59: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 149.87
+5/16/2022 12:38:59: [G_Auto 2] :  Store Value (Shared) for market: stake = 36.57
+5/16/2022 12:38:59: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 302.52
+5/16/2022 12:38:59: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.79
+5/16/2022 12:38:59: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.17
+5/16/2022 12:38:59: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 7
+5/16/2022 12:39:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 12:39:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 12:40:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:40:55: [G_Auto 1] :  € 34.78 Lay bet placed on Ilya Ivashka at 1.23. Fully matched at 1.22.  Ref: 10104          ( Fill or kill bet with 15 seconds delay.   )
+5/16/2022 12:40:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:40:57: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 2; sets: 1 
+5/16/2022 12:40:57: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:1
+5/16/2022 12:40:57: [G_Auto 2] :  Store Text Value (Shared) for Marcos Giron: bPoints = point: 0; games: 1; sets: 1 
+5/16/2022 12:40:57: [G_Auto 2] :  Store Text Value (Shared) for Marcos Giron: bServing = serving:0
+5/16/2022 12:40:57: [G_Auto 2] :  Store Value (Shared) for market: price = 1.22
+5/16/2022 12:40:57: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 152.65
+5/16/2022 12:40:57: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 184.65
+5/16/2022 12:40:57: [G_Auto 2] :  Store Value (Shared) for market: stake = 34.78
+5/16/2022 12:40:57: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 337.3
+5/16/2022 12:40:57: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.07
+5/16/2022 12:40:57: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.21
+5/16/2022 12:40:57: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.5
+5/16/2022 12:41:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:41:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:41:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:42:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:42:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:42:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:42:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 12:43:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 12:43:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 12:45:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:45:44: [G_Auto 1] :  Placed closure bet with greening on Ilya Ivashka by Backing 37.89 at 1.12
+5/16/2022 12:45:46: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 3; sets: 1 
+5/16/2022 12:45:46: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:0
+5/16/2022 12:45:46: [G_Auto 2] :  Store Text Value (Shared) for Marcos Giron: bPoints = point: 0; games: 1; sets: 1 
+5/16/2022 12:45:46: [G_Auto 2] :  Store Text Value (Shared) for Marcos Giron: bServing = serving:2
+5/16/2022 12:45:46: [G_Auto 2] :  Store Value (Shared) for market: price = 1.12
+5/16/2022 12:45:46: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 190.54
+5/16/2022 12:45:46: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 184.65
+5/16/2022 12:45:46: [G_Auto 2] :  Store Value (Shared) for market: stake = 37.89
+5/16/2022 12:45:46: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 375.19
+5/16/2022 12:45:46: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.89
+5/16/2022 12:45:46: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.13
+5/16/2022 12:45:46: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 9
+5/16/2022 12:45:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:46:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 12:49:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:49:17: [G_Auto 1] :  € 44.44 Lay bet placed on Ilya Ivashka at 1.18. Fully matched at 1.17.  Ref: 10113          ( Fill or kill bet with 15 seconds delay.   )
+5/16/2022 12:49:18: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 3; sets: 1 
+5/16/2022 12:49:18: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:1
+5/16/2022 12:49:18: [G_Auto 2] :  Store Text Value (Shared) for Marcos Giron: bPoints = point: 0; games: 2; sets: 1 
+5/16/2022 12:49:18: [G_Auto 2] :  Store Text Value (Shared) for Marcos Giron: bServing = serving:0
+5/16/2022 12:49:18: [G_Auto 2] :  Store Value (Shared) for market: price = 1.17
+5/16/2022 12:49:18: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 190.54
+5/16/2022 12:49:18: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 229.09
+5/16/2022 12:49:18: [G_Auto 2] :  Store Value (Shared) for market: stake = 44.44
+5/16/2022 12:49:18: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 419.63
+5/16/2022 12:49:18: [G_Auto 2] :  Store Value (Shared) for market: pl = -6.27
+5/16/2022 12:49:18: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.16
+5/16/2022 12:49:18: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 7.2
+5/16/2022 12:49:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:49:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:49:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:50:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:50:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:50:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:51:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:51:16: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 12:51:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 12:53:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:53:28: [G_Auto 1] :  Placed closure bet with greening on Ilya Ivashka by Backing 47.70 at 1.09
+5/16/2022 12:53:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:53:30: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 4; sets: 1 
+5/16/2022 12:53:30: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:0
+5/16/2022 12:53:30: [G_Auto 2] :  Store Text Value (Shared) for Marcos Giron: bPoints = point: 0; games: 2; sets: 1 
+5/16/2022 12:53:30: [G_Auto 2] :  Store Text Value (Shared) for Marcos Giron: bServing = serving:2
+5/16/2022 12:53:30: [G_Auto 2] :  Store Value (Shared) for market: price = 1.09
+5/16/2022 12:53:30: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 238.24
+5/16/2022 12:53:30: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 229.09
+5/16/2022 12:53:30: [G_Auto 2] :  Store Value (Shared) for market: stake = 47.7
+5/16/2022 12:53:30: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 467.33
+5/16/2022 12:53:30: [G_Auto 2] :  Store Value (Shared) for market: pl = -9.15
+5/16/2022 12:53:30: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.1
+5/16/2022 12:53:30: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 11
+5/16/2022 12:53:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:54:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 12:54:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 12:54:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 12:57:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:58:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:58:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:58:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:58:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:59:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:59:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 12:59:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 13:00:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 13:01:53:  Guardian has detected that the market is suspended

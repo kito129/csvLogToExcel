@@ -1,0 +1,508 @@
+5/18/2022 09:56:33: [G_Auto 2] :  Store Text Value (Shared) for Christopher O'Connell: info = marketName: O'Connell v Opelka - Match Odds; runnerA: Christopher O'Connell; runnerB: Reilly Opelka 
+5/18/2022 09:56:33: [G_Auto 2] :  Store Value (Shared) for market: aId = 8942164
+5/18/2022 09:56:33: [G_Auto 2] :  Store Value (Shared) for market: bId = 8859316
+5/18/2022 12:08:35:  Guardian has detected that the market is in-play
+5/18/2022 12:08:35:  Guardian has detected that the market is suspended
+5/18/2022 12:08:39: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 2.24; bBsp: 1.77; volume: 52344.56 
+5/18/2022 12:08:39: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 2.24; bBsp: 1.77; volume: 52344.56 
+5/18/2022 12:08:39:  Guardian has detected that the market is now unsuspended
+5/18/2022 12:08:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 12:09:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 12:13:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:13:30: [G_Auto 1] :  € 9.88 Lay bet placed on Reilly Opelka at 1.81. Fully matched at 1.8.  Ref: 10032          ( Fill or kill bet with 15 seconds delay.   )
+5/18/2022 12:13:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:13:32: [G_Auto 2] :  Store Text Value (Shared) for Christopher O'Connell: aPoints = point: 0; games: 1; sets: 0 
+5/18/2022 12:13:32: [G_Auto 2] :  Store Text Value (Shared) for Christopher O'Connell: aServing = serving:0
+5/18/2022 12:13:32: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 0; sets: 0 
+5/18/2022 12:13:32: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:2
+5/18/2022 12:13:32: [G_Auto 2] :  Store Value (Shared) for market: price = 1.8
+5/18/2022 12:13:32: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+5/18/2022 12:13:32: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 9.88
+5/18/2022 12:13:32: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.88
+5/18/2022 12:13:32: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 9.88
+5/18/2022 12:13:32: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.06
+5/18/2022 12:13:32: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.34
+5/18/2022 12:13:32: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.79
+5/18/2022 12:13:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:14:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:14:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:14:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 12:14:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 12:16:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:16:54: [G_Auto 1] :  Placed closure bet with greening on Reilly Opelka by Backing 10.40 at 1.71
+5/18/2022 12:16:55: [G_Auto 2] :  Store Text Value (Shared) for Christopher O'Connell: aPoints = point: 0; games: 1; sets: 0 
+5/18/2022 12:16:55: [G_Auto 2] :  Store Text Value (Shared) for Christopher O'Connell: aServing = serving:1
+5/18/2022 12:16:55: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 1; sets: 0 
+5/18/2022 12:16:55: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:0
+5/18/2022 12:16:55: [G_Auto 2] :  Store Value (Shared) for market: price = 1.71
+5/18/2022 12:16:55: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 10.4
+5/18/2022 12:16:55: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 9.88
+5/18/2022 12:16:55: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.4
+5/18/2022 12:16:55: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 20.28
+5/18/2022 12:16:55: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.52
+5/18/2022 12:16:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.34
+5/18/2022 12:16:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.74
+5/18/2022 12:17:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:17:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:17:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 12:17:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 12:19:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:19:36: [G_Auto 1] :  € 9.88 Lay bet placed on Reilly Opelka at 1.81. Fully matched at 1.8.  Ref: 10039          ( Fill or kill bet with 15 seconds delay.   )
+5/18/2022 12:19:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:19:38: [G_Auto 2] :  Store Text Value (Shared) for Christopher O'Connell: aPoints = point: 0; games: 2; sets: 0 
+5/18/2022 12:19:38: [G_Auto 2] :  Store Text Value (Shared) for Christopher O'Connell: aServing = serving:0
+5/18/2022 12:19:38: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 1; sets: 0 
+5/18/2022 12:19:38: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:2
+5/18/2022 12:19:38: [G_Auto 2] :  Store Value (Shared) for market: price = 1.8
+5/18/2022 12:19:38: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 10.4
+5/18/2022 12:19:38: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 19.76
+5/18/2022 12:19:38: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.88
+5/18/2022 12:19:38: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 30.16
+5/18/2022 12:19:38: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.58
+5/18/2022 12:19:38: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.24
+5/18/2022 12:19:38: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.79
+5/18/2022 12:19:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:20:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:20:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:20:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:21:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:21:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 12:21:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 12:27:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:27:38: [G_Auto 1] :  Placed closure bet with greening on Reilly Opelka by Backing 9.88 at 1.8
+5/18/2022 12:27:39: [G_Auto 2] :  Store Text Value (Shared) for Christopher O'Connell: aPoints = point: 0; games: 2; sets: 0 
+5/18/2022 12:27:39: [G_Auto 2] :  Store Text Value (Shared) for Christopher O'Connell: aServing = serving:1
+5/18/2022 12:27:39: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 2; sets: 0 
+5/18/2022 12:27:39: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:0
+5/18/2022 12:27:39: [G_Auto 2] :  Store Value (Shared) for market: price = 1.8
+5/18/2022 12:27:39: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 20.28
+5/18/2022 12:27:39: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 19.76
+5/18/2022 12:27:39: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.88
+5/18/2022 12:27:39: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 40.04
+5/18/2022 12:27:39: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.52
+5/18/2022 12:27:39: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.22
+5/18/2022 12:27:39: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.81
+5/18/2022 12:27:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:28:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:28:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 12:28:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 12:28:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 12:30:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:30:25: [G_Auto 1] :  € 8.33 Lay bet placed on Reilly Opelka at 1.96. Fully matched at 1.95.  Ref: 10050          ( Fill or kill bet with 15 seconds delay.   )
+5/18/2022 12:30:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:30:26: [G_Auto 2] :  Store Text Value (Shared) for Christopher O'Connell: aPoints = point: 0; games: 3; sets: 0 
+5/18/2022 12:30:26: [G_Auto 2] :  Store Text Value (Shared) for Christopher O'Connell: aServing = serving:0
+5/18/2022 12:30:26: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 2; sets: 0 
+5/18/2022 12:30:26: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:2
+5/18/2022 12:30:26: [G_Auto 2] :  Store Value (Shared) for market: price = 1.95
+5/18/2022 12:30:26: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 20.28
+5/18/2022 12:30:26: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 28.09
+5/18/2022 12:30:26: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.33
+5/18/2022 12:30:26: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 48.37
+5/18/2022 12:30:26: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.48
+5/18/2022 12:30:26: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.04
+5/18/2022 12:30:26: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.96
+5/18/2022 12:30:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:31:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:31:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:31:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:31:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:32:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:32:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 12:32:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 12:34:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:34:35: [G_Auto 1] :  Placed closure bet with greening on Reilly Opelka by Backing 8.83 at 1.84
+5/18/2022 12:34:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:34:37: [G_Auto 2] :  Store Text Value (Shared) for Christopher O'Connell: aPoints = point: 0; games: 3; sets: 0 
+5/18/2022 12:34:37: [G_Auto 2] :  Store Text Value (Shared) for Christopher O'Connell: aServing = serving:1
+5/18/2022 12:34:37: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 3; sets: 0 
+5/18/2022 12:34:37: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:0
+5/18/2022 12:34:37: [G_Auto 2] :  Store Value (Shared) for market: price = 1.84
+5/18/2022 12:34:37: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 29.11
+5/18/2022 12:34:37: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 28.09
+5/18/2022 12:34:37: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.83
+5/18/2022 12:34:37: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 57.2
+5/18/2022 12:34:37: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.02
+5/18/2022 12:34:37: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.2
+5/18/2022 12:34:37: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.85
+5/18/2022 12:34:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:35:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:35:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 12:35:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 12:40:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:40:45: [G_Auto 1] :  € 27.59 Lay bet placed on Reilly Opelka at 1.29. Fully matched at 1.28.  Ref: 10057          ( Fill or kill bet with 15 seconds delay.   )
+5/18/2022 12:40:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:40:46: [G_Auto 2] :  Store Text Value (Shared) for Christopher O'Connell: aPoints = point: 0; games: 3; sets: 0 
+5/18/2022 12:40:46: [G_Auto 2] :  Store Text Value (Shared) for Christopher O'Connell: aServing = serving:0
+5/18/2022 12:40:46: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 4; sets: 0 
+5/18/2022 12:40:46: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:2
+5/18/2022 12:40:46: [G_Auto 2] :  Store Value (Shared) for market: price = 1.28
+5/18/2022 12:40:46: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 29.11
+5/18/2022 12:40:46: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 55.68
+5/18/2022 12:40:46: [G_Auto 2] :  Store Value (Shared) for market: stake = 27.59
+5/18/2022 12:40:46: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 84.79
+5/18/2022 12:40:46: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.23
+5/18/2022 12:40:46: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.7
+5/18/2022 12:40:46: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.28
+5/18/2022 12:41:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:41:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:41:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:41:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:42:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:42:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:42:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 12:42:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 12:44:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:44:40: [G_Auto 1] :  Placed closure bet with greening on Reilly Opelka by Backing 28.48 at 1.24
+5/18/2022 12:44:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:44:41: [G_Auto 2] :  Store Text Value (Shared) for Christopher O'Connell: aPoints = point: 0; games: 3; sets: 0 
+5/18/2022 12:44:41: [G_Auto 2] :  Store Text Value (Shared) for Christopher O'Connell: aServing = serving:1
+5/18/2022 12:44:41: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 5; sets: 0 
+5/18/2022 12:44:41: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:0
+5/18/2022 12:44:41: [G_Auto 2] :  Store Value (Shared) for market: price = 1.24
+5/18/2022 12:44:41: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 57.59
+5/18/2022 12:44:41: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 55.68
+5/18/2022 12:44:41: [G_Auto 2] :  Store Value (Shared) for market: stake = 28.48
+5/18/2022 12:44:41: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 113.27
+5/18/2022 12:44:41: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.91
+5/18/2022 12:44:41: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 5
+5/18/2022 12:44:41: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.24
+5/18/2022 12:44:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:45:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:45:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 12:45:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 12:49:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:49:50: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 6.6
+5/18/2022 12:49:50: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 1.18
+5/18/2022 12:49:57: [G_Auto 1] :  € 42.11 Lay bet placed on Reilly Opelka at 1.19. Fully matched at 1.18.  Ref: 10060          ( Fill or kill bet with 15 seconds delay.   )
+5/18/2022 12:49:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:49:58: [G_Auto 2] :  Store Text Value (Shared) for Christopher O'Connell: aPoints = point: 0; games: 0; sets: 0 
+5/18/2022 12:49:58: [G_Auto 2] :  Store Text Value (Shared) for Christopher O'Connell: aServing = serving:0
+5/18/2022 12:49:58: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 0; sets: 1 
+5/18/2022 12:49:58: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:2
+5/18/2022 12:49:58: [G_Auto 2] :  Store Value (Shared) for market: price = 1.18
+5/18/2022 12:49:58: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 57.59
+5/18/2022 12:49:58: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 97.79
+5/18/2022 12:49:58: [G_Auto 2] :  Store Value (Shared) for market: stake = 42.11
+5/18/2022 12:49:58: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 155.38
+5/18/2022 12:49:58: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.27
+5/18/2022 12:49:58: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 6.6
+5/18/2022 12:49:58: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.18
+5/18/2022 12:50:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:50:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:50:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:51:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:51:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:51:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:51:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:52:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:52:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:52:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:52:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:52:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 12:53:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 12:54:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:54:33: [G_Auto 1] :  Placed closure bet with greening on Reilly Opelka by Backing 43.58 at 1.14
+5/18/2022 12:54:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:54:34: [G_Auto 2] :  Store Text Value (Shared) for Christopher O'Connell: aPoints = point: 0; games: 0; sets: 0 
+5/18/2022 12:54:34: [G_Auto 2] :  Store Text Value (Shared) for Christopher O'Connell: aServing = serving:1
+5/18/2022 12:54:34: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 1; sets: 1 
+5/18/2022 12:54:34: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:0
+5/18/2022 12:54:34: [G_Auto 2] :  Store Value (Shared) for market: price = 1.14
+5/18/2022 12:54:34: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 101.17
+5/18/2022 12:54:34: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 97.79
+5/18/2022 12:54:34: [G_Auto 2] :  Store Value (Shared) for market: stake = 43.58
+5/18/2022 12:54:34: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 198.96
+5/18/2022 12:54:34: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.38
+5/18/2022 12:54:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 7.8
+5/18/2022 12:54:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.15
+5/18/2022 12:54:41: [G_Auto 2] :  Store Text Value (Shared) for Christopher O'Connell: aPoints = point: 0; games: 0; sets: 0 
+5/18/2022 12:54:41: [G_Auto 2] :  Store Text Value (Shared) for Christopher O'Connell: aServing = serving:1
+5/18/2022 12:54:41: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 1; sets: 1 
+5/18/2022 12:54:41: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:0
+5/18/2022 12:54:41: [G_Auto 2] :  Store Value (Shared) for market: price = 1.14
+5/18/2022 12:54:41: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 101.17
+5/18/2022 12:54:41: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 97.79
+5/18/2022 12:54:41: [G_Auto 2] :  Store Value (Shared) for market: stake = 43.58
+5/18/2022 12:54:41: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 198.96
+5/18/2022 12:54:41: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.38
+5/18/2022 12:54:41: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 7.8
+5/18/2022 12:54:41: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.15
+5/18/2022 12:54:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:55:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:55:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:55:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 12:55:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 12:55:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 12:58:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:58:38: [G_Auto 1] :  € 44.44 Lay bet placed on Reilly Opelka at 1.18. Fully matched at 1.17.  Ref: 10064          ( Fill or kill bet with 15 seconds delay.   )
+5/18/2022 12:58:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:58:39: [G_Auto 2] :  Store Text Value (Shared) for Christopher O'Connell: aPoints = point: 0; games: 1; sets: 0 
+5/18/2022 12:58:39: [G_Auto 2] :  Store Text Value (Shared) for Christopher O'Connell: aServing = serving:0
+5/18/2022 12:58:39: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 1; sets: 1 
+5/18/2022 12:58:39: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:2
+5/18/2022 12:58:39: [G_Auto 2] :  Store Value (Shared) for market: price = 1.17
+5/18/2022 12:58:39: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 101.17
+5/18/2022 12:58:39: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 142.23
+5/18/2022 12:58:39: [G_Auto 2] :  Store Value (Shared) for market: stake = 44.44
+5/18/2022 12:58:39: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 243.4
+5/18/2022 12:58:39: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.77
+5/18/2022 12:58:39: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 6.8
+5/18/2022 12:58:39: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.17
+5/18/2022 12:58:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:59:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 12:59:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 12:59:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 13:01:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:01:15: [G_Auto 1] :  Placed closure bet with greening on Reilly Opelka by Backing 45.61 at 1.14
+5/18/2022 13:01:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:01:16: [G_Auto 2] :  Store Text Value (Shared) for Christopher O'Connell: aPoints = point: 0; games: 1; sets: 0 
+5/18/2022 13:01:16: [G_Auto 2] :  Store Text Value (Shared) for Christopher O'Connell: aServing = serving:1
+5/18/2022 13:01:16: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 2; sets: 1 
+5/18/2022 13:01:16: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:0
+5/18/2022 13:01:16: [G_Auto 2] :  Store Value (Shared) for market: price = 1.14
+5/18/2022 13:01:16: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 146.78
+5/18/2022 13:01:16: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 142.23
+5/18/2022 13:01:16: [G_Auto 2] :  Store Value (Shared) for market: stake = 45.61
+5/18/2022 13:01:16: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 289.01
+5/18/2022 13:01:16: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.55
+5/18/2022 13:01:16: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 7.8
+5/18/2022 13:01:16: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.15
+5/18/2022 13:01:23: [G_Auto 2] :  Store Text Value (Shared) for Christopher O'Connell: aPoints = point: 0; games: 1; sets: 0 
+5/18/2022 13:01:23: [G_Auto 2] :  Store Text Value (Shared) for Christopher O'Connell: aServing = serving:1
+5/18/2022 13:01:23: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 2; sets: 1 
+5/18/2022 13:01:23: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:0
+5/18/2022 13:01:23: [G_Auto 2] :  Store Value (Shared) for market: price = 1.14
+5/18/2022 13:01:23: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 146.78
+5/18/2022 13:01:23: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 142.23
+5/18/2022 13:01:23: [G_Auto 2] :  Store Value (Shared) for market: stake = 45.61
+5/18/2022 13:01:23: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 289.01
+5/18/2022 13:01:23: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.55
+5/18/2022 13:01:23: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 7.8
+5/18/2022 13:01:23: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.14
+5/18/2022 13:01:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:01:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:02:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:02:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:02:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:02:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:03:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:03:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 13:03:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 13:09:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:10:12: [G_Auto 1] :  € 50.00 Lay bet placed on Reilly Opelka at 1.16. Fully matched at 1.15.  Ref: 10074          ( Fill or kill bet with 15 seconds delay.   )
+5/18/2022 13:10:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:10:13: [G_Auto 2] :  Store Text Value (Shared) for Christopher O'Connell: aPoints = point: 0; games: 2; sets: 0 
+5/18/2022 13:10:13: [G_Auto 2] :  Store Text Value (Shared) for Christopher O'Connell: aServing = serving:0
+5/18/2022 13:10:13: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 2; sets: 1 
+5/18/2022 13:10:13: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:2
+5/18/2022 13:10:13: [G_Auto 2] :  Store Value (Shared) for market: price = 1.15
+5/18/2022 13:10:13: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 146.78
+5/18/2022 13:10:13: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 192.23
+5/18/2022 13:10:13: [G_Auto 2] :  Store Value (Shared) for market: stake = 50
+5/18/2022 13:10:13: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 339.01
+5/18/2022 13:10:13: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.99
+5/18/2022 13:10:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 7.6
+5/18/2022 13:10:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.16
+5/18/2022 13:10:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:10:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:10:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 13:11:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 13:12:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:13:00: [G_Auto 1] :  Placed closure bet with greening on Reilly Opelka by Backing 50.89 at 1.13
+5/18/2022 13:13:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:13:01: [G_Auto 2] :  Store Text Value (Shared) for Christopher O'Connell: aPoints = point: 0; games: 2; sets: 0 
+5/18/2022 13:13:01: [G_Auto 2] :  Store Text Value (Shared) for Christopher O'Connell: aServing = serving:1
+5/18/2022 13:13:01: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 3; sets: 1 
+5/18/2022 13:13:01: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:0
+5/18/2022 13:13:01: [G_Auto 2] :  Store Value (Shared) for market: price = 1.13
+5/18/2022 13:13:01: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 197.67
+5/18/2022 13:13:01: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 192.23
+5/18/2022 13:13:01: [G_Auto 2] :  Store Value (Shared) for market: stake = 50.89
+5/18/2022 13:13:01: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 389.9
+5/18/2022 13:13:01: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.44
+5/18/2022 13:13:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 9.2
+5/18/2022 13:13:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.13
+5/18/2022 13:13:09: [G_Auto 2] :  Store Text Value (Shared) for Christopher O'Connell: aPoints = point: 0; games: 2; sets: 0 
+5/18/2022 13:13:09: [G_Auto 2] :  Store Text Value (Shared) for Christopher O'Connell: aServing = serving:1
+5/18/2022 13:13:09: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 3; sets: 1 
+5/18/2022 13:13:09: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:0
+5/18/2022 13:13:09: [G_Auto 2] :  Store Value (Shared) for market: price = 1.13
+5/18/2022 13:13:09: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 197.67
+5/18/2022 13:13:09: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 192.23
+5/18/2022 13:13:09: [G_Auto 2] :  Store Value (Shared) for market: stake = 50.89
+5/18/2022 13:13:09: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 389.9
+5/18/2022 13:13:09: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.44
+5/18/2022 13:13:09: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 9.2
+5/18/2022 13:13:09: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.13
+5/18/2022 13:13:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:13:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:13:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:14:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:14:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:14:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:14:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:14:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 13:15:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 13:16:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:16:18: [G_Auto 1] :  € 44.44 Lay bet placed on Reilly Opelka at 1.18. Fully matched at 1.17.  Ref: 10081          ( Fill or kill bet with 15 seconds delay.   )
+5/18/2022 13:16:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:16:19: [G_Auto 2] :  Store Text Value (Shared) for Christopher O'Connell: aPoints = point: 0; games: 3; sets: 0 
+5/18/2022 13:16:19: [G_Auto 2] :  Store Text Value (Shared) for Christopher O'Connell: aServing = serving:0
+5/18/2022 13:16:19: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 3; sets: 1 
+5/18/2022 13:16:19: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:2
+5/18/2022 13:16:19: [G_Auto 2] :  Store Value (Shared) for market: price = 1.17
+5/18/2022 13:16:19: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 197.67
+5/18/2022 13:16:19: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 236.67
+5/18/2022 13:16:19: [G_Auto 2] :  Store Value (Shared) for market: stake = 44.44
+5/18/2022 13:16:19: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 434.34
+5/18/2022 13:16:19: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.82
+5/18/2022 13:16:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 7.4
+5/18/2022 13:16:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.16
+5/18/2022 13:16:26: [G_Auto 2] :  Store Text Value (Shared) for Christopher O'Connell: aPoints = point: 0; games: 3; sets: 0 
+5/18/2022 13:16:26: [G_Auto 2] :  Store Text Value (Shared) for Christopher O'Connell: aServing = serving:0
+5/18/2022 13:16:26: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 3; sets: 1 
+5/18/2022 13:16:26: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:2
+5/18/2022 13:16:26: [G_Auto 2] :  Store Value (Shared) for market: price = 1.17
+5/18/2022 13:16:26: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 197.67
+5/18/2022 13:16:26: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 236.67
+5/18/2022 13:16:26: [G_Auto 2] :  Store Value (Shared) for market: stake = 44.44
+5/18/2022 13:16:26: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 434.34
+5/18/2022 13:16:26: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.82
+5/18/2022 13:16:26: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 7.4
+5/18/2022 13:16:26: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.17
+5/18/2022 13:16:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:16:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 13:17:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:17:59: [G_Auto 1] :  Placed closure bet with greening on Reilly Opelka by Backing 46.01 at 1.13
+5/18/2022 13:18:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:18:00: [G_Auto 2] :  Store Text Value (Shared) for Christopher O'Connell: aPoints = point: 0; games: 3; sets: 0 
+5/18/2022 13:18:00: [G_Auto 2] :  Store Text Value (Shared) for Christopher O'Connell: aServing = serving:1
+5/18/2022 13:18:00: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 4; sets: 1 
+5/18/2022 13:18:00: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:0
+5/18/2022 13:18:00: [G_Auto 2] :  Store Value (Shared) for market: price = 1.13
+5/18/2022 13:18:00: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 243.68
+5/18/2022 13:18:00: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 236.67
+5/18/2022 13:18:00: [G_Auto 2] :  Store Value (Shared) for market: stake = 46.01
+5/18/2022 13:18:00: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 480.35
+5/18/2022 13:18:00: [G_Auto 2] :  Store Value (Shared) for market: pl = -7.01
+5/18/2022 13:18:00: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 8.6
+5/18/2022 13:18:00: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.13
+5/18/2022 13:18:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:18:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:18:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:19:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:19:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:19:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:19:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:19:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 13:20:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 13:22:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:22:55: [G_Auto 1] :  € 47.06 Lay bet placed on Reilly Opelka at 1.17. Fully matched at 1.16.  Ref: 10087          ( Fill or kill bet with 15 seconds delay.   )
+5/18/2022 13:22:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:22:56: [G_Auto 2] :  Store Text Value (Shared) for Christopher O'Connell: aPoints = point: 0; games: 4; sets: 0 
+5/18/2022 13:22:56: [G_Auto 2] :  Store Text Value (Shared) for Christopher O'Connell: aServing = serving:0
+5/18/2022 13:22:56: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 4; sets: 1 
+5/18/2022 13:22:56: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:2
+5/18/2022 13:22:56: [G_Auto 2] :  Store Value (Shared) for market: price = 1.16
+5/18/2022 13:22:56: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 243.68
+5/18/2022 13:22:56: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 283.73
+5/18/2022 13:22:56: [G_Auto 2] :  Store Value (Shared) for market: stake = 47.06
+5/18/2022 13:22:56: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 527.41
+5/18/2022 13:22:56: [G_Auto 2] :  Store Value (Shared) for market: pl = -7.42
+5/18/2022 13:22:56: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 7.4
+5/18/2022 13:22:56: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.15
+5/18/2022 13:23:04: [G_Auto 2] :  Store Text Value (Shared) for Christopher O'Connell: aPoints = point: 0; games: 4; sets: 0 
+5/18/2022 13:23:04: [G_Auto 2] :  Store Text Value (Shared) for Christopher O'Connell: aServing = serving:0
+5/18/2022 13:23:04: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 4; sets: 1 
+5/18/2022 13:23:04: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:2
+5/18/2022 13:23:04: [G_Auto 2] :  Store Value (Shared) for market: price = 1.16
+5/18/2022 13:23:04: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 243.68
+5/18/2022 13:23:04: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 283.73
+5/18/2022 13:23:04: [G_Auto 2] :  Store Value (Shared) for market: stake = 47.06
+5/18/2022 13:23:04: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 527.41
+5/18/2022 13:23:04: [G_Auto 2] :  Store Value (Shared) for market: pl = -7.42
+5/18/2022 13:23:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 7.4
+5/18/2022 13:23:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.15
+5/18/2022 13:23:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:23:16: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 13:23:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 13:25:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:25:52: [G_Auto 1] :  Placed closure bet with greening on Reilly Opelka by Backing 48.31 at 1.13
+5/18/2022 13:25:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:25:53: [G_Auto 2] :  Store Text Value (Shared) for Christopher O'Connell: aPoints = point: 0; games: 4; sets: 0 
+5/18/2022 13:25:53: [G_Auto 2] :  Store Text Value (Shared) for Christopher O'Connell: aServing = serving:1
+5/18/2022 13:25:53: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 5; sets: 1 
+5/18/2022 13:25:53: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:0
+5/18/2022 13:25:53: [G_Auto 2] :  Store Value (Shared) for market: price = 1.13
+5/18/2022 13:25:53: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 291.99
+5/18/2022 13:25:53: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 283.73
+5/18/2022 13:25:53: [G_Auto 2] :  Store Value (Shared) for market: stake = 48.31
+5/18/2022 13:25:53: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 575.72
+5/18/2022 13:25:53: [G_Auto 2] :  Store Value (Shared) for market: pl = -8.26
+5/18/2022 13:25:53: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 8.2
+5/18/2022 13:25:53: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.14
+5/18/2022 13:26:01: [G_Auto 2] :  Store Text Value (Shared) for Christopher O'Connell: aPoints = point: 0; games: 4; sets: 0 
+5/18/2022 13:26:01: [G_Auto 2] :  Store Text Value (Shared) for Christopher O'Connell: aServing = serving:1
+5/18/2022 13:26:01: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 5; sets: 1 
+5/18/2022 13:26:01: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:0
+5/18/2022 13:26:01: [G_Auto 2] :  Store Value (Shared) for market: price = 1.13
+5/18/2022 13:26:01: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 291.99
+5/18/2022 13:26:01: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 283.73
+5/18/2022 13:26:01: [G_Auto 2] :  Store Value (Shared) for market: stake = 48.31
+5/18/2022 13:26:01: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 575.72
+5/18/2022 13:26:01: [G_Auto 2] :  Store Value (Shared) for market: pl = -8.26
+5/18/2022 13:26:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 8
+5/18/2022 13:26:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.15
+5/18/2022 13:26:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:26:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:26:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:26:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:27:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:27:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:27:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:27:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 13:28:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 13:28:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:29:13: [G_Auto 1] :  € 44.44 Lay bet placed on Reilly Opelka at 1.18. Fully matched at 1.18.  Ref: 10094          ( Fill or kill bet with 15 seconds delay.   )
+5/18/2022 13:29:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:29:14: [G_Auto 2] :  Store Text Value (Shared) for Christopher O'Connell: aPoints = point: 0; games: 5; sets: 0 
+5/18/2022 13:29:14: [G_Auto 2] :  Store Text Value (Shared) for Christopher O'Connell: aServing = serving:0
+5/18/2022 13:29:14: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 5; sets: 1 
+5/18/2022 13:29:14: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:2
+5/18/2022 13:29:14: [G_Auto 2] :  Store Value (Shared) for market: price = 1.18
+5/18/2022 13:29:14: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 291.99
+5/18/2022 13:29:14: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 328.17
+5/18/2022 13:29:14: [G_Auto 2] :  Store Value (Shared) for market: stake = 44.44
+5/18/2022 13:29:14: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 620.16
+5/18/2022 13:29:14: [G_Auto 2] :  Store Value (Shared) for market: pl = -8.64
+5/18/2022 13:29:14: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 7.2
+5/18/2022 13:29:14: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.17
+5/18/2022 13:29:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 13:29:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 13:32:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:32:40: [G_Auto 1] :  Placed closure bet with greening on Reilly Opelka by Backing 45.21 at 1.16
+5/18/2022 13:32:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:32:41: [G_Auto 2] :  Store Text Value (Shared) for Christopher O'Connell: aPoints = point: 0; games: 5; sets: 0 
+5/18/2022 13:32:41: [G_Auto 2] :  Store Text Value (Shared) for Christopher O'Connell: aServing = serving:1
+5/18/2022 13:32:41: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 6; sets: 1 
+5/18/2022 13:32:41: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:0
+5/18/2022 13:32:41: [G_Auto 2] :  Store Value (Shared) for market: price = 1.16
+5/18/2022 13:32:41: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 337.2
+5/18/2022 13:32:41: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 328.17
+5/18/2022 13:32:41: [G_Auto 2] :  Store Value (Shared) for market: stake = 45.21
+5/18/2022 13:32:41: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 665.37
+5/18/2022 13:32:41: [G_Auto 2] :  Store Value (Shared) for market: pl = -9.03
+5/18/2022 13:32:41: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 6.8
+5/18/2022 13:32:41: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.17
+5/18/2022 13:32:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:33:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:33:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:33:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:33:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:34:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:34:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:34:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 13:34:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 13:35:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 13:37:03:  Guardian has detected that the market is suspended

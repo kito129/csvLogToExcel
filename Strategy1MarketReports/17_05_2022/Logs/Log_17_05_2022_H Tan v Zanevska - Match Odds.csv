@@ -1,0 +1,653 @@
+5/17/2022 10:00:44: [G_Auto 2] :  Store Text Value (Shared) for Harmony Tan: info = marketName: H Tan v Zanevska - Match Odds; runnerA: Harmony Tan; runnerB: Maryna Zanevska 
+5/17/2022 10:00:44: [G_Auto 2] :  Store Value (Shared) for market: aId = 8959808
+5/17/2022 10:00:44: [G_Auto 2] :  Store Value (Shared) for market: bId = 6390239
+5/17/2022 17:48:36:  Guardian has detected that the market is in-play
+5/17/2022 17:48:36:  Guardian has detected that the market is suspended
+5/17/2022 17:48:37: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 3.3; bBsp: 1.44; volume: 10123.94 
+5/17/2022 17:48:37: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 3.3; bBsp: 1.44; volume: 10123.94 
+5/17/2022 17:48:37:  Guardian has detected that the market is now unsuspended
+5/17/2022 17:48:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 17:48:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 17:51:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:51:14: [G_Auto 1] :  € 13.33 Lay bet placed on Maryna Zanevska at 1.6. Fully matched at 1.58.  Ref: 10355          ( Fill or kill bet with 15 seconds delay.   )
+5/17/2022 17:51:15: [G_Auto 2] :  Store Text Value (Shared) for Harmony Tan: aPoints = point: 0; games: 1; sets: 0 
+5/17/2022 17:51:15: [G_Auto 2] :  Store Text Value (Shared) for Harmony Tan: aServing = serving:0
+5/17/2022 17:51:15: [G_Auto 2] :  Store Text Value (Shared) for Maryna Zanevska: bPoints = point: 0; games: 0; sets: 0 
+5/17/2022 17:51:15: [G_Auto 2] :  Store Text Value (Shared) for Maryna Zanevska: bServing = serving:2
+5/17/2022 17:51:15: [G_Auto 2] :  Store Value (Shared) for market: price = 1.58
+5/17/2022 17:51:15: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+5/17/2022 17:51:15: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 13.33
+5/17/2022 17:51:15: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.33
+5/17/2022 17:51:15: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 13.33
+5/17/2022 17:51:15: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.08
+5/17/2022 17:51:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.05
+5/17/2022 17:51:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.58
+5/17/2022 17:51:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:51:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:51:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:52:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 17:52:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 17:53:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:54:03: [G_Auto 1] :  Placed closure bet with greening on Maryna Zanevska by Backing 11.03 at 1.91
+5/17/2022 17:54:04: [G_Auto 2] :  Store Text Value (Shared) for Harmony Tan: aPoints = point: 0; games: 2; sets: 0 
+5/17/2022 17:54:04: [G_Auto 2] :  Store Text Value (Shared) for Harmony Tan: aServing = serving:1
+5/17/2022 17:54:04: [G_Auto 2] :  Store Text Value (Shared) for Maryna Zanevska: bPoints = point: 0; games: 0; sets: 0 
+5/17/2022 17:54:04: [G_Auto 2] :  Store Text Value (Shared) for Maryna Zanevska: bServing = serving:0
+5/17/2022 17:54:04: [G_Auto 2] :  Store Value (Shared) for market: price = 1.91
+5/17/2022 17:54:04: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 11.03
+5/17/2022 17:54:04: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 13.33
+5/17/2022 17:54:04: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.03
+5/17/2022 17:54:04: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 24.36
+5/17/2022 17:54:04: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.25
+5/17/2022 17:54:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.1
+5/17/2022 17:54:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.91
+5/17/2022 17:54:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:54:10: [G_Auto 2] :  Store Text Value (Shared) for Harmony Tan: aPoints = point: 0; games: 2; sets: 0 
+5/17/2022 17:54:10: [G_Auto 2] :  Store Text Value (Shared) for Harmony Tan: aServing = serving:1
+5/17/2022 17:54:10: [G_Auto 2] :  Store Text Value (Shared) for Maryna Zanevska: bPoints = point: 0; games: 0; sets: 0 
+5/17/2022 17:54:10: [G_Auto 2] :  Store Text Value (Shared) for Maryna Zanevska: bServing = serving:0
+5/17/2022 17:54:10: [G_Auto 2] :  Store Value (Shared) for market: price = 1.91
+5/17/2022 17:54:10: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 11.03
+5/17/2022 17:54:10: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 13.33
+5/17/2022 17:54:10: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.03
+5/17/2022 17:54:10: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 24.36
+5/17/2022 17:54:10: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.25
+5/17/2022 17:54:10: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.06
+5/17/2022 17:54:10: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.91
+5/17/2022 17:54:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:54:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 17:54:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 17:56:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:57:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:57:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:57:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:58:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:58:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:58:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:58:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:59:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:59:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:59:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 17:59:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 18:00:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:01:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:01:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:01:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 18:01:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 18:02:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 18:04:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:04:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:04:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:04:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:05:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:05:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:05:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:06:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:06:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:06:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:06:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 18:06:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 18:10:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:10:15: [G_Auto 1] :  € 8.42 Lay bet placed on Harmony Tan at 1.95. Fully matched at 1.95.  Ref: 10370          ( Fill or kill bet with 15 seconds delay.   )
+5/17/2022 18:10:17: [G_Auto 2] :  Store Text Value (Shared) for Harmony Tan: aPoints = point: 0; games: 4; sets: 0 
+5/17/2022 18:10:17: [G_Auto 2] :  Store Text Value (Shared) for Harmony Tan: aServing = serving:1
+5/17/2022 18:10:17: [G_Auto 2] :  Store Text Value (Shared) for Maryna Zanevska: bPoints = point: 0; games: 2; sets: 0 
+5/17/2022 18:10:17: [G_Auto 2] :  Store Text Value (Shared) for Maryna Zanevska: bServing = serving:0
+5/17/2022 18:10:17: [G_Auto 2] :  Store Value (Shared) for market: price = 1.95
+5/17/2022 18:10:17: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 11.03
+5/17/2022 18:10:17: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 21.75
+5/17/2022 18:10:17: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.42
+5/17/2022 18:10:17: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 32.78
+5/17/2022 18:10:17: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.25
+5/17/2022 18:10:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.95
+5/17/2022 18:10:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.04
+5/17/2022 18:10:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:10:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:10:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 18:11:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 18:11:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 18:16:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:16:44: [G_Auto 1] :  Placed closure bet with greening on Harmony Tan by Backing 6.57 at 2.5
+5/17/2022 18:16:44: [G_Auto 1] :  € 12.12 Lay bet placed on Maryna Zanevska at 1.66. Fully matched at 1.66.  Ref: 10371          ( Fill or kill bet with 15 seconds delay.   )
+5/17/2022 18:16:45: [G_Auto 2] :  Store Text Value (Shared) for Harmony Tan: aPoints = point: 0; games: 4; sets: 0 
+5/17/2022 18:16:45: [G_Auto 2] :  Store Text Value (Shared) for Harmony Tan: aServing = serving:0
+5/17/2022 18:16:45: [G_Auto 2] :  Store Text Value (Shared) for Maryna Zanevska: bPoints = point: 0; games: 3; sets: 0 
+5/17/2022 18:16:45: [G_Auto 2] :  Store Text Value (Shared) for Maryna Zanevska: bServing = serving:2
+5/17/2022 18:16:45: [G_Auto 2] :  Store Value (Shared) for market: price = 1.66
+5/17/2022 18:16:45: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 17.6
+5/17/2022 18:16:45: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 33.87
+5/17/2022 18:16:45: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.12
+5/17/2022 18:16:45: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 51.47
+5/17/2022 18:16:45: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.05
+5/17/2022 18:16:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.52
+5/17/2022 18:16:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.66
+5/17/2022 18:16:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:17:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:17:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:17:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:17:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:18:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:18:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:18:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:18:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:18:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 18:19:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 18:19:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 18:21:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:21:35: [G_Auto 1] :  Placed closure bet with greening on Maryna Zanevska by Backing 13.78 at 1.46
+5/17/2022 18:21:36: [G_Auto 2] :  Store Text Value (Shared) for Harmony Tan: aPoints = point: 0; games: 4; sets: 0 
+5/17/2022 18:21:36: [G_Auto 2] :  Store Text Value (Shared) for Harmony Tan: aServing = serving:1
+5/17/2022 18:21:36: [G_Auto 2] :  Store Text Value (Shared) for Maryna Zanevska: bPoints = point: 0; games: 4; sets: 0 
+5/17/2022 18:21:36: [G_Auto 2] :  Store Text Value (Shared) for Maryna Zanevska: bServing = serving:0
+5/17/2022 18:21:36: [G_Auto 2] :  Store Value (Shared) for market: price = 1.46
+5/17/2022 18:21:36: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 31.38
+5/17/2022 18:21:36: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 33.87
+5/17/2022 18:21:36: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.78
+5/17/2022 18:21:36: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 65.25
+5/17/2022 18:21:36: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.48
+5/17/2022 18:21:36: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.15
+5/17/2022 18:21:36: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.46
+5/17/2022 18:21:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:21:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:22:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:22:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 18:22:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 18:22:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 18:23:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:24:10: [G_Auto 1] :  € 9.64 Lay bet placed on Maryna Zanevska at 1.83. Entirely unmatched when it initially reached the market.   Ref: 10375          ( Fill or kill bet with 15 seconds delay.   )
+5/17/2022 18:24:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:24:13: [G_Auto 1] :  Placed closure bet with greening on Harmony Tan by Laying 0.06 at 2.24
+5/17/2022 18:24:13: [G_Auto 1] :  € 9.64 of unmatched bet (Ref:10375) was filled before remainder was killed.
+5/17/2022 18:24:14: [G_Auto 2] :  Store Text Value (Shared) for Harmony Tan: aPoints = point: 0; games: 5; sets: 0 
+5/17/2022 18:24:14: [G_Auto 2] :  Store Text Value (Shared) for Harmony Tan: aServing = serving:0
+5/17/2022 18:24:14: [G_Auto 2] :  Store Text Value (Shared) for Maryna Zanevska: bPoints = point: 0; games: 4; sets: 0 
+5/17/2022 18:24:14: [G_Auto 2] :  Store Text Value (Shared) for Maryna Zanevska: bServing = serving:2
+5/17/2022 18:24:14: [G_Auto 2] :  Store Value (Shared) for market: price = 2.24
+5/17/2022 18:24:14: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 31.38
+5/17/2022 18:24:14: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 43.57
+5/17/2022 18:24:14: [G_Auto 2] :  Store Value (Shared) for market: stake = 0.06
+5/17/2022 18:24:14: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 74.95
+5/17/2022 18:24:14: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.4
+5/17/2022 18:24:14: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.2
+5/17/2022 18:24:14: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.81
+5/17/2022 18:24:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:24:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:25:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:25:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:25:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:25:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:26:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:26:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:26:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 18:26:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 18:26:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 18:27:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 18:27:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 18:30:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:30:11: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 1.56
+5/17/2022 18:30:11: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 2.8
+5/17/2022 18:30:16: [G_Auto 1] :  Placed closure bet with greening on Maryna Zanevska by Backing 6.30 at 2.8
+5/17/2022 18:30:16: [G_Auto 1] :  € 14.04 Lay bet placed on Harmony Tan at 1.57. Fully matched at 1.56.  Ref: 10380          ( Fill or kill bet with 15 seconds delay.   )
+5/17/2022 18:30:17: [G_Auto 2] :  Store Text Value (Shared) for Harmony Tan: aPoints = point: 0; games: 0; sets: 1 
+5/17/2022 18:30:17: [G_Auto 2] :  Store Text Value (Shared) for Harmony Tan: aServing = serving:1
+5/17/2022 18:30:17: [G_Auto 2] :  Store Text Value (Shared) for Maryna Zanevska: bPoints = point: 0; games: 0; sets: 0 
+5/17/2022 18:30:17: [G_Auto 2] :  Store Text Value (Shared) for Maryna Zanevska: bServing = serving:0
+5/17/2022 18:30:17: [G_Auto 2] :  Store Value (Shared) for market: price = 1.56
+5/17/2022 18:30:17: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 31.38
+5/17/2022 18:30:17: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 57.61
+5/17/2022 18:30:17: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.04
+5/17/2022 18:30:17: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 88.99
+5/17/2022 18:30:17: [G_Auto 2] :  Store Value (Shared) for market: pl = 5.64
+5/17/2022 18:30:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.56
+5/17/2022 18:30:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.8
+5/17/2022 18:30:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:30:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:30:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:31:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:31:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:31:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:31:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:32:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:32:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:32:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:32:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:33:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:33:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:33:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:33:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:34:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 18:34:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 18:43:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:43:40: [G_Auto 1] :  Placed closure bet with greening on Harmony Tan by Backing 15.42 at 1.42
+5/17/2022 18:43:40: [G_Auto 2] :  Store Text Value (Shared) for Harmony Tan: aPoints = point: 0; games: 1; sets: 1 
+5/17/2022 18:43:40: [G_Auto 2] :  Store Text Value (Shared) for Harmony Tan: aServing = serving:0
+5/17/2022 18:43:40: [G_Auto 2] :  Store Text Value (Shared) for Maryna Zanevska: bPoints = point: 0; games: 0; sets: 0 
+5/17/2022 18:43:40: [G_Auto 2] :  Store Text Value (Shared) for Maryna Zanevska: bServing = serving:2
+5/17/2022 18:43:40: [G_Auto 2] :  Store Value (Shared) for market: price = 1.43
+5/17/2022 18:43:40: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 53.1
+5/17/2022 18:43:40: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 57.61
+5/17/2022 18:43:40: [G_Auto 2] :  Store Value (Shared) for market: stake = 15.42
+5/17/2022 18:43:40: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 110.71
+5/17/2022 18:43:40: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.53
+5/17/2022 18:43:40: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.43
+5/17/2022 18:43:40: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.25
+5/17/2022 18:43:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:43:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:44:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:44:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:44:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 18:44:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 18:47:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:47:23: [G_Auto 1] :  € 33.33 Lay bet placed on Harmony Tan at 1.24. Fully matched at 1.23.  Ref: 10392          ( Fill or kill bet with 15 seconds delay.   )
+5/17/2022 18:47:23: [G_Auto 2] :  Store Text Value (Shared) for Harmony Tan: aPoints = point: 0; games: 2; sets: 1 
+5/17/2022 18:47:23: [G_Auto 2] :  Store Text Value (Shared) for Harmony Tan: aServing = serving:1
+5/17/2022 18:47:23: [G_Auto 2] :  Store Text Value (Shared) for Maryna Zanevska: bPoints = point: 0; games: 0; sets: 0 
+5/17/2022 18:47:23: [G_Auto 2] :  Store Text Value (Shared) for Maryna Zanevska: bServing = serving:0
+5/17/2022 18:47:23: [G_Auto 2] :  Store Value (Shared) for market: price = 1.23
+5/17/2022 18:47:23: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 53.1
+5/17/2022 18:47:23: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 90.94
+5/17/2022 18:47:23: [G_Auto 2] :  Store Value (Shared) for market: stake = 33.33
+5/17/2022 18:47:23: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 144.04
+5/17/2022 18:47:23: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.27
+5/17/2022 18:47:23: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.23
+5/17/2022 18:47:23: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.3
+5/17/2022 18:47:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:47:29: [G_Auto 2] :  Store Text Value (Shared) for Harmony Tan: aPoints = point: 0; games: 2; sets: 1 
+5/17/2022 18:47:29: [G_Auto 2] :  Store Text Value (Shared) for Harmony Tan: aServing = serving:1
+5/17/2022 18:47:29: [G_Auto 2] :  Store Text Value (Shared) for Maryna Zanevska: bPoints = point: 0; games: 0; sets: 0 
+5/17/2022 18:47:29: [G_Auto 2] :  Store Text Value (Shared) for Maryna Zanevska: bServing = serving:0
+5/17/2022 18:47:29: [G_Auto 2] :  Store Value (Shared) for market: price = 1.23
+5/17/2022 18:47:29: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 53.1
+5/17/2022 18:47:29: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 90.94
+5/17/2022 18:47:29: [G_Auto 2] :  Store Value (Shared) for market: stake = 33.33
+5/17/2022 18:47:29: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 144.04
+5/17/2022 18:47:29: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.54
+5/17/2022 18:47:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.23
+5/17/2022 18:47:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.2
+5/17/2022 18:47:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:47:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:48:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 18:48:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 18:52:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:52:30: [G_Auto 1] :  Placed closure bet with greening on Harmony Tan by Backing 35.83 at 1.14
+5/17/2022 18:52:31: [G_Auto 2] :  Store Text Value (Shared) for Harmony Tan: aPoints = point: 0; games: 3; sets: 1 
+5/17/2022 18:52:31: [G_Auto 2] :  Store Text Value (Shared) for Harmony Tan: aServing = serving:0
+5/17/2022 18:52:31: [G_Auto 2] :  Store Text Value (Shared) for Maryna Zanevska: bPoints = point: 0; games: 0; sets: 0 
+5/17/2022 18:52:31: [G_Auto 2] :  Store Text Value (Shared) for Maryna Zanevska: bServing = serving:2
+5/17/2022 18:52:31: [G_Auto 2] :  Store Value (Shared) for market: price = 1.14
+5/17/2022 18:52:31: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 53.105
+5/17/2022 18:52:31: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 90.94
+5/17/2022 18:52:31: [G_Auto 2] :  Store Value (Shared) for market: stake = 0.005
+5/17/2022 18:52:31: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 144.045
+5/17/2022 18:52:31: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.97
+5/17/2022 18:52:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.15
+5/17/2022 18:52:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 8
+5/17/2022 18:52:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:52:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:53:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:53:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:53:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:53:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:54:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:54:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 18:54:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 18:58:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:58:55: [G_Auto 1] :  € 34.78 Lay bet placed on Harmony Tan at 1.23. Fully matched at 1.22.  Ref: 10400          ( Fill or kill bet with 15 seconds delay.   )
+5/17/2022 18:58:55: [G_Auto 2] :  Store Text Value (Shared) for Harmony Tan: aPoints = point: 0; games: 3; sets: 1 
+5/17/2022 18:58:55: [G_Auto 2] :  Store Text Value (Shared) for Harmony Tan: aServing = serving:1
+5/17/2022 18:58:55: [G_Auto 2] :  Store Text Value (Shared) for Maryna Zanevska: bPoints = point: 0; games: 1; sets: 0 
+5/17/2022 18:58:55: [G_Auto 2] :  Store Text Value (Shared) for Maryna Zanevska: bServing = serving:0
+5/17/2022 18:58:55: [G_Auto 2] :  Store Value (Shared) for market: price = 1.22
+5/17/2022 18:58:55: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 88.93
+5/17/2022 18:58:55: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 125.72
+5/17/2022 18:58:55: [G_Auto 2] :  Store Value (Shared) for market: stake = 34.78
+5/17/2022 18:58:55: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 214.65
+5/17/2022 18:58:55: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.69
+5/17/2022 18:58:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.21
+5/17/2022 18:58:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.8
+5/17/2022 18:58:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:59:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:59:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:59:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 18:59:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 19:00:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 19:00:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 19:02:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:02:43: [G_Auto 1] :  Placed closure bet with greening on Harmony Tan by Backing 29.88 at 1.42
+5/17/2022 19:02:44: [G_Auto 2] :  Store Text Value (Shared) for Harmony Tan: aPoints = point: 0; games: 3; sets: 1 
+5/17/2022 19:02:44: [G_Auto 2] :  Store Text Value (Shared) for Harmony Tan: aServing = serving:0
+5/17/2022 19:02:44: [G_Auto 2] :  Store Text Value (Shared) for Maryna Zanevska: bPoints = point: 0; games: 2; sets: 0 
+5/17/2022 19:02:44: [G_Auto 2] :  Store Text Value (Shared) for Maryna Zanevska: bServing = serving:2
+5/17/2022 19:02:44: [G_Auto 2] :  Store Value (Shared) for market: price = 1.42
+5/17/2022 19:02:44: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 118.81
+5/17/2022 19:02:44: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 125.72
+5/17/2022 19:02:44: [G_Auto 2] :  Store Value (Shared) for market: stake = 29.88
+5/17/2022 19:02:44: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 244.53
+5/17/2022 19:02:44: [G_Auto 2] :  Store Value (Shared) for market: pl = 6.77
+5/17/2022 19:02:44: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.42
+5/17/2022 19:02:44: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.4
+5/17/2022 19:02:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:02:49: [G_Auto 2] :  Store Text Value (Shared) for Harmony Tan: aPoints = point: 0; games: 3; sets: 1 
+5/17/2022 19:02:49: [G_Auto 2] :  Store Text Value (Shared) for Harmony Tan: aServing = serving:0
+5/17/2022 19:02:49: [G_Auto 2] :  Store Text Value (Shared) for Maryna Zanevska: bPoints = point: 0; games: 2; sets: 0 
+5/17/2022 19:02:49: [G_Auto 2] :  Store Text Value (Shared) for Maryna Zanevska: bServing = serving:2
+5/17/2022 19:02:49: [G_Auto 2] :  Store Value (Shared) for market: price = 1.42
+5/17/2022 19:02:49: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 118.81
+5/17/2022 19:02:49: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 125.72
+5/17/2022 19:02:49: [G_Auto 2] :  Store Value (Shared) for market: stake = 29.88
+5/17/2022 19:02:49: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 244.53
+5/17/2022 19:02:49: [G_Auto 2] :  Store Value (Shared) for market: pl = 6.77
+5/17/2022 19:02:49: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.43
+5/17/2022 19:02:49: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.4
+5/17/2022 19:03:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:03:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:03:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:03:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:04:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:04:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:04:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:04:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:05:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 19:05:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 19:09:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:09:34: [G_Auto 1] :  € 42.11 Lay bet placed on Harmony Tan at 1.19. Fully matched at 1.19.  Ref: 10407          ( Fill or kill bet with 15 seconds delay.   )
+5/17/2022 19:09:34: [G_Auto 2] :  Store Text Value (Shared) for Harmony Tan: aPoints = point: 0; games: 4; sets: 1 
+5/17/2022 19:09:34: [G_Auto 2] :  Store Text Value (Shared) for Harmony Tan: aServing = serving:1
+5/17/2022 19:09:34: [G_Auto 2] :  Store Text Value (Shared) for Maryna Zanevska: bPoints = point: 0; games: 2; sets: 0 
+5/17/2022 19:09:34: [G_Auto 2] :  Store Text Value (Shared) for Maryna Zanevska: bServing = serving:0
+5/17/2022 19:09:34: [G_Auto 2] :  Store Value (Shared) for market: price = 1.19
+5/17/2022 19:09:34: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 118.81
+5/17/2022 19:09:34: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 167.83
+5/17/2022 19:09:34: [G_Auto 2] :  Store Value (Shared) for market: stake = 42.11
+5/17/2022 19:09:34: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 286.64
+5/17/2022 19:09:34: [G_Auto 2] :  Store Value (Shared) for market: pl = 6.07
+5/17/2022 19:09:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.19
+5/17/2022 19:09:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.3
+5/17/2022 19:09:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:09:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:10:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:10:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 19:10:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 19:10:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 19:16:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:16:31: [G_Auto 1] :  Placed closure bet with greening on Harmony Tan by Backing 36.31 at 1.38
+5/17/2022 19:16:31: [G_Auto 2] :  Store Text Value (Shared) for Harmony Tan: aPoints = point: 0; games: 4; sets: 1 
+5/17/2022 19:16:31: [G_Auto 2] :  Store Text Value (Shared) for Harmony Tan: aServing = serving:0
+5/17/2022 19:16:31: [G_Auto 2] :  Store Text Value (Shared) for Maryna Zanevska: bPoints = point: 0; games: 3; sets: 0 
+5/17/2022 19:16:31: [G_Auto 2] :  Store Text Value (Shared) for Maryna Zanevska: bServing = serving:2
+5/17/2022 19:16:31: [G_Auto 2] :  Store Value (Shared) for market: price = 1.38
+5/17/2022 19:16:31: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 155.12
+5/17/2022 19:16:31: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 167.83
+5/17/2022 19:16:31: [G_Auto 2] :  Store Value (Shared) for market: stake = 36.31
+5/17/2022 19:16:31: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 322.95
+5/17/2022 19:16:31: [G_Auto 2] :  Store Value (Shared) for market: pl = 12.46
+5/17/2022 19:16:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.38
+5/17/2022 19:16:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.65
+5/17/2022 19:16:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:16:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:17:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:17:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:17:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:17:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:18:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:18:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:18:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:18:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 19:19:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 19:21:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:21:17: [G_Auto 1] :  € 12.12 Lay bet placed on Harmony Tan at 1.66. Fully matched at 1.65.  Ref: 10417          ( Fill or kill bet with 15 seconds delay.   )
+5/17/2022 19:21:17: [G_Auto 2] :  Store Text Value (Shared) for Harmony Tan: aPoints = point: 0; games: 4; sets: 1 
+5/17/2022 19:21:17: [G_Auto 2] :  Store Text Value (Shared) for Harmony Tan: aServing = serving:1
+5/17/2022 19:21:17: [G_Auto 2] :  Store Text Value (Shared) for Maryna Zanevska: bPoints = point: 0; games: 4; sets: 0 
+5/17/2022 19:21:17: [G_Auto 2] :  Store Text Value (Shared) for Maryna Zanevska: bServing = serving:0
+5/17/2022 19:21:17: [G_Auto 2] :  Store Value (Shared) for market: price = 1.65
+5/17/2022 19:21:17: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 155.12
+5/17/2022 19:21:17: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 179.95
+5/17/2022 19:21:17: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.12
+5/17/2022 19:21:17: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 335.07
+5/17/2022 19:21:17: [G_Auto 2] :  Store Value (Shared) for market: pl = 12.38
+5/17/2022 19:21:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.64
+5/17/2022 19:21:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.58
+5/17/2022 19:21:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:21:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 19:21:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 19:24:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:24:24: [G_Auto 1] :  Placed closure bet with greening on Harmony Tan by Backing 8.85 at 2.26
+5/17/2022 19:24:24: [G_Auto 1] :  € 10.00 Lay bet placed on Maryna Zanevska at 1.8. Fully matched at 1.79.  Ref: 10420          ( Fill or kill bet with 15 seconds delay.   )
+5/17/2022 19:24:24: [G_Auto 2] :  Store Text Value (Shared) for Harmony Tan: aPoints = point: 0; games: 4; sets: 1 
+5/17/2022 19:24:24: [G_Auto 2] :  Store Text Value (Shared) for Harmony Tan: aServing = serving:0
+5/17/2022 19:24:24: [G_Auto 2] :  Store Text Value (Shared) for Maryna Zanevska: bPoints = point: 0; games: 5; sets: 0 
+5/17/2022 19:24:24: [G_Auto 2] :  Store Text Value (Shared) for Maryna Zanevska: bServing = serving:2
+5/17/2022 19:24:24: [G_Auto 2] :  Store Value (Shared) for market: price = 1.79
+5/17/2022 19:24:24: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 163.97
+5/17/2022 19:24:24: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 189.95
+5/17/2022 19:24:24: [G_Auto 2] :  Store Value (Shared) for market: stake = 10
+5/17/2022 19:24:24: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 353.92
+5/17/2022 19:24:24: [G_Auto 2] :  Store Value (Shared) for market: pl = 15.61
+5/17/2022 19:24:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.28
+5/17/2022 19:24:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.79
+5/17/2022 19:24:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:24:29: [G_Auto 2] :  Store Text Value (Shared) for Harmony Tan: aPoints = point: 0; games: 4; sets: 1 
+5/17/2022 19:24:29: [G_Auto 2] :  Store Text Value (Shared) for Harmony Tan: aServing = serving:0
+5/17/2022 19:24:29: [G_Auto 2] :  Store Text Value (Shared) for Maryna Zanevska: bPoints = point: 0; games: 5; sets: 0 
+5/17/2022 19:24:29: [G_Auto 2] :  Store Text Value (Shared) for Maryna Zanevska: bServing = serving:2
+5/17/2022 19:24:29: [G_Auto 2] :  Store Value (Shared) for market: price = 1.79
+5/17/2022 19:24:29: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 163.97
+5/17/2022 19:24:29: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 189.95
+5/17/2022 19:24:29: [G_Auto 2] :  Store Value (Shared) for market: stake = 10
+5/17/2022 19:24:29: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 353.92
+5/17/2022 19:24:29: [G_Auto 2] :  Store Value (Shared) for market: pl = 15.66
+5/17/2022 19:24:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.26
+5/17/2022 19:24:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.79
+5/17/2022 19:24:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:24:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:25:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:25:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:25:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:26:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:26:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:26:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:26:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 19:26:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 19:29:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:29:52: [G_Auto 1] :  Placed closure bet with greening on Maryna Zanevska by Backing 6.53 at 2.74
+5/17/2022 19:29:52: [G_Auto 1] :  € 13.79 Lay bet placed on Harmony Tan at 1.58. Fully matched at 1.57.  Ref: 10427          ( Fill or kill bet with 15 seconds delay.   )
+5/17/2022 19:29:52: [G_Auto 2] :  Store Text Value (Shared) for Harmony Tan: aPoints = point: 0; games: 5; sets: 1 
+5/17/2022 19:29:52: [G_Auto 2] :  Store Text Value (Shared) for Harmony Tan: aServing = serving:1
+5/17/2022 19:29:52: [G_Auto 2] :  Store Text Value (Shared) for Maryna Zanevska: bPoints = point: 0; games: 5; sets: 0 
+5/17/2022 19:29:52: [G_Auto 2] :  Store Text Value (Shared) for Maryna Zanevska: bServing = serving:0
+5/17/2022 19:29:52: [G_Auto 2] :  Store Value (Shared) for market: price = 1.57
+5/17/2022 19:29:52: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 170.5
+5/17/2022 19:29:52: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 203.74
+5/17/2022 19:29:52: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.79
+5/17/2022 19:29:52: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 374.24
+5/17/2022 19:29:52: [G_Auto 2] :  Store Value (Shared) for market: pl = 18.97
+5/17/2022 19:29:52: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.57
+5/17/2022 19:29:52: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.66
+5/17/2022 19:29:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:30:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:30:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 19:30:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 19:30:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 19:34:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:34:13: [G_Auto 1] :  Placed closure bet with greening on Harmony Tan by Backing 10.21 at 2.12
+5/17/2022 19:34:13: [G_Auto 1] :  € 9.09 Lay bet placed on Maryna Zanevska at 1.88. Fully matched at 1.88.  Ref: 10430          ( Fill or kill bet with 15 seconds delay.   )
+5/17/2022 19:34:13: [G_Auto 2] :  Store Text Value (Shared) for Harmony Tan: aPoints = point: 0; games: 5; sets: 1 
+5/17/2022 19:34:13: [G_Auto 2] :  Store Text Value (Shared) for Harmony Tan: aServing = serving:0
+5/17/2022 19:34:13: [G_Auto 2] :  Store Text Value (Shared) for Maryna Zanevska: bPoints = point: 0; games: 6; sets: 0 
+5/17/2022 19:34:13: [G_Auto 2] :  Store Text Value (Shared) for Maryna Zanevska: bServing = serving:2
+5/17/2022 19:34:13: [G_Auto 2] :  Store Value (Shared) for market: price = 2.12
+5/17/2022 19:34:13: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 180.71
+5/17/2022 19:34:13: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 212.83
+5/17/2022 19:34:13: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.21
+5/17/2022 19:34:13: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 393.54
+5/17/2022 19:34:13: [G_Auto 2] :  Store Value (Shared) for market: pl = 22.51
+5/17/2022 19:34:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.12
+5/17/2022 19:34:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.88
+5/17/2022 19:34:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:34:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:34:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:35:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:35:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:35:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:35:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:36:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:36:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:36:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:36:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 19:37:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 19:43:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:43:58: [G_Auto 2] :  Store Value (Shared) for market: aSecondSetPrice = 2.88
+5/17/2022 19:43:58: [G_Auto 2] :  Store Value (Shared) for market: bSecondSetPrice = 1.54
+5/17/2022 19:44:03: [G_Auto 1] :  Placed closure bet with greening on Maryna Zanevska by Backing 11.17 at 1.53
+5/17/2022 19:44:03: [G_Auto 2] :  Store Text Value (Shared) for Harmony Tan: aPoints = point: 0; games: 0; sets: 1 
+5/17/2022 19:44:03: [G_Auto 2] :  Store Text Value (Shared) for Harmony Tan: aServing = serving:1
+5/17/2022 19:44:03: [G_Auto 2] :  Store Text Value (Shared) for Maryna Zanevska: bPoints = point: 0; games: 0; sets: 1 
+5/17/2022 19:44:03: [G_Auto 2] :  Store Text Value (Shared) for Maryna Zanevska: bServing = serving:0
+5/17/2022 19:44:03: [G_Auto 2] :  Store Value (Shared) for market: price = 1.53
+5/17/2022 19:44:03: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 191.88
+5/17/2022 19:44:03: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 212.83
+5/17/2022 19:44:03: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.17
+5/17/2022 19:44:03: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 404.71
+5/17/2022 19:44:03: [G_Auto 2] :  Store Value (Shared) for market: pl = 20.52
+5/17/2022 19:44:03: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.86
+5/17/2022 19:44:03: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.53
+5/17/2022 19:44:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:44:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:44:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:44:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:45:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:45:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:45:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:45:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:46:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:46:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:46:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:46:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:47:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:47:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:47:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:48:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:48:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 19:48:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 19:50:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:50:40: [G_Auto 1] :  € 9.64 Lay bet placed on Maryna Zanevska at 1.83. Fully matched at 1.82.  Ref: 10439          ( Fill or kill bet with 15 seconds delay.   )
+5/17/2022 19:50:40: [G_Auto 2] :  Store Text Value (Shared) for Harmony Tan: aPoints = point: 0; games: 1; sets: 1 
+5/17/2022 19:50:40: [G_Auto 2] :  Store Text Value (Shared) for Harmony Tan: aServing = serving:0
+5/17/2022 19:50:40: [G_Auto 2] :  Store Text Value (Shared) for Maryna Zanevska: bPoints = point: 0; games: 0; sets: 1 
+5/17/2022 19:50:40: [G_Auto 2] :  Store Text Value (Shared) for Maryna Zanevska: bServing = serving:2
+5/17/2022 19:50:40: [G_Auto 2] :  Store Value (Shared) for market: price = 1.82
+5/17/2022 19:50:40: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 191.88
+5/17/2022 19:50:40: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 222.47
+5/17/2022 19:50:40: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.64
+5/17/2022 19:50:40: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 414.35
+5/17/2022 19:50:40: [G_Auto 2] :  Store Value (Shared) for market: pl = 20.42
+5/17/2022 19:50:40: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.22
+5/17/2022 19:50:40: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.8
+5/17/2022 19:50:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:50:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:51:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:51:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:51:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 19:51:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 19:54:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:55:00: [G_Auto 1] :  Placed closure bet with greening on Maryna Zanevska by Backing 11.62 at 1.51
+5/17/2022 19:55:01: [G_Auto 2] :  Store Text Value (Shared) for Harmony Tan: aPoints = point: 0; games: 1; sets: 1 
+5/17/2022 19:55:01: [G_Auto 2] :  Store Text Value (Shared) for Harmony Tan: aServing = serving:1
+5/17/2022 19:55:01: [G_Auto 2] :  Store Text Value (Shared) for Maryna Zanevska: bPoints = point: 0; games: 1; sets: 1 
+5/17/2022 19:55:01: [G_Auto 2] :  Store Text Value (Shared) for Maryna Zanevska: bServing = serving:0
+5/17/2022 19:55:01: [G_Auto 2] :  Store Value (Shared) for market: price = 1.51
+5/17/2022 19:55:01: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 203.5
+5/17/2022 19:55:01: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 222.47
+5/17/2022 19:55:01: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.62
+5/17/2022 19:55:01: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 425.97
+5/17/2022 19:55:01: [G_Auto 2] :  Store Value (Shared) for market: pl = 18.58
+5/17/2022 19:55:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.88
+5/17/2022 19:55:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.53
+5/17/2022 19:55:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:55:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:55:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:55:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 19:55:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 19:56:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 19:59:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:59:48: [G_Auto 1] :  € 27.59 Lay bet placed on Maryna Zanevska at 1.29. Fully matched at 1.28.  Ref: 10444          ( Fill or kill bet with 15 seconds delay.   )
+5/17/2022 19:59:48: [G_Auto 2] :  Store Text Value (Shared) for Harmony Tan: aPoints = point: 0; games: 1; sets: 1 
+5/17/2022 19:59:48: [G_Auto 2] :  Store Text Value (Shared) for Harmony Tan: aServing = serving:0
+5/17/2022 19:59:48: [G_Auto 2] :  Store Text Value (Shared) for Maryna Zanevska: bPoints = point: 0; games: 2; sets: 1 
+5/17/2022 19:59:48: [G_Auto 2] :  Store Text Value (Shared) for Maryna Zanevska: bServing = serving:2
+5/17/2022 19:59:48: [G_Auto 2] :  Store Value (Shared) for market: price = 1.28
+5/17/2022 19:59:48: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 203.5
+5/17/2022 19:59:48: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 250.06
+5/17/2022 19:59:48: [G_Auto 2] :  Store Value (Shared) for market: stake = 27.59
+5/17/2022 19:59:48: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 453.56
+5/17/2022 19:59:48: [G_Auto 2] :  Store Value (Shared) for market: pl = 18.37
+5/17/2022 19:59:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.5
+5/17/2022 19:59:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.28
+5/17/2022 19:59:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 19:59:53: [G_Auto 2] :  Store Text Value (Shared) for Harmony Tan: aPoints = point: 0; games: 1; sets: 1 
+5/17/2022 19:59:53: [G_Auto 2] :  Store Text Value (Shared) for Harmony Tan: aServing = serving:0
+5/17/2022 19:59:53: [G_Auto 2] :  Store Text Value (Shared) for Maryna Zanevska: bPoints = point: 0; games: 2; sets: 1 
+5/17/2022 19:59:53: [G_Auto 2] :  Store Text Value (Shared) for Maryna Zanevska: bServing = serving:2
+5/17/2022 19:59:53: [G_Auto 2] :  Store Value (Shared) for market: price = 1.28
+5/17/2022 19:59:53: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 203.5
+5/17/2022 19:59:53: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 250.06
+5/17/2022 19:59:53: [G_Auto 2] :  Store Value (Shared) for market: stake = 27.59
+5/17/2022 19:59:53: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 453.56
+5/17/2022 19:59:53: [G_Auto 2] :  Store Value (Shared) for market: pl = 18.58
+5/17/2022 19:59:53: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.5
+5/17/2022 19:59:53: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.28
+5/17/2022 20:00:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 20:00:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 20:00:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 20:00:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 20:01:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 20:01:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 20:01:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 20:01:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 20:02:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 20:02:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 20:02:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 20:03:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 20:04:09: [G_Auto 1] :  Placed closure bet with greening on Maryna Zanevska by Backing 31.25 at 1.13
+5/17/2022 20:04:11: [G_Auto 2] :  Store Text Value (Shared) for Harmony Tan: aPoints = point: 0; games: 1; sets: 1 
+5/17/2022 20:04:11: [G_Auto 2] :  Store Text Value (Shared) for Harmony Tan: aServing = serving:1
+5/17/2022 20:04:11: [G_Auto 2] :  Store Text Value (Shared) for Maryna Zanevska: bPoints = point: 0; games: 3; sets: 1 
+5/17/2022 20:04:11: [G_Auto 2] :  Store Text Value (Shared) for Maryna Zanevska: bServing = serving:0
+5/17/2022 20:04:11: [G_Auto 2] :  Store Value (Shared) for market: price = 1.13
+5/17/2022 20:04:11: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 234.75
+5/17/2022 20:04:11: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 250.06
+5/17/2022 20:04:11: [G_Auto 2] :  Store Value (Shared) for market: stake = 31.25
+5/17/2022 20:04:11: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 484.81
+5/17/2022 20:04:11: [G_Auto 2] :  Store Value (Shared) for market: pl = 14.99
+5/17/2022 20:04:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 8.6
+5/17/2022 20:04:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.13
+5/17/2022 20:04:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 20:04:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 20:04:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 20:04:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 20:05:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 20:07:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 20:07:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 20:08:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 20:08:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 20:08:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 20:08:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 20:09:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 20:09:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 20:09:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 20:09:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 20:10:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 20:10:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 20:10:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 20:10:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 20:11:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 20:11:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 20:11:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 20:11:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 20:13:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 20:13:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 20:13:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 20:18:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 20:18:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 20:18:33:  Guardian has detected that the market is suspended

@@ -1,0 +1,665 @@
+5/17/2022 10:00:46: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: info = marketName: Otte v Se Baez - Match Odds; runnerA: Oscar Otte; runnerB: Sebastian Baez 
+5/17/2022 10:00:46: [G_Auto 2] :  Store Value (Shared) for market: aId = 9624731
+5/17/2022 10:00:46: [G_Auto 2] :  Store Value (Shared) for market: bId = 11285506
+5/17/2022 12:57:49:  Guardian has detected that the market is in-play
+5/17/2022 12:57:49:  Guardian has detected that the market is suspended
+5/17/2022 12:57:54: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 3.4; bBsp: 1.4; volume: 24409.47 
+5/17/2022 12:57:54: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 3.4; bBsp: 1.4; volume: 24409.47 
+5/17/2022 12:57:54:  Guardian has detected that the market is now unsuspended
+5/17/2022 12:57:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 12:58:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 12:58:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 13:02:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:02:44: [G_Auto 1] :  € 28.57 Lay bet placed on Sebastian Baez at 1.28. Fully matched at 1.27.  Ref: 10106          ( Fill or kill bet with 15 seconds delay.   )
+5/17/2022 13:02:46: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aPoints = point: 0; games: 0; sets: 0 
+5/17/2022 13:02:46: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aServing = serving:0
+5/17/2022 13:02:46: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: bPoints = point: 0; games: 1; sets: 0 
+5/17/2022 13:02:46: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: bServing = serving:2
+5/17/2022 13:02:46: [G_Auto 2] :  Store Value (Shared) for market: price = 1.27
+5/17/2022 13:02:46: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+5/17/2022 13:02:46: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 28.57
+5/17/2022 13:02:46: [G_Auto 2] :  Store Value (Shared) for market: stake = 28.57
+5/17/2022 13:02:46: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 28.57
+5/17/2022 13:02:46: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.23
+5/17/2022 13:02:46: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.5
+5/17/2022 13:02:46: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.27
+5/17/2022 13:02:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:03:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:03:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:03:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 13:03:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 13:06:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:06:40: [G_Auto 1] :  Placed closure bet with greening on Sebastian Baez by Backing 29.50 at 1.23
+5/17/2022 13:06:42: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aPoints = point: 0; games: 0; sets: 0 
+5/17/2022 13:06:42: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aServing = serving:1
+5/17/2022 13:06:42: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: bPoints = point: 0; games: 2; sets: 0 
+5/17/2022 13:06:42: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: bServing = serving:0
+5/17/2022 13:06:42: [G_Auto 2] :  Store Value (Shared) for market: price = 1.23
+5/17/2022 13:06:42: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 29.5
+5/17/2022 13:06:42: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 28.57
+5/17/2022 13:06:42: [G_Auto 2] :  Store Value (Shared) for market: stake = 29.5
+5/17/2022 13:06:42: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 58.07
+5/17/2022 13:06:42: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.93
+5/17/2022 13:06:42: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 5.1
+5/17/2022 13:06:42: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.24
+5/17/2022 13:06:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:07:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:07:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 13:09:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:10:03: [G_Auto 1] :  € 28.57 Lay bet placed on Sebastian Baez at 1.28. Fully matched at 1.27.  Ref: 10113          ( Fill or kill bet with 15 seconds delay.   )
+5/17/2022 13:10:05: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aPoints = point: 0; games: 1; sets: 0 
+5/17/2022 13:10:05: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aServing = serving:0
+5/17/2022 13:10:05: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: bPoints = point: 0; games: 2; sets: 0 
+5/17/2022 13:10:05: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: bServing = serving:2
+5/17/2022 13:10:05: [G_Auto 2] :  Store Value (Shared) for market: price = 1.27
+5/17/2022 13:10:05: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 29.5
+5/17/2022 13:10:05: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 57.14
+5/17/2022 13:10:05: [G_Auto 2] :  Store Value (Shared) for market: stake = 28.57
+5/17/2022 13:10:05: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 86.64
+5/17/2022 13:10:05: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.16
+5/17/2022 13:10:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.7
+5/17/2022 13:10:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.26
+5/17/2022 13:10:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:10:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:10:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:11:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:11:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:11:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:11:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 13:12:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 13:14:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:14:18: [G_Auto 1] :  Placed closure bet with greening on Sebastian Baez by Backing 24.35 at 1.49
+5/17/2022 13:14:20: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aPoints = point: 0; games: 2; sets: 0 
+5/17/2022 13:14:20: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aServing = serving:1
+5/17/2022 13:14:20: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: bPoints = point: 0; games: 2; sets: 0 
+5/17/2022 13:14:20: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: bServing = serving:0
+5/17/2022 13:14:20: [G_Auto 2] :  Store Value (Shared) for market: price = 1.49
+5/17/2022 13:14:20: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 53.85
+5/17/2022 13:14:20: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 57.14
+5/17/2022 13:14:20: [G_Auto 2] :  Store Value (Shared) for market: stake = 24.35
+5/17/2022 13:14:20: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 110.99
+5/17/2022 13:14:20: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.22
+5/17/2022 13:14:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.15
+5/17/2022 13:14:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.49
+5/17/2022 13:14:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:14:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 13:16:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:16:35: [G_Auto 1] :  € 11.76 Lay bet placed on Sebastian Baez at 1.68. Fully matched at 1.67.  Ref: 10118          ( Fill or kill bet with 15 seconds delay.   )
+5/17/2022 13:16:36: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aPoints = point: 0; games: 3; sets: 0 
+5/17/2022 13:16:36: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aServing = serving:0
+5/17/2022 13:16:36: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: bPoints = point: 0; games: 2; sets: 0 
+5/17/2022 13:16:36: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: bServing = serving:2
+5/17/2022 13:16:36: [G_Auto 2] :  Store Value (Shared) for market: price = 1.67
+5/17/2022 13:16:36: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 53.85
+5/17/2022 13:16:36: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 68.9
+5/17/2022 13:16:36: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.76
+5/17/2022 13:16:36: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 122.75
+5/17/2022 13:16:36: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.16
+5/17/2022 13:16:36: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.52
+5/17/2022 13:16:36: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.66
+5/17/2022 13:16:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:17:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:17:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:17:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:17:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:18:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:18:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 13:18:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 13:20:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:20:15: [G_Auto 1] :  Placed closure bet with greening on Sebastian Baez by Backing 13.01 at 1.51
+5/17/2022 13:20:17: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aPoints = point: 0; games: 3; sets: 0 
+5/17/2022 13:20:17: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aServing = serving:1
+5/17/2022 13:20:17: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: bPoints = point: 0; games: 3; sets: 0 
+5/17/2022 13:20:17: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: bServing = serving:0
+5/17/2022 13:20:17: [G_Auto 2] :  Store Value (Shared) for market: price = 1.51
+5/17/2022 13:20:17: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 66.86
+5/17/2022 13:20:17: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 68.9
+5/17/2022 13:20:17: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.01
+5/17/2022 13:20:17: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 135.76
+5/17/2022 13:20:17: [G_Auto 2] :  Store Value (Shared) for market: pl = 2
+5/17/2022 13:20:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.94
+5/17/2022 13:20:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.51
+5/17/2022 13:20:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:20:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:20:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:21:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 13:21:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 13:23:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:23:31: [G_Auto 1] :  € 12.12 Lay bet placed on Sebastian Baez at 1.66. Entirely unmatched when it initially reached the market.   Ref: 10122          ( Fill or kill bet with 15 seconds delay.   )
+5/17/2022 13:23:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:23:41: [G_Auto 1] :  € 12.12 of unmatched bet (Ref:10122) was filled before remainder was killed.
+5/17/2022 13:23:42: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aPoints = point: 0; games: 4; sets: 0 
+5/17/2022 13:23:42: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aServing = serving:0
+5/17/2022 13:23:42: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: bPoints = point: 0; games: 3; sets: 0 
+5/17/2022 13:23:42: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: bServing = serving:2
+5/17/2022 13:23:42: [G_Auto 2] :  Store Value (Shared) for market: price = 1.66
+5/17/2022 13:23:42: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 66.86
+5/17/2022 13:23:42: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 81.02
+5/17/2022 13:23:42: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.12
+5/17/2022 13:23:42: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 147.88
+5/17/2022 13:23:42: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.93
+5/17/2022 13:23:42: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.54
+5/17/2022 13:23:42: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.65
+5/17/2022 13:23:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:24:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:24:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:24:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:25:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:25:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:25:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 13:25:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 13:27:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:28:04: [G_Auto 1] :  Placed closure bet with greening on Sebastian Baez by Backing 13.32 at 1.51
+5/17/2022 13:28:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:28:05: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aPoints = point: 0; games: 4; sets: 0 
+5/17/2022 13:28:05: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aServing = serving:1
+5/17/2022 13:28:05: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: bPoints = point: 0; games: 4; sets: 0 
+5/17/2022 13:28:05: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: bServing = serving:0
+5/17/2022 13:28:05: [G_Auto 2] :  Store Value (Shared) for market: price = 1.51
+5/17/2022 13:28:05: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 80.18
+5/17/2022 13:28:05: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 81.02
+5/17/2022 13:28:05: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.32
+5/17/2022 13:28:05: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 161.2
+5/17/2022 13:28:05: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.82
+5/17/2022 13:28:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.92
+5/17/2022 13:28:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.52
+5/17/2022 13:28:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:28:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 13:28:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 13:29:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 13:31:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:31:37: [G_Auto 1] :  € 10.67 Lay bet placed on Sebastian Baez at 1.75. Fully matched at 1.74.  Ref: 10128          ( Fill or kill bet with 15 seconds delay.   )
+5/17/2022 13:31:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:31:38: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aPoints = point: 0; games: 5; sets: 0 
+5/17/2022 13:31:38: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aServing = serving:0
+5/17/2022 13:31:38: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: bPoints = point: 0; games: 4; sets: 0 
+5/17/2022 13:31:38: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: bServing = serving:2
+5/17/2022 13:31:38: [G_Auto 2] :  Store Value (Shared) for market: price = 1.74
+5/17/2022 13:31:38: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 80.18
+5/17/2022 13:31:38: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 91.69
+5/17/2022 13:31:38: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.67
+5/17/2022 13:31:38: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 171.87
+5/17/2022 13:31:38: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.76
+5/17/2022 13:31:38: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.34
+5/17/2022 13:31:38: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.73
+5/17/2022 13:31:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:32:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:32:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:32:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:33:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:33:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 13:33:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 13:35:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:36:04: [G_Auto 1] :  Placed closure bet with greening on Sebastian Baez by Backing 11.90 at 1.56
+5/17/2022 13:36:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:36:05: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aPoints = point: 0; games: 5; sets: 0 
+5/17/2022 13:36:05: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aServing = serving:1
+5/17/2022 13:36:05: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: bPoints = point: 0; games: 5; sets: 0 
+5/17/2022 13:36:05: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: bServing = serving:0
+5/17/2022 13:36:05: [G_Auto 2] :  Store Value (Shared) for market: price = 1.56
+5/17/2022 13:36:05: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 92.08
+5/17/2022 13:36:05: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 91.69
+5/17/2022 13:36:05: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.9
+5/17/2022 13:36:05: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 183.77
+5/17/2022 13:36:05: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.39
+5/17/2022 13:36:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.72
+5/17/2022 13:36:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.58
+5/17/2022 13:36:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:36:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 13:36:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 13:39:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:39:52: [G_Auto 1] :  € 10.13 Lay bet placed on Sebastian Baez at 1.79. Fully matched at 1.78.  Ref: 10138          ( Fill or kill bet with 15 seconds delay.   )
+5/17/2022 13:39:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:39:54: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aPoints = point: 0; games: 6; sets: 0 
+5/17/2022 13:39:54: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aServing = serving:0
+5/17/2022 13:39:54: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: bPoints = point: 0; games: 5; sets: 0 
+5/17/2022 13:39:54: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: bServing = serving:2
+5/17/2022 13:39:54: [G_Auto 2] :  Store Value (Shared) for market: price = 1.78
+5/17/2022 13:39:54: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 92.08
+5/17/2022 13:39:54: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 101.82
+5/17/2022 13:39:54: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.13
+5/17/2022 13:39:54: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 193.9
+5/17/2022 13:39:54: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.34
+5/17/2022 13:39:54: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.28
+5/17/2022 13:39:54: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.79
+5/17/2022 13:40:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:40:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:40:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:40:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:41:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:41:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 13:41:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 13:43:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:43:59: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 1.48
+5/17/2022 13:43:59: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 3.05
+5/17/2022 13:44:06: [G_Auto 1] :  € 16.67 Lay bet placed on Oscar Otte at 1.48. Fully matched at 1.47.  Ref: 10141          ( Fill or kill bet with 15 seconds delay.   )
+5/17/2022 13:44:06: [G_Auto 1] :  Placed closure bet with greening on Sebastian Baez by Backing 5.73 at 3.15
+5/17/2022 13:44:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:44:07: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aPoints = point: 0; games: 0; sets: 1 
+5/17/2022 13:44:07: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aServing = serving:1
+5/17/2022 13:44:07: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: bPoints = point: 0; games: 0; sets: 0 
+5/17/2022 13:44:07: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: bServing = serving:0
+5/17/2022 13:44:07: [G_Auto 2] :  Store Value (Shared) for market: price = 1.47
+5/17/2022 13:44:07: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 97.81
+5/17/2022 13:44:07: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 118.49
+5/17/2022 13:44:07: [G_Auto 2] :  Store Value (Shared) for market: stake = 16.67
+5/17/2022 13:44:07: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 216.3
+5/17/2022 13:44:07: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.82
+5/17/2022 13:44:07: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.47
+5/17/2022 13:44:07: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.15
+5/17/2022 13:44:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:44:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:44:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:45:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:45:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:45:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:45:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:46:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:46:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:46:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:46:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 13:47:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 13:51:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:51:25: [G_Auto 1] :  Placed closure bet with greening on Oscar Otte by Backing 17.14 at 1.43
+5/17/2022 13:51:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:51:26: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aPoints = point: 0; games: 1; sets: 1 
+5/17/2022 13:51:26: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aServing = serving:0
+5/17/2022 13:51:26: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: bPoints = point: 0; games: 0; sets: 0 
+5/17/2022 13:51:26: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: bServing = serving:2
+5/17/2022 13:51:26: [G_Auto 2] :  Store Value (Shared) for market: price = 1.43
+5/17/2022 13:51:26: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 114.95
+5/17/2022 13:51:26: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 118.49
+5/17/2022 13:51:26: [G_Auto 2] :  Store Value (Shared) for market: stake = 17.14
+5/17/2022 13:51:26: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 233.44
+5/17/2022 13:51:26: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.48
+5/17/2022 13:51:26: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.44
+5/17/2022 13:51:26: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.25
+5/17/2022 13:51:34: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aPoints = point: 0; games: 1; sets: 1 
+5/17/2022 13:51:34: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aServing = serving:0
+5/17/2022 13:51:34: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: bPoints = point: 0; games: 0; sets: 0 
+5/17/2022 13:51:34: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: bServing = serving:2
+5/17/2022 13:51:34: [G_Auto 2] :  Store Value (Shared) for market: price = 1.43
+5/17/2022 13:51:34: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 114.95
+5/17/2022 13:51:34: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 118.49
+5/17/2022 13:51:34: [G_Auto 2] :  Store Value (Shared) for market: stake = 17.14
+5/17/2022 13:51:34: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 233.44
+5/17/2022 13:51:34: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.48
+5/17/2022 13:51:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.45
+5/17/2022 13:51:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.25
+5/17/2022 13:51:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:51:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:52:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 13:52:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 13:53:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:53:41: [G_Auto 1] :  € 13.56 Lay bet placed on Oscar Otte at 1.59. Fully matched at 1.58.  Ref: 10152          ( Fill or kill bet with 15 seconds delay.   )
+5/17/2022 13:53:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:53:42: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aPoints = point: 0; games: 1; sets: 1 
+5/17/2022 13:53:42: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aServing = serving:1
+5/17/2022 13:53:42: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: bPoints = point: 0; games: 1; sets: 0 
+5/17/2022 13:53:42: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: bServing = serving:0
+5/17/2022 13:53:42: [G_Auto 2] :  Store Value (Shared) for market: price = 1.58
+5/17/2022 13:53:42: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 114.95
+5/17/2022 13:53:42: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 132.05
+5/17/2022 13:53:42: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.56
+5/17/2022 13:53:42: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 247
+5/17/2022 13:53:42: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.39
+5/17/2022 13:53:42: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.57
+5/17/2022 13:53:42: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.74
+5/17/2022 13:53:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:54:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 13:54:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 13:55:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:55:51: [G_Auto 1] :  Placed closure bet with greening on Oscar Otte by Backing 10.30 at 2.08
+5/17/2022 13:55:51: [G_Auto 1] :  € 8.70 Lay bet placed on Sebastian Baez at 1.92. Fully matched at 1.92.  Ref: 10156          ( Fill or kill bet with 15 seconds delay.   )
+5/17/2022 13:55:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:55:51: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aPoints = point: 0; games: 1; sets: 1 
+5/17/2022 13:55:51: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aServing = serving:0
+5/17/2022 13:55:51: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: bPoints = point: 0; games: 2; sets: 0 
+5/17/2022 13:55:51: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: bServing = serving:2
+5/17/2022 13:55:51: [G_Auto 2] :  Store Value (Shared) for market: price = 2.08
+5/17/2022 13:55:51: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 125.25
+5/17/2022 13:55:51: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 140.75
+5/17/2022 13:55:51: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.3
+5/17/2022 13:55:51: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 266
+5/17/2022 13:55:51: [G_Auto 2] :  Store Value (Shared) for market: pl = 6.5
+5/17/2022 13:55:51: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.12
+5/17/2022 13:55:51: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.89
+5/17/2022 13:55:59: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aPoints = point: 0; games: 1; sets: 1 
+5/17/2022 13:55:59: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aServing = serving:0
+5/17/2022 13:55:59: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: bPoints = point: 0; games: 2; sets: 0 
+5/17/2022 13:55:59: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: bServing = serving:2
+5/17/2022 13:55:59: [G_Auto 2] :  Store Value (Shared) for market: price = 2.08
+5/17/2022 13:55:59: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 125.25
+5/17/2022 13:55:59: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 140.75
+5/17/2022 13:55:59: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.3
+5/17/2022 13:55:59: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 266
+5/17/2022 13:55:59: [G_Auto 2] :  Store Value (Shared) for market: pl = 6.45
+5/17/2022 13:55:59: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.12
+5/17/2022 13:55:59: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.87
+5/17/2022 13:56:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:56:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:56:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:56:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:57:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:57:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:57:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 13:57:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 13:58:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:59:05: [G_Auto 1] :  Placed closure bet with greening on Sebastian Baez by Backing 9.99 at 1.67
+5/17/2022 13:59:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:59:06: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aPoints = point: 0; games: 1; sets: 1 
+5/17/2022 13:59:06: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aServing = serving:1
+5/17/2022 13:59:06: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: bPoints = point: 0; games: 3; sets: 0 
+5/17/2022 13:59:06: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: bServing = serving:0
+5/17/2022 13:59:06: [G_Auto 2] :  Store Value (Shared) for market: price = 1.67
+5/17/2022 13:59:06: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 135.24
+5/17/2022 13:59:06: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 140.75
+5/17/2022 13:59:06: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.99
+5/17/2022 13:59:06: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 275.99
+5/17/2022 13:59:06: [G_Auto 2] :  Store Value (Shared) for market: pl = 5.4
+5/17/2022 13:59:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.46
+5/17/2022 13:59:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.68
+5/17/2022 13:59:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:59:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 13:59:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 14:00:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 14:01:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:01:52: [G_Auto 1] :  € 9.88 Lay bet placed on Sebastian Baez at 1.81. Fully matched at 1.8.  Ref: 10165          ( Fill or kill bet with 15 seconds delay.   )
+5/17/2022 14:01:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:01:53: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aPoints = point: 0; games: 2; sets: 1 
+5/17/2022 14:01:53: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aServing = serving:0
+5/17/2022 14:01:53: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: bPoints = point: 0; games: 3; sets: 0 
+5/17/2022 14:01:53: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: bServing = serving:2
+5/17/2022 14:01:53: [G_Auto 2] :  Store Value (Shared) for market: price = 1.8
+5/17/2022 14:01:53: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 135.24
+5/17/2022 14:01:53: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 150.63
+5/17/2022 14:01:53: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.88
+5/17/2022 14:01:53: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 285.87
+5/17/2022 14:01:53: [G_Auto 2] :  Store Value (Shared) for market: pl = 5.35
+5/17/2022 14:01:53: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.24
+5/17/2022 14:01:53: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.79
+5/17/2022 14:02:01: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aPoints = point: 0; games: 2; sets: 1 
+5/17/2022 14:02:01: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aServing = serving:0
+5/17/2022 14:02:01: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: bPoints = point: 0; games: 3; sets: 0 
+5/17/2022 14:02:01: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: bServing = serving:2
+5/17/2022 14:02:01: [G_Auto 2] :  Store Value (Shared) for market: price = 1.8
+5/17/2022 14:02:01: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 135.24
+5/17/2022 14:02:01: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 150.63
+5/17/2022 14:02:01: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.88
+5/17/2022 14:02:01: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 285.87
+5/17/2022 14:02:01: [G_Auto 2] :  Store Value (Shared) for market: pl = 5.29
+5/17/2022 14:02:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.26
+5/17/2022 14:02:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.79
+5/17/2022 14:02:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:02:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:02:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:02:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:03:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:03:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:03:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 14:03:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 14:05:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:05:39: [G_Auto 1] :  Placed closure bet with greening on Sebastian Baez by Backing 10.98 at 1.62
+5/17/2022 14:05:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:05:39: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aPoints = point: 0; games: 2; sets: 1 
+5/17/2022 14:05:39: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aServing = serving:1
+5/17/2022 14:05:39: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: bPoints = point: 0; games: 4; sets: 0 
+5/17/2022 14:05:39: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: bServing = serving:0
+5/17/2022 14:05:39: [G_Auto 2] :  Store Value (Shared) for market: price = 1.62
+5/17/2022 14:05:39: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 146.22
+5/17/2022 14:05:39: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 150.63
+5/17/2022 14:05:39: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.98
+5/17/2022 14:05:39: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 296.85
+5/17/2022 14:05:39: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.32
+5/17/2022 14:05:39: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.56
+5/17/2022 14:05:39: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.64
+5/17/2022 14:05:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:06:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 14:06:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 14:06:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 14:11:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:11:30: [G_Auto 1] :  € 10.96 Lay bet placed on Sebastian Baez at 1.73. Fully matched at 1.72.  Ref: 10180          ( Fill or kill bet with 15 seconds delay.   )
+5/17/2022 14:11:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:11:31: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aPoints = point: 0; games: 3; sets: 1 
+5/17/2022 14:11:31: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aServing = serving:0
+5/17/2022 14:11:31: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: bPoints = point: 0; games: 4; sets: 0 
+5/17/2022 14:11:31: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: bServing = serving:2
+5/17/2022 14:11:31: [G_Auto 2] :  Store Value (Shared) for market: price = 1.72
+5/17/2022 14:11:31: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 146.22
+5/17/2022 14:11:31: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 161.59
+5/17/2022 14:11:31: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.96
+5/17/2022 14:11:31: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 307.81
+5/17/2022 14:11:31: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.26
+5/17/2022 14:11:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.42
+5/17/2022 14:11:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.72
+5/17/2022 14:11:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:12:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:12:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:12:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:12:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:13:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:13:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 14:15:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:16:05: [G_Auto 1] :  € 12.90 Lay bet placed on Oscar Otte at 1.62. Fully matched at 1.61.  Ref: 10186          ( Fill or kill bet with 15 seconds delay.   )
+5/17/2022 14:16:05: [G_Auto 1] :  Placed closure bet with greening on Sebastian Baez by Backing 7.20 at 2.62
+5/17/2022 14:16:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:16:06: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aPoints = point: 0; games: 4; sets: 1 
+5/17/2022 14:16:06: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aServing = serving:1
+5/17/2022 14:16:06: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: bPoints = point: 0; games: 4; sets: 0 
+5/17/2022 14:16:06: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: bServing = serving:0
+5/17/2022 14:16:06: [G_Auto 2] :  Store Value (Shared) for market: price = 2.62
+5/17/2022 14:16:06: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 153.42
+5/17/2022 14:16:06: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 174.49
+5/17/2022 14:16:06: [G_Auto 2] :  Store Value (Shared) for market: stake = 7.2
+5/17/2022 14:16:06: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 327.91
+5/17/2022 14:16:06: [G_Auto 2] :  Store Value (Shared) for market: pl = 7.93
+5/17/2022 14:16:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.61
+5/17/2022 14:16:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.62
+5/17/2022 14:16:13: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aPoints = point: 0; games: 4; sets: 1 
+5/17/2022 14:16:13: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aServing = serving:1
+5/17/2022 14:16:13: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: bPoints = point: 0; games: 4; sets: 0 
+5/17/2022 14:16:13: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: bServing = serving:0
+5/17/2022 14:16:13: [G_Auto 2] :  Store Value (Shared) for market: price = 2.62
+5/17/2022 14:16:13: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 153.42
+5/17/2022 14:16:13: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 174.49
+5/17/2022 14:16:13: [G_Auto 2] :  Store Value (Shared) for market: stake = 7.2
+5/17/2022 14:16:13: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 327.91
+5/17/2022 14:16:13: [G_Auto 2] :  Store Value (Shared) for market: pl = 7.85
+5/17/2022 14:16:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.6
+5/17/2022 14:16:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.66
+5/17/2022 14:16:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:16:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:16:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 14:17:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 14:17:16: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 14:19:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:19:17: [G_Auto 1] :  € 11.76 Lay bet placed on Sebastian Baez at 1.68. Fully matched at 1.68.  Ref: 10190          ( Fill or kill bet with 15 seconds delay.   )
+5/17/2022 14:19:17: [G_Auto 1] :  Placed closure bet with greening on Oscar Otte by Backing 8.44 at 2.46
+5/17/2022 14:19:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:19:18: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aPoints = point: 0; games: 4; sets: 1 
+5/17/2022 14:19:18: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aServing = serving:0
+5/17/2022 14:19:18: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: bPoints = point: 0; games: 5; sets: 0 
+5/17/2022 14:19:18: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: bServing = serving:2
+5/17/2022 14:19:18: [G_Auto 2] :  Store Value (Shared) for market: price = 2.46
+5/17/2022 14:19:18: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 161.86
+5/17/2022 14:19:18: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 186.25
+5/17/2022 14:19:18: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.44
+5/17/2022 14:19:18: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 348.11
+5/17/2022 14:19:18: [G_Auto 2] :  Store Value (Shared) for market: pl = 12.31
+5/17/2022 14:19:18: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.5
+5/17/2022 14:19:18: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.67
+5/17/2022 14:19:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:19:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:20:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:20:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:20:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:20:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:21:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 14:21:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 14:22:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:22:52: [G_Auto 2] :  Store Value (Shared) for market: aSecondSetPrice = 2.9
+5/17/2022 14:22:52: [G_Auto 2] :  Store Value (Shared) for market: bSecondSetPrice = 1.53
+5/17/2022 14:22:59: [G_Auto 1] :  Placed closure bet with greening on Sebastian Baez by Backing 12.91 at 1.53
+5/17/2022 14:22:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:22:59: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aPoints = point: 0; games: 0; sets: 1 
+5/17/2022 14:22:59: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aServing = serving:1
+5/17/2022 14:22:59: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: bPoints = point: 0; games: 0; sets: 1 
+5/17/2022 14:22:59: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: bServing = serving:0
+5/17/2022 14:22:59: [G_Auto 2] :  Store Value (Shared) for market: price = 1.53
+5/17/2022 14:22:59: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 174.77
+5/17/2022 14:22:59: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 186.25
+5/17/2022 14:22:59: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.91
+5/17/2022 14:22:59: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 361.02
+5/17/2022 14:22:59: [G_Auto 2] :  Store Value (Shared) for market: pl = 11.25
+5/17/2022 14:22:59: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.82
+5/17/2022 14:22:59: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.55
+5/17/2022 14:23:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:23:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:23:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:24:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:24:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:24:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:24:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:25:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:25:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:25:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:25:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 14:26:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 14:27:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:28:05: [G_Auto 1] :  € 9.88 Lay bet placed on Sebastian Baez at 1.81. Fully matched at 1.8.  Ref: 10199          ( Fill or kill bet with 15 seconds delay.   )
+5/17/2022 14:28:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:28:06: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aPoints = point: 0; games: 1; sets: 1 
+5/17/2022 14:28:06: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aServing = serving:0
+5/17/2022 14:28:06: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: bPoints = point: 0; games: 0; sets: 1 
+5/17/2022 14:28:06: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: bServing = serving:2
+5/17/2022 14:28:06: [G_Auto 2] :  Store Value (Shared) for market: price = 1.8
+5/17/2022 14:28:06: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 174.77
+5/17/2022 14:28:06: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 196.13
+5/17/2022 14:28:06: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.88
+5/17/2022 14:28:06: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 370.9
+5/17/2022 14:28:06: [G_Auto 2] :  Store Value (Shared) for market: pl = 11.2
+5/17/2022 14:28:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.28
+5/17/2022 14:28:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.79
+5/17/2022 14:28:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:28:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:28:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 14:28:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 14:30:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:30:48: [G_Auto 1] :  Placed closure bet with greening on Sebastian Baez by Backing 11.25 at 1.58
+5/17/2022 14:30:48: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aPoints = point: 0; games: 1; sets: 1 
+5/17/2022 14:30:48: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aServing = serving:1
+5/17/2022 14:30:48: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: bPoints = point: 0; games: 1; sets: 1 
+5/17/2022 14:30:48: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: bServing = serving:0
+5/17/2022 14:30:48: [G_Auto 2] :  Store Value (Shared) for market: price = 1.58
+5/17/2022 14:30:48: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 186.02
+5/17/2022 14:30:48: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 196.13
+5/17/2022 14:30:48: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.25
+5/17/2022 14:30:48: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 382.15
+5/17/2022 14:30:48: [G_Auto 2] :  Store Value (Shared) for market: pl = 9.91
+5/17/2022 14:30:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.7
+5/17/2022 14:30:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.59
+5/17/2022 14:30:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:30:56: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aPoints = point: 0; games: 1; sets: 1 
+5/17/2022 14:30:56: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aServing = serving:1
+5/17/2022 14:30:56: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: bPoints = point: 0; games: 1; sets: 1 
+5/17/2022 14:30:56: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: bServing = serving:0
+5/17/2022 14:30:56: [G_Auto 2] :  Store Value (Shared) for market: price = 1.58
+5/17/2022 14:30:56: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 186.02
+5/17/2022 14:30:56: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 196.13
+5/17/2022 14:30:56: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.25
+5/17/2022 14:30:56: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 382.15
+5/17/2022 14:30:56: [G_Auto 2] :  Store Value (Shared) for market: pl = 9.91
+5/17/2022 14:30:56: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.7
+5/17/2022 14:30:56: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.59
+5/17/2022 14:31:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 14:31:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 14:34:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:34:59: [G_Auto 1] :  € 10.39 Lay bet placed on Sebastian Baez at 1.77. Fully matched at 1.76.  Ref: 10209          ( Fill or kill bet with 15 seconds delay.   )
+5/17/2022 14:34:59: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aPoints = point: 0; games: 2; sets: 1 
+5/17/2022 14:34:59: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aServing = serving:0
+5/17/2022 14:34:59: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: bPoints = point: 0; games: 1; sets: 1 
+5/17/2022 14:34:59: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: bServing = serving:2
+5/17/2022 14:34:59: [G_Auto 2] :  Store Value (Shared) for market: price = 1.76
+5/17/2022 14:34:59: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 186.02
+5/17/2022 14:34:59: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 206.52
+5/17/2022 14:34:59: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.39
+5/17/2022 14:34:59: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 392.54
+5/17/2022 14:34:59: [G_Auto 2] :  Store Value (Shared) for market: pl = 9.85
+5/17/2022 14:34:59: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.3
+5/17/2022 14:34:59: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.76
+5/17/2022 14:35:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:35:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:35:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:35:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:36:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:36:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:36:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 14:36:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 14:38:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:38:29: [G_Auto 1] :  Placed closure bet with greening on Sebastian Baez by Backing 11.72 at 1.56
+5/17/2022 14:38:30: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aPoints = point: 0; games: 2; sets: 1 
+5/17/2022 14:38:30: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aServing = serving:1
+5/17/2022 14:38:30: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: bPoints = point: 0; games: 2; sets: 1 
+5/17/2022 14:38:30: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: bServing = serving:0
+5/17/2022 14:38:30: [G_Auto 2] :  Store Value (Shared) for market: price = 1.56
+5/17/2022 14:38:30: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 197.74
+5/17/2022 14:38:30: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 206.52
+5/17/2022 14:38:30: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.72
+5/17/2022 14:38:30: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 404.26
+5/17/2022 14:38:30: [G_Auto 2] :  Store Value (Shared) for market: pl = 8.6
+5/17/2022 14:38:30: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.74
+5/17/2022 14:38:30: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.57
+5/17/2022 14:38:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:38:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:39:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 14:41:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:42:12: [G_Auto 1] :  € 44.44 Lay bet placed on Sebastian Baez at 1.18. Fully matched at 1.17.  Ref: 10219          ( Fill or kill bet with 15 seconds delay.   )
+5/17/2022 14:42:13: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aPoints = point: 0; games: 2; sets: 1 
+5/17/2022 14:42:13: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aServing = serving:0
+5/17/2022 14:42:13: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: bPoints = point: 0; games: 3; sets: 1 
+5/17/2022 14:42:13: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: bServing = serving:2
+5/17/2022 14:42:13: [G_Auto 2] :  Store Value (Shared) for market: price = 1.17
+5/17/2022 14:42:13: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 197.74
+5/17/2022 14:42:13: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 250.96
+5/17/2022 14:42:13: [G_Auto 2] :  Store Value (Shared) for market: stake = 44.44
+5/17/2022 14:42:13: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 448.7
+5/17/2022 14:42:13: [G_Auto 2] :  Store Value (Shared) for market: pl = 8.22
+5/17/2022 14:42:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 6.8
+5/17/2022 14:42:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.17
+5/17/2022 14:42:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:42:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:42:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:43:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:43:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:43:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:43:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 14:44:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 14:45:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:45:44: [G_Auto 1] :  Placed closure bet with greening on Sebastian Baez by Backing 48.15 at 1.08
+5/17/2022 14:45:45: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aPoints = point: 0; games: 2; sets: 1 
+5/17/2022 14:45:45: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aServing = serving:1
+5/17/2022 14:45:45: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: bPoints = point: 0; games: 4; sets: 1 
+5/17/2022 14:45:45: [G_Auto 2] :  Store Text Value (Shared) for Sebastian Baez: bServing = serving:0
+5/17/2022 14:45:45: [G_Auto 2] :  Store Value (Shared) for market: price = 1.08
+5/17/2022 14:45:45: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 245.89
+5/17/2022 14:45:45: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 250.96
+5/17/2022 14:45:45: [G_Auto 2] :  Store Value (Shared) for market: stake = 48.15
+5/17/2022 14:45:45: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 496.85
+5/17/2022 14:45:45: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.97
+5/17/2022 14:45:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 12
+5/17/2022 14:45:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.08
+5/17/2022 14:45:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:46:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:46:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 14:46:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 14:49:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:50:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:50:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:50:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:51:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:51:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:51:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:51:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 14:52:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 14:52:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 14:54:58:  Guardian has detected that the market is suspended

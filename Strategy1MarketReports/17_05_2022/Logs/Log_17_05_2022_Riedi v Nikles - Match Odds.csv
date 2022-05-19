@@ -1,0 +1,903 @@
+5/17/2022 10:00:45: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: info = marketName: Riedi v Nikles - Match Odds; runnerA: Leandro Riedi; runnerB: Johan Nikles 
+5/17/2022 10:00:45: [G_Auto 2] :  Store Value (Shared) for market: aId = 28081306
+5/17/2022 10:00:45: [G_Auto 2] :  Store Value (Shared) for market: bId = 9629446
+5/17/2022 15:32:15:  Guardian has detected that the market is in-play
+5/17/2022 15:32:15:  Guardian has detected that the market is suspended
+5/17/2022 15:32:18: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.75; bBsp: 2.32; volume: 43703.55 
+5/17/2022 15:32:18: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.75; bBsp: 2.32; volume: 43703.55 
+5/17/2022 15:32:18:  Guardian has detected that the market is now unsuspended
+5/17/2022 15:32:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 15:32:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 15:35:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 15:35:45: [G_Auto 1] :  € 10.13 Lay bet placed on Leandro Riedi at 1.79. Entirely unmatched when it initially reached the market.   Ref: 10260          ( Fill or kill bet with 15 seconds delay.   )
+5/17/2022 15:35:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 15:35:51: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aPoints = point: 0; games: 0; sets: 0 
+5/17/2022 15:35:51: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aServing = serving:1
+5/17/2022 15:35:51: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bPoints = point: 0; games: 1; sets: 0 
+5/17/2022 15:35:51: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bServing = serving:0
+5/17/2022 15:35:51: [G_Auto 2] :  Store Value (Shared) for market: price = 1.79
+5/17/2022 15:35:51: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+5/17/2022 15:35:51: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 0.865
+5/17/2022 15:35:51: [G_Auto 2] :  Store Value (Shared) for market: stake = 0.865
+5/17/2022 15:35:51: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 0.865
+5/17/2022 15:35:51: [G_Auto 2] :  Store Value (Shared) for market: pl = 0
+5/17/2022 15:35:51: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.83
+5/17/2022 15:35:51: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.24
+5/17/2022 15:36:00: [G_Auto 1] :  € 0.864999999999895 of unmatched bet (Ref:10260) was filled before remainder was killed.
+5/17/2022 15:36:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 15:36:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 15:36:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 15:37:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 15:37:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 15:37:52: [G_Auto 1] :  Placed closure bet with greening on Leandro Riedi by Backing 0.94 at 1.64
+5/17/2022 15:37:55: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aPoints = point: 0; games: 1; sets: 0 
+5/17/2022 15:37:55: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aServing = serving:0
+5/17/2022 15:37:55: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bPoints = point: 0; games: 1; sets: 0 
+5/17/2022 15:37:55: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bServing = serving:2
+5/17/2022 15:37:55: [G_Auto 2] :  Store Value (Shared) for market: price = 1.64
+5/17/2022 15:37:55: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0.94
+5/17/2022 15:37:55: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 0.865
+5/17/2022 15:37:55: [G_Auto 2] :  Store Value (Shared) for market: stake = 0.94
+5/17/2022 15:37:55: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 1.805
+5/17/2022 15:37:55: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.08
+5/17/2022 15:37:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.65
+5/17/2022 15:37:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.58
+5/17/2022 15:38:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 15:38:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 15:38:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 15:40:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 15:40:23: [G_Auto 1] :  € 9.76 Lay bet placed on Leandro Riedi at 1.82. Fully matched at 1.82.  Ref: 10268          ( Fill or kill bet with 15 seconds delay.   )
+5/17/2022 15:40:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 15:40:26: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aPoints = point: 0; games: 1; sets: 0 
+5/17/2022 15:40:26: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aServing = serving:1
+5/17/2022 15:40:26: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bPoints = point: 0; games: 2; sets: 0 
+5/17/2022 15:40:26: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bServing = serving:0
+5/17/2022 15:40:26: [G_Auto 2] :  Store Value (Shared) for market: price = 1.82
+5/17/2022 15:40:26: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0.94
+5/17/2022 15:40:26: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 10.625
+5/17/2022 15:40:26: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.76
+5/17/2022 15:40:26: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 11.565
+5/17/2022 15:40:26: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.03
+5/17/2022 15:40:26: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.83
+5/17/2022 15:40:26: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.2
+5/17/2022 15:40:31: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aPoints = point: 0; games: 1; sets: 0 
+5/17/2022 15:40:31: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aServing = serving:1
+5/17/2022 15:40:31: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bPoints = point: 0; games: 2; sets: 0 
+5/17/2022 15:40:31: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bServing = serving:0
+5/17/2022 15:40:31: [G_Auto 2] :  Store Value (Shared) for market: price = 1.82
+5/17/2022 15:40:31: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0.94
+5/17/2022 15:40:31: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 10.625
+5/17/2022 15:40:31: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.76
+5/17/2022 15:40:31: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 11.565
+5/17/2022 15:40:31: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.13
+5/17/2022 15:40:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.82
+5/17/2022 15:40:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.2
+5/17/2022 15:40:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 15:41:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 15:41:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 15:41:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 15:41:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 15:42:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 15:42:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 15:44:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 15:44:54: [G_Auto 1] :  Placed closure bet with greening on Leandro Riedi by Backing 7.28 at 2.44
+5/17/2022 15:44:54: [G_Auto 1] :  € 11.59 Lay bet placed on Johan Nikles at 1.69. Entirely unmatched when it initially reached the market.   Ref: 10272          ( Fill or kill bet with 15 seconds delay.   )
+5/17/2022 15:44:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 15:44:57: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aPoints = point: 0; games: 1; sets: 0 
+5/17/2022 15:44:57: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aServing = serving:0
+5/17/2022 15:44:57: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bPoints = point: 0; games: 3; sets: 0 
+5/17/2022 15:44:57: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bServing = serving:2
+5/17/2022 15:44:57: [G_Auto 2] :  Store Value (Shared) for market: price = 2.44
+5/17/2022 15:44:57: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 8.22
+5/17/2022 15:44:57: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 10.625
+5/17/2022 15:44:57: [G_Auto 2] :  Store Value (Shared) for market: stake = 7.28
+5/17/2022 15:44:57: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 18.845
+5/17/2022 15:44:57: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.35
+5/17/2022 15:44:57: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.44
+5/17/2022 15:44:57: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.68
+5/17/2022 15:45:09: [G_Auto 1] :  € 11.59 unmatched bet (Ref:10272) was killed.
+5/17/2022 15:45:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 15:45:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 15:47:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 15:47:38: [G_Auto 1] :  € 9.20 Lay bet placed on Leandro Riedi at 1.87. Fully matched at 1.87.  Ref: 10275          ( Fill or kill bet with 15 seconds delay.   )
+5/17/2022 15:47:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 15:47:41: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aPoints = point: 0; games: 2; sets: 0 
+5/17/2022 15:47:41: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aServing = serving:1
+5/17/2022 15:47:41: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bPoints = point: 0; games: 3; sets: 0 
+5/17/2022 15:47:41: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bServing = serving:0
+5/17/2022 15:47:41: [G_Auto 2] :  Store Value (Shared) for market: price = 1.87
+5/17/2022 15:47:41: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 8.22
+5/17/2022 15:47:41: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 19.825
+5/17/2022 15:47:41: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.2
+5/17/2022 15:47:41: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 28.045
+5/17/2022 15:47:41: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.3
+5/17/2022 15:47:41: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.88
+5/17/2022 15:47:41: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.14
+5/17/2022 15:47:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 15:48:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 15:48:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 15:48:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 15:49:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 15:49:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 15:49:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 15:49:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 15:49:55: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 15:53:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 15:53:43: [G_Auto 1] :  Placed closure bet with greening on Leandro Riedi by Backing 10.18 at 1.69
+5/17/2022 15:53:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 15:53:46: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aPoints = point: 0; games: 3; sets: 0 
+5/17/2022 15:53:46: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aServing = serving:0
+5/17/2022 15:53:46: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bPoints = point: 0; games: 3; sets: 0 
+5/17/2022 15:53:46: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bServing = serving:2
+5/17/2022 15:53:46: [G_Auto 2] :  Store Value (Shared) for market: price = 1.7
+5/17/2022 15:53:46: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 18.4
+5/17/2022 15:53:46: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 19.825
+5/17/2022 15:53:46: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.18
+5/17/2022 15:53:46: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 38.225
+5/17/2022 15:53:46: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.45
+5/17/2022 15:53:46: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.7
+5/17/2022 15:53:46: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.38
+5/17/2022 15:53:51: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aPoints = point: 0; games: 3; sets: 0 
+5/17/2022 15:53:51: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aServing = serving:0
+5/17/2022 15:53:51: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bPoints = point: 0; games: 3; sets: 0 
+5/17/2022 15:53:51: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bServing = serving:2
+5/17/2022 15:53:51: [G_Auto 2] :  Store Value (Shared) for market: price = 1.7
+5/17/2022 15:53:51: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 18.4
+5/17/2022 15:53:51: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 19.825
+5/17/2022 15:53:51: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.18
+5/17/2022 15:53:51: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 38.225
+5/17/2022 15:53:51: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.45
+5/17/2022 15:53:51: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.7
+5/17/2022 15:53:51: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.38
+5/17/2022 15:54:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 15:54:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 15:54:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 15:56:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 15:57:03: [G_Auto 1] :  € 8.99 Lay bet placed on Leandro Riedi at 1.89. Fully matched at 1.89.  Ref: 10280          ( Fill or kill bet with 15 seconds delay.   )
+5/17/2022 15:57:05: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aPoints = point: 0; games: 3; sets: 0 
+5/17/2022 15:57:05: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aServing = serving:1
+5/17/2022 15:57:05: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bPoints = point: 0; games: 4; sets: 0 
+5/17/2022 15:57:05: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bServing = serving:0
+5/17/2022 15:57:05: [G_Auto 2] :  Store Value (Shared) for market: price = 1.89
+5/17/2022 15:57:05: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 18.4
+5/17/2022 15:57:05: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 28.815
+5/17/2022 15:57:05: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.99
+5/17/2022 15:57:05: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 47.215
+5/17/2022 15:57:05: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.35
+5/17/2022 15:57:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.87
+5/17/2022 15:57:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.18
+5/17/2022 15:57:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 15:57:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 15:57:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 15:57:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 15:58:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 15:58:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 15:58:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 16:01:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:01:48: [G_Auto 1] :  Placed closure bet with greening on Leandro Riedi by Backing 10.00 at 1.69
+5/17/2022 16:01:50: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aPoints = point: 0; games: 4; sets: 0 
+5/17/2022 16:01:50: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aServing = serving:0
+5/17/2022 16:01:50: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bPoints = point: 0; games: 4; sets: 0 
+5/17/2022 16:01:50: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bServing = serving:2
+5/17/2022 16:01:50: [G_Auto 2] :  Store Value (Shared) for market: price = 1.69
+5/17/2022 16:01:50: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 28.4
+5/17/2022 16:01:50: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 28.815
+5/17/2022 16:01:50: [G_Auto 2] :  Store Value (Shared) for market: stake = 10
+5/17/2022 16:01:50: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 57.215
+5/17/2022 16:01:50: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.41
+5/17/2022 16:01:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.71
+5/17/2022 16:01:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.38
+5/17/2022 16:01:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:01:55: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aPoints = point: 0; games: 4; sets: 0 
+5/17/2022 16:01:55: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aServing = serving:0
+5/17/2022 16:01:55: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bPoints = point: 0; games: 4; sets: 0 
+5/17/2022 16:01:55: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bServing = serving:2
+5/17/2022 16:01:55: [G_Auto 2] :  Store Value (Shared) for market: price = 1.69
+5/17/2022 16:01:55: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 28.4
+5/17/2022 16:01:55: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 28.815
+5/17/2022 16:01:55: [G_Auto 2] :  Store Value (Shared) for market: stake = 10
+5/17/2022 16:01:55: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 57.215
+5/17/2022 16:01:55: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.41
+5/17/2022 16:01:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.71
+5/17/2022 16:01:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.4
+5/17/2022 16:02:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:02:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 16:02:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 16:02:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 16:05:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:05:18: [G_Auto 1] :  € 8.51 Lay bet placed on Leandro Riedi at 1.94. Entirely unmatched when it initially reached the market.   Ref: 10283          ( Fill or kill bet with 15 seconds delay.   )
+5/17/2022 16:05:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:05:31: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aPoints = point: 0; games: 4; sets: 0 
+5/17/2022 16:05:31: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aServing = serving:1
+5/17/2022 16:05:31: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bPoints = point: 0; games: 5; sets: 0 
+5/17/2022 16:05:31: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bServing = serving:0
+5/17/2022 16:05:31: [G_Auto 2] :  Store Value (Shared) for market: price = 1.94
+5/17/2022 16:05:31: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 28.4
+5/17/2022 16:05:31: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 29.025
+5/17/2022 16:05:31: [G_Auto 2] :  Store Value (Shared) for market: stake = 0.21
+5/17/2022 16:05:31: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 57.425
+5/17/2022 16:05:31: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.41
+5/17/2022 16:05:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.94
+5/17/2022 16:05:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.08
+5/17/2022 16:05:33: [G_Auto 1] :  € 8.51 of unmatched bet (Ref:10283) was filled before remainder was killed.
+5/17/2022 16:05:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:05:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:06:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:06:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:06:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:07:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:07:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 16:07:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 16:09:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:09:24: [G_Auto 1] :  Placed closure bet with greening on Leandro Riedi by Backing 9.88 at 1.67
+5/17/2022 16:09:25: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aPoints = point: 0; games: 5; sets: 0 
+5/17/2022 16:09:25: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aServing = serving:0
+5/17/2022 16:09:25: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bPoints = point: 0; games: 5; sets: 0 
+5/17/2022 16:09:25: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bServing = serving:2
+5/17/2022 16:09:25: [G_Auto 2] :  Store Value (Shared) for market: price = 1.67
+5/17/2022 16:09:25: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 38.28
+5/17/2022 16:09:25: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 37.325
+5/17/2022 16:09:25: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.88
+5/17/2022 16:09:25: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 75.605
+5/17/2022 16:09:25: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.96
+5/17/2022 16:09:25: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.68
+5/17/2022 16:09:25: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.46
+5/17/2022 16:09:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:09:32: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aPoints = point: 0; games: 5; sets: 0 
+5/17/2022 16:09:32: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aServing = serving:0
+5/17/2022 16:09:32: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bPoints = point: 0; games: 5; sets: 0 
+5/17/2022 16:09:32: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bServing = serving:2
+5/17/2022 16:09:32: [G_Auto 2] :  Store Value (Shared) for market: price = 1.67
+5/17/2022 16:09:32: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 38.28
+5/17/2022 16:09:32: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 37.325
+5/17/2022 16:09:32: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.88
+5/17/2022 16:09:32: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 75.605
+5/17/2022 16:09:32: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.96
+5/17/2022 16:09:32: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.68
+5/17/2022 16:09:32: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.46
+5/17/2022 16:09:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:09:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 16:10:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 16:11:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:11:53: [G_Auto 1] :  € 27.59 Lay bet placed on Leandro Riedi at 1.29. Fully matched at 1.29.  Ref: 10287          ( Fill or kill bet with 15 seconds delay.   )
+5/17/2022 16:11:55: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aPoints = point: 0; games: 6; sets: 0 
+5/17/2022 16:11:55: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aServing = serving:1
+5/17/2022 16:11:55: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bPoints = point: 0; games: 5; sets: 0 
+5/17/2022 16:11:55: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bServing = serving:0
+5/17/2022 16:11:55: [G_Auto 2] :  Store Value (Shared) for market: price = 1.29
+5/17/2022 16:11:55: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 38.28
+5/17/2022 16:11:55: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 64.915
+5/17/2022 16:11:55: [G_Auto 2] :  Store Value (Shared) for market: stake = 27.59
+5/17/2022 16:11:55: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 103.195
+5/17/2022 16:11:55: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.17
+5/17/2022 16:11:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.28
+5/17/2022 16:11:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.5
+5/17/2022 16:11:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:12:01: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aPoints = point: 0; games: 6; sets: 0 
+5/17/2022 16:12:01: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aServing = serving:1
+5/17/2022 16:12:01: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bPoints = point: 0; games: 5; sets: 0 
+5/17/2022 16:12:01: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bServing = serving:0
+5/17/2022 16:12:01: [G_Auto 2] :  Store Value (Shared) for market: price = 1.29
+5/17/2022 16:12:01: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 38.28
+5/17/2022 16:12:01: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 64.915
+5/17/2022 16:12:01: [G_Auto 2] :  Store Value (Shared) for market: stake = 27.59
+5/17/2022 16:12:01: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 103.195
+5/17/2022 16:12:01: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.39
+5/17/2022 16:12:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.27
+5/17/2022 16:12:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.5
+5/17/2022 16:12:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:12:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:12:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:13:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:13:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:13:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 16:15:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:16:06: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 1.2
+5/17/2022 16:16:06: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 4.3
+5/17/2022 16:16:11: [G_Auto 1] :  Placed closure bet with greening on Leandro Riedi by Backing 29.66 at 1.2
+5/17/2022 16:16:13: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aPoints = point: 0; games: 0; sets: 1 
+5/17/2022 16:16:13: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aServing = serving:0
+5/17/2022 16:16:13: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bPoints = point: 0; games: 0; sets: 0 
+5/17/2022 16:16:13: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bServing = serving:2
+5/17/2022 16:16:13: [G_Auto 2] :  Store Value (Shared) for market: price = 1.2
+5/17/2022 16:16:13: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 67.94
+5/17/2022 16:16:13: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 64.915
+5/17/2022 16:16:13: [G_Auto 2] :  Store Value (Shared) for market: stake = 29.66
+5/17/2022 16:16:13: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 132.855
+5/17/2022 16:16:13: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.03
+5/17/2022 16:16:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.21
+5/17/2022 16:16:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.7
+5/17/2022 16:16:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:16:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:16:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:17:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:17:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:17:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:17:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:18:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:18:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:18:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:18:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:19:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:19:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:19:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:19:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 16:20:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 16:21:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:21:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:22:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:22:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:22:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 16:22:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 16:25:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:25:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:25:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:25:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 16:25:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 16:26:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 16:26:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 16:30:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:30:22: [G_Auto 1] :  € 27.59 Lay bet placed on Leandro Riedi at 1.29. Fully matched at 1.28.  Ref: 10293          ( Fill or kill bet with 15 seconds delay.   )
+5/17/2022 16:30:23: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aPoints = point: 0; games: 1; sets: 1 
+5/17/2022 16:30:23: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aServing = serving:1
+5/17/2022 16:30:23: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bPoints = point: 0; games: 2; sets: 0 
+5/17/2022 16:30:23: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bServing = serving:0
+5/17/2022 16:30:23: [G_Auto 2] :  Store Value (Shared) for market: price = 1.28
+5/17/2022 16:30:23: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 67.94
+5/17/2022 16:30:23: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 92.505
+5/17/2022 16:30:23: [G_Auto 2] :  Store Value (Shared) for market: stake = 27.59
+5/17/2022 16:30:23: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 160.445
+5/17/2022 16:30:23: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.25
+5/17/2022 16:30:23: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.27
+5/17/2022 16:30:23: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.8
+5/17/2022 16:30:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:30:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:30:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:31:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:31:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:31:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:32:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:32:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 16:32:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 16:32:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 16:34:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:34:24: [G_Auto 1] :  Placed closure bet with greening on Leandro Riedi by Backing 29.43 at 1.2
+5/17/2022 16:34:25: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aPoints = point: 0; games: 2; sets: 1 
+5/17/2022 16:34:25: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aServing = serving:0
+5/17/2022 16:34:25: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bPoints = point: 0; games: 2; sets: 0 
+5/17/2022 16:34:25: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bServing = serving:2
+5/17/2022 16:34:25: [G_Auto 2] :  Store Value (Shared) for market: price = 1.2
+5/17/2022 16:34:25: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 97.37
+5/17/2022 16:34:25: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 92.505
+5/17/2022 16:34:25: [G_Auto 2] :  Store Value (Shared) for market: stake = 29.43
+5/17/2022 16:34:25: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 189.875
+5/17/2022 16:34:25: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.87
+5/17/2022 16:34:25: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.21
+5/17/2022 16:34:25: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.7
+5/17/2022 16:34:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:34:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:34:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 16:35:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 16:37:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:38:06: [G_Auto 1] :  € 27.59 Lay bet placed on Leandro Riedi at 1.29. Fully matched at 1.29.  Ref: 10298          ( Fill or kill bet with 15 seconds delay.   )
+5/17/2022 16:38:07: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aPoints = point: 0; games: 2; sets: 1 
+5/17/2022 16:38:07: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aServing = serving:1
+5/17/2022 16:38:07: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bPoints = point: 0; games: 3; sets: 0 
+5/17/2022 16:38:07: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bServing = serving:0
+5/17/2022 16:38:07: [G_Auto 2] :  Store Value (Shared) for market: price = 1.29
+5/17/2022 16:38:07: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 97.37
+5/17/2022 16:38:07: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 120.095
+5/17/2022 16:38:07: [G_Auto 2] :  Store Value (Shared) for market: stake = 27.59
+5/17/2022 16:38:07: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 217.465
+5/17/2022 16:38:07: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.3
+5/17/2022 16:38:07: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.28
+5/17/2022 16:38:07: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.3
+5/17/2022 16:38:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:38:13: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aPoints = point: 0; games: 2; sets: 1 
+5/17/2022 16:38:13: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aServing = serving:1
+5/17/2022 16:38:13: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bPoints = point: 0; games: 3; sets: 0 
+5/17/2022 16:38:13: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bServing = serving:0
+5/17/2022 16:38:13: [G_Auto 2] :  Store Value (Shared) for market: price = 1.29
+5/17/2022 16:38:13: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 97.37
+5/17/2022 16:38:13: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 120.095
+5/17/2022 16:38:13: [G_Auto 2] :  Store Value (Shared) for market: stake = 27.59
+5/17/2022 16:38:13: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 217.465
+5/17/2022 16:38:13: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.3
+5/17/2022 16:38:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.27
+5/17/2022 16:38:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.3
+5/17/2022 16:38:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:38:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:38:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:39:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:39:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:39:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:39:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:40:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 16:40:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 16:40:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 16:43:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:43:45: [G_Auto 1] :  Placed closure bet with greening on Leandro Riedi by Backing 29.42 at 1.21
+5/17/2022 16:43:46: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aPoints = point: 0; games: 3; sets: 1 
+5/17/2022 16:43:46: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aServing = serving:0
+5/17/2022 16:43:46: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bPoints = point: 0; games: 3; sets: 0 
+5/17/2022 16:43:46: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bServing = serving:2
+5/17/2022 16:43:46: [G_Auto 2] :  Store Value (Shared) for market: price = 1.21
+5/17/2022 16:43:46: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 126.79
+5/17/2022 16:43:46: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 120.095
+5/17/2022 16:43:46: [G_Auto 2] :  Store Value (Shared) for market: stake = 29.42
+5/17/2022 16:43:46: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 246.885
+5/17/2022 16:43:46: [G_Auto 2] :  Store Value (Shared) for market: pl = -6.69
+5/17/2022 16:43:46: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.21
+5/17/2022 16:43:46: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.6
+5/17/2022 16:43:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:44:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:44:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:44:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 16:44:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 16:44:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 16:46:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:46:43: [G_Auto 1] :  € 24.24 Lay bet placed on Leandro Riedi at 1.33. Fully matched at 1.32.  Ref: 10305          ( Fill or kill bet with 15 seconds delay.   )
+5/17/2022 16:46:44: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aPoints = point: 0; games: 3; sets: 1 
+5/17/2022 16:46:44: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aServing = serving:1
+5/17/2022 16:46:44: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bPoints = point: 0; games: 4; sets: 0 
+5/17/2022 16:46:44: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bServing = serving:0
+5/17/2022 16:46:44: [G_Auto 2] :  Store Value (Shared) for market: price = 1.32
+5/17/2022 16:46:44: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 126.79
+5/17/2022 16:46:44: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 144.335
+5/17/2022 16:46:44: [G_Auto 2] :  Store Value (Shared) for market: stake = 24.24
+5/17/2022 16:46:44: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 271.125
+5/17/2022 16:46:44: [G_Auto 2] :  Store Value (Shared) for market: pl = -6.88
+5/17/2022 16:46:44: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.31
+5/17/2022 16:46:44: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.3
+5/17/2022 16:46:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:47:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:47:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:47:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:47:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:48:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:48:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:48:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:48:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 16:49:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 16:50:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:51:07: [G_Auto 1] :  Placed closure bet with greening on Leandro Riedi by Backing 26.22 at 1.22
+5/17/2022 16:51:08: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aPoints = point: 0; games: 4; sets: 1 
+5/17/2022 16:51:08: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aServing = serving:0
+5/17/2022 16:51:08: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bPoints = point: 0; games: 4; sets: 0 
+5/17/2022 16:51:08: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bServing = serving:2
+5/17/2022 16:51:08: [G_Auto 2] :  Store Value (Shared) for market: price = 1.22
+5/17/2022 16:51:08: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 153.01
+5/17/2022 16:51:08: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 144.335
+5/17/2022 16:51:08: [G_Auto 2] :  Store Value (Shared) for market: stake = 26.22
+5/17/2022 16:51:08: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 297.345
+5/17/2022 16:51:08: [G_Auto 2] :  Store Value (Shared) for market: pl = -8.68
+5/17/2022 16:51:08: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.22
+5/17/2022 16:51:08: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.5
+5/17/2022 16:51:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:51:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:51:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 16:51:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 16:52:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 16:55:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:55:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:55:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:56:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:56:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:56:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:57:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 16:57:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 16:57:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 16:57:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 17:04:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:04:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:05:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:05:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 17:05:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 17:07:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:07:35: [G_Auto 1] :  € 19.05 Lay bet placed on Leandro Riedi at 1.42. Fully matched at 1.42.  Ref: 10320          ( Fill or kill bet with 15 seconds delay.   )
+5/17/2022 17:07:36: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aPoints = point: 0; games: 5; sets: 1 
+5/17/2022 17:07:36: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aServing = serving:1
+5/17/2022 17:07:36: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bPoints = point: 0; games: 6; sets: 0 
+5/17/2022 17:07:36: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bServing = serving:0
+5/17/2022 17:07:36: [G_Auto 2] :  Store Value (Shared) for market: price = 1.42
+5/17/2022 17:07:36: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 153.01
+5/17/2022 17:07:36: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 163.385
+5/17/2022 17:07:36: [G_Auto 2] :  Store Value (Shared) for market: stake = 19.05
+5/17/2022 17:07:36: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 316.395
+5/17/2022 17:07:36: [G_Auto 2] :  Store Value (Shared) for market: pl = -8.95
+5/17/2022 17:07:36: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.4
+5/17/2022 17:07:36: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.35
+5/17/2022 17:07:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:07:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:08:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:08:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:08:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:08:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:09:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:09:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 17:09:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 17:11:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:11:54: [G_Auto 1] :  Placed closure bet with greening on Leandro Riedi by Backing 20.65 at 1.31
+5/17/2022 17:12:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:12:06: [G_Auto 1] :  Cancelling bets 10322  
+5/17/2022 17:12:09: [G_Auto 1] :  Placed closure bet with greening on Leandro Riedi by Backing 21.47 at 1.26
+5/17/2022 17:12:10: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aPoints = point: 0; games: 6; sets: 1 
+5/17/2022 17:12:10: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aServing = serving:0
+5/17/2022 17:12:10: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bPoints = point: 0; games: 6; sets: 0 
+5/17/2022 17:12:10: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bServing = serving:2
+5/17/2022 17:12:10: [G_Auto 2] :  Store Value (Shared) for market: price = 1.26
+5/17/2022 17:12:10: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 174.48
+5/17/2022 17:12:10: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 163.385
+5/17/2022 17:12:10: [G_Auto 2] :  Store Value (Shared) for market: stake = 21.47
+5/17/2022 17:12:10: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 337.865
+5/17/2022 17:12:10: [G_Auto 2] :  Store Value (Shared) for market: pl = -11.1
+5/17/2022 17:12:10: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.26
+5/17/2022 17:12:10: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.7
+5/17/2022 17:12:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:12:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 17:12:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 17:12:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 17:13:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 17:13:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 17:13:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 17:13:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 17:14:16: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 17:14:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 17:14:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 17:15:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 17:15:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 17:15:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 17:15:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 17:16:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 17:16:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 17:16:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 17:16:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 17:17:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 17:17:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 17:17:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 17:17:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 17:18:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 17:18:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:18:31: [G_Auto 2] :  Store Value (Shared) for market: aSecondSetPrice = 1.87
+5/17/2022 17:18:31: [G_Auto 2] :  Store Value (Shared) for market: bSecondSetPrice = 2.32
+5/17/2022 17:18:36: [G_Auto 1] :  € 8.99 Lay bet placed on Leandro Riedi at 1.89. Entirely unmatched when it initially reached the market.   Ref: 10327          ( Fill or kill bet with 15 seconds delay.   )
+5/17/2022 17:18:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:18:45: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aPoints = point: 0; games: 0; sets: 1 
+5/17/2022 17:18:45: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aServing = serving:1
+5/17/2022 17:18:45: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bPoints = point: 0; games: 0; sets: 1 
+5/17/2022 17:18:45: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bServing = serving:0
+5/17/2022 17:18:45: [G_Auto 2] :  Store Value (Shared) for market: price = 1.89
+5/17/2022 17:18:45: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 174.48
+5/17/2022 17:18:45: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 172.375
+5/17/2022 17:18:45: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.99
+5/17/2022 17:18:45: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 346.855
+5/17/2022 17:18:45: [G_Auto 2] :  Store Value (Shared) for market: pl = -11.24
+5/17/2022 17:18:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.88
+5/17/2022 17:18:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.16
+5/17/2022 17:18:45: [G_Auto 1] :  € 8.99 of unmatched bet (Ref:10327) was filled before remainder was killed.
+5/17/2022 17:18:50: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aPoints = point: 0; games: 0; sets: 1 
+5/17/2022 17:18:50: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aServing = serving:1
+5/17/2022 17:18:50: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bPoints = point: 0; games: 0; sets: 1 
+5/17/2022 17:18:50: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bServing = serving:0
+5/17/2022 17:18:50: [G_Auto 2] :  Store Value (Shared) for market: price = 1.89
+5/17/2022 17:18:50: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 174.48
+5/17/2022 17:18:50: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 172.375
+5/17/2022 17:18:50: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.99
+5/17/2022 17:18:50: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 346.855
+5/17/2022 17:18:50: [G_Auto 2] :  Store Value (Shared) for market: pl = -11.24
+5/17/2022 17:18:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.87
+5/17/2022 17:18:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.14
+5/17/2022 17:18:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:19:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:19:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:19:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:19:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:20:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:20:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:20:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:20:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:21:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:21:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:21:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:21:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 17:22:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 17:22:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:23:01: [G_Auto 1] :  Placed closure bet with greening on Leandro Riedi by Backing 10.89 at 1.56
+5/17/2022 17:23:02: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aPoints = point: 0; games: 1; sets: 1 
+5/17/2022 17:23:02: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aServing = serving:0
+5/17/2022 17:23:02: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bPoints = point: 0; games: 0; sets: 1 
+5/17/2022 17:23:02: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bServing = serving:2
+5/17/2022 17:23:02: [G_Auto 2] :  Store Value (Shared) for market: price = 1.56
+5/17/2022 17:23:02: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 185.37
+5/17/2022 17:23:02: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 172.375
+5/17/2022 17:23:02: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.89
+5/17/2022 17:23:02: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 357.745
+5/17/2022 17:23:02: [G_Auto 2] :  Store Value (Shared) for market: pl = -13
+5/17/2022 17:23:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.57
+5/17/2022 17:23:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.78
+5/17/2022 17:23:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:23:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:23:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:23:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 17:24:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 17:25:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:25:47: [G_Auto 1] :  € 10.26 Lay bet placed on Leandro Riedi at 1.78. Fully matched at 1.78.  Ref: 10335          ( Fill or kill bet with 15 seconds delay.   )
+5/17/2022 17:25:48: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aPoints = point: 0; games: 1; sets: 1 
+5/17/2022 17:25:48: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aServing = serving:1
+5/17/2022 17:25:48: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bPoints = point: 0; games: 1; sets: 1 
+5/17/2022 17:25:48: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bServing = serving:0
+5/17/2022 17:25:48: [G_Auto 2] :  Store Value (Shared) for market: price = 1.78
+5/17/2022 17:25:48: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 185.37
+5/17/2022 17:25:48: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 182.635
+5/17/2022 17:25:48: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.26
+5/17/2022 17:25:48: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 368.005
+5/17/2022 17:25:48: [G_Auto 2] :  Store Value (Shared) for market: pl = -13.17
+5/17/2022 17:25:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.76
+5/17/2022 17:25:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.32
+5/17/2022 17:25:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:26:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:26:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 17:26:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 17:27:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:27:42: [G_Auto 1] :  Placed closure bet with greening on Leandro Riedi by Backing 12.18 at 1.5
+5/17/2022 17:27:43: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aPoints = point: 0; games: 2; sets: 1 
+5/17/2022 17:27:43: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aServing = serving:0
+5/17/2022 17:27:43: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bPoints = point: 0; games: 1; sets: 1 
+5/17/2022 17:27:43: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bServing = serving:2
+5/17/2022 17:27:43: [G_Auto 2] :  Store Value (Shared) for market: price = 1.5
+5/17/2022 17:27:43: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 197.55
+5/17/2022 17:27:43: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 182.635
+5/17/2022 17:27:43: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.18
+5/17/2022 17:27:43: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 380.185
+5/17/2022 17:27:43: [G_Auto 2] :  Store Value (Shared) for market: pl = -14.91
+5/17/2022 17:27:43: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.52
+5/17/2022 17:27:43: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.92
+5/17/2022 17:27:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:28:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:28:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:28:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:28:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:29:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:29:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:29:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 17:29:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 17:30:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:30:44: [G_Auto 1] :  € 9.88 Lay bet placed on Leandro Riedi at 1.81. Fully matched at 1.8.  Ref: 10340          ( Fill or kill bet with 15 seconds delay.   )
+5/17/2022 17:30:45: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aPoints = point: 0; games: 2; sets: 1 
+5/17/2022 17:30:45: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aServing = serving:1
+5/17/2022 17:30:45: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bPoints = point: 0; games: 2; sets: 1 
+5/17/2022 17:30:45: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bServing = serving:0
+5/17/2022 17:30:45: [G_Auto 2] :  Store Value (Shared) for market: price = 1.8
+5/17/2022 17:30:45: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 197.55
+5/17/2022 17:30:45: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 192.515
+5/17/2022 17:30:45: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.88
+5/17/2022 17:30:45: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 390.065
+5/17/2022 17:30:45: [G_Auto 2] :  Store Value (Shared) for market: pl = -14.97
+5/17/2022 17:30:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.79
+5/17/2022 17:30:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.22
+5/17/2022 17:30:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:31:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:31:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 17:31:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 17:34:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:34:37: [G_Auto 1] :  Placed closure bet with greening on Leandro Riedi by Backing 11.47 at 1.55
+5/17/2022 17:34:38: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aPoints = point: 0; games: 3; sets: 1 
+5/17/2022 17:34:38: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aServing = serving:0
+5/17/2022 17:34:38: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bPoints = point: 0; games: 2; sets: 1 
+5/17/2022 17:34:38: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bServing = serving:2
+5/17/2022 17:34:38: [G_Auto 2] :  Store Value (Shared) for market: price = 1.55
+5/17/2022 17:34:38: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 209.02
+5/17/2022 17:34:38: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 192.515
+5/17/2022 17:34:38: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.47
+5/17/2022 17:34:38: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 401.535
+5/17/2022 17:34:38: [G_Auto 2] :  Store Value (Shared) for market: pl = -16.51
+5/17/2022 17:34:38: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.56
+5/17/2022 17:34:38: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.78
+5/17/2022 17:34:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:34:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:35:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:35:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:35:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:35:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:36:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:36:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 17:36:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 17:36:55: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 17:38:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:38:54: [G_Auto 1] :  € 9.41 Lay bet placed on Leandro Riedi at 1.85. Fully matched at 1.85.  Ref: 10346          ( Fill or kill bet with 15 seconds delay.   )
+5/17/2022 17:38:55: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aPoints = point: 0; games: 3; sets: 1 
+5/17/2022 17:38:55: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aServing = serving:1
+5/17/2022 17:38:55: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bPoints = point: 0; games: 3; sets: 1 
+5/17/2022 17:38:55: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bServing = serving:0
+5/17/2022 17:38:55: [G_Auto 2] :  Store Value (Shared) for market: price = 1.85
+5/17/2022 17:38:55: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 209.02
+5/17/2022 17:38:55: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 201.925
+5/17/2022 17:38:55: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.41
+5/17/2022 17:38:55: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 410.945
+5/17/2022 17:38:55: [G_Auto 2] :  Store Value (Shared) for market: pl = -16.72
+5/17/2022 17:38:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.81
+5/17/2022 17:38:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.18
+5/17/2022 17:38:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:39:00: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aPoints = point: 0; games: 3; sets: 1 
+5/17/2022 17:39:00: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aServing = serving:1
+5/17/2022 17:39:00: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bPoints = point: 0; games: 3; sets: 1 
+5/17/2022 17:39:00: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bServing = serving:0
+5/17/2022 17:39:00: [G_Auto 2] :  Store Value (Shared) for market: price = 1.85
+5/17/2022 17:39:00: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 209.02
+5/17/2022 17:39:00: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 201.925
+5/17/2022 17:39:00: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.41
+5/17/2022 17:39:00: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 410.945
+5/17/2022 17:39:00: [G_Auto 2] :  Store Value (Shared) for market: pl = -16.72
+5/17/2022 17:39:00: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.82
+5/17/2022 17:39:00: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.2
+5/17/2022 17:39:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:39:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 17:39:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 17:41:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:41:22: [G_Auto 1] :  Placed closure bet with greening on Leandro Riedi by Backing 11.38 at 1.53
+5/17/2022 17:41:22: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aPoints = point: 0; games: 4; sets: 1 
+5/17/2022 17:41:22: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aServing = serving:0
+5/17/2022 17:41:22: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bPoints = point: 0; games: 3; sets: 1 
+5/17/2022 17:41:22: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bServing = serving:2
+5/17/2022 17:41:22: [G_Auto 2] :  Store Value (Shared) for market: price = 1.53
+5/17/2022 17:41:22: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 220.4
+5/17/2022 17:41:22: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 201.925
+5/17/2022 17:41:22: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.38
+5/17/2022 17:41:22: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 422.325
+5/17/2022 17:41:22: [G_Auto 2] :  Store Value (Shared) for market: pl = -18.48
+5/17/2022 17:41:22: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.54
+5/17/2022 17:41:22: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.84
+5/17/2022 17:41:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:41:28: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aPoints = point: 0; games: 4; sets: 1 
+5/17/2022 17:41:28: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aServing = serving:0
+5/17/2022 17:41:28: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bPoints = point: 0; games: 3; sets: 1 
+5/17/2022 17:41:28: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bServing = serving:2
+5/17/2022 17:41:28: [G_Auto 2] :  Store Value (Shared) for market: price = 1.53
+5/17/2022 17:41:28: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 220.4
+5/17/2022 17:41:28: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 201.925
+5/17/2022 17:41:28: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.38
+5/17/2022 17:41:28: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 422.325
+5/17/2022 17:41:28: [G_Auto 2] :  Store Value (Shared) for market: pl = -18.48
+5/17/2022 17:41:28: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.54
+5/17/2022 17:41:28: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.86
+5/17/2022 17:41:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:41:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:42:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:42:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:42:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:43:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 17:43:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 17:43:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 17:43:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 17:46:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:46:19: [G_Auto 1] :  € 10.00 Lay bet placed on Leandro Riedi at 1.8. Fully matched at 1.8.  Ref: 10351          ( Fill or kill bet with 15 seconds delay.   )
+5/17/2022 17:46:20: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aPoints = point: 0; games: 4; sets: 1 
+5/17/2022 17:46:20: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aServing = serving:1
+5/17/2022 17:46:20: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bPoints = point: 0; games: 4; sets: 1 
+5/17/2022 17:46:20: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bServing = serving:0
+5/17/2022 17:46:20: [G_Auto 2] :  Store Value (Shared) for market: price = 1.8
+5/17/2022 17:46:20: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 220.4
+5/17/2022 17:46:20: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 211.925
+5/17/2022 17:46:20: [G_Auto 2] :  Store Value (Shared) for market: stake = 10
+5/17/2022 17:46:20: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 432.325
+5/17/2022 17:46:20: [G_Auto 2] :  Store Value (Shared) for market: pl = -18.53
+5/17/2022 17:46:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.79
+5/17/2022 17:46:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.28
+5/17/2022 17:46:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:46:26: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aPoints = point: 0; games: 4; sets: 1 
+5/17/2022 17:46:26: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aServing = serving:1
+5/17/2022 17:46:26: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bPoints = point: 0; games: 4; sets: 1 
+5/17/2022 17:46:26: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bServing = serving:0
+5/17/2022 17:46:26: [G_Auto 2] :  Store Value (Shared) for market: price = 1.8
+5/17/2022 17:46:26: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 220.4
+5/17/2022 17:46:26: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 211.925
+5/17/2022 17:46:26: [G_Auto 2] :  Store Value (Shared) for market: stake = 10
+5/17/2022 17:46:26: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 432.325
+5/17/2022 17:46:26: [G_Auto 2] :  Store Value (Shared) for market: pl = -18.59
+5/17/2022 17:46:26: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.78
+5/17/2022 17:46:26: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.26
+5/17/2022 17:46:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:46:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 17:46:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 17:51:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:51:25: [G_Auto 1] :  Placed closure bet with greening on Leandro Riedi by Backing 12.16 at 1.48
+5/17/2022 17:51:26: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aPoints = point: 0; games: 5; sets: 1 
+5/17/2022 17:51:26: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aServing = serving:0
+5/17/2022 17:51:26: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bPoints = point: 0; games: 4; sets: 1 
+5/17/2022 17:51:26: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bServing = serving:2
+5/17/2022 17:51:26: [G_Auto 2] :  Store Value (Shared) for market: price = 1.48
+5/17/2022 17:51:26: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 232.56
+5/17/2022 17:51:26: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 211.925
+5/17/2022 17:51:26: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.16
+5/17/2022 17:51:26: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 444.485
+5/17/2022 17:51:26: [G_Auto 2] :  Store Value (Shared) for market: pl = -20.64
+5/17/2022 17:51:26: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.49
+5/17/2022 17:51:26: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3
+5/17/2022 17:51:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:51:32: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aPoints = point: 0; games: 5; sets: 1 
+5/17/2022 17:51:32: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aServing = serving:0
+5/17/2022 17:51:32: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bPoints = point: 0; games: 4; sets: 1 
+5/17/2022 17:51:32: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bServing = serving:2
+5/17/2022 17:51:32: [G_Auto 2] :  Store Value (Shared) for market: price = 1.48
+5/17/2022 17:51:32: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 232.56
+5/17/2022 17:51:32: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 211.925
+5/17/2022 17:51:32: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.16
+5/17/2022 17:51:32: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 444.485
+5/17/2022 17:51:32: [G_Auto 2] :  Store Value (Shared) for market: pl = -20.64
+5/17/2022 17:51:32: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.49
+5/17/2022 17:51:32: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3
+5/17/2022 17:51:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:52:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:52:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:52:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:52:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:53:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:53:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:53:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 17:53:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 17:53:55: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 17:54:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:55:11: [G_Auto 1] :  € 9.20 Lay bet placed on Leandro Riedi at 1.87. Fully matched at 1.86.  Ref: 10360          ( Fill or kill bet with 15 seconds delay.   )
+5/17/2022 17:55:12: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aPoints = point: 0; games: 5; sets: 1 
+5/17/2022 17:55:12: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aServing = serving:1
+5/17/2022 17:55:12: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bPoints = point: 0; games: 5; sets: 1 
+5/17/2022 17:55:12: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bServing = serving:0
+5/17/2022 17:55:12: [G_Auto 2] :  Store Value (Shared) for market: price = 1.86
+5/17/2022 17:55:12: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 232.56
+5/17/2022 17:55:12: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 221.125
+5/17/2022 17:55:12: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.2
+5/17/2022 17:55:12: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 453.685
+5/17/2022 17:55:12: [G_Auto 2] :  Store Value (Shared) for market: pl = -20.64
+5/17/2022 17:55:12: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.86
+5/17/2022 17:55:12: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.18
+5/17/2022 17:55:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 17:55:18: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aPoints = point: 0; games: 5; sets: 1 
+5/17/2022 17:55:18: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aServing = serving:1
+5/17/2022 17:55:18: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bPoints = point: 0; games: 5; sets: 1 
+5/17/2022 17:55:18: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bServing = serving:0
+5/17/2022 17:55:18: [G_Auto 2] :  Store Value (Shared) for market: price = 1.86
+5/17/2022 17:55:18: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 232.56
+5/17/2022 17:55:18: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 221.125
+5/17/2022 17:55:18: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.2
+5/17/2022 17:55:18: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 453.685
+5/17/2022 17:55:18: [G_Auto 2] :  Store Value (Shared) for market: pl = -20.69
+5/17/2022 17:55:18: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.85
+5/17/2022 17:55:18: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.18
+5/17/2022 17:55:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 17:55:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 18:00:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:00:28: [G_Auto 1] :  Placed closure bet with greening on Leandro Riedi by Backing 2.67 at 6.4
+5/17/2022 18:00:28: [G_Auto 1] :  € 42.11 Lay bet placed on Johan Nikles at 1.19. Fully matched at 1.18.  Ref: 10363          ( Fill or kill bet with 15 seconds delay.   )
+5/17/2022 18:00:29: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aPoints = point: 0; games: 5; sets: 1 
+5/17/2022 18:00:29: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aServing = serving:0
+5/17/2022 18:00:29: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bPoints = point: 0; games: 6; sets: 1 
+5/17/2022 18:00:29: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bServing = serving:2
+5/17/2022 18:00:29: [G_Auto 2] :  Store Value (Shared) for market: price = 1.18
+5/17/2022 18:00:29: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 235.23
+5/17/2022 18:00:29: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 263.235
+5/17/2022 18:00:29: [G_Auto 2] :  Store Value (Shared) for market: stake = 42.11
+5/17/2022 18:00:29: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 498.465
+5/17/2022 18:00:29: [G_Auto 2] :  Store Value (Shared) for market: pl = -14.32
+5/17/2022 18:00:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 6.8
+5/17/2022 18:00:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.18
+5/17/2022 18:00:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:00:35: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aPoints = point: 0; games: 5; sets: 1 
+5/17/2022 18:00:35: [G_Auto 2] :  Store Text Value (Shared) for Leandro Riedi: aServing = serving:0
+5/17/2022 18:00:35: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bPoints = point: 0; games: 6; sets: 1 
+5/17/2022 18:00:35: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bServing = serving:2
+5/17/2022 18:00:35: [G_Auto 2] :  Store Value (Shared) for market: price = 1.18
+5/17/2022 18:00:35: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 235.23
+5/17/2022 18:00:35: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 263.235
+5/17/2022 18:00:35: [G_Auto 2] :  Store Value (Shared) for market: stake = 42.11
+5/17/2022 18:00:35: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 498.465
+5/17/2022 18:00:35: [G_Auto 2] :  Store Value (Shared) for market: pl = -13.95
+5/17/2022 18:00:35: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 6.6
+5/17/2022 18:00:35: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.19
+5/17/2022 18:00:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:01:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:01:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:01:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:01:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:02:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/17/2022 18:03:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/17/2022 18:03:34:  Guardian has detected that the market is suspended

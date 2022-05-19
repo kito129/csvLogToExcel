@@ -1,0 +1,450 @@
+5/16/2022 09:08:32: [G_Auto 2] :  Store Text Value (Shared) for Dominic Thiem: info = marketName: Thiem v Cecchinato - Match Odds; runnerA: Dominic Thiem; runnerB: Marco Cecchinato 
+5/16/2022 09:08:32: [G_Auto 2] :  Store Value (Shared) for market: aId = 5720747
+5/16/2022 09:08:32: [G_Auto 2] :  Store Value (Shared) for market: bId = 6374165
+5/16/2022 17:07:38:  Guardian has detected that the market is in-play
+5/16/2022 17:07:38:  Guardian has detected that the market is suspended
+5/16/2022 17:07:40: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.4; bBsp: 3.4; volume: 39491.36 
+5/16/2022 17:07:40: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.4; bBsp: 3.4; volume: 39491.36 
+5/16/2022 17:07:40:  Guardian has detected that the market is now unsuspended
+5/16/2022 17:07:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 17:07:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 17:08:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 17:09:11: [G_Auto 1] :  € 16.33 Lay bet placed on Dominic Thiem at 1.49. Fully matched at 1.49.  Ref: 10290          ( Fill or kill bet with 15 seconds delay.   )
+5/16/2022 17:09:12: [G_Auto 2] :  Store Text Value (Shared) for Dominic Thiem: aPoints = point: 0; games: 0; sets: 0 
+5/16/2022 17:09:12: [G_Auto 2] :  Store Text Value (Shared) for Dominic Thiem: aServing = serving:1
+5/16/2022 17:09:12: [G_Auto 2] :  Store Text Value (Shared) for Marco Cecchinato: bPoints = point: 0; games: 1; sets: 0 
+5/16/2022 17:09:12: [G_Auto 2] :  Store Text Value (Shared) for Marco Cecchinato: bServing = serving:0
+5/16/2022 17:09:12: [G_Auto 2] :  Store Value (Shared) for market: price = 1.49
+5/16/2022 17:09:12: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+5/16/2022 17:09:12: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 16.33
+5/16/2022 17:09:12: [G_Auto 2] :  Store Value (Shared) for market: stake = 16.33
+5/16/2022 17:09:12: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 16.33
+5/16/2022 17:09:12: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.22
+5/16/2022 17:09:12: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.47
+5/16/2022 17:09:12: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.05
+5/16/2022 17:09:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 17:09:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 17:09:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 17:10:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 17:10:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 17:10:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 17:10:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 17:10:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 17:11:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 17:14:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 17:15:02: [G_Auto 1] :  Placed closure bet with greening on Dominic Thiem by Backing 16.55 at 1.47
+5/16/2022 17:15:03: [G_Auto 2] :  Store Text Value (Shared) for Dominic Thiem: aPoints = point: 0; games: 1; sets: 0 
+5/16/2022 17:15:03: [G_Auto 2] :  Store Text Value (Shared) for Dominic Thiem: aServing = serving:0
+5/16/2022 17:15:03: [G_Auto 2] :  Store Text Value (Shared) for Marco Cecchinato: bPoints = point: 0; games: 1; sets: 0 
+5/16/2022 17:15:03: [G_Auto 2] :  Store Text Value (Shared) for Marco Cecchinato: bServing = serving:2
+5/16/2022 17:15:03: [G_Auto 2] :  Store Value (Shared) for market: price = 1.47
+5/16/2022 17:15:03: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 16.55
+5/16/2022 17:15:03: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 16.33
+5/16/2022 17:15:03: [G_Auto 2] :  Store Value (Shared) for market: stake = 16.55
+5/16/2022 17:15:03: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 32.88
+5/16/2022 17:15:03: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.22
+5/16/2022 17:15:03: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.48
+5/16/2022 17:15:03: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.05
+5/16/2022 17:15:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 17:15:09: [G_Auto 2] :  Store Text Value (Shared) for Dominic Thiem: aPoints = point: 0; games: 1; sets: 0 
+5/16/2022 17:15:09: [G_Auto 2] :  Store Text Value (Shared) for Dominic Thiem: aServing = serving:0
+5/16/2022 17:15:09: [G_Auto 2] :  Store Text Value (Shared) for Marco Cecchinato: bPoints = point: 0; games: 1; sets: 0 
+5/16/2022 17:15:09: [G_Auto 2] :  Store Text Value (Shared) for Marco Cecchinato: bServing = serving:2
+5/16/2022 17:15:09: [G_Auto 2] :  Store Value (Shared) for market: price = 1.47
+5/16/2022 17:15:09: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 16.55
+5/16/2022 17:15:09: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 16.33
+5/16/2022 17:15:09: [G_Auto 2] :  Store Value (Shared) for market: stake = 16.55
+5/16/2022 17:15:09: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 32.88
+5/16/2022 17:15:09: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.22
+5/16/2022 17:15:09: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.48
+5/16/2022 17:15:09: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.05
+5/16/2022 17:15:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 17:15:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 17:15:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 17:24:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 17:25:03: [G_Auto 1] :  € 16.00 Lay bet placed on Dominic Thiem at 1.5. Fully matched at 1.5.  Ref: 10296          ( Fill or kill bet with 15 seconds delay.   )
+5/16/2022 17:25:04: [G_Auto 2] :  Store Text Value (Shared) for Dominic Thiem: aPoints = point: 0; games: 1; sets: 0 
+5/16/2022 17:25:04: [G_Auto 2] :  Store Text Value (Shared) for Dominic Thiem: aServing = serving:1
+5/16/2022 17:25:04: [G_Auto 2] :  Store Text Value (Shared) for Marco Cecchinato: bPoints = point: 0; games: 2; sets: 0 
+5/16/2022 17:25:04: [G_Auto 2] :  Store Text Value (Shared) for Marco Cecchinato: bServing = serving:0
+5/16/2022 17:25:04: [G_Auto 2] :  Store Value (Shared) for market: price = 1.5
+5/16/2022 17:25:04: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 16.55
+5/16/2022 17:25:04: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 32.33
+5/16/2022 17:25:04: [G_Auto 2] :  Store Value (Shared) for market: stake = 16
+5/16/2022 17:25:04: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 48.88
+5/16/2022 17:25:04: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.44
+5/16/2022 17:25:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.48
+5/16/2022 17:25:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.4
+5/16/2022 17:25:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 17:25:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 17:25:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 17:25:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 17:26:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 17:26:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 17:26:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 17:26:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 17:26:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 17:27:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 17:27:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 17:30:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 17:30:14: [G_Auto 1] :  Placed closure bet with greening on Dominic Thiem by Backing 17.15 at 1.4
+5/16/2022 17:30:16: [G_Auto 2] :  Store Text Value (Shared) for Dominic Thiem: aPoints = point: 0; games: 2; sets: 0 
+5/16/2022 17:30:16: [G_Auto 2] :  Store Text Value (Shared) for Dominic Thiem: aServing = serving:0
+5/16/2022 17:30:16: [G_Auto 2] :  Store Text Value (Shared) for Marco Cecchinato: bPoints = point: 0; games: 2; sets: 0 
+5/16/2022 17:30:16: [G_Auto 2] :  Store Text Value (Shared) for Marco Cecchinato: bServing = serving:2
+5/16/2022 17:30:16: [G_Auto 2] :  Store Value (Shared) for market: price = 1.4
+5/16/2022 17:30:16: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 33.7
+5/16/2022 17:30:16: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 32.33
+5/16/2022 17:30:16: [G_Auto 2] :  Store Value (Shared) for market: stake = 17.15
+5/16/2022 17:30:16: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 66.03
+5/16/2022 17:30:16: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.36
+5/16/2022 17:30:16: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.4
+5/16/2022 17:30:16: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.5
+5/16/2022 17:30:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 17:30:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 17:30:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 17:30:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 17:31:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 17:34:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 17:34:22: [G_Auto 1] :  € 17.02 Lay bet placed on Dominic Thiem at 1.47. Fully matched at 1.47.  Ref: 10298          ( Fill or kill bet with 15 seconds delay.   )
+5/16/2022 17:34:22: [G_Auto 2] :  Store Text Value (Shared) for Dominic Thiem: aPoints = point: 0; games: 2; sets: 0 
+5/16/2022 17:34:22: [G_Auto 2] :  Store Text Value (Shared) for Dominic Thiem: aServing = serving:1
+5/16/2022 17:34:22: [G_Auto 2] :  Store Text Value (Shared) for Marco Cecchinato: bPoints = point: 0; games: 3; sets: 0 
+5/16/2022 17:34:22: [G_Auto 2] :  Store Text Value (Shared) for Marco Cecchinato: bServing = serving:0
+5/16/2022 17:34:22: [G_Auto 2] :  Store Value (Shared) for market: price = 1.47
+5/16/2022 17:34:22: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 33.7
+5/16/2022 17:34:22: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 49.35
+5/16/2022 17:34:22: [G_Auto 2] :  Store Value (Shared) for market: stake = 17.02
+5/16/2022 17:34:22: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 83.05
+5/16/2022 17:34:22: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.6
+5/16/2022 17:34:22: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.45
+5/16/2022 17:34:22: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.25
+5/16/2022 17:34:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 17:34:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 17:34:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 17:35:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 17:35:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 17:35:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 17:35:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 17:36:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 17:36:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 17:36:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 17:36:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 17:39:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 17:39:48: [G_Auto 1] :  € 8.79 Lay bet placed on Marco Cecchinato at 1.91. Fully matched at 1.9.  Ref: 10300          ( Fill or kill bet with 15 seconds delay.   )
+5/16/2022 17:39:48: [G_Auto 1] :  Placed closure bet with greening on Dominic Thiem by Backing 11.80 at 2.12
+5/16/2022 17:39:48: [G_Auto 2] :  Store Text Value (Shared) for Dominic Thiem: aPoints = point: 0; games: 2; sets: 0 
+5/16/2022 17:39:48: [G_Auto 2] :  Store Text Value (Shared) for Dominic Thiem: aServing = serving:0
+5/16/2022 17:39:48: [G_Auto 2] :  Store Text Value (Shared) for Marco Cecchinato: bPoints = point: 0; games: 4; sets: 0 
+5/16/2022 17:39:48: [G_Auto 2] :  Store Text Value (Shared) for Marco Cecchinato: bServing = serving:2
+5/16/2022 17:39:48: [G_Auto 2] :  Store Value (Shared) for market: price = 1.9
+5/16/2022 17:39:48: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 45.5
+5/16/2022 17:39:48: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 58.14
+5/16/2022 17:39:48: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.79
+5/16/2022 17:39:48: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 103.64
+5/16/2022 17:39:48: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.73
+5/16/2022 17:39:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.14
+5/16/2022 17:39:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.89
+5/16/2022 17:39:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 17:39:54: [G_Auto 2] :  Store Text Value (Shared) for Dominic Thiem: aPoints = point: 0; games: 2; sets: 0 
+5/16/2022 17:39:54: [G_Auto 2] :  Store Text Value (Shared) for Dominic Thiem: aServing = serving:0
+5/16/2022 17:39:54: [G_Auto 2] :  Store Text Value (Shared) for Marco Cecchinato: bPoints = point: 0; games: 4; sets: 0 
+5/16/2022 17:39:54: [G_Auto 2] :  Store Text Value (Shared) for Marco Cecchinato: bServing = serving:2
+5/16/2022 17:39:54: [G_Auto 2] :  Store Value (Shared) for market: price = 1.9
+5/16/2022 17:39:54: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 45.5
+5/16/2022 17:39:54: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 58.14
+5/16/2022 17:39:54: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.79
+5/16/2022 17:39:54: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 103.64
+5/16/2022 17:39:54: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.68
+5/16/2022 17:39:54: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.12
+5/16/2022 17:39:54: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.89
+5/16/2022 17:40:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 17:40:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 17:40:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 17:43:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 17:43:44: [G_Auto 1] :  Placed closure bet with greening on Marco Cecchinato by Backing 9.54 at 1.75
+5/16/2022 17:43:45: [G_Auto 2] :  Store Text Value (Shared) for Dominic Thiem: aPoints = point: 0; games: 2; sets: 0 
+5/16/2022 17:43:45: [G_Auto 2] :  Store Text Value (Shared) for Dominic Thiem: aServing = serving:1
+5/16/2022 17:43:45: [G_Auto 2] :  Store Text Value (Shared) for Marco Cecchinato: bPoints = point: 0; games: 5; sets: 0 
+5/16/2022 17:43:45: [G_Auto 2] :  Store Text Value (Shared) for Marco Cecchinato: bServing = serving:0
+5/16/2022 17:43:45: [G_Auto 2] :  Store Value (Shared) for market: price = 1.76
+5/16/2022 17:43:45: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 55.04
+5/16/2022 17:43:45: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 58.14
+5/16/2022 17:43:45: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.54
+5/16/2022 17:43:45: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 113.18
+5/16/2022 17:43:45: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.09
+5/16/2022 17:43:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.3
+5/16/2022 17:43:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.77
+5/16/2022 17:43:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 17:44:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 17:44:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 17:44:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 17:44:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 17:45:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 17:45:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 17:45:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 17:45:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 17:45:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 17:46:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 17:48:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 17:48:45: [G_Auto 1] :  € 9.30 Lay bet placed on Marco Cecchinato at 1.86. Fully matched at 1.85.  Ref: 10306          ( Fill or kill bet with 15 seconds delay.   )
+5/16/2022 17:48:45: [G_Auto 2] :  Store Text Value (Shared) for Dominic Thiem: aPoints = point: 0; games: 3; sets: 0 
+5/16/2022 17:48:45: [G_Auto 2] :  Store Text Value (Shared) for Dominic Thiem: aServing = serving:0
+5/16/2022 17:48:45: [G_Auto 2] :  Store Text Value (Shared) for Marco Cecchinato: bPoints = point: 0; games: 5; sets: 0 
+5/16/2022 17:48:45: [G_Auto 2] :  Store Text Value (Shared) for Marco Cecchinato: bServing = serving:2
+5/16/2022 17:48:45: [G_Auto 2] :  Store Value (Shared) for market: price = 1.85
+5/16/2022 17:48:45: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 55.04
+5/16/2022 17:48:45: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 67.44
+5/16/2022 17:48:45: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.3
+5/16/2022 17:48:45: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 122.48
+5/16/2022 17:48:45: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.04
+5/16/2022 17:48:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.2
+5/16/2022 17:48:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.84
+5/16/2022 17:48:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 17:49:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 17:49:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 17:49:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 17:49:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 17:49:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 17:51:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 17:51:48: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 2.54
+5/16/2022 17:51:48: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 1.66
+5/16/2022 17:51:53: [G_Auto 1] :  Placed closure bet with greening on Marco Cecchinato by Backing 10.44 at 1.64
+5/16/2022 17:51:53: [G_Auto 2] :  Store Text Value (Shared) for Dominic Thiem: aPoints = point: 0; games: 0; sets: 0 
+5/16/2022 17:51:53: [G_Auto 2] :  Store Text Value (Shared) for Dominic Thiem: aServing = serving:1
+5/16/2022 17:51:53: [G_Auto 2] :  Store Text Value (Shared) for Marco Cecchinato: bPoints = point: 0; games: 0; sets: 1 
+5/16/2022 17:51:53: [G_Auto 2] :  Store Text Value (Shared) for Marco Cecchinato: bServing = serving:0
+5/16/2022 17:51:53: [G_Auto 2] :  Store Value (Shared) for market: price = 1.65
+5/16/2022 17:51:53: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 65.48
+5/16/2022 17:51:53: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 67.44
+5/16/2022 17:51:53: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.44
+5/16/2022 17:51:53: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 132.92
+5/16/2022 17:51:53: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.99
+5/16/2022 17:51:53: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.52
+5/16/2022 17:51:53: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.66
+5/16/2022 17:51:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 17:52:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 17:52:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 17:52:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 17:52:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 17:53:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 17:53:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 17:53:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 17:54:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 17:54:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 17:54:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 17:54:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 17:54:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 17:55:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 17:57:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 17:57:44: [G_Auto 1] :  € 9.41 Lay bet placed on Marco Cecchinato at 1.85. Fully matched at 1.85.  Ref: 10309          ( Fill or kill bet with 15 seconds delay.   )
+5/16/2022 17:57:45: [G_Auto 2] :  Store Text Value (Shared) for Dominic Thiem: aPoints = point: 0; games: 1; sets: 0 
+5/16/2022 17:57:45: [G_Auto 2] :  Store Text Value (Shared) for Dominic Thiem: aServing = serving:0
+5/16/2022 17:57:45: [G_Auto 2] :  Store Text Value (Shared) for Marco Cecchinato: bPoints = point: 0; games: 0; sets: 1 
+5/16/2022 17:57:45: [G_Auto 2] :  Store Text Value (Shared) for Marco Cecchinato: bServing = serving:2
+5/16/2022 17:57:45: [G_Auto 2] :  Store Value (Shared) for market: price = 1.85
+5/16/2022 17:57:45: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 65.48
+5/16/2022 17:57:45: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 76.85
+5/16/2022 17:57:45: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.41
+5/16/2022 17:57:45: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 142.33
+5/16/2022 17:57:45: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.88
+5/16/2022 17:57:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.2
+5/16/2022 17:57:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.83
+5/16/2022 17:57:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 17:57:50: [G_Auto 2] :  Store Text Value (Shared) for Dominic Thiem: aPoints = point: 0; games: 1; sets: 0 
+5/16/2022 17:57:50: [G_Auto 2] :  Store Text Value (Shared) for Dominic Thiem: aServing = serving:0
+5/16/2022 17:57:50: [G_Auto 2] :  Store Text Value (Shared) for Marco Cecchinato: bPoints = point: 0; games: 0; sets: 1 
+5/16/2022 17:57:50: [G_Auto 2] :  Store Text Value (Shared) for Marco Cecchinato: bServing = serving:2
+5/16/2022 17:57:50: [G_Auto 2] :  Store Value (Shared) for market: price = 1.85
+5/16/2022 17:57:50: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 65.48
+5/16/2022 17:57:50: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 76.85
+5/16/2022 17:57:50: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.41
+5/16/2022 17:57:50: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 142.33
+5/16/2022 17:57:50: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.88
+5/16/2022 17:57:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.2
+5/16/2022 17:57:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.83
+5/16/2022 17:58:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 17:58:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 17:58:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 17:58:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 17:58:55: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 17:59:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 18:00:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 18:00:42: [G_Auto 1] :  Placed closure bet with greening on Marco Cecchinato by Backing 10.55 at 1.64
+5/16/2022 18:00:42: [G_Auto 2] :  Store Text Value (Shared) for Dominic Thiem: aPoints = point: 0; games: 1; sets: 0 
+5/16/2022 18:00:42: [G_Auto 2] :  Store Text Value (Shared) for Dominic Thiem: aServing = serving:1
+5/16/2022 18:00:42: [G_Auto 2] :  Store Text Value (Shared) for Marco Cecchinato: bPoints = point: 0; games: 1; sets: 1 
+5/16/2022 18:00:42: [G_Auto 2] :  Store Text Value (Shared) for Marco Cecchinato: bServing = serving:0
+5/16/2022 18:00:42: [G_Auto 2] :  Store Value (Shared) for market: price = 1.64
+5/16/2022 18:00:42: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 76.03
+5/16/2022 18:00:42: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 76.85
+5/16/2022 18:00:42: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.55
+5/16/2022 18:00:42: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 152.88
+5/16/2022 18:00:42: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.8
+5/16/2022 18:00:42: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.5
+5/16/2022 18:00:42: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.66
+5/16/2022 18:00:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 18:01:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 18:01:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 18:01:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 18:01:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 18:01:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 18:07:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 18:07:31: [G_Auto 1] :  € 10.81 Lay bet placed on Marco Cecchinato at 1.74. Fully matched at 1.74.  Ref: 10312          ( Fill or kill bet with 15 seconds delay.   )
+5/16/2022 18:07:31: [G_Auto 2] :  Store Text Value (Shared) for Dominic Thiem: aPoints = point: 0; games: 2; sets: 0 
+5/16/2022 18:07:31: [G_Auto 2] :  Store Text Value (Shared) for Dominic Thiem: aServing = serving:0
+5/16/2022 18:07:31: [G_Auto 2] :  Store Text Value (Shared) for Marco Cecchinato: bPoints = point: 0; games: 1; sets: 1 
+5/16/2022 18:07:31: [G_Auto 2] :  Store Text Value (Shared) for Marco Cecchinato: bServing = serving:2
+5/16/2022 18:07:31: [G_Auto 2] :  Store Value (Shared) for market: price = 1.74
+5/16/2022 18:07:31: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 76.03
+5/16/2022 18:07:31: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 87.66
+5/16/2022 18:07:31: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.81
+5/16/2022 18:07:31: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 163.69
+5/16/2022 18:07:31: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.74
+5/16/2022 18:07:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.4
+5/16/2022 18:07:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.72
+5/16/2022 18:07:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 18:07:37: [G_Auto 2] :  Store Text Value (Shared) for Dominic Thiem: aPoints = point: 0; games: 2; sets: 0 
+5/16/2022 18:07:37: [G_Auto 2] :  Store Text Value (Shared) for Dominic Thiem: aServing = serving:0
+5/16/2022 18:07:37: [G_Auto 2] :  Store Text Value (Shared) for Marco Cecchinato: bPoints = point: 0; games: 1; sets: 1 
+5/16/2022 18:07:37: [G_Auto 2] :  Store Text Value (Shared) for Marco Cecchinato: bServing = serving:2
+5/16/2022 18:07:37: [G_Auto 2] :  Store Value (Shared) for market: price = 1.74
+5/16/2022 18:07:37: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 76.03
+5/16/2022 18:07:37: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 87.66
+5/16/2022 18:07:37: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.81
+5/16/2022 18:07:37: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 163.69
+5/16/2022 18:07:37: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.69
+5/16/2022 18:07:37: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.4
+5/16/2022 18:07:37: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.72
+5/16/2022 18:07:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 18:08:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 18:08:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 18:08:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 18:08:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 18:09:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 18:09:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 18:09:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 18:16:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 18:17:06: [G_Auto 1] :  Placed closure bet with greening on Marco Cecchinato by Backing 11.00 at 1.71
+5/16/2022 18:17:06: [G_Auto 2] :  Store Text Value (Shared) for Dominic Thiem: aPoints = point: 0; games: 2; sets: 0 
+5/16/2022 18:17:06: [G_Auto 2] :  Store Text Value (Shared) for Dominic Thiem: aServing = serving:1
+5/16/2022 18:17:06: [G_Auto 2] :  Store Text Value (Shared) for Marco Cecchinato: bPoints = point: 0; games: 2; sets: 1 
+5/16/2022 18:17:06: [G_Auto 2] :  Store Text Value (Shared) for Marco Cecchinato: bServing = serving:0
+5/16/2022 18:17:06: [G_Auto 2] :  Store Value (Shared) for market: price = 1.71
+5/16/2022 18:17:06: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 87.03
+5/16/2022 18:17:06: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 87.66
+5/16/2022 18:17:06: [G_Auto 2] :  Store Value (Shared) for market: stake = 11
+5/16/2022 18:17:06: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 174.69
+5/16/2022 18:17:06: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.62
+5/16/2022 18:17:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.4
+5/16/2022 18:17:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.72
+5/16/2022 18:17:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 18:17:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 18:17:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 18:17:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 18:18:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 18:19:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 18:20:01: [G_Auto 1] :  € 9.20 Lay bet placed on Marco Cecchinato at 1.87. Fully matched at 1.86.  Ref: 10317          ( Fill or kill bet with 15 seconds delay.   )
+5/16/2022 18:20:01: [G_Auto 2] :  Store Text Value (Shared) for Dominic Thiem: aPoints = point: 0; games: 3; sets: 0 
+5/16/2022 18:20:01: [G_Auto 2] :  Store Text Value (Shared) for Dominic Thiem: aServing = serving:0
+5/16/2022 18:20:01: [G_Auto 2] :  Store Text Value (Shared) for Marco Cecchinato: bPoints = point: 0; games: 2; sets: 1 
+5/16/2022 18:20:01: [G_Auto 2] :  Store Text Value (Shared) for Marco Cecchinato: bServing = serving:2
+5/16/2022 18:20:01: [G_Auto 2] :  Store Value (Shared) for market: price = 1.86
+5/16/2022 18:20:01: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 87.03
+5/16/2022 18:20:01: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 96.86
+5/16/2022 18:20:01: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.2
+5/16/2022 18:20:01: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 183.89
+5/16/2022 18:20:01: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.58
+5/16/2022 18:20:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.16
+5/16/2022 18:20:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.85
+5/16/2022 18:20:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 18:20:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 18:20:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 18:20:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 18:21:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 18:21:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 18:21:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 18:21:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 18:22:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 18:22:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 18:24:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 18:24:37: [G_Auto 1] :  Placed closure bet with greening on Marco Cecchinato by Backing 9.89 at 1.73
+5/16/2022 18:24:37: [G_Auto 2] :  Store Text Value (Shared) for Dominic Thiem: aPoints = point: 0; games: 3; sets: 0 
+5/16/2022 18:24:37: [G_Auto 2] :  Store Text Value (Shared) for Dominic Thiem: aServing = serving:1
+5/16/2022 18:24:37: [G_Auto 2] :  Store Text Value (Shared) for Marco Cecchinato: bPoints = point: 0; games: 3; sets: 1 
+5/16/2022 18:24:37: [G_Auto 2] :  Store Text Value (Shared) for Marco Cecchinato: bServing = serving:0
+5/16/2022 18:24:37: [G_Auto 2] :  Store Value (Shared) for market: price = 1.74
+5/16/2022 18:24:37: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 96.92
+5/16/2022 18:24:37: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 96.86
+5/16/2022 18:24:37: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.89
+5/16/2022 18:24:37: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 193.78
+5/16/2022 18:24:37: [G_Auto 2] :  Store Value (Shared) for market: pl = 0
+5/16/2022 18:24:37: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.34
+5/16/2022 18:24:37: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.75
+5/16/2022 18:24:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 18:24:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 18:25:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 18:25:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 18:25:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 18:25:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 18:26:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 18:28:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 18:28:50: [G_Auto 1] :  € 50.00 Lay bet placed on Marco Cecchinato at 1.16. Fully matched at 1.15.  Ref: 10322          ( Fill or kill bet with 15 seconds delay.   )
+5/16/2022 18:28:50: [G_Auto 2] :  Store Text Value (Shared) for Dominic Thiem: aPoints = point: 0; games: 3; sets: 0 
+5/16/2022 18:28:50: [G_Auto 2] :  Store Text Value (Shared) for Dominic Thiem: aServing = serving:0
+5/16/2022 18:28:50: [G_Auto 2] :  Store Text Value (Shared) for Marco Cecchinato: bPoints = point: 0; games: 4; sets: 1 
+5/16/2022 18:28:50: [G_Auto 2] :  Store Text Value (Shared) for Marco Cecchinato: bServing = serving:2
+5/16/2022 18:28:50: [G_Auto 2] :  Store Value (Shared) for market: price = 1.15
+5/16/2022 18:28:50: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 96.92
+5/16/2022 18:28:50: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 146.86
+5/16/2022 18:28:50: [G_Auto 2] :  Store Value (Shared) for market: stake = 50
+5/16/2022 18:28:50: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 243.78
+5/16/2022 18:28:50: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.41
+5/16/2022 18:28:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 8
+5/16/2022 18:28:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.15
+5/16/2022 18:28:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 18:29:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 18:29:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 18:29:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 18:29:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 18:30:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 18:30:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 18:30:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 18:30:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 18:31:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 18:31:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 18:31:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 18:33:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 18:33:26: [G_Auto 1] :  Placed closure bet with greening on Marco Cecchinato by Backing 54.15 at 1.06
+5/16/2022 18:33:26: [G_Auto 2] :  Store Text Value (Shared) for Dominic Thiem: aPoints = point: 0; games: 3; sets: 0 
+5/16/2022 18:33:26: [G_Auto 2] :  Store Text Value (Shared) for Dominic Thiem: aServing = serving:1
+5/16/2022 18:33:26: [G_Auto 2] :  Store Text Value (Shared) for Marco Cecchinato: bPoints = point: 0; games: 5; sets: 1 
+5/16/2022 18:33:26: [G_Auto 2] :  Store Text Value (Shared) for Marco Cecchinato: bServing = serving:0
+5/16/2022 18:33:26: [G_Auto 2] :  Store Value (Shared) for market: price = 1.06
+5/16/2022 18:33:26: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 151.07
+5/16/2022 18:33:26: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 146.86
+5/16/2022 18:33:26: [G_Auto 2] :  Store Value (Shared) for market: stake = 54.15
+5/16/2022 18:33:26: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 297.93
+5/16/2022 18:33:26: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.21
+5/16/2022 18:33:26: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 17.5
+5/16/2022 18:33:26: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.07
+5/16/2022 18:33:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 18:33:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 18:34:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 18:34:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 18:34:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 18:34:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 18:34:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 18:36:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 18:37:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 18:37:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 18:37:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 18:37:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 18:38:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 18:38:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 18:38:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 18:38:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 18:39:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 18:39:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/16/2022 18:40:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/16/2022 18:40:55:  Guardian has detected that the market is suspended

@@ -1,0 +1,339 @@
+5/18/2022 09:56:36: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: info = marketName: Burel v Luc Bronzetti - Match Odds; runnerA: Clara Burel; runnerB: Lucia Bronzetti 
+5/18/2022 09:56:36: [G_Auto 2] :  Store Value (Shared) for market: aId = 10351066
+5/18/2022 09:56:36: [G_Auto 2] :  Store Value (Shared) for market: bId = 9631351
+5/18/2022 19:21:20:  Guardian has detected that the market is in-play
+5/18/2022 19:21:20:  Guardian has detected that the market is suspended
+5/18/2022 19:21:20: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 2.56; bBsp: 1.63; volume: 28430.48 
+5/18/2022 19:21:20: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 2.56; bBsp: 1.63; volume: 28430.48 
+5/18/2022 19:21:20:  Guardian has detected that the market is now unsuspended
+5/18/2022 19:21:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 19:21:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 19:25:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 19:25:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 19:26:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 19:26:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 19:26:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 19:26:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 19:27:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 19:27:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 19:27:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 19:30:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 19:30:59: [G_Auto 1] :  € 11.94 Lay bet placed on Lucia Bronzetti at 1.67. Fully matched at 1.66.  Ref: 10323          ( Fill or kill bet with 15 seconds delay.   )
+5/18/2022 19:31:00: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aPoints = point: 0; games: 1; sets: 0 
+5/18/2022 19:31:00: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aServing = serving:0
+5/18/2022 19:31:00: [G_Auto 2] :  Store Text Value (Shared) for Lucia Bronzetti: bPoints = point: 0; games: 1; sets: 0 
+5/18/2022 19:31:00: [G_Auto 2] :  Store Text Value (Shared) for Lucia Bronzetti: bServing = serving:2
+5/18/2022 19:31:00: [G_Auto 2] :  Store Value (Shared) for market: price = 1.66
+5/18/2022 19:31:00: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+5/18/2022 19:31:00: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 11.94
+5/18/2022 19:31:00: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.94
+5/18/2022 19:31:00: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 11.94
+5/18/2022 19:31:00: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.07
+5/18/2022 19:31:00: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.5
+5/18/2022 19:31:00: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.66
+5/18/2022 19:31:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 19:31:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 19:31:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 19:31:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 19:31:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 19:32:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 19:32:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 19:32:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 19:34:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 19:35:01: [G_Auto 1] :  Placed closure bet with greening on Lucia Bronzetti by Backing 13.39 at 1.48
+5/18/2022 19:35:02: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aPoints = point: 0; games: 1; sets: 0 
+5/18/2022 19:35:02: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aServing = serving:1
+5/18/2022 19:35:02: [G_Auto 2] :  Store Text Value (Shared) for Lucia Bronzetti: bPoints = point: 0; games: 2; sets: 0 
+5/18/2022 19:35:02: [G_Auto 2] :  Store Text Value (Shared) for Lucia Bronzetti: bServing = serving:0
+5/18/2022 19:35:02: [G_Auto 2] :  Store Value (Shared) for market: price = 1.48
+5/18/2022 19:35:02: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 13.39
+5/18/2022 19:35:02: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 11.94
+5/18/2022 19:35:02: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.39
+5/18/2022 19:35:02: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 25.33
+5/18/2022 19:35:02: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.45
+5/18/2022 19:35:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3
+5/18/2022 19:35:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.5
+5/18/2022 19:35:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 19:35:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 19:35:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 19:35:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 19:36:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 19:36:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 19:36:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 19:36:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 19:37:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 19:37:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 19:40:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 19:40:35: [G_Auto 1] :  € 22.86 Lay bet placed on Lucia Bronzetti at 1.35. Fully matched at 1.34.  Ref: 10328          ( Fill or kill bet with 15 seconds delay.   )
+5/18/2022 19:40:35: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aPoints = point: 0; games: 1; sets: 0 
+5/18/2022 19:40:35: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aServing = serving:0
+5/18/2022 19:40:35: [G_Auto 2] :  Store Text Value (Shared) for Lucia Bronzetti: bPoints = point: 0; games: 3; sets: 0 
+5/18/2022 19:40:35: [G_Auto 2] :  Store Text Value (Shared) for Lucia Bronzetti: bServing = serving:2
+5/18/2022 19:40:35: [G_Auto 2] :  Store Value (Shared) for market: price = 1.34
+5/18/2022 19:40:35: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 13.39
+5/18/2022 19:40:35: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 34.8
+5/18/2022 19:40:35: [G_Auto 2] :  Store Value (Shared) for market: stake = 22.86
+5/18/2022 19:40:35: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 48.19
+5/18/2022 19:40:35: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.62
+5/18/2022 19:40:35: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.5
+5/18/2022 19:40:35: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.34
+5/18/2022 19:40:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 19:40:41: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aPoints = point: 0; games: 1; sets: 0 
+5/18/2022 19:40:41: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aServing = serving:0
+5/18/2022 19:40:41: [G_Auto 2] :  Store Text Value (Shared) for Lucia Bronzetti: bPoints = point: 0; games: 3; sets: 0 
+5/18/2022 19:40:41: [G_Auto 2] :  Store Text Value (Shared) for Lucia Bronzetti: bServing = serving:2
+5/18/2022 19:40:41: [G_Auto 2] :  Store Value (Shared) for market: price = 1.34
+5/18/2022 19:40:41: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 13.39
+5/18/2022 19:40:41: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 34.8
+5/18/2022 19:40:41: [G_Auto 2] :  Store Value (Shared) for market: stake = 22.86
+5/18/2022 19:40:41: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 48.19
+5/18/2022 19:40:41: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.62
+5/18/2022 19:40:41: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.5
+5/18/2022 19:40:41: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.33
+5/18/2022 19:40:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 19:41:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 19:41:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 19:41:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 19:45:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 19:45:56: [G_Auto 1] :  Placed closure bet with greening on Lucia Bronzetti by Backing 24.71 at 1.24
+5/18/2022 19:45:56: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aPoints = point: 0; games: 1; sets: 0 
+5/18/2022 19:45:56: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aServing = serving:1
+5/18/2022 19:45:56: [G_Auto 2] :  Store Text Value (Shared) for Lucia Bronzetti: bPoints = point: 0; games: 4; sets: 0 
+5/18/2022 19:45:56: [G_Auto 2] :  Store Text Value (Shared) for Lucia Bronzetti: bServing = serving:0
+5/18/2022 19:45:56: [G_Auto 2] :  Store Value (Shared) for market: price = 1.24
+5/18/2022 19:45:56: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 38.1
+5/18/2022 19:45:56: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 34.8
+5/18/2022 19:45:56: [G_Auto 2] :  Store Value (Shared) for market: stake = 24.71
+5/18/2022 19:45:56: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 72.9
+5/18/2022 19:45:56: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.3
+5/18/2022 19:45:56: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.3
+5/18/2022 19:45:56: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.26
+5/18/2022 19:46:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 19:46:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 19:46:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 19:46:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 19:47:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 19:47:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 19:47:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 19:47:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 19:47:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 19:51:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 19:52:01: [G_Auto 1] :  € 38.10 Lay bet placed on Lucia Bronzetti at 1.21. Fully matched at 1.2.  Ref: 10335          ( Fill or kill bet with 15 seconds delay.   )
+5/18/2022 19:52:01: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aPoints = point: 0; games: 1; sets: 0 
+5/18/2022 19:52:01: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aServing = serving:0
+5/18/2022 19:52:01: [G_Auto 2] :  Store Text Value (Shared) for Lucia Bronzetti: bPoints = point: 0; games: 5; sets: 0 
+5/18/2022 19:52:01: [G_Auto 2] :  Store Text Value (Shared) for Lucia Bronzetti: bServing = serving:2
+5/18/2022 19:52:01: [G_Auto 2] :  Store Value (Shared) for market: price = 1.2
+5/18/2022 19:52:01: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 38.1
+5/18/2022 19:52:01: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 72.9
+5/18/2022 19:52:01: [G_Auto 2] :  Store Value (Shared) for market: stake = 38.1
+5/18/2022 19:52:01: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 111
+5/18/2022 19:52:01: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.62
+5/18/2022 19:52:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 6
+5/18/2022 19:52:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.19
+5/18/2022 19:52:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 19:52:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 19:52:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 19:52:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 19:52:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 19:53:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 19:54:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 19:54:46: [G_Auto 1] :  Placed closure bet with greening on Lucia Bronzetti by Backing 36.57 at 1.25
+5/18/2022 19:54:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 19:55:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 19:55:06: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aPoints = point: 0; games: 2; sets: 0 
+5/18/2022 19:55:06: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aServing = serving:1
+5/18/2022 19:55:06: [G_Auto 2] :  Store Text Value (Shared) for Lucia Bronzetti: bPoints = point: 0; games: 5; sets: 0 
+5/18/2022 19:55:06: [G_Auto 2] :  Store Text Value (Shared) for Lucia Bronzetti: bServing = serving:0
+5/18/2022 19:55:06: [G_Auto 2] :  Store Value (Shared) for market: price = 1.25
+5/18/2022 19:55:06: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 74.67
+5/18/2022 19:55:06: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 72.9
+5/18/2022 19:55:06: [G_Auto 2] :  Store Value (Shared) for market: stake = 36.57
+5/18/2022 19:55:06: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 147.57
+5/18/2022 19:55:06: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.77
+5/18/2022 19:55:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.8
+5/18/2022 19:55:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.26
+5/18/2022 19:55:11: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aPoints = point: 0; games: 2; sets: 0 
+5/18/2022 19:55:11: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aServing = serving:1
+5/18/2022 19:55:11: [G_Auto 2] :  Store Text Value (Shared) for Lucia Bronzetti: bPoints = point: 0; games: 5; sets: 0 
+5/18/2022 19:55:11: [G_Auto 2] :  Store Text Value (Shared) for Lucia Bronzetti: bServing = serving:0
+5/18/2022 19:55:11: [G_Auto 2] :  Store Value (Shared) for market: price = 1.25
+5/18/2022 19:55:11: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 74.67
+5/18/2022 19:55:11: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 72.9
+5/18/2022 19:55:11: [G_Auto 2] :  Store Value (Shared) for market: stake = 36.57
+5/18/2022 19:55:11: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 147.57
+5/18/2022 19:55:11: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.77
+5/18/2022 19:55:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.8
+5/18/2022 19:55:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.25
+5/18/2022 19:55:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 19:55:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 19:55:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 19:56:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 19:56:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 19:56:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 19:56:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 19:56:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 19:57:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 19:59:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 19:59:49: [G_Auto 1] :  € 22.86 Lay bet placed on Lucia Bronzetti at 1.35. Fully matched at 1.34.  Ref: 10340          ( Fill or kill bet with 15 seconds delay.   )
+5/18/2022 19:59:50: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aPoints = point: 0; games: 3; sets: 0 
+5/18/2022 19:59:50: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aServing = serving:0
+5/18/2022 19:59:50: [G_Auto 2] :  Store Text Value (Shared) for Lucia Bronzetti: bPoints = point: 0; games: 5; sets: 0 
+5/18/2022 19:59:50: [G_Auto 2] :  Store Text Value (Shared) for Lucia Bronzetti: bServing = serving:2
+5/18/2022 19:59:50: [G_Auto 2] :  Store Value (Shared) for market: price = 1.34
+5/18/2022 19:59:50: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 74.67
+5/18/2022 19:59:50: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 95.76
+5/18/2022 19:59:50: [G_Auto 2] :  Store Value (Shared) for market: stake = 22.86
+5/18/2022 19:59:50: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 170.43
+5/18/2022 19:59:50: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.94
+5/18/2022 19:59:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.3
+5/18/2022 19:59:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.33
+5/18/2022 19:59:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 19:59:55: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aPoints = point: 0; games: 3; sets: 0 
+5/18/2022 19:59:55: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aServing = serving:0
+5/18/2022 19:59:55: [G_Auto 2] :  Store Text Value (Shared) for Lucia Bronzetti: bPoints = point: 0; games: 5; sets: 0 
+5/18/2022 19:59:55: [G_Auto 2] :  Store Text Value (Shared) for Lucia Bronzetti: bServing = serving:2
+5/18/2022 19:59:55: [G_Auto 2] :  Store Value (Shared) for market: price = 1.34
+5/18/2022 19:59:55: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 74.67
+5/18/2022 19:59:55: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 95.76
+5/18/2022 19:59:55: [G_Auto 2] :  Store Value (Shared) for market: stake = 22.86
+5/18/2022 19:59:55: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 170.43
+5/18/2022 19:59:55: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.94
+5/18/2022 19:59:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.3
+5/18/2022 19:59:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.33
+5/18/2022 20:00:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 20:00:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 20:00:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 20:00:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 20:01:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 20:01:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 20:03:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 20:03:31: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 5.3
+5/18/2022 20:03:31: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 1.21
+5/18/2022 20:03:36: [G_Auto 1] :  Placed closure bet with greening on Lucia Bronzetti by Backing 25.32 at 1.21
+5/18/2022 20:03:36: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aPoints = point: 0; games: 0; sets: 0 
+5/18/2022 20:03:36: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aServing = serving:1
+5/18/2022 20:03:36: [G_Auto 2] :  Store Text Value (Shared) for Lucia Bronzetti: bPoints = point: 0; games: 0; sets: 1 
+5/18/2022 20:03:36: [G_Auto 2] :  Store Text Value (Shared) for Lucia Bronzetti: bServing = serving:0
+5/18/2022 20:03:36: [G_Auto 2] :  Store Value (Shared) for market: price = 1.21
+5/18/2022 20:03:36: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 99.99
+5/18/2022 20:03:36: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 95.76
+5/18/2022 20:03:36: [G_Auto 2] :  Store Value (Shared) for market: stake = 25.32
+5/18/2022 20:03:36: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 195.75
+5/18/2022 20:03:36: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.23
+5/18/2022 20:03:36: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 5.5
+5/18/2022 20:03:36: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.23
+5/18/2022 20:03:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 20:03:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 20:04:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 20:04:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 20:04:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 20:04:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 20:05:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 20:05:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 20:05:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 20:05:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 20:06:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 20:06:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 20:06:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 20:06:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 20:08:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 20:08:59: [G_Auto 1] :  € 53.33 Lay bet placed on Lucia Bronzetti at 1.15. Fully matched at 1.14.  Ref: 10346          ( Fill or kill bet with 15 seconds delay.   )
+5/18/2022 20:09:00: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aPoints = point: 0; games: 0; sets: 0 
+5/18/2022 20:09:00: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aServing = serving:0
+5/18/2022 20:09:00: [G_Auto 2] :  Store Text Value (Shared) for Lucia Bronzetti: bPoints = point: 0; games: 1; sets: 1 
+5/18/2022 20:09:00: [G_Auto 2] :  Store Text Value (Shared) for Lucia Bronzetti: bServing = serving:2
+5/18/2022 20:09:00: [G_Auto 2] :  Store Value (Shared) for market: price = 1.14
+5/18/2022 20:09:00: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 99.99
+5/18/2022 20:09:00: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 149.09
+5/18/2022 20:09:00: [G_Auto 2] :  Store Value (Shared) for market: stake = 53.33
+5/18/2022 20:09:00: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 249.08
+5/18/2022 20:09:00: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.7
+5/18/2022 20:09:00: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 8
+5/18/2022 20:09:00: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.13
+5/18/2022 20:09:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 20:09:05: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aPoints = point: 0; games: 0; sets: 0 
+5/18/2022 20:09:05: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aServing = serving:0
+5/18/2022 20:09:05: [G_Auto 2] :  Store Text Value (Shared) for Lucia Bronzetti: bPoints = point: 0; games: 1; sets: 1 
+5/18/2022 20:09:05: [G_Auto 2] :  Store Text Value (Shared) for Lucia Bronzetti: bServing = serving:2
+5/18/2022 20:09:05: [G_Auto 2] :  Store Value (Shared) for market: price = 1.14
+5/18/2022 20:09:05: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 99.99
+5/18/2022 20:09:05: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 149.09
+5/18/2022 20:09:05: [G_Auto 2] :  Store Value (Shared) for market: stake = 53.33
+5/18/2022 20:09:05: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 249.08
+5/18/2022 20:09:05: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.7
+5/18/2022 20:09:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 8
+5/18/2022 20:09:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.14
+5/18/2022 20:09:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 20:09:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 20:09:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 20:10:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 20:10:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 20:10:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 20:10:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 20:10:55: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 20:12:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 20:13:08: [G_Auto 1] :  Placed closure bet with greening on Lucia Bronzetti by Backing 56.29 at 1.08
+5/18/2022 20:13:09: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aPoints = point: 0; games: 0; sets: 0 
+5/18/2022 20:13:09: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aServing = serving:1
+5/18/2022 20:13:09: [G_Auto 2] :  Store Text Value (Shared) for Lucia Bronzetti: bPoints = point: 0; games: 2; sets: 1 
+5/18/2022 20:13:09: [G_Auto 2] :  Store Text Value (Shared) for Lucia Bronzetti: bServing = serving:0
+5/18/2022 20:13:09: [G_Auto 2] :  Store Value (Shared) for market: price = 1.08
+5/18/2022 20:13:09: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 156.28
+5/18/2022 20:13:09: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 149.09
+5/18/2022 20:13:09: [G_Auto 2] :  Store Value (Shared) for market: stake = 56.29
+5/18/2022 20:13:09: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 305.37
+5/18/2022 20:13:09: [G_Auto 2] :  Store Value (Shared) for market: pl = -7.19
+5/18/2022 20:13:09: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 12
+5/18/2022 20:13:09: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.09
+5/18/2022 20:13:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 20:13:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 20:13:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 20:13:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 20:15:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 20:16:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 20:16:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 20:16:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 20:16:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 20:17:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 20:17:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 20:17:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 20:17:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 20:17:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 20:18:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 20:18:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 20:20:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 20:20:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 20:20:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 20:20:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 20:21:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 20:22:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 20:22:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 20:22:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 20:23:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 20:23:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 20:23:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 20:23:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 20:24:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 20:24:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 20:24:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 20:24:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 20:31:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 20:31:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 20:32:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 20:32:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 20:32:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 20:33:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 20:33:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 20:34:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 20:34:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 20:34:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 20:34:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 20:35:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 20:35:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 20:35:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 20:35:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 20:35:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 20:36:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 20:37:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 20:37:58:  Guardian has detected that the market is suspended

@@ -1,0 +1,418 @@
+5/18/2022 09:56:33: [G_Auto 2] :  Store Text Value (Shared) for Tallon Griekspoor: info = marketName: T Griekspoor v Nikles - Match Odds; runnerA: Tallon Griekspoor; runnerB: Johan Nikles 
+5/18/2022 09:56:33: [G_Auto 2] :  Store Value (Shared) for market: aId = 9198585
+5/18/2022 09:56:33: [G_Auto 2] :  Store Value (Shared) for market: bId = 9629446
+5/18/2022 15:39:55:  Guardian has detected that the market is in-play
+5/18/2022 15:39:55:  Guardian has detected that the market is suspended
+5/18/2022 15:39:57: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.21; bBsp: 5.8; volume: 70756.46 
+5/18/2022 15:39:57: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.21; bBsp: 5.8; volume: 70756.46 
+5/18/2022 15:39:57:  Guardian has detected that the market is now unsuspended
+5/18/2022 15:40:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 15:40:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 15:41:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 15:41:49: [G_Auto 1] :  € 26.67 Lay bet placed on Tallon Griekspoor at 1.3. Fully matched at 1.29.  Ref: 10185          ( Fill or kill bet with 15 seconds delay.   )
+5/18/2022 15:41:51: [G_Auto 2] :  Store Text Value (Shared) for Tallon Griekspoor: aPoints = point: 0; games: 0; sets: 0 
+5/18/2022 15:41:51: [G_Auto 2] :  Store Text Value (Shared) for Tallon Griekspoor: aServing = serving:1
+5/18/2022 15:41:51: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bPoints = point: 0; games: 1; sets: 0 
+5/18/2022 15:41:51: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bServing = serving:0
+5/18/2022 15:41:51: [G_Auto 2] :  Store Value (Shared) for market: price = 1.29
+5/18/2022 15:41:51: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+5/18/2022 15:41:51: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 26.67
+5/18/2022 15:41:51: [G_Auto 2] :  Store Value (Shared) for market: stake = 26.67
+5/18/2022 15:41:51: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 26.67
+5/18/2022 15:41:51: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.21
+5/18/2022 15:41:51: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.28
+5/18/2022 15:41:51: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.3
+5/18/2022 15:41:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 15:41:56: [G_Auto 2] :  Store Text Value (Shared) for Tallon Griekspoor: aPoints = point: 0; games: 0; sets: 0 
+5/18/2022 15:41:56: [G_Auto 2] :  Store Text Value (Shared) for Tallon Griekspoor: aServing = serving:1
+5/18/2022 15:41:56: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bPoints = point: 0; games: 1; sets: 0 
+5/18/2022 15:41:56: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bServing = serving:0
+5/18/2022 15:41:56: [G_Auto 2] :  Store Value (Shared) for market: price = 1.29
+5/18/2022 15:41:56: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+5/18/2022 15:41:56: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 26.67
+5/18/2022 15:41:56: [G_Auto 2] :  Store Value (Shared) for market: stake = 26.67
+5/18/2022 15:41:56: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 26.67
+5/18/2022 15:41:56: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.21
+5/18/2022 15:41:56: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.29
+5/18/2022 15:41:56: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.3
+5/18/2022 15:42:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 15:42:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 15:42:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 15:43:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 15:44:00: [G_Auto 1] :  Placed closure bet with greening on Tallon Griekspoor by Backing 28.20 at 1.22
+5/18/2022 15:44:02: [G_Auto 2] :  Store Text Value (Shared) for Tallon Griekspoor: aPoints = point: 0; games: 1; sets: 0 
+5/18/2022 15:44:02: [G_Auto 2] :  Store Text Value (Shared) for Tallon Griekspoor: aServing = serving:0
+5/18/2022 15:44:02: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bPoints = point: 0; games: 1; sets: 0 
+5/18/2022 15:44:02: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bServing = serving:2
+5/18/2022 15:44:02: [G_Auto 2] :  Store Value (Shared) for market: price = 1.22
+5/18/2022 15:44:02: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 28.2
+5/18/2022 15:44:02: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 26.67
+5/18/2022 15:44:02: [G_Auto 2] :  Store Value (Shared) for market: stake = 28.2
+5/18/2022 15:44:02: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 54.87
+5/18/2022 15:44:02: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.53
+5/18/2022 15:44:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.23
+5/18/2022 15:44:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.5
+5/18/2022 15:44:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 15:44:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 15:44:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 15:44:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 15:45:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 15:48:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 15:48:31: [G_Auto 1] :  € 57.14 Lay bet placed on Tallon Griekspoor at 1.14. Fully matched at 1.13.  Ref: 10192          ( Fill or kill bet with 15 seconds delay.   )
+5/18/2022 15:48:33: [G_Auto 2] :  Store Text Value (Shared) for Tallon Griekspoor: aPoints = point: 0; games: 2; sets: 0 
+5/18/2022 15:48:33: [G_Auto 2] :  Store Text Value (Shared) for Tallon Griekspoor: aServing = serving:1
+5/18/2022 15:48:33: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bPoints = point: 0; games: 1; sets: 0 
+5/18/2022 15:48:33: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bServing = serving:0
+5/18/2022 15:48:33: [G_Auto 2] :  Store Value (Shared) for market: price = 1.13
+5/18/2022 15:48:33: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 28.2
+5/18/2022 15:48:33: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 83.81
+5/18/2022 15:48:33: [G_Auto 2] :  Store Value (Shared) for market: stake = 57.14
+5/18/2022 15:48:33: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 112.01
+5/18/2022 15:48:33: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.04
+5/18/2022 15:48:33: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.12
+5/18/2022 15:48:33: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 9.2
+5/18/2022 15:48:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 15:48:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 15:49:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 15:49:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 15:49:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 15:49:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 15:50:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 15:50:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 15:50:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 15:52:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 15:52:24: [G_Auto 1] :  Placed closure bet with greening on Tallon Griekspoor by Backing 59.24 at 1.09
+5/18/2022 15:52:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 15:52:27: [G_Auto 2] :  Store Text Value (Shared) for Tallon Griekspoor: aPoints = point: 0; games: 3; sets: 0 
+5/18/2022 15:52:27: [G_Auto 2] :  Store Text Value (Shared) for Tallon Griekspoor: aServing = serving:0
+5/18/2022 15:52:27: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bPoints = point: 0; games: 1; sets: 0 
+5/18/2022 15:52:27: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bServing = serving:2
+5/18/2022 15:52:27: [G_Auto 2] :  Store Value (Shared) for market: price = 1.09
+5/18/2022 15:52:27: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 87.44
+5/18/2022 15:52:27: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 83.81
+5/18/2022 15:52:27: [G_Auto 2] :  Store Value (Shared) for market: stake = 59.24
+5/18/2022 15:52:27: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 171.25
+5/18/2022 15:52:27: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.63
+5/18/2022 15:52:27: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.09
+5/18/2022 15:52:27: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 11
+5/18/2022 15:52:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 15:53:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 15:53:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 15:53:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 15:53:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 15:54:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 15:54:50: [G_Auto 1] :  € 57.14 Lay bet placed on Tallon Griekspoor at 1.14. Fully matched at 1.13.  Ref: 10197          ( Fill or kill bet with 15 seconds delay.   )
+5/18/2022 15:54:52: [G_Auto 2] :  Store Text Value (Shared) for Tallon Griekspoor: aPoints = point: 0; games: 3; sets: 0 
+5/18/2022 15:54:52: [G_Auto 2] :  Store Text Value (Shared) for Tallon Griekspoor: aServing = serving:1
+5/18/2022 15:54:52: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bPoints = point: 0; games: 2; sets: 0 
+5/18/2022 15:54:52: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bServing = serving:0
+5/18/2022 15:54:52: [G_Auto 2] :  Store Value (Shared) for market: price = 1.13
+5/18/2022 15:54:52: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 87.44
+5/18/2022 15:54:52: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 140.95
+5/18/2022 15:54:52: [G_Auto 2] :  Store Value (Shared) for market: stake = 57.14
+5/18/2022 15:54:52: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 228.39
+5/18/2022 15:54:52: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.14
+5/18/2022 15:54:52: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.12
+5/18/2022 15:54:52: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 8.6
+5/18/2022 15:54:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 15:55:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 15:55:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 15:55:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 15:56:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 15:56:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 15:56:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 15:56:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 15:57:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 15:59:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 15:59:31: [G_Auto 1] :  Placed closure bet with greening on Tallon Griekspoor by Backing 58.70 at 1.1
+5/18/2022 15:59:32: [G_Auto 2] :  Store Text Value (Shared) for Tallon Griekspoor: aPoints = point: 0; games: 4; sets: 0 
+5/18/2022 15:59:32: [G_Auto 2] :  Store Text Value (Shared) for Tallon Griekspoor: aServing = serving:0
+5/18/2022 15:59:32: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bPoints = point: 0; games: 2; sets: 0 
+5/18/2022 15:59:32: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bServing = serving:2
+5/18/2022 15:59:32: [G_Auto 2] :  Store Value (Shared) for market: price = 1.1
+5/18/2022 15:59:32: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 146.14
+5/18/2022 15:59:32: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 140.95
+5/18/2022 15:59:32: [G_Auto 2] :  Store Value (Shared) for market: stake = 58.7
+5/18/2022 15:59:32: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 287.09
+5/18/2022 15:59:32: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.19
+5/18/2022 15:59:32: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.1
+5/18/2022 15:59:32: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 11
+5/18/2022 15:59:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 15:59:37: [G_Auto 2] :  Store Text Value (Shared) for Tallon Griekspoor: aPoints = point: 0; games: 4; sets: 0 
+5/18/2022 15:59:37: [G_Auto 2] :  Store Text Value (Shared) for Tallon Griekspoor: aServing = serving:0
+5/18/2022 15:59:37: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bPoints = point: 0; games: 2; sets: 0 
+5/18/2022 15:59:37: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bServing = serving:2
+5/18/2022 15:59:37: [G_Auto 2] :  Store Value (Shared) for market: price = 1.1
+5/18/2022 15:59:37: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 146.14
+5/18/2022 15:59:37: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 140.95
+5/18/2022 15:59:37: [G_Auto 2] :  Store Value (Shared) for market: stake = 58.7
+5/18/2022 15:59:37: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 287.09
+5/18/2022 15:59:37: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.19
+5/18/2022 15:59:37: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.1
+5/18/2022 15:59:37: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 11
+5/18/2022 15:59:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:00:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 16:00:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 16:02:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:03:11: [G_Auto 1] :  € 57.14 Lay bet placed on Tallon Griekspoor at 1.14. Fully matched at 1.13.  Ref: 10202          ( Fill or kill bet with 15 seconds delay.   )
+5/18/2022 16:03:13: [G_Auto 2] :  Store Text Value (Shared) for Tallon Griekspoor: aPoints = point: 0; games: 4; sets: 0 
+5/18/2022 16:03:13: [G_Auto 2] :  Store Text Value (Shared) for Tallon Griekspoor: aServing = serving:1
+5/18/2022 16:03:13: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bPoints = point: 0; games: 3; sets: 0 
+5/18/2022 16:03:13: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bServing = serving:0
+5/18/2022 16:03:13: [G_Auto 2] :  Store Value (Shared) for market: price = 1.13
+5/18/2022 16:03:13: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 146.14
+5/18/2022 16:03:13: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 198.09
+5/18/2022 16:03:13: [G_Auto 2] :  Store Value (Shared) for market: stake = 57.14
+5/18/2022 16:03:13: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 344.23
+5/18/2022 16:03:13: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.7
+5/18/2022 16:03:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.13
+5/18/2022 16:03:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 9.2
+5/18/2022 16:03:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:03:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:03:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:04:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:04:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:04:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:04:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:04:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 16:06:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:06:20: [G_Auto 1] :  Placed closure bet with greening on Tallon Griekspoor by Backing 59.78 at 1.08
+5/18/2022 16:06:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:06:22: [G_Auto 2] :  Store Text Value (Shared) for Tallon Griekspoor: aPoints = point: 0; games: 5; sets: 0 
+5/18/2022 16:06:22: [G_Auto 2] :  Store Text Value (Shared) for Tallon Griekspoor: aServing = serving:0
+5/18/2022 16:06:22: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bPoints = point: 0; games: 3; sets: 0 
+5/18/2022 16:06:22: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bServing = serving:2
+5/18/2022 16:06:22: [G_Auto 2] :  Store Value (Shared) for market: price = 1.08
+5/18/2022 16:06:22: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 205.92
+5/18/2022 16:06:22: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 198.09
+5/18/2022 16:06:22: [G_Auto 2] :  Store Value (Shared) for market: stake = 59.78
+5/18/2022 16:06:22: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 404.01
+5/18/2022 16:06:22: [G_Auto 2] :  Store Value (Shared) for market: pl = -7.83
+5/18/2022 16:06:22: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.08
+5/18/2022 16:06:22: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 8.6
+5/18/2022 16:06:27: [G_Auto 2] :  Store Text Value (Shared) for Tallon Griekspoor: aPoints = point: 0; games: 5; sets: 0 
+5/18/2022 16:06:27: [G_Auto 2] :  Store Text Value (Shared) for Tallon Griekspoor: aServing = serving:0
+5/18/2022 16:06:27: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bPoints = point: 0; games: 3; sets: 0 
+5/18/2022 16:06:27: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bServing = serving:2
+5/18/2022 16:06:27: [G_Auto 2] :  Store Value (Shared) for market: price = 1.08
+5/18/2022 16:06:27: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 205.92
+5/18/2022 16:06:27: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 198.09
+5/18/2022 16:06:27: [G_Auto 2] :  Store Value (Shared) for market: stake = 59.78
+5/18/2022 16:06:27: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 404.01
+5/18/2022 16:06:27: [G_Auto 2] :  Store Value (Shared) for market: pl = -7.83
+5/18/2022 16:06:27: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.08
+5/18/2022 16:06:27: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 8.6
+5/18/2022 16:06:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:06:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 16:07:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 16:07:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 16:08:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:08:50: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 1.05
+5/18/2022 16:08:50: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 18
+5/18/2022 16:08:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:09:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:09:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:09:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:10:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:10:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:10:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:10:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:11:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:11:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:11:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:11:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:11:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 16:12:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 16:13:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:14:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:14:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:14:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 16:14:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 16:16:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:16:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:16:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:17:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:17:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 16:17:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 16:21:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:22:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:22:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:22:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:22:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:23:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:23:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:23:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:23:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 16:24:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 16:27:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:27:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:27:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:28:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 16:28:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 16:33:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:33:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:33:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:33:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:34:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:34:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:34:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:34:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:35:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:35:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 16:38:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:38:51: [G_Auto 1] :  € 28.57 Lay bet placed on Tallon Griekspoor at 1.28. Fully matched at 1.28.  Ref: 10220          ( Fill or kill bet with 15 seconds delay.   )
+5/18/2022 16:38:52: [G_Auto 2] :  Store Text Value (Shared) for Tallon Griekspoor: aPoints = point: 0; games: 2; sets: 1 
+5/18/2022 16:38:52: [G_Auto 2] :  Store Text Value (Shared) for Tallon Griekspoor: aServing = serving:1
+5/18/2022 16:38:52: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bPoints = point: 0; games: 4; sets: 0 
+5/18/2022 16:38:52: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bServing = serving:0
+5/18/2022 16:38:52: [G_Auto 2] :  Store Value (Shared) for market: price = 1.28
+5/18/2022 16:38:52: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 205.92
+5/18/2022 16:38:52: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 226.66
+5/18/2022 16:38:52: [G_Auto 2] :  Store Value (Shared) for market: stake = 28.57
+5/18/2022 16:38:52: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 432.58
+5/18/2022 16:38:52: [G_Auto 2] :  Store Value (Shared) for market: pl = -8.06
+5/18/2022 16:38:52: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.27
+5/18/2022 16:38:52: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.7
+5/18/2022 16:38:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:38:58: [G_Auto 2] :  Store Text Value (Shared) for Tallon Griekspoor: aPoints = point: 0; games: 2; sets: 1 
+5/18/2022 16:38:58: [G_Auto 2] :  Store Text Value (Shared) for Tallon Griekspoor: aServing = serving:1
+5/18/2022 16:38:58: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bPoints = point: 0; games: 4; sets: 0 
+5/18/2022 16:38:58: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bServing = serving:0
+5/18/2022 16:38:58: [G_Auto 2] :  Store Value (Shared) for market: price = 1.28
+5/18/2022 16:38:58: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 205.92
+5/18/2022 16:38:58: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 226.66
+5/18/2022 16:38:58: [G_Auto 2] :  Store Value (Shared) for market: stake = 28.57
+5/18/2022 16:38:58: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 432.58
+5/18/2022 16:38:58: [G_Auto 2] :  Store Value (Shared) for market: pl = -8.06
+5/18/2022 16:38:58: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.28
+5/18/2022 16:38:58: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.5
+5/18/2022 16:39:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:39:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:39:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:39:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 16:39:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 16:40:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:41:05: [G_Auto 1] :  Placed closure bet with greening on Tallon Griekspoor by Backing 30.22 at 1.21
+5/18/2022 16:41:06: [G_Auto 2] :  Store Text Value (Shared) for Tallon Griekspoor: aPoints = point: 0; games: 3; sets: 1 
+5/18/2022 16:41:06: [G_Auto 2] :  Store Text Value (Shared) for Tallon Griekspoor: aServing = serving:0
+5/18/2022 16:41:06: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bPoints = point: 0; games: 4; sets: 0 
+5/18/2022 16:41:06: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bServing = serving:2
+5/18/2022 16:41:06: [G_Auto 2] :  Store Value (Shared) for market: price = 1.21
+5/18/2022 16:41:06: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 236.14
+5/18/2022 16:41:06: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 226.66
+5/18/2022 16:41:06: [G_Auto 2] :  Store Value (Shared) for market: stake = 30.22
+5/18/2022 16:41:06: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 462.8
+5/18/2022 16:41:06: [G_Auto 2] :  Store Value (Shared) for market: pl = -9.48
+5/18/2022 16:41:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.22
+5/18/2022 16:41:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.5
+5/18/2022 16:41:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:41:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:41:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:41:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:42:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:42:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:42:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:42:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:43:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 16:43:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 16:46:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:46:17: [G_Auto 1] :  € 25.00 Lay bet placed on Tallon Griekspoor at 1.32. Fully matched at 1.32.  Ref: 10225          ( Fill or kill bet with 15 seconds delay.   )
+5/18/2022 16:46:19: [G_Auto 2] :  Store Text Value (Shared) for Tallon Griekspoor: aPoints = point: 0; games: 3; sets: 1 
+5/18/2022 16:46:19: [G_Auto 2] :  Store Text Value (Shared) for Tallon Griekspoor: aServing = serving:1
+5/18/2022 16:46:19: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bPoints = point: 0; games: 5; sets: 0 
+5/18/2022 16:46:19: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bServing = serving:0
+5/18/2022 16:46:19: [G_Auto 2] :  Store Value (Shared) for market: price = 1.32
+5/18/2022 16:46:19: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 236.14
+5/18/2022 16:46:19: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 251.66
+5/18/2022 16:46:19: [G_Auto 2] :  Store Value (Shared) for market: stake = 25
+5/18/2022 16:46:19: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 487.8
+5/18/2022 16:46:19: [G_Auto 2] :  Store Value (Shared) for market: pl = -9.87
+5/18/2022 16:46:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.3
+5/18/2022 16:46:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.3
+5/18/2022 16:46:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:46:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:46:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:46:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 16:47:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 16:53:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:53:18: [G_Auto 1] :  Placed closure bet with greening on Tallon Griekspoor by Backing 25.99 at 1.27
+5/18/2022 16:53:19: [G_Auto 2] :  Store Text Value (Shared) for Tallon Griekspoor: aPoints = point: 0; games: 4; sets: 1 
+5/18/2022 16:53:19: [G_Auto 2] :  Store Text Value (Shared) for Tallon Griekspoor: aServing = serving:0
+5/18/2022 16:53:19: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bPoints = point: 0; games: 5; sets: 0 
+5/18/2022 16:53:19: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bServing = serving:2
+5/18/2022 16:53:19: [G_Auto 2] :  Store Value (Shared) for market: price = 1.27
+5/18/2022 16:53:19: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 262.13
+5/18/2022 16:53:19: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 251.66
+5/18/2022 16:53:19: [G_Auto 2] :  Store Value (Shared) for market: stake = 25.99
+5/18/2022 16:53:19: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 513.79
+5/18/2022 16:53:19: [G_Auto 2] :  Store Value (Shared) for market: pl = -10.47
+5/18/2022 16:53:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.29
+5/18/2022 16:53:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.4
+5/18/2022 16:53:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:53:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:53:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:54:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:54:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:54:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:55:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:55:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 16:55:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 16:55:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 16:55:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 16:56:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 17:01:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 17:01:20: [G_Auto 1] :  € 66.67 Lay bet placed on Tallon Griekspoor at 1.12. Fully matched at 1.11.  Ref: 10238          ( Fill or kill bet with 15 seconds delay.   )
+5/18/2022 17:01:21: [G_Auto 2] :  Store Text Value (Shared) for Tallon Griekspoor: aPoints = point: 0; games: 5; sets: 1 
+5/18/2022 17:01:21: [G_Auto 2] :  Store Text Value (Shared) for Tallon Griekspoor: aServing = serving:1
+5/18/2022 17:01:21: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bPoints = point: 0; games: 5; sets: 0 
+5/18/2022 17:01:21: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bServing = serving:0
+5/18/2022 17:01:21: [G_Auto 2] :  Store Value (Shared) for market: price = 1.11
+5/18/2022 17:01:21: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 262.13
+5/18/2022 17:01:21: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 318.33
+5/18/2022 17:01:21: [G_Auto 2] :  Store Value (Shared) for market: stake = 66.67
+5/18/2022 17:01:21: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 580.46
+5/18/2022 17:01:21: [G_Auto 2] :  Store Value (Shared) for market: pl = -11.07
+5/18/2022 17:01:21: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.11
+5/18/2022 17:01:21: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 11
+5/18/2022 17:01:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 17:01:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 17:01:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 17:02:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 17:03:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 17:03:58: [G_Auto 1] :  Placed closure bet with greening on Tallon Griekspoor by Backing 69.81 at 1.06
+5/18/2022 17:03:58: [G_Auto 2] :  Store Text Value (Shared) for Tallon Griekspoor: aPoints = point: 0; games: 6; sets: 1 
+5/18/2022 17:03:58: [G_Auto 2] :  Store Text Value (Shared) for Tallon Griekspoor: aServing = serving:0
+5/18/2022 17:03:58: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bPoints = point: 0; games: 5; sets: 0 
+5/18/2022 17:03:58: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bServing = serving:2
+5/18/2022 17:03:58: [G_Auto 2] :  Store Value (Shared) for market: price = 1.06
+5/18/2022 17:03:58: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 331.94
+5/18/2022 17:03:58: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 318.33
+5/18/2022 17:03:58: [G_Auto 2] :  Store Value (Shared) for market: stake = 69.81
+5/18/2022 17:03:58: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 650.27
+5/18/2022 17:03:58: [G_Auto 2] :  Store Value (Shared) for market: pl = -13.61
+5/18/2022 17:03:58: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.07
+5/18/2022 17:03:58: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 17
+5/18/2022 17:04:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 17:04:04: [G_Auto 2] :  Store Text Value (Shared) for Tallon Griekspoor: aPoints = point: 0; games: 6; sets: 1 
+5/18/2022 17:04:04: [G_Auto 2] :  Store Text Value (Shared) for Tallon Griekspoor: aServing = serving:0
+5/18/2022 17:04:04: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bPoints = point: 0; games: 5; sets: 0 
+5/18/2022 17:04:04: [G_Auto 2] :  Store Text Value (Shared) for Johan Nikles: bServing = serving:2
+5/18/2022 17:04:04: [G_Auto 2] :  Store Value (Shared) for market: price = 1.06
+5/18/2022 17:04:04: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 331.94
+5/18/2022 17:04:04: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 318.33
+5/18/2022 17:04:04: [G_Auto 2] :  Store Value (Shared) for market: stake = 69.81
+5/18/2022 17:04:04: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 650.27
+5/18/2022 17:04:04: [G_Auto 2] :  Store Value (Shared) for market: pl = -13.61
+5/18/2022 17:04:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.07
+5/18/2022 17:04:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 17
+5/18/2022 17:04:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 17:04:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 17:04:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 17:05:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 17:05:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 17:05:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 17:05:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 17:06:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 17:06:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/18/2022 17:07:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/18/2022 17:07:48:  Guardian has detected that the market is suspended
