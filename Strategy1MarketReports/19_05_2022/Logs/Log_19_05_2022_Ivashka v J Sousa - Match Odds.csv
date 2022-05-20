@@ -1,0 +1,615 @@
+5/19/2022 10:54:52: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: info = marketName: Ivashka v J Sousa - Match Odds; runnerA: Ilya Ivashka; runnerB: Joao Sousa 
+5/19/2022 10:54:52: [G_Auto 2] :  Store Value (Shared) for market: aId = 19924837
+5/19/2022 10:54:52: [G_Auto 2] :  Store Value (Shared) for market: bId = 7053035
+5/19/2022 19:56:21:  Guardian has detected that the market is in-play
+5/19/2022 19:56:21:  Guardian has detected that the market is suspended
+5/19/2022 19:56:21: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.42; bBsp: 3.35; volume: 39142.28 
+5/19/2022 19:56:21: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.42; bBsp: 3.35; volume: 39142.28 
+5/19/2022 19:56:21:  Guardian has detected that the market is now unsuspended
+5/19/2022 19:56:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 19:56:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 19:57:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 19:58:06: [G_Auto 1] :  € 14.29 Lay bet placed on Ilya Ivashka at 1.56. Fully matched at 1.55.  Ref: 10214          ( Fill or kill bet with 15 seconds delay.   )
+5/19/2022 19:58:07: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 0; sets: 0 
+5/19/2022 19:58:07: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:1
+5/19/2022 19:58:07: [G_Auto 2] :  Store Text Value (Shared) for Joao Sousa: bPoints = point: 0; games: 1; sets: 0 
+5/19/2022 19:58:07: [G_Auto 2] :  Store Text Value (Shared) for Joao Sousa: bServing = serving:0
+5/19/2022 19:58:07: [G_Auto 2] :  Store Value (Shared) for market: price = 1.55
+5/19/2022 19:58:07: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+5/19/2022 19:58:07: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 14.29
+5/19/2022 19:58:07: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.29
+5/19/2022 19:58:07: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 14.29
+5/19/2022 19:58:07: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.09
+5/19/2022 19:58:07: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.54
+5/19/2022 19:58:07: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.86
+5/19/2022 19:58:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 19:58:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 19:58:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 19:58:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 19:59:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 19:59:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 19:59:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 19:59:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 20:01:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:01:12: [G_Auto 1] :  Placed closure bet with greening on Ilya Ivashka by Backing 15.17 at 1.46
+5/19/2022 20:01:12: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 1; sets: 0 
+5/19/2022 20:01:12: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:0
+5/19/2022 20:01:12: [G_Auto 2] :  Store Text Value (Shared) for Joao Sousa: bPoints = point: 0; games: 1; sets: 0 
+5/19/2022 20:01:12: [G_Auto 2] :  Store Text Value (Shared) for Joao Sousa: bServing = serving:2
+5/19/2022 20:01:12: [G_Auto 2] :  Store Value (Shared) for market: price = 1.46
+5/19/2022 20:01:12: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 15.17
+5/19/2022 20:01:12: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 14.29
+5/19/2022 20:01:12: [G_Auto 2] :  Store Value (Shared) for market: stake = 15.17
+5/19/2022 20:01:12: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 29.46
+5/19/2022 20:01:12: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.88
+5/19/2022 20:01:12: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.47
+5/19/2022 20:01:12: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.1
+5/19/2022 20:01:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:01:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:01:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:01:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 20:02:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 20:03:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:03:14: [G_Auto 1] :  € 13.11 Lay bet placed on Ilya Ivashka at 1.61. Fully matched at 1.6.  Ref: 10217          ( Fill or kill bet with 15 seconds delay.   )
+5/19/2022 20:03:15: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 1; sets: 0 
+5/19/2022 20:03:15: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:1
+5/19/2022 20:03:15: [G_Auto 2] :  Store Text Value (Shared) for Joao Sousa: bPoints = point: 0; games: 2; sets: 0 
+5/19/2022 20:03:15: [G_Auto 2] :  Store Text Value (Shared) for Joao Sousa: bServing = serving:0
+5/19/2022 20:03:15: [G_Auto 2] :  Store Value (Shared) for market: price = 1.6
+5/19/2022 20:03:15: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 15.17
+5/19/2022 20:03:15: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 27.4
+5/19/2022 20:03:15: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.11
+5/19/2022 20:03:15: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 42.57
+5/19/2022 20:03:15: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.96
+5/19/2022 20:03:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.59
+5/19/2022 20:03:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.72
+5/19/2022 20:03:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:03:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:03:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:04:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:04:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:04:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:04:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:05:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:05:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:05:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 20:05:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 20:06:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:06:56: [G_Auto 1] :  Placed closure bet with greening on Ilya Ivashka by Backing 14.08 at 1.49
+5/19/2022 20:06:57: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 2; sets: 0 
+5/19/2022 20:06:57: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:0
+5/19/2022 20:06:57: [G_Auto 2] :  Store Text Value (Shared) for Joao Sousa: bPoints = point: 0; games: 2; sets: 0 
+5/19/2022 20:06:57: [G_Auto 2] :  Store Text Value (Shared) for Joao Sousa: bServing = serving:2
+5/19/2022 20:06:57: [G_Auto 2] :  Store Value (Shared) for market: price = 1.49
+5/19/2022 20:06:57: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 29.25
+5/19/2022 20:06:57: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 27.4
+5/19/2022 20:06:57: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.08
+5/19/2022 20:06:57: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 56.65
+5/19/2022 20:06:57: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.85
+5/19/2022 20:06:57: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.49
+5/19/2022 20:06:57: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3
+5/19/2022 20:06:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:07:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:07:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:07:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 20:07:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 20:10:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:10:49: [G_Auto 1] :  € 34.78 Lay bet placed on Ilya Ivashka at 1.23. Fully matched at 1.22.  Ref: 10221          ( Fill or kill bet with 15 seconds delay.   )
+5/19/2022 20:10:50: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 3; sets: 0 
+5/19/2022 20:10:50: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:1
+5/19/2022 20:10:50: [G_Auto 2] :  Store Text Value (Shared) for Joao Sousa: bPoints = point: 0; games: 2; sets: 0 
+5/19/2022 20:10:50: [G_Auto 2] :  Store Text Value (Shared) for Joao Sousa: bServing = serving:0
+5/19/2022 20:10:50: [G_Auto 2] :  Store Value (Shared) for market: price = 1.22
+5/19/2022 20:10:50: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 29.25
+5/19/2022 20:10:50: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 62.18
+5/19/2022 20:10:50: [G_Auto 2] :  Store Value (Shared) for market: stake = 34.78
+5/19/2022 20:10:50: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 91.43
+5/19/2022 20:10:50: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.14
+5/19/2022 20:10:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.21
+5/19/2022 20:10:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.5
+5/19/2022 20:10:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:11:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:11:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:11:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:11:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:12:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:12:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:12:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:12:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 20:13:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 20:13:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:14:00: [G_Auto 1] :  Placed closure bet with greening on Ilya Ivashka by Backing 36.58 at 1.16
+5/19/2022 20:14:01: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 4; sets: 0 
+5/19/2022 20:14:01: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:0
+5/19/2022 20:14:01: [G_Auto 2] :  Store Text Value (Shared) for Joao Sousa: bPoints = point: 0; games: 2; sets: 0 
+5/19/2022 20:14:01: [G_Auto 2] :  Store Text Value (Shared) for Joao Sousa: bServing = serving:2
+5/19/2022 20:14:01: [G_Auto 2] :  Store Value (Shared) for market: price = 1.16
+5/19/2022 20:14:01: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 65.83
+5/19/2022 20:14:01: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 62.18
+5/19/2022 20:14:01: [G_Auto 2] :  Store Value (Shared) for market: stake = 36.58
+5/19/2022 20:14:01: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 128.01
+5/19/2022 20:14:01: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.65
+5/19/2022 20:14:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.17
+5/19/2022 20:14:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 6.8
+5/19/2022 20:14:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:14:06: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 4; sets: 0 
+5/19/2022 20:14:06: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:0
+5/19/2022 20:14:06: [G_Auto 2] :  Store Text Value (Shared) for Joao Sousa: bPoints = point: 0; games: 2; sets: 0 
+5/19/2022 20:14:06: [G_Auto 2] :  Store Text Value (Shared) for Joao Sousa: bServing = serving:2
+5/19/2022 20:14:06: [G_Auto 2] :  Store Value (Shared) for market: price = 1.16
+5/19/2022 20:14:06: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 65.83
+5/19/2022 20:14:06: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 62.18
+5/19/2022 20:14:06: [G_Auto 2] :  Store Value (Shared) for market: stake = 36.58
+5/19/2022 20:14:06: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 128.01
+5/19/2022 20:14:06: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.65
+5/19/2022 20:14:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.17
+5/19/2022 20:14:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 7.2
+5/19/2022 20:14:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:14:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 20:14:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 20:15:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:15:47: [G_Auto 1] :  € 38.10 Lay bet placed on Ilya Ivashka at 1.21. Fully matched at 1.2.  Ref: 10224          ( Fill or kill bet with 15 seconds delay.   )
+5/19/2022 20:15:47: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 4; sets: 0 
+5/19/2022 20:15:47: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:1
+5/19/2022 20:15:47: [G_Auto 2] :  Store Text Value (Shared) for Joao Sousa: bPoints = point: 0; games: 3; sets: 0 
+5/19/2022 20:15:47: [G_Auto 2] :  Store Text Value (Shared) for Joao Sousa: bServing = serving:0
+5/19/2022 20:15:47: [G_Auto 2] :  Store Value (Shared) for market: price = 1.2
+5/19/2022 20:15:47: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 65.83
+5/19/2022 20:15:47: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 100.28
+5/19/2022 20:15:47: [G_Auto 2] :  Store Value (Shared) for market: stake = 38.1
+5/19/2022 20:15:47: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 166.11
+5/19/2022 20:15:47: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.97
+5/19/2022 20:15:47: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.2
+5/19/2022 20:15:47: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 6
+5/19/2022 20:15:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:15:52: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 4; sets: 0 
+5/19/2022 20:15:52: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:1
+5/19/2022 20:15:52: [G_Auto 2] :  Store Text Value (Shared) for Joao Sousa: bPoints = point: 0; games: 3; sets: 0 
+5/19/2022 20:15:52: [G_Auto 2] :  Store Text Value (Shared) for Joao Sousa: bServing = serving:0
+5/19/2022 20:15:52: [G_Auto 2] :  Store Value (Shared) for market: price = 1.2
+5/19/2022 20:15:52: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 65.83
+5/19/2022 20:15:52: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 100.28
+5/19/2022 20:15:52: [G_Auto 2] :  Store Value (Shared) for market: stake = 38.1
+5/19/2022 20:15:52: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 166.11
+5/19/2022 20:15:52: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.97
+5/19/2022 20:15:52: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.2
+5/19/2022 20:15:52: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 6
+5/19/2022 20:16:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:16:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:16:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:16:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:17:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:17:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:17:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:17:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 20:17:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 20:20:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:20:23: [G_Auto 1] :  Placed closure bet with greening on Ilya Ivashka by Backing 30.48 at 1.5
+5/19/2022 20:20:24: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 4; sets: 0 
+5/19/2022 20:20:24: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:0
+5/19/2022 20:20:24: [G_Auto 2] :  Store Text Value (Shared) for Joao Sousa: bPoints = point: 0; games: 4; sets: 0 
+5/19/2022 20:20:24: [G_Auto 2] :  Store Text Value (Shared) for Joao Sousa: bServing = serving:2
+5/19/2022 20:20:24: [G_Auto 2] :  Store Value (Shared) for market: price = 1.5
+5/19/2022 20:20:24: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 96.31
+5/19/2022 20:20:24: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 100.28
+5/19/2022 20:20:24: [G_Auto 2] :  Store Value (Shared) for market: stake = 30.48
+5/19/2022 20:20:24: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 196.59
+5/19/2022 20:20:24: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.89
+5/19/2022 20:20:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.49
+5/19/2022 20:20:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3
+5/19/2022 20:20:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:20:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:20:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 20:21:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 20:21:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 20:22:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:22:54: [G_Auto 1] :  € 11.11 Lay bet placed on Ilya Ivashka at 1.72. Fully matched at 1.71.  Ref: 10228          ( Fill or kill bet with 15 seconds delay.   )
+5/19/2022 20:22:55: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 4; sets: 0 
+5/19/2022 20:22:55: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:1
+5/19/2022 20:22:55: [G_Auto 2] :  Store Text Value (Shared) for Joao Sousa: bPoints = point: 0; games: 5; sets: 0 
+5/19/2022 20:22:55: [G_Auto 2] :  Store Text Value (Shared) for Joao Sousa: bServing = serving:0
+5/19/2022 20:22:55: [G_Auto 2] :  Store Value (Shared) for market: price = 1.71
+5/19/2022 20:22:55: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 96.31
+5/19/2022 20:22:55: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 111.39
+5/19/2022 20:22:55: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.11
+5/19/2022 20:22:55: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 207.7
+5/19/2022 20:22:55: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.83
+5/19/2022 20:22:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.7
+5/19/2022 20:22:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.44
+5/19/2022 20:22:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:23:00: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 4; sets: 0 
+5/19/2022 20:23:00: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:1
+5/19/2022 20:23:00: [G_Auto 2] :  Store Text Value (Shared) for Joao Sousa: bPoints = point: 0; games: 5; sets: 0 
+5/19/2022 20:23:00: [G_Auto 2] :  Store Text Value (Shared) for Joao Sousa: bServing = serving:0
+5/19/2022 20:23:00: [G_Auto 2] :  Store Value (Shared) for market: price = 1.71
+5/19/2022 20:23:00: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 96.31
+5/19/2022 20:23:00: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 111.39
+5/19/2022 20:23:00: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.11
+5/19/2022 20:23:00: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 207.7
+5/19/2022 20:23:00: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.76
+5/19/2022 20:23:00: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.69
+5/19/2022 20:23:00: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.42
+5/19/2022 20:23:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:23:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:23:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:23:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:24:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:24:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:24:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:24:55: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 20:25:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 20:26:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:26:51: [G_Auto 1] :  Placed closure bet with greening on Ilya Ivashka by Backing 12.66 at 1.5
+5/19/2022 20:26:51: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 5; sets: 0 
+5/19/2022 20:26:51: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:0
+5/19/2022 20:26:51: [G_Auto 2] :  Store Text Value (Shared) for Joao Sousa: bPoints = point: 0; games: 5; sets: 0 
+5/19/2022 20:26:51: [G_Auto 2] :  Store Text Value (Shared) for Joao Sousa: bServing = serving:2
+5/19/2022 20:26:51: [G_Auto 2] :  Store Value (Shared) for market: price = 1.5
+5/19/2022 20:26:51: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 108.97
+5/19/2022 20:26:51: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 111.39
+5/19/2022 20:26:51: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.66
+5/19/2022 20:26:51: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 220.36
+5/19/2022 20:26:51: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.37
+5/19/2022 20:26:51: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.51
+5/19/2022 20:26:51: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.98
+5/19/2022 20:26:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:27:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:27:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 20:27:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 20:27:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 20:29:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:29:36: [G_Auto 1] :  € 12.12 Lay bet placed on Ilya Ivashka at 1.66. Fully matched at 1.65.  Ref: 10231          ( Fill or kill bet with 15 seconds delay.   )
+5/19/2022 20:29:36: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 5; sets: 0 
+5/19/2022 20:29:36: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:1
+5/19/2022 20:29:36: [G_Auto 2] :  Store Text Value (Shared) for Joao Sousa: bPoints = point: 0; games: 6; sets: 0 
+5/19/2022 20:29:36: [G_Auto 2] :  Store Text Value (Shared) for Joao Sousa: bServing = serving:0
+5/19/2022 20:29:36: [G_Auto 2] :  Store Value (Shared) for market: price = 1.65
+5/19/2022 20:29:36: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 108.97
+5/19/2022 20:29:36: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 123.51
+5/19/2022 20:29:36: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.12
+5/19/2022 20:29:36: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 232.48
+5/19/2022 20:29:36: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.29
+5/19/2022 20:29:36: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.64
+5/19/2022 20:29:36: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.54
+5/19/2022 20:29:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:29:41: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 5; sets: 0 
+5/19/2022 20:29:41: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:1
+5/19/2022 20:29:41: [G_Auto 2] :  Store Text Value (Shared) for Joao Sousa: bPoints = point: 0; games: 6; sets: 0 
+5/19/2022 20:29:41: [G_Auto 2] :  Store Text Value (Shared) for Joao Sousa: bServing = serving:0
+5/19/2022 20:29:41: [G_Auto 2] :  Store Value (Shared) for market: price = 1.65
+5/19/2022 20:29:41: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 108.97
+5/19/2022 20:29:41: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 123.51
+5/19/2022 20:29:41: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.12
+5/19/2022 20:29:41: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 232.48
+5/19/2022 20:29:41: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.22
+5/19/2022 20:29:41: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.64
+5/19/2022 20:29:41: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.56
+5/19/2022 20:29:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:30:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:30:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:30:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:30:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:31:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:31:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:31:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:31:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 20:32:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 20:32:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 20:32:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 20:36:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:36:37: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 2.78
+5/19/2022 20:36:37: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 1.53
+5/19/2022 20:36:42: [G_Auto 1] :  Placed closure bet with greening on Ilya Ivashka by Backing 7.20 at 2.78
+5/19/2022 20:36:42: [G_Auto 1] :  € 14.29 Lay bet placed on Joao Sousa at 1.56. Fully matched at 1.56.  Ref: 10233          ( Fill or kill bet with 15 seconds delay.   )
+5/19/2022 20:36:43: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 0; sets: 0 
+5/19/2022 20:36:43: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:0
+5/19/2022 20:36:43: [G_Auto 2] :  Store Text Value (Shared) for Joao Sousa: bPoints = point: 0; games: 0; sets: 1 
+5/19/2022 20:36:43: [G_Auto 2] :  Store Text Value (Shared) for Joao Sousa: bServing = serving:2
+5/19/2022 20:36:43: [G_Auto 2] :  Store Value (Shared) for market: price = 1.56
+5/19/2022 20:36:43: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 116.17
+5/19/2022 20:36:43: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 137.8
+5/19/2022 20:36:43: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.29
+5/19/2022 20:36:43: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 253.97
+5/19/2022 20:36:43: [G_Auto 2] :  Store Value (Shared) for market: pl = 7.11
+5/19/2022 20:36:43: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.78
+5/19/2022 20:36:43: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.55
+5/19/2022 20:36:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:37:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:37:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:37:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:37:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:38:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:38:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:38:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:38:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:39:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:39:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:39:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:39:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:39:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 20:40:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 20:40:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 20:41:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:41:58: [G_Auto 1] :  Placed closure bet with greening on Joao Sousa by Backing 10.52 at 2.12
+5/19/2022 20:41:58: [G_Auto 1] :  € 9.20 Lay bet placed on Ilya Ivashka at 1.87. Fully matched at 1.87.  Ref: 10236          ( Fill or kill bet with 15 seconds delay.   )
+5/19/2022 20:41:58: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 1; sets: 0 
+5/19/2022 20:41:58: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:1
+5/19/2022 20:41:58: [G_Auto 2] :  Store Text Value (Shared) for Joao Sousa: bPoints = point: 0; games: 0; sets: 1 
+5/19/2022 20:41:58: [G_Auto 2] :  Store Text Value (Shared) for Joao Sousa: bServing = serving:0
+5/19/2022 20:41:58: [G_Auto 2] :  Store Value (Shared) for market: price = 1.87
+5/19/2022 20:41:58: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 126.69
+5/19/2022 20:41:58: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 147
+5/19/2022 20:41:58: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.2
+5/19/2022 20:41:58: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 273.69
+5/19/2022 20:41:58: [G_Auto 2] :  Store Value (Shared) for market: pl = 10.9
+5/19/2022 20:41:58: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.85
+5/19/2022 20:41:58: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.12
+5/19/2022 20:42:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:42:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:42:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:42:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:43:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:43:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 20:43:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 20:43:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 20:45:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:46:05: [G_Auto 1] :  Placed closure bet with greening on Ilya Ivashka by Backing 9.66 at 1.78
+5/19/2022 20:46:05: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 2; sets: 0 
+5/19/2022 20:46:05: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:0
+5/19/2022 20:46:05: [G_Auto 2] :  Store Text Value (Shared) for Joao Sousa: bPoints = point: 0; games: 0; sets: 1 
+5/19/2022 20:46:05: [G_Auto 2] :  Store Text Value (Shared) for Joao Sousa: bServing = serving:2
+5/19/2022 20:46:05: [G_Auto 2] :  Store Value (Shared) for market: price = 1.78
+5/19/2022 20:46:05: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 136.35
+5/19/2022 20:46:05: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 147
+5/19/2022 20:46:05: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.66
+5/19/2022 20:46:05: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 283.35
+5/19/2022 20:46:05: [G_Auto 2] :  Store Value (Shared) for market: pl = 10.53
+5/19/2022 20:46:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.79
+5/19/2022 20:46:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.26
+5/19/2022 20:46:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:46:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:46:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:46:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 20:46:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 20:50:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:50:34: [G_Auto 1] :  € 14.04 Lay bet placed on Ilya Ivashka at 1.57. Fully matched at 1.56.  Ref: 10240          ( Fill or kill bet with 15 seconds delay.   )
+5/19/2022 20:50:34: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 3; sets: 0 
+5/19/2022 20:50:34: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:1
+5/19/2022 20:50:34: [G_Auto 2] :  Store Text Value (Shared) for Joao Sousa: bPoints = point: 0; games: 0; sets: 1 
+5/19/2022 20:50:34: [G_Auto 2] :  Store Text Value (Shared) for Joao Sousa: bServing = serving:0
+5/19/2022 20:50:34: [G_Auto 2] :  Store Value (Shared) for market: price = 1.56
+5/19/2022 20:50:34: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 136.35
+5/19/2022 20:50:34: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 161.04
+5/19/2022 20:50:34: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.04
+5/19/2022 20:50:34: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 297.39
+5/19/2022 20:50:34: [G_Auto 2] :  Store Value (Shared) for market: pl = 10.43
+5/19/2022 20:50:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.56
+5/19/2022 20:50:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.78
+5/19/2022 20:50:37: [G_Auto 1] :  Placed closure bet with greening on Joao Sousa by Laying 0.08 at 2.82
+5/19/2022 20:50:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:50:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:51:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:51:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:51:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:51:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:52:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:52:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:52:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:52:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:52:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 20:53:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 20:53:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 20:53:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 20:55:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:56:11: [G_Auto 1] :  Placed closure bet with greening on Ilya Ivashka by Backing 12.30 at 1.78
+5/19/2022 20:56:11: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 3; sets: 0 
+5/19/2022 20:56:11: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:0
+5/19/2022 20:56:11: [G_Auto 2] :  Store Text Value (Shared) for Joao Sousa: bPoints = point: 0; games: 1; sets: 1 
+5/19/2022 20:56:11: [G_Auto 2] :  Store Text Value (Shared) for Joao Sousa: bServing = serving:2
+5/19/2022 20:56:11: [G_Auto 2] :  Store Value (Shared) for market: price = 1.79
+5/19/2022 20:56:11: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 148.65
+5/19/2022 20:56:11: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 161.12
+5/19/2022 20:56:11: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.3
+5/19/2022 20:56:11: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 309.77
+5/19/2022 20:56:11: [G_Auto 2] :  Store Value (Shared) for market: pl = 12.29
+5/19/2022 20:56:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.79
+5/19/2022 20:56:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.3
+5/19/2022 20:56:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:56:16: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 3; sets: 0 
+5/19/2022 20:56:16: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:0
+5/19/2022 20:56:16: [G_Auto 2] :  Store Text Value (Shared) for Joao Sousa: bPoints = point: 0; games: 1; sets: 1 
+5/19/2022 20:56:16: [G_Auto 2] :  Store Text Value (Shared) for Joao Sousa: bServing = serving:2
+5/19/2022 20:56:16: [G_Auto 2] :  Store Value (Shared) for market: price = 1.79
+5/19/2022 20:56:16: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 148.65
+5/19/2022 20:56:16: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 161.12
+5/19/2022 20:56:16: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.3
+5/19/2022 20:56:16: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 309.77
+5/19/2022 20:56:16: [G_Auto 2] :  Store Value (Shared) for market: pl = 12.29
+5/19/2022 20:56:16: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.79
+5/19/2022 20:56:16: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.28
+5/19/2022 20:56:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:56:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:56:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 20:57:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 20:57:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 20:57:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 21:00:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 21:00:17: [G_Auto 1] :  € 14.04 Lay bet placed on Ilya Ivashka at 1.57. Fully matched at 1.56.  Ref: 10244          ( Fill or kill bet with 15 seconds delay.   )
+5/19/2022 21:00:17: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 4; sets: 0 
+5/19/2022 21:00:17: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:1
+5/19/2022 21:00:17: [G_Auto 2] :  Store Text Value (Shared) for Joao Sousa: bPoints = point: 0; games: 1; sets: 1 
+5/19/2022 21:00:17: [G_Auto 2] :  Store Text Value (Shared) for Joao Sousa: bServing = serving:0
+5/19/2022 21:00:17: [G_Auto 2] :  Store Value (Shared) for market: price = 1.56
+5/19/2022 21:00:17: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 148.65
+5/19/2022 21:00:17: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 175.16
+5/19/2022 21:00:17: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.04
+5/19/2022 21:00:17: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 323.81
+5/19/2022 21:00:17: [G_Auto 2] :  Store Value (Shared) for market: pl = 12.21
+5/19/2022 21:00:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.56
+5/19/2022 21:00:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.74
+5/19/2022 21:00:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 21:00:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 21:00:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 21:01:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 21:01:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 21:01:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 21:01:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 21:02:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 21:02:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 21:02:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 21:02:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 21:02:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 21:05:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 21:05:12: [G_Auto 1] :  Placed closure bet with greening on Ilya Ivashka by Backing 12.59 at 1.73
+5/19/2022 21:05:13: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 4; sets: 0 
+5/19/2022 21:05:13: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:0
+5/19/2022 21:05:13: [G_Auto 2] :  Store Text Value (Shared) for Joao Sousa: bPoints = point: 0; games: 2; sets: 1 
+5/19/2022 21:05:13: [G_Auto 2] :  Store Text Value (Shared) for Joao Sousa: bServing = serving:2
+5/19/2022 21:05:13: [G_Auto 2] :  Store Value (Shared) for market: price = 1.73
+5/19/2022 21:05:13: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 161.24
+5/19/2022 21:05:13: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 175.16
+5/19/2022 21:05:13: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.59
+5/19/2022 21:05:13: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 336.4
+5/19/2022 21:05:13: [G_Auto 2] :  Store Value (Shared) for market: pl = 13.64
+5/19/2022 21:05:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.73
+5/19/2022 21:05:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.34
+5/19/2022 21:05:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 21:05:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 21:05:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 21:05:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 21:07:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 21:08:03: [G_Auto 1] :  € 8.79 Lay bet placed on Ilya Ivashka at 1.91. Fully matched at 1.9.  Ref: 10246          ( Fill or kill bet with 15 seconds delay.   )
+5/19/2022 21:08:03: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 4; sets: 0 
+5/19/2022 21:08:03: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:1
+5/19/2022 21:08:03: [G_Auto 2] :  Store Text Value (Shared) for Joao Sousa: bPoints = point: 0; games: 3; sets: 1 
+5/19/2022 21:08:03: [G_Auto 2] :  Store Text Value (Shared) for Joao Sousa: bServing = serving:0
+5/19/2022 21:08:03: [G_Auto 2] :  Store Value (Shared) for market: price = 1.9
+5/19/2022 21:08:03: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 161.24
+5/19/2022 21:08:03: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 183.95
+5/19/2022 21:08:03: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.79
+5/19/2022 21:08:03: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 345.19
+5/19/2022 21:08:03: [G_Auto 2] :  Store Value (Shared) for market: pl = 13.59
+5/19/2022 21:08:03: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.89
+5/19/2022 21:08:03: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.14
+5/19/2022 21:08:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 21:08:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 21:08:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 21:08:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 21:09:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 21:09:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 21:09:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 21:09:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 21:10:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 21:10:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 21:10:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 21:10:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 21:11:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 21:11:16: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 21:11:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 21:13:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 21:13:48: [G_Auto 1] :  Placed closure bet with greening on Ilya Ivashka by Backing 5.57 at 3
+5/19/2022 21:13:48: [G_Auto 1] :  € 16.00 Lay bet placed on Joao Sousa at 1.5. Fully matched at 1.49.  Ref: 10248          ( Fill or kill bet with 15 seconds delay.   )
+5/19/2022 21:13:48: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 4; sets: 0 
+5/19/2022 21:13:48: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:0
+5/19/2022 21:13:48: [G_Auto 2] :  Store Text Value (Shared) for Joao Sousa: bPoints = point: 0; games: 4; sets: 1 
+5/19/2022 21:13:48: [G_Auto 2] :  Store Text Value (Shared) for Joao Sousa: bServing = serving:2
+5/19/2022 21:13:48: [G_Auto 2] :  Store Value (Shared) for market: price = 1.49
+5/19/2022 21:13:48: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 166.81
+5/19/2022 21:13:48: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 199.95
+5/19/2022 21:13:48: [G_Auto 2] :  Store Value (Shared) for market: stake = 16
+5/19/2022 21:13:48: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 366.76
+5/19/2022 21:13:48: [G_Auto 2] :  Store Value (Shared) for market: pl = 16.69
+5/19/2022 21:13:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.15
+5/19/2022 21:13:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.48
+5/19/2022 21:13:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 21:14:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 21:14:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 21:14:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 21:14:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 21:15:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 21:15:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 21:18:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 21:18:47: [G_Auto 1] :  Placed closure bet with greening on Joao Sousa by Backing 17.79 at 1.34
+5/19/2022 21:18:48: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 4; sets: 0 
+5/19/2022 21:18:48: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:1
+5/19/2022 21:18:48: [G_Auto 2] :  Store Text Value (Shared) for Joao Sousa: bPoints = point: 0; games: 5; sets: 1 
+5/19/2022 21:18:48: [G_Auto 2] :  Store Text Value (Shared) for Joao Sousa: bServing = serving:0
+5/19/2022 21:18:48: [G_Auto 2] :  Store Value (Shared) for market: price = 1.34
+5/19/2022 21:18:48: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 184.6
+5/19/2022 21:18:48: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 199.95
+5/19/2022 21:18:48: [G_Auto 2] :  Store Value (Shared) for market: stake = 17.79
+5/19/2022 21:18:48: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 384.55
+5/19/2022 21:18:48: [G_Auto 2] :  Store Value (Shared) for market: pl = 15.05
+5/19/2022 21:18:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.85
+5/19/2022 21:18:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.34
+5/19/2022 21:18:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 21:19:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 21:19:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 21:19:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 21:19:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 21:20:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 21:20:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 21:20:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 21:20:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 21:20:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 21:21:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 21:29:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 21:29:34: [G_Auto 1] :  € 15.38 Lay bet placed on Joao Sousa at 1.52. Fully matched at 1.51.  Ref: 10250          ( Fill or kill bet with 15 seconds delay.   )
+5/19/2022 21:29:35: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 5; sets: 0 
+5/19/2022 21:29:35: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:0
+5/19/2022 21:29:35: [G_Auto 2] :  Store Text Value (Shared) for Joao Sousa: bPoints = point: 0; games: 5; sets: 1 
+5/19/2022 21:29:35: [G_Auto 2] :  Store Text Value (Shared) for Joao Sousa: bServing = serving:2
+5/19/2022 21:29:35: [G_Auto 2] :  Store Value (Shared) for market: price = 1.51
+5/19/2022 21:29:35: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 184.6
+5/19/2022 21:29:35: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 215.33
+5/19/2022 21:29:35: [G_Auto 2] :  Store Value (Shared) for market: stake = 15.38
+5/19/2022 21:29:35: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 399.93
+5/19/2022 21:29:35: [G_Auto 2] :  Store Value (Shared) for market: pl = 14.95
+5/19/2022 21:29:35: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.98
+5/19/2022 21:29:35: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.5
+5/19/2022 21:29:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 21:29:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 21:30:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 21:30:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 21:30:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 21:30:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 21:32:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 21:33:06: [G_Auto 1] :  Placed closure bet with greening on Joao Sousa by Backing 17.47 at 1.33
+5/19/2022 21:33:07: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 5; sets: 0 
+5/19/2022 21:33:07: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:1
+5/19/2022 21:33:07: [G_Auto 2] :  Store Text Value (Shared) for Joao Sousa: bPoints = point: 0; games: 6; sets: 1 
+5/19/2022 21:33:07: [G_Auto 2] :  Store Text Value (Shared) for Joao Sousa: bServing = serving:0
+5/19/2022 21:33:07: [G_Auto 2] :  Store Value (Shared) for market: price = 1.33
+5/19/2022 21:33:07: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 202.07
+5/19/2022 21:33:07: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 215.33
+5/19/2022 21:33:07: [G_Auto 2] :  Store Value (Shared) for market: stake = 17.47
+5/19/2022 21:33:07: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 417.4
+5/19/2022 21:33:07: [G_Auto 2] :  Store Value (Shared) for market: pl = 13
+5/19/2022 21:33:07: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4
+5/19/2022 21:33:07: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.34
+5/19/2022 21:33:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 21:33:12: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 5; sets: 0 
+5/19/2022 21:33:12: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:1
+5/19/2022 21:33:12: [G_Auto 2] :  Store Text Value (Shared) for Joao Sousa: bPoints = point: 0; games: 6; sets: 1 
+5/19/2022 21:33:12: [G_Auto 2] :  Store Text Value (Shared) for Joao Sousa: bServing = serving:0
+5/19/2022 21:33:12: [G_Auto 2] :  Store Value (Shared) for market: price = 1.33
+5/19/2022 21:33:12: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 202.07
+5/19/2022 21:33:12: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 215.33
+5/19/2022 21:33:12: [G_Auto 2] :  Store Value (Shared) for market: stake = 17.47
+5/19/2022 21:33:12: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 417.4
+5/19/2022 21:33:12: [G_Auto 2] :  Store Value (Shared) for market: pl = 13
+5/19/2022 21:33:12: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4
+5/19/2022 21:33:12: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.34
+5/19/2022 21:33:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 21:33:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 21:33:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 21:34:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 21:34:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 21:34:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 21:34:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 21:35:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 21:35:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 21:35:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 21:35:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 21:42:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 21:42:24:  Guardian has detected that the market is suspended

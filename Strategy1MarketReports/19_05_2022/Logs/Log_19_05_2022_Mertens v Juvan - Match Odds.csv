@@ -1,0 +1,561 @@
+5/19/2022 10:54:51: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: info = marketName: Mertens v Juvan - Match Odds; runnerA: Elise Mertens; runnerB: Kaja Juvan 
+5/19/2022 10:54:51: [G_Auto 2] :  Store Value (Shared) for market: aId = 9002334
+5/19/2022 10:54:51: [G_Auto 2] :  Store Value (Shared) for market: bId = 9635566
+5/19/2022 11:08:01:  Guardian has detected that the market is in-play
+5/19/2022 11:08:01:  Guardian has detected that the market is suspended
+5/19/2022 11:08:05: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.76; bBsp: 2.28; volume: 17536.26 
+5/19/2022 11:08:05: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.76; bBsp: 2.28; volume: 17536.26 
+5/19/2022 11:08:05:  Guardian has detected that the market is now unsuspended
+5/19/2022 11:08:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 11:08:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 11:10:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 11:10:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 11:10:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 11:10:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 11:11:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 11:11:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 11:11:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 11:13:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 11:13:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 11:13:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 11:13:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 11:14:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 11:16:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 11:16:48: [G_Auto 1] :  € 14.81 Lay bet placed on Elise Mertens at 1.54. Fully matched at 1.53.  Ref: 10002          ( Fill or kill bet with 15 seconds delay.   )
+5/19/2022 11:16:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 11:16:51: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aPoints = point: 0; games: 2; sets: 0 
+5/19/2022 11:16:51: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aServing = serving:1
+5/19/2022 11:16:51: [G_Auto 2] :  Store Text Value (Shared) for Kaja Juvan: bPoints = point: 0; games: 1; sets: 0 
+5/19/2022 11:16:51: [G_Auto 2] :  Store Text Value (Shared) for Kaja Juvan: bServing = serving:0
+5/19/2022 11:16:51: [G_Auto 2] :  Store Value (Shared) for market: price = 1.53
+5/19/2022 11:16:51: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+5/19/2022 11:16:51: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 14.81
+5/19/2022 11:16:51: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.81
+5/19/2022 11:16:51: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 14.81
+5/19/2022 11:16:51: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.1
+5/19/2022 11:16:51: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.53
+5/19/2022 11:16:51: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.92
+5/19/2022 11:17:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 11:17:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 11:17:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 11:17:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 11:18:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 11:18:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 11:18:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 11:18:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 11:19:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 11:19:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 11:19:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 11:22:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 11:22:14: [G_Auto 1] :  Placed closure bet with greening on Elise Mertens by Backing 12.18 at 1.86
+5/19/2022 11:22:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 11:22:17: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aPoints = point: 0; games: 2; sets: 0 
+5/19/2022 11:22:17: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aServing = serving:0
+5/19/2022 11:22:17: [G_Auto 2] :  Store Text Value (Shared) for Kaja Juvan: bPoints = point: 0; games: 2; sets: 0 
+5/19/2022 11:22:17: [G_Auto 2] :  Store Text Value (Shared) for Kaja Juvan: bServing = serving:2
+5/19/2022 11:22:17: [G_Auto 2] :  Store Value (Shared) for market: price = 1.86
+5/19/2022 11:22:17: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 12.18
+5/19/2022 11:22:17: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 14.81
+5/19/2022 11:22:17: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.18
+5/19/2022 11:22:17: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 26.99
+5/19/2022 11:22:17: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.58
+5/19/2022 11:22:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.86
+5/19/2022 11:22:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.18
+5/19/2022 11:22:23: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aPoints = point: 0; games: 2; sets: 0 
+5/19/2022 11:22:23: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aServing = serving:0
+5/19/2022 11:22:23: [G_Auto 2] :  Store Text Value (Shared) for Kaja Juvan: bPoints = point: 0; games: 2; sets: 0 
+5/19/2022 11:22:23: [G_Auto 2] :  Store Text Value (Shared) for Kaja Juvan: bServing = serving:2
+5/19/2022 11:22:23: [G_Auto 2] :  Store Value (Shared) for market: price = 1.86
+5/19/2022 11:22:23: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 12.18
+5/19/2022 11:22:23: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 14.81
+5/19/2022 11:22:23: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.18
+5/19/2022 11:22:23: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 26.99
+5/19/2022 11:22:23: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.58
+5/19/2022 11:22:23: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.88
+5/19/2022 11:22:23: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.18
+5/19/2022 11:22:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 11:22:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 11:22:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 11:27:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 11:28:10: [G_Auto 1] :  € 14.29 Lay bet placed on Elise Mertens at 1.56. Fully matched at 1.55.  Ref: 10010          ( Fill or kill bet with 15 seconds delay.   )
+5/19/2022 11:28:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 11:28:14: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aPoints = point: 0; games: 3; sets: 0 
+5/19/2022 11:28:14: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aServing = serving:1
+5/19/2022 11:28:14: [G_Auto 2] :  Store Text Value (Shared) for Kaja Juvan: bPoints = point: 0; games: 2; sets: 0 
+5/19/2022 11:28:14: [G_Auto 2] :  Store Text Value (Shared) for Kaja Juvan: bServing = serving:0
+5/19/2022 11:28:14: [G_Auto 2] :  Store Value (Shared) for market: price = 1.55
+5/19/2022 11:28:14: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 12.18
+5/19/2022 11:28:14: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 29.1
+5/19/2022 11:28:14: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.29
+5/19/2022 11:28:14: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 41.28
+5/19/2022 11:28:14: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.48
+5/19/2022 11:28:14: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.55
+5/19/2022 11:28:14: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.8
+5/19/2022 11:28:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 11:28:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 11:29:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 11:29:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 11:29:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 11:29:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 11:30:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 11:30:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 11:30:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 11:30:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 11:30:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 11:31:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 11:31:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 11:33:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 11:33:21: [G_Auto 1] :  Placed closure bet with greening on Elise Mertens by Backing 16.17 at 1.37
+5/19/2022 11:33:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 11:33:24: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aPoints = point: 0; games: 4; sets: 0 
+5/19/2022 11:33:24: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aServing = serving:0
+5/19/2022 11:33:24: [G_Auto 2] :  Store Text Value (Shared) for Kaja Juvan: bPoints = point: 0; games: 2; sets: 0 
+5/19/2022 11:33:24: [G_Auto 2] :  Store Text Value (Shared) for Kaja Juvan: bServing = serving:2
+5/19/2022 11:33:24: [G_Auto 2] :  Store Value (Shared) for market: price = 1.37
+5/19/2022 11:33:24: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 28.35
+5/19/2022 11:33:24: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 29.1
+5/19/2022 11:33:24: [G_Auto 2] :  Store Value (Shared) for market: stake = 16.17
+5/19/2022 11:33:24: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 57.45
+5/19/2022 11:33:24: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.73
+5/19/2022 11:33:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.39
+5/19/2022 11:33:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.55
+5/19/2022 11:33:30: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aPoints = point: 0; games: 4; sets: 0 
+5/19/2022 11:33:30: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aServing = serving:0
+5/19/2022 11:33:30: [G_Auto 2] :  Store Text Value (Shared) for Kaja Juvan: bPoints = point: 0; games: 2; sets: 0 
+5/19/2022 11:33:30: [G_Auto 2] :  Store Text Value (Shared) for Kaja Juvan: bServing = serving:2
+5/19/2022 11:33:30: [G_Auto 2] :  Store Value (Shared) for market: price = 1.37
+5/19/2022 11:33:30: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 28.35
+5/19/2022 11:33:30: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 29.1
+5/19/2022 11:33:30: [G_Auto 2] :  Store Value (Shared) for market: stake = 16.17
+5/19/2022 11:33:30: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 57.45
+5/19/2022 11:33:30: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.73
+5/19/2022 11:33:30: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.39
+5/19/2022 11:33:30: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.55
+5/19/2022 11:33:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 11:33:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 11:33:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 11:34:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 11:39:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 11:39:40: [G_Auto 1] :  € 18.18 Lay bet placed on Elise Mertens at 1.44. Fully matched at 1.43.  Ref: 10013          ( Fill or kill bet with 15 seconds delay.   )
+5/19/2022 11:39:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 11:39:43: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aPoints = point: 0; games: 4; sets: 0 
+5/19/2022 11:39:43: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aServing = serving:1
+5/19/2022 11:39:43: [G_Auto 2] :  Store Text Value (Shared) for Kaja Juvan: bPoints = point: 0; games: 3; sets: 0 
+5/19/2022 11:39:43: [G_Auto 2] :  Store Text Value (Shared) for Kaja Juvan: bServing = serving:0
+5/19/2022 11:39:43: [G_Auto 2] :  Store Value (Shared) for market: price = 1.43
+5/19/2022 11:39:43: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 28.35
+5/19/2022 11:39:43: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 47.28
+5/19/2022 11:39:43: [G_Auto 2] :  Store Value (Shared) for market: stake = 18.18
+5/19/2022 11:39:43: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 75.63
+5/19/2022 11:39:43: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.61
+5/19/2022 11:39:43: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.43
+5/19/2022 11:39:43: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.4
+5/19/2022 11:39:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 11:40:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 11:40:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 11:40:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 11:41:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 11:41:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 11:41:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 11:41:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 11:41:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 11:42:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 11:42:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 11:46:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 11:47:11: [G_Auto 1] :  Placed closure bet with greening on Elise Mertens by Backing 19.70 at 1.32
+5/19/2022 11:47:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 11:47:14: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aPoints = point: 0; games: 5; sets: 0 
+5/19/2022 11:47:14: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aServing = serving:0
+5/19/2022 11:47:14: [G_Auto 2] :  Store Text Value (Shared) for Kaja Juvan: bPoints = point: 0; games: 3; sets: 0 
+5/19/2022 11:47:14: [G_Auto 2] :  Store Text Value (Shared) for Kaja Juvan: bServing = serving:2
+5/19/2022 11:47:14: [G_Auto 2] :  Store Value (Shared) for market: price = 1.32
+5/19/2022 11:47:14: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 48.05
+5/19/2022 11:47:14: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 47.28
+5/19/2022 11:47:14: [G_Auto 2] :  Store Value (Shared) for market: stake = 19.7
+5/19/2022 11:47:14: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 95.33
+5/19/2022 11:47:14: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.76
+5/19/2022 11:47:14: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.33
+5/19/2022 11:47:14: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4
+5/19/2022 11:47:20: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aPoints = point: 0; games: 5; sets: 0 
+5/19/2022 11:47:20: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aServing = serving:0
+5/19/2022 11:47:20: [G_Auto 2] :  Store Text Value (Shared) for Kaja Juvan: bPoints = point: 0; games: 3; sets: 0 
+5/19/2022 11:47:20: [G_Auto 2] :  Store Text Value (Shared) for Kaja Juvan: bServing = serving:2
+5/19/2022 11:47:20: [G_Auto 2] :  Store Value (Shared) for market: price = 1.32
+5/19/2022 11:47:20: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 48.05
+5/19/2022 11:47:20: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 47.28
+5/19/2022 11:47:20: [G_Auto 2] :  Store Value (Shared) for market: stake = 19.7
+5/19/2022 11:47:20: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 95.33
+5/19/2022 11:47:20: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.76
+5/19/2022 11:47:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.33
+5/19/2022 11:47:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4
+5/19/2022 11:47:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 11:47:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 11:47:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 11:48:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 11:49:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 11:49:52: [G_Auto 1] :  € 17.78 Lay bet placed on Elise Mertens at 1.45. Fully matched at 1.44.  Ref: 10016          ( Fill or kill bet with 15 seconds delay.   )
+5/19/2022 11:49:52: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aPoints = point: 0; games: 5; sets: 0 
+5/19/2022 11:49:52: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aServing = serving:1
+5/19/2022 11:49:52: [G_Auto 2] :  Store Text Value (Shared) for Kaja Juvan: bPoints = point: 0; games: 4; sets: 0 
+5/19/2022 11:49:52: [G_Auto 2] :  Store Text Value (Shared) for Kaja Juvan: bServing = serving:0
+5/19/2022 11:49:52: [G_Auto 2] :  Store Value (Shared) for market: price = 1.44
+5/19/2022 11:49:52: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 48.05
+5/19/2022 11:49:52: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 65.06
+5/19/2022 11:49:52: [G_Auto 2] :  Store Value (Shared) for market: stake = 17.78
+5/19/2022 11:49:52: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 113.11
+5/19/2022 11:49:52: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.27
+5/19/2022 11:49:52: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.4
+5/19/2022 11:49:52: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.4
+5/19/2022 11:49:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 11:49:58: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aPoints = point: 0; games: 5; sets: 0 
+5/19/2022 11:49:58: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aServing = serving:1
+5/19/2022 11:49:58: [G_Auto 2] :  Store Text Value (Shared) for Kaja Juvan: bPoints = point: 0; games: 4; sets: 0 
+5/19/2022 11:49:58: [G_Auto 2] :  Store Text Value (Shared) for Kaja Juvan: bServing = serving:0
+5/19/2022 11:49:58: [G_Auto 2] :  Store Value (Shared) for market: price = 1.44
+5/19/2022 11:49:58: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 48.05
+5/19/2022 11:49:58: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 65.06
+5/19/2022 11:49:58: [G_Auto 2] :  Store Value (Shared) for market: stake = 17.78
+5/19/2022 11:49:58: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 113.11
+5/19/2022 11:49:58: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.14
+5/19/2022 11:49:58: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.42
+5/19/2022 11:49:58: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.4
+5/19/2022 11:50:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 11:50:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 11:50:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 11:50:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 11:51:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 11:51:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 11:51:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 11:51:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 11:52:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 11:52:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 11:56:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 11:56:42: [G_Auto 1] :  Placed closure bet with greening on Elise Mertens by Backing 13.26 at 1.93
+5/19/2022 11:56:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 11:56:45: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aPoints = point: 0; games: 5; sets: 0 
+5/19/2022 11:56:45: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aServing = serving:0
+5/19/2022 11:56:45: [G_Auto 2] :  Store Text Value (Shared) for Kaja Juvan: bPoints = point: 0; games: 5; sets: 0 
+5/19/2022 11:56:45: [G_Auto 2] :  Store Text Value (Shared) for Kaja Juvan: bServing = serving:2
+5/19/2022 11:56:45: [G_Auto 2] :  Store Value (Shared) for market: price = 1.93
+5/19/2022 11:56:45: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 61.31
+5/19/2022 11:56:45: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 65.06
+5/19/2022 11:56:45: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.26
+5/19/2022 11:56:45: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 126.37
+5/19/2022 11:56:45: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.67
+5/19/2022 11:56:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.94
+5/19/2022 11:56:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.06
+5/19/2022 11:57:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 11:57:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 11:57:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 11:57:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 11:59:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 11:59:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:00:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:00:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:00:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:00:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:01:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:01:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:01:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:01:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 12:02:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 12:03:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:04:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:04:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:04:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:04:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 12:05:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 12:05:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 12:05:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 12:05:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 12:06:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 12:06:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 12:06:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 12:06:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 12:07:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 12:07:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 12:07:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 12:07:55: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 12:08:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 12:08:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 12:08:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 12:08:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 12:09:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 12:09:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 12:09:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 12:09:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 12:10:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 12:10:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 12:10:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 12:10:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 12:11:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 12:11:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 12:11:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:11:42: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 3.8
+5/19/2022 12:11:42: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 1.35
+5/19/2022 12:11:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:12:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:12:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:12:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:12:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:13:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:13:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:13:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:13:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:14:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:14:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:14:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:14:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:15:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:15:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:15:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:15:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:16:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:16:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:16:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:16:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 12:17:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 12:17:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 12:18:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:18:55: [G_Auto 1] :  € 11.59 Lay bet placed on Kaja Juvan at 1.69. Fully matched at 1.68.  Ref: 10026          ( Fill or kill bet with 15 seconds delay.   )
+5/19/2022 12:18:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:18:58: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aPoints = point: 0; games: 1; sets: 0 
+5/19/2022 12:18:58: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aServing = serving:0
+5/19/2022 12:18:58: [G_Auto 2] :  Store Text Value (Shared) for Kaja Juvan: bPoints = point: 0; games: 0; sets: 1 
+5/19/2022 12:18:58: [G_Auto 2] :  Store Text Value (Shared) for Kaja Juvan: bServing = serving:2
+5/19/2022 12:18:58: [G_Auto 2] :  Store Value (Shared) for market: price = 1.68
+5/19/2022 12:18:58: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 61.31
+5/19/2022 12:18:58: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 76.65
+5/19/2022 12:18:58: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.59
+5/19/2022 12:18:58: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 137.96
+5/19/2022 12:18:58: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.6
+5/19/2022 12:18:58: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.48
+5/19/2022 12:18:58: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.68
+5/19/2022 12:19:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:19:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:19:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:19:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 12:20:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 12:20:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 12:31:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:31:34: [G_Auto 1] :  Placed closure bet with greening on Kaja Juvan by Backing 13.43 at 1.45
+5/19/2022 12:31:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:31:37: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aPoints = point: 0; games: 1; sets: 0 
+5/19/2022 12:31:37: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aServing = serving:1
+5/19/2022 12:31:37: [G_Auto 2] :  Store Text Value (Shared) for Kaja Juvan: bPoints = point: 0; games: 1; sets: 1 
+5/19/2022 12:31:37: [G_Auto 2] :  Store Text Value (Shared) for Kaja Juvan: bServing = serving:0
+5/19/2022 12:31:37: [G_Auto 2] :  Store Value (Shared) for market: price = 1.45
+5/19/2022 12:31:37: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 74.74
+5/19/2022 12:31:37: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 76.65
+5/19/2022 12:31:37: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.43
+5/19/2022 12:31:37: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 151.39
+5/19/2022 12:31:37: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.86
+5/19/2022 12:31:37: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.2
+5/19/2022 12:31:37: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.45
+5/19/2022 12:31:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:32:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 12:32:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 12:35:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:35:19: [G_Auto 1] :  € 29.63 Lay bet placed on Kaja Juvan at 1.27. Fully matched at 1.26.  Ref: 10033          ( Fill or kill bet with 15 seconds delay.   )
+5/19/2022 12:35:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:35:22: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aPoints = point: 0; games: 1; sets: 0 
+5/19/2022 12:35:22: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aServing = serving:0
+5/19/2022 12:35:22: [G_Auto 2] :  Store Text Value (Shared) for Kaja Juvan: bPoints = point: 0; games: 2; sets: 1 
+5/19/2022 12:35:22: [G_Auto 2] :  Store Text Value (Shared) for Kaja Juvan: bServing = serving:2
+5/19/2022 12:35:22: [G_Auto 2] :  Store Value (Shared) for market: price = 1.26
+5/19/2022 12:35:22: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 74.74
+5/19/2022 12:35:22: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 106.28
+5/19/2022 12:35:22: [G_Auto 2] :  Store Value (Shared) for market: stake = 29.63
+5/19/2022 12:35:22: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 181.02
+5/19/2022 12:35:22: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.64
+5/19/2022 12:35:22: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 5
+5/19/2022 12:35:22: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.25
+5/19/2022 12:35:27: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aPoints = point: 0; games: 1; sets: 0 
+5/19/2022 12:35:27: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aServing = serving:0
+5/19/2022 12:35:27: [G_Auto 2] :  Store Text Value (Shared) for Kaja Juvan: bPoints = point: 0; games: 2; sets: 1 
+5/19/2022 12:35:27: [G_Auto 2] :  Store Text Value (Shared) for Kaja Juvan: bServing = serving:2
+5/19/2022 12:35:27: [G_Auto 2] :  Store Value (Shared) for market: price = 1.26
+5/19/2022 12:35:27: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 74.74
+5/19/2022 12:35:27: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 106.28
+5/19/2022 12:35:27: [G_Auto 2] :  Store Value (Shared) for market: stake = 29.63
+5/19/2022 12:35:27: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 181.02
+5/19/2022 12:35:27: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.64
+5/19/2022 12:35:27: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.9
+5/19/2022 12:35:27: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.26
+5/19/2022 12:35:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:35:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:36:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:36:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:36:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:37:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:37:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:37:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 12:37:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 12:40:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:40:20: [G_Auto 1] :  Placed closure bet with greening on Kaja Juvan by Backing 24.72 at 1.51
+5/19/2022 12:40:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:40:23: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aPoints = point: 0; games: 2; sets: 0 
+5/19/2022 12:40:23: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aServing = serving:1
+5/19/2022 12:40:23: [G_Auto 2] :  Store Text Value (Shared) for Kaja Juvan: bPoints = point: 0; games: 2; sets: 1 
+5/19/2022 12:40:23: [G_Auto 2] :  Store Text Value (Shared) for Kaja Juvan: bServing = serving:0
+5/19/2022 12:40:23: [G_Auto 2] :  Store Value (Shared) for market: price = 1.51
+5/19/2022 12:40:23: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 99.46
+5/19/2022 12:40:23: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 106.28
+5/19/2022 12:40:23: [G_Auto 2] :  Store Value (Shared) for market: stake = 24.72
+5/19/2022 12:40:23: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 205.74
+5/19/2022 12:40:23: [G_Auto 2] :  Store Value (Shared) for market: pl = 6.67
+5/19/2022 12:40:23: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.96
+5/19/2022 12:40:23: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.51
+5/19/2022 12:40:29: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aPoints = point: 0; games: 2; sets: 0 
+5/19/2022 12:40:29: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aServing = serving:1
+5/19/2022 12:40:29: [G_Auto 2] :  Store Text Value (Shared) for Kaja Juvan: bPoints = point: 0; games: 2; sets: 1 
+5/19/2022 12:40:29: [G_Auto 2] :  Store Text Value (Shared) for Kaja Juvan: bServing = serving:0
+5/19/2022 12:40:29: [G_Auto 2] :  Store Value (Shared) for market: price = 1.51
+5/19/2022 12:40:29: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 99.46
+5/19/2022 12:40:29: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 106.28
+5/19/2022 12:40:29: [G_Auto 2] :  Store Value (Shared) for market: stake = 24.72
+5/19/2022 12:40:29: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 205.74
+5/19/2022 12:40:29: [G_Auto 2] :  Store Value (Shared) for market: pl = 6.67
+5/19/2022 12:40:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.96
+5/19/2022 12:40:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.51
+5/19/2022 12:40:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:40:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 12:41:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 12:44:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:45:03: [G_Auto 1] :  € 30.77 Lay bet placed on Kaja Juvan at 1.26. Fully matched at 1.25.  Ref: 10035          ( Fill or kill bet with 15 seconds delay.   )
+5/19/2022 12:45:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:45:06: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aPoints = point: 0; games: 2; sets: 0 
+5/19/2022 12:45:06: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aServing = serving:0
+5/19/2022 12:45:06: [G_Auto 2] :  Store Text Value (Shared) for Kaja Juvan: bPoints = point: 0; games: 3; sets: 1 
+5/19/2022 12:45:06: [G_Auto 2] :  Store Text Value (Shared) for Kaja Juvan: bServing = serving:2
+5/19/2022 12:45:06: [G_Auto 2] :  Store Value (Shared) for market: price = 1.25
+5/19/2022 12:45:06: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 99.46
+5/19/2022 12:45:06: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 137.05
+5/19/2022 12:45:06: [G_Auto 2] :  Store Value (Shared) for market: stake = 30.77
+5/19/2022 12:45:06: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 236.51
+5/19/2022 12:45:06: [G_Auto 2] :  Store Value (Shared) for market: pl = 6.43
+5/19/2022 12:45:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 5
+5/19/2022 12:45:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.25
+5/19/2022 12:45:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:45:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:45:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:46:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:46:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:46:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:46:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 12:47:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 12:47:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 12:51:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:51:27: [G_Auto 1] :  Placed closure bet with greening on Kaja Juvan by Backing 33.74 at 1.14
+5/19/2022 12:51:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:51:32: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aPoints = point: 0; games: 2; sets: 0 
+5/19/2022 12:51:32: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aServing = serving:1
+5/19/2022 12:51:32: [G_Auto 2] :  Store Text Value (Shared) for Kaja Juvan: bPoints = point: 0; games: 4; sets: 1 
+5/19/2022 12:51:32: [G_Auto 2] :  Store Text Value (Shared) for Kaja Juvan: bServing = serving:0
+5/19/2022 12:51:32: [G_Auto 2] :  Store Value (Shared) for market: price = 1.14
+5/19/2022 12:51:32: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 133.2
+5/19/2022 12:51:32: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 137.05
+5/19/2022 12:51:32: [G_Auto 2] :  Store Value (Shared) for market: stake = 33.74
+5/19/2022 12:51:32: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 270.25
+5/19/2022 12:51:32: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.76
+5/19/2022 12:51:32: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 8
+5/19/2022 12:51:32: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.14
+5/19/2022 12:51:37: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aPoints = point: 0; games: 2; sets: 0 
+5/19/2022 12:51:37: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aServing = serving:1
+5/19/2022 12:51:37: [G_Auto 2] :  Store Text Value (Shared) for Kaja Juvan: bPoints = point: 0; games: 4; sets: 1 
+5/19/2022 12:51:37: [G_Auto 2] :  Store Text Value (Shared) for Kaja Juvan: bServing = serving:0
+5/19/2022 12:51:37: [G_Auto 2] :  Store Value (Shared) for market: price = 1.14
+5/19/2022 12:51:37: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 133.2
+5/19/2022 12:51:37: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 137.05
+5/19/2022 12:51:37: [G_Auto 2] :  Store Value (Shared) for market: stake = 33.74
+5/19/2022 12:51:37: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 270.25
+5/19/2022 12:51:37: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.76
+5/19/2022 12:51:37: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 8
+5/19/2022 12:51:37: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.14
+5/19/2022 12:51:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:52:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:52:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:52:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 12:52:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 12:54:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:54:49: [G_Auto 1] :  € 32.00 Lay bet placed on Kaja Juvan at 1.25. Fully matched at 1.25.  Ref: 10037          ( Fill or kill bet with 15 seconds delay.   )
+5/19/2022 12:54:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:54:51: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aPoints = point: 0; games: 3; sets: 0 
+5/19/2022 12:54:51: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aServing = serving:0
+5/19/2022 12:54:51: [G_Auto 2] :  Store Text Value (Shared) for Kaja Juvan: bPoints = point: 0; games: 4; sets: 1 
+5/19/2022 12:54:51: [G_Auto 2] :  Store Text Value (Shared) for Kaja Juvan: bServing = serving:2
+5/19/2022 12:54:51: [G_Auto 2] :  Store Value (Shared) for market: price = 1.25
+5/19/2022 12:54:51: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 133.2
+5/19/2022 12:54:51: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 169.05
+5/19/2022 12:54:51: [G_Auto 2] :  Store Value (Shared) for market: stake = 32
+5/19/2022 12:54:51: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 302.25
+5/19/2022 12:54:51: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.25
+5/19/2022 12:54:51: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 5.4
+5/19/2022 12:54:51: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.23
+5/19/2022 12:55:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:55:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:55:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:55:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:56:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:56:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:56:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:56:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 12:57:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 12:57:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 12:57:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 12:59:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 13:00:12: [G_Auto 1] :  Placed closure bet with greening on Kaja Juvan by Backing 37.04 at 1.08
+5/19/2022 13:00:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 13:00:14: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aPoints = point: 0; games: 3; sets: 0 
+5/19/2022 13:00:14: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aServing = serving:1
+5/19/2022 13:00:14: [G_Auto 2] :  Store Text Value (Shared) for Kaja Juvan: bPoints = point: 0; games: 5; sets: 1 
+5/19/2022 13:00:14: [G_Auto 2] :  Store Text Value (Shared) for Kaja Juvan: bServing = serving:0
+5/19/2022 13:00:14: [G_Auto 2] :  Store Value (Shared) for market: price = 1.08
+5/19/2022 13:00:14: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 170.24
+5/19/2022 13:00:14: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 169.05
+5/19/2022 13:00:14: [G_Auto 2] :  Store Value (Shared) for market: stake = 37.04
+5/19/2022 13:00:14: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 339.29
+5/19/2022 13:00:14: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.2
+5/19/2022 13:00:14: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 11
+5/19/2022 13:00:14: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.1
+5/19/2022 13:00:19: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aPoints = point: 0; games: 3; sets: 0 
+5/19/2022 13:00:19: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aServing = serving:1
+5/19/2022 13:00:19: [G_Auto 2] :  Store Text Value (Shared) for Kaja Juvan: bPoints = point: 0; games: 5; sets: 1 
+5/19/2022 13:00:19: [G_Auto 2] :  Store Text Value (Shared) for Kaja Juvan: bServing = serving:0
+5/19/2022 13:00:19: [G_Auto 2] :  Store Value (Shared) for market: price = 1.08
+5/19/2022 13:00:19: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 170.24
+5/19/2022 13:00:19: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 169.05
+5/19/2022 13:00:19: [G_Auto 2] :  Store Value (Shared) for market: stake = 37.04
+5/19/2022 13:00:19: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 339.29
+5/19/2022 13:00:19: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.2
+5/19/2022 13:00:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 11
+5/19/2022 13:00:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.1
+5/19/2022 13:00:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 13:00:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 13:00:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 13:01:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 13:04:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 13:04:29: [G_Auto 1] :  € 50.00 Lay bet placed on Kaja Juvan at 1.16. Fully matched at 1.15.  Ref: 10041          ( Fill or kill bet with 15 seconds delay.   )
+5/19/2022 13:04:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 13:04:31: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aPoints = point: 0; games: 4; sets: 0 
+5/19/2022 13:04:31: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: aServing = serving:0
+5/19/2022 13:04:31: [G_Auto 2] :  Store Text Value (Shared) for Kaja Juvan: bPoints = point: 0; games: 5; sets: 1 
+5/19/2022 13:04:31: [G_Auto 2] :  Store Text Value (Shared) for Kaja Juvan: bServing = serving:2
+5/19/2022 13:04:31: [G_Auto 2] :  Store Value (Shared) for market: price = 1.15
+5/19/2022 13:04:31: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 170.24
+5/19/2022 13:04:31: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 219.05
+5/19/2022 13:04:31: [G_Auto 2] :  Store Value (Shared) for market: stake = 50
+5/19/2022 13:04:31: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 389.29
+5/19/2022 13:04:31: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.63
+5/19/2022 13:04:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 8.2
+5/19/2022 13:04:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.14
+5/19/2022 13:04:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 13:05:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 13:05:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 13:05:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 13:05:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 13:06:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 13:06:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 13:06:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/19/2022 13:08:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/19/2022 13:08:29:  Guardian has detected that the market is suspended
