@@ -1,0 +1,392 @@
+5/10/2022 09:40:47: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: info = marketName: Cerundolo v Isner - Match Odds; runnerA: Francisco Cerundolo; runnerB: John Isner 
+5/10/2022 09:40:47: [G_Auto 2] :  Store Value (Shared) for market: aId = 11204210
+5/10/2022 09:40:47: [G_Auto 2] :  Store Value (Shared) for market: bId = 2474763
+5/10/2022 12:32:46:  Guardian has detected that the market is in-play
+5/10/2022 12:32:46:  Guardian has detected that the market is suspended
+5/10/2022 12:32:53: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.9; bBsp: 2.1; volume: 50531.05 
+5/10/2022 12:32:53: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.9; bBsp: 2.1; volume: 50531.05 
+5/10/2022 12:32:53:  Guardian has detected that the market is now unsuspended
+5/10/2022 12:32:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 12:33:05: [G_Auto 1] :  1 Automation Signals Cleared
+5/10/2022 12:41:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 12:41:54: [G_Auto 1] :  € 8.33 Lay bet placed on Francisco Cerundolo at 1.96. Entirely unmatched when it initially reached the market.   Ref: 10084          ( Fill or kill bet with 15 seconds delay.   )
+5/10/2022 12:42:03: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 0; sets: 0 
+5/10/2022 12:42:03: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:1
+5/10/2022 12:42:03: [G_Auto 2] :  Store Text Value (Shared) for John Isner: bPoints = point: 0; games: 1; sets: 0 
+5/10/2022 12:42:03: [G_Auto 2] :  Store Text Value (Shared) for John Isner: bServing = serving:0
+5/10/2022 12:42:03: [G_Auto 2] :  Store Value (Shared) for market: price = 1.96
+5/10/2022 12:42:03: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+5/10/2022 12:42:03: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 8.33
+5/10/2022 12:42:03: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.33
+5/10/2022 12:42:03: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 8.33
+5/10/2022 12:42:03: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.17
+5/10/2022 12:42:03: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.93
+5/10/2022 12:42:03: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.08
+5/10/2022 12:42:03: [G_Auto 1] :  € 8.33 of unmatched bet (Ref:10084) was filled before remainder was killed.
+5/10/2022 12:42:10: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 0; sets: 0 
+5/10/2022 12:42:10: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:1
+5/10/2022 12:42:10: [G_Auto 2] :  Store Text Value (Shared) for John Isner: bPoints = point: 0; games: 1; sets: 0 
+5/10/2022 12:42:10: [G_Auto 2] :  Store Text Value (Shared) for John Isner: bServing = serving:0
+5/10/2022 12:42:10: [G_Auto 2] :  Store Value (Shared) for market: price = 1.96
+5/10/2022 12:42:10: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+5/10/2022 12:42:10: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 8.33
+5/10/2022 12:42:10: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.33
+5/10/2022 12:42:10: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 8.33
+5/10/2022 12:42:10: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.17
+5/10/2022 12:42:10: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.92
+5/10/2022 12:42:10: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.06
+5/10/2022 12:42:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 12:43:07: [G_Auto 1] :  1 Automation Signals Cleared
+5/10/2022 12:44:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 12:44:54: [G_Auto 1] :  Placed closure bet with greening on Francisco Cerundolo by Backing 9.12 at 1.79
+5/10/2022 12:44:56: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 1; sets: 0 
+5/10/2022 12:44:56: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:0
+5/10/2022 12:44:56: [G_Auto 2] :  Store Text Value (Shared) for John Isner: bPoints = point: 0; games: 1; sets: 0 
+5/10/2022 12:44:56: [G_Auto 2] :  Store Text Value (Shared) for John Isner: bServing = serving:2
+5/10/2022 12:44:56: [G_Auto 2] :  Store Value (Shared) for market: price = 1.79
+5/10/2022 12:44:56: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 9.12
+5/10/2022 12:44:56: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 8.33
+5/10/2022 12:44:56: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.12
+5/10/2022 12:44:56: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 17.45
+5/10/2022 12:44:56: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.79
+5/10/2022 12:44:56: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.78
+5/10/2022 12:44:56: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.28
+5/10/2022 12:45:02: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 1; sets: 0 
+5/10/2022 12:45:02: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:0
+5/10/2022 12:45:02: [G_Auto 2] :  Store Text Value (Shared) for John Isner: bPoints = point: 0; games: 1; sets: 0 
+5/10/2022 12:45:02: [G_Auto 2] :  Store Text Value (Shared) for John Isner: bServing = serving:2
+5/10/2022 12:45:02: [G_Auto 2] :  Store Value (Shared) for market: price = 1.79
+5/10/2022 12:45:02: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 9.12
+5/10/2022 12:45:02: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 8.33
+5/10/2022 12:45:02: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.12
+5/10/2022 12:45:02: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 17.45
+5/10/2022 12:45:02: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.79
+5/10/2022 12:45:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.78
+5/10/2022 12:45:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.28
+5/10/2022 12:45:19: [G_Auto 1] :  1 Automation Signals Cleared
+5/10/2022 12:46:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 12:46:49: [G_Auto 1] :  € 8.33 Lay bet placed on Francisco Cerundolo at 1.96. Entirely unmatched when it initially reached the market.   Ref: 10094          ( Fill or kill bet with 15 seconds delay.   )
+5/10/2022 12:46:57: [G_Auto 1] :  € 8.33 of unmatched bet (Ref:10094) was filled before remainder was killed.
+5/10/2022 12:46:57: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 1; sets: 0 
+5/10/2022 12:46:57: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:1
+5/10/2022 12:46:57: [G_Auto 2] :  Store Text Value (Shared) for John Isner: bPoints = point: 0; games: 2; sets: 0 
+5/10/2022 12:46:57: [G_Auto 2] :  Store Text Value (Shared) for John Isner: bServing = serving:0
+5/10/2022 12:46:57: [G_Auto 2] :  Store Value (Shared) for market: price = 1.96
+5/10/2022 12:46:57: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 9.12
+5/10/2022 12:46:57: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 16.66
+5/10/2022 12:46:57: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.33
+5/10/2022 12:46:57: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 25.78
+5/10/2022 12:46:57: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.75
+5/10/2022 12:46:57: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.97
+5/10/2022 12:46:57: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.04
+5/10/2022 12:47:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 12:48:41: [G_Auto 1] :  1 Automation Signals Cleared
+5/10/2022 12:53:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 12:53:20: [G_Auto 1] :  Placed closure bet with greening on Francisco Cerundolo by Backing 8.50 at 1.92
+5/10/2022 12:53:23: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 2; sets: 0 
+5/10/2022 12:53:23: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:0
+5/10/2022 12:53:23: [G_Auto 2] :  Store Text Value (Shared) for John Isner: bPoints = point: 0; games: 2; sets: 0 
+5/10/2022 12:53:23: [G_Auto 2] :  Store Text Value (Shared) for John Isner: bServing = serving:2
+5/10/2022 12:53:23: [G_Auto 2] :  Store Value (Shared) for market: price = 1.92
+5/10/2022 12:53:23: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 17.62
+5/10/2022 12:53:23: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 16.66
+5/10/2022 12:53:23: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.5
+5/10/2022 12:53:23: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 34.28
+5/10/2022 12:53:23: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.97
+5/10/2022 12:53:23: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.92
+5/10/2022 12:53:23: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.06
+5/10/2022 12:53:29: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 2; sets: 0 
+5/10/2022 12:53:29: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:0
+5/10/2022 12:53:29: [G_Auto 2] :  Store Text Value (Shared) for John Isner: bPoints = point: 0; games: 2; sets: 0 
+5/10/2022 12:53:29: [G_Auto 2] :  Store Text Value (Shared) for John Isner: bServing = serving:2
+5/10/2022 12:53:29: [G_Auto 2] :  Store Value (Shared) for market: price = 1.92
+5/10/2022 12:53:29: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 17.62
+5/10/2022 12:53:29: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 16.66
+5/10/2022 12:53:29: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.5
+5/10/2022 12:53:29: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 34.28
+5/10/2022 12:53:29: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.97
+5/10/2022 12:53:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.93
+5/10/2022 12:53:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.06
+5/10/2022 12:53:41: [G_Auto 1] :  1 Automation Signals Cleared
+5/10/2022 12:59:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 13:00:01: [G_Auto 1] :  € 8.16 Lay bet placed on Francisco Cerundolo at 1.98. Fully matched at 1.98.  Ref: 10112          ( Fill or kill bet with 15 seconds delay.   )
+5/10/2022 13:00:04: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 2; sets: 0 
+5/10/2022 13:00:04: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:1
+5/10/2022 13:00:04: [G_Auto 2] :  Store Text Value (Shared) for John Isner: bPoints = point: 0; games: 3; sets: 0 
+5/10/2022 13:00:04: [G_Auto 2] :  Store Text Value (Shared) for John Isner: bServing = serving:0
+5/10/2022 13:00:04: [G_Auto 2] :  Store Value (Shared) for market: price = 1.98
+5/10/2022 13:00:04: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 17.62
+5/10/2022 13:00:04: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 24.82
+5/10/2022 13:00:04: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.16
+5/10/2022 13:00:04: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 42.44
+5/10/2022 13:00:04: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.09
+5/10/2022 13:00:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.95
+5/10/2022 13:00:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.06
+5/10/2022 13:00:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 13:01:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 13:02:07: [G_Auto 1] :  1 Automation Signals Cleared
+5/10/2022 13:06:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 13:06:29: [G_Auto 1] :  Placed closure bet with greening on Francisco Cerundolo by Backing 8.74 at 1.85
+5/10/2022 13:06:32: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 3; sets: 0 
+5/10/2022 13:06:32: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:0
+5/10/2022 13:06:32: [G_Auto 2] :  Store Text Value (Shared) for John Isner: bPoints = point: 0; games: 3; sets: 0 
+5/10/2022 13:06:32: [G_Auto 2] :  Store Text Value (Shared) for John Isner: bServing = serving:2
+5/10/2022 13:06:32: [G_Auto 2] :  Store Value (Shared) for market: price = 1.85
+5/10/2022 13:06:32: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 26.36
+5/10/2022 13:06:32: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 24.82
+5/10/2022 13:06:32: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.74
+5/10/2022 13:06:32: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 51.18
+5/10/2022 13:06:32: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.54
+5/10/2022 13:06:32: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.86
+5/10/2022 13:06:32: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.16
+5/10/2022 13:06:38: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 3; sets: 0 
+5/10/2022 13:06:38: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:0
+5/10/2022 13:06:38: [G_Auto 2] :  Store Text Value (Shared) for John Isner: bPoints = point: 0; games: 3; sets: 0 
+5/10/2022 13:06:38: [G_Auto 2] :  Store Text Value (Shared) for John Isner: bServing = serving:2
+5/10/2022 13:06:38: [G_Auto 2] :  Store Value (Shared) for market: price = 1.85
+5/10/2022 13:06:38: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 26.36
+5/10/2022 13:06:38: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 24.82
+5/10/2022 13:06:38: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.74
+5/10/2022 13:06:38: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 51.18
+5/10/2022 13:06:38: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.54
+5/10/2022 13:06:38: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.86
+5/10/2022 13:06:38: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.16
+5/10/2022 13:07:00: [G_Auto 1] :  1 Automation Signals Cleared
+5/10/2022 13:09:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 13:10:04: [G_Auto 1] :  € 8.42 Lay bet placed on Francisco Cerundolo at 1.95. Fully matched at 1.94.  Ref: 10131          ( Fill or kill bet with 15 seconds delay.   )
+5/10/2022 13:10:06: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 3; sets: 0 
+5/10/2022 13:10:06: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:1
+5/10/2022 13:10:06: [G_Auto 2] :  Store Text Value (Shared) for John Isner: bPoints = point: 0; games: 4; sets: 0 
+5/10/2022 13:10:06: [G_Auto 2] :  Store Text Value (Shared) for John Isner: bServing = serving:0
+5/10/2022 13:10:06: [G_Auto 2] :  Store Value (Shared) for market: price = 1.94
+5/10/2022 13:10:06: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 26.36
+5/10/2022 13:10:06: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 33.24
+5/10/2022 13:10:06: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.42
+5/10/2022 13:10:06: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 59.6
+5/10/2022 13:10:06: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.58
+5/10/2022 13:10:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.94
+5/10/2022 13:10:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.06
+5/10/2022 13:10:12: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 3; sets: 0 
+5/10/2022 13:10:12: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:1
+5/10/2022 13:10:12: [G_Auto 2] :  Store Text Value (Shared) for John Isner: bPoints = point: 0; games: 4; sets: 0 
+5/10/2022 13:10:12: [G_Auto 2] :  Store Text Value (Shared) for John Isner: bServing = serving:0
+5/10/2022 13:10:12: [G_Auto 2] :  Store Value (Shared) for market: price = 1.94
+5/10/2022 13:10:12: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 26.36
+5/10/2022 13:10:12: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 33.24
+5/10/2022 13:10:12: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.42
+5/10/2022 13:10:12: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 59.6
+5/10/2022 13:10:12: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.54
+5/10/2022 13:10:12: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.94
+5/10/2022 13:10:12: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.04
+5/10/2022 13:10:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 13:11:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 13:12:20: [G_Auto 1] :  1 Automation Signals Cleared
+5/10/2022 13:13:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 13:13:57: [G_Auto 1] :  Placed closure bet with greening on Francisco Cerundolo by Backing 9.17 at 1.78
+5/10/2022 13:14:00: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 4; sets: 0 
+5/10/2022 13:14:00: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:0
+5/10/2022 13:14:00: [G_Auto 2] :  Store Text Value (Shared) for John Isner: bPoints = point: 0; games: 4; sets: 0 
+5/10/2022 13:14:00: [G_Auto 2] :  Store Text Value (Shared) for John Isner: bServing = serving:2
+5/10/2022 13:14:00: [G_Auto 2] :  Store Value (Shared) for market: price = 1.78
+5/10/2022 13:14:00: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 35.53
+5/10/2022 13:14:00: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 33.24
+5/10/2022 13:14:00: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.17
+5/10/2022 13:14:00: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 68.77
+5/10/2022 13:14:00: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.3
+5/10/2022 13:14:00: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.8
+5/10/2022 13:14:00: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.26
+5/10/2022 13:14:05: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 4; sets: 0 
+5/10/2022 13:14:05: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:0
+5/10/2022 13:14:05: [G_Auto 2] :  Store Text Value (Shared) for John Isner: bPoints = point: 0; games: 4; sets: 0 
+5/10/2022 13:14:05: [G_Auto 2] :  Store Text Value (Shared) for John Isner: bServing = serving:2
+5/10/2022 13:14:05: [G_Auto 2] :  Store Value (Shared) for market: price = 1.78
+5/10/2022 13:14:05: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 35.53
+5/10/2022 13:14:05: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 33.24
+5/10/2022 13:14:05: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.17
+5/10/2022 13:14:05: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 68.77
+5/10/2022 13:14:05: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.3
+5/10/2022 13:14:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.81
+5/10/2022 13:14:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.26
+5/10/2022 13:14:16: [G_Auto 1] :  1 Automation Signals Cleared
+5/10/2022 13:15:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 13:15:43: [G_Auto 1] :  € 8.08 Lay bet placed on Francisco Cerundolo at 1.99. Fully matched at 1.99.  Ref: 10142          ( Fill or kill bet with 15 seconds delay.   )
+5/10/2022 13:15:45: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 4; sets: 0 
+5/10/2022 13:15:45: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:1
+5/10/2022 13:15:45: [G_Auto 2] :  Store Text Value (Shared) for John Isner: bPoints = point: 0; games: 5; sets: 0 
+5/10/2022 13:15:45: [G_Auto 2] :  Store Text Value (Shared) for John Isner: bServing = serving:0
+5/10/2022 13:15:45: [G_Auto 2] :  Store Value (Shared) for market: price = 1.99
+5/10/2022 13:15:45: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 35.53
+5/10/2022 13:15:45: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 41.32
+5/10/2022 13:15:45: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.08
+5/10/2022 13:15:45: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 76.85
+5/10/2022 13:15:45: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.34
+5/10/2022 13:15:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.98
+5/10/2022 13:15:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.99
+5/10/2022 13:16:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 13:17:31: [G_Auto 1] :  1 Automation Signals Cleared
+5/10/2022 13:22:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 13:22:21: [G_Auto 1] :  Store Value (Shared) for Francisco Cerundolo: PRICE SET 2 = 4
+5/10/2022 13:22:21: [G_Auto 1] :  Alert: STORE PRICE AT SET 2 [ Francisco Cerundolo ]
+5/10/2022 13:22:21: [G_Auto 1] :  Automation Signal for market: VALID = 1
+5/10/2022 13:22:21: [G_Auto 1] :  Store Value (Shared) for John Isner: PRICE SET 2 = 1.33
+5/10/2022 13:22:21: [G_Auto 1] :  Alert: STORE PRICE AT SET 2 [ John Isner ]
+5/10/2022 13:22:21: [G_Auto 1] :  Automation Signal for market: VALID = 1
+5/10/2022 13:22:21: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 4
+5/10/2022 13:22:21: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 1.33
+5/10/2022 13:22:24: [G_Auto 1] :  Placed closure bet with greening on Francisco Cerundolo by Backing 4.02 at 4
+5/10/2022 13:22:24: [G_Auto 1] :  € 23.53 Lay bet placed on John Isner at 1.34. Fully matched at 1.33.  Ref: 10151          ( Fill or kill bet with 15 seconds delay.   )
+5/10/2022 13:22:26: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 0; sets: 0 
+5/10/2022 13:22:26: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:0
+5/10/2022 13:22:26: [G_Auto 2] :  Store Text Value (Shared) for John Isner: bPoints = point: 0; games: 0; sets: 1 
+5/10/2022 13:22:26: [G_Auto 2] :  Store Text Value (Shared) for John Isner: bServing = serving:2
+5/10/2022 13:22:26: [G_Auto 2] :  Store Value (Shared) for market: price = 4
+5/10/2022 13:22:26: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 39.55
+5/10/2022 13:22:26: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 64.85
+5/10/2022 13:22:26: [G_Auto 2] :  Store Value (Shared) for market: stake = 4.02
+5/10/2022 13:22:26: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 104.4
+5/10/2022 13:22:26: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.55
+5/10/2022 13:22:26: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.1
+5/10/2022 13:22:26: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.33
+5/10/2022 13:23:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 13:24:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 13:25:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 13:25:58: [G_Auto 1] :  2 Automation Signals Cleared
+5/10/2022 13:28:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 13:28:58: [G_Auto 1] :  Placed closure bet with greening on John Isner by Backing 24.07 at 1.3
+5/10/2022 13:29:01: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 0; sets: 0 
+5/10/2022 13:29:01: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:1
+5/10/2022 13:29:01: [G_Auto 2] :  Store Text Value (Shared) for John Isner: bPoints = point: 0; games: 1; sets: 1 
+5/10/2022 13:29:01: [G_Auto 2] :  Store Text Value (Shared) for John Isner: bServing = serving:0
+5/10/2022 13:29:01: [G_Auto 2] :  Store Value (Shared) for market: price = 1.3
+5/10/2022 13:29:01: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 63.62
+5/10/2022 13:29:01: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 64.85
+5/10/2022 13:29:01: [G_Auto 2] :  Store Value (Shared) for market: stake = 24.07
+5/10/2022 13:29:01: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 128.47
+5/10/2022 13:29:01: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.2
+5/10/2022 13:29:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.2
+5/10/2022 13:29:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.31
+5/10/2022 13:29:06: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 0; sets: 0 
+5/10/2022 13:29:06: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:1
+5/10/2022 13:29:06: [G_Auto 2] :  Store Text Value (Shared) for John Isner: bPoints = point: 0; games: 1; sets: 1 
+5/10/2022 13:29:06: [G_Auto 2] :  Store Text Value (Shared) for John Isner: bServing = serving:0
+5/10/2022 13:29:06: [G_Auto 2] :  Store Value (Shared) for market: price = 1.3
+5/10/2022 13:29:06: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 63.62
+5/10/2022 13:29:06: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 64.85
+5/10/2022 13:29:06: [G_Auto 2] :  Store Value (Shared) for market: stake = 24.07
+5/10/2022 13:29:06: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 128.47
+5/10/2022 13:29:06: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.2
+5/10/2022 13:29:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.3
+5/10/2022 13:29:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.29
+5/10/2022 13:29:39: [G_Auto 1] :  1 Automation Signals Cleared
+5/10/2022 13:31:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 13:31:28: [G_Auto 1] :  € 21.62 Lay bet placed on John Isner at 1.37. Fully matched at 1.36.  Ref: 10160          ( Fill or kill bet with 15 seconds delay.   )
+5/10/2022 13:31:30: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 1; sets: 0 
+5/10/2022 13:31:30: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:0
+5/10/2022 13:31:30: [G_Auto 2] :  Store Text Value (Shared) for John Isner: bPoints = point: 0; games: 1; sets: 1 
+5/10/2022 13:31:30: [G_Auto 2] :  Store Text Value (Shared) for John Isner: bServing = serving:2
+5/10/2022 13:31:30: [G_Auto 2] :  Store Value (Shared) for market: price = 1.36
+5/10/2022 13:31:30: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 63.62
+5/10/2022 13:31:30: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 86.47
+5/10/2022 13:31:30: [G_Auto 2] :  Store Value (Shared) for market: stake = 21.62
+5/10/2022 13:31:30: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 150.09
+5/10/2022 13:31:30: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.2
+5/10/2022 13:31:30: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.75
+5/10/2022 13:31:30: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.36
+5/10/2022 13:31:54: [G_Auto 1] :  1 Automation Signals Cleared
+5/10/2022 13:35:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 13:35:22: [G_Auto 1] :  Placed closure bet with greening on John Isner by Backing 16.61 at 1.77
+5/10/2022 13:35:25: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 2; sets: 0 
+5/10/2022 13:35:25: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:1
+5/10/2022 13:35:25: [G_Auto 2] :  Store Text Value (Shared) for John Isner: bPoints = point: 0; games: 1; sets: 1 
+5/10/2022 13:35:25: [G_Auto 2] :  Store Text Value (Shared) for John Isner: bServing = serving:0
+5/10/2022 13:35:25: [G_Auto 2] :  Store Value (Shared) for market: price = 1.77
+5/10/2022 13:35:25: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 80.23
+5/10/2022 13:35:25: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 86.47
+5/10/2022 13:35:25: [G_Auto 2] :  Store Value (Shared) for market: stake = 16.61
+5/10/2022 13:35:25: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 166.7
+5/10/2022 13:35:25: [G_Auto 2] :  Store Value (Shared) for market: pl = 6.11
+5/10/2022 13:35:25: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.28
+5/10/2022 13:35:25: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.77
+5/10/2022 13:35:30: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 2; sets: 0 
+5/10/2022 13:35:30: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:1
+5/10/2022 13:35:30: [G_Auto 2] :  Store Text Value (Shared) for John Isner: bPoints = point: 0; games: 1; sets: 1 
+5/10/2022 13:35:30: [G_Auto 2] :  Store Text Value (Shared) for John Isner: bServing = serving:0
+5/10/2022 13:35:30: [G_Auto 2] :  Store Value (Shared) for market: price = 1.77
+5/10/2022 13:35:30: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 80.23
+5/10/2022 13:35:30: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 86.47
+5/10/2022 13:35:30: [G_Auto 2] :  Store Value (Shared) for market: stake = 16.61
+5/10/2022 13:35:30: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 166.7
+5/10/2022 13:35:30: [G_Auto 2] :  Store Value (Shared) for market: pl = 6.11
+5/10/2022 13:35:30: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.28
+5/10/2022 13:35:30: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.76
+5/10/2022 13:36:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 13:37:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 13:37:22: [G_Auto 1] :  1 Automation Signals Cleared
+5/10/2022 13:41:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 13:41:56: [G_Auto 1] :  € 23.53 Lay bet placed on John Isner at 1.34. Fully matched at 1.34.  Ref: 10169          ( Fill or kill bet with 15 seconds delay.   )
+5/10/2022 13:41:58: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 2; sets: 0 
+5/10/2022 13:41:58: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:0
+5/10/2022 13:41:58: [G_Auto 2] :  Store Text Value (Shared) for John Isner: bPoints = point: 0; games: 2; sets: 1 
+5/10/2022 13:41:58: [G_Auto 2] :  Store Text Value (Shared) for John Isner: bServing = serving:2
+5/10/2022 13:41:58: [G_Auto 2] :  Store Value (Shared) for market: price = 1.34
+5/10/2022 13:41:58: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 80.23
+5/10/2022 13:41:58: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 110
+5/10/2022 13:41:58: [G_Auto 2] :  Store Value (Shared) for market: stake = 23.53
+5/10/2022 13:41:58: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 190.23
+5/10/2022 13:41:58: [G_Auto 2] :  Store Value (Shared) for market: pl = 5.75
+5/10/2022 13:41:58: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.9
+5/10/2022 13:41:58: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.35
+5/10/2022 13:42:24: [G_Auto 1] :  1 Automation Signals Cleared
+5/10/2022 13:44:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 13:44:50: [G_Auto 1] :  Placed closure bet with greening on John Isner by Backing 24.83 at 1.27
+5/10/2022 13:44:52: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 2; sets: 0 
+5/10/2022 13:44:52: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:1
+5/10/2022 13:44:52: [G_Auto 2] :  Store Text Value (Shared) for John Isner: bPoints = point: 0; games: 3; sets: 1 
+5/10/2022 13:44:52: [G_Auto 2] :  Store Text Value (Shared) for John Isner: bServing = serving:0
+5/10/2022 13:44:52: [G_Auto 2] :  Store Value (Shared) for market: price = 1.27
+5/10/2022 13:44:52: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 105.06
+5/10/2022 13:44:52: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 110
+5/10/2022 13:44:52: [G_Auto 2] :  Store Value (Shared) for market: stake = 24.83
+5/10/2022 13:44:52: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 215.06
+5/10/2022 13:44:52: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.83
+5/10/2022 13:44:52: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.5
+5/10/2022 13:44:52: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.28
+5/10/2022 13:45:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 13:46:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 13:47:18: [G_Auto 1] :  1 Automation Signals Cleared
+5/10/2022 13:49:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 13:49:17: [G_Auto 1] :  € 22.22 Lay bet placed on John Isner at 1.36. Fully matched at 1.35.  Ref: 10175          ( Fill or kill bet with 15 seconds delay.   )
+5/10/2022 13:49:19: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 3; sets: 0 
+5/10/2022 13:49:19: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:0
+5/10/2022 13:49:19: [G_Auto 2] :  Store Text Value (Shared) for John Isner: bPoints = point: 0; games: 3; sets: 1 
+5/10/2022 13:49:19: [G_Auto 2] :  Store Text Value (Shared) for John Isner: bServing = serving:2
+5/10/2022 13:49:19: [G_Auto 2] :  Store Value (Shared) for market: price = 1.35
+5/10/2022 13:49:19: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 105.06
+5/10/2022 13:49:19: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 132.22
+5/10/2022 13:49:19: [G_Auto 2] :  Store Value (Shared) for market: stake = 22.22
+5/10/2022 13:49:19: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 237.28
+5/10/2022 13:49:19: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.66
+5/10/2022 13:49:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.9
+5/10/2022 13:49:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.35
+5/10/2022 13:50:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 13:50:30: [G_Auto 1] :  1 Automation Signals Cleared
+5/10/2022 13:54:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 13:54:50: [G_Auto 1] :  Placed closure bet with greening on John Isner by Backing 23.26 at 1.29
+5/10/2022 13:54:51: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aPoints = point: 0; games: 3; sets: 0 
+5/10/2022 13:54:51: [G_Auto 2] :  Store Text Value (Shared) for Francisco Cerundolo: aServing = serving:1
+5/10/2022 13:54:51: [G_Auto 2] :  Store Text Value (Shared) for John Isner: bPoints = point: 0; games: 4; sets: 1 
+5/10/2022 13:54:51: [G_Auto 2] :  Store Text Value (Shared) for John Isner: bServing = serving:0
+5/10/2022 13:54:51: [G_Auto 2] :  Store Value (Shared) for market: price = 1.29
+5/10/2022 13:54:51: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 128.32
+5/10/2022 13:54:51: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 132.22
+5/10/2022 13:54:51: [G_Auto 2] :  Store Value (Shared) for market: stake = 23.26
+5/10/2022 13:54:51: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 260.54
+5/10/2022 13:54:51: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.81
+5/10/2022 13:54:51: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.4
+5/10/2022 13:54:51: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.29
+5/10/2022 13:55:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 13:56:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 13:56:49: [G_Auto 1] :  1 Automation Signals Cleared
+5/10/2022 13:59:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 14:00:15: [G_Auto 1] :  1 Automation Signals Cleared
+5/10/2022 14:02:15:  Guardian has detected that the market is suspended

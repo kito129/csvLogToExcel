@@ -1,0 +1,630 @@
+5/9/2022 09:26:51: [G_Auto 2] :  Store Text Value (Shared) for Stan Wawrinka: info = marketName: Wawrinka v Opelka - Match Odds; runnerA: Stan Wawrinka; runnerB: Reilly Opelka 
+5/9/2022 09:26:51: [G_Auto 2] :  Store Value (Shared) for market: aId = 19924832
+5/9/2022 09:26:51: [G_Auto 2] :  Store Value (Shared) for market: bId = 8859316
+5/9/2022 10:10:18:  Guardian has detected that the market is in-play
+5/9/2022 10:10:18:  Guardian has detected that the market is suspended
+5/9/2022 10:10:23: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 3.6; bBsp: 1.38; volume: 81764.42 
+5/9/2022 10:10:23: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 3.6; bBsp: 1.38; volume: 81764.42 
+5/9/2022 10:10:23:  Guardian has detected that the market is now unsuspended
+5/9/2022 10:10:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:10:42: [G_Auto 1] :  € 20.51 Lay bet placed on Reilly Opelka at 1.39. Entirely unmatched when it initially reached the market.   Ref: 10083          ( Fill or kill bet with 15 seconds delay.   )
+5/9/2022 10:10:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 10:10:49: [G_Auto 1] :  € 20.51 of unmatched bet (Ref:10083) was filled before remainder was killed.
+5/9/2022 10:10:49: [G_Auto 2] :  Store Text Value (Shared) for Stan Wawrinka: aPoints = point: 15; games: 0; sets: 0 
+5/9/2022 10:10:49: [G_Auto 2] :  Store Text Value (Shared) for Stan Wawrinka: aServing = serving:0
+5/9/2022 10:10:49: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 0; sets: 0 
+5/9/2022 10:10:49: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:2
+5/9/2022 10:10:49: [G_Auto 2] :  Store Value (Shared) for market: price = 1.39
+5/9/2022 10:10:49: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+5/9/2022 10:10:49: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 20.51
+5/9/2022 10:10:49: [G_Auto 2] :  Store Value (Shared) for market: stake = 20.51
+5/9/2022 10:10:49: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 20.51
+5/9/2022 10:10:49: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.42
+5/9/2022 10:10:49: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.4
+5/9/2022 10:10:49: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.41
+5/9/2022 10:10:54: [G_Auto 2] :  Store Text Value (Shared) for Stan Wawrinka: aPoints = point: 15; games: 0; sets: 0 
+5/9/2022 10:10:54: [G_Auto 2] :  Store Text Value (Shared) for Stan Wawrinka: aServing = serving:0
+5/9/2022 10:10:54: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 0; sets: 0 
+5/9/2022 10:10:54: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:2
+5/9/2022 10:10:54: [G_Auto 2] :  Store Value (Shared) for market: price = 1.39
+5/9/2022 10:10:54: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+5/9/2022 10:10:54: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 20.51
+5/9/2022 10:10:54: [G_Auto 2] :  Store Value (Shared) for market: stake = 20.51
+5/9/2022 10:10:54: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 20.51
+5/9/2022 10:10:54: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.42
+5/9/2022 10:10:54: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.4
+5/9/2022 10:10:54: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.41
+5/9/2022 10:10:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 10:14:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:14:34: [G_Auto 1] :  Placed closure bet with greening on Reilly Opelka by Backing 20.81 at 1.37
+5/9/2022 10:14:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:14:37: [G_Auto 2] :  Store Text Value (Shared) for Stan Wawrinka: aPoints = point: 0; games: 0; sets: 0 
+5/9/2022 10:14:37: [G_Auto 2] :  Store Text Value (Shared) for Stan Wawrinka: aServing = serving:1
+5/9/2022 10:14:37: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 1; sets: 0 
+5/9/2022 10:14:37: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:0
+5/9/2022 10:14:37: [G_Auto 2] :  Store Value (Shared) for market: price = 1.37
+5/9/2022 10:14:37: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 20.81
+5/9/2022 10:14:37: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 20.51
+5/9/2022 10:14:37: [G_Auto 2] :  Store Value (Shared) for market: stake = 20.81
+5/9/2022 10:14:37: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 41.32
+5/9/2022 10:14:37: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.3
+5/9/2022 10:14:37: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.6
+5/9/2022 10:14:37: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.39
+5/9/2022 10:14:42: [G_Auto 2] :  Store Text Value (Shared) for Stan Wawrinka: aPoints = point: 0; games: 0; sets: 0 
+5/9/2022 10:14:42: [G_Auto 2] :  Store Text Value (Shared) for Stan Wawrinka: aServing = serving:1
+5/9/2022 10:14:42: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 1; sets: 0 
+5/9/2022 10:14:42: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:0
+5/9/2022 10:14:42: [G_Auto 2] :  Store Value (Shared) for market: price = 1.37
+5/9/2022 10:14:42: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 20.81
+5/9/2022 10:14:42: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 20.51
+5/9/2022 10:14:42: [G_Auto 2] :  Store Value (Shared) for market: stake = 20.81
+5/9/2022 10:14:42: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 41.32
+5/9/2022 10:14:42: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.3
+5/9/2022 10:14:42: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.6
+5/9/2022 10:14:42: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.38
+5/9/2022 10:14:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:15:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:15:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 10:15:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 10:16:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:16:52: [G_Auto 1] :  € 17.78 Lay bet placed on Reilly Opelka at 1.45. Fully matched at 1.44.  Ref: 10087          ( Fill or kill bet with 15 seconds delay.   )
+5/9/2022 10:16:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:16:54: [G_Auto 2] :  Store Text Value (Shared) for Stan Wawrinka: aPoints = point: 0; games: 1; sets: 0 
+5/9/2022 10:16:54: [G_Auto 2] :  Store Text Value (Shared) for Stan Wawrinka: aServing = serving:0
+5/9/2022 10:16:54: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 1; sets: 0 
+5/9/2022 10:16:54: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:2
+5/9/2022 10:16:54: [G_Auto 2] :  Store Value (Shared) for market: price = 1.44
+5/9/2022 10:16:54: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 20.81
+5/9/2022 10:16:54: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 38.29
+5/9/2022 10:16:54: [G_Auto 2] :  Store Value (Shared) for market: stake = 17.78
+5/9/2022 10:16:54: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 59.1
+5/9/2022 10:16:54: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.42
+5/9/2022 10:16:54: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.25
+5/9/2022 10:16:54: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.43
+5/9/2022 10:17:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 10:17:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 10:18:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:18:39: [G_Auto 1] :  Placed closure bet with greening on Reilly Opelka by Backing 18.42 at 1.39
+5/9/2022 10:18:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:18:41: [G_Auto 2] :  Store Text Value (Shared) for Stan Wawrinka: aPoints = point: 0; games: 1; sets: 0 
+5/9/2022 10:18:41: [G_Auto 2] :  Store Text Value (Shared) for Stan Wawrinka: aServing = serving:1
+5/9/2022 10:18:41: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 2; sets: 0 
+5/9/2022 10:18:41: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:0
+5/9/2022 10:18:41: [G_Auto 2] :  Store Value (Shared) for market: price = 1.39
+5/9/2022 10:18:41: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 39.23
+5/9/2022 10:18:41: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 38.29
+5/9/2022 10:18:41: [G_Auto 2] :  Store Value (Shared) for market: stake = 18.42
+5/9/2022 10:18:41: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 77.52
+5/9/2022 10:18:41: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.94
+5/9/2022 10:18:41: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.55
+5/9/2022 10:18:41: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.4
+5/9/2022 10:18:46: [G_Auto 2] :  Store Text Value (Shared) for Stan Wawrinka: aPoints = point: 0; games: 1; sets: 0 
+5/9/2022 10:18:46: [G_Auto 2] :  Store Text Value (Shared) for Stan Wawrinka: aServing = serving:1
+5/9/2022 10:18:46: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 2; sets: 0 
+5/9/2022 10:18:46: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:0
+5/9/2022 10:18:46: [G_Auto 2] :  Store Value (Shared) for market: price = 1.39
+5/9/2022 10:18:46: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 39.23
+5/9/2022 10:18:46: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 38.29
+5/9/2022 10:18:46: [G_Auto 2] :  Store Value (Shared) for market: stake = 18.42
+5/9/2022 10:18:46: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 77.52
+5/9/2022 10:18:46: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.94
+5/9/2022 10:18:46: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.5
+5/9/2022 10:18:46: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.4
+5/9/2022 10:18:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:19:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:19:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:19:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:19:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:20:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:20:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:20:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:20:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:21:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:21:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 10:23:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:23:50: [G_Auto 1] :  € 17.39 Lay bet placed on Reilly Opelka at 1.46. Fully matched at 1.45.  Ref: 10092          ( Fill or kill bet with 15 seconds delay.   )
+5/9/2022 10:23:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:23:52: [G_Auto 2] :  Store Text Value (Shared) for Stan Wawrinka: aPoints = point: 0; games: 2; sets: 0 
+5/9/2022 10:23:52: [G_Auto 2] :  Store Text Value (Shared) for Stan Wawrinka: aServing = serving:0
+5/9/2022 10:23:52: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 2; sets: 0 
+5/9/2022 10:23:52: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:2
+5/9/2022 10:23:52: [G_Auto 2] :  Store Value (Shared) for market: price = 1.45
+5/9/2022 10:23:52: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 39.23
+5/9/2022 10:23:52: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 55.68
+5/9/2022 10:23:52: [G_Auto 2] :  Store Value (Shared) for market: stake = 17.39
+5/9/2022 10:23:52: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 94.91
+5/9/2022 10:23:52: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.82
+5/9/2022 10:23:52: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.15
+5/9/2022 10:23:52: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.46
+5/9/2022 10:24:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 10:24:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 10:24:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 10:26:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:27:04: [G_Auto 1] :  Placed closure bet with greening on Reilly Opelka by Backing 17.76 at 1.42
+5/9/2022 10:27:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:27:06: [G_Auto 2] :  Store Text Value (Shared) for Stan Wawrinka: aPoints = point: 0; games: 2; sets: 0 
+5/9/2022 10:27:06: [G_Auto 2] :  Store Text Value (Shared) for Stan Wawrinka: aServing = serving:1
+5/9/2022 10:27:06: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 3; sets: 0 
+5/9/2022 10:27:06: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:0
+5/9/2022 10:27:06: [G_Auto 2] :  Store Value (Shared) for market: price = 1.42
+5/9/2022 10:27:06: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 56.99
+5/9/2022 10:27:06: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 55.68
+5/9/2022 10:27:06: [G_Auto 2] :  Store Value (Shared) for market: stake = 17.76
+5/9/2022 10:27:06: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 112.67
+5/9/2022 10:27:06: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.31
+5/9/2022 10:27:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.3
+5/9/2022 10:27:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.42
+5/9/2022 10:27:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:27:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:27:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:28:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:28:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:28:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:28:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:28:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 10:29:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 10:32:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:32:26: [G_Auto 1] :  € 50.00 Lay bet placed on Reilly Opelka at 1.16. Fully matched at 1.15.  Ref: 10103          ( Fill or kill bet with 15 seconds delay.   )
+5/9/2022 10:32:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:32:28: [G_Auto 2] :  Store Text Value (Shared) for Stan Wawrinka: aPoints = point: 0; games: 2; sets: 0 
+5/9/2022 10:32:28: [G_Auto 2] :  Store Text Value (Shared) for Stan Wawrinka: aServing = serving:0
+5/9/2022 10:32:28: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 4; sets: 0 
+5/9/2022 10:32:28: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:2
+5/9/2022 10:32:28: [G_Auto 2] :  Store Value (Shared) for market: price = 1.15
+5/9/2022 10:32:28: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 56.99
+5/9/2022 10:32:28: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 105.68
+5/9/2022 10:32:28: [G_Auto 2] :  Store Value (Shared) for market: stake = 50
+5/9/2022 10:32:28: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 162.67
+5/9/2022 10:32:28: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.74
+5/9/2022 10:32:28: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 7.6
+5/9/2022 10:32:28: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.15
+5/9/2022 10:32:33: [G_Auto 2] :  Store Text Value (Shared) for Stan Wawrinka: aPoints = point: 0; games: 2; sets: 0 
+5/9/2022 10:32:33: [G_Auto 2] :  Store Text Value (Shared) for Stan Wawrinka: aServing = serving:0
+5/9/2022 10:32:33: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 4; sets: 0 
+5/9/2022 10:32:33: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:2
+5/9/2022 10:32:33: [G_Auto 2] :  Store Value (Shared) for market: price = 1.15
+5/9/2022 10:32:33: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 56.99
+5/9/2022 10:32:33: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 105.68
+5/9/2022 10:32:33: [G_Auto 2] :  Store Value (Shared) for market: stake = 50
+5/9/2022 10:32:33: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 162.67
+5/9/2022 10:32:33: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.74
+5/9/2022 10:32:33: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 7.8
+5/9/2022 10:32:33: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.15
+5/9/2022 10:32:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:32:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 10:33:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 10:35:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:35:30: [G_Auto 1] :  Placed closure bet with greening on Reilly Opelka by Backing 50.88 at 1.13
+5/9/2022 10:35:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:35:33: [G_Auto 2] :  Store Text Value (Shared) for Stan Wawrinka: aPoints = point: 0; games: 2; sets: 0 
+5/9/2022 10:35:33: [G_Auto 2] :  Store Text Value (Shared) for Stan Wawrinka: aServing = serving:1
+5/9/2022 10:35:33: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 5; sets: 0 
+5/9/2022 10:35:33: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:0
+5/9/2022 10:35:33: [G_Auto 2] :  Store Value (Shared) for market: price = 1.13
+5/9/2022 10:35:33: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 107.87
+5/9/2022 10:35:33: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 105.68
+5/9/2022 10:35:33: [G_Auto 2] :  Store Value (Shared) for market: stake = 50.88
+5/9/2022 10:35:33: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 213.55
+5/9/2022 10:35:33: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.19
+5/9/2022 10:35:33: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 8
+5/9/2022 10:35:33: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.14
+5/9/2022 10:35:38: [G_Auto 2] :  Store Text Value (Shared) for Stan Wawrinka: aPoints = point: 0; games: 2; sets: 0 
+5/9/2022 10:35:38: [G_Auto 2] :  Store Text Value (Shared) for Stan Wawrinka: aServing = serving:1
+5/9/2022 10:35:38: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 5; sets: 0 
+5/9/2022 10:35:38: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:0
+5/9/2022 10:35:38: [G_Auto 2] :  Store Value (Shared) for market: price = 1.13
+5/9/2022 10:35:38: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 107.87
+5/9/2022 10:35:38: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 105.68
+5/9/2022 10:35:38: [G_Auto 2] :  Store Value (Shared) for market: stake = 50.88
+5/9/2022 10:35:38: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 213.55
+5/9/2022 10:35:38: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.19
+5/9/2022 10:35:38: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 8
+5/9/2022 10:35:38: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.13
+5/9/2022 10:35:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:36:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:36:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:36:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:36:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:37:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:37:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 10:37:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 10:39:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:39:31: [G_Auto 1] :  € 50.00 Lay bet placed on Reilly Opelka at 1.16. Fully matched at 1.15.  Ref: 10110          ( Fill or kill bet with 15 seconds delay.   )
+5/9/2022 10:39:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:39:33: [G_Auto 2] :  Store Text Value (Shared) for Stan Wawrinka: aPoints = point: 0; games: 3; sets: 0 
+5/9/2022 10:39:33: [G_Auto 2] :  Store Text Value (Shared) for Stan Wawrinka: aServing = serving:0
+5/9/2022 10:39:33: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 5; sets: 0 
+5/9/2022 10:39:33: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:2
+5/9/2022 10:39:33: [G_Auto 2] :  Store Value (Shared) for market: price = 1.15
+5/9/2022 10:39:33: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 107.87
+5/9/2022 10:39:33: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 155.68
+5/9/2022 10:39:33: [G_Auto 2] :  Store Value (Shared) for market: stake = 50
+5/9/2022 10:39:33: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 263.55
+5/9/2022 10:39:33: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.63
+5/9/2022 10:39:33: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 8
+5/9/2022 10:39:33: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.14
+5/9/2022 10:39:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:40:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 10:40:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 10:42:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:42:44: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 8
+5/9/2022 10:42:44: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 1.14
+5/9/2022 10:42:47: [G_Auto 1] :  Placed closure bet with greening on Reilly Opelka by Backing 50.89 at 1.13
+5/9/2022 10:42:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:42:49: [G_Auto 2] :  Store Text Value (Shared) for Stan Wawrinka: aPoints = point: 0; games: 0; sets: 0 
+5/9/2022 10:42:49: [G_Auto 2] :  Store Text Value (Shared) for Stan Wawrinka: aServing = serving:1
+5/9/2022 10:42:49: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 0; sets: 1 
+5/9/2022 10:42:49: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:0
+5/9/2022 10:42:49: [G_Auto 2] :  Store Value (Shared) for market: price = 1.13
+5/9/2022 10:42:49: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 158.76
+5/9/2022 10:42:49: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 155.68
+5/9/2022 10:42:49: [G_Auto 2] :  Store Value (Shared) for market: stake = 50.89
+5/9/2022 10:42:49: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 314.44
+5/9/2022 10:42:49: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.08
+5/9/2022 10:42:49: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 8
+5/9/2022 10:42:49: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.14
+5/9/2022 10:43:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:43:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:43:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:43:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:44:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:44:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:44:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:44:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:45:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:45:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:45:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:45:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:46:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:46:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 10:46:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 10:50:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:50:49: [G_Auto 1] :  € 47.06 Lay bet placed on Reilly Opelka at 1.17. Fully matched at 1.16.  Ref: 10118          ( Fill or kill bet with 15 seconds delay.   )
+5/9/2022 10:50:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:50:51: [G_Auto 2] :  Store Text Value (Shared) for Stan Wawrinka: aPoints = point: 0; games: 1; sets: 0 
+5/9/2022 10:50:51: [G_Auto 2] :  Store Text Value (Shared) for Stan Wawrinka: aServing = serving:0
+5/9/2022 10:50:51: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 0; sets: 1 
+5/9/2022 10:50:51: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:2
+5/9/2022 10:50:51: [G_Auto 2] :  Store Value (Shared) for market: price = 1.16
+5/9/2022 10:50:51: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 158.76
+5/9/2022 10:50:51: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 202.74
+5/9/2022 10:50:51: [G_Auto 2] :  Store Value (Shared) for market: stake = 47.06
+5/9/2022 10:50:51: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 361.5
+5/9/2022 10:50:51: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.48
+5/9/2022 10:50:51: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 7.6
+5/9/2022 10:50:51: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.15
+5/9/2022 10:51:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:51:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:51:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 10:51:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 10:52:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:52:51: [G_Auto 1] :  Placed closure bet with greening on Reilly Opelka by Backing 48.30 at 1.13
+5/9/2022 10:52:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:52:53: [G_Auto 2] :  Store Text Value (Shared) for Stan Wawrinka: aPoints = point: 0; games: 1; sets: 0 
+5/9/2022 10:52:53: [G_Auto 2] :  Store Text Value (Shared) for Stan Wawrinka: aServing = serving:1
+5/9/2022 10:52:53: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 1; sets: 1 
+5/9/2022 10:52:53: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:0
+5/9/2022 10:52:53: [G_Auto 2] :  Store Value (Shared) for market: price = 1.13
+5/9/2022 10:52:53: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 207.06
+5/9/2022 10:52:53: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 202.74
+5/9/2022 10:52:53: [G_Auto 2] :  Store Value (Shared) for market: stake = 48.3
+5/9/2022 10:52:53: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 409.8
+5/9/2022 10:52:53: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.32
+5/9/2022 10:52:53: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 8
+5/9/2022 10:52:53: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.13
+5/9/2022 10:53:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:53:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 10:53:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 10:53:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 10:57:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:57:13: [G_Auto 1] :  € 47.06 Lay bet placed on Reilly Opelka at 1.17. Fully matched at 1.16.  Ref: 10125          ( Fill or kill bet with 15 seconds delay.   )
+5/9/2022 10:57:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:57:15: [G_Auto 2] :  Store Text Value (Shared) for Stan Wawrinka: aPoints = point: 0; games: 2; sets: 0 
+5/9/2022 10:57:15: [G_Auto 2] :  Store Text Value (Shared) for Stan Wawrinka: aServing = serving:0
+5/9/2022 10:57:15: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 1; sets: 1 
+5/9/2022 10:57:15: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:2
+5/9/2022 10:57:15: [G_Auto 2] :  Store Value (Shared) for market: price = 1.16
+5/9/2022 10:57:15: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 207.06
+5/9/2022 10:57:15: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 249.8
+5/9/2022 10:57:15: [G_Auto 2] :  Store Value (Shared) for market: stake = 47.06
+5/9/2022 10:57:15: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 456.86
+5/9/2022 10:57:15: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.73
+5/9/2022 10:57:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 7.8
+5/9/2022 10:57:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.15
+5/9/2022 10:57:21: [G_Auto 2] :  Store Text Value (Shared) for Stan Wawrinka: aPoints = point: 0; games: 2; sets: 0 
+5/9/2022 10:57:21: [G_Auto 2] :  Store Text Value (Shared) for Stan Wawrinka: aServing = serving:0
+5/9/2022 10:57:21: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 1; sets: 1 
+5/9/2022 10:57:21: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:2
+5/9/2022 10:57:21: [G_Auto 2] :  Store Value (Shared) for market: price = 1.16
+5/9/2022 10:57:21: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 207.06
+5/9/2022 10:57:21: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 249.8
+5/9/2022 10:57:21: [G_Auto 2] :  Store Value (Shared) for market: stake = 47.06
+5/9/2022 10:57:21: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 456.86
+5/9/2022 10:57:21: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.15
+5/9/2022 10:57:21: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 7.8
+5/9/2022 10:57:21: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.15
+5/9/2022 10:57:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:57:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:58:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:58:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:58:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:58:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:59:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 10:59:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 10:59:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 11:00:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:01:04: [G_Auto 1] :  Placed closure bet with greening on Reilly Opelka by Backing 48.75 at 1.12
+5/9/2022 11:01:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:01:06: [G_Auto 2] :  Store Text Value (Shared) for Stan Wawrinka: aPoints = point: 0; games: 2; sets: 0 
+5/9/2022 11:01:06: [G_Auto 2] :  Store Text Value (Shared) for Stan Wawrinka: aServing = serving:1
+5/9/2022 11:01:06: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 2; sets: 1 
+5/9/2022 11:01:06: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:0
+5/9/2022 11:01:06: [G_Auto 2] :  Store Value (Shared) for market: price = 1.12
+5/9/2022 11:01:06: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 255.81
+5/9/2022 11:01:06: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 249.8
+5/9/2022 11:01:06: [G_Auto 2] :  Store Value (Shared) for market: stake = 48.75
+5/9/2022 11:01:06: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 505.61
+5/9/2022 11:01:06: [G_Auto 2] :  Store Value (Shared) for market: pl = -6.01
+5/9/2022 11:01:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 8.6
+5/9/2022 11:01:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.13
+5/9/2022 11:01:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:01:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 11:01:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 11:02:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:03:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:03:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:03:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:03:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:04:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:04:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:04:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:04:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:05:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 11:05:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 11:06:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:06:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:07:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:07:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 11:12:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:12:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:12:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:12:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:13:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:13:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:13:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:13:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:14:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 11:14:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 11:18:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:18:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:18:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:18:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:18:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 11:19:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 11:21:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:21:31: [G_Auto 1] :  € 34.78 Lay bet placed on Reilly Opelka at 1.23. Entirely unmatched when it initially reached the market.   Ref: 10135          ( Fill or kill bet with 15 seconds delay.   )
+5/9/2022 11:21:38: [G_Auto 1] :  € 34.78 of unmatched bet (Ref:10135) was filled before remainder was killed.
+5/9/2022 11:21:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:21:38: [G_Auto 2] :  Store Text Value (Shared) for Stan Wawrinka: aPoints = point: 0; games: 5; sets: 0 
+5/9/2022 11:21:38: [G_Auto 2] :  Store Text Value (Shared) for Stan Wawrinka: aServing = serving:0
+5/9/2022 11:21:38: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 4; sets: 1 
+5/9/2022 11:21:38: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:2
+5/9/2022 11:21:38: [G_Auto 2] :  Store Value (Shared) for market: price = 1.23
+5/9/2022 11:21:38: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 255.81
+5/9/2022 11:21:38: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 284.58
+5/9/2022 11:21:38: [G_Auto 2] :  Store Value (Shared) for market: stake = 34.78
+5/9/2022 11:21:38: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 540.39
+5/9/2022 11:21:38: [G_Auto 2] :  Store Value (Shared) for market: pl = -6.58
+5/9/2022 11:21:38: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 5.2
+5/9/2022 11:21:38: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.21
+5/9/2022 11:21:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:22:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:22:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:22:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:23:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:23:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 11:25:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:26:10: [G_Auto 1] :  Placed closure bet with greening on Reilly Opelka by Backing 36.56 at 1.17
+5/9/2022 11:26:12: [G_Auto 2] :  Store Text Value (Shared) for Stan Wawrinka: aPoints = point: 0; games: 5; sets: 0 
+5/9/2022 11:26:12: [G_Auto 2] :  Store Text Value (Shared) for Stan Wawrinka: aServing = serving:1
+5/9/2022 11:26:12: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 5; sets: 1 
+5/9/2022 11:26:12: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:0
+5/9/2022 11:26:12: [G_Auto 2] :  Store Value (Shared) for market: price = 1.17
+5/9/2022 11:26:12: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 292.37
+5/9/2022 11:26:12: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 284.58
+5/9/2022 11:26:12: [G_Auto 2] :  Store Value (Shared) for market: stake = 36.56
+5/9/2022 11:26:12: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 576.95
+5/9/2022 11:26:12: [G_Auto 2] :  Store Value (Shared) for market: pl = -7.79
+5/9/2022 11:26:12: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 7
+5/9/2022 11:26:12: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.17
+5/9/2022 11:26:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:26:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 11:26:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 11:36:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:37:04: [G_Auto 1] :  € 36.36 Lay bet placed on Reilly Opelka at 1.22. Fully matched at 1.21.  Ref: 10142          ( Fill or kill bet with 15 seconds delay.   )
+5/9/2022 11:37:06: [G_Auto 2] :  Store Text Value (Shared) for Stan Wawrinka: aPoints = point: 0; games: 6; sets: 0 
+5/9/2022 11:37:06: [G_Auto 2] :  Store Text Value (Shared) for Stan Wawrinka: aServing = serving:0
+5/9/2022 11:37:06: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 5; sets: 1 
+5/9/2022 11:37:06: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:2
+5/9/2022 11:37:06: [G_Auto 2] :  Store Value (Shared) for market: price = 1.21
+5/9/2022 11:37:06: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 292.37
+5/9/2022 11:37:06: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 320.94
+5/9/2022 11:37:06: [G_Auto 2] :  Store Value (Shared) for market: stake = 36.36
+5/9/2022 11:37:06: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 613.31
+5/9/2022 11:37:06: [G_Auto 2] :  Store Value (Shared) for market: pl = -8.09
+5/9/2022 11:37:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 6
+5/9/2022 11:37:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.2
+5/9/2022 11:37:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:37:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:37:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:38:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:38:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:38:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:39:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 11:39:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 11:43:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:44:00: [G_Auto 2] :  Store Value (Shared) for market: aSecondSetPrice = 2.74
+5/9/2022 11:44:00: [G_Auto 2] :  Store Value (Shared) for market: bSecondSetPrice = 1.59
+5/9/2022 11:44:03: [G_Auto 1] :  Placed closure bet with greening on Reilly Opelka by Backing 27.67 at 1.59
+5/9/2022 11:44:05: [G_Auto 2] :  Store Text Value (Shared) for Stan Wawrinka: aPoints = point: 0; games: 0; sets: 1 
+5/9/2022 11:44:05: [G_Auto 2] :  Store Text Value (Shared) for Stan Wawrinka: aServing = serving:1
+5/9/2022 11:44:05: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 0; sets: 1 
+5/9/2022 11:44:05: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:0
+5/9/2022 11:44:05: [G_Auto 2] :  Store Value (Shared) for market: price = 1.59
+5/9/2022 11:44:05: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 320.04
+5/9/2022 11:44:05: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 320.94
+5/9/2022 11:44:05: [G_Auto 2] :  Store Value (Shared) for market: stake = 27.67
+5/9/2022 11:44:05: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 640.98
+5/9/2022 11:44:05: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.88
+5/9/2022 11:44:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.66
+5/9/2022 11:44:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.59
+5/9/2022 11:44:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:44:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:44:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:45:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:45:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:45:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:46:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:46:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:46:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:46:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:47:16: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 11:47:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 11:48:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:48:53: [G_Auto 1] :  € 11.27 Lay bet placed on Reilly Opelka at 1.71. Fully matched at 1.7.  Ref: 10149          ( Fill or kill bet with 15 seconds delay.   )
+5/9/2022 11:48:55: [G_Auto 2] :  Store Text Value (Shared) for Stan Wawrinka: aPoints = point: 0; games: 1; sets: 1 
+5/9/2022 11:48:55: [G_Auto 2] :  Store Text Value (Shared) for Stan Wawrinka: aServing = serving:0
+5/9/2022 11:48:55: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 0; sets: 1 
+5/9/2022 11:48:55: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:2
+5/9/2022 11:48:55: [G_Auto 2] :  Store Value (Shared) for market: price = 1.7
+5/9/2022 11:48:55: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 320.04
+5/9/2022 11:48:55: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 332.21
+5/9/2022 11:48:55: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.27
+5/9/2022 11:48:55: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 652.25
+5/9/2022 11:48:55: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.75
+5/9/2022 11:48:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.42
+5/9/2022 11:48:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.68
+5/9/2022 11:49:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:49:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:49:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 11:49:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 11:51:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:51:48: [G_Auto 1] :  Placed closure bet with greening on Reilly Opelka by Backing 12.36 at 1.55
+5/9/2022 11:51:50: [G_Auto 2] :  Store Text Value (Shared) for Stan Wawrinka: aPoints = point: 0; games: 1; sets: 1 
+5/9/2022 11:51:50: [G_Auto 2] :  Store Text Value (Shared) for Stan Wawrinka: aServing = serving:1
+5/9/2022 11:51:50: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 1; sets: 1 
+5/9/2022 11:51:50: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:0
+5/9/2022 11:51:50: [G_Auto 2] :  Store Value (Shared) for market: price = 1.55
+5/9/2022 11:51:50: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 332.4
+5/9/2022 11:51:50: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 332.21
+5/9/2022 11:51:50: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.36
+5/9/2022 11:51:50: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 664.61
+5/9/2022 11:51:50: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.19
+5/9/2022 11:51:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.74
+5/9/2022 11:51:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.58
+5/9/2022 11:51:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:52:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:52:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 11:54:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:54:23: [G_Auto 1] :  € 11.43 Lay bet placed on Reilly Opelka at 1.7. Fully matched at 1.69.  Ref: 10154          ( Fill or kill bet with 15 seconds delay.   )
+5/9/2022 11:54:25: [G_Auto 2] :  Store Text Value (Shared) for Stan Wawrinka: aPoints = point: 0; games: 2; sets: 1 
+5/9/2022 11:54:25: [G_Auto 2] :  Store Text Value (Shared) for Stan Wawrinka: aServing = serving:0
+5/9/2022 11:54:25: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 1; sets: 1 
+5/9/2022 11:54:25: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:2
+5/9/2022 11:54:25: [G_Auto 2] :  Store Value (Shared) for market: price = 1.69
+5/9/2022 11:54:25: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 332.4
+5/9/2022 11:54:25: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 343.64
+5/9/2022 11:54:25: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.43
+5/9/2022 11:54:25: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 676.04
+5/9/2022 11:54:25: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.26
+5/9/2022 11:54:25: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.44
+5/9/2022 11:54:25: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.69
+5/9/2022 11:54:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:54:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:55:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:55:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:55:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:56:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:56:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 11:56:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 11:56:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 12:00:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:00:31: [G_Auto 1] :  Placed closure bet with greening on Reilly Opelka by Backing 11.78 at 1.64
+5/9/2022 12:00:33: [G_Auto 2] :  Store Text Value (Shared) for Stan Wawrinka: aPoints = point: 0; games: 2; sets: 1 
+5/9/2022 12:00:33: [G_Auto 2] :  Store Text Value (Shared) for Stan Wawrinka: aServing = serving:1
+5/9/2022 12:00:33: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 2; sets: 1 
+5/9/2022 12:00:33: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:0
+5/9/2022 12:00:33: [G_Auto 2] :  Store Value (Shared) for market: price = 1.64
+5/9/2022 12:00:33: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 344.18
+5/9/2022 12:00:33: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 343.64
+5/9/2022 12:00:33: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.78
+5/9/2022 12:00:33: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 687.82
+5/9/2022 12:00:33: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.54
+5/9/2022 12:00:33: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.52
+5/9/2022 12:00:33: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.66
+5/9/2022 12:00:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:00:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:01:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 12:01:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 12:03:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:03:25: [G_Auto 1] :  € 9.20 Lay bet placed on Reilly Opelka at 1.87. Fully matched at 1.86.  Ref: 10163          ( Fill or kill bet with 15 seconds delay.   )
+5/9/2022 12:03:27: [G_Auto 2] :  Store Text Value (Shared) for Stan Wawrinka: aPoints = point: 0; games: 3; sets: 1 
+5/9/2022 12:03:27: [G_Auto 2] :  Store Text Value (Shared) for Stan Wawrinka: aServing = serving:0
+5/9/2022 12:03:27: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 2; sets: 1 
+5/9/2022 12:03:27: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:2
+5/9/2022 12:03:27: [G_Auto 2] :  Store Value (Shared) for market: price = 1.86
+5/9/2022 12:03:27: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 344.18
+5/9/2022 12:03:27: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 352.84
+5/9/2022 12:03:27: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.2
+5/9/2022 12:03:27: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 697.02
+5/9/2022 12:03:27: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.69
+5/9/2022 12:03:27: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.18
+5/9/2022 12:03:27: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.85
+5/9/2022 12:03:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:03:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:04:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:04:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:04:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:05:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:05:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 12:08:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:08:53: [G_Auto 1] :  Placed closure bet with greening on Reilly Opelka by Backing 2.52 at 6.8
+5/9/2022 12:08:53: [G_Auto 1] :  € 44.44 Lay bet placed on Stan Wawrinka at 1.18. Fully matched at 1.17.  Ref: 10169          ( Fill or kill bet with 15 seconds delay.   )
+5/9/2022 12:08:55: [G_Auto 2] :  Store Text Value (Shared) for Stan Wawrinka: aPoints = point: 0; games: 4; sets: 1 
+5/9/2022 12:08:55: [G_Auto 2] :  Store Text Value (Shared) for Stan Wawrinka: aServing = serving:1
+5/9/2022 12:08:55: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 2; sets: 1 
+5/9/2022 12:08:55: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:0
+5/9/2022 12:08:55: [G_Auto 2] :  Store Value (Shared) for market: price = 1.17
+5/9/2022 12:08:55: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 346.7
+5/9/2022 12:08:55: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 397.28
+5/9/2022 12:08:55: [G_Auto 2] :  Store Value (Shared) for market: stake = 44.44
+5/9/2022 12:08:55: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 743.98
+5/9/2022 12:08:55: [G_Auto 2] :  Store Value (Shared) for market: pl = 5.26
+5/9/2022 12:08:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.16
+5/9/2022 12:08:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 7.2
+5/9/2022 12:09:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:09:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:09:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 12:09:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 12:12:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:12:14: [G_Auto 1] :  Placed closure bet with greening on Stan Wawrinka by Backing 48.59 at 1.07
+5/9/2022 12:12:15: [G_Auto 2] :  Store Text Value (Shared) for Stan Wawrinka: aPoints = point: 0; games: 5; sets: 1 
+5/9/2022 12:12:15: [G_Auto 2] :  Store Text Value (Shared) for Stan Wawrinka: aServing = serving:0
+5/9/2022 12:12:15: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bPoints = point: 0; games: 2; sets: 1 
+5/9/2022 12:12:15: [G_Auto 2] :  Store Text Value (Shared) for Reilly Opelka: bServing = serving:2
+5/9/2022 12:12:15: [G_Auto 2] :  Store Value (Shared) for market: price = 1.07
+5/9/2022 12:12:15: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 395.29
+5/9/2022 12:12:15: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 397.28
+5/9/2022 12:12:15: [G_Auto 2] :  Store Value (Shared) for market: stake = 48.59
+5/9/2022 12:12:15: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 792.57
+5/9/2022 12:12:15: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.95
+5/9/2022 12:12:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.07
+5/9/2022 12:12:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 15
+5/9/2022 12:12:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:12:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:12:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:13:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:13:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:13:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/9/2022 12:15:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/9/2022 12:15:50:  Guardian has detected that the market is suspended

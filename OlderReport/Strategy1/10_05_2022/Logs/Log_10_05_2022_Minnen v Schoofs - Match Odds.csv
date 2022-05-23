@@ -1,0 +1,67 @@
+5/10/2022 09:40:51: [G_Auto 2] :  Store Text Value (Shared) for Greet Minnen: info = marketName: Minnen v Schoofs - Match Odds; runnerA: Greet Minnen; runnerB: Bibiane Schoofs 
+5/10/2022 09:40:51: [G_Auto 2] :  Store Value (Shared) for market: aId = 10108736
+5/10/2022 09:40:51: [G_Auto 2] :  Store Value (Shared) for market: bId = 5892547
+5/10/2022 15:19:39:  Guardian has detected that the market is in-play
+5/10/2022 15:19:39:  Guardian has detected that the market is suspended
+5/10/2022 15:19:42: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.2; bBsp: 6; volume: 545.87 
+5/10/2022 15:19:42: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.2; bBsp: 6; volume: 545.87 
+5/10/2022 15:19:42:  Guardian has detected that the market is now unsuspended
+5/10/2022 15:19:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 15:19:55: [G_Auto 1] :  1 Automation Signals Cleared
+5/10/2022 15:23:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 15:23:27: [G_Auto 1] :  € 61.54 Lay bet placed on Greet Minnen at 1.13. Entirely unmatched when it initially reached the market.   Ref: 10243          ( Fill or kill bet with 15 seconds delay.   )
+5/10/2022 15:23:42: [G_Auto 1] :  € 61.54 unmatched bet (Ref:10243) was killed.
+5/10/2022 15:24:17: [G_Auto 1] :  1 Automation Signals Cleared
+5/10/2022 15:26:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 15:27:23: [G_Auto 1] :  1 Automation Signals Cleared
+5/10/2022 15:33:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 15:33:13: [G_Auto 1] :  € 50.00 Lay bet placed on Greet Minnen at 1.16. Entirely unmatched when it initially reached the market.   Ref: 10247          ( Fill or kill bet with 15 seconds delay.   )
+5/10/2022 15:33:28: [G_Auto 1] :  € 50 unmatched bet (Ref:10247) was killed.
+5/10/2022 15:34:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 15:35:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 15:35:06: [G_Auto 1] :  1 Automation Signals Cleared
+5/10/2022 15:37:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 15:38:27: [G_Auto 1] :  1 Automation Signals Cleared
+5/10/2022 15:40:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 15:41:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 15:42:30: [G_Auto 1] :  1 Automation Signals Cleared
+5/10/2022 15:49:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 15:50:27: [G_Auto 1] :  1 Automation Signals Cleared
+5/10/2022 15:52:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 15:52:13: [G_Auto 1] :  Store Value (Shared) for Greet Minnen: PRICE SET 2 = 1.05
+5/10/2022 15:52:13: [G_Auto 1] :  Alert: STORE PRICE AT SET 2 [ Greet Minnen ]
+5/10/2022 15:52:13: [G_Auto 1] :  Automation Signal for market: VALID = 1
+5/10/2022 15:52:13: [G_Auto 1] :  Store Value (Shared) for Bibiane Schoofs: PRICE SET 2 = 11.5
+5/10/2022 15:52:13: [G_Auto 1] :  Alert: STORE PRICE AT SET 2 [ Bibiane Schoofs ]
+5/10/2022 15:52:13: [G_Auto 1] :  Automation Signal for market: VALID = 1
+5/10/2022 15:52:13: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 1.05
+5/10/2022 15:52:13: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 11.5
+5/10/2022 15:53:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 15:54:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 15:55:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 15:55:23: [G_Auto 1] :  2 Automation Signals Cleared
+5/10/2022 15:57:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 15:58:33: [G_Auto 1] :  1 Automation Signals Cleared
+5/10/2022 16:01:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 16:02:04: [G_Auto 1] :  1 Automation Signals Cleared
+5/10/2022 16:03:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 16:04:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 16:05:41: [G_Auto 1] :  1 Automation Signals Cleared
+5/10/2022 16:07:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 16:08:07: [G_Auto 1] :  1 Automation Signals Cleared
+5/10/2022 16:10:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 16:11:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 16:12:12: [G_Auto 1] :  1 Automation Signals Cleared
+5/10/2022 16:17:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 16:18:26: [G_Auto 1] :  1 Automation Signals Cleared
+5/10/2022 16:23:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 16:24:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 16:24:36: [G_Auto 1] :  1 Automation Signals Cleared
+5/10/2022 16:26:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 16:27:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 16:27:32: [G_Auto 1] :  1 Automation Signals Cleared
+5/10/2022 16:37:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 16:38:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 16:39:28: [G_Auto 1] :  1 Automation Signals Cleared
+5/10/2022 16:42:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/10/2022 16:42:24:  Guardian has detected that the market is suspended

@@ -1,0 +1,477 @@
+5/13/2022 16:36:47: [G_Auto 2] :  Store Text Value (Shared) for Novak Djokovic: info = marketName: Djokovic v Ruud - Match Odds; runnerA: Novak Djokovic; runnerB: Casper Ruud 
+5/13/2022 16:36:47: [G_Auto 2] :  Store Value (Shared) for market: aId = 2249229
+5/13/2022 16:36:47: [G_Auto 2] :  Store Value (Shared) for market: bId = 9629711
+5/14/2022 02:22:02:  Guardian has detected that the market is in-play
+5/14/2022 02:22:02:  Guardian has detected that the market is suspended
+5/14/2022 02:22:02: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.29; bBsp: 4.4; volume: 511997.22 
+5/14/2022 02:22:02: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.29; bBsp: 4.4; volume: 511997.22 
+5/14/2022 02:22:02:  Guardian has detected that the market is now unsuspended
+5/14/2022 02:22:16: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 02:22:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 02:22:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 02:23:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 02:26:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 02:26:34: [G_Auto 1] :  € 42.11 Lay bet placed on Novak Djokovic at 1.19. Fully matched at 1.18.  Ref: 10064          ( Fill or kill bet with 15 seconds delay.   )
+5/14/2022 02:26:34: [G_Auto 2] :  Store Text Value (Shared) for Novak Djokovic: aPoints = point: 0; games: 1; sets: 0 
+5/14/2022 02:26:34: [G_Auto 2] :  Store Text Value (Shared) for Novak Djokovic: aServing = serving:1
+5/14/2022 02:26:34: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 0; sets: 0 
+5/14/2022 02:26:34: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:0
+5/14/2022 02:26:34: [G_Auto 2] :  Store Value (Shared) for market: price = 1.18
+5/14/2022 02:26:34: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+5/14/2022 02:26:34: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 42.11
+5/14/2022 02:26:34: [G_Auto 2] :  Store Value (Shared) for market: stake = 42.11
+5/14/2022 02:26:34: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 42.11
+5/14/2022 02:26:34: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.36
+5/14/2022 02:26:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.18
+5/14/2022 02:26:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 6.4
+5/14/2022 02:26:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 02:26:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 02:27:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 02:27:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 02:27:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 02:27:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 02:28:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 02:28:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 02:28:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 02:30:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 02:30:43: [G_Auto 1] :  Placed closure bet with greening on Novak Djokovic by Backing 42.84 at 1.16
+5/14/2022 02:30:43: [G_Auto 2] :  Store Text Value (Shared) for Novak Djokovic: aPoints = point: 0; games: 2; sets: 0 
+5/14/2022 02:30:43: [G_Auto 2] :  Store Text Value (Shared) for Novak Djokovic: aServing = serving:0
+5/14/2022 02:30:43: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 0; sets: 0 
+5/14/2022 02:30:43: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:2
+5/14/2022 02:30:43: [G_Auto 2] :  Store Value (Shared) for market: price = 1.16
+5/14/2022 02:30:43: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 42.84
+5/14/2022 02:30:43: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 42.11
+5/14/2022 02:30:43: [G_Auto 2] :  Store Value (Shared) for market: stake = 42.84
+5/14/2022 02:30:43: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 84.95
+5/14/2022 02:30:43: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.73
+5/14/2022 02:30:43: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.17
+5/14/2022 02:30:43: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 7.2
+5/14/2022 02:30:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 02:30:48: [G_Auto 2] :  Store Text Value (Shared) for Novak Djokovic: aPoints = point: 0; games: 2; sets: 0 
+5/14/2022 02:30:48: [G_Auto 2] :  Store Text Value (Shared) for Novak Djokovic: aServing = serving:0
+5/14/2022 02:30:48: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 0; sets: 0 
+5/14/2022 02:30:48: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:2
+5/14/2022 02:30:48: [G_Auto 2] :  Store Value (Shared) for market: price = 1.16
+5/14/2022 02:30:48: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 42.84
+5/14/2022 02:30:48: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 42.11
+5/14/2022 02:30:48: [G_Auto 2] :  Store Value (Shared) for market: stake = 42.84
+5/14/2022 02:30:48: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 84.95
+5/14/2022 02:30:48: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.73
+5/14/2022 02:30:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.17
+5/14/2022 02:30:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 7.2
+5/14/2022 02:31:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 02:31:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 02:31:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 02:31:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 02:31:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 02:36:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 02:36:20: [G_Auto 1] :  € 66.67 Lay bet placed on Novak Djokovic at 1.12. Fully matched at 1.11.  Ref: 10066          ( Fill or kill bet with 15 seconds delay.   )
+5/14/2022 02:36:20: [G_Auto 2] :  Store Text Value (Shared) for Novak Djokovic: aPoints = point: 0; games: 3; sets: 0 
+5/14/2022 02:36:20: [G_Auto 2] :  Store Text Value (Shared) for Novak Djokovic: aServing = serving:1
+5/14/2022 02:36:20: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 0; sets: 0 
+5/14/2022 02:36:20: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:0
+5/14/2022 02:36:20: [G_Auto 2] :  Store Value (Shared) for market: price = 1.11
+5/14/2022 02:36:20: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 42.84
+5/14/2022 02:36:20: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 108.78
+5/14/2022 02:36:20: [G_Auto 2] :  Store Value (Shared) for market: stake = 66.67
+5/14/2022 02:36:20: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 151.62
+5/14/2022 02:36:20: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.33
+5/14/2022 02:36:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.1
+5/14/2022 02:36:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 10.5
+5/14/2022 02:36:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 02:36:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 02:36:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 02:37:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 02:37:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 02:37:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 02:37:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 02:38:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 02:38:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 02:38:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 02:38:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 02:39:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 02:39:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 02:39:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 02:45:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 02:45:13: [G_Auto 1] :  Placed closure bet with greening on Novak Djokovic by Backing 67.27 at 1.1
+5/14/2022 02:45:13: [G_Auto 2] :  Store Text Value (Shared) for Novak Djokovic: aPoints = point: 0; games: 4; sets: 0 
+5/14/2022 02:45:13: [G_Auto 2] :  Store Text Value (Shared) for Novak Djokovic: aServing = serving:0
+5/14/2022 02:45:13: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 0; sets: 0 
+5/14/2022 02:45:13: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:2
+5/14/2022 02:45:13: [G_Auto 2] :  Store Value (Shared) for market: price = 1.1
+5/14/2022 02:45:13: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 110.11
+5/14/2022 02:45:13: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 108.78
+5/14/2022 02:45:13: [G_Auto 2] :  Store Value (Shared) for market: stake = 67.27
+5/14/2022 02:45:13: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 218.89
+5/14/2022 02:45:13: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.33
+5/14/2022 02:45:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.11
+5/14/2022 02:45:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 10.5
+5/14/2022 02:45:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 02:45:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 02:45:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 02:45:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 02:46:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 02:46:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 02:48:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 02:48:15: [G_Auto 1] :  € 61.54 Lay bet placed on Novak Djokovic at 1.13. Fully matched at 1.12.  Ref: 10068          ( Fill or kill bet with 15 seconds delay.   )
+5/14/2022 02:48:15: [G_Auto 2] :  Store Text Value (Shared) for Novak Djokovic: aPoints = point: 0; games: 4; sets: 0 
+5/14/2022 02:48:15: [G_Auto 2] :  Store Text Value (Shared) for Novak Djokovic: aServing = serving:1
+5/14/2022 02:48:15: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 1; sets: 0 
+5/14/2022 02:48:15: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:0
+5/14/2022 02:48:15: [G_Auto 2] :  Store Value (Shared) for market: price = 1.12
+5/14/2022 02:48:15: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 110.11
+5/14/2022 02:48:15: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 170.32
+5/14/2022 02:48:15: [G_Auto 2] :  Store Value (Shared) for market: stake = 61.54
+5/14/2022 02:48:15: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 280.43
+5/14/2022 02:48:15: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.89
+5/14/2022 02:48:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.11
+5/14/2022 02:48:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 9.4
+5/14/2022 02:48:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 02:48:20: [G_Auto 2] :  Store Text Value (Shared) for Novak Djokovic: aPoints = point: 0; games: 4; sets: 0 
+5/14/2022 02:48:20: [G_Auto 2] :  Store Text Value (Shared) for Novak Djokovic: aServing = serving:1
+5/14/2022 02:48:20: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 1; sets: 0 
+5/14/2022 02:48:20: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:0
+5/14/2022 02:48:20: [G_Auto 2] :  Store Value (Shared) for market: price = 1.12
+5/14/2022 02:48:20: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 110.11
+5/14/2022 02:48:20: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 170.32
+5/14/2022 02:48:20: [G_Auto 2] :  Store Value (Shared) for market: stake = 61.54
+5/14/2022 02:48:20: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 280.43
+5/14/2022 02:48:20: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.89
+5/14/2022 02:48:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.11
+5/14/2022 02:48:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 9.2
+5/14/2022 02:48:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 02:48:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 02:49:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 02:49:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 02:49:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 02:49:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 02:50:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 02:50:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 02:50:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 02:50:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 02:50:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 02:51:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 02:51:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 02:54:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 02:54:13: [G_Auto 1] :  Placed closure bet with greening on Novak Djokovic by Backing 62.66 at 1.1
+5/14/2022 02:54:13: [G_Auto 2] :  Store Text Value (Shared) for Novak Djokovic: aPoints = point: 0; games: 5; sets: 0 
+5/14/2022 02:54:13: [G_Auto 2] :  Store Text Value (Shared) for Novak Djokovic: aServing = serving:0
+5/14/2022 02:54:13: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 1; sets: 0 
+5/14/2022 02:54:13: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:2
+5/14/2022 02:54:13: [G_Auto 2] :  Store Value (Shared) for market: price = 1.1
+5/14/2022 02:54:13: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 172.77
+5/14/2022 02:54:13: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 170.32
+5/14/2022 02:54:13: [G_Auto 2] :  Store Value (Shared) for market: stake = 62.66
+5/14/2022 02:54:13: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 343.09
+5/14/2022 02:54:13: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.45
+5/14/2022 02:54:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.11
+5/14/2022 02:54:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 10.5
+5/14/2022 02:54:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 02:54:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 02:54:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 02:54:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 02:55:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 02:55:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 02:55:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 02:55:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 02:56:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 02:56:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 02:56:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 02:56:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 02:57:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 02:57:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 02:58:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 02:59:06: [G_Auto 1] :  € 57.14 Lay bet placed on Novak Djokovic at 1.14. Fully matched at 1.13.  Ref: 10070          ( Fill or kill bet with 15 seconds delay.   )
+5/14/2022 02:59:06: [G_Auto 2] :  Store Text Value (Shared) for Novak Djokovic: aPoints = point: 0; games: 5; sets: 0 
+5/14/2022 02:59:06: [G_Auto 2] :  Store Text Value (Shared) for Novak Djokovic: aServing = serving:1
+5/14/2022 02:59:06: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 2; sets: 0 
+5/14/2022 02:59:06: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:0
+5/14/2022 02:59:06: [G_Auto 2] :  Store Value (Shared) for market: price = 1.13
+5/14/2022 02:59:06: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 172.77
+5/14/2022 02:59:06: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 227.46
+5/14/2022 02:59:06: [G_Auto 2] :  Store Value (Shared) for market: stake = 57.14
+5/14/2022 02:59:06: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 400.23
+5/14/2022 02:59:06: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.96
+5/14/2022 02:59:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.12
+5/14/2022 02:59:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 9.4
+5/14/2022 02:59:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 02:59:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 02:59:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 02:59:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:00:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:00:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:00:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:00:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:00:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 03:01:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 03:01:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 03:05:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:05:53: [G_Auto 1] :  Placed closure bet with greening on Novak Djokovic by Backing 54.72 at 1.18
+5/14/2022 03:05:54: [G_Auto 2] :  Store Text Value (Shared) for Novak Djokovic: aPoints = point: 0; games: 5; sets: 0 
+5/14/2022 03:05:54: [G_Auto 2] :  Store Text Value (Shared) for Novak Djokovic: aServing = serving:0
+5/14/2022 03:05:54: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 3; sets: 0 
+5/14/2022 03:05:54: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:2
+5/14/2022 03:05:54: [G_Auto 2] :  Store Value (Shared) for market: price = 1.18
+5/14/2022 03:05:54: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 227.49
+5/14/2022 03:05:54: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 227.46
+5/14/2022 03:05:54: [G_Auto 2] :  Store Value (Shared) for market: stake = 54.72
+5/14/2022 03:05:54: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 454.95
+5/14/2022 03:05:54: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.03
+5/14/2022 03:05:54: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.18
+5/14/2022 03:05:54: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 6.4
+5/14/2022 03:05:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:06:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:06:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:06:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 03:06:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 03:10:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:10:32: [G_Auto 1] :  € 36.36 Lay bet placed on Novak Djokovic at 1.22. Fully matched at 1.21.  Ref: 10072          ( Fill or kill bet with 15 seconds delay.   )
+5/14/2022 03:10:32: [G_Auto 2] :  Store Text Value (Shared) for Novak Djokovic: aPoints = point: 0; games: 5; sets: 0 
+5/14/2022 03:10:32: [G_Auto 2] :  Store Text Value (Shared) for Novak Djokovic: aServing = serving:1
+5/14/2022 03:10:32: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 4; sets: 0 
+5/14/2022 03:10:32: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:0
+5/14/2022 03:10:32: [G_Auto 2] :  Store Value (Shared) for market: price = 1.21
+5/14/2022 03:10:32: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 227.49
+5/14/2022 03:10:32: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 263.82
+5/14/2022 03:10:32: [G_Auto 2] :  Store Value (Shared) for market: stake = 36.36
+5/14/2022 03:10:32: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 491.31
+5/14/2022 03:10:32: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.33
+5/14/2022 03:10:32: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.2
+5/14/2022 03:10:32: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.9
+5/14/2022 03:10:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:10:37: [G_Auto 2] :  Store Text Value (Shared) for Novak Djokovic: aPoints = point: 0; games: 5; sets: 0 
+5/14/2022 03:10:37: [G_Auto 2] :  Store Text Value (Shared) for Novak Djokovic: aServing = serving:1
+5/14/2022 03:10:37: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 4; sets: 0 
+5/14/2022 03:10:37: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:0
+5/14/2022 03:10:37: [G_Auto 2] :  Store Value (Shared) for market: price = 1.21
+5/14/2022 03:10:37: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 227.49
+5/14/2022 03:10:37: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 263.82
+5/14/2022 03:10:37: [G_Auto 2] :  Store Value (Shared) for market: stake = 36.36
+5/14/2022 03:10:37: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 491.31
+5/14/2022 03:10:37: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.33
+5/14/2022 03:10:37: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.2
+5/14/2022 03:10:37: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.7
+5/14/2022 03:10:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:11:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:11:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:11:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:11:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:12:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:12:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:12:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:12:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:13:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:13:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 03:13:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 03:13:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 03:17:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:17:33: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 1.16
+5/14/2022 03:17:33: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 7.4
+5/14/2022 03:17:38: [G_Auto 1] :  Placed closure bet with greening on Novak Djokovic by Backing 38.26 at 1.15
+5/14/2022 03:17:39: [G_Auto 2] :  Store Text Value (Shared) for Novak Djokovic: aPoints = point: 0; games: 0; sets: 1 
+5/14/2022 03:17:39: [G_Auto 2] :  Store Text Value (Shared) for Novak Djokovic: aServing = serving:0
+5/14/2022 03:17:39: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 0; sets: 0 
+5/14/2022 03:17:39: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:2
+5/14/2022 03:17:39: [G_Auto 2] :  Store Value (Shared) for market: price = 1.15
+5/14/2022 03:17:39: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 265.75
+5/14/2022 03:17:39: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 263.82
+5/14/2022 03:17:39: [G_Auto 2] :  Store Value (Shared) for market: stake = 38.26
+5/14/2022 03:17:39: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 529.57
+5/14/2022 03:17:39: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.93
+5/14/2022 03:17:39: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.16
+5/14/2022 03:17:39: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 7.4
+5/14/2022 03:17:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:17:44: [G_Auto 2] :  Store Text Value (Shared) for Novak Djokovic: aPoints = point: 0; games: 0; sets: 1 
+5/14/2022 03:17:44: [G_Auto 2] :  Store Text Value (Shared) for Novak Djokovic: aServing = serving:0
+5/14/2022 03:17:44: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 0; sets: 0 
+5/14/2022 03:17:44: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:2
+5/14/2022 03:17:44: [G_Auto 2] :  Store Value (Shared) for market: price = 1.15
+5/14/2022 03:17:44: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 265.75
+5/14/2022 03:17:44: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 263.82
+5/14/2022 03:17:44: [G_Auto 2] :  Store Value (Shared) for market: stake = 38.26
+5/14/2022 03:17:44: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 529.57
+5/14/2022 03:17:44: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.93
+5/14/2022 03:17:44: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.16
+5/14/2022 03:17:44: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 7.4
+5/14/2022 03:17:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:18:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:18:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:18:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:18:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:19:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:19:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:19:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:19:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:20:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:20:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 03:20:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 03:21:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:21:58: [G_Auto 1] :  € 36.36 Lay bet placed on Novak Djokovic at 1.22. Fully matched at 1.21.  Ref: 10074          ( Fill or kill bet with 15 seconds delay.   )
+5/14/2022 03:21:59: [G_Auto 2] :  Store Text Value (Shared) for Novak Djokovic: aPoints = point: 0; games: 0; sets: 1 
+5/14/2022 03:21:59: [G_Auto 2] :  Store Text Value (Shared) for Novak Djokovic: aServing = serving:1
+5/14/2022 03:21:59: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 1; sets: 0 
+5/14/2022 03:21:59: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:0
+5/14/2022 03:21:59: [G_Auto 2] :  Store Value (Shared) for market: price = 1.21
+5/14/2022 03:21:59: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 265.75
+5/14/2022 03:21:59: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 300.18
+5/14/2022 03:21:59: [G_Auto 2] :  Store Value (Shared) for market: stake = 36.36
+5/14/2022 03:21:59: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 565.93
+5/14/2022 03:21:59: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.23
+5/14/2022 03:21:59: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.2
+5/14/2022 03:21:59: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.7
+5/14/2022 03:22:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:22:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:22:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:22:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:22:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 03:23:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 03:23:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 03:26:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:26:18: [G_Auto 1] :  Placed closure bet with greening on Novak Djokovic by Backing 37.28 at 1.18
+5/14/2022 03:26:18: [G_Auto 2] :  Store Text Value (Shared) for Novak Djokovic: aPoints = point: 0; games: 1; sets: 1 
+5/14/2022 03:26:18: [G_Auto 2] :  Store Text Value (Shared) for Novak Djokovic: aServing = serving:0
+5/14/2022 03:26:18: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 1; sets: 0 
+5/14/2022 03:26:18: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:2
+5/14/2022 03:26:18: [G_Auto 2] :  Store Value (Shared) for market: price = 1.18
+5/14/2022 03:26:18: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 303.03
+5/14/2022 03:26:18: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 300.18
+5/14/2022 03:26:18: [G_Auto 2] :  Store Value (Shared) for market: stake = 37.28
+5/14/2022 03:26:18: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 603.21
+5/14/2022 03:26:18: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.85
+5/14/2022 03:26:18: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.19
+5/14/2022 03:26:18: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 6.2
+5/14/2022 03:26:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:26:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:26:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:26:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 03:27:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 03:27:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 03:30:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:30:47: [G_Auto 1] :  € 33.33 Lay bet placed on Novak Djokovic at 1.24. Fully matched at 1.23.  Ref: 10076          ( Fill or kill bet with 15 seconds delay.   )
+5/14/2022 03:30:47: [G_Auto 2] :  Store Text Value (Shared) for Novak Djokovic: aPoints = point: 0; games: 1; sets: 1 
+5/14/2022 03:30:47: [G_Auto 2] :  Store Text Value (Shared) for Novak Djokovic: aServing = serving:1
+5/14/2022 03:30:47: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 2; sets: 0 
+5/14/2022 03:30:47: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:0
+5/14/2022 03:30:47: [G_Auto 2] :  Store Value (Shared) for market: price = 1.23
+5/14/2022 03:30:47: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 303.03
+5/14/2022 03:30:47: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 333.51
+5/14/2022 03:30:47: [G_Auto 2] :  Store Value (Shared) for market: stake = 33.33
+5/14/2022 03:30:47: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 636.54
+5/14/2022 03:30:47: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.12
+5/14/2022 03:30:47: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.22
+5/14/2022 03:30:47: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.8
+5/14/2022 03:30:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:30:52: [G_Auto 2] :  Store Text Value (Shared) for Novak Djokovic: aPoints = point: 0; games: 1; sets: 1 
+5/14/2022 03:30:52: [G_Auto 2] :  Store Text Value (Shared) for Novak Djokovic: aServing = serving:1
+5/14/2022 03:30:52: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 2; sets: 0 
+5/14/2022 03:30:52: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:0
+5/14/2022 03:30:52: [G_Auto 2] :  Store Value (Shared) for market: price = 1.23
+5/14/2022 03:30:52: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 303.03
+5/14/2022 03:30:52: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 333.51
+5/14/2022 03:30:52: [G_Auto 2] :  Store Value (Shared) for market: stake = 33.33
+5/14/2022 03:30:52: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 636.54
+5/14/2022 03:30:52: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.12
+5/14/2022 03:30:52: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.22
+5/14/2022 03:30:52: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.5
+5/14/2022 03:31:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:31:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:31:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:31:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:32:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:32:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:32:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:32:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:33:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:33:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 03:33:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 03:33:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 03:36:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:37:03: [G_Auto 1] :  Placed closure bet with greening on Novak Djokovic by Backing 34.45 at 1.19
+5/14/2022 03:37:03: [G_Auto 2] :  Store Text Value (Shared) for Novak Djokovic: aPoints = point: 0; games: 2; sets: 1 
+5/14/2022 03:37:03: [G_Auto 2] :  Store Text Value (Shared) for Novak Djokovic: aServing = serving:0
+5/14/2022 03:37:03: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 2; sets: 0 
+5/14/2022 03:37:03: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:2
+5/14/2022 03:37:03: [G_Auto 2] :  Store Value (Shared) for market: price = 1.19
+5/14/2022 03:37:03: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 337.48
+5/14/2022 03:37:03: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 333.51
+5/14/2022 03:37:03: [G_Auto 2] :  Store Value (Shared) for market: stake = 34.45
+5/14/2022 03:37:03: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 670.99
+5/14/2022 03:37:03: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.97
+5/14/2022 03:37:03: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.19
+5/14/2022 03:37:03: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 6.2
+5/14/2022 03:37:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:37:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:37:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 03:37:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 03:38:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 03:40:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:40:42: [G_Auto 1] :  € 33.33 Lay bet placed on Novak Djokovic at 1.24. Fully matched at 1.23.  Ref: 10078          ( Fill or kill bet with 15 seconds delay.   )
+5/14/2022 03:40:42: [G_Auto 2] :  Store Text Value (Shared) for Novak Djokovic: aPoints = point: 0; games: 2; sets: 1 
+5/14/2022 03:40:42: [G_Auto 2] :  Store Text Value (Shared) for Novak Djokovic: aServing = serving:1
+5/14/2022 03:40:42: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 3; sets: 0 
+5/14/2022 03:40:42: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:0
+5/14/2022 03:40:42: [G_Auto 2] :  Store Value (Shared) for market: price = 1.23
+5/14/2022 03:40:42: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 337.48
+5/14/2022 03:40:42: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 366.84
+5/14/2022 03:40:42: [G_Auto 2] :  Store Value (Shared) for market: stake = 33.33
+5/14/2022 03:40:42: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 704.32
+5/14/2022 03:40:42: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.24
+5/14/2022 03:40:42: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.22
+5/14/2022 03:40:42: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.4
+5/14/2022 03:40:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:41:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:41:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:41:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:41:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:42:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:42:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:42:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:42:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:43:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:43:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 03:43:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 03:43:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 03:45:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:45:29: [G_Auto 1] :  Placed closure bet with greening on Novak Djokovic by Backing 35.04 at 1.17
+5/14/2022 03:45:29: [G_Auto 2] :  Store Text Value (Shared) for Novak Djokovic: aPoints = point: 0; games: 3; sets: 1 
+5/14/2022 03:45:29: [G_Auto 2] :  Store Text Value (Shared) for Novak Djokovic: aServing = serving:0
+5/14/2022 03:45:29: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 3; sets: 0 
+5/14/2022 03:45:29: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:2
+5/14/2022 03:45:29: [G_Auto 2] :  Store Value (Shared) for market: price = 1.17
+5/14/2022 03:45:29: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 372.52
+5/14/2022 03:45:29: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 366.84
+5/14/2022 03:45:29: [G_Auto 2] :  Store Value (Shared) for market: stake = 35.04
+5/14/2022 03:45:29: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 739.36
+5/14/2022 03:45:29: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.68
+5/14/2022 03:45:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.18
+5/14/2022 03:45:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 6.6
+5/14/2022 03:45:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:45:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:46:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:46:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:46:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:46:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 03:46:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 03:47:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 03:55:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:55:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:56:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:56:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:56:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:56:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:57:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:57:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:57:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:57:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 03:57:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 03:58:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 04:00:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 04:00:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 04:00:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 04:00:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 04:01:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 04:01:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 04:01:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/14/2022 04:03:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/14/2022 04:03:59:  Guardian has detected that the market is suspended
