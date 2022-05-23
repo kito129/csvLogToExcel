@@ -1,0 +1,623 @@
+4/28/2022 09:51:20: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: info = marketName: Molcan v Ruud - Match Odds; runnerA: Alex Molcan; runnerB: Casper Ruud 
+4/28/2022 09:51:20: [G_Auto 2] :  Store Value (Shared) for market: aId = 8960879
+4/28/2022 09:51:20: [G_Auto 2] :  Store Value (Shared) for market: bId = 9629711
+4/28/2022 12:07:13:  Guardian has detected that the market is in-play
+4/28/2022 12:07:13:  Guardian has detected that the market is suspended
+4/28/2022 12:07:17: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 5.3; bBsp: 1.22; volume: 263442.32 
+4/28/2022 12:07:17: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 5.3; bBsp: 1.22; volume: 263442.32 
+4/28/2022 12:07:17:  Guardian has detected that the market is now unsuspended
+4/28/2022 12:07:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 12:07:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 12:07:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 12:10:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 12:10:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 12:10:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 12:11:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 12:11:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 12:11:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 12:11:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 12:16:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 12:16:27: [G_Auto 1] :  € 15.69 Lay bet placed on Casper Ruud at 1.51. Fully matched at 1.5.  Ref: 10587          ( Fill or kill bet with 15 seconds delay.   )
+4/28/2022 12:16:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 12:16:29: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: aPoints = point: 0; games: 2; sets: 0 
+4/28/2022 12:16:29: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: aServing = serving:0
+4/28/2022 12:16:29: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 0; sets: 0 
+4/28/2022 12:16:29: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:2
+4/28/2022 12:16:29: [G_Auto 2] :  Store Value (Shared) for market: price = 1.5
+4/28/2022 12:16:29: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+4/28/2022 12:16:29: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 15.69
+4/28/2022 12:16:29: [G_Auto 2] :  Store Value (Shared) for market: stake = 15.69
+4/28/2022 12:16:29: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 15.69
+4/28/2022 12:16:29: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.11
+4/28/2022 12:16:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3
+4/28/2022 12:16:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.5
+4/28/2022 12:16:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 12:17:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 12:17:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 12:17:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 12:17:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 12:18:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 12:19:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 12:20:13: [G_Auto 1] :  Placed closure bet with greening on Casper Ruud by Backing 12.59 at 1.87
+4/28/2022 12:20:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 12:20:15: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: aPoints = point: 0; games: 3; sets: 0 
+4/28/2022 12:20:15: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: aServing = serving:1
+4/28/2022 12:20:15: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 0; sets: 0 
+4/28/2022 12:20:15: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:0
+4/28/2022 12:20:15: [G_Auto 2] :  Store Value (Shared) for market: price = 1.87
+4/28/2022 12:20:15: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 12.59
+4/28/2022 12:20:15: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 15.69
+4/28/2022 12:20:15: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.59
+4/28/2022 12:20:15: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 28.28
+4/28/2022 12:20:15: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.04
+4/28/2022 12:20:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.16
+4/28/2022 12:20:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.88
+4/28/2022 12:20:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 12:20:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 12:21:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 12:21:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 12:21:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 12:22:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 12:22:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 12:22:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 12:22:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 12:23:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 12:23:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 12:24:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 12:24:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 12:24:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 12:26:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 12:26:17: [G_Auto 1] :  € 8.16 Lay bet placed on Alex Molcan at 1.98. Fully matched at 1.97.  Ref: 10591          ( Fill or kill bet with 15 seconds delay.   )
+4/28/2022 12:26:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 12:26:19: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: aPoints = point: 0; games: 4; sets: 0 
+4/28/2022 12:26:19: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: aServing = serving:1
+4/28/2022 12:26:19: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 1; sets: 0 
+4/28/2022 12:26:19: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:0
+4/28/2022 12:26:19: [G_Auto 2] :  Store Value (Shared) for market: price = 1.97
+4/28/2022 12:26:19: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 12.59
+4/28/2022 12:26:19: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 23.85
+4/28/2022 12:26:19: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.16
+4/28/2022 12:26:19: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 36.44
+4/28/2022 12:26:19: [G_Auto 2] :  Store Value (Shared) for market: pl = 3
+4/28/2022 12:26:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.97
+4/28/2022 12:26:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.02
+4/28/2022 12:26:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 12:26:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 12:27:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 12:27:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 12:27:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 12:27:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 12:28:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 12:30:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 12:30:42: [G_Auto 1] :  Placed closure bet with greening on Alex Molcan by Backing 8.29 at 1.94
+4/28/2022 12:30:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 12:30:44: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: aPoints = point: 0; games: 5; sets: 0 
+4/28/2022 12:30:44: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: aServing = serving:0
+4/28/2022 12:30:44: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 1; sets: 0 
+4/28/2022 12:30:44: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:2
+4/28/2022 12:30:44: [G_Auto 2] :  Store Value (Shared) for market: price = 1.94
+4/28/2022 12:30:44: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 20.88
+4/28/2022 12:30:44: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 23.85
+4/28/2022 12:30:44: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.29
+4/28/2022 12:30:44: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 44.73
+4/28/2022 12:30:44: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.92
+4/28/2022 12:30:44: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.94
+4/28/2022 12:30:44: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.06
+4/28/2022 12:31:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 12:31:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 12:31:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 12:31:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 12:35:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 12:35:51: [G_Auto 1] :  € 8.33 Lay bet placed on Alex Molcan at 1.96. Fully matched at 1.95.  Ref: 10595          ( Fill or kill bet with 15 seconds delay.   )
+4/28/2022 12:35:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 12:35:52: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: aPoints = point: 0; games: 5; sets: 0 
+4/28/2022 12:35:52: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: aServing = serving:1
+4/28/2022 12:35:52: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 2; sets: 0 
+4/28/2022 12:35:52: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:0
+4/28/2022 12:35:52: [G_Auto 2] :  Store Value (Shared) for market: price = 1.95
+4/28/2022 12:35:52: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 20.88
+4/28/2022 12:35:52: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 32.18
+4/28/2022 12:35:52: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.33
+4/28/2022 12:35:52: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 53.06
+4/28/2022 12:35:52: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.87
+4/28/2022 12:35:52: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.94
+4/28/2022 12:35:52: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.06
+4/28/2022 12:36:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 12:36:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 12:36:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 12:37:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 12:37:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 12:37:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 12:37:55: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 12:41:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 12:41:43: [G_Auto 1] :  € 10.13 Lay bet placed on Casper Ruud at 1.79. Fully matched at 1.78.  Ref: 10597          ( Fill or kill bet with 15 seconds delay.   )
+4/28/2022 12:41:43: [G_Auto 1] :  Placed closure bet with greening on Alex Molcan by Backing 7.12 at 2.28
+4/28/2022 12:41:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 12:41:45: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: aPoints = point: 0; games: 5; sets: 0 
+4/28/2022 12:41:45: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: aServing = serving:0
+4/28/2022 12:41:45: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 3; sets: 0 
+4/28/2022 12:41:45: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:2
+4/28/2022 12:41:45: [G_Auto 2] :  Store Value (Shared) for market: price = 1.78
+4/28/2022 12:41:45: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 28
+4/28/2022 12:41:45: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 42.31
+4/28/2022 12:41:45: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.13
+4/28/2022 12:41:45: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 70.31
+4/28/2022 12:41:45: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.04
+4/28/2022 12:41:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.28
+4/28/2022 12:41:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.78
+4/28/2022 12:42:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 12:42:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 12:42:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 12:45:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 12:45:39: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 1.93
+4/28/2022 12:45:39: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 2.08
+4/28/2022 12:45:46: [G_Auto 1] :  Placed closure bet with greening on Casper Ruud by Backing 8.58 at 2.1
+4/28/2022 12:45:46: [G_Auto 1] :  € 8.79 Lay bet placed on Alex Molcan at 1.91. Fully matched at 1.9.  Ref: 10600          ( Fill or kill bet with 15 seconds delay.   )
+4/28/2022 12:45:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 12:45:47: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: aPoints = point: 0; games: 0; sets: 1 
+4/28/2022 12:45:47: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: aServing = serving:1
+4/28/2022 12:45:47: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 0; sets: 0 
+4/28/2022 12:45:47: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:0
+4/28/2022 12:45:47: [G_Auto 2] :  Store Value (Shared) for market: price = 2.1
+4/28/2022 12:45:47: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 36.58
+4/28/2022 12:45:47: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 51.1
+4/28/2022 12:45:47: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.58
+4/28/2022 12:45:47: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 87.68
+4/28/2022 12:45:47: [G_Auto 2] :  Store Value (Shared) for market: pl = 5.57
+4/28/2022 12:45:47: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.9
+4/28/2022 12:45:47: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.12
+4/28/2022 12:46:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 12:46:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 12:46:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 12:46:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 12:47:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 12:47:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 12:47:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 12:48:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 12:48:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 12:51:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 12:51:51: [G_Auto 1] :  Placed closure bet with greening on Alex Molcan by Backing 5.97 at 2.8
+4/28/2022 12:51:51: [G_Auto 1] :  € 14.29 Lay bet placed on Casper Ruud at 1.56. Fully matched at 1.55.  Ref: 10602          ( Fill or kill bet with 15 seconds delay.   )
+4/28/2022 12:51:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 12:51:53: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: aPoints = point: 0; games: 0; sets: 1 
+4/28/2022 12:51:53: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: aServing = serving:0
+4/28/2022 12:51:53: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 1; sets: 0 
+4/28/2022 12:51:53: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:2
+4/28/2022 12:51:53: [G_Auto 2] :  Store Value (Shared) for market: price = 2.8
+4/28/2022 12:51:53: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 42.55
+4/28/2022 12:51:53: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 65.39
+4/28/2022 12:51:53: [G_Auto 2] :  Store Value (Shared) for market: stake = 5.97
+4/28/2022 12:51:53: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 107.94
+4/28/2022 12:51:53: [G_Auto 2] :  Store Value (Shared) for market: pl = 8.39
+4/28/2022 12:51:53: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.8
+4/28/2022 12:51:53: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.56
+4/28/2022 12:52:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 12:52:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 12:52:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 12:52:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 12:53:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 12:54:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 12:55:09: [G_Auto 1] :  Placed closure bet with greening on Casper Ruud by Backing 15.07 at 1.47
+4/28/2022 12:55:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 12:55:10: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: aPoints = point: 0; games: 0; sets: 1 
+4/28/2022 12:55:10: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: aServing = serving:1
+4/28/2022 12:55:10: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 2; sets: 0 
+4/28/2022 12:55:10: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:0
+4/28/2022 12:55:10: [G_Auto 2] :  Store Value (Shared) for market: price = 1.47
+4/28/2022 12:55:10: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 57.62
+4/28/2022 12:55:10: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 65.39
+4/28/2022 12:55:10: [G_Auto 2] :  Store Value (Shared) for market: stake = 15.07
+4/28/2022 12:55:10: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 123.01
+4/28/2022 12:55:10: [G_Auto 2] :  Store Value (Shared) for market: pl = 7.62
+4/28/2022 12:55:10: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.1
+4/28/2022 12:55:10: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.47
+4/28/2022 12:55:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 12:55:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 12:55:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 12:57:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 12:57:42: [G_Auto 1] :  € 14.29 Lay bet placed on Casper Ruud at 1.56. Fully matched at 1.55.  Ref: 10604          ( Fill or kill bet with 15 seconds delay.   )
+4/28/2022 12:57:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 12:57:43: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: aPoints = point: 0; games: 1; sets: 1 
+4/28/2022 12:57:43: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: aServing = serving:0
+4/28/2022 12:57:43: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 2; sets: 0 
+4/28/2022 12:57:43: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:2
+4/28/2022 12:57:43: [G_Auto 2] :  Store Value (Shared) for market: price = 1.55
+4/28/2022 12:57:43: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 57.62
+4/28/2022 12:57:43: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 79.68
+4/28/2022 12:57:43: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.29
+4/28/2022 12:57:43: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 137.3
+4/28/2022 12:57:43: [G_Auto 2] :  Store Value (Shared) for market: pl = 7.54
+4/28/2022 12:57:43: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.84
+4/28/2022 12:57:43: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.54
+4/28/2022 12:58:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 12:58:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 12:58:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 12:58:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 12:59:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 12:59:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 12:59:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 12:59:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 13:01:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:01:48: [G_Auto 1] :  Placed closure bet with greening on Casper Ruud by Backing 15.07 at 1.47
+4/28/2022 13:01:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:01:49: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: aPoints = point: 0; games: 1; sets: 1 
+4/28/2022 13:01:49: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: aServing = serving:1
+4/28/2022 13:01:49: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 3; sets: 0 
+4/28/2022 13:01:49: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:0
+4/28/2022 13:01:49: [G_Auto 2] :  Store Value (Shared) for market: price = 1.47
+4/28/2022 13:01:49: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 72.69
+4/28/2022 13:01:49: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 79.68
+4/28/2022 13:01:49: [G_Auto 2] :  Store Value (Shared) for market: stake = 15.07
+4/28/2022 13:01:49: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 152.37
+4/28/2022 13:01:49: [G_Auto 2] :  Store Value (Shared) for market: pl = 6.86
+4/28/2022 13:01:49: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.1
+4/28/2022 13:01:49: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.48
+4/28/2022 13:02:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:02:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 13:02:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 13:06:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:06:28: [G_Auto 1] :  € 14.81 Lay bet placed on Casper Ruud at 1.54. Fully matched at 1.53.  Ref: 10607          ( Fill or kill bet with 15 seconds delay.   )
+4/28/2022 13:06:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:06:29: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: aPoints = point: 0; games: 2; sets: 1 
+4/28/2022 13:06:29: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: aServing = serving:0
+4/28/2022 13:06:29: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 3; sets: 0 
+4/28/2022 13:06:29: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:2
+4/28/2022 13:06:29: [G_Auto 2] :  Store Value (Shared) for market: price = 1.53
+4/28/2022 13:06:29: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 72.69
+4/28/2022 13:06:29: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 94.49
+4/28/2022 13:06:29: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.81
+4/28/2022 13:06:29: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 167.18
+4/28/2022 13:06:29: [G_Auto 2] :  Store Value (Shared) for market: pl = 6.77
+4/28/2022 13:06:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.92
+4/28/2022 13:06:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.53
+4/28/2022 13:06:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:07:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:07:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:07:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:07:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:08:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:08:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:08:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 13:08:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 13:09:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 13:14:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:14:22: [G_Auto 1] :  Placed closure bet with greening on Casper Ruud by Backing 15.73 at 1.44
+4/28/2022 13:14:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:14:22: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: aPoints = point: 0; games: 2; sets: 1 
+4/28/2022 13:14:22: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: aServing = serving:1
+4/28/2022 13:14:22: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 4; sets: 0 
+4/28/2022 13:14:22: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:0
+4/28/2022 13:14:22: [G_Auto 2] :  Store Value (Shared) for market: price = 1.44
+4/28/2022 13:14:22: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 88.42
+4/28/2022 13:14:22: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 94.49
+4/28/2022 13:14:22: [G_Auto 2] :  Store Value (Shared) for market: stake = 15.73
+4/28/2022 13:14:22: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 182.91
+4/28/2022 13:14:22: [G_Auto 2] :  Store Value (Shared) for market: pl = 5.96
+4/28/2022 13:14:22: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.25
+4/28/2022 13:14:22: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.44
+4/28/2022 13:14:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:14:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 13:15:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 13:18:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:18:59: [G_Auto 1] :  € 15.69 Lay bet placed on Casper Ruud at 1.51. Fully matched at 1.5.  Ref: 10613          ( Fill or kill bet with 15 seconds delay.   )
+4/28/2022 13:19:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:19:00: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: aPoints = point: 0; games: 3; sets: 1 
+4/28/2022 13:19:00: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: aServing = serving:0
+4/28/2022 13:19:00: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 4; sets: 0 
+4/28/2022 13:19:00: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:2
+4/28/2022 13:19:00: [G_Auto 2] :  Store Value (Shared) for market: price = 1.5
+4/28/2022 13:19:00: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 88.42
+4/28/2022 13:19:00: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 110.18
+4/28/2022 13:19:00: [G_Auto 2] :  Store Value (Shared) for market: stake = 15.69
+4/28/2022 13:19:00: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 198.6
+4/28/2022 13:19:00: [G_Auto 2] :  Store Value (Shared) for market: pl = 5.85
+4/28/2022 13:19:00: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3
+4/28/2022 13:19:00: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.5
+4/28/2022 13:19:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:19:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:19:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:20:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:20:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:20:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:20:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:21:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 13:21:16: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 13:21:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 13:21:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 13:27:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:28:02: [G_Auto 1] :  Placed closure bet with greening on Casper Ruud by Backing 16.46 at 1.43
+4/28/2022 13:28:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:28:03: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: aPoints = point: 0; games: 3; sets: 1 
+4/28/2022 13:28:03: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: aServing = serving:1
+4/28/2022 13:28:03: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 5; sets: 0 
+4/28/2022 13:28:03: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:0
+4/28/2022 13:28:03: [G_Auto 2] :  Store Value (Shared) for market: price = 1.43
+4/28/2022 13:28:03: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 104.88
+4/28/2022 13:28:03: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 110.18
+4/28/2022 13:28:03: [G_Auto 2] :  Store Value (Shared) for market: stake = 16.46
+4/28/2022 13:28:03: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 215.06
+4/28/2022 13:28:03: [G_Auto 2] :  Store Value (Shared) for market: pl = 5.2
+4/28/2022 13:28:03: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.25
+4/28/2022 13:28:03: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.44
+4/28/2022 13:28:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:28:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:28:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 13:29:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 13:30:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:30:37: [G_Auto 1] :  € 15.38 Lay bet placed on Casper Ruud at 1.52. Fully matched at 1.51.  Ref: 10628          ( Fill or kill bet with 15 seconds delay.   )
+4/28/2022 13:30:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:30:38: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: aPoints = point: 0; games: 4; sets: 1 
+4/28/2022 13:30:38: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: aServing = serving:0
+4/28/2022 13:30:38: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 5; sets: 0 
+4/28/2022 13:30:38: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:2
+4/28/2022 13:30:38: [G_Auto 2] :  Store Value (Shared) for market: price = 1.51
+4/28/2022 13:30:38: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 104.88
+4/28/2022 13:30:38: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 125.56
+4/28/2022 13:30:38: [G_Auto 2] :  Store Value (Shared) for market: stake = 15.38
+4/28/2022 13:30:38: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 230.44
+4/28/2022 13:30:38: [G_Auto 2] :  Store Value (Shared) for market: pl = 5.11
+4/28/2022 13:30:38: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3
+4/28/2022 13:30:38: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.5
+4/28/2022 13:30:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:31:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:31:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:31:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:31:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:32:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:32:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:32:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 13:32:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 13:33:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:34:04: [G_Auto 2] :  Store Value (Shared) for market: aSecondSetPrice = 3.5
+4/28/2022 13:34:04: [G_Auto 2] :  Store Value (Shared) for market: bSecondSetPrice = 1.4
+4/28/2022 13:34:11: [G_Auto 1] :  Placed closure bet with greening on Casper Ruud by Backing 16.59 at 1.4
+4/28/2022 13:34:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:34:12: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: aPoints = point: 0; games: 0; sets: 1 
+4/28/2022 13:34:12: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: aServing = serving:1
+4/28/2022 13:34:12: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 0; sets: 1 
+4/28/2022 13:34:12: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:0
+4/28/2022 13:34:12: [G_Auto 2] :  Store Value (Shared) for market: price = 1.4
+4/28/2022 13:34:12: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 121.47
+4/28/2022 13:34:12: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 125.56
+4/28/2022 13:34:12: [G_Auto 2] :  Store Value (Shared) for market: stake = 16.59
+4/28/2022 13:34:12: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 247.03
+4/28/2022 13:34:12: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.02
+4/28/2022 13:34:12: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.45
+4/28/2022 13:34:12: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.41
+4/28/2022 13:34:19: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: aPoints = point: 0; games: 0; sets: 1 
+4/28/2022 13:34:19: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: aServing = serving:1
+4/28/2022 13:34:19: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 0; sets: 1 
+4/28/2022 13:34:19: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:0
+4/28/2022 13:34:19: [G_Auto 2] :  Store Value (Shared) for market: price = 1.4
+4/28/2022 13:34:19: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 121.47
+4/28/2022 13:34:19: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 125.56
+4/28/2022 13:34:19: [G_Auto 2] :  Store Value (Shared) for market: stake = 16.59
+4/28/2022 13:34:19: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 247.03
+4/28/2022 13:34:19: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.02
+4/28/2022 13:34:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.4
+4/28/2022 13:34:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.41
+4/28/2022 13:34:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:34:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:34:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:35:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:35:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:35:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:36:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:36:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:36:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:36:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:37:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 13:37:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 13:38:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:38:54: [G_Auto 1] :  € 13.33 Lay bet placed on Casper Ruud at 1.6. Fully matched at 1.59.  Ref: 10635          ( Fill or kill bet with 15 seconds delay.   )
+4/28/2022 13:38:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:38:55: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: aPoints = point: 0; games: 1; sets: 1 
+4/28/2022 13:38:55: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: aServing = serving:0
+4/28/2022 13:38:55: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 0; sets: 1 
+4/28/2022 13:38:55: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:2
+4/28/2022 13:38:55: [G_Auto 2] :  Store Value (Shared) for market: price = 1.59
+4/28/2022 13:38:55: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 121.47
+4/28/2022 13:38:55: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 138.89
+4/28/2022 13:38:55: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.33
+4/28/2022 13:38:55: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 260.36
+4/28/2022 13:38:55: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.94
+4/28/2022 13:38:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.68
+4/28/2022 13:38:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.58
+4/28/2022 13:39:02: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: aPoints = point: 0; games: 1; sets: 1 
+4/28/2022 13:39:02: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: aServing = serving:0
+4/28/2022 13:39:02: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 0; sets: 1 
+4/28/2022 13:39:02: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:2
+4/28/2022 13:39:02: [G_Auto 2] :  Store Value (Shared) for market: price = 1.59
+4/28/2022 13:39:02: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 121.47
+4/28/2022 13:39:02: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 138.89
+4/28/2022 13:39:02: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.33
+4/28/2022 13:39:02: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 260.36
+4/28/2022 13:39:02: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.02
+4/28/2022 13:39:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.7
+4/28/2022 13:39:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.59
+4/28/2022 13:39:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:39:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:39:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:39:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:40:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 13:40:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 13:40:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 13:44:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:45:02: [G_Auto 1] :  Placed closure bet with greening on Casper Ruud by Backing 14.52 at 1.46
+4/28/2022 13:45:03: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: aPoints = point: 0; games: 1; sets: 1 
+4/28/2022 13:45:03: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: aServing = serving:1
+4/28/2022 13:45:03: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 1; sets: 1 
+4/28/2022 13:45:03: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:0
+4/28/2022 13:45:03: [G_Auto 2] :  Store Value (Shared) for market: price = 1.46
+4/28/2022 13:45:03: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 135.99
+4/28/2022 13:45:03: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 138.89
+4/28/2022 13:45:03: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.52
+4/28/2022 13:45:03: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 274.88
+4/28/2022 13:45:03: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.85
+4/28/2022 13:45:03: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.2
+4/28/2022 13:45:03: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.47
+4/28/2022 13:45:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:45:10: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: aPoints = point: 0; games: 1; sets: 1 
+4/28/2022 13:45:10: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: aServing = serving:1
+4/28/2022 13:45:10: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 1; sets: 1 
+4/28/2022 13:45:10: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:0
+4/28/2022 13:45:10: [G_Auto 2] :  Store Value (Shared) for market: price = 1.46
+4/28/2022 13:45:10: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 135.99
+4/28/2022 13:45:10: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 138.89
+4/28/2022 13:45:10: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.52
+4/28/2022 13:45:10: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 274.88
+4/28/2022 13:45:10: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.85
+4/28/2022 13:45:10: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.15
+4/28/2022 13:45:10: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.46
+4/28/2022 13:45:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:45:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 13:45:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 13:47:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:47:58: [G_Auto 1] :  € 12.90 Lay bet placed on Casper Ruud at 1.62. Fully matched at 1.61.  Ref: 10647          ( Fill or kill bet with 15 seconds delay.   )
+4/28/2022 13:47:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:47:58: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: aPoints = point: 0; games: 2; sets: 1 
+4/28/2022 13:47:58: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: aServing = serving:0
+4/28/2022 13:47:58: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 1; sets: 1 
+4/28/2022 13:47:58: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:2
+4/28/2022 13:47:58: [G_Auto 2] :  Store Value (Shared) for market: price = 1.61
+4/28/2022 13:47:58: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 135.99
+4/28/2022 13:47:58: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 151.79
+4/28/2022 13:47:58: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.9
+4/28/2022 13:47:58: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 287.78
+4/28/2022 13:47:58: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.69
+4/28/2022 13:47:58: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.66
+4/28/2022 13:47:58: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.6
+4/28/2022 13:48:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:48:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:48:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:49:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:49:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:49:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:49:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:49:55: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 13:50:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 13:53:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:53:24: [G_Auto 1] :  Placed closure bet with greening on Casper Ruud by Backing 14.03 at 1.48
+4/28/2022 13:53:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:53:24: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: aPoints = point: 0; games: 2; sets: 1 
+4/28/2022 13:53:24: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: aServing = serving:1
+4/28/2022 13:53:24: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 2; sets: 1 
+4/28/2022 13:53:24: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:0
+4/28/2022 13:53:24: [G_Auto 2] :  Store Value (Shared) for market: price = 1.48
+4/28/2022 13:53:24: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 150.02
+4/28/2022 13:53:24: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 151.79
+4/28/2022 13:53:24: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.03
+4/28/2022 13:53:24: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 301.81
+4/28/2022 13:53:24: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.74
+4/28/2022 13:53:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.05
+4/28/2022 13:53:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.49
+4/28/2022 13:53:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:53:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 13:54:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 13:55:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:55:28: [G_Auto 1] :  € 10.67 Lay bet placed on Casper Ruud at 1.75. Fully matched at 1.74.  Ref: 10655          ( Fill or kill bet with 15 seconds delay.   )
+4/28/2022 13:55:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:55:29: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: aPoints = point: 0; games: 3; sets: 1 
+4/28/2022 13:55:29: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: aServing = serving:0
+4/28/2022 13:55:29: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 2; sets: 1 
+4/28/2022 13:55:29: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:2
+4/28/2022 13:55:29: [G_Auto 2] :  Store Value (Shared) for market: price = 1.74
+4/28/2022 13:55:29: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 150.02
+4/28/2022 13:55:29: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 162.46
+4/28/2022 13:55:29: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.67
+4/28/2022 13:55:29: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 312.48
+4/28/2022 13:55:29: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.74
+4/28/2022 13:55:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.36
+4/28/2022 13:55:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.74
+4/28/2022 13:55:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:55:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:56:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:56:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:56:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:57:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:57:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 13:57:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 13:57:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 13:58:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 14:05:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 14:05:14: [G_Auto 1] :  Placed closure bet with greening on Casper Ruud by Backing 11.68 at 1.59
+4/28/2022 14:05:15: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: aPoints = point: 0; games: 3; sets: 1 
+4/28/2022 14:05:15: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: aServing = serving:1
+4/28/2022 14:05:15: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 3; sets: 1 
+4/28/2022 14:05:15: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:0
+4/28/2022 14:05:15: [G_Auto 2] :  Store Value (Shared) for market: price = 1.59
+4/28/2022 14:05:15: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 161.7
+4/28/2022 14:05:15: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 162.46
+4/28/2022 14:05:15: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.68
+4/28/2022 14:05:15: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 324.16
+4/28/2022 14:05:15: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.75
+4/28/2022 14:05:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.66
+4/28/2022 14:05:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.6
+4/28/2022 14:05:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 14:05:22: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: aPoints = point: 0; games: 3; sets: 1 
+4/28/2022 14:05:22: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: aServing = serving:1
+4/28/2022 14:05:22: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 3; sets: 1 
+4/28/2022 14:05:22: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:0
+4/28/2022 14:05:22: [G_Auto 2] :  Store Value (Shared) for market: price = 1.59
+4/28/2022 14:05:22: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 161.7
+4/28/2022 14:05:22: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 162.46
+4/28/2022 14:05:22: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.68
+4/28/2022 14:05:22: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 324.16
+4/28/2022 14:05:22: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.75
+4/28/2022 14:05:22: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.62
+4/28/2022 14:05:22: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.6
+4/28/2022 14:05:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 14:05:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 14:05:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 14:06:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 14:09:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 14:10:11: [G_Auto 1] :  € 9.52 Lay bet placed on Casper Ruud at 1.84. Fully matched at 1.84.  Ref: 10671          ( Fill or kill bet with 15 seconds delay.   )
+4/28/2022 14:10:11: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: aPoints = point: 0; games: 4; sets: 1 
+4/28/2022 14:10:11: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: aServing = serving:0
+4/28/2022 14:10:11: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 3; sets: 1 
+4/28/2022 14:10:11: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:2
+4/28/2022 14:10:11: [G_Auto 2] :  Store Value (Shared) for market: price = 1.84
+4/28/2022 14:10:11: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 161.7
+4/28/2022 14:10:11: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 171.98
+4/28/2022 14:10:11: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.52
+4/28/2022 14:10:11: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 333.68
+4/28/2022 14:10:11: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.66
+4/28/2022 14:10:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.2
+4/28/2022 14:10:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.82
+4/28/2022 14:10:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 14:10:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 14:10:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 14:11:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 14:11:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 14:11:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 14:11:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 14:12:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 14:15:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 14:15:25: [G_Auto 1] :  Placed closure bet with greening on Casper Ruud by Backing 11.08 at 1.58
+4/28/2022 14:15:26: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: aPoints = point: 0; games: 4; sets: 1 
+4/28/2022 14:15:26: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: aServing = serving:1
+4/28/2022 14:15:26: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bPoints = point: 0; games: 4; sets: 1 
+4/28/2022 14:15:26: [G_Auto 2] :  Store Text Value (Shared) for Casper Ruud: bServing = serving:0
+4/28/2022 14:15:26: [G_Auto 2] :  Store Value (Shared) for market: price = 1.58
+4/28/2022 14:15:26: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 172.78
+4/28/2022 14:15:26: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 171.98
+4/28/2022 14:15:26: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.08
+4/28/2022 14:15:26: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 344.76
+4/28/2022 14:15:26: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.79
+4/28/2022 14:15:26: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.68
+4/28/2022 14:15:26: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.59
+4/28/2022 14:15:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 14:15:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 14:15:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 14:16:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 14:18:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 14:18:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 14:18:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 14:19:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 14:19:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 14:19:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 14:19:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 14:20:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 14:20:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/28/2022 14:22:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/28/2022 14:22:28:  Guardian has detected that the market is suspended

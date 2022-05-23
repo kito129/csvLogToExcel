@@ -1,0 +1,510 @@
+5/4/2022 09:43:07: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: info = marketName: Alexandrova v A Anisimova - Match Odds; runnerA: Ekaterina Alexandrova; runnerB: Amanda Anisimova 
+5/4/2022 09:43:07: [G_Auto 1] :  Store Value (Shared) for market: aId = 8681458
+5/4/2022 09:43:07: [G_Auto 1] :  Store Value (Shared) for market: bId = 11636088
+5/4/2022 14:27:48:  Guardian has detected that the market is in-play
+5/4/2022 14:27:48:  Guardian has detected that the market is suspended
+5/4/2022 14:27:51: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 2.5; bBsp: 1.64; volume: 227250.28 
+5/4/2022 14:27:51: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 2.5; bBsp: 1.64; volume: 227250.28 
+5/4/2022 14:27:51:  Guardian has detected that the market is now unsuspended
+5/4/2022 14:27:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 14:28:13: [G_Auto 2] :  € 12.90 Lay bet placed on Amanda Anisimova at 1.62. Entirely unmatched when it initially reached the market.   Ref: 10752          ( Fill or kill bet with 15 seconds delay.   )
+5/4/2022 14:28:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 14:28:21: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 14:28:28: [G_Auto 2] :  € 12.9 unmatched bet (Ref:10752) was killed.
+5/4/2022 14:30:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 14:30:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 14:30:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 14:31:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 14:31:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 14:31:21: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 14:31:37: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 14:32:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 14:33:11: [G_Auto 2] :  € 11.27 Lay bet placed on Amanda Anisimova at 1.71. Fully matched at 1.7.  Ref: 10754          ( Fill or kill bet with 15 seconds delay.   )
+5/4/2022 14:33:13: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aPoints = point: 0; games: 1; sets: 0 
+5/4/2022 14:33:13: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aServing = serving:0
+5/4/2022 14:33:13: [G_Auto 1] :  Store Text Value (Shared) for Amanda Anisimova: bPoints = point: 0; games: 1; sets: 0 
+5/4/2022 14:33:13: [G_Auto 1] :  Store Text Value (Shared) for Amanda Anisimova: bServing = serving:2
+5/4/2022 14:33:13: [G_Auto 1] :  Store Value (Shared) for market: price = 1.7
+5/4/2022 14:33:13: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 0
+5/4/2022 14:33:13: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 11.27
+5/4/2022 14:33:13: [G_Auto 1] :  Store Value (Shared) for market: stake = 11.27
+5/4/2022 14:33:13: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 11.27
+5/4/2022 14:33:13: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.07
+5/4/2022 14:33:13: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.42
+5/4/2022 14:33:13: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.7
+5/4/2022 14:33:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 14:33:19: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aPoints = point: 0; games: 1; sets: 0 
+5/4/2022 14:33:19: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aServing = serving:0
+5/4/2022 14:33:19: [G_Auto 1] :  Store Text Value (Shared) for Amanda Anisimova: bPoints = point: 0; games: 1; sets: 0 
+5/4/2022 14:33:19: [G_Auto 1] :  Store Text Value (Shared) for Amanda Anisimova: bServing = serving:2
+5/4/2022 14:33:19: [G_Auto 1] :  Store Value (Shared) for market: price = 1.7
+5/4/2022 14:33:19: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 0
+5/4/2022 14:33:19: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 11.27
+5/4/2022 14:33:19: [G_Auto 1] :  Store Value (Shared) for market: stake = 11.27
+5/4/2022 14:33:19: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 11.27
+5/4/2022 14:33:19: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.07
+5/4/2022 14:33:19: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.42
+5/4/2022 14:33:19: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.7
+5/4/2022 14:33:27: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 14:33:42: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 14:33:58: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 14:34:14: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 14:36:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 14:36:58: [G_Auto 2] :  Placed closure bet with greening on Amanda Anisimova by Backing 12.05 at 1.59
+5/4/2022 14:37:00: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aPoints = point: 0; games: 1; sets: 0 
+5/4/2022 14:37:00: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aServing = serving:1
+5/4/2022 14:37:00: [G_Auto 1] :  Store Text Value (Shared) for Amanda Anisimova: bPoints = point: 0; games: 2; sets: 0 
+5/4/2022 14:37:00: [G_Auto 1] :  Store Text Value (Shared) for Amanda Anisimova: bServing = serving:0
+5/4/2022 14:37:00: [G_Auto 1] :  Store Value (Shared) for market: price = 1.6
+5/4/2022 14:37:00: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 12.05
+5/4/2022 14:37:00: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 11.27
+5/4/2022 14:37:00: [G_Auto 1] :  Store Value (Shared) for market: stake = 12.05
+5/4/2022 14:37:00: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 23.32
+5/4/2022 14:37:00: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.7
+5/4/2022 14:37:00: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.68
+5/4/2022 14:37:00: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.6
+5/4/2022 14:37:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 14:37:05: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aPoints = point: 0; games: 1; sets: 0 
+5/4/2022 14:37:05: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aServing = serving:1
+5/4/2022 14:37:05: [G_Auto 1] :  Store Text Value (Shared) for Amanda Anisimova: bPoints = point: 0; games: 2; sets: 0 
+5/4/2022 14:37:05: [G_Auto 1] :  Store Text Value (Shared) for Amanda Anisimova: bServing = serving:0
+5/4/2022 14:37:05: [G_Auto 1] :  Store Value (Shared) for market: price = 1.6
+5/4/2022 14:37:05: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 12.05
+5/4/2022 14:37:05: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 11.27
+5/4/2022 14:37:05: [G_Auto 1] :  Store Value (Shared) for market: stake = 12.05
+5/4/2022 14:37:05: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 23.32
+5/4/2022 14:37:05: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.7
+5/4/2022 14:37:05: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.66
+5/4/2022 14:37:05: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.61
+5/4/2022 14:37:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 14:37:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 14:37:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 14:38:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 14:38:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 14:38:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 14:38:52: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 14:39:09: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 14:39:25: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 14:41:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 14:41:58: [G_Auto 2] :  € 21.05 Lay bet placed on Amanda Anisimova at 1.38. Fully matched at 1.37.  Ref: 10761          ( Fill or kill bet with 15 seconds delay.   )
+5/4/2022 14:42:01: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aPoints = point: 0; games: 1; sets: 0 
+5/4/2022 14:42:01: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aServing = serving:0
+5/4/2022 14:42:01: [G_Auto 1] :  Store Text Value (Shared) for Amanda Anisimova: bPoints = point: 0; games: 3; sets: 0 
+5/4/2022 14:42:01: [G_Auto 1] :  Store Text Value (Shared) for Amanda Anisimova: bServing = serving:2
+5/4/2022 14:42:01: [G_Auto 1] :  Store Value (Shared) for market: price = 1.37
+5/4/2022 14:42:01: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 12.05
+5/4/2022 14:42:01: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 32.32
+5/4/2022 14:42:01: [G_Auto 1] :  Store Value (Shared) for market: stake = 21.05
+5/4/2022 14:42:01: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 44.37
+5/4/2022 14:42:01: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.85
+5/4/2022 14:42:01: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.7
+5/4/2022 14:42:01: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.37
+5/4/2022 14:42:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 14:42:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 14:42:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 14:42:42: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 14:42:59: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 14:45:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 14:45:13: [G_Auto 2] :  Placed closure bet with greening on Amanda Anisimova by Backing 17.95 at 1.6
+5/4/2022 14:45:16: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aPoints = point: 0; games: 2; sets: 0 
+5/4/2022 14:45:16: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aServing = serving:1
+5/4/2022 14:45:16: [G_Auto 1] :  Store Text Value (Shared) for Amanda Anisimova: bPoints = point: 0; games: 3; sets: 0 
+5/4/2022 14:45:16: [G_Auto 1] :  Store Text Value (Shared) for Amanda Anisimova: bServing = serving:0
+5/4/2022 14:45:16: [G_Auto 1] :  Store Value (Shared) for market: price = 1.6
+5/4/2022 14:45:16: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 30
+5/4/2022 14:45:16: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 32.32
+5/4/2022 14:45:16: [G_Auto 1] :  Store Value (Shared) for market: stake = 17.95
+5/4/2022 14:45:16: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 62.32
+5/4/2022 14:45:16: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.27
+5/4/2022 14:45:16: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.62
+5/4/2022 14:45:16: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.62
+5/4/2022 14:45:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 14:45:22: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aPoints = point: 0; games: 2; sets: 0 
+5/4/2022 14:45:22: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aServing = serving:1
+5/4/2022 14:45:22: [G_Auto 1] :  Store Text Value (Shared) for Amanda Anisimova: bPoints = point: 0; games: 3; sets: 0 
+5/4/2022 14:45:22: [G_Auto 1] :  Store Text Value (Shared) for Amanda Anisimova: bServing = serving:0
+5/4/2022 14:45:22: [G_Auto 1] :  Store Value (Shared) for market: price = 1.6
+5/4/2022 14:45:22: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 30
+5/4/2022 14:45:22: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 32.32
+5/4/2022 14:45:22: [G_Auto 1] :  Store Value (Shared) for market: stake = 17.95
+5/4/2022 14:45:22: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 62.32
+5/4/2022 14:45:22: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.27
+5/4/2022 14:45:22: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.62
+5/4/2022 14:45:22: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.62
+5/4/2022 14:45:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 14:45:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 14:46:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 14:46:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 14:46:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 14:46:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 14:47:08: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 14:47:24: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 14:47:40: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 14:49:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 14:50:09: [G_Auto 2] :  € 21.62 Lay bet placed on Amanda Anisimova at 1.37. Fully matched at 1.36.  Ref: 10765          ( Fill or kill bet with 15 seconds delay.   )
+5/4/2022 14:50:11: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aPoints = point: 0; games: 2; sets: 0 
+5/4/2022 14:50:11: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aServing = serving:0
+5/4/2022 14:50:11: [G_Auto 1] :  Store Text Value (Shared) for Amanda Anisimova: bPoints = point: 0; games: 4; sets: 0 
+5/4/2022 14:50:11: [G_Auto 1] :  Store Text Value (Shared) for Amanda Anisimova: bServing = serving:2
+5/4/2022 14:50:11: [G_Auto 1] :  Store Value (Shared) for market: price = 1.36
+5/4/2022 14:50:11: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 30
+5/4/2022 14:50:11: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 53.94
+5/4/2022 14:50:11: [G_Auto 1] :  Store Value (Shared) for market: stake = 21.62
+5/4/2022 14:50:11: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 83.94
+5/4/2022 14:50:11: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.12
+5/4/2022 14:50:11: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.8
+5/4/2022 14:50:11: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.35
+5/4/2022 14:50:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 14:50:16: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aPoints = point: 0; games: 2; sets: 0 
+5/4/2022 14:50:16: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aServing = serving:0
+5/4/2022 14:50:16: [G_Auto 1] :  Store Text Value (Shared) for Amanda Anisimova: bPoints = point: 0; games: 4; sets: 0 
+5/4/2022 14:50:16: [G_Auto 1] :  Store Text Value (Shared) for Amanda Anisimova: bServing = serving:2
+5/4/2022 14:50:16: [G_Auto 1] :  Store Value (Shared) for market: price = 1.36
+5/4/2022 14:50:16: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 30
+5/4/2022 14:50:16: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 53.94
+5/4/2022 14:50:16: [G_Auto 1] :  Store Value (Shared) for market: stake = 21.62
+5/4/2022 14:50:16: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 83.94
+5/4/2022 14:50:16: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.12
+5/4/2022 14:50:16: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.8
+5/4/2022 14:50:16: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.36
+5/4/2022 14:50:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 14:50:38: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 14:50:54: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 14:52:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 14:52:16: [G_Auto 2] :  Placed closure bet with greening on Amanda Anisimova by Backing 18.04 at 1.63
+5/4/2022 14:52:19: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aPoints = point: 0; games: 3; sets: 0 
+5/4/2022 14:52:19: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aServing = serving:1
+5/4/2022 14:52:19: [G_Auto 1] :  Store Text Value (Shared) for Amanda Anisimova: bPoints = point: 0; games: 4; sets: 0 
+5/4/2022 14:52:19: [G_Auto 1] :  Store Text Value (Shared) for Amanda Anisimova: bServing = serving:0
+5/4/2022 14:52:19: [G_Auto 1] :  Store Value (Shared) for market: price = 1.63
+5/4/2022 14:52:19: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 48.04
+5/4/2022 14:52:19: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 53.94
+5/4/2022 14:52:19: [G_Auto 1] :  Store Value (Shared) for market: stake = 18.04
+5/4/2022 14:52:19: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 101.98
+5/4/2022 14:52:19: [G_Auto 1] :  Store Value (Shared) for market: pl = 5.78
+5/4/2022 14:52:19: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.56
+5/4/2022 14:52:19: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.64
+5/4/2022 14:52:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 14:52:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 14:52:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 14:53:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 14:53:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 14:53:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 14:53:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 14:53:57: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 14:54:13: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 14:55:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 14:55:52: [G_Auto 2] :  € 8.16 Lay bet placed on Amanda Anisimova at 1.98. Fully matched at 1.98.  Ref: 10768          ( Fill or kill bet with 15 seconds delay.   )
+5/4/2022 14:55:54: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aPoints = point: 0; games: 4; sets: 0 
+5/4/2022 14:55:54: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aServing = serving:0
+5/4/2022 14:55:54: [G_Auto 1] :  Store Text Value (Shared) for Amanda Anisimova: bPoints = point: 0; games: 4; sets: 0 
+5/4/2022 14:55:54: [G_Auto 1] :  Store Text Value (Shared) for Amanda Anisimova: bServing = serving:2
+5/4/2022 14:55:54: [G_Auto 1] :  Store Value (Shared) for market: price = 1.98
+5/4/2022 14:55:54: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 48.04
+5/4/2022 14:55:54: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 62.1
+5/4/2022 14:55:54: [G_Auto 1] :  Store Value (Shared) for market: stake = 8.16
+5/4/2022 14:55:54: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 110.14
+5/4/2022 14:55:54: [G_Auto 1] :  Store Value (Shared) for market: pl = 5.7
+5/4/2022 14:55:54: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.04
+5/4/2022 14:55:54: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.96
+5/4/2022 14:55:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 14:56:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 14:56:18: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 14:56:35: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 15:00:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:00:40: [G_Auto 2] :  € 16.00 Lay bet placed on Ekaterina Alexandrova at 1.5. Fully matched at 1.49.  Ref: 10770          ( Fill or kill bet with 15 seconds delay.   )
+5/4/2022 15:00:40: [G_Auto 2] :  Placed closure bet with greening on Amanda Anisimova by Backing 5.38 at 3
+5/4/2022 15:00:42: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aPoints = point: 0; games: 5; sets: 0 
+5/4/2022 15:00:42: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aServing = serving:1
+5/4/2022 15:00:42: [G_Auto 1] :  Store Text Value (Shared) for Amanda Anisimova: bPoints = point: 0; games: 4; sets: 0 
+5/4/2022 15:00:42: [G_Auto 1] :  Store Text Value (Shared) for Amanda Anisimova: bServing = serving:0
+5/4/2022 15:00:42: [G_Auto 1] :  Store Value (Shared) for market: price = 1.49
+5/4/2022 15:00:42: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 53.42
+5/4/2022 15:00:42: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 78.1
+5/4/2022 15:00:42: [G_Auto 1] :  Store Value (Shared) for market: stake = 16
+5/4/2022 15:00:42: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 131.52
+5/4/2022 15:00:42: [G_Auto 1] :  Store Value (Shared) for market: pl = 8.4
+5/4/2022 15:00:42: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.49
+5/4/2022 15:00:42: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3
+5/4/2022 15:00:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:00:50: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aPoints = point: 0; games: 5; sets: 0 
+5/4/2022 15:00:50: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aServing = serving:1
+5/4/2022 15:00:50: [G_Auto 1] :  Store Text Value (Shared) for Amanda Anisimova: bPoints = point: 0; games: 4; sets: 0 
+5/4/2022 15:00:50: [G_Auto 1] :  Store Text Value (Shared) for Amanda Anisimova: bServing = serving:0
+5/4/2022 15:00:50: [G_Auto 1] :  Store Value (Shared) for market: price = 1.49
+5/4/2022 15:00:50: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 53.42
+5/4/2022 15:00:50: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 78.1
+5/4/2022 15:00:50: [G_Auto 1] :  Store Value (Shared) for market: stake = 16
+5/4/2022 15:00:50: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 131.52
+5/4/2022 15:00:50: [G_Auto 1] :  Store Value (Shared) for market: pl = 8.61
+5/4/2022 15:00:50: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.5
+5/4/2022 15:00:50: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3
+5/4/2022 15:01:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:01:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:01:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:01:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:02:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:02:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:02:39: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 15:03:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:04:01: [G_Auto 1] :  Store Value (Shared) for market: aFirstSetPrice = 1.33
+5/4/2022 15:04:01: [G_Auto 1] :  Store Value (Shared) for market: bFirstSetPrice = 4.1
+5/4/2022 15:04:07: [G_Auto 2] :  Placed closure bet with greening on Ekaterina Alexandrova by Backing 18.06 at 1.32
+5/4/2022 15:04:09: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aPoints = point: 0; games: 0; sets: 1 
+5/4/2022 15:04:09: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aServing = serving:0
+5/4/2022 15:04:09: [G_Auto 1] :  Store Text Value (Shared) for Amanda Anisimova: bPoints = point: 0; games: 0; sets: 0 
+5/4/2022 15:04:09: [G_Auto 1] :  Store Text Value (Shared) for Amanda Anisimova: bServing = serving:2
+5/4/2022 15:04:09: [G_Auto 1] :  Store Value (Shared) for market: price = 1.33
+5/4/2022 15:04:09: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 71.48
+5/4/2022 15:04:09: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 78.1
+5/4/2022 15:04:09: [G_Auto 1] :  Store Value (Shared) for market: stake = 18.06
+5/4/2022 15:04:09: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 149.58
+5/4/2022 15:04:09: [G_Auto 1] :  Store Value (Shared) for market: pl = 6.61
+5/4/2022 15:04:09: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.34
+5/4/2022 15:04:09: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.95
+5/4/2022 15:04:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:04:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:04:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:04:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:05:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:05:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:05:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:05:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:06:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:06:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:06:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:07:06: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:07:16: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 15:07:31: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 15:09:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:09:56: [G_Auto 2] :  € 36.36 Lay bet placed on Ekaterina Alexandrova at 1.22. Fully matched at 1.21.  Ref: 10774          ( Fill or kill bet with 15 seconds delay.   )
+5/4/2022 15:09:58: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aPoints = point: 0; games: 1; sets: 1 
+5/4/2022 15:09:58: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aServing = serving:1
+5/4/2022 15:09:58: [G_Auto 1] :  Store Text Value (Shared) for Amanda Anisimova: bPoints = point: 0; games: 0; sets: 0 
+5/4/2022 15:09:58: [G_Auto 1] :  Store Text Value (Shared) for Amanda Anisimova: bServing = serving:0
+5/4/2022 15:09:58: [G_Auto 1] :  Store Value (Shared) for market: price = 1.21
+5/4/2022 15:09:58: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 71.48
+5/4/2022 15:09:58: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 114.46
+5/4/2022 15:09:58: [G_Auto 1] :  Store Value (Shared) for market: stake = 36.36
+5/4/2022 15:09:58: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 185.94
+5/4/2022 15:09:58: [G_Auto 1] :  Store Value (Shared) for market: pl = 6.34
+5/4/2022 15:09:58: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.21
+5/4/2022 15:09:58: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 5.7
+5/4/2022 15:10:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:10:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:10:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:10:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:10:55: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 15:11:10: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 15:11:25: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 15:12:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:13:10: [G_Auto 2] :  Placed closure bet with greening on Ekaterina Alexandrova by Backing 31.08 at 1.41
+5/4/2022 15:13:12: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aPoints = point: 0; games: 1; sets: 1 
+5/4/2022 15:13:12: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aServing = serving:0
+5/4/2022 15:13:12: [G_Auto 1] :  Store Text Value (Shared) for Amanda Anisimova: bPoints = point: 0; games: 1; sets: 0 
+5/4/2022 15:13:12: [G_Auto 1] :  Store Text Value (Shared) for Amanda Anisimova: bServing = serving:2
+5/4/2022 15:13:12: [G_Auto 1] :  Store Value (Shared) for market: price = 1.41
+5/4/2022 15:13:12: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 102.56
+5/4/2022 15:13:12: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 114.46
+5/4/2022 15:13:12: [G_Auto 1] :  Store Value (Shared) for market: stake = 31.08
+5/4/2022 15:13:12: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 217.02
+5/4/2022 15:13:12: [G_Auto 1] :  Store Value (Shared) for market: pl = 11.67
+5/4/2022 15:13:12: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.41
+5/4/2022 15:13:12: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.35
+5/4/2022 15:13:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:13:17: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aPoints = point: 0; games: 1; sets: 1 
+5/4/2022 15:13:17: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aServing = serving:0
+5/4/2022 15:13:17: [G_Auto 1] :  Store Text Value (Shared) for Amanda Anisimova: bPoints = point: 0; games: 1; sets: 0 
+5/4/2022 15:13:17: [G_Auto 1] :  Store Text Value (Shared) for Amanda Anisimova: bServing = serving:2
+5/4/2022 15:13:17: [G_Auto 1] :  Store Value (Shared) for market: price = 1.41
+5/4/2022 15:13:17: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 102.56
+5/4/2022 15:13:17: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 114.46
+5/4/2022 15:13:17: [G_Auto 1] :  Store Value (Shared) for market: stake = 31.08
+5/4/2022 15:13:17: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 217.02
+5/4/2022 15:13:17: [G_Auto 1] :  Store Value (Shared) for market: pl = 11.67
+5/4/2022 15:13:17: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.42
+5/4/2022 15:13:17: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.5
+5/4/2022 15:13:25: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 15:15:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:15:44: [G_Auto 2] :  € 14.04 Lay bet placed on Ekaterina Alexandrova at 1.57. Fully matched at 1.56.  Ref: 10776          ( Fill or kill bet with 15 seconds delay.   )
+5/4/2022 15:15:46: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aPoints = point: 0; games: 1; sets: 1 
+5/4/2022 15:15:46: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aServing = serving:1
+5/4/2022 15:15:46: [G_Auto 1] :  Store Text Value (Shared) for Amanda Anisimova: bPoints = point: 0; games: 2; sets: 0 
+5/4/2022 15:15:46: [G_Auto 1] :  Store Text Value (Shared) for Amanda Anisimova: bServing = serving:0
+5/4/2022 15:15:46: [G_Auto 1] :  Store Value (Shared) for market: price = 1.56
+5/4/2022 15:15:46: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 102.56
+5/4/2022 15:15:46: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 128.5
+5/4/2022 15:15:46: [G_Auto 1] :  Store Value (Shared) for market: stake = 14.04
+5/4/2022 15:15:46: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 231.06
+5/4/2022 15:15:46: [G_Auto 1] :  Store Value (Shared) for market: pl = 11.49
+5/4/2022 15:15:46: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.54
+5/4/2022 15:15:46: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.82
+5/4/2022 15:15:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:15:51: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aPoints = point: 0; games: 1; sets: 1 
+5/4/2022 15:15:51: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aServing = serving:1
+5/4/2022 15:15:51: [G_Auto 1] :  Store Text Value (Shared) for Amanda Anisimova: bPoints = point: 0; games: 2; sets: 0 
+5/4/2022 15:15:51: [G_Auto 1] :  Store Text Value (Shared) for Amanda Anisimova: bServing = serving:0
+5/4/2022 15:15:51: [G_Auto 1] :  Store Value (Shared) for market: price = 1.56
+5/4/2022 15:15:51: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 102.56
+5/4/2022 15:15:51: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 128.5
+5/4/2022 15:15:51: [G_Auto 1] :  Store Value (Shared) for market: stake = 14.04
+5/4/2022 15:15:51: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 231.06
+5/4/2022 15:15:51: [G_Auto 1] :  Store Value (Shared) for market: pl = 11.49
+5/4/2022 15:15:51: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.55
+5/4/2022 15:15:51: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.8
+5/4/2022 15:16:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:16:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:16:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:16:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:17:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:17:31: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 15:17:48: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 15:21:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:22:02: [G_Auto 2] :  Placed closure bet with greening on Ekaterina Alexandrova by Backing 15.64 at 1.4
+5/4/2022 15:22:04: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aPoints = point: 0; games: 2; sets: 1 
+5/4/2022 15:22:04: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aServing = serving:0
+5/4/2022 15:22:04: [G_Auto 1] :  Store Text Value (Shared) for Amanda Anisimova: bPoints = point: 0; games: 2; sets: 0 
+5/4/2022 15:22:04: [G_Auto 1] :  Store Text Value (Shared) for Amanda Anisimova: bServing = serving:2
+5/4/2022 15:22:04: [G_Auto 1] :  Store Value (Shared) for market: price = 1.4
+5/4/2022 15:22:04: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 118.2
+5/4/2022 15:22:04: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 128.5
+5/4/2022 15:22:04: [G_Auto 1] :  Store Value (Shared) for market: stake = 15.64
+5/4/2022 15:22:04: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 246.7
+5/4/2022 15:22:04: [G_Auto 1] :  Store Value (Shared) for market: pl = 10.09
+5/4/2022 15:22:04: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.41
+5/4/2022 15:22:04: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.4
+5/4/2022 15:22:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:22:09: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aPoints = point: 0; games: 2; sets: 1 
+5/4/2022 15:22:09: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aServing = serving:0
+5/4/2022 15:22:09: [G_Auto 1] :  Store Text Value (Shared) for Amanda Anisimova: bPoints = point: 0; games: 2; sets: 0 
+5/4/2022 15:22:09: [G_Auto 1] :  Store Text Value (Shared) for Amanda Anisimova: bServing = serving:2
+5/4/2022 15:22:09: [G_Auto 1] :  Store Value (Shared) for market: price = 1.4
+5/4/2022 15:22:09: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 118.2
+5/4/2022 15:22:09: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 128.5
+5/4/2022 15:22:09: [G_Auto 1] :  Store Value (Shared) for market: stake = 15.64
+5/4/2022 15:22:09: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 246.7
+5/4/2022 15:22:09: [G_Auto 1] :  Store Value (Shared) for market: pl = 10.09
+5/4/2022 15:22:09: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.41
+5/4/2022 15:22:09: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.4
+5/4/2022 15:22:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:22:39: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 15:22:54: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 15:27:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:27:50: [G_Auto 2] :  € 40.00 Lay bet placed on Ekaterina Alexandrova at 1.2. Fully matched at 1.19.  Ref: 10783          ( Fill or kill bet with 15 seconds delay.   )
+5/4/2022 15:27:52: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aPoints = point: 0; games: 3; sets: 1 
+5/4/2022 15:27:52: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aServing = serving:1
+5/4/2022 15:27:52: [G_Auto 1] :  Store Text Value (Shared) for Amanda Anisimova: bPoints = point: 0; games: 2; sets: 0 
+5/4/2022 15:27:52: [G_Auto 1] :  Store Text Value (Shared) for Amanda Anisimova: bServing = serving:0
+5/4/2022 15:27:52: [G_Auto 1] :  Store Value (Shared) for market: price = 1.19
+5/4/2022 15:27:52: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 118.2
+5/4/2022 15:27:52: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 168.5
+5/4/2022 15:27:52: [G_Auto 1] :  Store Value (Shared) for market: stake = 40
+5/4/2022 15:27:52: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 286.7
+5/4/2022 15:27:52: [G_Auto 1] :  Store Value (Shared) for market: pl = 9.76
+5/4/2022 15:27:52: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.18
+5/4/2022 15:27:52: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 6.2
+5/4/2022 15:27:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:28:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:28:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:28:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:29:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:29:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:29:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:29:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:30:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:30:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:30:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:30:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:31:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:31:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:31:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:32:06: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:32:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:32:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:32:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:33:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:33:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:33:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:34:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:34:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:34:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:34:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:35:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:35:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:35:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:35:56: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 15:36:11: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 15:43:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:44:09: [G_Auto 2] :  Placed closure bet with greening on Ekaterina Alexandrova by Backing 43.27 at 1.1
+5/4/2022 15:44:11: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aPoints = point: 0; games: 4; sets: 1 
+5/4/2022 15:44:11: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aServing = serving:0
+5/4/2022 15:44:11: [G_Auto 1] :  Store Text Value (Shared) for Amanda Anisimova: bPoints = point: 0; games: 2; sets: 0 
+5/4/2022 15:44:11: [G_Auto 1] :  Store Text Value (Shared) for Amanda Anisimova: bServing = serving:2
+5/4/2022 15:44:11: [G_Auto 1] :  Store Value (Shared) for market: price = 1.1
+5/4/2022 15:44:11: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 161.47
+5/4/2022 15:44:11: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 168.5
+5/4/2022 15:44:11: [G_Auto 1] :  Store Value (Shared) for market: stake = 43.27
+5/4/2022 15:44:11: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 329.97
+5/4/2022 15:44:11: [G_Auto 1] :  Store Value (Shared) for market: pl = 6.89
+5/4/2022 15:44:11: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.11
+5/4/2022 15:44:11: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 10
+5/4/2022 15:44:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:44:19: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aPoints = point: 0; games: 4; sets: 1 
+5/4/2022 15:44:19: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aServing = serving:0
+5/4/2022 15:44:19: [G_Auto 1] :  Store Text Value (Shared) for Amanda Anisimova: bPoints = point: 0; games: 2; sets: 0 
+5/4/2022 15:44:19: [G_Auto 1] :  Store Text Value (Shared) for Amanda Anisimova: bServing = serving:2
+5/4/2022 15:44:19: [G_Auto 1] :  Store Value (Shared) for market: price = 1.1
+5/4/2022 15:44:19: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 161.47
+5/4/2022 15:44:19: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 168.5
+5/4/2022 15:44:19: [G_Auto 1] :  Store Value (Shared) for market: stake = 43.27
+5/4/2022 15:44:19: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 329.97
+5/4/2022 15:44:19: [G_Auto 1] :  Store Value (Shared) for market: pl = 6.89
+5/4/2022 15:44:19: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.12
+5/4/2022 15:44:19: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 9.2
+5/4/2022 15:44:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:44:39: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 15:48:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:48:50: [G_Auto 2] :  € 42.11 Lay bet placed on Ekaterina Alexandrova at 1.19. Fully matched at 1.18.  Ref: 10798          ( Fill or kill bet with 15 seconds delay.   )
+5/4/2022 15:48:52: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aPoints = point: 0; games: 4; sets: 1 
+5/4/2022 15:48:52: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aServing = serving:1
+5/4/2022 15:48:52: [G_Auto 1] :  Store Text Value (Shared) for Amanda Anisimova: bPoints = point: 0; games: 3; sets: 0 
+5/4/2022 15:48:52: [G_Auto 1] :  Store Text Value (Shared) for Amanda Anisimova: bServing = serving:0
+5/4/2022 15:48:52: [G_Auto 1] :  Store Value (Shared) for market: price = 1.18
+5/4/2022 15:48:52: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 161.47
+5/4/2022 15:48:52: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 210.61
+5/4/2022 15:48:52: [G_Auto 1] :  Store Value (Shared) for market: stake = 42.11
+5/4/2022 15:48:52: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 372.08
+5/4/2022 15:48:52: [G_Auto 1] :  Store Value (Shared) for market: pl = 6.54
+5/4/2022 15:48:52: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.18
+5/4/2022 15:48:52: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 6.6
+5/4/2022 15:48:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:49:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:49:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:49:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:50:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:50:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:50:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:50:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:51:13: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 15:51:30: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 15:52:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:52:42: [G_Auto 2] :  Placed closure bet with greening on Ekaterina Alexandrova by Backing 46.88 at 1.06
+5/4/2022 15:52:44: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aPoints = point: 0; games: 5; sets: 1 
+5/4/2022 15:52:44: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aServing = serving:0
+5/4/2022 15:52:44: [G_Auto 1] :  Store Text Value (Shared) for Amanda Anisimova: bPoints = point: 0; games: 3; sets: 0 
+5/4/2022 15:52:44: [G_Auto 1] :  Store Text Value (Shared) for Amanda Anisimova: bServing = serving:2
+5/4/2022 15:52:44: [G_Auto 1] :  Store Value (Shared) for market: price = 1.06
+5/4/2022 15:52:44: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 208.35
+5/4/2022 15:52:44: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 210.61
+5/4/2022 15:52:44: [G_Auto 1] :  Store Value (Shared) for market: stake = 46.88
+5/4/2022 15:52:44: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 418.96
+5/4/2022 15:52:44: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.21
+5/4/2022 15:52:44: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.06
+5/4/2022 15:52:44: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 15.5
+5/4/2022 15:52:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:53:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:53:16: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 15:53:34: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 15:58:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:58:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 15:58:40:  Guardian has detected that the market is suspended

@@ -1,0 +1,684 @@
+4/25/2022 11:17:44: [G_Auto 2] :  Store Text Value (Shared) for Norbert Gombos: info = marketName: Gombos v Molcan - Match Odds; runnerA: Norbert Gombos; runnerB: Alex Molcan 
+4/25/2022 11:17:44: [G_Auto 2] :  Store Value (Shared) for market: aId = 8173023
+4/25/2022 11:17:44: [G_Auto 2] :  Store Value (Shared) for market: bId = 8960879
+4/25/2022 11:37:54:  Guardian has detected that the market is in-play
+4/25/2022 11:37:54:  Guardian has detected that the market is suspended
+4/25/2022 11:37:56: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 3.85; bBsp: 1.35; volume: 38917.4 
+4/25/2022 11:37:56: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 3.85; bBsp: 1.35; volume: 38917.4 
+4/25/2022 11:37:56:  Guardian has detected that the market is now unsuspended
+4/25/2022 11:37:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 11:38:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 11:38:10: [G_Auto 1] :  € 25.00 Lay bet placed on Alex Molcan at 1.32. Entirely unmatched when it initially reached the market.   Ref: 10000          ( Fill or kill bet with 15 seconds delay.   )
+4/25/2022 11:38:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 11:38:25: [G_Auto 1] :  € 25 unmatched bet (Ref:10000) was killed.
+4/25/2022 11:40:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 11:40:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 11:41:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 11:41:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 11:41:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 11:41:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 11:42:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 11:42:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 11:44:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 11:44:22: [G_Auto 1] :  € 44.44 Lay bet placed on Alex Molcan at 1.18. Fully matched at 1.17.  Ref: 10001          ( Fill or kill bet with 15 seconds delay.   )
+4/25/2022 11:44:23: [G_Auto 2] :  Store Text Value (Shared) for Norbert Gombos: aPoints = point: 0; games: 0; sets: 0 
+4/25/2022 11:44:23: [G_Auto 2] :  Store Text Value (Shared) for Norbert Gombos: aServing = serving:0
+4/25/2022 11:44:23: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: bPoints = point: 0; games: 2; sets: 0 
+4/25/2022 11:44:23: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: bServing = serving:2
+4/25/2022 11:44:23: [G_Auto 2] :  Store Value (Shared) for market: price = 1.17
+4/25/2022 11:44:23: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+4/25/2022 11:44:23: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 44.44
+4/25/2022 11:44:23: [G_Auto 2] :  Store Value (Shared) for market: stake = 44.44
+4/25/2022 11:44:23: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 44.44
+4/25/2022 11:44:23: [G_Auto 2] :  Store Value (Shared) for market: pl = 0
+4/25/2022 11:44:23: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 6.4
+4/25/2022 11:44:23: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.17
+4/25/2022 11:44:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 11:44:28: [G_Auto 2] :  Store Text Value (Shared) for Norbert Gombos: aPoints = point: 0; games: 0; sets: 0 
+4/25/2022 11:44:28: [G_Auto 2] :  Store Text Value (Shared) for Norbert Gombos: aServing = serving:0
+4/25/2022 11:44:28: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: bPoints = point: 0; games: 2; sets: 0 
+4/25/2022 11:44:28: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: bServing = serving:2
+4/25/2022 11:44:28: [G_Auto 2] :  Store Value (Shared) for market: price = 1.17
+4/25/2022 11:44:28: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+4/25/2022 11:44:28: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 44.44
+4/25/2022 11:44:28: [G_Auto 2] :  Store Value (Shared) for market: stake = 44.44
+4/25/2022 11:44:28: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 44.44
+4/25/2022 11:44:28: [G_Auto 2] :  Store Value (Shared) for market: pl = 0
+4/25/2022 11:44:28: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 6.4
+4/25/2022 11:44:28: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.17
+4/25/2022 11:44:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 11:44:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 11:45:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 11:45:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 11:45:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 11:47:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 11:47:19: [G_Auto 1] :  Placed closure bet with greening on Alex Molcan by Backing 45.21 at 1.15
+4/25/2022 11:47:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 11:47:22: [G_Auto 2] :  Store Text Value (Shared) for Norbert Gombos: aPoints = point: 0; games: 0; sets: 0 
+4/25/2022 11:47:22: [G_Auto 2] :  Store Text Value (Shared) for Norbert Gombos: aServing = serving:1
+4/25/2022 11:47:22: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: bPoints = point: 0; games: 3; sets: 0 
+4/25/2022 11:47:22: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: bServing = serving:0
+4/25/2022 11:47:22: [G_Auto 2] :  Store Value (Shared) for market: price = 1.15
+4/25/2022 11:47:22: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 42.39
+4/25/2022 11:47:22: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 44.44
+4/25/2022 11:47:22: [G_Auto 2] :  Store Value (Shared) for market: stake = 42.39
+4/25/2022 11:47:22: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 86.83
+4/25/2022 11:47:22: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.77
+4/25/2022 11:47:22: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 7.4
+4/25/2022 11:47:22: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.16
+4/25/2022 11:47:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 11:47:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 11:48:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 11:48:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 11:48:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 11:48:55: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 11:49:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 11:53:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 11:53:28: [G_Auto 1] :  € 44.44 Lay bet placed on Alex Molcan at 1.18. Fully matched at 1.17.  Ref: 10003          ( Fill or kill bet with 15 seconds delay.   )
+4/25/2022 11:53:29: [G_Auto 2] :  Store Text Value (Shared) for Norbert Gombos: aPoints = point: 0; games: 1; sets: 0 
+4/25/2022 11:53:29: [G_Auto 2] :  Store Text Value (Shared) for Norbert Gombos: aServing = serving:0
+4/25/2022 11:53:29: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: bPoints = point: 0; games: 3; sets: 0 
+4/25/2022 11:53:29: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: bServing = serving:2
+4/25/2022 11:53:29: [G_Auto 2] :  Store Value (Shared) for market: price = 1.17
+4/25/2022 11:53:29: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 45.21
+4/25/2022 11:53:29: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 88.88
+4/25/2022 11:53:29: [G_Auto 2] :  Store Value (Shared) for market: stake = 44.44
+4/25/2022 11:53:29: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 134.09
+4/25/2022 11:53:29: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.16
+4/25/2022 11:53:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 7.2
+4/25/2022 11:53:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.16
+4/25/2022 11:53:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 11:53:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 11:53:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 11:54:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 11:55:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 11:55:16: [G_Auto 1] :  Placed closure bet with greening on Alex Molcan by Backing 46.02 at 1.13
+4/25/2022 11:55:17: [G_Auto 2] :  Store Text Value (Shared) for Norbert Gombos: aPoints = point: 0; games: 1; sets: 0 
+4/25/2022 11:55:17: [G_Auto 2] :  Store Text Value (Shared) for Norbert Gombos: aServing = serving:1
+4/25/2022 11:55:17: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: bPoints = point: 0; games: 4; sets: 0 
+4/25/2022 11:55:17: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: bServing = serving:0
+4/25/2022 11:55:17: [G_Auto 2] :  Store Value (Shared) for market: price = 1.13
+4/25/2022 11:55:17: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 91.23
+4/25/2022 11:55:17: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 88.88
+4/25/2022 11:55:17: [G_Auto 2] :  Store Value (Shared) for market: stake = 46.02
+4/25/2022 11:55:17: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 180.11
+4/25/2022 11:55:17: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.35
+4/25/2022 11:55:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 8.2
+4/25/2022 11:55:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.13
+4/25/2022 11:55:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 11:55:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 11:55:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 11:56:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 11:56:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 11:56:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 11:56:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 11:57:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 11:57:16: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 11:59:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:00:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:00:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:00:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 12:00:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 12:04:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:04:23: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 11
+4/25/2022 12:04:23: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 1.1
+4/25/2022 12:04:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:04:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:05:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:05:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:05:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:05:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:06:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:06:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:06:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 12:07:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 12:07:16: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 12:08:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:08:43: [G_Auto 1] :  € 61.54 Lay bet placed on Alex Molcan at 1.13. Fully matched at 1.12.  Ref: 10006          ( Fill or kill bet with 15 seconds delay.   )
+4/25/2022 12:08:44: [G_Auto 2] :  Store Text Value (Shared) for Norbert Gombos: aPoints = point: 0; games: 1; sets: 0 
+4/25/2022 12:08:44: [G_Auto 2] :  Store Text Value (Shared) for Norbert Gombos: aServing = serving:0
+4/25/2022 12:08:44: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: bPoints = point: 0; games: 0; sets: 1 
+4/25/2022 12:08:44: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: bServing = serving:2
+4/25/2022 12:08:44: [G_Auto 2] :  Store Value (Shared) for market: price = 1.12
+4/25/2022 12:08:44: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 91.23
+4/25/2022 12:08:44: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 150.42
+4/25/2022 12:08:44: [G_Auto 2] :  Store Value (Shared) for market: stake = 61.54
+4/25/2022 12:08:44: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 241.65
+4/25/2022 12:08:44: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.9
+4/25/2022 12:08:44: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 10
+4/25/2022 12:08:44: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.11
+4/25/2022 12:08:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:09:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:09:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:09:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 12:09:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 12:10:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:10:44: [G_Auto 1] :  Placed closure bet with greening on Alex Molcan by Backing 63.82 at 1.08
+4/25/2022 12:10:45: [G_Auto 2] :  Store Text Value (Shared) for Norbert Gombos: aPoints = point: 0; games: 1; sets: 0 
+4/25/2022 12:10:45: [G_Auto 2] :  Store Text Value (Shared) for Norbert Gombos: aServing = serving:1
+4/25/2022 12:10:45: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: bPoints = point: 0; games: 1; sets: 1 
+4/25/2022 12:10:45: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: bServing = serving:0
+4/25/2022 12:10:45: [G_Auto 2] :  Store Value (Shared) for market: price = 1.08
+4/25/2022 12:10:45: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 155.05
+4/25/2022 12:10:45: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 150.42
+4/25/2022 12:10:45: [G_Auto 2] :  Store Value (Shared) for market: stake = 63.82
+4/25/2022 12:10:45: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 305.47
+4/25/2022 12:10:45: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.63
+4/25/2022 12:10:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 12
+4/25/2022 12:10:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.09
+4/25/2022 12:10:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:11:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:11:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 12:11:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 12:12:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:13:02: [G_Auto 1] :  € 61.54 Lay bet placed on Alex Molcan at 1.13. Fully matched at 1.12.  Ref: 10009          ( Fill or kill bet with 15 seconds delay.   )
+4/25/2022 12:13:03: [G_Auto 2] :  Store Text Value (Shared) for Norbert Gombos: aPoints = point: 0; games: 2; sets: 0 
+4/25/2022 12:13:03: [G_Auto 2] :  Store Text Value (Shared) for Norbert Gombos: aServing = serving:0
+4/25/2022 12:13:03: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: bPoints = point: 0; games: 1; sets: 1 
+4/25/2022 12:13:03: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: bServing = serving:2
+4/25/2022 12:13:03: [G_Auto 2] :  Store Value (Shared) for market: price = 1.12
+4/25/2022 12:13:03: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 155.05
+4/25/2022 12:13:03: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 211.96
+4/25/2022 12:13:03: [G_Auto 2] :  Store Value (Shared) for market: stake = 61.54
+4/25/2022 12:13:03: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 367.01
+4/25/2022 12:13:03: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.18
+4/25/2022 12:13:03: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 9.8
+4/25/2022 12:13:03: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.11
+4/25/2022 12:13:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:13:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:13:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:13:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:14:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:14:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:14:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:14:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 12:14:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 12:16:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:16:37: [G_Auto 1] :  Placed closure bet with greening on Alex Molcan by Backing 63.23 at 1.09
+4/25/2022 12:16:38: [G_Auto 2] :  Store Text Value (Shared) for Norbert Gombos: aPoints = point: 0; games: 2; sets: 0 
+4/25/2022 12:16:38: [G_Auto 2] :  Store Text Value (Shared) for Norbert Gombos: aServing = serving:1
+4/25/2022 12:16:38: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: bPoints = point: 0; games: 2; sets: 1 
+4/25/2022 12:16:38: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: bServing = serving:0
+4/25/2022 12:16:38: [G_Auto 2] :  Store Value (Shared) for market: price = 1.09
+4/25/2022 12:16:38: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 218.28
+4/25/2022 12:16:38: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 211.96
+4/25/2022 12:16:38: [G_Auto 2] :  Store Value (Shared) for market: stake = 63.23
+4/25/2022 12:16:38: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 430.24
+4/25/2022 12:16:38: [G_Auto 2] :  Store Value (Shared) for market: pl = -6.32
+4/25/2022 12:16:38: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 11
+4/25/2022 12:16:38: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.1
+4/25/2022 12:16:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:16:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 12:17:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 12:18:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:18:16: [G_Auto 1] :  € 50.00 Lay bet placed on Alex Molcan at 1.16. Fully matched at 1.15.  Ref: 10014          ( Fill or kill bet with 15 seconds delay.   )
+4/25/2022 12:18:17: [G_Auto 2] :  Store Text Value (Shared) for Norbert Gombos: aPoints = point: 0; games: 3; sets: 0 
+4/25/2022 12:18:17: [G_Auto 2] :  Store Text Value (Shared) for Norbert Gombos: aServing = serving:0
+4/25/2022 12:18:17: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: bPoints = point: 0; games: 2; sets: 1 
+4/25/2022 12:18:17: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: bServing = serving:2
+4/25/2022 12:18:17: [G_Auto 2] :  Store Value (Shared) for market: price = 1.15
+4/25/2022 12:18:17: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 218.28
+4/25/2022 12:18:17: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 261.96
+4/25/2022 12:18:17: [G_Auto 2] :  Store Value (Shared) for market: stake = 50
+4/25/2022 12:18:17: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 480.24
+4/25/2022 12:18:17: [G_Auto 2] :  Store Value (Shared) for market: pl = -6.76
+4/25/2022 12:18:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 8.2
+4/25/2022 12:18:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.15
+4/25/2022 12:18:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:18:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:18:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:19:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:19:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:19:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:19:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:20:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 12:20:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 12:22:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:22:13: [G_Auto 1] :  Placed closure bet with greening on Alex Molcan by Backing 51.80 at 1.11
+4/25/2022 12:22:14: [G_Auto 2] :  Store Text Value (Shared) for Norbert Gombos: aPoints = point: 0; games: 3; sets: 0 
+4/25/2022 12:22:14: [G_Auto 2] :  Store Text Value (Shared) for Norbert Gombos: aServing = serving:1
+4/25/2022 12:22:14: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: bPoints = point: 0; games: 3; sets: 1 
+4/25/2022 12:22:14: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: bServing = serving:0
+4/25/2022 12:22:14: [G_Auto 2] :  Store Value (Shared) for market: price = 1.11
+4/25/2022 12:22:14: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 270.08
+4/25/2022 12:22:14: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 261.96
+4/25/2022 12:22:14: [G_Auto 2] :  Store Value (Shared) for market: stake = 51.8
+4/25/2022 12:22:14: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 532.04
+4/25/2022 12:22:14: [G_Auto 2] :  Store Value (Shared) for market: pl = -8.12
+4/25/2022 12:22:14: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 9.8
+4/25/2022 12:22:14: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.12
+4/25/2022 12:22:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:22:20: [G_Auto 2] :  Store Text Value (Shared) for Norbert Gombos: aPoints = point: 0; games: 3; sets: 0 
+4/25/2022 12:22:20: [G_Auto 2] :  Store Text Value (Shared) for Norbert Gombos: aServing = serving:1
+4/25/2022 12:22:20: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: bPoints = point: 0; games: 3; sets: 1 
+4/25/2022 12:22:20: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: bServing = serving:0
+4/25/2022 12:22:20: [G_Auto 2] :  Store Value (Shared) for market: price = 1.11
+4/25/2022 12:22:20: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 270.08
+4/25/2022 12:22:20: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 261.96
+4/25/2022 12:22:20: [G_Auto 2] :  Store Value (Shared) for market: stake = 51.8
+4/25/2022 12:22:20: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 532.04
+4/25/2022 12:22:20: [G_Auto 2] :  Store Value (Shared) for market: pl = -8.12
+4/25/2022 12:22:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 9.2
+4/25/2022 12:22:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.12
+4/25/2022 12:22:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:22:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 12:22:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 12:24:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:24:57: [G_Auto 1] :  € 44.44 Lay bet placed on Alex Molcan at 1.18. Fully matched at 1.17.  Ref: 10018          ( Fill or kill bet with 15 seconds delay.   )
+4/25/2022 12:24:58: [G_Auto 2] :  Store Text Value (Shared) for Norbert Gombos: aPoints = point: 0; games: 4; sets: 0 
+4/25/2022 12:24:58: [G_Auto 2] :  Store Text Value (Shared) for Norbert Gombos: aServing = serving:0
+4/25/2022 12:24:58: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: bPoints = point: 0; games: 3; sets: 1 
+4/25/2022 12:24:58: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: bServing = serving:2
+4/25/2022 12:24:58: [G_Auto 2] :  Store Value (Shared) for market: price = 1.17
+4/25/2022 12:24:58: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 270.08
+4/25/2022 12:24:58: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 306.4
+4/25/2022 12:24:58: [G_Auto 2] :  Store Value (Shared) for market: stake = 44.44
+4/25/2022 12:24:58: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 576.48
+4/25/2022 12:24:58: [G_Auto 2] :  Store Value (Shared) for market: pl = -8.5
+4/25/2022 12:24:58: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 7.2
+4/25/2022 12:24:58: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.16
+4/25/2022 12:24:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:25:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:25:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:25:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:26:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:26:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:26:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:26:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 12:27:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 12:28:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:29:08: [G_Auto 1] :  Placed closure bet with greening on Alex Molcan by Backing 36.36 at 1.43
+4/25/2022 12:29:09: [G_Auto 2] :  Store Text Value (Shared) for Norbert Gombos: aPoints = point: 0; games: 5; sets: 0 
+4/25/2022 12:29:09: [G_Auto 2] :  Store Text Value (Shared) for Norbert Gombos: aServing = serving:1
+4/25/2022 12:29:09: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: bPoints = point: 0; games: 3; sets: 1 
+4/25/2022 12:29:09: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: bServing = serving:0
+4/25/2022 12:29:09: [G_Auto 2] :  Store Value (Shared) for market: price = 1.43
+4/25/2022 12:29:09: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 306.44
+4/25/2022 12:29:09: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 306.4
+4/25/2022 12:29:09: [G_Auto 2] :  Store Value (Shared) for market: stake = 36.36
+4/25/2022 12:29:09: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 612.84
+4/25/2022 12:29:09: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.04
+4/25/2022 12:29:09: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.35
+4/25/2022 12:29:09: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.43
+4/25/2022 12:29:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:29:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:29:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 12:29:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 12:30:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:31:06: [G_Auto 2] :  Store Value (Shared) for market: aSecondSetPrice = 2.76
+4/25/2022 12:31:06: [G_Auto 2] :  Store Value (Shared) for market: bSecondSetPrice = 1.57
+4/25/2022 12:31:11: [G_Auto 1] :  € 13.56 Lay bet placed on Alex Molcan at 1.59. Fully matched at 1.57.  Ref: 10022          ( Fill or kill bet with 15 seconds delay.   )
+4/25/2022 12:31:11: [G_Auto 2] :  Store Text Value (Shared) for Norbert Gombos: aPoints = point: 0; games: 0; sets: 1 
+4/25/2022 12:31:11: [G_Auto 2] :  Store Text Value (Shared) for Norbert Gombos: aServing = serving:0
+4/25/2022 12:31:11: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: bPoints = point: 0; games: 0; sets: 1 
+4/25/2022 12:31:11: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: bServing = serving:2
+4/25/2022 12:31:11: [G_Auto 2] :  Store Value (Shared) for market: price = 1.57
+4/25/2022 12:31:11: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 306.44
+4/25/2022 12:31:11: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 319.96
+4/25/2022 12:31:11: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.56
+4/25/2022 12:31:11: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 626.4
+4/25/2022 12:31:11: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.13
+4/25/2022 12:31:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.74
+4/25/2022 12:31:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.57
+4/25/2022 12:31:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:31:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:31:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:32:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:32:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:32:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:32:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:33:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:33:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:33:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 12:33:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 12:33:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 12:35:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:36:05: [G_Auto 1] :  Placed closure bet with greening on Alex Molcan by Backing 14.58 at 1.46
+4/25/2022 12:36:06: [G_Auto 2] :  Store Text Value (Shared) for Norbert Gombos: aPoints = point: 0; games: 0; sets: 1 
+4/25/2022 12:36:06: [G_Auto 2] :  Store Text Value (Shared) for Norbert Gombos: aServing = serving:1
+4/25/2022 12:36:06: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: bPoints = point: 0; games: 1; sets: 1 
+4/25/2022 12:36:06: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: bServing = serving:0
+4/25/2022 12:36:06: [G_Auto 2] :  Store Value (Shared) for market: price = 1.46
+4/25/2022 12:36:06: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 321.02
+4/25/2022 12:36:06: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 319.96
+4/25/2022 12:36:06: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.58
+4/25/2022 12:36:06: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 640.98
+4/25/2022 12:36:06: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.06
+4/25/2022 12:36:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.15
+4/25/2022 12:36:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.47
+4/25/2022 12:36:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:36:12: [G_Auto 2] :  Store Text Value (Shared) for Norbert Gombos: aPoints = point: 0; games: 0; sets: 1 
+4/25/2022 12:36:12: [G_Auto 2] :  Store Text Value (Shared) for Norbert Gombos: aServing = serving:1
+4/25/2022 12:36:12: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: bPoints = point: 0; games: 1; sets: 1 
+4/25/2022 12:36:12: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: bServing = serving:0
+4/25/2022 12:36:12: [G_Auto 2] :  Store Value (Shared) for market: price = 1.46
+4/25/2022 12:36:12: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 321.02
+4/25/2022 12:36:12: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 319.96
+4/25/2022 12:36:12: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.58
+4/25/2022 12:36:12: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 640.98
+4/25/2022 12:36:12: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.06
+4/25/2022 12:36:12: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.15
+4/25/2022 12:36:12: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.46
+4/25/2022 12:36:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:36:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:36:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 12:37:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 12:37:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 12:40:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:40:14: [G_Auto 1] :  € 13.33 Lay bet placed on Alex Molcan at 1.6. Fully matched at 1.59.  Ref: 10029          ( Fill or kill bet with 15 seconds delay.   )
+4/25/2022 12:40:15: [G_Auto 2] :  Store Text Value (Shared) for Norbert Gombos: aPoints = point: 0; games: 1; sets: 1 
+4/25/2022 12:40:15: [G_Auto 2] :  Store Text Value (Shared) for Norbert Gombos: aServing = serving:0
+4/25/2022 12:40:15: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: bPoints = point: 0; games: 1; sets: 1 
+4/25/2022 12:40:15: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: bServing = serving:2
+4/25/2022 12:40:15: [G_Auto 2] :  Store Value (Shared) for market: price = 1.59
+4/25/2022 12:40:15: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 321.02
+4/25/2022 12:40:15: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 333.29
+4/25/2022 12:40:15: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.33
+4/25/2022 12:40:15: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 654.31
+4/25/2022 12:40:15: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.15
+4/25/2022 12:40:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.74
+4/25/2022 12:40:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.58
+4/25/2022 12:40:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:40:20: [G_Auto 2] :  Store Text Value (Shared) for Norbert Gombos: aPoints = point: 0; games: 1; sets: 1 
+4/25/2022 12:40:20: [G_Auto 2] :  Store Text Value (Shared) for Norbert Gombos: aServing = serving:0
+4/25/2022 12:40:20: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: bPoints = point: 0; games: 1; sets: 1 
+4/25/2022 12:40:20: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: bServing = serving:2
+4/25/2022 12:40:20: [G_Auto 2] :  Store Value (Shared) for market: price = 1.59
+4/25/2022 12:40:20: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 321.02
+4/25/2022 12:40:20: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 333.29
+4/25/2022 12:40:20: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.33
+4/25/2022 12:40:20: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 654.31
+4/25/2022 12:40:20: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.23
+4/25/2022 12:40:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.72
+4/25/2022 12:40:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.58
+4/25/2022 12:40:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:40:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 12:41:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 12:41:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:42:05: [G_Auto 1] :  Placed closure bet with greening on Alex Molcan by Backing 14.93 at 1.42
+4/25/2022 12:42:06: [G_Auto 2] :  Store Text Value (Shared) for Norbert Gombos: aPoints = point: 0; games: 1; sets: 1 
+4/25/2022 12:42:06: [G_Auto 2] :  Store Text Value (Shared) for Norbert Gombos: aServing = serving:1
+4/25/2022 12:42:06: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: bPoints = point: 0; games: 2; sets: 1 
+4/25/2022 12:42:06: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: bServing = serving:0
+4/25/2022 12:42:06: [G_Auto 2] :  Store Value (Shared) for market: price = 1.42
+4/25/2022 12:42:06: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 335.95
+4/25/2022 12:42:06: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 333.29
+4/25/2022 12:42:06: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.93
+4/25/2022 12:42:06: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 669.24
+4/25/2022 12:42:06: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.66
+4/25/2022 12:42:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.35
+4/25/2022 12:42:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.43
+4/25/2022 12:42:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:42:12: [G_Auto 2] :  Store Text Value (Shared) for Norbert Gombos: aPoints = point: 0; games: 1; sets: 1 
+4/25/2022 12:42:12: [G_Auto 2] :  Store Text Value (Shared) for Norbert Gombos: aServing = serving:1
+4/25/2022 12:42:12: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: bPoints = point: 0; games: 2; sets: 1 
+4/25/2022 12:42:12: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: bServing = serving:0
+4/25/2022 12:42:12: [G_Auto 2] :  Store Value (Shared) for market: price = 1.42
+4/25/2022 12:42:12: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 335.95
+4/25/2022 12:42:12: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 333.29
+4/25/2022 12:42:12: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.93
+4/25/2022 12:42:12: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 669.24
+4/25/2022 12:42:12: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.66
+4/25/2022 12:42:12: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.4
+4/25/2022 12:42:12: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.43
+4/25/2022 12:42:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:42:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:42:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:43:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:43:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:43:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:44:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:44:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 12:44:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 12:44:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 12:46:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:46:58: [G_Auto 1] :  € 13.79 Lay bet placed on Alex Molcan at 1.58. Fully matched at 1.57.  Ref: 10032          ( Fill or kill bet with 15 seconds delay.   )
+4/25/2022 12:46:58: [G_Auto 2] :  Store Text Value (Shared) for Norbert Gombos: aPoints = point: 0; games: 2; sets: 1 
+4/25/2022 12:46:58: [G_Auto 2] :  Store Text Value (Shared) for Norbert Gombos: aServing = serving:0
+4/25/2022 12:46:58: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: bPoints = point: 0; games: 2; sets: 1 
+4/25/2022 12:46:58: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: bServing = serving:2
+4/25/2022 12:46:58: [G_Auto 2] :  Store Value (Shared) for market: price = 1.57
+4/25/2022 12:46:58: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 335.95
+4/25/2022 12:46:58: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 347.08
+4/25/2022 12:46:58: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.79
+4/25/2022 12:46:58: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 683.03
+4/25/2022 12:46:58: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.75
+4/25/2022 12:46:58: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.74
+4/25/2022 12:46:58: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.56
+4/25/2022 12:47:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:47:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:47:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 12:47:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 12:48:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:48:44: [G_Auto 1] :  Placed closure bet with greening on Alex Molcan by Backing 15.57 at 1.39
+4/25/2022 12:48:45: [G_Auto 2] :  Store Text Value (Shared) for Norbert Gombos: aPoints = point: 0; games: 2; sets: 1 
+4/25/2022 12:48:45: [G_Auto 2] :  Store Text Value (Shared) for Norbert Gombos: aServing = serving:1
+4/25/2022 12:48:45: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: bPoints = point: 0; games: 3; sets: 1 
+4/25/2022 12:48:45: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: bServing = serving:0
+4/25/2022 12:48:45: [G_Auto 2] :  Store Value (Shared) for market: price = 1.39
+4/25/2022 12:48:45: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 351.52
+4/25/2022 12:48:45: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 347.08
+4/25/2022 12:48:45: [G_Auto 2] :  Store Value (Shared) for market: stake = 15.57
+4/25/2022 12:48:45: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 698.6
+4/25/2022 12:48:45: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.44
+4/25/2022 12:48:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.4
+4/25/2022 12:48:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.41
+4/25/2022 12:48:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:49:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:49:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:49:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:49:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:50:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:50:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:50:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 12:50:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 12:53:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:53:51: [G_Auto 1] :  € 13.79 Lay bet placed on Alex Molcan at 1.58. Fully matched at 1.57.  Ref: 10035          ( Fill or kill bet with 15 seconds delay.   )
+4/25/2022 12:53:52: [G_Auto 2] :  Store Text Value (Shared) for Norbert Gombos: aPoints = point: 0; games: 3; sets: 1 
+4/25/2022 12:53:52: [G_Auto 2] :  Store Text Value (Shared) for Norbert Gombos: aServing = serving:0
+4/25/2022 12:53:52: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: bPoints = point: 0; games: 3; sets: 1 
+4/25/2022 12:53:52: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: bServing = serving:2
+4/25/2022 12:53:52: [G_Auto 2] :  Store Value (Shared) for market: price = 1.57
+4/25/2022 12:53:52: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 351.52
+4/25/2022 12:53:52: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 360.87
+4/25/2022 12:53:52: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.79
+4/25/2022 12:53:52: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 712.39
+4/25/2022 12:53:52: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.71
+4/25/2022 12:53:52: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.82
+4/25/2022 12:53:52: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.54
+4/25/2022 12:53:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:53:58: [G_Auto 2] :  Store Text Value (Shared) for Norbert Gombos: aPoints = point: 0; games: 3; sets: 1 
+4/25/2022 12:53:58: [G_Auto 2] :  Store Text Value (Shared) for Norbert Gombos: aServing = serving:0
+4/25/2022 12:53:58: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: bPoints = point: 0; games: 3; sets: 1 
+4/25/2022 12:53:58: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: bServing = serving:2
+4/25/2022 12:53:58: [G_Auto 2] :  Store Value (Shared) for market: price = 1.57
+4/25/2022 12:53:58: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 351.52
+4/25/2022 12:53:58: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 360.87
+4/25/2022 12:53:58: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.79
+4/25/2022 12:53:58: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 712.39
+4/25/2022 12:53:58: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.44
+4/25/2022 12:53:58: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.74
+4/25/2022 12:53:58: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.57
+4/25/2022 12:54:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 12:54:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 12:54:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 12:54:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 12:57:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:57:55: [G_Auto 1] :  Placed closure bet with greening on Alex Molcan by Backing 15.25 at 1.42
+4/25/2022 12:57:56: [G_Auto 2] :  Store Text Value (Shared) for Norbert Gombos: aPoints = point: 0; games: 3; sets: 1 
+4/25/2022 12:57:56: [G_Auto 2] :  Store Text Value (Shared) for Norbert Gombos: aServing = serving:1
+4/25/2022 12:57:56: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: bPoints = point: 0; games: 4; sets: 1 
+4/25/2022 12:57:56: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: bServing = serving:0
+4/25/2022 12:57:56: [G_Auto 2] :  Store Value (Shared) for market: price = 1.42
+4/25/2022 12:57:56: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 366.77
+4/25/2022 12:57:56: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 360.87
+4/25/2022 12:57:56: [G_Auto 2] :  Store Value (Shared) for market: stake = 15.25
+4/25/2022 12:57:56: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 727.64
+4/25/2022 12:57:56: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.9
+4/25/2022 12:57:56: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.35
+4/25/2022 12:57:56: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.43
+4/25/2022 12:57:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:58:02: [G_Auto 2] :  Store Text Value (Shared) for Norbert Gombos: aPoints = point: 0; games: 3; sets: 1 
+4/25/2022 12:58:02: [G_Auto 2] :  Store Text Value (Shared) for Norbert Gombos: aServing = serving:1
+4/25/2022 12:58:02: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: bPoints = point: 0; games: 4; sets: 1 
+4/25/2022 12:58:02: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: bServing = serving:0
+4/25/2022 12:58:02: [G_Auto 2] :  Store Value (Shared) for market: price = 1.42
+4/25/2022 12:58:02: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 366.77
+4/25/2022 12:58:02: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 360.87
+4/25/2022 12:58:02: [G_Auto 2] :  Store Value (Shared) for market: stake = 15.25
+4/25/2022 12:58:02: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 727.64
+4/25/2022 12:58:02: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.9
+4/25/2022 12:58:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.35
+4/25/2022 12:58:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.42
+4/25/2022 12:58:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:58:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:58:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:59:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:59:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 12:59:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 12:59:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 13:02:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 13:02:22: [G_Auto 1] :  € 12.90 Lay bet placed on Alex Molcan at 1.62. Fully matched at 1.62.  Ref: 10037          ( Fill or kill bet with 15 seconds delay.   )
+4/25/2022 13:02:23: [G_Auto 2] :  Store Text Value (Shared) for Norbert Gombos: aPoints = point: 0; games: 4; sets: 1 
+4/25/2022 13:02:23: [G_Auto 2] :  Store Text Value (Shared) for Norbert Gombos: aServing = serving:0
+4/25/2022 13:02:23: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: bPoints = point: 0; games: 4; sets: 1 
+4/25/2022 13:02:23: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: bServing = serving:2
+4/25/2022 13:02:23: [G_Auto 2] :  Store Value (Shared) for market: price = 1.62
+4/25/2022 13:02:23: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 366.77
+4/25/2022 13:02:23: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 373.77
+4/25/2022 13:02:23: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.9
+4/25/2022 13:02:23: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 740.54
+4/25/2022 13:02:23: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.98
+4/25/2022 13:02:23: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.64
+4/25/2022 13:02:23: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.61
+4/25/2022 13:02:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 13:02:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 13:02:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 13:03:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 13:04:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 13:05:06: [G_Auto 1] :  Placed closure bet with greening on Alex Molcan by Backing 14.72 at 1.42
+4/25/2022 13:05:07: [G_Auto 2] :  Store Text Value (Shared) for Norbert Gombos: aPoints = point: 0; games: 4; sets: 1 
+4/25/2022 13:05:07: [G_Auto 2] :  Store Text Value (Shared) for Norbert Gombos: aServing = serving:1
+4/25/2022 13:05:07: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: bPoints = point: 0; games: 5; sets: 1 
+4/25/2022 13:05:07: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: bServing = serving:0
+4/25/2022 13:05:07: [G_Auto 2] :  Store Value (Shared) for market: price = 1.42
+4/25/2022 13:05:07: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 381.49
+4/25/2022 13:05:07: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 373.77
+4/25/2022 13:05:07: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.72
+4/25/2022 13:05:07: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 755.26
+4/25/2022 13:05:07: [G_Auto 2] :  Store Value (Shared) for market: pl = -7.72
+4/25/2022 13:05:07: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.3
+4/25/2022 13:05:07: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.43
+4/25/2022 13:05:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 13:05:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 13:05:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 13:05:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 13:06:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 13:06:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 13:06:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 13:06:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 13:07:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 13:07:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 13:07:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 13:07:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 13:08:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 13:10:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 13:10:29: [G_Auto 1] :  € 12.12 Lay bet placed on Alex Molcan at 1.66. Fully matched at 1.66.  Ref: 10041          ( Fill or kill bet with 15 seconds delay.   )
+4/25/2022 13:10:30: [G_Auto 2] :  Store Text Value (Shared) for Norbert Gombos: aPoints = point: 0; games: 5; sets: 1 
+4/25/2022 13:10:30: [G_Auto 2] :  Store Text Value (Shared) for Norbert Gombos: aServing = serving:0
+4/25/2022 13:10:30: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: bPoints = point: 0; games: 5; sets: 1 
+4/25/2022 13:10:30: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: bServing = serving:2
+4/25/2022 13:10:30: [G_Auto 2] :  Store Value (Shared) for market: price = 1.66
+4/25/2022 13:10:30: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 381.49
+4/25/2022 13:10:30: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 385.89
+4/25/2022 13:10:30: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.12
+4/25/2022 13:10:30: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 767.38
+4/25/2022 13:10:30: [G_Auto 2] :  Store Value (Shared) for market: pl = -7.79
+4/25/2022 13:10:30: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.56
+4/25/2022 13:10:30: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.65
+4/25/2022 13:10:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 13:10:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 13:11:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 13:11:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 13:14:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 13:15:11: [G_Auto 1] :  Placed closure bet with greening on Alex Molcan by Backing 13.59 at 1.48
+4/25/2022 13:15:11: [G_Auto 2] :  Store Text Value (Shared) for Norbert Gombos: aPoints = point: 0; games: 5; sets: 1 
+4/25/2022 13:15:11: [G_Auto 2] :  Store Text Value (Shared) for Norbert Gombos: aServing = serving:1
+4/25/2022 13:15:11: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: bPoints = point: 0; games: 6; sets: 1 
+4/25/2022 13:15:11: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: bServing = serving:0
+4/25/2022 13:15:11: [G_Auto 2] :  Store Value (Shared) for market: price = 1.48
+4/25/2022 13:15:11: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 395.08
+4/25/2022 13:15:11: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 385.89
+4/25/2022 13:15:11: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.59
+4/25/2022 13:15:11: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 780.97
+4/25/2022 13:15:11: [G_Auto 2] :  Store Value (Shared) for market: pl = -9.19
+4/25/2022 13:15:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.05
+4/25/2022 13:15:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.49
+4/25/2022 13:15:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 13:15:17: [G_Auto 2] :  Store Text Value (Shared) for Norbert Gombos: aPoints = point: 0; games: 5; sets: 1 
+4/25/2022 13:15:17: [G_Auto 2] :  Store Text Value (Shared) for Norbert Gombos: aServing = serving:1
+4/25/2022 13:15:17: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: bPoints = point: 0; games: 6; sets: 1 
+4/25/2022 13:15:17: [G_Auto 2] :  Store Text Value (Shared) for Alex Molcan: bServing = serving:0
+4/25/2022 13:15:17: [G_Auto 2] :  Store Value (Shared) for market: price = 1.48
+4/25/2022 13:15:17: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 395.08
+4/25/2022 13:15:17: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 385.89
+4/25/2022 13:15:17: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.59
+4/25/2022 13:15:17: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 780.97
+4/25/2022 13:15:17: [G_Auto 2] :  Store Value (Shared) for market: pl = -9.19
+4/25/2022 13:15:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.05
+4/25/2022 13:15:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.5
+4/25/2022 13:15:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 13:15:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 13:15:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 13:16:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 13:16:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 13:16:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 13:17:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 13:17:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 13:17:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 13:17:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 13:18:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 13:18:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 13:19:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 13:19:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 13:19:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 13:19:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 13:19:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 13:20:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 13:20:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 13:20:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 13:21:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 13:21:16: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 13:21:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 13:21:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 13:22:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 13:22:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 13:22:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 13:22:55: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 13:23:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 13:23:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 13:23:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 13:23:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 13:24:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 13:24:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 13:24:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 13:25:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 13:25:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 13:25:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 13:25:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 13:26:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 13:26:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 13:26:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 13:26:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 13:27:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 13:27:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 13:27:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 13:27:55: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 13:28:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 13:28:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 13:28:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 13:28:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 13:29:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 13:29:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 13:29:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 13:29:38:  Guardian has detected that the market is suspended

@@ -1,0 +1,398 @@
+4/25/2022 11:17:43: [G_Auto 2] :  Store Text Value (Shared) for Federico Coria: info = marketName: Coria v Zapata Miralles - Match Odds; runnerA: Federico Coria; runnerB: Bernabe Zapata Miralles 
+4/25/2022 11:17:43: [G_Auto 2] :  Store Value (Shared) for market: aId = 8326752
+4/25/2022 11:17:43: [G_Auto 2] :  Store Value (Shared) for market: bId = 9630472
+4/25/2022 19:13:05:  Guardian has detected that the market is in-play
+4/25/2022 19:13:05:  Guardian has detected that the market is suspended
+4/25/2022 19:13:05: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.81; bBsp: 2.24; volume: 46362.33 
+4/25/2022 19:13:05: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.81; bBsp: 2.24; volume: 46362.33 
+4/25/2022 19:13:05:  Guardian has detected that the market is now unsuspended
+4/25/2022 19:13:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 19:13:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 19:15:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:15:25: [G_Auto 1] :  € 8.79 Lay bet placed on Federico Coria at 1.91. Entirely unmatched when it initially reached the market.   Ref: 10148          ( Fill or kill bet with 15 seconds delay.   )
+4/25/2022 19:15:25: [G_Auto 2] :  Store Text Value (Shared) for Federico Coria: aPoints = point: 0; games: 0; sets: 0 
+4/25/2022 19:15:25: [G_Auto 2] :  Store Text Value (Shared) for Federico Coria: aServing = serving:1
+4/25/2022 19:15:25: [G_Auto 2] :  Store Text Value (Shared) for Bernabe Zapata Miralles: bPoints = point: 0; games: 1; sets: 0 
+4/25/2022 19:15:25: [G_Auto 2] :  Store Text Value (Shared) for Bernabe Zapata Miralles: bServing = serving:0
+4/25/2022 19:15:25: [G_Auto 2] :  Store Value (Shared) for market: price = 1.91
+4/25/2022 19:15:25: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+4/25/2022 19:15:25: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 3.85
+4/25/2022 19:15:25: [G_Auto 2] :  Store Value (Shared) for market: stake = 3.85
+4/25/2022 19:15:25: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 3.85
+4/25/2022 19:15:25: [G_Auto 2] :  Store Value (Shared) for market: pl = 0
+4/25/2022 19:15:25: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.91
+4/25/2022 19:15:25: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.1
+4/25/2022 19:15:26: [G_Auto 1] :  € 8.79 of unmatched bet (Ref:10148) was filled before remainder was killed.
+4/25/2022 19:15:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:15:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:15:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:16:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:16:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 19:16:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 19:18:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:18:34: [G_Auto 1] :  Placed closure bet with greening on Federico Coria by Backing 6.77 at 2.48
+4/25/2022 19:18:34: [G_Auto 1] :  € 11.94 Lay bet placed on Bernabe Zapata Miralles at 1.67. Fully matched at 1.67.  Ref: 10150          ( Fill or kill bet with 15 seconds delay.   )
+4/25/2022 19:18:34: [G_Auto 2] :  Store Text Value (Shared) for Federico Coria: aPoints = point: 0; games: 0; sets: 0 
+4/25/2022 19:18:34: [G_Auto 2] :  Store Text Value (Shared) for Federico Coria: aServing = serving:0
+4/25/2022 19:18:34: [G_Auto 2] :  Store Text Value (Shared) for Bernabe Zapata Miralles: bPoints = point: 0; games: 2; sets: 0 
+4/25/2022 19:18:34: [G_Auto 2] :  Store Text Value (Shared) for Bernabe Zapata Miralles: bServing = serving:2
+4/25/2022 19:18:34: [G_Auto 2] :  Store Value (Shared) for market: price = 2.48
+4/25/2022 19:18:34: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 6.77
+4/25/2022 19:18:34: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 20.73
+4/25/2022 19:18:34: [G_Auto 2] :  Store Value (Shared) for market: stake = 6.77
+4/25/2022 19:18:34: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 27.5
+4/25/2022 19:18:34: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.91
+4/25/2022 19:18:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.48
+4/25/2022 19:18:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.67
+4/25/2022 19:18:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:18:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:19:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:19:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 19:19:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 19:20:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:20:27: [G_Auto 1] :  Placed closure bet with greening on Bernabe Zapata Miralles by Backing 13.29 at 1.5
+4/25/2022 19:20:28: [G_Auto 2] :  Store Text Value (Shared) for Federico Coria: aPoints = point: 0; games: 0; sets: 0 
+4/25/2022 19:20:28: [G_Auto 2] :  Store Text Value (Shared) for Federico Coria: aServing = serving:1
+4/25/2022 19:20:28: [G_Auto 2] :  Store Text Value (Shared) for Bernabe Zapata Miralles: bPoints = point: 0; games: 3; sets: 0 
+4/25/2022 19:20:28: [G_Auto 2] :  Store Text Value (Shared) for Bernabe Zapata Miralles: bServing = serving:0
+4/25/2022 19:20:28: [G_Auto 2] :  Store Value (Shared) for market: price = 1.51
+4/25/2022 19:20:28: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 20.06
+4/25/2022 19:20:28: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 20.73
+4/25/2022 19:20:28: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.29
+4/25/2022 19:20:28: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 40.79
+4/25/2022 19:20:28: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.73
+4/25/2022 19:20:28: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.94
+4/25/2022 19:20:28: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.52
+4/25/2022 19:20:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:20:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:21:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:21:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:21:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:21:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:22:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:22:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:22:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:22:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 19:24:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:24:31: [G_Auto 1] :  € 12.90 Lay bet placed on Bernabe Zapata Miralles at 1.62. Fully matched at 1.61.  Ref: 10152          ( Fill or kill bet with 15 seconds delay.   )
+4/25/2022 19:24:32: [G_Auto 2] :  Store Text Value (Shared) for Federico Coria: aPoints = point: 0; games: 1; sets: 0 
+4/25/2022 19:24:32: [G_Auto 2] :  Store Text Value (Shared) for Federico Coria: aServing = serving:0
+4/25/2022 19:24:32: [G_Auto 2] :  Store Text Value (Shared) for Bernabe Zapata Miralles: bPoints = point: 0; games: 3; sets: 0 
+4/25/2022 19:24:32: [G_Auto 2] :  Store Text Value (Shared) for Bernabe Zapata Miralles: bServing = serving:2
+4/25/2022 19:24:32: [G_Auto 2] :  Store Value (Shared) for market: price = 1.61
+4/25/2022 19:24:32: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 20.06
+4/25/2022 19:24:32: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 33.63
+4/25/2022 19:24:32: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.9
+4/25/2022 19:24:32: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 53.69
+4/25/2022 19:24:32: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.66
+4/25/2022 19:24:32: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.68
+4/25/2022 19:24:32: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.6
+4/25/2022 19:24:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:24:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:25:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:25:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 19:25:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 19:25:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 19:31:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:31:23: [G_Auto 1] :  Placed closure bet with greening on Bernabe Zapata Miralles by Backing 10.53 at 1.96
+4/25/2022 19:31:24: [G_Auto 2] :  Store Text Value (Shared) for Federico Coria: aPoints = point: 0; games: 2; sets: 0 
+4/25/2022 19:31:24: [G_Auto 2] :  Store Text Value (Shared) for Federico Coria: aServing = serving:1
+4/25/2022 19:31:24: [G_Auto 2] :  Store Text Value (Shared) for Bernabe Zapata Miralles: bPoints = point: 0; games: 3; sets: 0 
+4/25/2022 19:31:24: [G_Auto 2] :  Store Text Value (Shared) for Bernabe Zapata Miralles: bServing = serving:0
+4/25/2022 19:31:24: [G_Auto 2] :  Store Value (Shared) for market: price = 1.96
+4/25/2022 19:31:24: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 30.59
+4/25/2022 19:31:24: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 33.63
+4/25/2022 19:31:24: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.53
+4/25/2022 19:31:24: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 64.22
+4/25/2022 19:31:24: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.98
+4/25/2022 19:31:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.04
+4/25/2022 19:31:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.97
+4/25/2022 19:31:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:31:29: [G_Auto 2] :  Store Text Value (Shared) for Federico Coria: aPoints = point: 0; games: 2; sets: 0 
+4/25/2022 19:31:29: [G_Auto 2] :  Store Text Value (Shared) for Federico Coria: aServing = serving:1
+4/25/2022 19:31:29: [G_Auto 2] :  Store Text Value (Shared) for Bernabe Zapata Miralles: bPoints = point: 0; games: 3; sets: 0 
+4/25/2022 19:31:29: [G_Auto 2] :  Store Text Value (Shared) for Bernabe Zapata Miralles: bServing = serving:0
+4/25/2022 19:31:29: [G_Auto 2] :  Store Value (Shared) for market: price = 1.96
+4/25/2022 19:31:29: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 30.59
+4/25/2022 19:31:29: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 33.63
+4/25/2022 19:31:29: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.53
+4/25/2022 19:31:29: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 64.22
+4/25/2022 19:31:29: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.98
+4/25/2022 19:31:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.02
+4/25/2022 19:31:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.96
+4/25/2022 19:31:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:31:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:32:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:32:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:32:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:32:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:33:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:33:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:33:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:33:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 19:33:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 19:34:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 19:34:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 19:36:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:36:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:36:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:36:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 19:37:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 19:37:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 19:40:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:40:30: [G_Auto 1] :  € 19.51 Lay bet placed on Federico Coria at 1.41. Fully matched at 1.41.  Ref: 10154          ( Fill or kill bet with 15 seconds delay.   )
+4/25/2022 19:40:31: [G_Auto 2] :  Store Text Value (Shared) for Federico Coria: aPoints = point: 0; games: 4; sets: 0 
+4/25/2022 19:40:31: [G_Auto 2] :  Store Text Value (Shared) for Federico Coria: aServing = serving:1
+4/25/2022 19:40:31: [G_Auto 2] :  Store Text Value (Shared) for Bernabe Zapata Miralles: bPoints = point: 0; games: 3; sets: 0 
+4/25/2022 19:40:31: [G_Auto 2] :  Store Text Value (Shared) for Bernabe Zapata Miralles: bServing = serving:0
+4/25/2022 19:40:31: [G_Auto 2] :  Store Value (Shared) for market: price = 1.41
+4/25/2022 19:40:31: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 30.59
+4/25/2022 19:40:31: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 53.14
+4/25/2022 19:40:31: [G_Auto 2] :  Store Value (Shared) for market: stake = 19.51
+4/25/2022 19:40:31: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 83.73
+4/25/2022 19:40:31: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.84
+4/25/2022 19:40:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.4
+4/25/2022 19:40:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.4
+4/25/2022 19:40:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:40:36: [G_Auto 2] :  Store Text Value (Shared) for Federico Coria: aPoints = point: 0; games: 4; sets: 0 
+4/25/2022 19:40:36: [G_Auto 2] :  Store Text Value (Shared) for Federico Coria: aServing = serving:1
+4/25/2022 19:40:36: [G_Auto 2] :  Store Text Value (Shared) for Bernabe Zapata Miralles: bPoints = point: 0; games: 3; sets: 0 
+4/25/2022 19:40:36: [G_Auto 2] :  Store Text Value (Shared) for Bernabe Zapata Miralles: bServing = serving:0
+4/25/2022 19:40:36: [G_Auto 2] :  Store Value (Shared) for market: price = 1.41
+4/25/2022 19:40:36: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 30.59
+4/25/2022 19:40:36: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 53.14
+4/25/2022 19:40:36: [G_Auto 2] :  Store Value (Shared) for market: stake = 19.51
+4/25/2022 19:40:36: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 83.73
+4/25/2022 19:40:36: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.98
+4/25/2022 19:40:36: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.41
+4/25/2022 19:40:36: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.45
+4/25/2022 19:40:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:41:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:41:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:41:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:41:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:42:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:42:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:42:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:42:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 19:43:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 19:43:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 19:45:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:46:06: [G_Auto 1] :  Placed closure bet with greening on Federico Coria by Backing 14.11 at 1.95
+4/25/2022 19:46:06: [G_Auto 2] :  Store Text Value (Shared) for Federico Coria: aPoints = point: 0; games: 4; sets: 0 
+4/25/2022 19:46:06: [G_Auto 2] :  Store Text Value (Shared) for Federico Coria: aServing = serving:0
+4/25/2022 19:46:06: [G_Auto 2] :  Store Text Value (Shared) for Bernabe Zapata Miralles: bPoints = point: 0; games: 4; sets: 0 
+4/25/2022 19:46:06: [G_Auto 2] :  Store Text Value (Shared) for Bernabe Zapata Miralles: bServing = serving:2
+4/25/2022 19:46:06: [G_Auto 2] :  Store Value (Shared) for market: price = 1.96
+4/25/2022 19:46:06: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 44.7
+4/25/2022 19:46:06: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 53.14
+4/25/2022 19:46:06: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.11
+4/25/2022 19:46:06: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 97.84
+4/25/2022 19:46:06: [G_Auto 2] :  Store Value (Shared) for market: pl = 8.34
+4/25/2022 19:46:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.96
+4/25/2022 19:46:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.06
+4/25/2022 19:46:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:46:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:46:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 19:46:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 19:47:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 19:47:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 19:47:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 19:47:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 19:51:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:51:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:52:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:52:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:52:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:52:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:53:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:53:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:53:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:53:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:53:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 19:54:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 19:55:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:56:00: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 4.1
+4/25/2022 19:56:00: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 1.32
+4/25/2022 19:56:05: [G_Auto 1] :  € 23.53 Lay bet placed on Bernabe Zapata Miralles at 1.34. Fully matched at 1.33.  Ref: 10156          ( Fill or kill bet with 15 seconds delay.   )
+4/25/2022 19:56:05: [G_Auto 2] :  Store Text Value (Shared) for Federico Coria: aPoints = point: 0; games: 0; sets: 0 
+4/25/2022 19:56:05: [G_Auto 2] :  Store Text Value (Shared) for Federico Coria: aServing = serving:0
+4/25/2022 19:56:05: [G_Auto 2] :  Store Text Value (Shared) for Bernabe Zapata Miralles: bPoints = point: 0; games: 0; sets: 1 
+4/25/2022 19:56:05: [G_Auto 2] :  Store Text Value (Shared) for Bernabe Zapata Miralles: bServing = serving:2
+4/25/2022 19:56:05: [G_Auto 2] :  Store Value (Shared) for market: price = 1.33
+4/25/2022 19:56:05: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 44.7
+4/25/2022 19:56:05: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 76.67
+4/25/2022 19:56:05: [G_Auto 2] :  Store Value (Shared) for market: stake = 23.53
+4/25/2022 19:56:05: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 121.37
+4/25/2022 19:56:05: [G_Auto 2] :  Store Value (Shared) for market: pl = 8.13
+4/25/2022 19:56:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4
+4/25/2022 19:56:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.33
+4/25/2022 19:56:08: [G_Auto 1] :  Placed closure bet with greening on Federico Coria by Laying 0.04 at 4.1
+4/25/2022 19:56:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:56:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:56:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:56:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:57:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:57:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:57:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:57:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:58:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 19:58:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 19:58:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 20:01:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 20:01:53: [G_Auto 1] :  Placed closure bet with greening on Bernabe Zapata Miralles by Backing 25.24 at 1.24
+4/25/2022 20:01:54: [G_Auto 2] :  Store Text Value (Shared) for Federico Coria: aPoints = point: 0; games: 0; sets: 0 
+4/25/2022 20:01:54: [G_Auto 2] :  Store Text Value (Shared) for Federico Coria: aServing = serving:1
+4/25/2022 20:01:54: [G_Auto 2] :  Store Text Value (Shared) for Bernabe Zapata Miralles: bPoints = point: 0; games: 1; sets: 1 
+4/25/2022 20:01:54: [G_Auto 2] :  Store Text Value (Shared) for Bernabe Zapata Miralles: bServing = serving:0
+4/25/2022 20:01:54: [G_Auto 2] :  Store Value (Shared) for market: price = 1.24
+4/25/2022 20:01:54: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 69.94
+4/25/2022 20:01:54: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 76.71
+4/25/2022 20:01:54: [G_Auto 2] :  Store Value (Shared) for market: stake = 25.24
+4/25/2022 20:01:54: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 146.65
+4/25/2022 20:01:54: [G_Auto 2] :  Store Value (Shared) for market: pl = 6.61
+4/25/2022 20:01:54: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 5
+4/25/2022 20:01:54: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.25
+4/25/2022 20:01:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 20:02:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 20:02:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 20:02:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 20:02:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 20:04:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 20:04:50: [G_Auto 1] :  € 23.53 Lay bet placed on Bernabe Zapata Miralles at 1.34. Fully matched at 1.33.  Ref: 10160          ( Fill or kill bet with 15 seconds delay.   )
+4/25/2022 20:04:50: [G_Auto 2] :  Store Text Value (Shared) for Federico Coria: aPoints = point: 0; games: 1; sets: 0 
+4/25/2022 20:04:50: [G_Auto 2] :  Store Text Value (Shared) for Federico Coria: aServing = serving:0
+4/25/2022 20:04:50: [G_Auto 2] :  Store Text Value (Shared) for Bernabe Zapata Miralles: bPoints = point: 0; games: 1; sets: 1 
+4/25/2022 20:04:50: [G_Auto 2] :  Store Text Value (Shared) for Bernabe Zapata Miralles: bServing = serving:2
+4/25/2022 20:04:50: [G_Auto 2] :  Store Value (Shared) for market: price = 1.33
+4/25/2022 20:04:50: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 69.94
+4/25/2022 20:04:50: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 100.24
+4/25/2022 20:04:50: [G_Auto 2] :  Store Value (Shared) for market: stake = 23.53
+4/25/2022 20:04:50: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 170.18
+4/25/2022 20:04:50: [G_Auto 2] :  Store Value (Shared) for market: pl = 6.45
+4/25/2022 20:04:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.1
+4/25/2022 20:04:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.32
+4/25/2022 20:04:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 20:04:55: [G_Auto 2] :  Store Text Value (Shared) for Federico Coria: aPoints = point: 0; games: 1; sets: 0 
+4/25/2022 20:04:55: [G_Auto 2] :  Store Text Value (Shared) for Federico Coria: aServing = serving:0
+4/25/2022 20:04:55: [G_Auto 2] :  Store Text Value (Shared) for Bernabe Zapata Miralles: bPoints = point: 0; games: 1; sets: 1 
+4/25/2022 20:04:55: [G_Auto 2] :  Store Text Value (Shared) for Bernabe Zapata Miralles: bServing = serving:2
+4/25/2022 20:04:55: [G_Auto 2] :  Store Value (Shared) for market: price = 1.33
+4/25/2022 20:04:55: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 69.94
+4/25/2022 20:04:55: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 100.24
+4/25/2022 20:04:55: [G_Auto 2] :  Store Value (Shared) for market: stake = 23.53
+4/25/2022 20:04:55: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 170.18
+4/25/2022 20:04:55: [G_Auto 2] :  Store Value (Shared) for market: pl = 6.61
+4/25/2022 20:04:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4
+4/25/2022 20:04:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.33
+4/25/2022 20:05:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 20:05:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 20:05:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 20:05:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 20:05:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 20:08:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 20:08:15: [G_Auto 1] :  Placed closure bet with greening on Bernabe Zapata Miralles by Backing 25.44 at 1.23
+4/25/2022 20:08:15: [G_Auto 2] :  Store Text Value (Shared) for Federico Coria: aPoints = point: 0; games: 1; sets: 0 
+4/25/2022 20:08:15: [G_Auto 2] :  Store Text Value (Shared) for Federico Coria: aServing = serving:1
+4/25/2022 20:08:15: [G_Auto 2] :  Store Text Value (Shared) for Bernabe Zapata Miralles: bPoints = point: 0; games: 2; sets: 1 
+4/25/2022 20:08:15: [G_Auto 2] :  Store Text Value (Shared) for Bernabe Zapata Miralles: bServing = serving:0
+4/25/2022 20:08:15: [G_Auto 2] :  Store Value (Shared) for market: price = 1.23
+4/25/2022 20:08:15: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 95.38
+4/25/2022 20:08:15: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 100.24
+4/25/2022 20:08:15: [G_Auto 2] :  Store Value (Shared) for market: stake = 25.44
+4/25/2022 20:08:15: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 195.62
+4/25/2022 20:08:15: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.74
+4/25/2022 20:08:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 5.1
+4/25/2022 20:08:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.24
+4/25/2022 20:08:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 20:08:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 20:08:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 20:09:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 20:09:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 20:09:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 20:09:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 20:10:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 20:10:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 20:10:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 20:12:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 20:13:07: [G_Auto 1] :  € 23.53 Lay bet placed on Bernabe Zapata Miralles at 1.34. Fully matched at 1.33.  Ref: 10162          ( Fill or kill bet with 15 seconds delay.   )
+4/25/2022 20:13:07: [G_Auto 2] :  Store Text Value (Shared) for Federico Coria: aPoints = point: 0; games: 2; sets: 0 
+4/25/2022 20:13:07: [G_Auto 2] :  Store Text Value (Shared) for Federico Coria: aServing = serving:0
+4/25/2022 20:13:07: [G_Auto 2] :  Store Text Value (Shared) for Bernabe Zapata Miralles: bPoints = point: 0; games: 2; sets: 1 
+4/25/2022 20:13:07: [G_Auto 2] :  Store Text Value (Shared) for Bernabe Zapata Miralles: bServing = serving:2
+4/25/2022 20:13:07: [G_Auto 2] :  Store Value (Shared) for market: price = 1.33
+4/25/2022 20:13:07: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 95.38
+4/25/2022 20:13:07: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 123.77
+4/25/2022 20:13:07: [G_Auto 2] :  Store Value (Shared) for market: stake = 23.53
+4/25/2022 20:13:07: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 219.15
+4/25/2022 20:13:07: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.57
+4/25/2022 20:13:07: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.6
+4/25/2022 20:13:07: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.32
+4/25/2022 20:13:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 20:13:12: [G_Auto 2] :  Store Text Value (Shared) for Federico Coria: aPoints = point: 0; games: 2; sets: 0 
+4/25/2022 20:13:12: [G_Auto 2] :  Store Text Value (Shared) for Federico Coria: aServing = serving:0
+4/25/2022 20:13:12: [G_Auto 2] :  Store Text Value (Shared) for Bernabe Zapata Miralles: bPoints = point: 0; games: 2; sets: 1 
+4/25/2022 20:13:12: [G_Auto 2] :  Store Text Value (Shared) for Bernabe Zapata Miralles: bServing = serving:2
+4/25/2022 20:13:12: [G_Auto 2] :  Store Value (Shared) for market: price = 1.33
+4/25/2022 20:13:12: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 95.38
+4/25/2022 20:13:12: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 123.77
+4/25/2022 20:13:12: [G_Auto 2] :  Store Value (Shared) for market: stake = 23.53
+4/25/2022 20:13:12: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 219.15
+4/25/2022 20:13:12: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.39
+4/25/2022 20:13:12: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.1
+4/25/2022 20:13:12: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.32
+4/25/2022 20:13:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 20:13:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 20:13:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 20:18:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 20:18:23: [G_Auto 1] :  Placed closure bet with greening on Bernabe Zapata Miralles by Backing 25.24 at 1.24
+4/25/2022 20:18:24: [G_Auto 2] :  Store Text Value (Shared) for Federico Coria: aPoints = point: 0; games: 2; sets: 0 
+4/25/2022 20:18:24: [G_Auto 2] :  Store Text Value (Shared) for Federico Coria: aServing = serving:1
+4/25/2022 20:18:24: [G_Auto 2] :  Store Text Value (Shared) for Bernabe Zapata Miralles: bPoints = point: 0; games: 3; sets: 1 
+4/25/2022 20:18:24: [G_Auto 2] :  Store Text Value (Shared) for Bernabe Zapata Miralles: bServing = serving:0
+4/25/2022 20:18:24: [G_Auto 2] :  Store Value (Shared) for market: price = 1.24
+4/25/2022 20:18:24: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 120.62
+4/25/2022 20:18:24: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 123.77
+4/25/2022 20:18:24: [G_Auto 2] :  Store Value (Shared) for market: stake = 25.24
+4/25/2022 20:18:24: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 244.39
+4/25/2022 20:18:24: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.07
+4/25/2022 20:18:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 5
+4/25/2022 20:18:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.25
+4/25/2022 20:18:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 20:18:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 20:18:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 20:19:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 20:19:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 20:19:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 20:19:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 20:20:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 20:20:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 20:20:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 20:20:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 20:21:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 20:23:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 20:23:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 20:24:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 20:24:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 20:24:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 20:24:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 20:28:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 20:28:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 20:28:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 20:29:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 20:29:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 20:29:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 20:29:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 20:30:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 20:30:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 20:30:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 20:30:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 20:30:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 20:31:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 20:34:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 20:34:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 20:34:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 20:34:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 20:34:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/25/2022 20:36:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/25/2022 20:36:28:  Guardian has detected that the market is suspended

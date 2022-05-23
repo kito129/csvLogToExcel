@@ -1,0 +1,562 @@
+4/29/2022 12:53:55: [G_Auto 2] :  Store Text Value (Shared) for Sara Sorribes Tormo: info = marketName: Sorribes Tormo v Pavlyuchenkova - Match Odds; runnerA: Sara Sorribes Tormo; runnerB: Anastasia Pavlyuchenkova 
+4/29/2022 12:53:55: [G_Auto 2] :  Store Value (Shared) for market: aId = 6356637
+4/29/2022 12:53:55: [G_Auto 2] :  Store Value (Shared) for market: bId = 11057836
+4/29/2022 17:55:17:  Guardian has detected that the market is in-play
+4/29/2022 17:55:17:  Guardian has detected that the market is suspended
+4/29/2022 17:55:18: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.59; bBsp: 2.72; volume: 15179.59 
+4/29/2022 17:55:18: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.59; bBsp: 2.72; volume: 15179.59 
+4/29/2022 17:55:18:  Guardian has detected that the market is now unsuspended
+4/29/2022 17:55:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 17:55:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 17:55:55: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 17:58:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 17:58:53: [G_Auto 1] :  € 19.05 Lay bet placed on Sara Sorribes Tormo at 1.42. Fully matched at 1.42.  Ref: 11059          ( Fill or kill bet with 15 seconds delay.   )
+4/29/2022 17:58:54: [G_Auto 2] :  Store Text Value (Shared) for Sara Sorribes Tormo: aPoints = point: 0; games: 1; sets: 0 
+4/29/2022 17:58:54: [G_Auto 2] :  Store Text Value (Shared) for Sara Sorribes Tormo: aServing = serving:1
+4/29/2022 17:58:54: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Pavlyuchenkova: bPoints = point: 0; games: 0; sets: 0 
+4/29/2022 17:58:54: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Pavlyuchenkova: bServing = serving:0
+4/29/2022 17:58:54: [G_Auto 2] :  Store Value (Shared) for market: price = 1.42
+4/29/2022 17:58:54: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+4/29/2022 17:58:54: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 19.05
+4/29/2022 17:58:54: [G_Auto 2] :  Store Value (Shared) for market: stake = 19.05
+4/29/2022 17:58:54: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 19.05
+4/29/2022 17:58:54: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.14
+4/29/2022 17:58:54: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.41
+4/29/2022 17:58:54: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.35
+4/29/2022 17:58:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 17:59:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 17:59:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 17:59:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 17:59:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:00:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 18:00:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 18:04:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:05:07: [G_Auto 1] :  Placed closure bet with greening on Sara Sorribes Tormo by Backing 16.80 at 1.61
+4/29/2022 18:05:08: [G_Auto 2] :  Store Text Value (Shared) for Sara Sorribes Tormo: aPoints = point: 0; games: 1; sets: 0 
+4/29/2022 18:05:08: [G_Auto 2] :  Store Text Value (Shared) for Sara Sorribes Tormo: aServing = serving:0
+4/29/2022 18:05:08: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Pavlyuchenkova: bPoints = point: 0; games: 1; sets: 0 
+4/29/2022 18:05:08: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Pavlyuchenkova: bServing = serving:2
+4/29/2022 18:05:08: [G_Auto 2] :  Store Value (Shared) for market: price = 1.61
+4/29/2022 18:05:08: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 16.8
+4/29/2022 18:05:08: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 19.05
+4/29/2022 18:05:08: [G_Auto 2] :  Store Value (Shared) for market: stake = 16.8
+4/29/2022 18:05:08: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 35.85
+4/29/2022 18:05:08: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.21
+4/29/2022 18:05:08: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.62
+4/29/2022 18:05:08: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.88
+4/29/2022 18:05:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:05:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:05:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:05:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 18:06:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 18:08:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:08:34: [G_Auto 1] :  € 18.60 Lay bet placed on Sara Sorribes Tormo at 1.43. Fully matched at 1.43.  Ref: 11064          ( Fill or kill bet with 15 seconds delay.   )
+4/29/2022 18:08:34: [G_Auto 2] :  Store Text Value (Shared) for Sara Sorribes Tormo: aPoints = point: 0; games: 2; sets: 0 
+4/29/2022 18:08:34: [G_Auto 2] :  Store Text Value (Shared) for Sara Sorribes Tormo: aServing = serving:1
+4/29/2022 18:08:34: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Pavlyuchenkova: bPoints = point: 0; games: 1; sets: 0 
+4/29/2022 18:08:34: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Pavlyuchenkova: bServing = serving:0
+4/29/2022 18:08:34: [G_Auto 2] :  Store Value (Shared) for market: price = 1.43
+4/29/2022 18:08:34: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 16.8
+4/29/2022 18:08:34: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 37.65
+4/29/2022 18:08:34: [G_Auto 2] :  Store Value (Shared) for market: stake = 18.6
+4/29/2022 18:08:34: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 54.45
+4/29/2022 18:08:34: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.08
+4/29/2022 18:08:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.42
+4/29/2022 18:08:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.35
+4/29/2022 18:08:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:08:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:09:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:09:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:09:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:09:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:10:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:10:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:10:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:10:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 18:10:55: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 18:11:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 18:13:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:14:04: [G_Auto 1] :  Placed closure bet with greening on Sara Sorribes Tormo by Backing 20.15 at 1.32
+4/29/2022 18:14:04: [G_Auto 2] :  Store Text Value (Shared) for Sara Sorribes Tormo: aPoints = point: 0; games: 3; sets: 0 
+4/29/2022 18:14:04: [G_Auto 2] :  Store Text Value (Shared) for Sara Sorribes Tormo: aServing = serving:0
+4/29/2022 18:14:04: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Pavlyuchenkova: bPoints = point: 0; games: 1; sets: 0 
+4/29/2022 18:14:04: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Pavlyuchenkova: bServing = serving:2
+4/29/2022 18:14:04: [G_Auto 2] :  Store Value (Shared) for market: price = 1.32
+4/29/2022 18:14:04: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 36.95
+4/29/2022 18:14:04: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 37.65
+4/29/2022 18:14:04: [G_Auto 2] :  Store Value (Shared) for market: stake = 20.15
+4/29/2022 18:14:04: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 74.6
+4/29/2022 18:14:04: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.69
+4/29/2022 18:14:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.34
+4/29/2022 18:14:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4
+4/29/2022 18:14:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:14:09: [G_Auto 2] :  Store Text Value (Shared) for Sara Sorribes Tormo: aPoints = point: 0; games: 3; sets: 0 
+4/29/2022 18:14:09: [G_Auto 2] :  Store Text Value (Shared) for Sara Sorribes Tormo: aServing = serving:0
+4/29/2022 18:14:09: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Pavlyuchenkova: bPoints = point: 0; games: 1; sets: 0 
+4/29/2022 18:14:09: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Pavlyuchenkova: bServing = serving:2
+4/29/2022 18:14:09: [G_Auto 2] :  Store Value (Shared) for market: price = 1.32
+4/29/2022 18:14:09: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 36.95
+4/29/2022 18:14:09: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 37.65
+4/29/2022 18:14:09: [G_Auto 2] :  Store Value (Shared) for market: stake = 20.15
+4/29/2022 18:14:09: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 74.6
+4/29/2022 18:14:09: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.69
+4/29/2022 18:14:09: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.32
+4/29/2022 18:14:09: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.2
+4/29/2022 18:14:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:14:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 18:14:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 18:17:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:17:36: [G_Auto 1] :  € 32.00 Lay bet placed on Sara Sorribes Tormo at 1.25. Fully matched at 1.24.  Ref: 11069          ( Fill or kill bet with 15 seconds delay.   )
+4/29/2022 18:17:37: [G_Auto 2] :  Store Text Value (Shared) for Sara Sorribes Tormo: aPoints = point: 0; games: 4; sets: 0 
+4/29/2022 18:17:37: [G_Auto 2] :  Store Text Value (Shared) for Sara Sorribes Tormo: aServing = serving:1
+4/29/2022 18:17:37: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Pavlyuchenkova: bPoints = point: 0; games: 1; sets: 0 
+4/29/2022 18:17:37: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Pavlyuchenkova: bServing = serving:0
+4/29/2022 18:17:37: [G_Auto 2] :  Store Value (Shared) for market: price = 1.24
+4/29/2022 18:17:37: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 36.95
+4/29/2022 18:17:37: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 69.65
+4/29/2022 18:17:37: [G_Auto 2] :  Store Value (Shared) for market: stake = 32
+4/29/2022 18:17:37: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 106.6
+4/29/2022 18:17:37: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.43
+4/29/2022 18:17:37: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.23
+4/29/2022 18:17:37: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.5
+4/29/2022 18:17:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:17:42: [G_Auto 2] :  Store Text Value (Shared) for Sara Sorribes Tormo: aPoints = point: 0; games: 4; sets: 0 
+4/29/2022 18:17:42: [G_Auto 2] :  Store Text Value (Shared) for Sara Sorribes Tormo: aServing = serving:1
+4/29/2022 18:17:42: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Pavlyuchenkova: bPoints = point: 0; games: 1; sets: 0 
+4/29/2022 18:17:42: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Pavlyuchenkova: bServing = serving:0
+4/29/2022 18:17:42: [G_Auto 2] :  Store Value (Shared) for market: price = 1.24
+4/29/2022 18:17:42: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 36.95
+4/29/2022 18:17:42: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 69.65
+4/29/2022 18:17:42: [G_Auto 2] :  Store Value (Shared) for market: stake = 32
+4/29/2022 18:17:42: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 106.6
+4/29/2022 18:17:42: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.43
+4/29/2022 18:17:42: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.24
+4/29/2022 18:17:42: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.5
+4/29/2022 18:17:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:18:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:18:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:18:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:18:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:19:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:19:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:19:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 18:19:55: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 18:22:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:23:09: [G_Auto 1] :  Placed closure bet with greening on Sara Sorribes Tormo by Backing 30.29 at 1.31
+4/29/2022 18:23:09: [G_Auto 2] :  Store Text Value (Shared) for Sara Sorribes Tormo: aPoints = point: 0; games: 4; sets: 0 
+4/29/2022 18:23:09: [G_Auto 2] :  Store Text Value (Shared) for Sara Sorribes Tormo: aServing = serving:0
+4/29/2022 18:23:09: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Pavlyuchenkova: bPoints = point: 0; games: 2; sets: 0 
+4/29/2022 18:23:09: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Pavlyuchenkova: bServing = serving:2
+4/29/2022 18:23:09: [G_Auto 2] :  Store Value (Shared) for market: price = 1.31
+4/29/2022 18:23:09: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 67.24
+4/29/2022 18:23:09: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 69.65
+4/29/2022 18:23:09: [G_Auto 2] :  Store Value (Shared) for market: stake = 30.29
+4/29/2022 18:23:09: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 136.89
+4/29/2022 18:23:09: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.36
+4/29/2022 18:23:09: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.31
+4/29/2022 18:23:09: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.1
+4/29/2022 18:23:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:23:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:23:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 18:23:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 18:27:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:27:13: [G_Auto 1] :  € 34.78 Lay bet placed on Sara Sorribes Tormo at 1.23. Fully matched at 1.23.  Ref: 11074          ( Fill or kill bet with 15 seconds delay.   )
+4/29/2022 18:27:13: [G_Auto 2] :  Store Text Value (Shared) for Sara Sorribes Tormo: aPoints = point: 0; games: 5; sets: 0 
+4/29/2022 18:27:13: [G_Auto 2] :  Store Text Value (Shared) for Sara Sorribes Tormo: aServing = serving:1
+4/29/2022 18:27:13: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Pavlyuchenkova: bPoints = point: 0; games: 2; sets: 0 
+4/29/2022 18:27:13: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Pavlyuchenkova: bServing = serving:0
+4/29/2022 18:27:13: [G_Auto 2] :  Store Value (Shared) for market: price = 1.23
+4/29/2022 18:27:13: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 67.24
+4/29/2022 18:27:13: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 104.43
+4/29/2022 18:27:13: [G_Auto 2] :  Store Value (Shared) for market: stake = 34.78
+4/29/2022 18:27:13: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 171.67
+4/29/2022 18:27:13: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.79
+4/29/2022 18:27:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.23
+4/29/2022 18:27:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.8
+4/29/2022 18:27:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:27:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:27:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:28:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:28:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:28:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:28:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:29:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:29:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:29:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 18:29:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 18:29:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 18:30:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 18:32:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:32:13: [G_Auto 1] :  Placed closure bet with greening on Sara Sorribes Tormo by Backing 33.95 at 1.26
+4/29/2022 18:32:14: [G_Auto 2] :  Store Text Value (Shared) for Sara Sorribes Tormo: aPoints = point: 0; games: 5; sets: 0 
+4/29/2022 18:32:14: [G_Auto 2] :  Store Text Value (Shared) for Sara Sorribes Tormo: aServing = serving:0
+4/29/2022 18:32:14: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Pavlyuchenkova: bPoints = point: 0; games: 3; sets: 0 
+4/29/2022 18:32:14: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Pavlyuchenkova: bServing = serving:2
+4/29/2022 18:32:14: [G_Auto 2] :  Store Value (Shared) for market: price = 1.26
+4/29/2022 18:32:14: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 101.19
+4/29/2022 18:32:14: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 104.43
+4/29/2022 18:32:14: [G_Auto 2] :  Store Value (Shared) for market: stake = 33.95
+4/29/2022 18:32:14: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 205.62
+4/29/2022 18:32:14: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.17
+4/29/2022 18:32:14: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.27
+4/29/2022 18:32:14: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.7
+4/29/2022 18:32:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:32:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:32:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 18:32:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 18:33:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 18:33:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 18:39:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:39:36: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 1.19
+4/29/2022 18:39:36: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 6.2
+4/29/2022 18:39:41: [G_Auto 1] :  € 40.00 Lay bet placed on Sara Sorribes Tormo at 1.2. Fully matched at 1.19.  Ref: 11079          ( Fill or kill bet with 15 seconds delay.   )
+4/29/2022 18:39:42: [G_Auto 2] :  Store Text Value (Shared) for Sara Sorribes Tormo: aPoints = point: 0; games: 0; sets: 1 
+4/29/2022 18:39:42: [G_Auto 2] :  Store Text Value (Shared) for Sara Sorribes Tormo: aServing = serving:1
+4/29/2022 18:39:42: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Pavlyuchenkova: bPoints = point: 0; games: 0; sets: 0 
+4/29/2022 18:39:42: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Pavlyuchenkova: bServing = serving:0
+4/29/2022 18:39:42: [G_Auto 2] :  Store Value (Shared) for market: price = 1.19
+4/29/2022 18:39:42: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 101.19
+4/29/2022 18:39:42: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 144.43
+4/29/2022 18:39:42: [G_Auto 2] :  Store Value (Shared) for market: stake = 40
+4/29/2022 18:39:42: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 245.62
+4/29/2022 18:39:42: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.84
+4/29/2022 18:39:42: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.19
+4/29/2022 18:39:42: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 6.2
+4/29/2022 18:39:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:39:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:40:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:40:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:40:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:41:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:41:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:41:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:41:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:42:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:42:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:42:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:42:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:43:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:43:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:43:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:43:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:44:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:44:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 18:44:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 18:44:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 18:47:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:48:00: [G_Auto 1] :  Placed closure bet with greening on Sara Sorribes Tormo by Backing 35.79 at 1.33
+4/29/2022 18:48:00: [G_Auto 2] :  Store Text Value (Shared) for Sara Sorribes Tormo: aPoints = point: 0; games: 0; sets: 1 
+4/29/2022 18:48:00: [G_Auto 2] :  Store Text Value (Shared) for Sara Sorribes Tormo: aServing = serving:0
+4/29/2022 18:48:00: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Pavlyuchenkova: bPoints = point: 0; games: 1; sets: 0 
+4/29/2022 18:48:00: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Pavlyuchenkova: bServing = serving:2
+4/29/2022 18:48:00: [G_Auto 2] :  Store Value (Shared) for market: price = 1.33
+4/29/2022 18:48:00: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 136.98
+4/29/2022 18:48:00: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 144.43
+4/29/2022 18:48:00: [G_Auto 2] :  Store Value (Shared) for market: stake = 35.79
+4/29/2022 18:48:00: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 281.41
+4/29/2022 18:48:00: [G_Auto 2] :  Store Value (Shared) for market: pl = 7.3
+4/29/2022 18:48:00: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.33
+4/29/2022 18:48:00: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4
+4/29/2022 18:48:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:48:05: [G_Auto 2] :  Store Text Value (Shared) for Sara Sorribes Tormo: aPoints = point: 0; games: 0; sets: 1 
+4/29/2022 18:48:05: [G_Auto 2] :  Store Text Value (Shared) for Sara Sorribes Tormo: aServing = serving:0
+4/29/2022 18:48:05: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Pavlyuchenkova: bPoints = point: 0; games: 1; sets: 0 
+4/29/2022 18:48:05: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Pavlyuchenkova: bServing = serving:2
+4/29/2022 18:48:05: [G_Auto 2] :  Store Value (Shared) for market: price = 1.33
+4/29/2022 18:48:05: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 136.98
+4/29/2022 18:48:05: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 144.43
+4/29/2022 18:48:05: [G_Auto 2] :  Store Value (Shared) for market: stake = 35.79
+4/29/2022 18:48:05: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 281.41
+4/29/2022 18:48:05: [G_Auto 2] :  Store Value (Shared) for market: pl = 7.3
+4/29/2022 18:48:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.33
+4/29/2022 18:48:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.95
+4/29/2022 18:48:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:48:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:48:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:49:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:49:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:49:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:49:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:49:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 18:50:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 18:50:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 18:50:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 18:51:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:52:08: [G_Auto 1] :  € 16.33 Lay bet placed on Sara Sorribes Tormo at 1.49. Fully matched at 1.48.  Ref: 11084          ( Fill or kill bet with 15 seconds delay.   )
+4/29/2022 18:52:08: [G_Auto 2] :  Store Text Value (Shared) for Sara Sorribes Tormo: aPoints = point: 0; games: 0; sets: 1 
+4/29/2022 18:52:08: [G_Auto 2] :  Store Text Value (Shared) for Sara Sorribes Tormo: aServing = serving:1
+4/29/2022 18:52:08: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Pavlyuchenkova: bPoints = point: 0; games: 2; sets: 0 
+4/29/2022 18:52:08: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Pavlyuchenkova: bServing = serving:0
+4/29/2022 18:52:08: [G_Auto 2] :  Store Value (Shared) for market: price = 1.48
+4/29/2022 18:52:08: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 136.98
+4/29/2022 18:52:08: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 160.76
+4/29/2022 18:52:08: [G_Auto 2] :  Store Value (Shared) for market: stake = 16.33
+4/29/2022 18:52:08: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 297.74
+4/29/2022 18:52:08: [G_Auto 2] :  Store Value (Shared) for market: pl = 7.19
+4/29/2022 18:52:08: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.47
+4/29/2022 18:52:08: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.05
+4/29/2022 18:52:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:52:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:52:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 18:52:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 18:59:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 18:59:58: [G_Auto 1] :  Placed closure bet with greening on Sara Sorribes Tormo by Backing 14.30 at 1.69
+4/29/2022 18:59:58: [G_Auto 2] :  Store Text Value (Shared) for Sara Sorribes Tormo: aPoints = point: 0; games: 0; sets: 1 
+4/29/2022 18:59:58: [G_Auto 2] :  Store Text Value (Shared) for Sara Sorribes Tormo: aServing = serving:0
+4/29/2022 18:59:58: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Pavlyuchenkova: bPoints = point: 0; games: 3; sets: 0 
+4/29/2022 18:59:58: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Pavlyuchenkova: bServing = serving:2
+4/29/2022 18:59:58: [G_Auto 2] :  Store Value (Shared) for market: price = 1.71
+4/29/2022 18:59:58: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 151.28
+4/29/2022 18:59:58: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 160.76
+4/29/2022 18:59:58: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.3
+4/29/2022 18:59:58: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 312.04
+4/29/2022 18:59:58: [G_Auto 2] :  Store Value (Shared) for market: pl = 9.45
+4/29/2022 18:59:58: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.72
+4/29/2022 18:59:58: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.38
+4/29/2022 19:00:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:00:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:00:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:00:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:01:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:01:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:01:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:01:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:02:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:02:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:02:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 19:02:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 19:03:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 19:05:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:05:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:05:48: [G_Auto 1] :  € 8.16 Lay bet placed on Sara Sorribes Tormo at 1.98. Entirely unmatched when it initially reached the market.   Ref: 11087          ( Fill or kill bet with 15 seconds delay.   )
+4/29/2022 19:05:49: [G_Auto 2] :  Store Text Value (Shared) for Sara Sorribes Tormo: aPoints = point: 0; games: 0; sets: 1 
+4/29/2022 19:05:49: [G_Auto 2] :  Store Text Value (Shared) for Sara Sorribes Tormo: aServing = serving:1
+4/29/2022 19:05:49: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Pavlyuchenkova: bPoints = point: 0; games: 4; sets: 0 
+4/29/2022 19:05:49: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Pavlyuchenkova: bServing = serving:0
+4/29/2022 19:05:49: [G_Auto 2] :  Store Value (Shared) for market: price = 1.98
+4/29/2022 19:05:49: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 151.28
+4/29/2022 19:05:49: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 161.185
+4/29/2022 19:05:49: [G_Auto 2] :  Store Value (Shared) for market: stake = 0.425
+4/29/2022 19:05:49: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 312.465
+4/29/2022 19:05:49: [G_Auto 2] :  Store Value (Shared) for market: pl = 9.43
+4/29/2022 19:05:49: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.97
+4/29/2022 19:05:49: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2
+4/29/2022 19:05:53: [G_Auto 1] :  € 8.16 of unmatched bet (Ref:11087) was filled before remainder was killed.
+4/29/2022 19:06:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:06:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:06:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 19:06:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 19:06:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 19:09:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:09:54: [G_Auto 1] :  Placed closure bet with greening on Sara Sorribes Tormo by Backing 8.63 at 1.84
+4/29/2022 19:09:55: [G_Auto 2] :  Store Text Value (Shared) for Sara Sorribes Tormo: aPoints = point: 0; games: 1; sets: 1 
+4/29/2022 19:09:55: [G_Auto 2] :  Store Text Value (Shared) for Sara Sorribes Tormo: aServing = serving:0
+4/29/2022 19:09:55: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Pavlyuchenkova: bPoints = point: 0; games: 4; sets: 0 
+4/29/2022 19:09:55: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Pavlyuchenkova: bServing = serving:2
+4/29/2022 19:09:55: [G_Auto 2] :  Store Value (Shared) for market: price = 1.84
+4/29/2022 19:09:55: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 159.91
+4/29/2022 19:09:55: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 168.92
+4/29/2022 19:09:55: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.63
+4/29/2022 19:09:55: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 328.83
+4/29/2022 19:09:55: [G_Auto 2] :  Store Value (Shared) for market: pl = 8.83
+4/29/2022 19:09:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.87
+4/29/2022 19:09:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.14
+4/29/2022 19:09:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:10:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:10:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:10:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:10:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:11:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:11:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:11:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:11:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:12:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:12:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:12:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 19:12:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 19:13:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 19:15:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:15:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:15:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:16:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 19:16:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 19:16:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 19:19:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:19:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:19:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:20:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:20:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:20:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:20:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:21:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:21:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:21:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:21:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:22:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 19:22:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 19:25:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:25:19: [G_Auto 2] :  Store Value (Shared) for market: aSecondSetPrice = 2.06
+4/29/2022 19:25:19: [G_Auto 2] :  Store Value (Shared) for market: bSecondSetPrice = 1.94
+4/29/2022 19:25:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:25:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:25:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:26:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:26:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:26:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:26:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:27:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:27:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:27:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:27:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:28:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:28:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:28:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:28:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:29:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 19:29:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 19:29:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 19:39:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:39:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:39:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:39:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:40:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:40:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:40:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 19:40:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 19:41:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 19:42:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:42:23: [G_Auto 1] :  € 25.00 Lay bet placed on Sara Sorribes Tormo at 1.32. Fully matched at 1.31.  Ref: 11095          ( Fill or kill bet with 15 seconds delay.   )
+4/29/2022 19:42:24: [G_Auto 2] :  Store Text Value (Shared) for Sara Sorribes Tormo: aPoints = point: 0; games: 2; sets: 1 
+4/29/2022 19:42:24: [G_Auto 2] :  Store Text Value (Shared) for Sara Sorribes Tormo: aServing = serving:1
+4/29/2022 19:42:24: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Pavlyuchenkova: bPoints = point: 0; games: 0; sets: 1 
+4/29/2022 19:42:24: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Pavlyuchenkova: bServing = serving:0
+4/29/2022 19:42:24: [G_Auto 2] :  Store Value (Shared) for market: price = 1.31
+4/29/2022 19:42:24: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 159.91
+4/29/2022 19:42:24: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 193.92
+4/29/2022 19:42:24: [G_Auto 2] :  Store Value (Shared) for market: stake = 25
+4/29/2022 19:42:24: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 353.83
+4/29/2022 19:42:24: [G_Auto 2] :  Store Value (Shared) for market: pl = 8.64
+4/29/2022 19:42:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.3
+4/29/2022 19:42:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.3
+4/29/2022 19:42:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:42:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:42:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:43:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:43:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 19:43:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 19:43:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 19:45:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:45:43: [G_Auto 1] :  Placed closure bet with greening on Sara Sorribes Tormo by Backing 28.48 at 1.15
+4/29/2022 19:45:43: [G_Auto 2] :  Store Text Value (Shared) for Sara Sorribes Tormo: aPoints = point: 0; games: 3; sets: 1 
+4/29/2022 19:45:43: [G_Auto 2] :  Store Text Value (Shared) for Sara Sorribes Tormo: aServing = serving:0
+4/29/2022 19:45:43: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Pavlyuchenkova: bPoints = point: 0; games: 0; sets: 1 
+4/29/2022 19:45:43: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Pavlyuchenkova: bServing = serving:2
+4/29/2022 19:45:43: [G_Auto 2] :  Store Value (Shared) for market: price = 1.16
+4/29/2022 19:45:43: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 188.39
+4/29/2022 19:45:43: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 193.92
+4/29/2022 19:45:43: [G_Auto 2] :  Store Value (Shared) for market: stake = 28.48
+4/29/2022 19:45:43: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 382.31
+4/29/2022 19:45:43: [G_Auto 2] :  Store Value (Shared) for market: pl = 5.66
+4/29/2022 19:45:43: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.17
+4/29/2022 19:45:43: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 7.4
+4/29/2022 19:45:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:45:48: [G_Auto 2] :  Store Text Value (Shared) for Sara Sorribes Tormo: aPoints = point: 0; games: 3; sets: 1 
+4/29/2022 19:45:48: [G_Auto 2] :  Store Text Value (Shared) for Sara Sorribes Tormo: aServing = serving:0
+4/29/2022 19:45:48: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Pavlyuchenkova: bPoints = point: 0; games: 0; sets: 1 
+4/29/2022 19:45:48: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Pavlyuchenkova: bServing = serving:2
+4/29/2022 19:45:48: [G_Auto 2] :  Store Value (Shared) for market: price = 1.16
+4/29/2022 19:45:48: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 188.39
+4/29/2022 19:45:48: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 193.92
+4/29/2022 19:45:48: [G_Auto 2] :  Store Value (Shared) for market: stake = 28.48
+4/29/2022 19:45:48: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 382.31
+4/29/2022 19:45:48: [G_Auto 2] :  Store Value (Shared) for market: pl = 5.66
+4/29/2022 19:45:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.17
+4/29/2022 19:45:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 7
+4/29/2022 19:46:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:46:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:46:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:46:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:47:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:47:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:47:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:47:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:47:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 19:48:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 19:49:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:49:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:50:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:50:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:50:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 19:50:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 19:51:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 19:54:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:54:15: [G_Auto 1] :  While Placing closure bet with greening on, unable to place € 0.28 Lay bet at 1.02 on Sara Sorribes Tormo due to betfair's rules regarding payout/liability rounding.
+4/29/2022 19:54:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:54:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:54:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:55:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:55:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:55:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:55:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:56:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 19:56:16: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 19:56:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 19:56:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 19:57:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 19:57:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 19:59:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 20:00:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 20:00:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 20:00:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 20:00:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 20:01:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 20:01:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 20:05:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 20:05:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 20:05:37: [G_Auto 1] :  Placed closure bet with greening on Sara Sorribes Tormo by Laying 0.27 at 1.07
+4/29/2022 20:05:37: [G_Auto 2] :  Store Text Value (Shared) for Sara Sorribes Tormo: aPoints = point: 0; games: 5; sets: 1 
+4/29/2022 20:05:37: [G_Auto 2] :  Store Text Value (Shared) for Sara Sorribes Tormo: aServing = serving:0
+4/29/2022 20:05:37: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Pavlyuchenkova: bPoints = point: 0; games: 2; sets: 1 
+4/29/2022 20:05:37: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Pavlyuchenkova: bServing = serving:2
+4/29/2022 20:05:37: [G_Auto 2] :  Store Value (Shared) for market: price = 1.07
+4/29/2022 20:05:37: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 188.39
+4/29/2022 20:05:37: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 194.19
+4/29/2022 20:05:37: [G_Auto 2] :  Store Value (Shared) for market: stake = 0.27
+4/29/2022 20:05:37: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 382.58
+4/29/2022 20:05:37: [G_Auto 2] :  Store Value (Shared) for market: pl = 5.68
+4/29/2022 20:05:37: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.07
+4/29/2022 20:05:37: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 17.5
+4/29/2022 20:05:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 20:06:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 20:06:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 20:06:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 20:06:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 20:07:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 20:07:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 20:07:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 20:07:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 20:07:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 20:08:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 20:10:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 20:11:00: [G_Auto 1] :  € 47.06 Lay bet placed on Sara Sorribes Tormo at 1.17. Fully matched at 1.16.  Ref: 11105          ( Fill or kill bet with 15 seconds delay.   )
+4/29/2022 20:11:00: [G_Auto 2] :  Store Text Value (Shared) for Sara Sorribes Tormo: aPoints = point: 0; games: 5; sets: 1 
+4/29/2022 20:11:00: [G_Auto 2] :  Store Text Value (Shared) for Sara Sorribes Tormo: aServing = serving:1
+4/29/2022 20:11:00: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Pavlyuchenkova: bPoints = point: 0; games: 3; sets: 1 
+4/29/2022 20:11:00: [G_Auto 2] :  Store Text Value (Shared) for Anastasia Pavlyuchenkova: bServing = serving:0
+4/29/2022 20:11:00: [G_Auto 2] :  Store Value (Shared) for market: price = 1.16
+4/29/2022 20:11:00: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 188.39
+4/29/2022 20:11:00: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 241.25
+4/29/2022 20:11:00: [G_Auto 2] :  Store Value (Shared) for market: stake = 47.06
+4/29/2022 20:11:00: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 429.64
+4/29/2022 20:11:00: [G_Auto 2] :  Store Value (Shared) for market: pl = 5.28
+4/29/2022 20:11:00: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.15
+4/29/2022 20:11:00: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 7.6
+4/29/2022 20:11:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 20:11:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 20:11:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 20:11:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 20:12:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 20:12:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 20:12:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/29/2022 20:16:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/29/2022 20:16:39:  Guardian has detected that the market is suspended

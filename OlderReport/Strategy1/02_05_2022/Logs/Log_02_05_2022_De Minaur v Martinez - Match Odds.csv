@@ -1,0 +1,786 @@
+5/2/2022 10:00:22: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: info = marketName: De Minaur v Martinez - Match Odds; runnerA: Alex De Minaur; runnerB: Pedro Martinez 
+5/2/2022 10:00:22: [G_Auto 2] :  Store Value (Shared) for market: aId = 10109527
+5/2/2022 10:00:22: [G_Auto 2] :  Store Value (Shared) for market: bId = 13181195
+5/2/2022 11:08:11:  Guardian has detected that the market is in-play
+5/2/2022 11:08:11:  Guardian has detected that the market is suspended
+5/2/2022 11:08:15: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.54; bBsp: 2.86; volume: 74309.69 
+5/2/2022 11:08:15: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.54; bBsp: 2.86; volume: 74309.69 
+5/2/2022 11:08:15:  Guardian has detected that the market is now unsuspended
+5/2/2022 11:08:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 11:08:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 11:10:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 11:11:10: [G_Auto 1] :  € 11.27 Lay bet placed on Alex De Minaur at 1.71. Fully matched at 1.71.  Ref: 10000          ( Fill or kill bet with 15 seconds delay.   )
+5/2/2022 11:11:11: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aPoints = point: 0; games: 0; sets: 0 
+5/2/2022 11:11:11: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aServing = serving:1
+5/2/2022 11:11:11: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bPoints = point: 0; games: 1; sets: 0 
+5/2/2022 11:11:11: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bServing = serving:0
+5/2/2022 11:11:11: [G_Auto 2] :  Store Value (Shared) for market: price = 1.71
+5/2/2022 11:11:11: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+5/2/2022 11:11:11: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 11.27
+5/2/2022 11:11:11: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.27
+5/2/2022 11:11:11: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 11.27
+5/2/2022 11:11:11: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.13
+5/2/2022 11:11:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.69
+5/2/2022 11:11:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.48
+5/2/2022 11:11:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 11:11:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 11:11:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 11:12:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 11:12:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 11:12:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 11:15:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 11:16:11: [G_Auto 1] :  Placed closure bet with greening on Alex De Minaur by Backing 12.27 at 1.57
+5/2/2022 11:16:12: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aPoints = point: 0; games: 1; sets: 0 
+5/2/2022 11:16:12: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aServing = serving:0
+5/2/2022 11:16:12: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bPoints = point: 0; games: 1; sets: 0 
+5/2/2022 11:16:12: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bServing = serving:2
+5/2/2022 11:16:12: [G_Auto 2] :  Store Value (Shared) for market: price = 1.57
+5/2/2022 11:16:12: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 12.27
+5/2/2022 11:16:12: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 11.27
+5/2/2022 11:16:12: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.27
+5/2/2022 11:16:12: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 23.54
+5/2/2022 11:16:12: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.01
+5/2/2022 11:16:12: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.59
+5/2/2022 11:16:12: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.68
+5/2/2022 11:16:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 11:16:19: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aPoints = point: 0; games: 1; sets: 0 
+5/2/2022 11:16:19: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aServing = serving:0
+5/2/2022 11:16:19: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bPoints = point: 0; games: 1; sets: 0 
+5/2/2022 11:16:19: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bServing = serving:2
+5/2/2022 11:16:19: [G_Auto 2] :  Store Value (Shared) for market: price = 1.57
+5/2/2022 11:16:19: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 12.27
+5/2/2022 11:16:19: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 11.27
+5/2/2022 11:16:19: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.27
+5/2/2022 11:16:19: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 23.54
+5/2/2022 11:16:19: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.01
+5/2/2022 11:16:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.59
+5/2/2022 11:16:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.68
+5/2/2022 11:16:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 11:16:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 11:19:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 11:19:44: [G_Auto 1] :  € 10.53 Lay bet placed on Alex De Minaur at 1.76. Fully matched at 1.75.  Ref: 10003          ( Fill or kill bet with 15 seconds delay.   )
+5/2/2022 11:19:45: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aPoints = point: 0; games: 1; sets: 0 
+5/2/2022 11:19:45: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aServing = serving:1
+5/2/2022 11:19:45: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bPoints = point: 0; games: 2; sets: 0 
+5/2/2022 11:19:45: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bServing = serving:0
+5/2/2022 11:19:45: [G_Auto 2] :  Store Value (Shared) for market: price = 1.75
+5/2/2022 11:19:45: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 12.27
+5/2/2022 11:19:45: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 21.8
+5/2/2022 11:19:45: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.53
+5/2/2022 11:19:45: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 34.07
+5/2/2022 11:19:45: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.06
+5/2/2022 11:19:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.75
+5/2/2022 11:19:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.32
+5/2/2022 11:19:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 11:20:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 11:20:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 11:20:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 11:21:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 11:21:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 11:21:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 11:21:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 11:22:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 11:24:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 11:24:30: [G_Auto 1] :  Placed closure bet with greening on Alex De Minaur by Backing 11.24 at 1.64
+5/2/2022 11:24:31: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aPoints = point: 0; games: 2; sets: 0 
+5/2/2022 11:24:31: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aServing = serving:0
+5/2/2022 11:24:31: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bPoints = point: 0; games: 2; sets: 0 
+5/2/2022 11:24:31: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bServing = serving:2
+5/2/2022 11:24:31: [G_Auto 2] :  Store Value (Shared) for market: price = 1.64
+5/2/2022 11:24:31: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 23.51
+5/2/2022 11:24:31: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 21.8
+5/2/2022 11:24:31: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.24
+5/2/2022 11:24:31: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 45.31
+5/2/2022 11:24:31: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.71
+5/2/2022 11:24:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.65
+5/2/2022 11:24:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.52
+5/2/2022 11:24:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 11:24:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 11:24:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 11:25:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 11:28:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 11:28:48: [G_Auto 1] :  € 9.76 Lay bet placed on Alex De Minaur at 1.82. Fully matched at 1.82.  Ref: 10010          ( Fill or kill bet with 15 seconds delay.   )
+5/2/2022 11:28:49: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aPoints = point: 0; games: 2; sets: 0 
+5/2/2022 11:28:49: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aServing = serving:1
+5/2/2022 11:28:49: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bPoints = point: 0; games: 3; sets: 0 
+5/2/2022 11:28:49: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bServing = serving:0
+5/2/2022 11:28:49: [G_Auto 2] :  Store Value (Shared) for market: price = 1.82
+5/2/2022 11:28:49: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 23.51
+5/2/2022 11:28:49: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 31.56
+5/2/2022 11:28:49: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.76
+5/2/2022 11:28:49: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 55.07
+5/2/2022 11:28:49: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.76
+5/2/2022 11:28:49: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.82
+5/2/2022 11:28:49: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.22
+5/2/2022 11:28:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 11:29:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 11:29:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 11:29:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 11:30:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 11:30:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 11:30:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 11:31:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 11:33:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 11:33:57: [G_Auto 1] :  Placed closure bet with greening on Alex De Minaur by Backing 10.39 at 1.71
+5/2/2022 11:33:57: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aPoints = point: 0; games: 3; sets: 0 
+5/2/2022 11:33:57: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aServing = serving:0
+5/2/2022 11:33:57: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bPoints = point: 0; games: 3; sets: 0 
+5/2/2022 11:33:57: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bServing = serving:2
+5/2/2022 11:33:57: [G_Auto 2] :  Store Value (Shared) for market: price = 1.71
+5/2/2022 11:33:57: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 33.9
+5/2/2022 11:33:57: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 31.56
+5/2/2022 11:33:57: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.39
+5/2/2022 11:33:57: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 65.46
+5/2/2022 11:33:57: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.34
+5/2/2022 11:33:57: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.72
+5/2/2022 11:33:57: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.4
+5/2/2022 11:34:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 11:34:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 11:34:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 11:34:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 11:35:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 11:35:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 11:35:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 11:37:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 11:37:34: [G_Auto 1] :  € 22.86 Lay bet placed on Alex De Minaur at 1.35. Fully matched at 1.34.  Ref: 10016          ( Fill or kill bet with 15 seconds delay.   )
+5/2/2022 11:37:34: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aPoints = point: 0; games: 4; sets: 0 
+5/2/2022 11:37:34: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aServing = serving:1
+5/2/2022 11:37:34: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bPoints = point: 0; games: 3; sets: 0 
+5/2/2022 11:37:34: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bServing = serving:0
+5/2/2022 11:37:34: [G_Auto 2] :  Store Value (Shared) for market: price = 1.34
+5/2/2022 11:37:34: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 33.9
+5/2/2022 11:37:34: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 54.42
+5/2/2022 11:37:34: [G_Auto 2] :  Store Value (Shared) for market: stake = 22.86
+5/2/2022 11:37:34: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 88.32
+5/2/2022 11:37:34: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.51
+5/2/2022 11:37:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.34
+5/2/2022 11:37:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.9
+5/2/2022 11:37:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 11:37:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 11:38:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 11:38:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 11:38:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 11:39:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 11:39:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 11:39:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 11:39:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 11:42:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 11:42:18: [G_Auto 1] :  Placed closure bet with greening on Alex De Minaur by Backing 17.81 at 1.72
+5/2/2022 11:42:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 11:42:19: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aPoints = point: 0; games: 4; sets: 0 
+5/2/2022 11:42:19: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aServing = serving:0
+5/2/2022 11:42:19: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bPoints = point: 0; games: 4; sets: 0 
+5/2/2022 11:42:19: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bServing = serving:2
+5/2/2022 11:42:19: [G_Auto 2] :  Store Value (Shared) for market: price = 1.72
+5/2/2022 11:42:19: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 51.71
+5/2/2022 11:42:19: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 54.42
+5/2/2022 11:42:19: [G_Auto 2] :  Store Value (Shared) for market: stake = 17.81
+5/2/2022 11:42:19: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 106.13
+5/2/2022 11:42:19: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.66
+5/2/2022 11:42:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.72
+5/2/2022 11:42:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.4
+5/2/2022 11:42:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 11:42:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 11:43:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 11:52:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 11:52:44: [G_Auto 1] :  € 8.60 Lay bet placed on Alex De Minaur at 1.93. Fully matched at 1.92.  Ref: 10025          ( Fill or kill bet with 15 seconds delay.   )
+5/2/2022 11:52:44: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aPoints = point: 0; games: 4; sets: 0 
+5/2/2022 11:52:44: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aServing = serving:1
+5/2/2022 11:52:44: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bPoints = point: 0; games: 5; sets: 0 
+5/2/2022 11:52:44: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bServing = serving:0
+5/2/2022 11:52:44: [G_Auto 2] :  Store Value (Shared) for market: price = 1.92
+5/2/2022 11:52:44: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 51.71
+5/2/2022 11:52:44: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 63.02
+5/2/2022 11:52:44: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.6
+5/2/2022 11:52:44: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 114.73
+5/2/2022 11:52:44: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.57
+5/2/2022 11:52:44: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.91
+5/2/2022 11:52:44: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.06
+5/2/2022 11:52:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 11:53:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 11:53:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 11:53:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 11:54:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 11:54:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 11:54:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 11:54:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 11:55:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 11:55:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 11:57:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 11:57:41: [G_Auto 1] :  Placed closure bet with greening on Alex De Minaur by Backing 10.07 at 1.64
+5/2/2022 11:57:42: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aPoints = point: 0; games: 5; sets: 0 
+5/2/2022 11:57:42: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aServing = serving:0
+5/2/2022 11:57:42: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bPoints = point: 0; games: 5; sets: 0 
+5/2/2022 11:57:42: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bServing = serving:2
+5/2/2022 11:57:42: [G_Auto 2] :  Store Value (Shared) for market: price = 1.64
+5/2/2022 11:57:42: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 61.78
+5/2/2022 11:57:42: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 63.02
+5/2/2022 11:57:42: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.07
+5/2/2022 11:57:42: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 124.8
+5/2/2022 11:57:42: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.23
+5/2/2022 11:57:42: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.65
+5/2/2022 11:57:42: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.52
+5/2/2022 11:57:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 11:57:49: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aPoints = point: 0; games: 5; sets: 0 
+5/2/2022 11:57:49: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aServing = serving:0
+5/2/2022 11:57:49: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bPoints = point: 0; games: 5; sets: 0 
+5/2/2022 11:57:49: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bServing = serving:2
+5/2/2022 11:57:49: [G_Auto 2] :  Store Value (Shared) for market: price = 1.64
+5/2/2022 11:57:49: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 61.78
+5/2/2022 11:57:49: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 63.02
+5/2/2022 11:57:49: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.07
+5/2/2022 11:57:49: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 124.8
+5/2/2022 11:57:49: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.23
+5/2/2022 11:57:49: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.65
+5/2/2022 11:57:49: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.5
+5/2/2022 11:58:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 11:58:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 11:58:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 12:01:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 12:01:43: [G_Auto 1] :  € 8.60 Lay bet placed on Alex De Minaur at 1.93. Fully matched at 1.92.  Ref: 10031          ( Fill or kill bet with 15 seconds delay.   )
+5/2/2022 12:01:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 12:01:44: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aPoints = point: 0; games: 5; sets: 0 
+5/2/2022 12:01:44: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aServing = serving:1
+5/2/2022 12:01:44: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bPoints = point: 0; games: 6; sets: 0 
+5/2/2022 12:01:44: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bServing = serving:0
+5/2/2022 12:01:44: [G_Auto 2] :  Store Value (Shared) for market: price = 1.92
+5/2/2022 12:01:44: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 61.78
+5/2/2022 12:01:44: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 71.62
+5/2/2022 12:01:44: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.6
+5/2/2022 12:01:44: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 133.4
+5/2/2022 12:01:44: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.13
+5/2/2022 12:01:44: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.91
+5/2/2022 12:01:44: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.08
+5/2/2022 12:02:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 12:02:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 12:02:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 12:02:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 12:03:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 12:03:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 12:03:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 12:03:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 12:04:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 12:09:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 12:09:49: [G_Auto 1] :  Placed closure bet with greening on Alex De Minaur by Backing 9.88 at 1.67
+5/2/2022 12:09:49: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aPoints = point: 0; games: 6; sets: 0 
+5/2/2022 12:09:49: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aServing = serving:0
+5/2/2022 12:09:49: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bPoints = point: 0; games: 6; sets: 0 
+5/2/2022 12:09:49: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bServing = serving:2
+5/2/2022 12:09:49: [G_Auto 2] :  Store Value (Shared) for market: price = 1.67
+5/2/2022 12:09:49: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 71.66
+5/2/2022 12:09:49: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 71.62
+5/2/2022 12:09:49: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.88
+5/2/2022 12:09:49: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 143.28
+5/2/2022 12:09:49: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.05
+5/2/2022 12:09:49: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.67
+5/2/2022 12:09:49: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.48
+5/2/2022 12:10:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 12:10:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 12:10:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 12:10:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 12:11:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 12:11:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 12:11:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 12:12:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 12:12:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 12:12:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 12:13:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 12:13:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 12:13:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 12:13:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 12:14:16: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 12:14:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 12:14:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 12:15:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 12:15:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 12:15:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 12:16:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 12:16:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 12:16:30: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 1.2
+5/2/2022 12:16:30: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 5.9
+5/2/2022 12:16:36: [G_Auto 1] :  € 36.36 Lay bet placed on Alex De Minaur at 1.22. Fully matched at 1.21.  Ref: 10039          ( Fill or kill bet with 15 seconds delay.   )
+5/2/2022 12:16:37: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aPoints = point: 0; games: 0; sets: 1 
+5/2/2022 12:16:37: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aServing = serving:1
+5/2/2022 12:16:37: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bPoints = point: 0; games: 0; sets: 0 
+5/2/2022 12:16:37: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bServing = serving:0
+5/2/2022 12:16:37: [G_Auto 2] :  Store Value (Shared) for market: price = 1.21
+5/2/2022 12:16:37: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 71.66
+5/2/2022 12:16:37: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 107.98
+5/2/2022 12:16:37: [G_Auto 2] :  Store Value (Shared) for market: stake = 36.36
+5/2/2022 12:16:37: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 179.64
+5/2/2022 12:16:37: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.35
+5/2/2022 12:16:37: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.21
+5/2/2022 12:16:37: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.9
+5/2/2022 12:16:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 12:16:44: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aPoints = point: 0; games: 0; sets: 1 
+5/2/2022 12:16:44: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aServing = serving:1
+5/2/2022 12:16:44: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bPoints = point: 0; games: 0; sets: 0 
+5/2/2022 12:16:44: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bServing = serving:0
+5/2/2022 12:16:44: [G_Auto 2] :  Store Value (Shared) for market: price = 1.21
+5/2/2022 12:16:44: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 71.66
+5/2/2022 12:16:44: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 107.98
+5/2/2022 12:16:44: [G_Auto 2] :  Store Value (Shared) for market: stake = 36.36
+5/2/2022 12:16:44: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 179.64
+5/2/2022 12:16:44: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.35
+5/2/2022 12:16:44: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.21
+5/2/2022 12:16:44: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.8
+5/2/2022 12:16:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 12:17:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 12:17:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 12:17:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 12:18:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 12:18:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 12:18:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 12:19:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 12:19:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 12:19:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 12:20:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 12:20:16: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 12:20:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 12:22:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 12:22:59: [G_Auto 1] :  Placed closure bet with greening on Alex De Minaur by Backing 31.21 at 1.41
+5/2/2022 12:22:59: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aPoints = point: 0; games: 0; sets: 1 
+5/2/2022 12:22:59: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aServing = serving:0
+5/2/2022 12:22:59: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bPoints = point: 0; games: 1; sets: 0 
+5/2/2022 12:22:59: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bServing = serving:2
+5/2/2022 12:22:59: [G_Auto 2] :  Store Value (Shared) for market: price = 1.41
+5/2/2022 12:22:59: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 102.87
+5/2/2022 12:22:59: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 107.98
+5/2/2022 12:22:59: [G_Auto 2] :  Store Value (Shared) for market: stake = 31.21
+5/2/2022 12:22:59: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 210.85
+5/2/2022 12:22:59: [G_Auto 2] :  Store Value (Shared) for market: pl = 5.01
+5/2/2022 12:22:59: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.41
+5/2/2022 12:22:59: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.45
+5/2/2022 12:23:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 12:23:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 12:23:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 12:23:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 12:24:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 12:32:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 12:32:16: [G_Auto 1] :  € 16.33 Lay bet placed on Alex De Minaur at 1.49. Fully matched at 1.48.  Ref: 10050          ( Fill or kill bet with 15 seconds delay.   )
+5/2/2022 12:32:16: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aPoints = point: 0; games: 0; sets: 1 
+5/2/2022 12:32:16: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aServing = serving:1
+5/2/2022 12:32:16: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bPoints = point: 0; games: 2; sets: 0 
+5/2/2022 12:32:16: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bServing = serving:0
+5/2/2022 12:32:16: [G_Auto 2] :  Store Value (Shared) for market: price = 1.48
+5/2/2022 12:32:16: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 102.87
+5/2/2022 12:32:16: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 124.31
+5/2/2022 12:32:16: [G_Auto 2] :  Store Value (Shared) for market: stake = 16.33
+5/2/2022 12:32:16: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 227.18
+5/2/2022 12:32:16: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.9
+5/2/2022 12:32:16: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.48
+5/2/2022 12:32:16: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.05
+5/2/2022 12:32:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 12:32:23: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aPoints = point: 0; games: 0; sets: 1 
+5/2/2022 12:32:23: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aServing = serving:1
+5/2/2022 12:32:23: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bPoints = point: 0; games: 2; sets: 0 
+5/2/2022 12:32:23: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bServing = serving:0
+5/2/2022 12:32:23: [G_Auto 2] :  Store Value (Shared) for market: price = 1.48
+5/2/2022 12:32:23: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 102.87
+5/2/2022 12:32:23: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 124.31
+5/2/2022 12:32:23: [G_Auto 2] :  Store Value (Shared) for market: stake = 16.33
+5/2/2022 12:32:23: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 227.18
+5/2/2022 12:32:23: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.79
+5/2/2022 12:32:23: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.47
+5/2/2022 12:32:23: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.1
+5/2/2022 12:32:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 12:32:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 12:33:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 12:39:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 12:39:35: [G_Auto 1] :  Placed closure bet with greening on Alex De Minaur by Backing 17.02 at 1.42
+5/2/2022 12:39:36: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aPoints = point: 0; games: 1; sets: 1 
+5/2/2022 12:39:36: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aServing = serving:0
+5/2/2022 12:39:36: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bPoints = point: 0; games: 2; sets: 0 
+5/2/2022 12:39:36: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bServing = serving:2
+5/2/2022 12:39:36: [G_Auto 2] :  Store Value (Shared) for market: price = 1.42
+5/2/2022 12:39:36: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 119.89
+5/2/2022 12:39:36: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 124.31
+5/2/2022 12:39:36: [G_Auto 2] :  Store Value (Shared) for market: stake = 17.02
+5/2/2022 12:39:36: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 244.2
+5/2/2022 12:39:36: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.33
+5/2/2022 12:39:36: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.43
+5/2/2022 12:39:36: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.3
+5/2/2022 12:39:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 12:39:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 12:40:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 12:40:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 12:40:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 12:41:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 12:41:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 12:41:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 12:42:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 12:42:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 12:42:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 12:42:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 12:44:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 12:44:39: [G_Auto 1] :  € 14.29 Lay bet placed on Alex De Minaur at 1.56. Fully matched at 1.55.  Ref: 10059          ( Fill or kill bet with 15 seconds delay.   )
+5/2/2022 12:44:39: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aPoints = point: 0; games: 1; sets: 1 
+5/2/2022 12:44:39: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aServing = serving:1
+5/2/2022 12:44:39: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bPoints = point: 0; games: 3; sets: 0 
+5/2/2022 12:44:39: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bServing = serving:0
+5/2/2022 12:44:39: [G_Auto 2] :  Store Value (Shared) for market: price = 1.55
+5/2/2022 12:44:39: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 119.89
+5/2/2022 12:44:39: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 138.6
+5/2/2022 12:44:39: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.29
+5/2/2022 12:44:39: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 258.49
+5/2/2022 12:44:39: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.33
+5/2/2022 12:44:39: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.55
+5/2/2022 12:44:39: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.82
+5/2/2022 12:44:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 12:44:46: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aPoints = point: 0; games: 1; sets: 1 
+5/2/2022 12:44:46: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aServing = serving:1
+5/2/2022 12:44:46: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bPoints = point: 0; games: 3; sets: 0 
+5/2/2022 12:44:46: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bServing = serving:0
+5/2/2022 12:44:46: [G_Auto 2] :  Store Value (Shared) for market: price = 1.55
+5/2/2022 12:44:46: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 119.89
+5/2/2022 12:44:46: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 138.6
+5/2/2022 12:44:46: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.29
+5/2/2022 12:44:46: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 258.49
+5/2/2022 12:44:46: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.33
+5/2/2022 12:44:46: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.56
+5/2/2022 12:44:46: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.8
+5/2/2022 12:45:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 12:45:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 12:45:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 12:45:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 12:51:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 12:52:02: [G_Auto 1] :  Placed closure bet with greening on Alex De Minaur by Backing 11.97 at 1.85
+5/2/2022 12:52:02: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aPoints = point: 0; games: 1; sets: 1 
+5/2/2022 12:52:02: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aServing = serving:0
+5/2/2022 12:52:02: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bPoints = point: 0; games: 4; sets: 0 
+5/2/2022 12:52:02: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bServing = serving:2
+5/2/2022 12:52:02: [G_Auto 2] :  Store Value (Shared) for market: price = 1.85
+5/2/2022 12:52:02: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 131.86
+5/2/2022 12:52:02: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 138.6
+5/2/2022 12:52:02: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.97
+5/2/2022 12:52:02: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 270.46
+5/2/2022 12:52:02: [G_Auto 2] :  Store Value (Shared) for market: pl = 6.61
+5/2/2022 12:52:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.85
+5/2/2022 12:52:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.18
+5/2/2022 12:52:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 12:52:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 12:52:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 12:52:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 12:53:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 12:53:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 12:53:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 12:54:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 12:54:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 12:54:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 12:54:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 12:55:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 12:59:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:00:01: [G_Auto 1] :  € 8.42 Lay bet placed on Alex De Minaur at 1.95. Fully matched at 1.94.  Ref: 10067          ( Fill or kill bet with 15 seconds delay.   )
+5/2/2022 13:00:02: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aPoints = point: 0; games: 1; sets: 1 
+5/2/2022 13:00:02: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aServing = serving:1
+5/2/2022 13:00:02: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bPoints = point: 0; games: 5; sets: 0 
+5/2/2022 13:00:02: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bServing = serving:0
+5/2/2022 13:00:02: [G_Auto 2] :  Store Value (Shared) for market: price = 1.94
+5/2/2022 13:00:02: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 131.86
+5/2/2022 13:00:02: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 147.02
+5/2/2022 13:00:02: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.42
+5/2/2022 13:00:02: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 278.88
+5/2/2022 13:00:02: [G_Auto 2] :  Store Value (Shared) for market: pl = 6.57
+5/2/2022 13:00:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.93
+5/2/2022 13:00:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.08
+5/2/2022 13:00:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:00:09: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aPoints = point: 0; games: 1; sets: 1 
+5/2/2022 13:00:09: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aServing = serving:1
+5/2/2022 13:00:09: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bPoints = point: 0; games: 5; sets: 0 
+5/2/2022 13:00:09: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bServing = serving:0
+5/2/2022 13:00:09: [G_Auto 2] :  Store Value (Shared) for market: price = 1.94
+5/2/2022 13:00:09: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 131.86
+5/2/2022 13:00:09: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 147.02
+5/2/2022 13:00:09: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.42
+5/2/2022 13:00:09: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 278.88
+5/2/2022 13:00:09: [G_Auto 2] :  Store Value (Shared) for market: pl = 6.57
+5/2/2022 13:00:09: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.93
+5/2/2022 13:00:09: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.06
+5/2/2022 13:00:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:00:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 13:00:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 13:02:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:02:27: [G_Auto 2] :  Store Value (Shared) for market: aSecondSetPrice = 2.14
+5/2/2022 13:02:27: [G_Auto 2] :  Store Value (Shared) for market: bSecondSetPrice = 1.88
+5/2/2022 13:02:34: [G_Auto 1] :  € 8.99 Lay bet placed on Pedro Martinez at 1.89. Fully matched at 1.89.  Ref: 10070          ( Fill or kill bet with 15 seconds delay.   )
+5/2/2022 13:02:34: [G_Auto 1] :  Placed closure bet with greening on Alex De Minaur by Backing 7.71 at 2.12
+5/2/2022 13:02:34: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aPoints = point: 0; games: 0; sets: 1 
+5/2/2022 13:02:34: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aServing = serving:0
+5/2/2022 13:02:34: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bPoints = point: 0; games: 0; sets: 1 
+5/2/2022 13:02:34: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bServing = serving:2
+5/2/2022 13:02:34: [G_Auto 2] :  Store Value (Shared) for market: price = 1.89
+5/2/2022 13:02:34: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 139.57
+5/2/2022 13:02:34: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 156.01
+5/2/2022 13:02:34: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.99
+5/2/2022 13:02:34: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 295.58
+5/2/2022 13:02:34: [G_Auto 2] :  Store Value (Shared) for market: pl = 7.16
+5/2/2022 13:02:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.16
+5/2/2022 13:02:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.86
+5/2/2022 13:02:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:02:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:03:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:03:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:03:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:04:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:04:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:04:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:04:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:05:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:05:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:05:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:06:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:06:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:06:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:07:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:07:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:07:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:07:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:08:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:08:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 13:08:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 13:09:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 13:10:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:10:37: [G_Auto 1] :  Placed closure bet with greening on Pedro Martinez by Backing 10.69 at 1.59
+5/2/2022 13:10:38: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aPoints = point: 0; games: 0; sets: 1 
+5/2/2022 13:10:38: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aServing = serving:1
+5/2/2022 13:10:38: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bPoints = point: 0; games: 1; sets: 1 
+5/2/2022 13:10:38: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bServing = serving:0
+5/2/2022 13:10:38: [G_Auto 2] :  Store Value (Shared) for market: price = 1.59
+5/2/2022 13:10:38: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 150.26
+5/2/2022 13:10:38: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 156.01
+5/2/2022 13:10:38: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.69
+5/2/2022 13:10:38: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 306.27
+5/2/2022 13:10:38: [G_Auto 2] :  Store Value (Shared) for market: pl = 5.64
+5/2/2022 13:10:38: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.62
+5/2/2022 13:10:38: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.61
+5/2/2022 13:10:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:10:45: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aPoints = point: 0; games: 0; sets: 1 
+5/2/2022 13:10:45: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aServing = serving:1
+5/2/2022 13:10:45: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bPoints = point: 0; games: 1; sets: 1 
+5/2/2022 13:10:45: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bServing = serving:0
+5/2/2022 13:10:45: [G_Auto 2] :  Store Value (Shared) for market: price = 1.59
+5/2/2022 13:10:45: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 150.26
+5/2/2022 13:10:45: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 156.01
+5/2/2022 13:10:45: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.69
+5/2/2022 13:10:45: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 306.27
+5/2/2022 13:10:45: [G_Auto 2] :  Store Value (Shared) for market: pl = 5.64
+5/2/2022 13:10:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.64
+5/2/2022 13:10:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.6
+5/2/2022 13:10:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:11:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:11:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 13:11:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 13:12:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 13:20:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:20:18: [G_Auto 1] :  € 9.41 Lay bet placed on Pedro Martinez at 1.85. Fully matched at 1.85.  Ref: 10083          ( Fill or kill bet with 15 seconds delay.   )
+5/2/2022 13:20:18: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aPoints = point: 0; games: 1; sets: 1 
+5/2/2022 13:20:18: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aServing = serving:0
+5/2/2022 13:20:18: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bPoints = point: 0; games: 1; sets: 1 
+5/2/2022 13:20:18: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bServing = serving:2
+5/2/2022 13:20:18: [G_Auto 2] :  Store Value (Shared) for market: price = 1.85
+5/2/2022 13:20:18: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 150.26
+5/2/2022 13:20:18: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 165.42
+5/2/2022 13:20:18: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.41
+5/2/2022 13:20:18: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 315.68
+5/2/2022 13:20:18: [G_Auto 2] :  Store Value (Shared) for market: pl = 5.6
+5/2/2022 13:20:18: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.18
+5/2/2022 13:20:18: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.84
+5/2/2022 13:20:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:20:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:20:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 13:21:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 13:21:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 13:24:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:24:29: [G_Auto 1] :  Placed closure bet with greening on Pedro Martinez by Backing 11.08 at 1.57
+5/2/2022 13:24:29: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aPoints = point: 0; games: 1; sets: 1 
+5/2/2022 13:24:29: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aServing = serving:1
+5/2/2022 13:24:29: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bPoints = point: 0; games: 2; sets: 1 
+5/2/2022 13:24:29: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bServing = serving:0
+5/2/2022 13:24:29: [G_Auto 2] :  Store Value (Shared) for market: price = 1.57
+5/2/2022 13:24:29: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 161.34
+5/2/2022 13:24:29: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 165.42
+5/2/2022 13:24:29: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.08
+5/2/2022 13:24:29: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 326.76
+5/2/2022 13:24:29: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.01
+5/2/2022 13:24:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.72
+5/2/2022 13:24:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.58
+5/2/2022 13:24:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:24:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:25:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:25:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:25:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:26:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:26:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:26:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 13:26:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 13:27:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:28:03: [G_Auto 1] :  € 8.70 Lay bet placed on Pedro Martinez at 1.92. Fully matched at 1.91.  Ref: 10089          ( Fill or kill bet with 15 seconds delay.   )
+5/2/2022 13:28:04: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aPoints = point: 0; games: 2; sets: 1 
+5/2/2022 13:28:04: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aServing = serving:0
+5/2/2022 13:28:04: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bPoints = point: 0; games: 2; sets: 1 
+5/2/2022 13:28:04: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bServing = serving:2
+5/2/2022 13:28:04: [G_Auto 2] :  Store Value (Shared) for market: price = 1.91
+5/2/2022 13:28:04: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 161.34
+5/2/2022 13:28:04: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 174.12
+5/2/2022 13:28:04: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.7
+5/2/2022 13:28:04: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 335.46
+5/2/2022 13:28:04: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.01
+5/2/2022 13:28:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.08
+5/2/2022 13:28:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.91
+5/2/2022 13:28:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:28:11: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aPoints = point: 0; games: 2; sets: 1 
+5/2/2022 13:28:11: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aServing = serving:0
+5/2/2022 13:28:11: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bPoints = point: 0; games: 2; sets: 1 
+5/2/2022 13:28:11: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bServing = serving:2
+5/2/2022 13:28:11: [G_Auto 2] :  Store Value (Shared) for market: price = 1.91
+5/2/2022 13:28:11: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 161.34
+5/2/2022 13:28:11: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 174.12
+5/2/2022 13:28:11: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.7
+5/2/2022 13:28:11: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 335.46
+5/2/2022 13:28:11: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.05
+5/2/2022 13:28:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.08
+5/2/2022 13:28:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.92
+5/2/2022 13:28:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:28:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:28:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 13:29:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 13:29:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 13:29:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 13:33:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:33:41: [G_Auto 1] :  Placed closure bet with greening on Pedro Martinez by Backing 4.26 at 3.9
+5/2/2022 13:33:41: [G_Auto 1] :  € 22.22 Lay bet placed on Alex De Minaur at 1.36. Fully matched at 1.35.  Ref: 10094          ( Fill or kill bet with 15 seconds delay.   )
+5/2/2022 13:33:41: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aPoints = point: 0; games: 3; sets: 1 
+5/2/2022 13:33:41: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aServing = serving:1
+5/2/2022 13:33:41: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bPoints = point: 0; games: 2; sets: 1 
+5/2/2022 13:33:41: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bServing = serving:0
+5/2/2022 13:33:41: [G_Auto 2] :  Store Value (Shared) for market: price = 3.9
+5/2/2022 13:33:41: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 165.6
+5/2/2022 13:33:41: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 196.34
+5/2/2022 13:33:41: [G_Auto 2] :  Store Value (Shared) for market: stake = 4.26
+5/2/2022 13:33:41: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 361.94
+5/2/2022 13:33:41: [G_Auto 2] :  Store Value (Shared) for market: pl = 8.36
+5/2/2022 13:33:41: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.36
+5/2/2022 13:33:41: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.9
+5/2/2022 13:33:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:33:48: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aPoints = point: 0; games: 3; sets: 1 
+5/2/2022 13:33:48: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aServing = serving:1
+5/2/2022 13:33:48: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bPoints = point: 0; games: 2; sets: 1 
+5/2/2022 13:33:48: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bServing = serving:0
+5/2/2022 13:33:48: [G_Auto 2] :  Store Value (Shared) for market: price = 3.9
+5/2/2022 13:33:48: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 165.6
+5/2/2022 13:33:48: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 196.34
+5/2/2022 13:33:48: [G_Auto 2] :  Store Value (Shared) for market: stake = 4.26
+5/2/2022 13:33:48: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 361.94
+5/2/2022 13:33:48: [G_Auto 2] :  Store Value (Shared) for market: pl = 8.36
+5/2/2022 13:33:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.36
+5/2/2022 13:33:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.9
+5/2/2022 13:34:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:34:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:34:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:34:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:35:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:35:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:35:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:36:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:36:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 13:36:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 13:40:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:40:33: [G_Auto 1] :  Placed closure bet with greening on Alex De Minaur by Backing 14.42 at 2.08
+5/2/2022 13:40:33: [G_Auto 1] :  € 8.70 Lay bet placed on Pedro Martinez at 1.92. Fully matched at 1.91.  Ref: 10101          ( Fill or kill bet with 15 seconds delay.   )
+5/2/2022 13:40:33: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aPoints = point: 0; games: 3; sets: 1 
+5/2/2022 13:40:33: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aServing = serving:0
+5/2/2022 13:40:33: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bPoints = point: 0; games: 3; sets: 1 
+5/2/2022 13:40:33: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bServing = serving:2
+5/2/2022 13:40:33: [G_Auto 2] :  Store Value (Shared) for market: price = 1.91
+5/2/2022 13:40:33: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 180.02
+5/2/2022 13:40:33: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 205.04
+5/2/2022 13:40:33: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.7
+5/2/2022 13:40:33: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 385.06
+5/2/2022 13:40:33: [G_Auto 2] :  Store Value (Shared) for market: pl = 15.94
+5/2/2022 13:40:33: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.08
+5/2/2022 13:40:33: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.9
+5/2/2022 13:40:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:40:40: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aPoints = point: 0; games: 3; sets: 1 
+5/2/2022 13:40:40: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aServing = serving:0
+5/2/2022 13:40:40: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bPoints = point: 0; games: 3; sets: 1 
+5/2/2022 13:40:40: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bServing = serving:2
+5/2/2022 13:40:40: [G_Auto 2] :  Store Value (Shared) for market: price = 1.91
+5/2/2022 13:40:40: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 180.02
+5/2/2022 13:40:40: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 205.04
+5/2/2022 13:40:40: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.7
+5/2/2022 13:40:40: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 385.06
+5/2/2022 13:40:40: [G_Auto 2] :  Store Value (Shared) for market: pl = 15.91
+5/2/2022 13:40:40: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.12
+5/2/2022 13:40:40: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.9
+5/2/2022 13:40:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:41:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:41:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 13:41:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 13:44:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:44:23: [G_Auto 1] :  Placed closure bet with greening on Pedro Martinez by Backing 3.96 at 4.2
+5/2/2022 13:44:23: [G_Auto 1] :  € 25.81 Lay bet placed on Alex De Minaur at 1.31. Fully matched at 1.31.  Ref: 10106          ( Fill or kill bet with 15 seconds delay.   )
+5/2/2022 13:44:24: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aPoints = point: 0; games: 4; sets: 1 
+5/2/2022 13:44:24: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aServing = serving:1
+5/2/2022 13:44:24: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bPoints = point: 0; games: 3; sets: 1 
+5/2/2022 13:44:24: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bServing = serving:0
+5/2/2022 13:44:24: [G_Auto 2] :  Store Value (Shared) for market: price = 1.31
+5/2/2022 13:44:24: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 183.98
+5/2/2022 13:44:24: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 230.85
+5/2/2022 13:44:24: [G_Auto 2] :  Store Value (Shared) for market: stake = 25.81
+5/2/2022 13:44:24: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 414.83
+5/2/2022 13:44:24: [G_Auto 2] :  Store Value (Shared) for market: pl = 20.45
+5/2/2022 13:44:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.3
+5/2/2022 13:44:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.2
+5/2/2022 13:44:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:44:31: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aPoints = point: 0; games: 4; sets: 1 
+5/2/2022 13:44:31: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aServing = serving:1
+5/2/2022 13:44:31: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bPoints = point: 0; games: 3; sets: 1 
+5/2/2022 13:44:31: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bServing = serving:0
+5/2/2022 13:44:31: [G_Auto 2] :  Store Value (Shared) for market: price = 1.31
+5/2/2022 13:44:31: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 183.98
+5/2/2022 13:44:31: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 230.85
+5/2/2022 13:44:31: [G_Auto 2] :  Store Value (Shared) for market: stake = 25.81
+5/2/2022 13:44:31: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 414.83
+5/2/2022 13:44:31: [G_Auto 2] :  Store Value (Shared) for market: pl = 20.64
+5/2/2022 13:44:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.31
+5/2/2022 13:44:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.2
+5/2/2022 13:44:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:45:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:45:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:45:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:45:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:46:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:46:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 13:46:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 13:49:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:49:17: [G_Auto 1] :  Placed closure bet with greening on Alex De Minaur by Backing 30.18 at 1.12
+5/2/2022 13:49:18: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aPoints = point: 0; games: 5; sets: 1 
+5/2/2022 13:49:18: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aServing = serving:0
+5/2/2022 13:49:18: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bPoints = point: 0; games: 3; sets: 1 
+5/2/2022 13:49:18: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bServing = serving:2
+5/2/2022 13:49:18: [G_Auto 2] :  Store Value (Shared) for market: price = 1.12
+5/2/2022 13:49:18: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 214.16
+5/2/2022 13:49:18: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 230.85
+5/2/2022 13:49:18: [G_Auto 2] :  Store Value (Shared) for market: stake = 30.18
+5/2/2022 13:49:18: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 445.01
+5/2/2022 13:49:18: [G_Auto 2] :  Store Value (Shared) for market: pl = 16.36
+5/2/2022 13:49:18: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.13
+5/2/2022 13:49:18: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 9
+5/2/2022 13:49:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:49:25: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aPoints = point: 0; games: 5; sets: 1 
+5/2/2022 13:49:25: [G_Auto 2] :  Store Text Value (Shared) for Alex De Minaur: aServing = serving:0
+5/2/2022 13:49:25: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bPoints = point: 0; games: 3; sets: 1 
+5/2/2022 13:49:25: [G_Auto 2] :  Store Text Value (Shared) for Pedro Martinez: bServing = serving:2
+5/2/2022 13:49:25: [G_Auto 2] :  Store Value (Shared) for market: price = 1.12
+5/2/2022 13:49:25: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 214.16
+5/2/2022 13:49:25: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 230.85
+5/2/2022 13:49:25: [G_Auto 2] :  Store Value (Shared) for market: stake = 30.18
+5/2/2022 13:49:25: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 445.01
+5/2/2022 13:49:25: [G_Auto 2] :  Store Value (Shared) for market: pl = 16.36
+5/2/2022 13:49:25: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.12
+5/2/2022 13:49:25: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 8.8
+5/2/2022 13:49:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:49:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 13:50:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/2/2022 13:52:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/2/2022 13:52:41:  Guardian has detected that the market is suspended

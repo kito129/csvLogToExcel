@@ -1,0 +1,414 @@
+5/3/2022 10:12:57: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: info = marketName: Teichmann v Rybakina - Match Odds; runnerA: Jil Teichmann; runnerB: Elena Rybakina 
+5/3/2022 10:12:57: [G_Auto 1] :  Store Value (Shared) for market: aId = 9247812
+5/3/2022 10:12:57: [G_Auto 1] :  Store Value (Shared) for market: bId = 10349398
+5/3/2022 17:55:04:  Guardian has detected that the market is in-play
+5/3/2022 17:55:04:  Guardian has detected that the market is suspended
+5/3/2022 17:55:06: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 3.05; bBsp: 1.48; volume: 70900.04 
+5/3/2022 17:55:06: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 3.05; bBsp: 1.48; volume: 70900.04 
+5/3/2022 17:55:06:  Guardian has detected that the market is now unsuspended
+5/3/2022 17:55:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 17:55:24: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 17:55:25: [G_Auto 2] :  € 16.33 Lay bet placed on Elena Rybakina at 1.49. Fully matched at 1.48.  Ref: 10517          ( Fill or kill bet with 15 seconds delay.   )
+5/3/2022 17:55:26: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aPoints = point: 0; games: 0; sets: 0 
+5/3/2022 17:55:26: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aServing = serving:0
+5/3/2022 17:55:26: [G_Auto 1] :  Store Text Value (Shared) for Elena Rybakina: bPoints = point: 15; games: 0; sets: 0 
+5/3/2022 17:55:26: [G_Auto 1] :  Store Text Value (Shared) for Elena Rybakina: bServing = serving:2
+5/3/2022 17:55:26: [G_Auto 1] :  Store Value (Shared) for market: price = 1.48
+5/3/2022 17:55:26: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 0
+5/3/2022 17:55:26: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 16.33
+5/3/2022 17:55:26: [G_Auto 1] :  Store Value (Shared) for market: stake = 16.33
+5/3/2022 17:55:26: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 16.33
+5/3/2022 17:55:26: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.45
+5/3/2022 17:55:26: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.15
+5/3/2022 17:55:26: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.46
+5/3/2022 17:55:31: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aPoints = point: 0; games: 0; sets: 0 
+5/3/2022 17:55:31: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aServing = serving:0
+5/3/2022 17:55:31: [G_Auto 1] :  Store Text Value (Shared) for Elena Rybakina: bPoints = point: 15; games: 0; sets: 0 
+5/3/2022 17:55:31: [G_Auto 1] :  Store Text Value (Shared) for Elena Rybakina: bServing = serving:2
+5/3/2022 17:55:31: [G_Auto 1] :  Store Value (Shared) for market: price = 1.48
+5/3/2022 17:55:31: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 0
+5/3/2022 17:55:31: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 16.33
+5/3/2022 17:55:31: [G_Auto 1] :  Store Value (Shared) for market: stake = 16.33
+5/3/2022 17:55:31: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 16.33
+5/3/2022 17:55:31: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.57
+5/3/2022 17:55:31: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.15
+5/3/2022 17:55:31: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.46
+5/3/2022 17:55:40: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 17:55:55: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 17:56:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 17:56:53: [G_Auto 2] :  Placed closure bet with greening on Elena Rybakina by Backing 17.39 at 1.39
+5/3/2022 17:56:53: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aPoints = point: 0; games: 0; sets: 0 
+5/3/2022 17:56:53: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aServing = serving:1
+5/3/2022 17:56:53: [G_Auto 1] :  Store Text Value (Shared) for Elena Rybakina: bPoints = point: 0; games: 1; sets: 0 
+5/3/2022 17:56:53: [G_Auto 1] :  Store Text Value (Shared) for Elena Rybakina: bServing = serving:0
+5/3/2022 17:56:53: [G_Auto 1] :  Store Value (Shared) for market: price = 1.39
+5/3/2022 17:56:53: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 17.39
+5/3/2022 17:56:53: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 16.33
+5/3/2022 17:56:53: [G_Auto 1] :  Store Value (Shared) for market: stake = 17.39
+5/3/2022 17:56:53: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 33.72
+5/3/2022 17:56:53: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.06
+5/3/2022 17:56:53: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.5
+5/3/2022 17:56:53: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.4
+5/3/2022 17:56:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 17:57:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 17:57:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 17:57:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 17:57:53: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 17:58:08: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 18:00:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:00:15: [G_Auto 2] :  € 16.67 Lay bet placed on Elena Rybakina at 1.48. Fully matched at 1.48.  Ref: 10520          ( Fill or kill bet with 15 seconds delay.   )
+5/3/2022 18:00:15: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aPoints = point: 0; games: 1; sets: 0 
+5/3/2022 18:00:15: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aServing = serving:0
+5/3/2022 18:00:15: [G_Auto 1] :  Store Text Value (Shared) for Elena Rybakina: bPoints = point: 0; games: 1; sets: 0 
+5/3/2022 18:00:15: [G_Auto 1] :  Store Text Value (Shared) for Elena Rybakina: bServing = serving:2
+5/3/2022 18:00:15: [G_Auto 1] :  Store Value (Shared) for market: price = 1.48
+5/3/2022 18:00:15: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 17.39
+5/3/2022 18:00:15: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 33
+5/3/2022 18:00:15: [G_Auto 1] :  Store Value (Shared) for market: stake = 16.67
+5/3/2022 18:00:15: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 50.39
+5/3/2022 18:00:15: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.29
+5/3/2022 18:00:15: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.05
+5/3/2022 18:00:15: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.48
+5/3/2022 18:00:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:00:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:00:37: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 18:00:52: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 18:01:07: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 18:03:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:03:13: [G_Auto 2] :  Placed closure bet with greening on Elena Rybakina by Backing 17.88 at 1.38
+5/3/2022 18:03:14: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aPoints = point: 0; games: 1; sets: 0 
+5/3/2022 18:03:14: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aServing = serving:1
+5/3/2022 18:03:14: [G_Auto 1] :  Store Text Value (Shared) for Elena Rybakina: bPoints = point: 0; games: 2; sets: 0 
+5/3/2022 18:03:14: [G_Auto 1] :  Store Text Value (Shared) for Elena Rybakina: bServing = serving:0
+5/3/2022 18:03:14: [G_Auto 1] :  Store Value (Shared) for market: price = 1.38
+5/3/2022 18:03:14: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 35.27
+5/3/2022 18:03:14: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 33
+5/3/2022 18:03:14: [G_Auto 1] :  Store Value (Shared) for market: stake = 17.88
+5/3/2022 18:03:14: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 68.27
+5/3/2022 18:03:14: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.27
+5/3/2022 18:03:14: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.55
+5/3/2022 18:03:14: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.39
+5/3/2022 18:03:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:03:20: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aPoints = point: 0; games: 1; sets: 0 
+5/3/2022 18:03:20: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aServing = serving:1
+5/3/2022 18:03:20: [G_Auto 1] :  Store Text Value (Shared) for Elena Rybakina: bPoints = point: 0; games: 2; sets: 0 
+5/3/2022 18:03:20: [G_Auto 1] :  Store Text Value (Shared) for Elena Rybakina: bServing = serving:0
+5/3/2022 18:03:20: [G_Auto 1] :  Store Value (Shared) for market: price = 1.38
+5/3/2022 18:03:20: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 35.27
+5/3/2022 18:03:20: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 33
+5/3/2022 18:03:20: [G_Auto 1] :  Store Value (Shared) for market: stake = 17.88
+5/3/2022 18:03:20: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 68.27
+5/3/2022 18:03:20: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.27
+5/3/2022 18:03:20: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.55
+5/3/2022 18:03:20: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.4
+5/3/2022 18:03:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:03:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:04:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:04:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:04:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:04:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:05:00: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 18:05:16: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 18:07:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:07:42: [G_Auto 2] :  € 14.81 Lay bet placed on Elena Rybakina at 1.54. Fully matched at 1.53.  Ref: 10524          ( Fill or kill bet with 15 seconds delay.   )
+5/3/2022 18:07:43: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aPoints = point: 0; games: 2; sets: 0 
+5/3/2022 18:07:43: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aServing = serving:0
+5/3/2022 18:07:43: [G_Auto 1] :  Store Text Value (Shared) for Elena Rybakina: bPoints = point: 0; games: 2; sets: 0 
+5/3/2022 18:07:43: [G_Auto 1] :  Store Text Value (Shared) for Elena Rybakina: bServing = serving:2
+5/3/2022 18:07:43: [G_Auto 1] :  Store Value (Shared) for market: price = 1.53
+5/3/2022 18:07:43: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 35.27
+5/3/2022 18:07:43: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 47.81
+5/3/2022 18:07:43: [G_Auto 1] :  Store Value (Shared) for market: stake = 14.81
+5/3/2022 18:07:43: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 83.08
+5/3/2022 18:07:43: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.56
+5/3/2022 18:07:43: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.96
+5/3/2022 18:07:43: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.51
+5/3/2022 18:07:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:07:49: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aPoints = point: 0; games: 2; sets: 0 
+5/3/2022 18:07:49: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aServing = serving:0
+5/3/2022 18:07:49: [G_Auto 1] :  Store Text Value (Shared) for Elena Rybakina: bPoints = point: 0; games: 2; sets: 0 
+5/3/2022 18:07:49: [G_Auto 1] :  Store Text Value (Shared) for Elena Rybakina: bServing = serving:2
+5/3/2022 18:07:49: [G_Auto 1] :  Store Value (Shared) for market: price = 1.53
+5/3/2022 18:07:49: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 35.27
+5/3/2022 18:07:49: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 47.81
+5/3/2022 18:07:49: [G_Auto 1] :  Store Value (Shared) for market: stake = 14.81
+5/3/2022 18:07:49: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 83.08
+5/3/2022 18:07:49: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.36
+5/3/2022 18:07:49: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.9
+5/3/2022 18:07:49: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.52
+5/3/2022 18:08:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:08:18: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 18:08:34: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 18:10:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:10:32: [G_Auto 2] :  Placed closure bet with greening on Elena Rybakina by Backing 11.50 at 1.97
+5/3/2022 18:10:33: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aPoints = point: 0; games: 3; sets: 0 
+5/3/2022 18:10:33: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aServing = serving:1
+5/3/2022 18:10:33: [G_Auto 1] :  Store Text Value (Shared) for Elena Rybakina: bPoints = point: 0; games: 2; sets: 0 
+5/3/2022 18:10:33: [G_Auto 1] :  Store Text Value (Shared) for Elena Rybakina: bServing = serving:0
+5/3/2022 18:10:33: [G_Auto 1] :  Store Value (Shared) for market: price = 1.97
+5/3/2022 18:10:33: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 46.77
+5/3/2022 18:10:33: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 47.81
+5/3/2022 18:10:33: [G_Auto 1] :  Store Value (Shared) for market: stake = 11.5
+5/3/2022 18:10:33: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 94.58
+5/3/2022 18:10:33: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.02
+5/3/2022 18:10:33: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2
+5/3/2022 18:10:33: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.99
+5/3/2022 18:10:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:10:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:11:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:11:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:11:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:11:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:12:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:12:22: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 18:12:38: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 18:16:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:16:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:16:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:17:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:17:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:17:40: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 18:17:56: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 18:20:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:20:41: [G_Auto 2] :  € 8.60 Lay bet placed on Jil Teichmann at 1.93. Fully matched at 1.93.  Ref: 10526          ( Fill or kill bet with 15 seconds delay.   )
+5/3/2022 18:20:42: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aPoints = point: 0; games: 4; sets: 0 
+5/3/2022 18:20:42: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aServing = serving:1
+5/3/2022 18:20:42: [G_Auto 1] :  Store Text Value (Shared) for Elena Rybakina: bPoints = point: 0; games: 3; sets: 0 
+5/3/2022 18:20:42: [G_Auto 1] :  Store Text Value (Shared) for Elena Rybakina: bServing = serving:0
+5/3/2022 18:20:42: [G_Auto 1] :  Store Value (Shared) for market: price = 1.93
+5/3/2022 18:20:42: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 46.77
+5/3/2022 18:20:42: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 56.41
+5/3/2022 18:20:42: [G_Auto 1] :  Store Value (Shared) for market: stake = 8.6
+5/3/2022 18:20:42: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 103.18
+5/3/2022 18:20:42: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.98
+5/3/2022 18:20:42: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.94
+5/3/2022 18:20:42: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.06
+5/3/2022 18:20:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:21:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:21:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:21:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:21:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:22:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:22:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:22:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:22:41: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 18:22:57: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 18:23:13: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 18:23:28: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 18:23:43: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 18:25:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:25:36: [G_Auto 2] :  Placed closure bet with greening on Jil Teichmann by Backing 10.00 at 1.66
+5/3/2022 18:25:37: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aPoints = point: 0; games: 5; sets: 0 
+5/3/2022 18:25:37: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aServing = serving:0
+5/3/2022 18:25:37: [G_Auto 1] :  Store Text Value (Shared) for Elena Rybakina: bPoints = point: 0; games: 3; sets: 0 
+5/3/2022 18:25:37: [G_Auto 1] :  Store Text Value (Shared) for Elena Rybakina: bServing = serving:2
+5/3/2022 18:25:37: [G_Auto 1] :  Store Value (Shared) for market: price = 1.66
+5/3/2022 18:25:37: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 56.77
+5/3/2022 18:25:37: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 56.41
+5/3/2022 18:25:37: [G_Auto 1] :  Store Value (Shared) for market: stake = 10
+5/3/2022 18:25:37: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 113.18
+5/3/2022 18:25:37: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.36
+5/3/2022 18:25:37: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.67
+5/3/2022 18:25:37: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.46
+5/3/2022 18:25:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:25:43: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aPoints = point: 0; games: 5; sets: 0 
+5/3/2022 18:25:43: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aServing = serving:0
+5/3/2022 18:25:43: [G_Auto 1] :  Store Text Value (Shared) for Elena Rybakina: bPoints = point: 0; games: 3; sets: 0 
+5/3/2022 18:25:43: [G_Auto 1] :  Store Text Value (Shared) for Elena Rybakina: bServing = serving:2
+5/3/2022 18:25:43: [G_Auto 1] :  Store Value (Shared) for market: price = 1.66
+5/3/2022 18:25:43: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 56.77
+5/3/2022 18:25:43: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 56.41
+5/3/2022 18:25:43: [G_Auto 1] :  Store Value (Shared) for market: stake = 10
+5/3/2022 18:25:43: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 113.18
+5/3/2022 18:25:43: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.36
+5/3/2022 18:25:43: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.67
+5/3/2022 18:25:43: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.46
+5/3/2022 18:25:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:26:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:26:22: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 18:26:38: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 18:28:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:28:40: [G_Auto 1] :  Store Value (Shared) for market: aFirstSetPrice = 1.46
+5/3/2022 18:28:40: [G_Auto 1] :  Store Value (Shared) for market: bFirstSetPrice = 3.15
+5/3/2022 18:28:45: [G_Auto 2] :  € 17.02 Lay bet placed on Jil Teichmann at 1.47. Fully matched at 1.46.  Ref: 10528          ( Fill or kill bet with 15 seconds delay.   )
+5/3/2022 18:28:47: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aPoints = point: 0; games: 0; sets: 1 
+5/3/2022 18:28:47: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aServing = serving:1
+5/3/2022 18:28:47: [G_Auto 1] :  Store Text Value (Shared) for Elena Rybakina: bPoints = point: 0; games: 0; sets: 0 
+5/3/2022 18:28:47: [G_Auto 1] :  Store Text Value (Shared) for Elena Rybakina: bServing = serving:0
+5/3/2022 18:28:47: [G_Auto 1] :  Store Value (Shared) for market: price = 1.46
+5/3/2022 18:28:47: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 56.77
+5/3/2022 18:28:47: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 73.43
+5/3/2022 18:28:47: [G_Auto 1] :  Store Value (Shared) for market: stake = 17.02
+5/3/2022 18:28:47: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 130.2
+5/3/2022 18:28:47: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.36
+5/3/2022 18:28:47: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.46
+5/3/2022 18:28:47: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.15
+5/3/2022 18:28:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:29:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:29:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:29:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:29:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:30:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:30:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:30:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:30:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:31:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:31:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:31:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:31:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:32:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:32:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:32:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:33:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:33:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:33:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:33:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:34:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:34:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:34:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:34:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:35:01: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 18:35:17: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 18:38:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:39:12: [G_Auto 2] :  Placed closure bet with greening on Jil Teichmann by Backing 17.88 at 1.39
+5/3/2022 18:39:13: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aPoints = point: 0; games: 1; sets: 1 
+5/3/2022 18:39:13: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aServing = serving:0
+5/3/2022 18:39:13: [G_Auto 1] :  Store Text Value (Shared) for Elena Rybakina: bPoints = point: 0; games: 0; sets: 0 
+5/3/2022 18:39:13: [G_Auto 1] :  Store Text Value (Shared) for Elena Rybakina: bServing = serving:2
+5/3/2022 18:39:13: [G_Auto 1] :  Store Value (Shared) for market: price = 1.39
+5/3/2022 18:39:13: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 74.65
+5/3/2022 18:39:13: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 73.43
+5/3/2022 18:39:13: [G_Auto 1] :  Store Value (Shared) for market: stake = 17.88
+5/3/2022 18:39:13: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 148.08
+5/3/2022 18:39:13: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.21
+5/3/2022 18:39:13: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.4
+5/3/2022 18:39:13: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.5
+5/3/2022 18:39:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:39:18: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aPoints = point: 0; games: 1; sets: 1 
+5/3/2022 18:39:18: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aServing = serving:0
+5/3/2022 18:39:18: [G_Auto 1] :  Store Text Value (Shared) for Elena Rybakina: bPoints = point: 0; games: 0; sets: 0 
+5/3/2022 18:39:18: [G_Auto 1] :  Store Text Value (Shared) for Elena Rybakina: bServing = serving:2
+5/3/2022 18:39:18: [G_Auto 1] :  Store Value (Shared) for market: price = 1.39
+5/3/2022 18:39:18: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 74.65
+5/3/2022 18:39:18: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 73.43
+5/3/2022 18:39:18: [G_Auto 1] :  Store Value (Shared) for market: stake = 17.88
+5/3/2022 18:39:18: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 148.08
+5/3/2022 18:39:18: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.21
+5/3/2022 18:39:18: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.4
+5/3/2022 18:39:18: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 3.5
+5/3/2022 18:39:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:39:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:39:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:40:15: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 18:40:30: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 18:45:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:46:10: [G_Auto 2] :  € 44.44 Lay bet placed on Jil Teichmann at 1.18. Fully matched at 1.17.  Ref: 10535          ( Fill or kill bet with 15 seconds delay.   )
+5/3/2022 18:46:11: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aPoints = point: 0; games: 2; sets: 1 
+5/3/2022 18:46:11: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aServing = serving:1
+5/3/2022 18:46:11: [G_Auto 1] :  Store Text Value (Shared) for Elena Rybakina: bPoints = point: 0; games: 0; sets: 0 
+5/3/2022 18:46:11: [G_Auto 1] :  Store Text Value (Shared) for Elena Rybakina: bServing = serving:0
+5/3/2022 18:46:11: [G_Auto 1] :  Store Value (Shared) for market: price = 1.17
+5/3/2022 18:46:11: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 74.65
+5/3/2022 18:46:11: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 117.87
+5/3/2022 18:46:11: [G_Auto 1] :  Store Value (Shared) for market: stake = 44.44
+5/3/2022 18:46:11: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 192.52
+5/3/2022 18:46:11: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.6
+5/3/2022 18:46:11: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.17
+5/3/2022 18:46:11: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 6.8
+5/3/2022 18:46:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:46:16: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aPoints = point: 0; games: 2; sets: 1 
+5/3/2022 18:46:16: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aServing = serving:1
+5/3/2022 18:46:16: [G_Auto 1] :  Store Text Value (Shared) for Elena Rybakina: bPoints = point: 0; games: 0; sets: 0 
+5/3/2022 18:46:16: [G_Auto 1] :  Store Text Value (Shared) for Elena Rybakina: bServing = serving:0
+5/3/2022 18:46:16: [G_Auto 1] :  Store Value (Shared) for market: price = 1.17
+5/3/2022 18:46:16: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 74.65
+5/3/2022 18:46:16: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 117.87
+5/3/2022 18:46:16: [G_Auto 1] :  Store Value (Shared) for market: stake = 44.44
+5/3/2022 18:46:16: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 192.52
+5/3/2022 18:46:16: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.99
+5/3/2022 18:46:16: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.16
+5/3/2022 18:46:16: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 7.2
+5/3/2022 18:46:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:46:40: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 18:46:55: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 18:47:11: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 18:47:26: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 18:51:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:52:05: [G_Auto 2] :  Placed closure bet with greening on Jil Teichmann by Backing 47.70 at 1.09
+5/3/2022 18:52:06: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aPoints = point: 0; games: 3; sets: 1 
+5/3/2022 18:52:06: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aServing = serving:0
+5/3/2022 18:52:06: [G_Auto 1] :  Store Text Value (Shared) for Elena Rybakina: bPoints = point: 0; games: 0; sets: 0 
+5/3/2022 18:52:06: [G_Auto 1] :  Store Text Value (Shared) for Elena Rybakina: bServing = serving:2
+5/3/2022 18:52:06: [G_Auto 1] :  Store Value (Shared) for market: price = 1.09
+5/3/2022 18:52:06: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 122.35
+5/3/2022 18:52:06: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 117.87
+5/3/2022 18:52:06: [G_Auto 1] :  Store Value (Shared) for market: stake = 47.7
+5/3/2022 18:52:06: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 240.22
+5/3/2022 18:52:06: [G_Auto 1] :  Store Value (Shared) for market: pl = -4.48
+5/3/2022 18:52:06: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.1
+5/3/2022 18:52:06: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 11
+5/3/2022 18:52:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:52:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:52:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:52:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:53:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:53:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:53:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:53:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:54:09: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 18:54:24: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 18:54:39: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 18:57:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:58:08: [G_Auto 2] :  € 53.33 Lay bet placed on Jil Teichmann at 1.15. Fully matched at 1.14.  Ref: 10540          ( Fill or kill bet with 15 seconds delay.   )
+5/3/2022 18:58:09: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aPoints = point: 0; games: 3; sets: 1 
+5/3/2022 18:58:09: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aServing = serving:1
+5/3/2022 18:58:09: [G_Auto 1] :  Store Text Value (Shared) for Elena Rybakina: bPoints = point: 0; games: 1; sets: 0 
+5/3/2022 18:58:09: [G_Auto 1] :  Store Text Value (Shared) for Elena Rybakina: bServing = serving:0
+5/3/2022 18:58:09: [G_Auto 1] :  Store Value (Shared) for market: price = 1.14
+5/3/2022 18:58:09: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 122.35
+5/3/2022 18:58:09: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 171.2
+5/3/2022 18:58:09: [G_Auto 1] :  Store Value (Shared) for market: stake = 53.33
+5/3/2022 18:58:09: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 293.55
+5/3/2022 18:58:09: [G_Auto 1] :  Store Value (Shared) for market: pl = -4.95
+5/3/2022 18:58:09: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.13
+5/3/2022 18:58:09: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 8.8
+5/3/2022 18:58:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:58:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:58:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 18:58:43: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 18:58:58: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 18:59:13: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:02:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:03:03: [G_Auto 2] :  Placed closure bet with greening on Jil Teichmann by Backing 56.81 at 1.07
+5/3/2022 19:03:04: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aPoints = point: 0; games: 4; sets: 1 
+5/3/2022 19:03:04: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aServing = serving:0
+5/3/2022 19:03:04: [G_Auto 1] :  Store Text Value (Shared) for Elena Rybakina: bPoints = point: 0; games: 1; sets: 0 
+5/3/2022 19:03:04: [G_Auto 1] :  Store Text Value (Shared) for Elena Rybakina: bServing = serving:2
+5/3/2022 19:03:04: [G_Auto 1] :  Store Value (Shared) for market: price = 1.07
+5/3/2022 19:03:04: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 179.16
+5/3/2022 19:03:04: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 171.2
+5/3/2022 19:03:04: [G_Auto 1] :  Store Value (Shared) for market: stake = 56.81
+5/3/2022 19:03:04: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 350.36
+5/3/2022 19:03:04: [G_Auto 1] :  Store Value (Shared) for market: pl = -7.97
+5/3/2022 19:03:04: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.08
+5/3/2022 19:03:04: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 13.5
+5/3/2022 19:03:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:03:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:03:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:03:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:04:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:04:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:04:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:04:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:05:09: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:05:25: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:05:40: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:07:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:08:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:08:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:08:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:08:34: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:08:49: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:09:05: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 19:12:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 19:12:12:  Guardian has detected that the market is suspended

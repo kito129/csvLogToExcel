@@ -1,0 +1,450 @@
+5/4/2022 09:43:07: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: info = marketName: Teichmann v Kalinina - Match Odds; runnerA: Jil Teichmann; runnerB: Anhelina Kalinina 
+5/4/2022 09:43:07: [G_Auto 1] :  Store Value (Shared) for market: aId = 9247812
+5/4/2022 09:43:07: [G_Auto 1] :  Store Value (Shared) for market: bId = 8907168
+5/4/2022 16:42:18:  Guardian has detected that the market is in-play
+5/4/2022 16:42:18:  Guardian has detected that the market is suspended
+5/4/2022 16:42:20: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.86; bBsp: 2.16; volume: 55307.89 
+5/4/2022 16:42:20: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.86; bBsp: 2.16; volume: 55307.89 
+5/4/2022 16:42:20:  Guardian has detected that the market is now unsuspended
+5/4/2022 16:42:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 16:42:35: [G_Auto 2] :  € 9.30 Lay bet placed on Jil Teichmann at 1.86. Entirely unmatched when it initially reached the market.   Ref: 10800          ( Fill or kill bet with 15 seconds delay.   )
+5/4/2022 16:42:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 16:42:41: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 16:42:50: [G_Auto 2] :  € 9.3 unmatched bet (Ref:10800) was killed.
+5/4/2022 16:42:57: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 16:44:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 16:44:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 16:45:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 16:45:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 16:45:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 16:45:52: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 16:46:09: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 16:46:25: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 16:47:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 16:47:41: [G_Auto 2] :  € 9.09 Lay bet placed on Jil Teichmann at 1.88. Fully matched at 1.87.  Ref: 10802          ( Fill or kill bet with 15 seconds delay.   )
+5/4/2022 16:47:42: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aPoints = point: 0; games: 1; sets: 0 
+5/4/2022 16:47:42: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aServing = serving:1
+5/4/2022 16:47:42: [G_Auto 1] :  Store Text Value (Shared) for Anhelina Kalinina: bPoints = point: 0; games: 1; sets: 0 
+5/4/2022 16:47:42: [G_Auto 1] :  Store Text Value (Shared) for Anhelina Kalinina: bServing = serving:0
+5/4/2022 16:47:42: [G_Auto 1] :  Store Value (Shared) for market: price = 1.87
+5/4/2022 16:47:42: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 0
+5/4/2022 16:47:42: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 9.09
+5/4/2022 16:47:42: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.09
+5/4/2022 16:47:42: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 9.09
+5/4/2022 16:47:42: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.05
+5/4/2022 16:47:42: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.86
+5/4/2022 16:47:42: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.16
+5/4/2022 16:47:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 16:48:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 16:48:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 16:48:23: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 16:48:39: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 16:50:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 16:50:13: [G_Auto 2] :  Placed closure bet with greening on Jil Teichmann by Backing 10.30 at 1.65
+5/4/2022 16:50:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 16:50:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 16:50:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 16:51:06: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 16:51:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 16:51:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 16:51:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 16:52:12: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 16:52:17: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aPoints = point: 0; games: 2; sets: 0 
+5/4/2022 16:52:17: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aServing = serving:0
+5/4/2022 16:52:17: [G_Auto 1] :  Store Text Value (Shared) for Anhelina Kalinina: bPoints = point: 15; games: 1; sets: 0 
+5/4/2022 16:52:17: [G_Auto 1] :  Store Text Value (Shared) for Anhelina Kalinina: bServing = serving:2
+5/4/2022 16:52:17: [G_Auto 1] :  Store Value (Shared) for market: price = 1.65
+5/4/2022 16:52:17: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 10.3
+5/4/2022 16:52:17: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 9.09
+5/4/2022 16:52:17: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.3
+5/4/2022 16:52:17: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 19.39
+5/4/2022 16:52:17: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.21
+5/4/2022 16:52:17: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.62
+5/4/2022 16:52:17: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.6
+5/4/2022 16:52:23: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aPoints = point: 0; games: 2; sets: 0 
+5/4/2022 16:52:23: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aServing = serving:0
+5/4/2022 16:52:23: [G_Auto 1] :  Store Text Value (Shared) for Anhelina Kalinina: bPoints = point: 15; games: 1; sets: 0 
+5/4/2022 16:52:23: [G_Auto 1] :  Store Text Value (Shared) for Anhelina Kalinina: bServing = serving:2
+5/4/2022 16:52:23: [G_Auto 1] :  Store Value (Shared) for market: price = 1.65
+5/4/2022 16:52:23: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 10.3
+5/4/2022 16:52:23: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 9.09
+5/4/2022 16:52:23: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.3
+5/4/2022 16:52:23: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 19.39
+5/4/2022 16:52:23: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.21
+5/4/2022 16:52:23: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.7
+5/4/2022 16:52:23: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.42
+5/4/2022 16:52:29: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 16:55:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 16:55:34: [G_Auto 2] :  € 9.41 Lay bet placed on Jil Teichmann at 1.85. Fully matched at 1.83.  Ref: 10809          ( Fill or kill bet with 15 seconds delay.   )
+5/4/2022 16:55:36: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aPoints = point: 0; games: 2; sets: 0 
+5/4/2022 16:55:36: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aServing = serving:1
+5/4/2022 16:55:36: [G_Auto 1] :  Store Text Value (Shared) for Anhelina Kalinina: bPoints = point: 0; games: 2; sets: 0 
+5/4/2022 16:55:36: [G_Auto 1] :  Store Text Value (Shared) for Anhelina Kalinina: bServing = serving:0
+5/4/2022 16:55:36: [G_Auto 1] :  Store Value (Shared) for market: price = 1.83
+5/4/2022 16:55:36: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 10.3
+5/4/2022 16:55:36: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 18.5
+5/4/2022 16:55:36: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.41
+5/4/2022 16:55:36: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 28.8
+5/4/2022 16:55:36: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.26
+5/4/2022 16:55:36: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.83
+5/4/2022 16:55:36: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.22
+5/4/2022 16:55:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 16:55:42: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aPoints = point: 0; games: 2; sets: 0 
+5/4/2022 16:55:42: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aServing = serving:1
+5/4/2022 16:55:42: [G_Auto 1] :  Store Text Value (Shared) for Anhelina Kalinina: bPoints = point: 0; games: 2; sets: 0 
+5/4/2022 16:55:42: [G_Auto 1] :  Store Text Value (Shared) for Anhelina Kalinina: bServing = serving:0
+5/4/2022 16:55:42: [G_Auto 1] :  Store Value (Shared) for market: price = 1.83
+5/4/2022 16:55:42: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 10.3
+5/4/2022 16:55:42: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 18.5
+5/4/2022 16:55:42: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.41
+5/4/2022 16:55:42: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 28.8
+5/4/2022 16:55:42: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.37
+5/4/2022 16:55:42: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.82
+5/4/2022 16:55:42: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.2
+5/4/2022 16:55:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 16:56:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 16:56:12: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 16:56:29: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 16:57:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 16:57:53: [G_Auto 2] :  Placed closure bet with greening on Jil Teichmann by Backing 10.83 at 1.59
+5/4/2022 16:57:54: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aPoints = point: 0; games: 3; sets: 0 
+5/4/2022 16:57:54: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aServing = serving:0
+5/4/2022 16:57:54: [G_Auto 1] :  Store Text Value (Shared) for Anhelina Kalinina: bPoints = point: 0; games: 2; sets: 0 
+5/4/2022 16:57:54: [G_Auto 1] :  Store Text Value (Shared) for Anhelina Kalinina: bServing = serving:2
+5/4/2022 16:57:54: [G_Auto 1] :  Store Value (Shared) for market: price = 1.59
+5/4/2022 16:57:54: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 21.13
+5/4/2022 16:57:54: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 18.5
+5/4/2022 16:57:54: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.83
+5/4/2022 16:57:54: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 39.63
+5/4/2022 16:57:54: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.63
+5/4/2022 16:57:54: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.6
+5/4/2022 16:57:54: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.68
+5/4/2022 16:57:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 16:58:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 16:58:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 16:58:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 16:59:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 16:59:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 16:59:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 16:59:43: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 17:00:00: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 17:00:16: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 17:03:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:03:39: [G_Auto 2] :  € 22.86 Lay bet placed on Jil Teichmann at 1.35. Fully matched at 1.34.  Ref: 10815          ( Fill or kill bet with 15 seconds delay.   )
+5/4/2022 17:03:41: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aPoints = point: 0; games: 4; sets: 0 
+5/4/2022 17:03:41: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aServing = serving:1
+5/4/2022 17:03:41: [G_Auto 1] :  Store Text Value (Shared) for Anhelina Kalinina: bPoints = point: 0; games: 2; sets: 0 
+5/4/2022 17:03:41: [G_Auto 1] :  Store Text Value (Shared) for Anhelina Kalinina: bServing = serving:0
+5/4/2022 17:03:41: [G_Auto 1] :  Store Value (Shared) for market: price = 1.34
+5/4/2022 17:03:41: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 21.13
+5/4/2022 17:03:41: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 41.36
+5/4/2022 17:03:41: [G_Auto 1] :  Store Value (Shared) for market: stake = 22.86
+5/4/2022 17:03:41: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 62.49
+5/4/2022 17:03:41: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.8
+5/4/2022 17:03:41: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.34
+5/4/2022 17:03:41: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4
+5/4/2022 17:03:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:03:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:04:17: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 17:04:34: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 17:04:50: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 17:06:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:07:09: [G_Auto 2] :  Placed closure bet with greening on Jil Teichmann by Backing 19.77 at 1.55
+5/4/2022 17:07:10: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aPoints = point: 0; games: 4; sets: 0 
+5/4/2022 17:07:10: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aServing = serving:0
+5/4/2022 17:07:10: [G_Auto 1] :  Store Text Value (Shared) for Anhelina Kalinina: bPoints = point: 0; games: 3; sets: 0 
+5/4/2022 17:07:10: [G_Auto 1] :  Store Text Value (Shared) for Anhelina Kalinina: bServing = serving:2
+5/4/2022 17:07:10: [G_Auto 1] :  Store Value (Shared) for market: price = 1.55
+5/4/2022 17:07:10: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 40.9
+5/4/2022 17:07:10: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 41.36
+5/4/2022 17:07:10: [G_Auto 1] :  Store Value (Shared) for market: stake = 19.77
+5/4/2022 17:07:10: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 82.26
+5/4/2022 17:07:10: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.46
+5/4/2022 17:07:10: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.56
+5/4/2022 17:07:10: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.78
+5/4/2022 17:07:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:07:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:07:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:08:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:08:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:08:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:08:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:09:01: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 17:09:17: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 17:14:06: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:14:20: [G_Auto 2] :  € 25.81 Lay bet placed on Jil Teichmann at 1.31. Fully matched at 1.3.  Ref: 10824          ( Fill or kill bet with 15 seconds delay.   )
+5/4/2022 17:14:21: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aPoints = point: 0; games: 5; sets: 0 
+5/4/2022 17:14:21: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aServing = serving:1
+5/4/2022 17:14:21: [G_Auto 1] :  Store Text Value (Shared) for Anhelina Kalinina: bPoints = point: 0; games: 3; sets: 0 
+5/4/2022 17:14:21: [G_Auto 1] :  Store Text Value (Shared) for Anhelina Kalinina: bServing = serving:0
+5/4/2022 17:14:21: [G_Auto 1] :  Store Value (Shared) for market: price = 1.3
+5/4/2022 17:14:21: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 40.9
+5/4/2022 17:14:21: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 67.17
+5/4/2022 17:14:21: [G_Auto 1] :  Store Value (Shared) for market: stake = 25.81
+5/4/2022 17:14:21: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 108.07
+5/4/2022 17:14:21: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.26
+5/4/2022 17:14:21: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.3
+5/4/2022 17:14:21: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.3
+5/4/2022 17:14:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:14:28: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aPoints = point: 0; games: 5; sets: 0 
+5/4/2022 17:14:28: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aServing = serving:1
+5/4/2022 17:14:28: [G_Auto 1] :  Store Text Value (Shared) for Anhelina Kalinina: bPoints = point: 0; games: 3; sets: 0 
+5/4/2022 17:14:28: [G_Auto 1] :  Store Text Value (Shared) for Anhelina Kalinina: bServing = serving:0
+5/4/2022 17:14:28: [G_Auto 1] :  Store Value (Shared) for market: price = 1.3
+5/4/2022 17:14:28: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 40.9
+5/4/2022 17:14:28: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 67.17
+5/4/2022 17:14:28: [G_Auto 1] :  Store Value (Shared) for market: stake = 25.81
+5/4/2022 17:14:28: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 108.07
+5/4/2022 17:14:28: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.26
+5/4/2022 17:14:28: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.3
+5/4/2022 17:14:28: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.3
+5/4/2022 17:14:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:14:44: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 17:14:59: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 17:17:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:17:11: [G_Auto 1] :  Store Value (Shared) for market: aFirstSetPrice = 1.22
+5/4/2022 17:17:11: [G_Auto 1] :  Store Value (Shared) for market: bFirstSetPrice = 5.7
+5/4/2022 17:17:16: [G_Auto 2] :  Placed closure bet with greening on Jil Teichmann by Backing 27.50 at 1.22
+5/4/2022 17:17:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:17:19: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aPoints = point: 0; games: 0; sets: 1 
+5/4/2022 17:17:19: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aServing = serving:0
+5/4/2022 17:17:19: [G_Auto 1] :  Store Text Value (Shared) for Anhelina Kalinina: bPoints = point: 0; games: 0; sets: 0 
+5/4/2022 17:17:19: [G_Auto 1] :  Store Text Value (Shared) for Anhelina Kalinina: bServing = serving:2
+5/4/2022 17:17:19: [G_Auto 1] :  Store Value (Shared) for market: price = 1.22
+5/4/2022 17:17:19: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 68.4
+5/4/2022 17:17:19: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 67.17
+5/4/2022 17:17:19: [G_Auto 1] :  Store Value (Shared) for market: stake = 27.5
+5/4/2022 17:17:19: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 135.57
+5/4/2022 17:17:19: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.23
+5/4/2022 17:17:19: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.22
+5/4/2022 17:17:19: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 5.3
+5/4/2022 17:17:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:17:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:18:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:18:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:18:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:18:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:19:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:19:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:19:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:20:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:20:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:20:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:20:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:21:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:21:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:21:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:22:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:22:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:22:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:22:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:23:06: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:23:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:23:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:23:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:24:00: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 17:24:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:25:12: [G_Auto 2] :  € 22.86 Lay bet placed on Jil Teichmann at 1.35. Fully matched at 1.34.  Ref: 10836          ( Fill or kill bet with 15 seconds delay.   )
+5/4/2022 17:25:13: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aPoints = point: 0; games: 0; sets: 1 
+5/4/2022 17:25:13: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aServing = serving:1
+5/4/2022 17:25:13: [G_Auto 1] :  Store Text Value (Shared) for Anhelina Kalinina: bPoints = point: 0; games: 1; sets: 0 
+5/4/2022 17:25:13: [G_Auto 1] :  Store Text Value (Shared) for Anhelina Kalinina: bServing = serving:0
+5/4/2022 17:25:13: [G_Auto 1] :  Store Value (Shared) for market: price = 1.34
+5/4/2022 17:25:13: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 68.4
+5/4/2022 17:25:13: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 90.03
+5/4/2022 17:25:13: [G_Auto 1] :  Store Value (Shared) for market: stake = 22.86
+5/4/2022 17:25:13: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 158.43
+5/4/2022 17:25:13: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.4
+5/4/2022 17:25:13: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.33
+5/4/2022 17:25:13: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.1
+5/4/2022 17:25:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:25:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:25:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:25:54: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 17:26:11: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 17:30:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:30:55: [G_Auto 2] :  Placed closure bet with greening on Jil Teichmann by Backing 24.12 at 1.27
+5/4/2022 17:30:57: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aPoints = point: 0; games: 1; sets: 1 
+5/4/2022 17:30:57: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aServing = serving:0
+5/4/2022 17:30:57: [G_Auto 1] :  Store Text Value (Shared) for Anhelina Kalinina: bPoints = point: 0; games: 1; sets: 0 
+5/4/2022 17:30:57: [G_Auto 1] :  Store Text Value (Shared) for Anhelina Kalinina: bServing = serving:2
+5/4/2022 17:30:57: [G_Auto 1] :  Store Value (Shared) for market: price = 1.27
+5/4/2022 17:30:57: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 92.52
+5/4/2022 17:30:57: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 90.03
+5/4/2022 17:30:57: [G_Auto 1] :  Store Value (Shared) for market: stake = 24.12
+5/4/2022 17:30:57: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 182.55
+5/4/2022 17:30:57: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.49
+5/4/2022 17:30:57: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.29
+5/4/2022 17:30:57: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.5
+5/4/2022 17:30:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:31:03: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aPoints = point: 0; games: 1; sets: 1 
+5/4/2022 17:31:03: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aServing = serving:0
+5/4/2022 17:31:03: [G_Auto 1] :  Store Text Value (Shared) for Anhelina Kalinina: bPoints = point: 0; games: 1; sets: 0 
+5/4/2022 17:31:03: [G_Auto 1] :  Store Text Value (Shared) for Anhelina Kalinina: bServing = serving:2
+5/4/2022 17:31:03: [G_Auto 1] :  Store Value (Shared) for market: price = 1.27
+5/4/2022 17:31:03: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 92.52
+5/4/2022 17:31:03: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 90.03
+5/4/2022 17:31:03: [G_Auto 1] :  Store Value (Shared) for market: stake = 24.12
+5/4/2022 17:31:03: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 182.55
+5/4/2022 17:31:03: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.49
+5/4/2022 17:31:03: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.27
+5/4/2022 17:31:03: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.5
+5/4/2022 17:31:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:31:28: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 17:31:44: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 17:33:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:33:35: [G_Auto 2] :  € 53.33 Lay bet placed on Jil Teichmann at 1.15. Fully matched at 1.14.  Ref: 10841          ( Fill or kill bet with 15 seconds delay.   )
+5/4/2022 17:33:36: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aPoints = point: 0; games: 2; sets: 1 
+5/4/2022 17:33:36: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aServing = serving:1
+5/4/2022 17:33:36: [G_Auto 1] :  Store Text Value (Shared) for Anhelina Kalinina: bPoints = point: 0; games: 1; sets: 0 
+5/4/2022 17:33:36: [G_Auto 1] :  Store Text Value (Shared) for Anhelina Kalinina: bServing = serving:0
+5/4/2022 17:33:36: [G_Auto 1] :  Store Value (Shared) for market: price = 1.14
+5/4/2022 17:33:36: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 92.52
+5/4/2022 17:33:36: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 143.36
+5/4/2022 17:33:36: [G_Auto 1] :  Store Value (Shared) for market: stake = 53.33
+5/4/2022 17:33:36: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 235.88
+5/4/2022 17:33:36: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.96
+5/4/2022 17:33:36: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.13
+5/4/2022 17:33:36: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 8.8
+5/4/2022 17:33:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:33:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:34:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:34:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:34:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:35:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:35:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:35:34: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 17:35:50: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 17:36:07: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 17:36:23: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 17:38:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:38:49: [G_Auto 2] :  Placed closure bet with greening on Jil Teichmann by Backing 47.87 at 1.27
+5/4/2022 17:38:51: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aPoints = point: 0; games: 2; sets: 1 
+5/4/2022 17:38:51: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aServing = serving:0
+5/4/2022 17:38:51: [G_Auto 1] :  Store Text Value (Shared) for Anhelina Kalinina: bPoints = point: 0; games: 2; sets: 0 
+5/4/2022 17:38:51: [G_Auto 1] :  Store Text Value (Shared) for Anhelina Kalinina: bServing = serving:2
+5/4/2022 17:38:51: [G_Auto 1] :  Store Value (Shared) for market: price = 1.28
+5/4/2022 17:38:51: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 140.39
+5/4/2022 17:38:51: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 143.36
+5/4/2022 17:38:51: [G_Auto 1] :  Store Value (Shared) for market: stake = 47.87
+5/4/2022 17:38:51: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 283.75
+5/4/2022 17:38:51: [G_Auto 1] :  Store Value (Shared) for market: pl = 3.27
+5/4/2022 17:38:51: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.28
+5/4/2022 17:38:51: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.5
+5/4/2022 17:38:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:39:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:39:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:39:38: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 17:39:54: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 17:40:11: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 17:41:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:41:30: [G_Auto 2] :  € 57.14 Lay bet placed on Jil Teichmann at 1.14. Fully matched at 1.13.  Ref: 10843          ( Fill or kill bet with 15 seconds delay.   )
+5/4/2022 17:41:32: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aPoints = point: 0; games: 3; sets: 1 
+5/4/2022 17:41:32: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aServing = serving:1
+5/4/2022 17:41:32: [G_Auto 1] :  Store Text Value (Shared) for Anhelina Kalinina: bPoints = point: 0; games: 2; sets: 0 
+5/4/2022 17:41:32: [G_Auto 1] :  Store Text Value (Shared) for Anhelina Kalinina: bServing = serving:0
+5/4/2022 17:41:32: [G_Auto 1] :  Store Value (Shared) for market: price = 1.13
+5/4/2022 17:41:32: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 140.39
+5/4/2022 17:41:32: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 200.5
+5/4/2022 17:41:32: [G_Auto 1] :  Store Value (Shared) for market: stake = 57.14
+5/4/2022 17:41:32: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 340.89
+5/4/2022 17:41:32: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.83
+5/4/2022 17:41:32: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.13
+5/4/2022 17:41:32: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 8.6
+5/4/2022 17:41:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:41:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:42:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:42:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:42:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:42:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:43:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:43:22: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 17:43:38: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 17:51:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:51:23: [G_Auto 2] :  Placed closure bet with greening on Jil Teichmann by Backing 50.46 at 1.27
+5/4/2022 17:51:24: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aPoints = point: 0; games: 3; sets: 1 
+5/4/2022 17:51:24: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aServing = serving:0
+5/4/2022 17:51:24: [G_Auto 1] :  Store Text Value (Shared) for Anhelina Kalinina: bPoints = point: 0; games: 3; sets: 0 
+5/4/2022 17:51:24: [G_Auto 1] :  Store Text Value (Shared) for Anhelina Kalinina: bServing = serving:2
+5/4/2022 17:51:24: [G_Auto 1] :  Store Value (Shared) for market: price = 1.27
+5/4/2022 17:51:24: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 190.85
+5/4/2022 17:51:24: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 200.5
+5/4/2022 17:51:24: [G_Auto 1] :  Store Value (Shared) for market: stake = 50.46
+5/4/2022 17:51:24: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 391.35
+5/4/2022 17:51:24: [G_Auto 1] :  Store Value (Shared) for market: pl = 9.46
+5/4/2022 17:51:24: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.27
+5/4/2022 17:51:24: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.8
+5/4/2022 17:51:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:51:30: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aPoints = point: 0; games: 3; sets: 1 
+5/4/2022 17:51:30: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aServing = serving:0
+5/4/2022 17:51:30: [G_Auto 1] :  Store Text Value (Shared) for Anhelina Kalinina: bPoints = point: 0; games: 3; sets: 0 
+5/4/2022 17:51:30: [G_Auto 1] :  Store Text Value (Shared) for Anhelina Kalinina: bServing = serving:2
+5/4/2022 17:51:30: [G_Auto 1] :  Store Value (Shared) for market: price = 1.27
+5/4/2022 17:51:30: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 190.85
+5/4/2022 17:51:30: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 200.5
+5/4/2022 17:51:30: [G_Auto 1] :  Store Value (Shared) for market: stake = 50.46
+5/4/2022 17:51:30: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 391.35
+5/4/2022 17:51:30: [G_Auto 1] :  Store Value (Shared) for market: pl = 9.46
+5/4/2022 17:51:30: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.27
+5/4/2022 17:51:30: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.5
+5/4/2022 17:51:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:51:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:52:09: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 17:52:24: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 17:52:40: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 17:57:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:57:57: [G_Auto 2] :  € 57.14 Lay bet placed on Jil Teichmann at 1.14. Fully matched at 1.13.  Ref: 10849          ( Fill or kill bet with 15 seconds delay.   )
+5/4/2022 17:57:57: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aPoints = point: 0; games: 4; sets: 1 
+5/4/2022 17:57:57: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aServing = serving:1
+5/4/2022 17:57:57: [G_Auto 1] :  Store Text Value (Shared) for Anhelina Kalinina: bPoints = point: 0; games: 3; sets: 0 
+5/4/2022 17:57:57: [G_Auto 1] :  Store Text Value (Shared) for Anhelina Kalinina: bServing = serving:0
+5/4/2022 17:57:57: [G_Auto 1] :  Store Value (Shared) for market: price = 1.13
+5/4/2022 17:57:57: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 190.85
+5/4/2022 17:57:57: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 257.64
+5/4/2022 17:57:57: [G_Auto 1] :  Store Value (Shared) for market: stake = 57.14
+5/4/2022 17:57:57: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 448.49
+5/4/2022 17:57:57: [G_Auto 1] :  Store Value (Shared) for market: pl = 8.96
+5/4/2022 17:57:57: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.13
+5/4/2022 17:57:57: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 8.6
+5/4/2022 17:57:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:58:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:58:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:58:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:59:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:59:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:59:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 17:59:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 18:00:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 18:00:18: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 18:02:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 18:02:38: [G_Auto 2] :  Placed closure bet with greening on Jil Teichmann by Backing 62.09 at 1.04
+5/4/2022 18:02:39: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aPoints = point: 0; games: 5; sets: 1 
+5/4/2022 18:02:39: [G_Auto 1] :  Store Text Value (Shared) for Jil Teichmann: aServing = serving:0
+5/4/2022 18:02:39: [G_Auto 1] :  Store Text Value (Shared) for Anhelina Kalinina: bPoints = point: 0; games: 3; sets: 0 
+5/4/2022 18:02:39: [G_Auto 1] :  Store Text Value (Shared) for Anhelina Kalinina: bServing = serving:2
+5/4/2022 18:02:39: [G_Auto 1] :  Store Value (Shared) for market: price = 1.04
+5/4/2022 18:02:39: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 252.94
+5/4/2022 18:02:39: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 257.64
+5/4/2022 18:02:39: [G_Auto 1] :  Store Value (Shared) for market: stake = 62.09
+5/4/2022 18:02:39: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 510.58
+5/4/2022 18:02:39: [G_Auto 1] :  Store Value (Shared) for market: pl = 4.61
+5/4/2022 18:02:39: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.04
+5/4/2022 18:02:39: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 25
+5/4/2022 18:02:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 18:02:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 18:03:08: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 18:03:24: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 18:07:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 18:07:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 18:07:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 18:08:06: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 18:08:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 18:08:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 18:08:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 18:09:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 18:09:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 18:09:30: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 18:09:45: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 18:10:00: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/4/2022 18:12:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/4/2022 18:12:30:  Guardian has detected that the market is suspended

@@ -1,0 +1,168 @@
+4/26/2022 09:05:54: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: info = marketName: Otte v Ma Topo - Match Odds; runnerA: Oscar Otte; runnerB: Marko Topo 
+4/26/2022 09:05:54: [G_Auto 2] :  Store Value (Shared) for market: aId = 9624731
+4/26/2022 09:05:54: [G_Auto 2] :  Store Value (Shared) for market: bId = 36703546
+4/26/2022 16:46:39:  Guardian has detected that the market is in-play
+4/26/2022 16:46:39:  Guardian has detected that the market is suspended
+4/26/2022 16:46:42: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.2; bBsp: 6.2; volume: 56719.78 
+4/26/2022 16:46:42: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.2; bBsp: 6.2; volume: 56719.78 
+4/26/2022 16:46:42:  Guardian has detected that the market is now unsuspended
+4/26/2022 16:46:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:46:56: [G_Auto 1] :  € 40.00 Lay bet placed on Oscar Otte at 1.2. Entirely unmatched when it initially reached the market.   Ref: 10256          ( Fill or kill bet with 15 seconds delay.   )
+4/26/2022 16:47:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:47:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 16:47:07: [G_Auto 1] :  € 40 of unmatched bet (Ref:10256) was filled before remainder was killed.
+4/26/2022 16:47:07: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aPoints = point: 15; games: 0; sets: 0 
+4/26/2022 16:47:07: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aServing = serving:1
+4/26/2022 16:47:07: [G_Auto 2] :  Store Text Value (Shared) for Marko Topo: bPoints = point: 0; games: 0; sets: 0 
+4/26/2022 16:47:07: [G_Auto 2] :  Store Text Value (Shared) for Marko Topo: bServing = serving:0
+4/26/2022 16:47:07: [G_Auto 2] :  Store Value (Shared) for market: price = 1.2
+4/26/2022 16:47:07: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+4/26/2022 16:47:07: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 40
+4/26/2022 16:47:07: [G_Auto 2] :  Store Value (Shared) for market: stake = 40
+4/26/2022 16:47:07: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 40
+4/26/2022 16:47:07: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.68
+4/26/2022 16:47:07: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.18
+4/26/2022 16:47:07: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 6.6
+4/26/2022 16:47:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 16:48:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:48:14: [G_Auto 1] :  Placed closure bet with greening on Oscar Otte by Backing 41.38 at 1.16
+4/26/2022 16:48:16: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aPoints = point: 0; games: 1; sets: 0 
+4/26/2022 16:48:16: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aServing = serving:0
+4/26/2022 16:48:16: [G_Auto 2] :  Store Text Value (Shared) for Marko Topo: bPoints = point: 0; games: 0; sets: 0 
+4/26/2022 16:48:16: [G_Auto 2] :  Store Text Value (Shared) for Marko Topo: bServing = serving:2
+4/26/2022 16:48:16: [G_Auto 2] :  Store Value (Shared) for market: price = 1.16
+4/26/2022 16:48:16: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 41.38
+4/26/2022 16:48:16: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 40
+4/26/2022 16:48:16: [G_Auto 2] :  Store Value (Shared) for market: stake = 41.38
+4/26/2022 16:48:16: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 81.38
+4/26/2022 16:48:16: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.38
+4/26/2022 16:48:16: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.17
+4/26/2022 16:48:16: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 7
+4/26/2022 16:48:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:48:23: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aPoints = point: 0; games: 1; sets: 0 
+4/26/2022 16:48:23: [G_Auto 2] :  Store Text Value (Shared) for Oscar Otte: aServing = serving:0
+4/26/2022 16:48:23: [G_Auto 2] :  Store Text Value (Shared) for Marko Topo: bPoints = point: 0; games: 0; sets: 0 
+4/26/2022 16:48:23: [G_Auto 2] :  Store Text Value (Shared) for Marko Topo: bServing = serving:2
+4/26/2022 16:48:23: [G_Auto 2] :  Store Value (Shared) for market: price = 1.16
+4/26/2022 16:48:23: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 41.38
+4/26/2022 16:48:23: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 40
+4/26/2022 16:48:23: [G_Auto 2] :  Store Value (Shared) for market: stake = 41.38
+4/26/2022 16:48:23: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 81.38
+4/26/2022 16:48:23: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.38
+4/26/2022 16:48:23: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.16
+4/26/2022 16:48:23: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 7
+4/26/2022 16:48:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:48:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:49:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:49:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 16:49:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 16:49:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 16:49:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 16:52:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:53:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:53:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:53:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 16:53:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 16:55:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:56:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:56:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:56:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:56:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:57:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:57:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:57:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 16:57:55: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 16:58:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 17:00:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 17:00:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 17:01:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 17:01:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 17:01:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 17:03:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 17:03:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 17:04:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 17:04:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 17:04:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 17:05:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 17:05:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 17:05:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 17:05:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 17:05:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 17:08:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 17:09:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 17:09:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 17:09:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 17:09:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 17:11:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 17:11:37: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 1.06
+4/26/2022 17:11:37: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 17.5
+4/26/2022 17:11:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 17:12:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 17:12:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 17:12:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 17:12:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 17:13:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 17:13:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 17:13:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 17:13:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 17:14:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 17:14:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 17:14:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 17:16:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 17:16:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 17:16:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 17:17:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 17:17:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 17:17:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 17:17:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 17:17:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 17:18:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 17:18:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 17:19:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 17:20:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 17:20:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 17:20:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 17:24:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 17:24:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 17:25:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 17:25:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 17:25:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 17:25:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 17:26:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 17:26:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 17:26:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 17:26:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 17:29:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 17:29:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 17:30:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 17:30:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 17:30:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 17:32:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 17:32:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 17:32:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 17:32:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 17:33:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 17:33:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 17:33:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 17:33:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 17:33:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 17:34:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 17:35:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 17:35:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 17:35:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 17:35:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 17:36:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 17:38:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 17:38:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 17:39:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 17:39:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 17:39:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 17:39:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 17:40:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 17:40:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 17:40:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 17:40:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 17:41:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 17:41:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/26/2022 17:43:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/26/2022 17:43:02:  Guardian has detected that the market is suspended

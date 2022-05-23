@@ -1,0 +1,741 @@
+4/30/2022 11:34:01: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: info = marketName: Muchova v Bencic - Match Odds; runnerA: Karolina Muchova; runnerB: Belinda Bencic 
+4/30/2022 11:34:01: [G_Auto 2] :  Store Value (Shared) for market: aId = 9632758
+4/30/2022 11:34:01: [G_Auto 2] :  Store Value (Shared) for market: bId = 6390244
+4/30/2022 15:57:44:  Guardian has detected that the market is in-play
+4/30/2022 15:57:44:  Guardian has detected that the market is suspended
+4/30/2022 15:57:46: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 3.55; bBsp: 1.37; volume: 42744.23 
+4/30/2022 15:57:46: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 3.55; bBsp: 1.37; volume: 42744.23 
+4/30/2022 15:57:46:  Guardian has detected that the market is now unsuspended
+4/30/2022 15:58:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 15:58:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 15:58:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 15:58:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 15:59:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 15:59:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 15:59:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 16:02:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 16:02:32: [G_Auto 1] :  € 20.00 Lay bet placed on Belinda Bencic at 1.4. Fully matched at 1.39.  Ref: 10062          ( Fill or kill bet with 15 seconds delay.   )
+4/30/2022 16:02:33: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: aPoints = point: 0; games: 1; sets: 0 
+4/30/2022 16:02:33: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: aServing = serving:0
+4/30/2022 16:02:33: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bPoints = point: 0; games: 1; sets: 0 
+4/30/2022 16:02:33: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bServing = serving:2
+4/30/2022 16:02:33: [G_Auto 2] :  Store Value (Shared) for market: price = 1.39
+4/30/2022 16:02:33: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+4/30/2022 16:02:33: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 20
+4/30/2022 16:02:33: [G_Auto 2] :  Store Value (Shared) for market: stake = 20
+4/30/2022 16:02:33: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 20
+4/30/2022 16:02:33: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.14
+4/30/2022 16:02:33: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.65
+4/30/2022 16:02:33: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.33
+4/30/2022 16:02:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 16:02:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 16:03:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 16:03:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 16:03:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 16:05:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 16:05:18: [G_Auto 1] :  Placed closure bet with greening on Belinda Bencic by Backing 21.55 at 1.29
+4/30/2022 16:05:18: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: aPoints = point: 0; games: 1; sets: 0 
+4/30/2022 16:05:18: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: aServing = serving:1
+4/30/2022 16:05:18: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bPoints = point: 0; games: 2; sets: 0 
+4/30/2022 16:05:18: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bServing = serving:0
+4/30/2022 16:05:18: [G_Auto 2] :  Store Value (Shared) for market: price = 1.29
+4/30/2022 16:05:18: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 21.55
+4/30/2022 16:05:18: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 20
+4/30/2022 16:05:18: [G_Auto 2] :  Store Value (Shared) for market: stake = 21.55
+4/30/2022 16:05:18: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 41.55
+4/30/2022 16:05:18: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.55
+4/30/2022 16:05:18: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.5
+4/30/2022 16:05:18: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.29
+4/30/2022 16:05:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 16:05:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 16:05:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 16:06:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 16:06:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 16:06:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 16:06:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 16:07:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 16:07:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 16:07:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 16:07:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 16:12:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 16:13:01: [G_Auto 1] :  € 42.11 Lay bet placed on Belinda Bencic at 1.19. Fully matched at 1.18.  Ref: 10070          ( Fill or kill bet with 15 seconds delay.   )
+4/30/2022 16:13:02: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: aPoints = point: 0; games: 1; sets: 0 
+4/30/2022 16:13:02: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: aServing = serving:0
+4/30/2022 16:13:02: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bPoints = point: 0; games: 3; sets: 0 
+4/30/2022 16:13:02: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bServing = serving:2
+4/30/2022 16:13:02: [G_Auto 2] :  Store Value (Shared) for market: price = 1.18
+4/30/2022 16:13:02: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 21.55
+4/30/2022 16:13:02: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 62.11
+4/30/2022 16:13:02: [G_Auto 2] :  Store Value (Shared) for market: stake = 42.11
+4/30/2022 16:13:02: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 83.66
+4/30/2022 16:13:02: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.91
+4/30/2022 16:13:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 6.8
+4/30/2022 16:13:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.18
+4/30/2022 16:13:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 16:13:07: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: aPoints = point: 0; games: 1; sets: 0 
+4/30/2022 16:13:07: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: aServing = serving:0
+4/30/2022 16:13:07: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bPoints = point: 0; games: 3; sets: 0 
+4/30/2022 16:13:07: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bServing = serving:2
+4/30/2022 16:13:07: [G_Auto 2] :  Store Value (Shared) for market: price = 1.18
+4/30/2022 16:13:07: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 21.55
+4/30/2022 16:13:07: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 62.11
+4/30/2022 16:13:07: [G_Auto 2] :  Store Value (Shared) for market: stake = 42.11
+4/30/2022 16:13:07: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 83.66
+4/30/2022 16:13:07: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.28
+4/30/2022 16:13:07: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 6.8
+4/30/2022 16:13:07: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.18
+4/30/2022 16:13:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 16:13:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 16:13:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 16:14:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 16:14:16: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 16:21:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 16:21:22: [G_Auto 1] :  Placed closure bet with greening on Belinda Bencic by Backing 43.21 at 1.15
+4/30/2022 16:21:23: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: aPoints = point: 0; games: 1; sets: 0 
+4/30/2022 16:21:23: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: aServing = serving:1
+4/30/2022 16:21:23: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bPoints = point: 0; games: 4; sets: 0 
+4/30/2022 16:21:23: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bServing = serving:0
+4/30/2022 16:21:23: [G_Auto 2] :  Store Value (Shared) for market: price = 1.15
+4/30/2022 16:21:23: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 64.76
+4/30/2022 16:21:23: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 62.11
+4/30/2022 16:21:23: [G_Auto 2] :  Store Value (Shared) for market: stake = 43.21
+4/30/2022 16:21:23: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 126.87
+4/30/2022 16:21:23: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.65
+4/30/2022 16:21:23: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 7.2
+4/30/2022 16:21:23: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.15
+4/30/2022 16:21:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 16:21:28: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: aPoints = point: 0; games: 1; sets: 0 
+4/30/2022 16:21:28: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: aServing = serving:1
+4/30/2022 16:21:28: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bPoints = point: 0; games: 4; sets: 0 
+4/30/2022 16:21:28: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bServing = serving:0
+4/30/2022 16:21:28: [G_Auto 2] :  Store Value (Shared) for market: price = 1.15
+4/30/2022 16:21:28: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 64.76
+4/30/2022 16:21:28: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 62.11
+4/30/2022 16:21:28: [G_Auto 2] :  Store Value (Shared) for market: stake = 43.21
+4/30/2022 16:21:28: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 126.87
+4/30/2022 16:21:28: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.65
+4/30/2022 16:21:28: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 7.2
+4/30/2022 16:21:28: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.16
+4/30/2022 16:21:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 16:21:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 16:22:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 16:22:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 16:22:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 16:23:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 16:23:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 16:23:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 16:23:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 16:23:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 16:24:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 16:29:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 16:29:30: [G_Auto 1] :  € 42.11 Lay bet placed on Belinda Bencic at 1.19. Fully matched at 1.19.  Ref: 10077          ( Fill or kill bet with 15 seconds delay.   )
+4/30/2022 16:29:31: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: aPoints = point: 0; games: 2; sets: 0 
+4/30/2022 16:29:31: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: aServing = serving:0
+4/30/2022 16:29:31: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bPoints = point: 0; games: 4; sets: 0 
+4/30/2022 16:29:31: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bServing = serving:2
+4/30/2022 16:29:31: [G_Auto 2] :  Store Value (Shared) for market: price = 1.19
+4/30/2022 16:29:31: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 64.76
+4/30/2022 16:29:31: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 104.22
+4/30/2022 16:29:31: [G_Auto 2] :  Store Value (Shared) for market: stake = 42.11
+4/30/2022 16:29:31: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 168.98
+4/30/2022 16:29:31: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.37
+4/30/2022 16:29:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 7.2
+4/30/2022 16:29:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.17
+4/30/2022 16:29:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 16:29:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 16:30:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 16:30:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 16:30:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 16:30:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 16:35:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 16:35:50: [G_Auto 1] :  Placed closure bet with greening on Belinda Bencic by Backing 43.96 at 1.14
+4/30/2022 16:35:50: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: aPoints = point: 0; games: 2; sets: 0 
+4/30/2022 16:35:50: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: aServing = serving:1
+4/30/2022 16:35:50: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bPoints = point: 0; games: 5; sets: 0 
+4/30/2022 16:35:50: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bServing = serving:0
+4/30/2022 16:35:50: [G_Auto 2] :  Store Value (Shared) for market: price = 1.14
+4/30/2022 16:35:50: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 108.72
+4/30/2022 16:35:50: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 104.22
+4/30/2022 16:35:50: [G_Auto 2] :  Store Value (Shared) for market: stake = 43.96
+4/30/2022 16:35:50: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 212.94
+4/30/2022 16:35:50: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.5
+4/30/2022 16:35:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 6.4
+4/30/2022 16:35:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.14
+4/30/2022 16:35:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 16:36:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 16:36:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 16:36:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 16:36:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 16:37:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 16:37:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 16:37:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 16:37:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 16:38:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 16:38:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 16:38:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 16:40:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 16:41:12: [G_Auto 1] :  € 42.11 Lay bet placed on Belinda Bencic at 1.19. Fully matched at 1.18.  Ref: 10085          ( Fill or kill bet with 15 seconds delay.   )
+4/30/2022 16:41:12: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: aPoints = point: 0; games: 3; sets: 0 
+4/30/2022 16:41:12: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: aServing = serving:0
+4/30/2022 16:41:12: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bPoints = point: 0; games: 5; sets: 0 
+4/30/2022 16:41:12: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bServing = serving:2
+4/30/2022 16:41:12: [G_Auto 2] :  Store Value (Shared) for market: price = 1.18
+4/30/2022 16:41:12: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 108.72
+4/30/2022 16:41:12: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 146.33
+4/30/2022 16:41:12: [G_Auto 2] :  Store Value (Shared) for market: stake = 42.11
+4/30/2022 16:41:12: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 255.05
+4/30/2022 16:41:12: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.86
+4/30/2022 16:41:12: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 6.8
+4/30/2022 16:41:12: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.18
+4/30/2022 16:41:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 16:41:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 16:41:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 16:41:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 16:42:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 16:42:16: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 16:42:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 16:43:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 16:43:56: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 8
+4/30/2022 16:43:56: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 1.12
+4/30/2022 16:44:01: [G_Auto 1] :  Placed closure bet with greening on Belinda Bencic by Backing 44.36 at 1.12
+4/30/2022 16:44:01: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: aPoints = point: 0; games: 0; sets: 0 
+4/30/2022 16:44:01: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: aServing = serving:1
+4/30/2022 16:44:01: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bPoints = point: 0; games: 0; sets: 1 
+4/30/2022 16:44:01: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bServing = serving:0
+4/30/2022 16:44:01: [G_Auto 2] :  Store Value (Shared) for market: price = 1.12
+4/30/2022 16:44:01: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 153.08
+4/30/2022 16:44:01: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 146.33
+4/30/2022 16:44:01: [G_Auto 2] :  Store Value (Shared) for market: stake = 44.36
+4/30/2022 16:44:01: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 299.41
+4/30/2022 16:44:01: [G_Auto 2] :  Store Value (Shared) for market: pl = -6.75
+4/30/2022 16:44:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 8.8
+4/30/2022 16:44:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.12
+4/30/2022 16:44:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 16:44:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 16:44:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 16:44:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 16:45:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 16:45:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 16:45:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 16:45:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 16:46:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 16:46:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 16:46:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 16:46:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 16:52:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 16:52:54: [G_Auto 1] :  € 42.11 Lay bet placed on Belinda Bencic at 1.19. Fully matched at 1.17.  Ref: 10092          ( Fill or kill bet with 15 seconds delay.   )
+4/30/2022 16:52:55: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: aPoints = point: 0; games: 1; sets: 0 
+4/30/2022 16:52:55: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: aServing = serving:0
+4/30/2022 16:52:55: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bPoints = point: 0; games: 0; sets: 1 
+4/30/2022 16:52:55: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bServing = serving:2
+4/30/2022 16:52:55: [G_Auto 2] :  Store Value (Shared) for market: price = 1.17
+4/30/2022 16:52:55: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 153.08
+4/30/2022 16:52:55: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 188.44
+4/30/2022 16:52:55: [G_Auto 2] :  Store Value (Shared) for market: stake = 42.11
+4/30/2022 16:52:55: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 341.52
+4/30/2022 16:52:55: [G_Auto 2] :  Store Value (Shared) for market: pl = -7.11
+4/30/2022 16:52:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 6.8
+4/30/2022 16:52:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.16
+4/30/2022 16:52:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 16:53:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 16:53:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 16:53:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 16:53:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 16:54:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 16:57:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 16:57:28: [G_Auto 1] :  Placed closure bet with greening on Belinda Bencic by Backing 43.60 at 1.13
+4/30/2022 16:57:28: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: aPoints = point: 0; games: 1; sets: 0 
+4/30/2022 16:57:28: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: aServing = serving:1
+4/30/2022 16:57:28: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bPoints = point: 0; games: 1; sets: 1 
+4/30/2022 16:57:28: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bServing = serving:0
+4/30/2022 16:57:28: [G_Auto 2] :  Store Value (Shared) for market: price = 1.13
+4/30/2022 16:57:28: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 196.68
+4/30/2022 16:57:28: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 188.44
+4/30/2022 16:57:28: [G_Auto 2] :  Store Value (Shared) for market: stake = 43.6
+4/30/2022 16:57:28: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 385.12
+4/30/2022 16:57:28: [G_Auto 2] :  Store Value (Shared) for market: pl = -8.24
+4/30/2022 16:57:28: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 8
+4/30/2022 16:57:28: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.13
+4/30/2022 16:57:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 16:57:33: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: aPoints = point: 0; games: 1; sets: 0 
+4/30/2022 16:57:33: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: aServing = serving:1
+4/30/2022 16:57:33: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bPoints = point: 0; games: 1; sets: 1 
+4/30/2022 16:57:33: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bServing = serving:0
+4/30/2022 16:57:33: [G_Auto 2] :  Store Value (Shared) for market: price = 1.13
+4/30/2022 16:57:33: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 196.68
+4/30/2022 16:57:33: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 188.44
+4/30/2022 16:57:33: [G_Auto 2] :  Store Value (Shared) for market: stake = 43.6
+4/30/2022 16:57:33: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 385.12
+4/30/2022 16:57:33: [G_Auto 2] :  Store Value (Shared) for market: pl = -8.24
+4/30/2022 16:57:33: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 8
+4/30/2022 16:57:33: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.14
+4/30/2022 16:57:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 16:58:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 16:58:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 16:58:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 16:58:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 16:59:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:00:10: [G_Auto 1] :  € 40.00 Lay bet placed on Belinda Bencic at 1.2. Fully matched at 1.2.  Ref: 10098          ( Fill or kill bet with 15 seconds delay.   )
+4/30/2022 17:00:11: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: aPoints = point: 0; games: 2; sets: 0 
+4/30/2022 17:00:11: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: aServing = serving:0
+4/30/2022 17:00:11: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bPoints = point: 0; games: 1; sets: 1 
+4/30/2022 17:00:11: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bServing = serving:2
+4/30/2022 17:00:11: [G_Auto 2] :  Store Value (Shared) for market: price = 1.2
+4/30/2022 17:00:11: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 196.68
+4/30/2022 17:00:11: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 228.44
+4/30/2022 17:00:11: [G_Auto 2] :  Store Value (Shared) for market: stake = 40
+4/30/2022 17:00:11: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 425.12
+4/30/2022 17:00:11: [G_Auto 2] :  Store Value (Shared) for market: pl = -8.58
+4/30/2022 17:00:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 6.2
+4/30/2022 17:00:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.19
+4/30/2022 17:00:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:00:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:00:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:01:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:01:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:01:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:01:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:02:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:02:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:02:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 17:02:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 17:02:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 17:05:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:05:36: [G_Auto 1] :  Placed closure bet with greening on Belinda Bencic by Backing 34.78 at 1.38
+4/30/2022 17:05:36: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: aPoints = point: 0; games: 3; sets: 0 
+4/30/2022 17:05:36: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: aServing = serving:1
+4/30/2022 17:05:36: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bPoints = point: 0; games: 1; sets: 1 
+4/30/2022 17:05:36: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bServing = serving:0
+4/30/2022 17:05:36: [G_Auto 2] :  Store Value (Shared) for market: price = 1.38
+4/30/2022 17:05:36: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 231.46
+4/30/2022 17:05:36: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 228.44
+4/30/2022 17:05:36: [G_Auto 2] :  Store Value (Shared) for market: stake = 34.78
+4/30/2022 17:05:36: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 459.9
+4/30/2022 17:05:36: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.02
+4/30/2022 17:05:36: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.55
+4/30/2022 17:05:36: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.38
+4/30/2022 17:05:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:05:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:06:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:06:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 17:06:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 17:06:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 17:10:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:10:35: [G_Auto 1] :  € 36.36 Lay bet placed on Belinda Bencic at 1.22. Fully matched at 1.21.  Ref: 10107          ( Fill or kill bet with 15 seconds delay.   )
+4/30/2022 17:10:35: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: aPoints = point: 0; games: 3; sets: 0 
+4/30/2022 17:10:35: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: aServing = serving:0
+4/30/2022 17:10:35: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bPoints = point: 0; games: 2; sets: 1 
+4/30/2022 17:10:35: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bServing = serving:2
+4/30/2022 17:10:35: [G_Auto 2] :  Store Value (Shared) for market: price = 1.21
+4/30/2022 17:10:35: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 231.46
+4/30/2022 17:10:35: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 264.8
+4/30/2022 17:10:35: [G_Auto 2] :  Store Value (Shared) for market: stake = 36.36
+4/30/2022 17:10:35: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 496.26
+4/30/2022 17:10:35: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.33
+4/30/2022 17:10:35: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4
+4/30/2022 17:10:35: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.21
+4/30/2022 17:10:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:10:40: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: aPoints = point: 0; games: 3; sets: 0 
+4/30/2022 17:10:40: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: aServing = serving:0
+4/30/2022 17:10:40: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bPoints = point: 0; games: 2; sets: 1 
+4/30/2022 17:10:40: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bServing = serving:2
+4/30/2022 17:10:40: [G_Auto 2] :  Store Value (Shared) for market: price = 1.21
+4/30/2022 17:10:40: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 231.46
+4/30/2022 17:10:40: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 264.8
+4/30/2022 17:10:40: [G_Auto 2] :  Store Value (Shared) for market: stake = 36.36
+4/30/2022 17:10:40: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 496.26
+4/30/2022 17:10:40: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.03
+4/30/2022 17:10:40: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 5.8
+4/30/2022 17:10:40: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.21
+4/30/2022 17:10:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:11:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:11:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:11:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:11:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:12:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:12:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:12:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:12:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 17:13:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 17:13:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 17:13:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 17:13:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 17:15:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:15:36: [G_Auto 1] :  Placed closure bet with greening on Belinda Bencic by Backing 38.60 at 1.14
+4/30/2022 17:15:36: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: aPoints = point: 0; games: 3; sets: 0 
+4/30/2022 17:15:36: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: aServing = serving:1
+4/30/2022 17:15:36: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bPoints = point: 0; games: 3; sets: 1 
+4/30/2022 17:15:36: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bServing = serving:0
+4/30/2022 17:15:36: [G_Auto 2] :  Store Value (Shared) for market: price = 1.14
+4/30/2022 17:15:36: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 270.06
+4/30/2022 17:15:36: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 264.8
+4/30/2022 17:15:36: [G_Auto 2] :  Store Value (Shared) for market: stake = 38.6
+4/30/2022 17:15:36: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 534.86
+4/30/2022 17:15:36: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.26
+4/30/2022 17:15:36: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 7.6
+4/30/2022 17:15:36: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.15
+4/30/2022 17:15:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:15:41: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: aPoints = point: 0; games: 3; sets: 0 
+4/30/2022 17:15:41: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: aServing = serving:1
+4/30/2022 17:15:41: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bPoints = point: 0; games: 3; sets: 1 
+4/30/2022 17:15:41: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bServing = serving:0
+4/30/2022 17:15:41: [G_Auto 2] :  Store Value (Shared) for market: price = 1.14
+4/30/2022 17:15:41: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 270.06
+4/30/2022 17:15:41: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 264.8
+4/30/2022 17:15:41: [G_Auto 2] :  Store Value (Shared) for market: stake = 38.6
+4/30/2022 17:15:41: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 534.86
+4/30/2022 17:15:41: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.26
+4/30/2022 17:15:41: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 7.6
+4/30/2022 17:15:41: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.15
+4/30/2022 17:15:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:16:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:16:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:16:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:16:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 17:17:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 17:17:16: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 17:17:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 17:22:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:22:13: [G_Auto 1] :  € 34.78 Lay bet placed on Belinda Bencic at 1.23. Fully matched at 1.22.  Ref: 10114          ( Fill or kill bet with 15 seconds delay.   )
+4/30/2022 17:22:14: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: aPoints = point: 0; games: 4; sets: 0 
+4/30/2022 17:22:14: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: aServing = serving:0
+4/30/2022 17:22:14: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bPoints = point: 0; games: 3; sets: 1 
+4/30/2022 17:22:14: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bServing = serving:2
+4/30/2022 17:22:14: [G_Auto 2] :  Store Value (Shared) for market: price = 1.22
+4/30/2022 17:22:14: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 270.06
+4/30/2022 17:22:14: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 299.58
+4/30/2022 17:22:14: [G_Auto 2] :  Store Value (Shared) for market: stake = 34.78
+4/30/2022 17:22:14: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 569.64
+4/30/2022 17:22:14: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.55
+4/30/2022 17:22:14: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 5.8
+4/30/2022 17:22:14: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.21
+4/30/2022 17:22:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:22:20: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: aPoints = point: 0; games: 4; sets: 0 
+4/30/2022 17:22:20: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: aServing = serving:0
+4/30/2022 17:22:20: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bPoints = point: 0; games: 3; sets: 1 
+4/30/2022 17:22:20: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bServing = serving:2
+4/30/2022 17:22:20: [G_Auto 2] :  Store Value (Shared) for market: price = 1.22
+4/30/2022 17:22:20: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 270.06
+4/30/2022 17:22:20: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 299.58
+4/30/2022 17:22:20: [G_Auto 2] :  Store Value (Shared) for market: stake = 34.78
+4/30/2022 17:22:20: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 569.64
+4/30/2022 17:22:20: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.55
+4/30/2022 17:22:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 5.5
+4/30/2022 17:22:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.21
+4/30/2022 17:22:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:22:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:23:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:23:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:23:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:23:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:24:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:24:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:24:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 17:24:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 17:26:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:26:15: [G_Auto 1] :  Placed closure bet with greening on Belinda Bencic by Backing 36.90 at 1.15
+4/30/2022 17:26:16: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: aPoints = point: 0; games: 4; sets: 0 
+4/30/2022 17:26:16: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: aServing = serving:1
+4/30/2022 17:26:16: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bPoints = point: 0; games: 4; sets: 1 
+4/30/2022 17:26:16: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bServing = serving:0
+4/30/2022 17:26:16: [G_Auto 2] :  Store Value (Shared) for market: price = 1.15
+4/30/2022 17:26:16: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 306.96
+4/30/2022 17:26:16: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 299.58
+4/30/2022 17:26:16: [G_Auto 2] :  Store Value (Shared) for market: stake = 36.9
+4/30/2022 17:26:16: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 606.54
+4/30/2022 17:26:16: [G_Auto 2] :  Store Value (Shared) for market: pl = -7.38
+4/30/2022 17:26:16: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 7.6
+4/30/2022 17:26:16: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.15
+4/30/2022 17:26:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:26:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:26:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 17:27:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 17:27:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 17:27:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 17:28:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:29:04: [G_Auto 1] :  € 32.00 Lay bet placed on Belinda Bencic at 1.25. Fully matched at 1.24.  Ref: 10121          ( Fill or kill bet with 15 seconds delay.   )
+4/30/2022 17:29:05: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: aPoints = point: 0; games: 5; sets: 0 
+4/30/2022 17:29:05: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: aServing = serving:0
+4/30/2022 17:29:05: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bPoints = point: 0; games: 4; sets: 1 
+4/30/2022 17:29:05: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bServing = serving:2
+4/30/2022 17:29:05: [G_Auto 2] :  Store Value (Shared) for market: price = 1.24
+4/30/2022 17:29:05: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 306.96
+4/30/2022 17:29:05: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 331.58
+4/30/2022 17:29:05: [G_Auto 2] :  Store Value (Shared) for market: stake = 32
+4/30/2022 17:29:05: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 638.54
+4/30/2022 17:29:05: [G_Auto 2] :  Store Value (Shared) for market: pl = -7.64
+4/30/2022 17:29:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 5.1
+4/30/2022 17:29:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.24
+4/30/2022 17:29:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:29:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:29:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:29:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:30:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:30:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:30:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:30:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:31:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:31:16: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 17:31:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 17:34:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:34:45: [G_Auto 2] :  Store Value (Shared) for market: aSecondSetPrice = 2.6
+4/30/2022 17:34:45: [G_Auto 2] :  Store Value (Shared) for market: bSecondSetPrice = 1.65
+4/30/2022 17:34:50: [G_Auto 1] :  Placed closure bet with greening on Belinda Bencic by Backing 24.19 at 1.64
+4/30/2022 17:34:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:35:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:35:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:35:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:35:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:36:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:36:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:36:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:36:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:37:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:37:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:37:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:37:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:38:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:38:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:38:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:38:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:39:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:39:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:39:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:40:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:40:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:40:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:40:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:40:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 17:41:01: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: aPoints = point: 15; games: 0; sets: 1 
+4/30/2022 17:41:01: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: aServing = serving:1
+4/30/2022 17:41:01: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bPoints = point: 0; games: 0; sets: 1 
+4/30/2022 17:41:01: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bServing = serving:0
+4/30/2022 17:41:01: [G_Auto 2] :  Store Value (Shared) for market: price = 1.64
+4/30/2022 17:41:01: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 331.15
+4/30/2022 17:41:01: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 331.58
+4/30/2022 17:41:01: [G_Auto 2] :  Store Value (Shared) for market: stake = 24.19
+4/30/2022 17:41:01: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 662.73
+4/30/2022 17:41:01: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.42
+4/30/2022 17:41:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.74
+4/30/2022 17:41:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.66
+4/30/2022 17:41:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 17:41:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 17:44:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:44:41: [G_Auto 1] :  € 9.88 Lay bet placed on Belinda Bencic at 1.81. Fully matched at 1.8.  Ref: 10134          ( Fill or kill bet with 15 seconds delay.   )
+4/30/2022 17:44:42: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: aPoints = point: 0; games: 1; sets: 1 
+4/30/2022 17:44:42: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: aServing = serving:0
+4/30/2022 17:44:42: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bPoints = point: 0; games: 0; sets: 1 
+4/30/2022 17:44:42: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bServing = serving:2
+4/30/2022 17:44:42: [G_Auto 2] :  Store Value (Shared) for market: price = 1.8
+4/30/2022 17:44:42: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 331.15
+4/30/2022 17:44:42: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 341.46
+4/30/2022 17:44:42: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.88
+4/30/2022 17:44:42: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 672.61
+4/30/2022 17:44:42: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.36
+4/30/2022 17:44:42: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.28
+4/30/2022 17:44:42: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.79
+4/30/2022 17:44:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:44:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:45:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:45:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:45:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:45:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 17:46:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 17:46:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 17:49:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:49:56: [G_Auto 1] :  Placed closure bet with greening on Belinda Bencic by Backing 11.12 at 1.6
+4/30/2022 17:49:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:50:01: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: aPoints = point: 0; games: 1; sets: 1 
+4/30/2022 17:50:01: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: aServing = serving:1
+4/30/2022 17:50:01: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bPoints = point: 0; games: 1; sets: 1 
+4/30/2022 17:50:01: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bServing = serving:0
+4/30/2022 17:50:01: [G_Auto 2] :  Store Value (Shared) for market: price = 1.6
+4/30/2022 17:50:01: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 342.27
+4/30/2022 17:50:01: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 341.46
+4/30/2022 17:50:01: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.12
+4/30/2022 17:50:01: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 683.73
+4/30/2022 17:50:01: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.81
+4/30/2022 17:50:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.62
+4/30/2022 17:50:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.6
+4/30/2022 17:50:06: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: aPoints = point: 0; games: 1; sets: 1 
+4/30/2022 17:50:06: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: aServing = serving:1
+4/30/2022 17:50:06: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bPoints = point: 0; games: 1; sets: 1 
+4/30/2022 17:50:06: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bServing = serving:0
+4/30/2022 17:50:06: [G_Auto 2] :  Store Value (Shared) for market: price = 1.6
+4/30/2022 17:50:06: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 342.27
+4/30/2022 17:50:06: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 341.46
+4/30/2022 17:50:06: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.12
+4/30/2022 17:50:06: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 683.73
+4/30/2022 17:50:06: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.81
+4/30/2022 17:50:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.62
+4/30/2022 17:50:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.6
+4/30/2022 17:50:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:50:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 17:50:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 17:50:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 17:53:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:53:16: [G_Auto 1] :  € 8.42 Lay bet placed on Belinda Bencic at 1.95. Fully matched at 1.95.  Ref: 10141          ( Fill or kill bet with 15 seconds delay.   )
+4/30/2022 17:53:16: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: aPoints = point: 0; games: 2; sets: 1 
+4/30/2022 17:53:16: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: aServing = serving:0
+4/30/2022 17:53:16: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bPoints = point: 0; games: 1; sets: 1 
+4/30/2022 17:53:16: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bServing = serving:2
+4/30/2022 17:53:16: [G_Auto 2] :  Store Value (Shared) for market: price = 1.95
+4/30/2022 17:53:16: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 342.27
+4/30/2022 17:53:16: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 349.88
+4/30/2022 17:53:16: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.42
+4/30/2022 17:53:16: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 692.15
+4/30/2022 17:53:16: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.85
+4/30/2022 17:53:16: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.08
+4/30/2022 17:53:16: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.94
+4/30/2022 17:53:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:53:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:53:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:54:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:54:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:54:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:54:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:55:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:55:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 17:55:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 17:57:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:57:36: [G_Auto 1] :  Placed closure bet with greening on Belinda Bencic by Backing 10.13 at 1.62
+4/30/2022 17:57:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:57:45: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: aPoints = point: 0; games: 2; sets: 1 
+4/30/2022 17:57:45: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: aServing = serving:1
+4/30/2022 17:57:45: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bPoints = point: 0; games: 2; sets: 1 
+4/30/2022 17:57:45: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bServing = serving:0
+4/30/2022 17:57:45: [G_Auto 2] :  Store Value (Shared) for market: price = 1.62
+4/30/2022 17:57:45: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 346.69
+4/30/2022 17:57:45: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 349.88
+4/30/2022 17:57:45: [G_Auto 2] :  Store Value (Shared) for market: stake = 4.42
+4/30/2022 17:57:45: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 696.57
+4/30/2022 17:57:45: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.63
+4/30/2022 17:57:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.6
+4/30/2022 17:57:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.62
+4/30/2022 17:57:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:58:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:58:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 17:58:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 17:58:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 17:59:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 18:01:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 18:02:12: [G_Auto 1] :  € 8.70 Lay bet placed on Belinda Bencic at 1.92. Fully matched at 1.91.  Ref: 10149          ( Fill or kill bet with 15 seconds delay.   )
+4/30/2022 18:02:13: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: aPoints = point: 0; games: 3; sets: 1 
+4/30/2022 18:02:13: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: aServing = serving:0
+4/30/2022 18:02:13: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bPoints = point: 0; games: 2; sets: 1 
+4/30/2022 18:02:13: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bServing = serving:2
+4/30/2022 18:02:13: [G_Auto 2] :  Store Value (Shared) for market: price = 1.91
+4/30/2022 18:02:13: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 352.4
+4/30/2022 18:02:13: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 358.58
+4/30/2022 18:02:13: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.7
+4/30/2022 18:02:13: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 710.98
+4/30/2022 18:02:13: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.57
+4/30/2022 18:02:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.08
+4/30/2022 18:02:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.9
+4/30/2022 18:02:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 18:02:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 18:02:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 18:03:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 18:03:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 18:03:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 18:03:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 18:04:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 18:04:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 18:04:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 18:04:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 18:05:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 18:05:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 18:09:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 18:09:58: [G_Auto 1] :  Placed closure bet with greening on Belinda Bencic by Backing 10.01 at 1.66
+4/30/2022 18:09:59: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: aPoints = point: 0; games: 3; sets: 1 
+4/30/2022 18:09:59: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: aServing = serving:1
+4/30/2022 18:09:59: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bPoints = point: 0; games: 3; sets: 1 
+4/30/2022 18:09:59: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bServing = serving:0
+4/30/2022 18:09:59: [G_Auto 2] :  Store Value (Shared) for market: price = 1.66
+4/30/2022 18:09:59: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 362.41
+4/30/2022 18:09:59: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 358.58
+4/30/2022 18:09:59: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.01
+4/30/2022 18:09:59: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 720.99
+4/30/2022 18:09:59: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.83
+4/30/2022 18:09:59: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.52
+4/30/2022 18:09:59: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.66
+4/30/2022 18:10:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 18:10:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 18:10:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 18:10:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 18:10:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 18:11:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 18:11:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 18:13:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 18:14:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 18:14:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 18:14:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 18:14:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 18:15:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 18:15:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 18:15:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 18:15:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 18:16:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 18:17:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 18:17:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 18:18:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 18:18:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 18:18:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 18:20:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 18:20:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 18:20:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 18:21:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 18:21:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 18:21:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 18:21:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 18:21:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 18:22:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 18:23:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 18:24:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 18:24:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 18:24:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 18:24:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 18:25:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 18:25:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 18:25:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 18:25:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 18:26:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 18:26:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 18:26:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 18:28:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 18:28:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 18:29:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 18:29:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 18:29:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 18:29:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 18:30:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 18:30:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 18:32:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 18:32:38: [G_Auto 1] :  € 66.67 Lay bet placed on Belinda Bencic at 1.12. Fully matched at 1.11.  Ref: 10159          ( Fill or kill bet with 15 seconds delay.   )
+4/30/2022 18:32:39: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: aPoints = point: 0; games: 5; sets: 1 
+4/30/2022 18:32:39: [G_Auto 2] :  Store Text Value (Shared) for Karolina Muchova: aServing = serving:0
+4/30/2022 18:32:39: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bPoints = point: 0; games: 6; sets: 1 
+4/30/2022 18:32:39: [G_Auto 2] :  Store Text Value (Shared) for Belinda Bencic: bServing = serving:2
+4/30/2022 18:32:39: [G_Auto 2] :  Store Value (Shared) for market: price = 1.11
+4/30/2022 18:32:39: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 362.41
+4/30/2022 18:32:39: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 425.25
+4/30/2022 18:32:39: [G_Auto 2] :  Store Value (Shared) for market: stake = 66.67
+4/30/2022 18:32:39: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 787.66
+4/30/2022 18:32:39: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.44
+4/30/2022 18:32:39: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 10.5
+4/30/2022 18:32:39: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.1
+4/30/2022 18:32:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 18:32:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 18:33:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 18:33:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 18:33:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 18:33:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 18:34:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 18:34:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 18:34:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 18:34:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 18:35:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 18:35:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 18:35:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/30/2022 18:38:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/30/2022 18:39:05:  Guardian has detected that the market is suspended

@@ -1,0 +1,799 @@
+5/3/2022 10:12:57: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: info = marketName: Cilic v Ramos-Vinolas - Match Odds; runnerA: Marin Cilic; runnerB: Albert Ramos-Vinolas 
+5/3/2022 10:12:57: [G_Auto 1] :  Store Value (Shared) for market: aId = 2263681
+5/3/2022 10:12:57: [G_Auto 1] :  Store Value (Shared) for market: bId = 8621877
+5/3/2022 11:13:27:  Guardian has detected that the market is in-play
+5/3/2022 11:13:27:  Guardian has detected that the market is suspended
+5/3/2022 11:13:30: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.77; bBsp: 2.3; volume: 32476.37 
+5/3/2022 11:13:30: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.77; bBsp: 2.3; volume: 32476.37 
+5/3/2022 11:13:30:  Guardian has detected that the market is now unsuspended
+5/3/2022 11:13:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 11:13:45: [G_Auto 2] :  € 10.39 Lay bet placed on Marin Cilic at 1.77. Entirely unmatched when it initially reached the market.   Ref: 10338          ( Fill or kill bet with 15 seconds delay.   )
+5/3/2022 11:13:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 11:13:51: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 11:14:01: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 15; games: 0; sets: 0 
+5/3/2022 11:14:01: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:1
+5/3/2022 11:14:01: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bPoints = point: 0; games: 0; sets: 0 
+5/3/2022 11:14:01: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bServing = serving:0
+5/3/2022 11:14:01: [G_Auto 1] :  Store Value (Shared) for market: price = 1.77
+5/3/2022 11:14:01: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 0
+5/3/2022 11:14:01: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 10.39
+5/3/2022 11:14:01: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.39
+5/3/2022 11:14:01: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 10.39
+5/3/2022 11:14:01: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.18
+5/3/2022 11:14:01: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.75
+5/3/2022 11:14:01: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.32
+5/3/2022 11:14:01: [G_Auto 2] :  € 10.39 of unmatched bet (Ref:10338) was filled before remainder was killed.
+5/3/2022 11:14:07: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 15; games: 0; sets: 0 
+5/3/2022 11:14:07: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:1
+5/3/2022 11:14:07: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bPoints = point: 0; games: 0; sets: 0 
+5/3/2022 11:14:07: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bServing = serving:0
+5/3/2022 11:14:07: [G_Auto 1] :  Store Value (Shared) for market: price = 1.77
+5/3/2022 11:14:07: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 0
+5/3/2022 11:14:07: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 10.39
+5/3/2022 11:14:07: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.39
+5/3/2022 11:14:07: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 10.39
+5/3/2022 11:14:07: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.18
+5/3/2022 11:14:07: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.74
+5/3/2022 11:14:07: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.32
+5/3/2022 11:14:07: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 11:14:23: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 11:14:38: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 11:14:53: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 11:16:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 11:16:53: [G_Auto 2] :  Placed closure bet with greening on Marin Cilic by Backing 11.08 at 1.66
+5/3/2022 11:16:56: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 0; games: 1; sets: 0 
+5/3/2022 11:16:56: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:0
+5/3/2022 11:16:56: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bPoints = point: 0; games: 0; sets: 0 
+5/3/2022 11:16:56: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bServing = serving:2
+5/3/2022 11:16:56: [G_Auto 1] :  Store Value (Shared) for market: price = 1.66
+5/3/2022 11:16:56: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 11.08
+5/3/2022 11:16:56: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 10.39
+5/3/2022 11:16:56: [G_Auto 1] :  Store Value (Shared) for market: stake = 11.08
+5/3/2022 11:16:56: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 21.47
+5/3/2022 11:16:56: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.69
+5/3/2022 11:16:56: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.67
+5/3/2022 11:16:56: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.48
+5/3/2022 11:16:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 11:17:02: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 0; games: 1; sets: 0 
+5/3/2022 11:17:02: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:0
+5/3/2022 11:17:02: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bPoints = point: 0; games: 0; sets: 0 
+5/3/2022 11:17:02: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bServing = serving:2
+5/3/2022 11:17:02: [G_Auto 1] :  Store Value (Shared) for market: price = 1.66
+5/3/2022 11:17:02: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 11.08
+5/3/2022 11:17:02: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 10.39
+5/3/2022 11:17:02: [G_Auto 1] :  Store Value (Shared) for market: stake = 11.08
+5/3/2022 11:17:02: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 21.47
+5/3/2022 11:17:02: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.69
+5/3/2022 11:17:02: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.66
+5/3/2022 11:17:02: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.52
+5/3/2022 11:17:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 11:17:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 11:17:42: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 11:17:58: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 11:18:13: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 11:20:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 11:20:57: [G_Auto 2] :  € 10.53 Lay bet placed on Marin Cilic at 1.76. Fully matched at 1.75.  Ref: 10343          ( Fill or kill bet with 15 seconds delay.   )
+5/3/2022 11:21:00: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 0; games: 1; sets: 0 
+5/3/2022 11:21:00: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:1
+5/3/2022 11:21:00: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bPoints = point: 0; games: 1; sets: 0 
+5/3/2022 11:21:00: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bServing = serving:0
+5/3/2022 11:21:00: [G_Auto 1] :  Store Value (Shared) for market: price = 1.75
+5/3/2022 11:21:00: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 11.08
+5/3/2022 11:21:00: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 20.92
+5/3/2022 11:21:00: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.53
+5/3/2022 11:21:00: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 32
+5/3/2022 11:21:00: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.75
+5/3/2022 11:21:00: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.75
+5/3/2022 11:21:00: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.32
+5/3/2022 11:21:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 11:21:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 11:21:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 11:21:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 11:21:52: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 11:22:08: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 11:22:23: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 11:24:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 11:25:02: [G_Auto 2] :  Placed closure bet with greening on Marin Cilic by Backing 7.49 at 2.46
+5/3/2022 11:25:02: [G_Auto 2] :  € 11.94 Lay bet placed on Albert Ramos-Vinolas at 1.67. Entirely unmatched when it initially reached the market.   Ref: 10347          ( Fill or kill bet with 15 seconds delay.   )
+5/3/2022 11:25:02: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 0; games: 1; sets: 0 
+5/3/2022 11:25:02: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:0
+5/3/2022 11:25:02: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bPoints = point: 0; games: 2; sets: 0 
+5/3/2022 11:25:02: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bServing = serving:2
+5/3/2022 11:25:02: [G_Auto 1] :  Store Value (Shared) for market: price = 2.46
+5/3/2022 11:25:02: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 18.57
+5/3/2022 11:25:02: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 20.92
+5/3/2022 11:25:02: [G_Auto 1] :  Store Value (Shared) for market: stake = 7.49
+5/3/2022 11:25:02: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 39.49
+5/3/2022 11:25:02: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.3
+5/3/2022 11:25:02: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.46
+5/3/2022 11:25:02: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.68
+5/3/2022 11:25:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 11:25:08: [G_Auto 2] :  € 11.94 of unmatched bet (Ref:10347) was filled before remainder was killed.
+5/3/2022 11:25:08: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 0; games: 1; sets: 0 
+5/3/2022 11:25:08: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:0
+5/3/2022 11:25:08: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bPoints = point: 0; games: 2; sets: 0 
+5/3/2022 11:25:08: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bServing = serving:2
+5/3/2022 11:25:08: [G_Auto 1] :  Store Value (Shared) for market: price = 1.67
+5/3/2022 11:25:08: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 18.57
+5/3/2022 11:25:08: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 32.86
+5/3/2022 11:25:08: [G_Auto 1] :  Store Value (Shared) for market: stake = 11.94
+5/3/2022 11:25:08: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 51.43
+5/3/2022 11:25:08: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.23
+5/3/2022 11:25:08: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.46
+5/3/2022 11:25:08: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.67
+5/3/2022 11:25:14: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 0; games: 1; sets: 0 
+5/3/2022 11:25:14: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:0
+5/3/2022 11:25:14: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bPoints = point: 0; games: 2; sets: 0 
+5/3/2022 11:25:14: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bServing = serving:2
+5/3/2022 11:25:14: [G_Auto 1] :  Store Value (Shared) for market: price = 1.67
+5/3/2022 11:25:14: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 18.57
+5/3/2022 11:25:14: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 32.86
+5/3/2022 11:25:14: [G_Auto 1] :  Store Value (Shared) for market: stake = 11.94
+5/3/2022 11:25:14: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 51.43
+5/3/2022 11:25:14: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.23
+5/3/2022 11:25:14: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.48
+5/3/2022 11:25:14: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.67
+5/3/2022 11:25:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 11:25:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 11:25:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 11:26:06: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 11:26:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 11:26:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 11:26:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 11:27:02: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 11:27:17: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 11:27:33: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 11:29:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 11:29:28: [G_Auto 2] :  € 10.39 Lay bet placed on Marin Cilic at 1.77. Fully matched at 1.77.  Ref: 10349          ( Fill or kill bet with 15 seconds delay.   )
+5/3/2022 11:29:28: [G_Auto 2] :  Placed closure bet with greening on Albert Ramos-Vinolas by Backing 8.75 at 2.28
+5/3/2022 11:29:31: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 0; games: 2; sets: 0 
+5/3/2022 11:29:31: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:1
+5/3/2022 11:29:31: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bPoints = point: 0; games: 2; sets: 0 
+5/3/2022 11:29:31: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bServing = serving:0
+5/3/2022 11:29:31: [G_Auto 1] :  Store Value (Shared) for market: price = 1.77
+5/3/2022 11:29:31: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 27.32
+5/3/2022 11:29:31: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 43.25
+5/3/2022 11:29:31: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.39
+5/3/2022 11:29:31: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 70.57
+5/3/2022 11:29:31: [G_Auto 1] :  Store Value (Shared) for market: pl = 5.25
+5/3/2022 11:29:31: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.75
+5/3/2022 11:29:31: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.28
+5/3/2022 11:29:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 11:29:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 11:30:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 11:30:05: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 11:30:21: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 11:32:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 11:33:10: [G_Auto 2] :  Placed closure bet with greening on Marin Cilic by Backing 11.42 at 1.61
+5/3/2022 11:33:10: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 0; games: 3; sets: 0 
+5/3/2022 11:33:10: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:0
+5/3/2022 11:33:10: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bPoints = point: 0; games: 2; sets: 0 
+5/3/2022 11:33:10: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bServing = serving:2
+5/3/2022 11:33:10: [G_Auto 1] :  Store Value (Shared) for market: price = 1.61
+5/3/2022 11:33:10: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 38.74
+5/3/2022 11:33:10: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 43.25
+5/3/2022 11:33:10: [G_Auto 1] :  Store Value (Shared) for market: stake = 11.42
+5/3/2022 11:33:10: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 81.99
+5/3/2022 11:33:10: [G_Auto 1] :  Store Value (Shared) for market: pl = 4.42
+5/3/2022 11:33:10: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.63
+5/3/2022 11:33:10: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.58
+5/3/2022 11:33:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 11:33:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 11:33:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 11:34:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 11:34:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 11:34:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 11:34:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 11:35:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 11:35:19: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 11:35:35: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 11:38:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 11:38:18: [G_Auto 2] :  € 25.81 Lay bet placed on Marin Cilic at 1.31. Fully matched at 1.3.  Ref: 10356          ( Fill or kill bet with 15 seconds delay.   )
+5/3/2022 11:38:21: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 0; games: 4; sets: 0 
+5/3/2022 11:38:21: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:1
+5/3/2022 11:38:21: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bPoints = point: 0; games: 2; sets: 0 
+5/3/2022 11:38:21: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bServing = serving:0
+5/3/2022 11:38:21: [G_Auto 1] :  Store Value (Shared) for market: price = 1.3
+5/3/2022 11:38:21: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 38.74
+5/3/2022 11:38:21: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 69.06
+5/3/2022 11:38:21: [G_Auto 1] :  Store Value (Shared) for market: stake = 25.81
+5/3/2022 11:38:21: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 107.8
+5/3/2022 11:38:21: [G_Auto 1] :  Store Value (Shared) for market: pl = 4.22
+5/3/2022 11:38:21: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.3
+5/3/2022 11:38:21: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.3
+5/3/2022 11:38:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 11:38:27: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 0; games: 4; sets: 0 
+5/3/2022 11:38:27: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:1
+5/3/2022 11:38:27: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bPoints = point: 0; games: 2; sets: 0 
+5/3/2022 11:38:27: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bServing = serving:0
+5/3/2022 11:38:27: [G_Auto 1] :  Store Value (Shared) for market: price = 1.3
+5/3/2022 11:38:27: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 38.74
+5/3/2022 11:38:27: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 69.06
+5/3/2022 11:38:27: [G_Auto 1] :  Store Value (Shared) for market: stake = 25.81
+5/3/2022 11:38:27: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 107.8
+5/3/2022 11:38:27: [G_Auto 1] :  Store Value (Shared) for market: pl = 4.22
+5/3/2022 11:38:27: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.29
+5/3/2022 11:38:27: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.3
+5/3/2022 11:38:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 11:38:49: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 11:39:04: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 11:39:20: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 11:43:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 11:43:43: [G_Auto 2] :  Placed closure bet with greening on Marin Cilic by Backing 26.63 at 1.26
+5/3/2022 11:43:46: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 11:43:50: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 0; games: 5; sets: 0 
+5/3/2022 11:43:50: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:0
+5/3/2022 11:43:50: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bPoints = point: 0; games: 2; sets: 0 
+5/3/2022 11:43:50: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bServing = serving:2
+5/3/2022 11:43:50: [G_Auto 1] :  Store Value (Shared) for market: price = 1.26
+5/3/2022 11:43:50: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 65.37
+5/3/2022 11:43:50: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 69.06
+5/3/2022 11:43:50: [G_Auto 1] :  Store Value (Shared) for market: stake = 26.63
+5/3/2022 11:43:50: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 134.43
+5/3/2022 11:43:50: [G_Auto 1] :  Store Value (Shared) for market: pl = 3.62
+5/3/2022 11:43:50: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.26
+5/3/2022 11:43:50: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.8
+5/3/2022 11:43:56: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 0; games: 5; sets: 0 
+5/3/2022 11:43:56: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:0
+5/3/2022 11:43:56: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bPoints = point: 0; games: 2; sets: 0 
+5/3/2022 11:43:56: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bServing = serving:2
+5/3/2022 11:43:56: [G_Auto 1] :  Store Value (Shared) for market: price = 1.26
+5/3/2022 11:43:56: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 65.37
+5/3/2022 11:43:56: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 69.06
+5/3/2022 11:43:56: [G_Auto 1] :  Store Value (Shared) for market: stake = 26.63
+5/3/2022 11:43:56: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 134.43
+5/3/2022 11:43:56: [G_Auto 1] :  Store Value (Shared) for market: pl = 3.62
+5/3/2022 11:43:56: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.26
+5/3/2022 11:43:56: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.8
+5/3/2022 11:44:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 11:44:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 11:44:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 11:44:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 11:45:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 11:45:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 11:45:35: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 11:45:51: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 11:47:30: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 11:47:42: [G_Auto 2] :  € 27.59 Lay bet placed on Marin Cilic at 1.29. Fully matched at 1.28.  Ref: 10360          ( Fill or kill bet with 15 seconds delay.   )
+5/3/2022 11:47:45: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 0; games: 5; sets: 0 
+5/3/2022 11:47:45: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:1
+5/3/2022 11:47:45: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bPoints = point: 0; games: 3; sets: 0 
+5/3/2022 11:47:45: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bServing = serving:0
+5/3/2022 11:47:45: [G_Auto 1] :  Store Value (Shared) for market: price = 1.28
+5/3/2022 11:47:45: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 65.37
+5/3/2022 11:47:45: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 96.65
+5/3/2022 11:47:45: [G_Auto 1] :  Store Value (Shared) for market: stake = 27.59
+5/3/2022 11:47:45: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 162.02
+5/3/2022 11:47:45: [G_Auto 1] :  Store Value (Shared) for market: pl = 3.4
+5/3/2022 11:47:45: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.27
+5/3/2022 11:47:45: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.5
+5/3/2022 11:47:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 11:48:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 11:48:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 11:48:25: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 11:48:41: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 11:50:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 11:50:29: [G_Auto 1] :  Store Value (Shared) for market: aFirstSetPrice = 1.22
+5/3/2022 11:50:29: [G_Auto 1] :  Store Value (Shared) for market: bFirstSetPrice = 5.3
+5/3/2022 11:50:32: [G_Auto 2] :  Placed closure bet with greening on Marin Cilic by Backing 29.19 at 1.21
+5/3/2022 11:50:36: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 0; games: 0; sets: 1 
+5/3/2022 11:50:36: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:0
+5/3/2022 11:50:36: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bPoints = point: 0; games: 0; sets: 0 
+5/3/2022 11:50:36: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bServing = serving:2
+5/3/2022 11:50:36: [G_Auto 1] :  Store Value (Shared) for market: price = 1.21
+5/3/2022 11:50:36: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 94.56
+5/3/2022 11:50:36: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 96.65
+5/3/2022 11:50:36: [G_Auto 1] :  Store Value (Shared) for market: stake = 29.19
+5/3/2022 11:50:36: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 191.21
+5/3/2022 11:50:36: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.05
+5/3/2022 11:50:36: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.22
+5/3/2022 11:50:36: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 5.5
+5/3/2022 11:50:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 11:50:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 11:51:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 11:51:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 11:51:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 11:51:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 11:52:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 11:52:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 11:52:34: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 11:52:49: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 11:53:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 11:54:07: [G_Auto 2] :  € 25.81 Lay bet placed on Marin Cilic at 1.31. Fully matched at 1.3.  Ref: 10363          ( Fill or kill bet with 15 seconds delay.   )
+5/3/2022 11:54:10: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 0; games: 0; sets: 1 
+5/3/2022 11:54:10: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:1
+5/3/2022 11:54:10: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bPoints = point: 0; games: 1; sets: 0 
+5/3/2022 11:54:10: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bServing = serving:0
+5/3/2022 11:54:10: [G_Auto 1] :  Store Value (Shared) for market: price = 1.3
+5/3/2022 11:54:10: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 94.56
+5/3/2022 11:54:10: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 122.46
+5/3/2022 11:54:10: [G_Auto 1] :  Store Value (Shared) for market: stake = 25.81
+5/3/2022 11:54:10: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 217.02
+5/3/2022 11:54:10: [G_Auto 1] :  Store Value (Shared) for market: pl = 1.85
+5/3/2022 11:54:10: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.29
+5/3/2022 11:54:10: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.5
+5/3/2022 11:54:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 11:54:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 11:54:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 11:54:48: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 11:55:04: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 11:55:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 11:55:58: [G_Auto 2] :  Placed closure bet with greening on Marin Cilic by Backing 27.06 at 1.24
+5/3/2022 11:55:58: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 0; games: 1; sets: 1 
+5/3/2022 11:55:58: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:0
+5/3/2022 11:55:58: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bPoints = point: 0; games: 1; sets: 0 
+5/3/2022 11:55:58: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bServing = serving:2
+5/3/2022 11:55:58: [G_Auto 1] :  Store Value (Shared) for market: price = 1.24
+5/3/2022 11:55:58: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 121.62
+5/3/2022 11:55:58: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 122.46
+5/3/2022 11:55:58: [G_Auto 1] :  Store Value (Shared) for market: stake = 27.06
+5/3/2022 11:55:58: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 244.08
+5/3/2022 11:55:58: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.82
+5/3/2022 11:55:58: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.25
+5/3/2022 11:55:58: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 5
+5/3/2022 11:56:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 11:56:04: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 0; games: 1; sets: 1 
+5/3/2022 11:56:04: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:0
+5/3/2022 11:56:04: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bPoints = point: 0; games: 1; sets: 0 
+5/3/2022 11:56:04: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bServing = serving:2
+5/3/2022 11:56:04: [G_Auto 1] :  Store Value (Shared) for market: price = 1.24
+5/3/2022 11:56:04: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 121.62
+5/3/2022 11:56:04: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 122.46
+5/3/2022 11:56:04: [G_Auto 1] :  Store Value (Shared) for market: stake = 27.06
+5/3/2022 11:56:04: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 244.08
+5/3/2022 11:56:04: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.82
+5/3/2022 11:56:04: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.25
+5/3/2022 11:56:04: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 5
+5/3/2022 11:56:17: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 11:56:32: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 11:56:48: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 11:59:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 11:59:22: [G_Auto 2] :  € 26.67 Lay bet placed on Marin Cilic at 1.3. Fully matched at 1.29.  Ref: 10368          ( Fill or kill bet with 15 seconds delay.   )
+5/3/2022 11:59:25: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 0; games: 1; sets: 1 
+5/3/2022 11:59:25: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:1
+5/3/2022 11:59:25: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bPoints = point: 0; games: 2; sets: 0 
+5/3/2022 11:59:25: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bServing = serving:0
+5/3/2022 11:59:25: [G_Auto 1] :  Store Value (Shared) for market: price = 1.29
+5/3/2022 11:59:25: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 121.62
+5/3/2022 11:59:25: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 149.13
+5/3/2022 11:59:25: [G_Auto 1] :  Store Value (Shared) for market: stake = 26.67
+5/3/2022 11:59:25: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 270.75
+5/3/2022 11:59:25: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.62
+5/3/2022 11:59:25: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.28
+5/3/2022 11:59:25: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.6
+5/3/2022 11:59:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 11:59:31: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 0; games: 1; sets: 1 
+5/3/2022 11:59:31: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:1
+5/3/2022 11:59:31: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bPoints = point: 0; games: 2; sets: 0 
+5/3/2022 11:59:31: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bServing = serving:0
+5/3/2022 11:59:31: [G_Auto 1] :  Store Value (Shared) for market: price = 1.29
+5/3/2022 11:59:31: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 121.62
+5/3/2022 11:59:31: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 149.13
+5/3/2022 11:59:31: [G_Auto 1] :  Store Value (Shared) for market: stake = 26.67
+5/3/2022 11:59:31: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 270.75
+5/3/2022 11:59:31: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.62
+5/3/2022 11:59:31: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.28
+5/3/2022 11:59:31: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 4.6
+5/3/2022 11:59:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 11:59:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:00:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:00:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:00:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:00:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:01:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:01:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:01:33: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 12:01:48: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 12:02:04: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 12:02:19: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 12:06:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:07:01: [G_Auto 2] :  Placed closure bet with greening on Marin Cilic by Backing 21.77 at 1.58
+5/3/2022 12:07:04: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 0; games: 1; sets: 1 
+5/3/2022 12:07:04: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:0
+5/3/2022 12:07:04: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bPoints = point: 0; games: 3; sets: 0 
+5/3/2022 12:07:04: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bServing = serving:2
+5/3/2022 12:07:04: [G_Auto 1] :  Store Value (Shared) for market: price = 1.58
+5/3/2022 12:07:04: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 143.39
+5/3/2022 12:07:04: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 149.13
+5/3/2022 12:07:04: [G_Auto 1] :  Store Value (Shared) for market: stake = 21.77
+5/3/2022 12:07:04: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 292.52
+5/3/2022 12:07:04: [G_Auto 1] :  Store Value (Shared) for market: pl = 5.63
+5/3/2022 12:07:04: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.58
+5/3/2022 12:07:04: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.72
+5/3/2022 12:07:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:07:10: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 0; games: 1; sets: 1 
+5/3/2022 12:07:10: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:0
+5/3/2022 12:07:10: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bPoints = point: 0; games: 3; sets: 0 
+5/3/2022 12:07:10: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bServing = serving:2
+5/3/2022 12:07:10: [G_Auto 1] :  Store Value (Shared) for market: price = 1.58
+5/3/2022 12:07:10: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 143.39
+5/3/2022 12:07:10: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 149.13
+5/3/2022 12:07:10: [G_Auto 1] :  Store Value (Shared) for market: stake = 21.77
+5/3/2022 12:07:10: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 292.52
+5/3/2022 12:07:10: [G_Auto 1] :  Store Value (Shared) for market: pl = 5.63
+5/3/2022 12:07:10: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.59
+5/3/2022 12:07:10: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.7
+5/3/2022 12:07:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:07:26: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 12:07:41: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 12:07:57: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 12:11:02: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:11:14: [G_Auto 2] :  € 12.12 Lay bet placed on Marin Cilic at 1.66. Fully matched at 1.66.  Ref: 10376          ( Fill or kill bet with 15 seconds delay.   )
+5/3/2022 12:11:17: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 0; games: 1; sets: 1 
+5/3/2022 12:11:17: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:1
+5/3/2022 12:11:17: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bPoints = point: 0; games: 4; sets: 0 
+5/3/2022 12:11:17: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bServing = serving:0
+5/3/2022 12:11:17: [G_Auto 1] :  Store Value (Shared) for market: price = 1.66
+5/3/2022 12:11:17: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 143.39
+5/3/2022 12:11:17: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 161.25
+5/3/2022 12:11:17: [G_Auto 1] :  Store Value (Shared) for market: stake = 12.12
+5/3/2022 12:11:17: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 304.64
+5/3/2022 12:11:17: [G_Auto 1] :  Store Value (Shared) for market: pl = 5.48
+5/3/2022 12:11:17: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.64
+5/3/2022 12:11:17: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.54
+5/3/2022 12:11:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:11:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:11:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:12:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:12:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:12:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:12:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:13:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:13:20: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 12:13:36: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 12:13:51: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 12:14:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:15:09: [G_Auto 2] :  Placed closure bet with greening on Marin Cilic by Backing 12.82 at 1.57
+5/3/2022 12:15:12: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 0; games: 2; sets: 1 
+5/3/2022 12:15:12: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:0
+5/3/2022 12:15:12: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bPoints = point: 0; games: 4; sets: 0 
+5/3/2022 12:15:12: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bServing = serving:2
+5/3/2022 12:15:12: [G_Auto 1] :  Store Value (Shared) for market: price = 1.57
+5/3/2022 12:15:12: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 156.21
+5/3/2022 12:15:12: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 161.25
+5/3/2022 12:15:12: [G_Auto 1] :  Store Value (Shared) for market: stake = 12.82
+5/3/2022 12:15:12: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 317.46
+5/3/2022 12:15:12: [G_Auto 1] :  Store Value (Shared) for market: pl = 4.94
+5/3/2022 12:15:12: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.58
+5/3/2022 12:15:12: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.68
+5/3/2022 12:15:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:15:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:15:37: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 12:15:53: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 12:18:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:18:23: [G_Auto 2] :  € 11.43 Lay bet placed on Marin Cilic at 1.7. Fully matched at 1.7.  Ref: 10380          ( Fill or kill bet with 15 seconds delay.   )
+5/3/2022 12:18:26: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 0; games: 2; sets: 1 
+5/3/2022 12:18:26: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:1
+5/3/2022 12:18:26: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bPoints = point: 0; games: 5; sets: 0 
+5/3/2022 12:18:26: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bServing = serving:0
+5/3/2022 12:18:26: [G_Auto 1] :  Store Value (Shared) for market: price = 1.7
+5/3/2022 12:18:26: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 156.21
+5/3/2022 12:18:26: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 172.68
+5/3/2022 12:18:26: [G_Auto 1] :  Store Value (Shared) for market: stake = 11.43
+5/3/2022 12:18:26: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 328.89
+5/3/2022 12:18:26: [G_Auto 1] :  Store Value (Shared) for market: pl = 5.01
+5/3/2022 12:18:26: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.71
+5/3/2022 12:18:26: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.42
+5/3/2022 12:18:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:18:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:18:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:19:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:19:28: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:19:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:19:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:20:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:20:18: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 12:21:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:22:00: [G_Auto 2] :  Placed closure bet with greening on Marin Cilic by Backing 11.63 at 1.67
+5/3/2022 12:22:03: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 0; games: 3; sets: 1 
+5/3/2022 12:22:03: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:0
+5/3/2022 12:22:03: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bPoints = point: 0; games: 5; sets: 0 
+5/3/2022 12:22:03: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bServing = serving:2
+5/3/2022 12:22:03: [G_Auto 1] :  Store Value (Shared) for market: price = 1.67
+5/3/2022 12:22:03: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 167.84
+5/3/2022 12:22:03: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 172.68
+5/3/2022 12:22:03: [G_Auto 1] :  Store Value (Shared) for market: stake = 11.63
+5/3/2022 12:22:03: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 340.52
+5/3/2022 12:22:03: [G_Auto 1] :  Store Value (Shared) for market: pl = 4.73
+5/3/2022 12:22:03: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.68
+5/3/2022 12:22:03: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.52
+5/3/2022 12:22:03: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:22:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:22:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:22:46: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 12:23:02: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 12:24:06: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:24:16: [G_Auto 1] :  Store Value (Shared) for market: aSecondSetPrice = 1.84
+5/3/2022 12:24:16: [G_Auto 1] :  Store Value (Shared) for market: bSecondSetPrice = 2.2
+5/3/2022 12:24:19: [G_Auto 2] :  € 9.64 Lay bet placed on Marin Cilic at 1.83. Entirely unmatched when it initially reached the market.   Ref: 10383          ( Fill or kill bet with 15 seconds delay.   )
+5/3/2022 12:24:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:24:25: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 0; games: 0; sets: 1 
+5/3/2022 12:24:25: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:1
+5/3/2022 12:24:25: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bPoints = point: 0; games: 0; sets: 1 
+5/3/2022 12:24:25: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bServing = serving:0
+5/3/2022 12:24:25: [G_Auto 1] :  Store Value (Shared) for market: price = 1.83
+5/3/2022 12:24:25: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 167.84
+5/3/2022 12:24:25: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 182.32
+5/3/2022 12:24:25: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.64
+5/3/2022 12:24:25: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 350.16
+5/3/2022 12:24:25: [G_Auto 1] :  Store Value (Shared) for market: pl = 4.74
+5/3/2022 12:24:25: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.84
+5/3/2022 12:24:25: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.22
+5/3/2022 12:24:25: [G_Auto 2] :  € 9.64 of unmatched bet (Ref:10383) was filled before remainder was killed.
+5/3/2022 12:24:31: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 0; games: 0; sets: 1 
+5/3/2022 12:24:31: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:1
+5/3/2022 12:24:31: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bPoints = point: 0; games: 0; sets: 1 
+5/3/2022 12:24:31: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bServing = serving:0
+5/3/2022 12:24:31: [G_Auto 1] :  Store Value (Shared) for market: price = 1.83
+5/3/2022 12:24:31: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 167.84
+5/3/2022 12:24:31: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 182.32
+5/3/2022 12:24:31: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.64
+5/3/2022 12:24:31: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 350.16
+5/3/2022 12:24:31: [G_Auto 1] :  Store Value (Shared) for market: pl = 4.68
+5/3/2022 12:24:31: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.83
+5/3/2022 12:24:31: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.22
+5/3/2022 12:24:37: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:24:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:25:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:25:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:25:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:25:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:26:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:26:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:26:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:26:46: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 12:27:01: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 12:27:17: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 12:27:32: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 12:29:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:30:09: [G_Auto 2] :  Placed closure bet with greening on Marin Cilic by Backing 10.89 at 1.62
+5/3/2022 12:30:12: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 0; games: 1; sets: 1 
+5/3/2022 12:30:12: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:0
+5/3/2022 12:30:12: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bPoints = point: 0; games: 0; sets: 1 
+5/3/2022 12:30:12: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bServing = serving:2
+5/3/2022 12:30:12: [G_Auto 1] :  Store Value (Shared) for market: price = 1.62
+5/3/2022 12:30:12: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 178.73
+5/3/2022 12:30:12: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 182.32
+5/3/2022 12:30:12: [G_Auto 1] :  Store Value (Shared) for market: stake = 10.89
+5/3/2022 12:30:12: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 361.05
+5/3/2022 12:30:12: [G_Auto 1] :  Store Value (Shared) for market: pl = 3.52
+5/3/2022 12:30:12: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.63
+5/3/2022 12:30:12: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.56
+5/3/2022 12:30:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:30:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:30:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:30:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:31:13: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 12:31:29: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 12:32:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:33:07: [G_Auto 2] :  € 9.20 Lay bet placed on Marin Cilic at 1.87. Fully matched at 1.86.  Ref: 10387          ( Fill or kill bet with 15 seconds delay.   )
+5/3/2022 12:33:10: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 0; games: 1; sets: 1 
+5/3/2022 12:33:10: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:1
+5/3/2022 12:33:10: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bPoints = point: 0; games: 1; sets: 1 
+5/3/2022 12:33:10: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bServing = serving:0
+5/3/2022 12:33:10: [G_Auto 1] :  Store Value (Shared) for market: price = 1.86
+5/3/2022 12:33:10: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 178.73
+5/3/2022 12:33:10: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 191.52
+5/3/2022 12:33:10: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.2
+5/3/2022 12:33:10: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 370.25
+5/3/2022 12:33:10: [G_Auto 1] :  Store Value (Shared) for market: pl = 3.47
+5/3/2022 12:33:10: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.85
+5/3/2022 12:33:10: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.18
+5/3/2022 12:33:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:33:16: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 0; games: 1; sets: 1 
+5/3/2022 12:33:16: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:1
+5/3/2022 12:33:16: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bPoints = point: 0; games: 1; sets: 1 
+5/3/2022 12:33:16: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bServing = serving:0
+5/3/2022 12:33:16: [G_Auto 1] :  Store Value (Shared) for market: price = 1.86
+5/3/2022 12:33:16: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 178.73
+5/3/2022 12:33:16: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 191.52
+5/3/2022 12:33:16: [G_Auto 1] :  Store Value (Shared) for market: stake = 9.2
+5/3/2022 12:33:16: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 370.25
+5/3/2022 12:33:16: [G_Auto 1] :  Store Value (Shared) for market: pl = 3.42
+5/3/2022 12:33:16: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.84
+5/3/2022 12:33:16: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.18
+5/3/2022 12:33:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:33:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:33:56: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 12:34:11: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 12:34:27: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 12:40:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:40:19: [G_Auto 2] :  Placed closure bet with greening on Marin Cilic by Backing 4.28 at 4
+5/3/2022 12:40:19: [G_Auto 2] :  € 23.53 Lay bet placed on Albert Ramos-Vinolas at 1.34. Fully matched at 1.34.  Ref: 10393          ( Fill or kill bet with 15 seconds delay.   )
+5/3/2022 12:40:23: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 0; games: 1; sets: 1 
+5/3/2022 12:40:23: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:0
+5/3/2022 12:40:23: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bPoints = point: 0; games: 2; sets: 1 
+5/3/2022 12:40:23: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bServing = serving:2
+5/3/2022 12:40:23: [G_Auto 1] :  Store Value (Shared) for market: price = 1.34
+5/3/2022 12:40:23: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 183.01
+5/3/2022 12:40:23: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 215.05
+5/3/2022 12:40:23: [G_Auto 1] :  Store Value (Shared) for market: stake = 23.53
+5/3/2022 12:40:23: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 398.06
+5/3/2022 12:40:23: [G_Auto 1] :  Store Value (Shared) for market: pl = 8.35
+5/3/2022 12:40:23: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.9
+5/3/2022 12:40:23: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.34
+5/3/2022 12:40:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:40:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:40:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:41:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:41:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:41:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:41:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:42:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:42:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:42:38: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 12:42:53: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 12:44:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:44:23: [G_Auto 2] :  Placed closure bet with greening on Albert Ramos-Vinolas by Backing 26.27 at 1.2
+5/3/2022 12:44:26: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 0; games: 1; sets: 1 
+5/3/2022 12:44:26: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:1
+5/3/2022 12:44:26: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bPoints = point: 0; games: 3; sets: 1 
+5/3/2022 12:44:26: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bServing = serving:0
+5/3/2022 12:44:26: [G_Auto 1] :  Store Value (Shared) for market: price = 1.2
+5/3/2022 12:44:26: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 209.28
+5/3/2022 12:44:26: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 215.05
+5/3/2022 12:44:26: [G_Auto 1] :  Store Value (Shared) for market: stake = 26.27
+5/3/2022 12:44:26: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 424.33
+5/3/2022 12:44:26: [G_Auto 1] :  Store Value (Shared) for market: pl = 5.65
+5/3/2022 12:44:26: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 5.7
+5/3/2022 12:44:26: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.21
+5/3/2022 12:44:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:44:32: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 0; games: 1; sets: 1 
+5/3/2022 12:44:32: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:1
+5/3/2022 12:44:32: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bPoints = point: 0; games: 3; sets: 1 
+5/3/2022 12:44:32: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bServing = serving:0
+5/3/2022 12:44:32: [G_Auto 1] :  Store Value (Shared) for market: price = 1.2
+5/3/2022 12:44:32: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 209.28
+5/3/2022 12:44:32: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 215.05
+5/3/2022 12:44:32: [G_Auto 1] :  Store Value (Shared) for market: stake = 26.27
+5/3/2022 12:44:32: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 424.33
+5/3/2022 12:44:32: [G_Auto 1] :  Store Value (Shared) for market: pl = 5.65
+5/3/2022 12:44:32: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 5.7
+5/3/2022 12:44:32: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.21
+5/3/2022 12:44:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:44:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:45:13: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 12:45:28: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 12:57:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:57:47: [G_Auto 2] :  € 29.63 Lay bet placed on Albert Ramos-Vinolas at 1.27. Fully matched at 1.26.  Ref: 10403          ( Fill or kill bet with 15 seconds delay.   )
+5/3/2022 12:57:51: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 0; games: 2; sets: 1 
+5/3/2022 12:57:51: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:0
+5/3/2022 12:57:51: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bPoints = point: 0; games: 3; sets: 1 
+5/3/2022 12:57:51: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bServing = serving:2
+5/3/2022 12:57:51: [G_Auto 1] :  Store Value (Shared) for market: price = 1.26
+5/3/2022 12:57:51: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 209.28
+5/3/2022 12:57:51: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 244.68
+5/3/2022 12:57:51: [G_Auto 1] :  Store Value (Shared) for market: stake = 29.63
+5/3/2022 12:57:51: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 453.96
+5/3/2022 12:57:51: [G_Auto 1] :  Store Value (Shared) for market: pl = 5.43
+5/3/2022 12:57:51: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 4.8
+5/3/2022 12:57:51: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.25
+5/3/2022 12:57:51: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:57:57: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 0; games: 2; sets: 1 
+5/3/2022 12:57:57: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:0
+5/3/2022 12:57:57: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bPoints = point: 0; games: 3; sets: 1 
+5/3/2022 12:57:57: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bServing = serving:2
+5/3/2022 12:57:57: [G_Auto 1] :  Store Value (Shared) for market: price = 1.26
+5/3/2022 12:57:57: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 209.28
+5/3/2022 12:57:57: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 244.68
+5/3/2022 12:57:57: [G_Auto 1] :  Store Value (Shared) for market: stake = 29.63
+5/3/2022 12:57:57: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 453.96
+5/3/2022 12:57:57: [G_Auto 1] :  Store Value (Shared) for market: pl = 5.43
+5/3/2022 12:57:57: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 5
+5/3/2022 12:57:57: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.25
+5/3/2022 12:58:06: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:58:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:58:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:58:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:59:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:59:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:59:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 12:59:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 13:00:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 13:00:18: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 13:00:33: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 13:00:49: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 13:07:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 13:07:24: [G_Auto 2] :  Placed closure bet with greening on Albert Ramos-Vinolas by Backing 32.18 at 1.16
+5/3/2022 13:07:24: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 0; games: 2; sets: 1 
+5/3/2022 13:07:24: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:1
+5/3/2022 13:07:24: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bPoints = point: 0; games: 4; sets: 1 
+5/3/2022 13:07:24: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bServing = serving:0
+5/3/2022 13:07:24: [G_Auto 1] :  Store Value (Shared) for market: price = 1.16
+5/3/2022 13:07:24: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 241.46
+5/3/2022 13:07:24: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 244.68
+5/3/2022 13:07:24: [G_Auto 1] :  Store Value (Shared) for market: stake = 32.18
+5/3/2022 13:07:24: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 486.14
+5/3/2022 13:07:24: [G_Auto 1] :  Store Value (Shared) for market: pl = 3.16
+5/3/2022 13:07:24: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 6.8
+5/3/2022 13:07:24: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.16
+5/3/2022 13:07:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 13:07:43: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 13:07:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 13:08:05: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 13:08:21: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 13:08:36: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 13:10:18: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 13:10:30: [G_Auto 2] :  € 36.36 Lay bet placed on Albert Ramos-Vinolas at 1.22. Fully matched at 1.21.  Ref: 10409          ( Fill or kill bet with 15 seconds delay.   )
+5/3/2022 13:10:33: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 0; games: 3; sets: 1 
+5/3/2022 13:10:33: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:0
+5/3/2022 13:10:33: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bPoints = point: 0; games: 4; sets: 1 
+5/3/2022 13:10:33: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bServing = serving:2
+5/3/2022 13:10:33: [G_Auto 1] :  Store Value (Shared) for market: price = 1.21
+5/3/2022 13:10:33: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 241.46
+5/3/2022 13:10:33: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 281.04
+5/3/2022 13:10:33: [G_Auto 1] :  Store Value (Shared) for market: stake = 36.36
+5/3/2022 13:10:33: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 522.5
+5/3/2022 13:10:33: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.86
+5/3/2022 13:10:33: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 5.7
+5/3/2022 13:10:33: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.2
+5/3/2022 13:10:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 13:10:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 13:11:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 13:11:21: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 13:11:36: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 13:11:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 13:12:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 13:12:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 13:12:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 13:12:42: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 13:12:57: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 13:13:13: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 13:13:29: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 13:18:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 13:18:47: [G_Auto 2] :  € 9.41 Lay bet placed on Marin Cilic at 1.85. Fully matched at 1.84.  Ref: 10413          ( Fill or kill bet with 15 seconds delay.   )
+5/3/2022 13:18:47: [G_Auto 2] :  Placed closure bet with greening on Albert Ramos-Vinolas by Backing 20.00 at 2.2
+5/3/2022 13:18:50: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 0; games: 4; sets: 1 
+5/3/2022 13:18:50: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:1
+5/3/2022 13:18:50: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bPoints = point: 0; games: 4; sets: 1 
+5/3/2022 13:18:50: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bServing = serving:0
+5/3/2022 13:18:50: [G_Auto 1] :  Store Value (Shared) for market: price = 2.2
+5/3/2022 13:18:50: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 261.46
+5/3/2022 13:18:50: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 290.45
+5/3/2022 13:18:50: [G_Auto 1] :  Store Value (Shared) for market: stake = 20
+5/3/2022 13:18:50: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 551.91
+5/3/2022 13:18:50: [G_Auto 1] :  Store Value (Shared) for market: pl = 19.24
+5/3/2022 13:18:50: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.87
+5/3/2022 13:18:50: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.14
+5/3/2022 13:18:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 13:19:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 13:19:21: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 13:19:36: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 13:22:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 13:22:22: [G_Auto 2] :  Placed closure bet with greening on Marin Cilic by Backing 11.03 at 1.57
+5/3/2022 13:22:25: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 0; games: 5; sets: 1 
+5/3/2022 13:22:25: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:0
+5/3/2022 13:22:25: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bPoints = point: 0; games: 4; sets: 1 
+5/3/2022 13:22:25: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bServing = serving:2
+5/3/2022 13:22:25: [G_Auto 1] :  Store Value (Shared) for market: price = 1.57
+5/3/2022 13:22:25: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 272.49
+5/3/2022 13:22:25: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 290.45
+5/3/2022 13:22:25: [G_Auto 1] :  Store Value (Shared) for market: stake = 11.03
+5/3/2022 13:22:25: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 562.94
+5/3/2022 13:22:25: [G_Auto 1] :  Store Value (Shared) for market: pl = 17.61
+5/3/2022 13:22:25: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.59
+5/3/2022 13:22:25: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.72
+5/3/2022 13:22:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 13:22:31: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aPoints = point: 0; games: 5; sets: 1 
+5/3/2022 13:22:31: [G_Auto 1] :  Store Text Value (Shared) for Marin Cilic: aServing = serving:0
+5/3/2022 13:22:31: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bPoints = point: 0; games: 4; sets: 1 
+5/3/2022 13:22:31: [G_Auto 1] :  Store Text Value (Shared) for Albert Ramos-Vinolas: bServing = serving:2
+5/3/2022 13:22:31: [G_Auto 1] :  Store Value (Shared) for market: price = 1.57
+5/3/2022 13:22:31: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 272.49
+5/3/2022 13:22:31: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 290.45
+5/3/2022 13:22:31: [G_Auto 1] :  Store Value (Shared) for market: stake = 11.03
+5/3/2022 13:22:31: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 562.94
+5/3/2022 13:22:31: [G_Auto 1] :  Store Value (Shared) for market: pl = 17.61
+5/3/2022 13:22:31: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 1.59
+5/3/2022 13:22:31: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 2.7
+5/3/2022 13:22:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 13:22:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 13:23:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 13:23:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 13:23:42: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 13:23:57: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 13:24:13: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/3/2022 13:24:25: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 13:24:41: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 13:24:56: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/3/2022 13:27:47:  Guardian has detected that the market is suspended

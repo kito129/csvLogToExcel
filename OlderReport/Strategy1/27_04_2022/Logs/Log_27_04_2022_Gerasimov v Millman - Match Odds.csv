@@ -1,0 +1,600 @@
+4/26/2022 09:05:54: [G_Auto 2] :  Store Text Value (Shared) for Egor Gerasimov: info = marketName: Gerasimov v Millman - Match Odds; runnerA: Egor Gerasimov; runnerB: John Millman 
+4/26/2022 09:05:54: [G_Auto 2] :  Store Value (Shared) for market: aId = 7797772
+4/26/2022 09:05:54: [G_Auto 2] :  Store Value (Shared) for market: bId = 4415206
+4/27/2022 10:08:55:  Guardian has detected that the market is in-play
+4/27/2022 10:08:55:  Guardian has detected that the market is suspended
+4/27/2022 10:08:57: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.8; bBsp: 2.3; volume: 80460.5 
+4/27/2022 10:08:57: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.8; bBsp: 2.3; volume: 80460.5 
+4/27/2022 10:08:57:  Guardian has detected that the market is now unsuspended
+4/27/2022 10:08:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 10:09:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 10:09:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 10:12:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 10:12:22: [G_Auto 1] :  € 8.89 Lay bet placed on Egor Gerasimov at 1.9. Fully matched at 1.89.  Ref: 10338          ( Fill or kill bet with 15 seconds delay.   )
+4/27/2022 10:12:23: [G_Auto 2] :  Store Text Value (Shared) for Egor Gerasimov: aPoints = point: 0; games: 0; sets: 0 
+4/27/2022 10:12:23: [G_Auto 2] :  Store Text Value (Shared) for Egor Gerasimov: aServing = serving:1
+4/27/2022 10:12:23: [G_Auto 2] :  Store Text Value (Shared) for John Millman: bPoints = point: 0; games: 1; sets: 0 
+4/27/2022 10:12:23: [G_Auto 2] :  Store Text Value (Shared) for John Millman: bServing = serving:0
+4/27/2022 10:12:23: [G_Auto 2] :  Store Value (Shared) for market: price = 1.89
+4/27/2022 10:12:23: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+4/27/2022 10:12:23: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 8.89
+4/27/2022 10:12:23: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.89
+4/27/2022 10:12:23: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 8.89
+4/27/2022 10:12:23: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.05
+4/27/2022 10:12:23: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.88
+4/27/2022 10:12:23: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.12
+4/27/2022 10:12:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 10:12:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 10:12:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 10:13:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 10:13:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 10:13:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 10:13:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 10:14:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 10:16:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 10:16:48: [G_Auto 1] :  Placed closure bet with greening on Egor Gerasimov by Backing 9.39 at 1.79
+4/27/2022 10:16:50: [G_Auto 2] :  Store Text Value (Shared) for Egor Gerasimov: aPoints = point: 0; games: 1; sets: 0 
+4/27/2022 10:16:50: [G_Auto 2] :  Store Text Value (Shared) for Egor Gerasimov: aServing = serving:0
+4/27/2022 10:16:50: [G_Auto 2] :  Store Text Value (Shared) for John Millman: bPoints = point: 0; games: 1; sets: 0 
+4/27/2022 10:16:50: [G_Auto 2] :  Store Text Value (Shared) for John Millman: bServing = serving:2
+4/27/2022 10:16:50: [G_Auto 2] :  Store Value (Shared) for market: price = 1.79
+4/27/2022 10:16:50: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 9.39
+4/27/2022 10:16:50: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 8.89
+4/27/2022 10:16:50: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.39
+4/27/2022 10:16:50: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 18.28
+4/27/2022 10:16:50: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.49
+4/27/2022 10:16:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.8
+4/27/2022 10:16:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.18
+4/27/2022 10:16:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 10:17:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 10:17:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 10:17:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 10:17:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 10:20:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 10:20:37: [G_Auto 1] :  € 8.42 Lay bet placed on Egor Gerasimov at 1.95. Entirely unmatched when it initially reached the market.   Ref: 10344          ( Fill or kill bet with 15 seconds delay.   )
+4/27/2022 10:20:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 10:20:52: [G_Auto 1] :  € 8.42 unmatched bet (Ref:10344) was killed.
+4/27/2022 10:20:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 10:21:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 10:21:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 10:21:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 10:22:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 10:22:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 10:22:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 10:22:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 10:24:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 10:24:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 10:24:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 10:24:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 10:25:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 10:25:16: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 10:25:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 10:25:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 10:33:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 10:34:04: [G_Auto 1] :  € 20.51 Lay bet placed on Egor Gerasimov at 1.39. Fully matched at 1.38.  Ref: 10348          ( Fill or kill bet with 15 seconds delay.   )
+4/27/2022 10:34:05: [G_Auto 2] :  Store Text Value (Shared) for Egor Gerasimov: aPoints = point: 0; games: 3; sets: 0 
+4/27/2022 10:34:05: [G_Auto 2] :  Store Text Value (Shared) for Egor Gerasimov: aServing = serving:1
+4/27/2022 10:34:05: [G_Auto 2] :  Store Text Value (Shared) for John Millman: bPoints = point: 0; games: 2; sets: 0 
+4/27/2022 10:34:05: [G_Auto 2] :  Store Text Value (Shared) for John Millman: bServing = serving:0
+4/27/2022 10:34:05: [G_Auto 2] :  Store Value (Shared) for market: price = 1.38
+4/27/2022 10:34:05: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 9.39
+4/27/2022 10:34:05: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 29.4
+4/27/2022 10:34:05: [G_Auto 2] :  Store Value (Shared) for market: stake = 20.51
+4/27/2022 10:34:05: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 38.79
+4/27/2022 10:34:05: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.65
+4/27/2022 10:34:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.38
+4/27/2022 10:34:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.65
+4/27/2022 10:34:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 10:34:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 10:34:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 10:34:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 10:35:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 10:35:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 10:35:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 10:35:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 10:36:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 10:40:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 10:40:47: [G_Auto 1] :  Placed closure bet with greening on Egor Gerasimov by Backing 21.44 at 1.32
+4/27/2022 10:40:48: [G_Auto 2] :  Store Text Value (Shared) for Egor Gerasimov: aPoints = point: 0; games: 4; sets: 0 
+4/27/2022 10:40:48: [G_Auto 2] :  Store Text Value (Shared) for Egor Gerasimov: aServing = serving:0
+4/27/2022 10:40:48: [G_Auto 2] :  Store Text Value (Shared) for John Millman: bPoints = point: 0; games: 2; sets: 0 
+4/27/2022 10:40:48: [G_Auto 2] :  Store Text Value (Shared) for John Millman: bServing = serving:2
+4/27/2022 10:40:48: [G_Auto 2] :  Store Value (Shared) for market: price = 1.32
+4/27/2022 10:40:48: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 30.83
+4/27/2022 10:40:48: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 29.4
+4/27/2022 10:40:48: [G_Auto 2] :  Store Value (Shared) for market: stake = 21.44
+4/27/2022 10:40:48: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 60.23
+4/27/2022 10:40:48: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.43
+4/27/2022 10:40:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.33
+4/27/2022 10:40:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4
+4/27/2022 10:40:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 10:41:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 10:41:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 10:41:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 10:41:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 10:43:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 10:43:51: [G_Auto 1] :  € 20.51 Lay bet placed on Egor Gerasimov at 1.39. Fully matched at 1.38.  Ref: 10353          ( Fill or kill bet with 15 seconds delay.   )
+4/27/2022 10:43:53: [G_Auto 2] :  Store Text Value (Shared) for Egor Gerasimov: aPoints = point: 0; games: 4; sets: 0 
+4/27/2022 10:43:53: [G_Auto 2] :  Store Text Value (Shared) for Egor Gerasimov: aServing = serving:1
+4/27/2022 10:43:53: [G_Auto 2] :  Store Text Value (Shared) for John Millman: bPoints = point: 0; games: 3; sets: 0 
+4/27/2022 10:43:53: [G_Auto 2] :  Store Text Value (Shared) for John Millman: bServing = serving:0
+4/27/2022 10:43:53: [G_Auto 2] :  Store Value (Shared) for market: price = 1.38
+4/27/2022 10:43:53: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 30.83
+4/27/2022 10:43:53: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 49.91
+4/27/2022 10:43:53: [G_Auto 2] :  Store Value (Shared) for market: stake = 20.51
+4/27/2022 10:43:53: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 80.74
+4/27/2022 10:43:53: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.58
+4/27/2022 10:43:53: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.37
+4/27/2022 10:43:53: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.7
+4/27/2022 10:43:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 10:44:00: [G_Auto 2] :  Store Text Value (Shared) for Egor Gerasimov: aPoints = point: 0; games: 4; sets: 0 
+4/27/2022 10:44:00: [G_Auto 2] :  Store Text Value (Shared) for Egor Gerasimov: aServing = serving:1
+4/27/2022 10:44:00: [G_Auto 2] :  Store Text Value (Shared) for John Millman: bPoints = point: 0; games: 3; sets: 0 
+4/27/2022 10:44:00: [G_Auto 2] :  Store Text Value (Shared) for John Millman: bServing = serving:0
+4/27/2022 10:44:00: [G_Auto 2] :  Store Value (Shared) for market: price = 1.38
+4/27/2022 10:44:00: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 30.83
+4/27/2022 10:44:00: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 49.91
+4/27/2022 10:44:00: [G_Auto 2] :  Store Value (Shared) for market: stake = 20.51
+4/27/2022 10:44:00: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 80.74
+4/27/2022 10:44:00: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.58
+4/27/2022 10:44:00: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.37
+4/27/2022 10:44:00: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.6
+4/27/2022 10:44:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 10:44:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 10:44:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 10:44:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 10:45:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 10:45:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 10:45:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 10:46:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 10:46:16: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 10:46:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 10:47:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 10:48:02: [G_Auto 1] :  Placed closure bet with greening on Egor Gerasimov by Backing 15.22 at 1.86
+4/27/2022 10:48:03: [G_Auto 2] :  Store Text Value (Shared) for Egor Gerasimov: aPoints = point: 0; games: 4; sets: 0 
+4/27/2022 10:48:03: [G_Auto 2] :  Store Text Value (Shared) for Egor Gerasimov: aServing = serving:0
+4/27/2022 10:48:03: [G_Auto 2] :  Store Text Value (Shared) for John Millman: bPoints = point: 0; games: 4; sets: 0 
+4/27/2022 10:48:03: [G_Auto 2] :  Store Text Value (Shared) for John Millman: bServing = serving:2
+4/27/2022 10:48:03: [G_Auto 2] :  Store Value (Shared) for market: price = 1.88
+4/27/2022 10:48:03: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 46.05
+4/27/2022 10:48:03: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 49.91
+4/27/2022 10:48:03: [G_Auto 2] :  Store Value (Shared) for market: stake = 15.22
+4/27/2022 10:48:03: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 95.96
+4/27/2022 10:48:03: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.95
+4/27/2022 10:48:03: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.86
+4/27/2022 10:48:03: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.18
+4/27/2022 10:48:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 10:48:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 10:48:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 10:48:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 10:48:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 10:52:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 10:52:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 10:52:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 10:52:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 10:53:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 10:53:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 10:53:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 10:54:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 10:54:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 10:54:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 10:54:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 11:00:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:01:04: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 3.75
+4/27/2022 11:01:04: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 1.4
+4/27/2022 11:01:07: [G_Auto 1] :  € 20.51 Lay bet placed on John Millman at 1.39. Fully matched at 1.39.  Ref: 10355          ( Fill or kill bet with 15 seconds delay.   )
+4/27/2022 11:01:09: [G_Auto 2] :  Store Text Value (Shared) for Egor Gerasimov: aPoints = point: 0; games: 0; sets: 0 
+4/27/2022 11:01:09: [G_Auto 2] :  Store Text Value (Shared) for Egor Gerasimov: aServing = serving:0
+4/27/2022 11:01:09: [G_Auto 2] :  Store Text Value (Shared) for John Millman: bPoints = point: 0; games: 0; sets: 1 
+4/27/2022 11:01:09: [G_Auto 2] :  Store Text Value (Shared) for John Millman: bServing = serving:2
+4/27/2022 11:01:09: [G_Auto 2] :  Store Value (Shared) for market: price = 1.39
+4/27/2022 11:01:09: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 46.05
+4/27/2022 11:01:09: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 70.42
+4/27/2022 11:01:09: [G_Auto 2] :  Store Value (Shared) for market: stake = 20.51
+4/27/2022 11:01:09: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 116.47
+4/27/2022 11:01:09: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.72
+4/27/2022 11:01:09: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.75
+4/27/2022 11:01:09: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.37
+4/27/2022 11:01:10: [G_Auto 1] :  Placed closure bet with greening on Egor Gerasimov by Laying 0.08 at 3.75
+4/27/2022 11:01:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:01:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:01:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:01:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:02:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:02:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:02:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:03:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:03:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:03:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:03:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:04:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 11:04:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 11:04:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 11:08:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:08:40: [G_Auto 1] :  Placed closure bet with greening on John Millman by Backing 22.27 at 1.28
+4/27/2022 11:08:41: [G_Auto 2] :  Store Text Value (Shared) for Egor Gerasimov: aPoints = point: 0; games: 0; sets: 0 
+4/27/2022 11:08:41: [G_Auto 2] :  Store Text Value (Shared) for Egor Gerasimov: aServing = serving:1
+4/27/2022 11:08:41: [G_Auto 2] :  Store Text Value (Shared) for John Millman: bPoints = point: 0; games: 1; sets: 1 
+4/27/2022 11:08:41: [G_Auto 2] :  Store Text Value (Shared) for John Millman: bServing = serving:0
+4/27/2022 11:08:41: [G_Auto 2] :  Store Value (Shared) for market: price = 1.29
+4/27/2022 11:08:41: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 68.32
+4/27/2022 11:08:41: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 70.5
+4/27/2022 11:08:41: [G_Auto 2] :  Store Value (Shared) for market: stake = 22.27
+4/27/2022 11:08:41: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 138.82
+4/27/2022 11:08:41: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.32
+4/27/2022 11:08:41: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.4
+4/27/2022 11:08:41: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.28
+4/27/2022 11:08:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:08:48: [G_Auto 2] :  Store Text Value (Shared) for Egor Gerasimov: aPoints = point: 0; games: 0; sets: 0 
+4/27/2022 11:08:48: [G_Auto 2] :  Store Text Value (Shared) for Egor Gerasimov: aServing = serving:1
+4/27/2022 11:08:48: [G_Auto 2] :  Store Text Value (Shared) for John Millman: bPoints = point: 0; games: 1; sets: 1 
+4/27/2022 11:08:48: [G_Auto 2] :  Store Text Value (Shared) for John Millman: bServing = serving:0
+4/27/2022 11:08:48: [G_Auto 2] :  Store Value (Shared) for market: price = 1.29
+4/27/2022 11:08:48: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 68.32
+4/27/2022 11:08:48: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 70.5
+4/27/2022 11:08:48: [G_Auto 2] :  Store Value (Shared) for market: stake = 22.27
+4/27/2022 11:08:48: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 138.82
+4/27/2022 11:08:48: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.32
+4/27/2022 11:08:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.4
+4/27/2022 11:08:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.29
+4/27/2022 11:08:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:09:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:09:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:09:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 11:09:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 11:11:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:12:03: [G_Auto 1] :  € 20.51 Lay bet placed on John Millman at 1.39. Fully matched at 1.38.  Ref: 10361          ( Fill or kill bet with 15 seconds delay.   )
+4/27/2022 11:12:04: [G_Auto 2] :  Store Text Value (Shared) for Egor Gerasimov: aPoints = point: 0; games: 1; sets: 0 
+4/27/2022 11:12:04: [G_Auto 2] :  Store Text Value (Shared) for Egor Gerasimov: aServing = serving:0
+4/27/2022 11:12:04: [G_Auto 2] :  Store Text Value (Shared) for John Millman: bPoints = point: 0; games: 1; sets: 1 
+4/27/2022 11:12:04: [G_Auto 2] :  Store Text Value (Shared) for John Millman: bServing = serving:2
+4/27/2022 11:12:04: [G_Auto 2] :  Store Value (Shared) for market: price = 1.38
+4/27/2022 11:12:04: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 68.32
+4/27/2022 11:12:04: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 91.01
+4/27/2022 11:12:04: [G_Auto 2] :  Store Value (Shared) for market: stake = 20.51
+4/27/2022 11:12:04: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 159.33
+4/27/2022 11:12:04: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.17
+4/27/2022 11:12:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.75
+4/27/2022 11:12:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.37
+4/27/2022 11:12:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:12:11: [G_Auto 2] :  Store Text Value (Shared) for Egor Gerasimov: aPoints = point: 0; games: 1; sets: 0 
+4/27/2022 11:12:11: [G_Auto 2] :  Store Text Value (Shared) for Egor Gerasimov: aServing = serving:0
+4/27/2022 11:12:11: [G_Auto 2] :  Store Text Value (Shared) for John Millman: bPoints = point: 0; games: 1; sets: 1 
+4/27/2022 11:12:11: [G_Auto 2] :  Store Text Value (Shared) for John Millman: bServing = serving:2
+4/27/2022 11:12:11: [G_Auto 2] :  Store Value (Shared) for market: price = 1.38
+4/27/2022 11:12:11: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 68.32
+4/27/2022 11:12:11: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 91.01
+4/27/2022 11:12:11: [G_Auto 2] :  Store Value (Shared) for market: stake = 20.51
+4/27/2022 11:12:11: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 159.33
+4/27/2022 11:12:11: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.17
+4/27/2022 11:12:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.75
+4/27/2022 11:12:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.37
+4/27/2022 11:12:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:12:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:12:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 11:12:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 11:13:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 11:13:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 11:13:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 11:14:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 11:14:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 11:16:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:16:50: [G_Auto 1] :  Placed closure bet with greening on John Millman by Backing 16.33 at 1.72
+4/27/2022 11:16:52: [G_Auto 2] :  Store Text Value (Shared) for Egor Gerasimov: aPoints = point: 0; games: 2; sets: 0 
+4/27/2022 11:16:52: [G_Auto 2] :  Store Text Value (Shared) for Egor Gerasimov: aServing = serving:1
+4/27/2022 11:16:52: [G_Auto 2] :  Store Text Value (Shared) for John Millman: bPoints = point: 0; games: 1; sets: 1 
+4/27/2022 11:16:52: [G_Auto 2] :  Store Text Value (Shared) for John Millman: bServing = serving:0
+4/27/2022 11:16:52: [G_Auto 2] :  Store Value (Shared) for market: price = 1.72
+4/27/2022 11:16:52: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 84.65
+4/27/2022 11:16:52: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 91.01
+4/27/2022 11:16:52: [G_Auto 2] :  Store Value (Shared) for market: stake = 16.33
+4/27/2022 11:16:52: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 175.66
+4/27/2022 11:16:52: [G_Auto 2] :  Store Value (Shared) for market: pl = 6.25
+4/27/2022 11:16:52: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.4
+4/27/2022 11:16:52: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.72
+4/27/2022 11:16:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:17:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:17:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:17:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:17:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:18:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:18:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:18:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:18:55: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 11:19:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 11:25:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:25:38: [G_Auto 1] :  € 10.00 Lay bet placed on John Millman at 1.8. Fully matched at 1.79.  Ref: 10365          ( Fill or kill bet with 15 seconds delay.   )
+4/27/2022 11:25:39: [G_Auto 2] :  Store Text Value (Shared) for Egor Gerasimov: aPoints = point: 0; games: 3; sets: 0 
+4/27/2022 11:25:39: [G_Auto 2] :  Store Text Value (Shared) for Egor Gerasimov: aServing = serving:0
+4/27/2022 11:25:39: [G_Auto 2] :  Store Text Value (Shared) for John Millman: bPoints = point: 0; games: 1; sets: 1 
+4/27/2022 11:25:39: [G_Auto 2] :  Store Text Value (Shared) for John Millman: bServing = serving:2
+4/27/2022 11:25:39: [G_Auto 2] :  Store Value (Shared) for market: price = 1.79
+4/27/2022 11:25:39: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 84.65
+4/27/2022 11:25:39: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 101.01
+4/27/2022 11:25:39: [G_Auto 2] :  Store Value (Shared) for market: stake = 10
+4/27/2022 11:25:39: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 185.66
+4/27/2022 11:25:39: [G_Auto 2] :  Store Value (Shared) for market: pl = 6.2
+4/27/2022 11:25:39: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.28
+4/27/2022 11:25:39: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.78
+4/27/2022 11:25:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:25:45: [G_Auto 2] :  Store Text Value (Shared) for Egor Gerasimov: aPoints = point: 0; games: 3; sets: 0 
+4/27/2022 11:25:45: [G_Auto 2] :  Store Text Value (Shared) for Egor Gerasimov: aServing = serving:0
+4/27/2022 11:25:45: [G_Auto 2] :  Store Text Value (Shared) for John Millman: bPoints = point: 0; games: 1; sets: 1 
+4/27/2022 11:25:45: [G_Auto 2] :  Store Text Value (Shared) for John Millman: bServing = serving:2
+4/27/2022 11:25:45: [G_Auto 2] :  Store Value (Shared) for market: price = 1.79
+4/27/2022 11:25:45: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 84.65
+4/27/2022 11:25:45: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 101.01
+4/27/2022 11:25:45: [G_Auto 2] :  Store Value (Shared) for market: stake = 10
+4/27/2022 11:25:45: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 185.66
+4/27/2022 11:25:45: [G_Auto 2] :  Store Value (Shared) for market: pl = 6.14
+4/27/2022 11:25:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.3
+4/27/2022 11:25:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.77
+4/27/2022 11:25:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:26:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 11:26:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 11:28:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:28:36: [G_Auto 1] :  Placed closure bet with greening on John Millman by Backing 10.65 at 1.68
+4/27/2022 11:28:37: [G_Auto 2] :  Store Text Value (Shared) for Egor Gerasimov: aPoints = point: 0; games: 3; sets: 0 
+4/27/2022 11:28:37: [G_Auto 2] :  Store Text Value (Shared) for Egor Gerasimov: aServing = serving:1
+4/27/2022 11:28:37: [G_Auto 2] :  Store Text Value (Shared) for John Millman: bPoints = point: 0; games: 2; sets: 1 
+4/27/2022 11:28:37: [G_Auto 2] :  Store Text Value (Shared) for John Millman: bServing = serving:0
+4/27/2022 11:28:37: [G_Auto 2] :  Store Value (Shared) for market: price = 1.68
+4/27/2022 11:28:37: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 95.3
+4/27/2022 11:28:37: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 101.01
+4/27/2022 11:28:37: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.65
+4/27/2022 11:28:37: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 196.31
+4/27/2022 11:28:37: [G_Auto 2] :  Store Value (Shared) for market: pl = 5.62
+4/27/2022 11:28:37: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.46
+4/27/2022 11:28:37: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.68
+4/27/2022 11:28:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:28:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:29:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:29:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:29:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:30:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:30:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:30:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:30:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 11:31:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 11:32:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:32:22: [G_Auto 1] :  € 9.09 Lay bet placed on John Millman at 1.88. Fully matched at 1.88.  Ref: 10367          ( Fill or kill bet with 15 seconds delay.   )
+4/27/2022 11:32:23: [G_Auto 2] :  Store Text Value (Shared) for Egor Gerasimov: aPoints = point: 0; games: 4; sets: 0 
+4/27/2022 11:32:23: [G_Auto 2] :  Store Text Value (Shared) for Egor Gerasimov: aServing = serving:0
+4/27/2022 11:32:23: [G_Auto 2] :  Store Text Value (Shared) for John Millman: bPoints = point: 0; games: 2; sets: 1 
+4/27/2022 11:32:23: [G_Auto 2] :  Store Text Value (Shared) for John Millman: bServing = serving:2
+4/27/2022 11:32:23: [G_Auto 2] :  Store Value (Shared) for market: price = 1.88
+4/27/2022 11:32:23: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 95.3
+4/27/2022 11:32:23: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 110.1
+4/27/2022 11:32:23: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.09
+4/27/2022 11:32:23: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 205.4
+4/27/2022 11:32:23: [G_Auto 2] :  Store Value (Shared) for market: pl = 5.57
+4/27/2022 11:32:23: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.12
+4/27/2022 11:32:23: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.88
+4/27/2022 11:32:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:32:30: [G_Auto 2] :  Store Text Value (Shared) for Egor Gerasimov: aPoints = point: 0; games: 4; sets: 0 
+4/27/2022 11:32:30: [G_Auto 2] :  Store Text Value (Shared) for Egor Gerasimov: aServing = serving:0
+4/27/2022 11:32:30: [G_Auto 2] :  Store Text Value (Shared) for John Millman: bPoints = point: 0; games: 2; sets: 1 
+4/27/2022 11:32:30: [G_Auto 2] :  Store Text Value (Shared) for John Millman: bServing = serving:2
+4/27/2022 11:32:30: [G_Auto 2] :  Store Value (Shared) for market: price = 1.88
+4/27/2022 11:32:30: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 95.3
+4/27/2022 11:32:30: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 110.1
+4/27/2022 11:32:30: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.09
+4/27/2022 11:32:30: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 205.4
+4/27/2022 11:32:30: [G_Auto 2] :  Store Value (Shared) for market: pl = 5.52
+4/27/2022 11:32:30: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.16
+4/27/2022 11:32:30: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.86
+4/27/2022 11:32:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:32:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:33:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 11:33:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 11:38:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:38:27: [G_Auto 1] :  Placed closure bet with greening on John Millman by Backing 7.50 at 2.28
+4/27/2022 11:38:27: [G_Auto 1] :  € 10.39 Lay bet placed on Egor Gerasimov at 1.77. Fully matched at 1.76.  Ref: 10368          ( Fill or kill bet with 15 seconds delay.   )
+4/27/2022 11:38:28: [G_Auto 2] :  Store Text Value (Shared) for Egor Gerasimov: aPoints = point: 0; games: 5; sets: 0 
+4/27/2022 11:38:28: [G_Auto 2] :  Store Text Value (Shared) for Egor Gerasimov: aServing = serving:1
+4/27/2022 11:38:28: [G_Auto 2] :  Store Text Value (Shared) for John Millman: bPoints = point: 0; games: 2; sets: 1 
+4/27/2022 11:38:28: [G_Auto 2] :  Store Text Value (Shared) for John Millman: bServing = serving:0
+4/27/2022 11:38:28: [G_Auto 2] :  Store Value (Shared) for market: price = 1.76
+4/27/2022 11:38:28: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 102.8
+4/27/2022 11:38:28: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 120.49
+4/27/2022 11:38:28: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.39
+4/27/2022 11:38:28: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 223.29
+4/27/2022 11:38:28: [G_Auto 2] :  Store Value (Shared) for market: pl = 7.17
+4/27/2022 11:38:28: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.76
+4/27/2022 11:38:28: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.3
+4/27/2022 11:38:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:38:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:39:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:39:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:39:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:39:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:40:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:40:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:40:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:40:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 11:42:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:42:11: [G_Auto 2] :  Store Value (Shared) for market: aSecondSetPrice = 1.62
+4/27/2022 11:42:11: [G_Auto 2] :  Store Value (Shared) for market: bSecondSetPrice = 2.6
+4/27/2022 11:42:16: [G_Auto 1] :  Placed closure bet with greening on Egor Gerasimov by Backing 11.35 at 1.61
+4/27/2022 11:42:17: [G_Auto 2] :  Store Text Value (Shared) for Egor Gerasimov: aPoints = point: 0; games: 0; sets: 1 
+4/27/2022 11:42:17: [G_Auto 2] :  Store Text Value (Shared) for Egor Gerasimov: aServing = serving:0
+4/27/2022 11:42:17: [G_Auto 2] :  Store Text Value (Shared) for John Millman: bPoints = point: 0; games: 0; sets: 1 
+4/27/2022 11:42:17: [G_Auto 2] :  Store Text Value (Shared) for John Millman: bServing = serving:2
+4/27/2022 11:42:17: [G_Auto 2] :  Store Value (Shared) for market: price = 1.61
+4/27/2022 11:42:17: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 114.15
+4/27/2022 11:42:17: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 120.49
+4/27/2022 11:42:17: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.35
+4/27/2022 11:42:17: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 234.64
+4/27/2022 11:42:17: [G_Auto 2] :  Store Value (Shared) for market: pl = 6.28
+4/27/2022 11:42:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.61
+4/27/2022 11:42:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.62
+4/27/2022 11:42:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:42:23: [G_Auto 2] :  Store Text Value (Shared) for Egor Gerasimov: aPoints = point: 0; games: 0; sets: 1 
+4/27/2022 11:42:23: [G_Auto 2] :  Store Text Value (Shared) for Egor Gerasimov: aServing = serving:0
+4/27/2022 11:42:23: [G_Auto 2] :  Store Text Value (Shared) for John Millman: bPoints = point: 0; games: 0; sets: 1 
+4/27/2022 11:42:23: [G_Auto 2] :  Store Text Value (Shared) for John Millman: bServing = serving:2
+4/27/2022 11:42:23: [G_Auto 2] :  Store Value (Shared) for market: price = 1.61
+4/27/2022 11:42:23: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 114.15
+4/27/2022 11:42:23: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 120.49
+4/27/2022 11:42:23: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.35
+4/27/2022 11:42:23: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 234.64
+4/27/2022 11:42:23: [G_Auto 2] :  Store Value (Shared) for market: pl = 6.28
+4/27/2022 11:42:23: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.61
+4/27/2022 11:42:23: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.62
+4/27/2022 11:42:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:42:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:43:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:43:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:43:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:43:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:44:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:44:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:44:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:44:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 11:45:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 11:45:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 11:49:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:49:31: [G_Auto 1] :  € 32.00 Lay bet placed on Egor Gerasimov at 1.25. Fully matched at 1.24.  Ref: 10372          ( Fill or kill bet with 15 seconds delay.   )
+4/27/2022 11:49:32: [G_Auto 2] :  Store Text Value (Shared) for Egor Gerasimov: aPoints = point: 0; games: 1; sets: 1 
+4/27/2022 11:49:32: [G_Auto 2] :  Store Text Value (Shared) for Egor Gerasimov: aServing = serving:1
+4/27/2022 11:49:32: [G_Auto 2] :  Store Text Value (Shared) for John Millman: bPoints = point: 0; games: 0; sets: 1 
+4/27/2022 11:49:32: [G_Auto 2] :  Store Text Value (Shared) for John Millman: bServing = serving:0
+4/27/2022 11:49:32: [G_Auto 2] :  Store Value (Shared) for market: price = 1.24
+4/27/2022 11:49:32: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 114.15
+4/27/2022 11:49:32: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 152.49
+4/27/2022 11:49:32: [G_Auto 2] :  Store Value (Shared) for market: stake = 32
+4/27/2022 11:49:32: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 266.64
+4/27/2022 11:49:32: [G_Auto 2] :  Store Value (Shared) for market: pl = 6
+4/27/2022 11:49:32: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.24
+4/27/2022 11:49:32: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.2
+4/27/2022 11:49:34: [G_Auto 1] :  Placed closure bet with greening on John Millman by Laying 0.03 at 5.4
+4/27/2022 11:49:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:49:38: [G_Auto 2] :  Store Text Value (Shared) for Egor Gerasimov: aPoints = point: 0; games: 1; sets: 1 
+4/27/2022 11:49:38: [G_Auto 2] :  Store Text Value (Shared) for Egor Gerasimov: aServing = serving:1
+4/27/2022 11:49:38: [G_Auto 2] :  Store Text Value (Shared) for John Millman: bPoints = point: 0; games: 0; sets: 1 
+4/27/2022 11:49:38: [G_Auto 2] :  Store Text Value (Shared) for John Millman: bServing = serving:0
+4/27/2022 11:49:38: [G_Auto 2] :  Store Value (Shared) for market: price = 5.3
+4/27/2022 11:49:38: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 114.15
+4/27/2022 11:49:38: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 152.52
+4/27/2022 11:49:38: [G_Auto 2] :  Store Value (Shared) for market: stake = 0.03
+4/27/2022 11:49:38: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 266.67
+4/27/2022 11:49:38: [G_Auto 2] :  Store Value (Shared) for market: pl = 6
+4/27/2022 11:49:38: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.24
+4/27/2022 11:49:38: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.2
+4/27/2022 11:49:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:50:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 11:50:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 11:50:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 12:00:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 12:00:33: [G_Auto 1] :  Placed closure bet with greening on Egor Gerasimov by Backing 33.06 at 1.2
+4/27/2022 12:00:34: [G_Auto 2] :  Store Text Value (Shared) for Egor Gerasimov: aPoints = point: 0; games: 2; sets: 1 
+4/27/2022 12:00:34: [G_Auto 2] :  Store Text Value (Shared) for Egor Gerasimov: aServing = serving:0
+4/27/2022 12:00:34: [G_Auto 2] :  Store Text Value (Shared) for John Millman: bPoints = point: 0; games: 0; sets: 1 
+4/27/2022 12:00:34: [G_Auto 2] :  Store Text Value (Shared) for John Millman: bServing = serving:2
+4/27/2022 12:00:34: [G_Auto 2] :  Store Value (Shared) for market: price = 1.2
+4/27/2022 12:00:34: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 147.21
+4/27/2022 12:00:34: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 152.52
+4/27/2022 12:00:34: [G_Auto 2] :  Store Value (Shared) for market: stake = 33.06
+4/27/2022 12:00:34: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 299.73
+4/27/2022 12:00:34: [G_Auto 2] :  Store Value (Shared) for market: pl = 5.2
+4/27/2022 12:00:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.21
+4/27/2022 12:00:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.8
+4/27/2022 12:00:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 12:00:39: [G_Auto 2] :  Store Text Value (Shared) for Egor Gerasimov: aPoints = point: 0; games: 2; sets: 1 
+4/27/2022 12:00:39: [G_Auto 2] :  Store Text Value (Shared) for Egor Gerasimov: aServing = serving:0
+4/27/2022 12:00:39: [G_Auto 2] :  Store Text Value (Shared) for John Millman: bPoints = point: 0; games: 0; sets: 1 
+4/27/2022 12:00:39: [G_Auto 2] :  Store Text Value (Shared) for John Millman: bServing = serving:2
+4/27/2022 12:00:39: [G_Auto 2] :  Store Value (Shared) for market: price = 1.2
+4/27/2022 12:00:39: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 147.21
+4/27/2022 12:00:39: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 152.52
+4/27/2022 12:00:39: [G_Auto 2] :  Store Value (Shared) for market: stake = 33.06
+4/27/2022 12:00:39: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 299.73
+4/27/2022 12:00:39: [G_Auto 2] :  Store Value (Shared) for market: pl = 5.2
+4/27/2022 12:00:39: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.21
+4/27/2022 12:00:39: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.7
+4/27/2022 12:00:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 12:01:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 12:01:16: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 12:05:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 12:06:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 12:06:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 12:06:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 12:06:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 12:07:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 12:07:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 12:07:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 12:07:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 12:08:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 12:08:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 12:08:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 12:10:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 12:11:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 12:11:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 12:11:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 12:11:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 12:12:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 12:12:47: [G_Auto 1] :  € 26.67 Lay bet placed on Egor Gerasimov at 1.3. Fully matched at 1.29.  Ref: 10379          ( Fill or kill bet with 15 seconds delay.   )
+4/27/2022 12:12:48: [G_Auto 2] :  Store Text Value (Shared) for Egor Gerasimov: aPoints = point: 0; games: 3; sets: 1 
+4/27/2022 12:12:48: [G_Auto 2] :  Store Text Value (Shared) for Egor Gerasimov: aServing = serving:1
+4/27/2022 12:12:48: [G_Auto 2] :  Store Text Value (Shared) for John Millman: bPoints = point: 0; games: 2; sets: 1 
+4/27/2022 12:12:48: [G_Auto 2] :  Store Text Value (Shared) for John Millman: bServing = serving:0
+4/27/2022 12:12:48: [G_Auto 2] :  Store Value (Shared) for market: price = 1.29
+4/27/2022 12:12:48: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 147.21
+4/27/2022 12:12:48: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 179.19
+4/27/2022 12:12:48: [G_Auto 2] :  Store Value (Shared) for market: stake = 26.67
+4/27/2022 12:12:48: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 326.4
+4/27/2022 12:12:48: [G_Auto 2] :  Store Value (Shared) for market: pl = 5
+4/27/2022 12:12:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.29
+4/27/2022 12:12:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.5
+4/27/2022 12:12:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 12:12:54: [G_Auto 2] :  Store Text Value (Shared) for Egor Gerasimov: aPoints = point: 0; games: 3; sets: 1 
+4/27/2022 12:12:54: [G_Auto 2] :  Store Text Value (Shared) for Egor Gerasimov: aServing = serving:1
+4/27/2022 12:12:54: [G_Auto 2] :  Store Text Value (Shared) for John Millman: bPoints = point: 0; games: 2; sets: 1 
+4/27/2022 12:12:54: [G_Auto 2] :  Store Text Value (Shared) for John Millman: bServing = serving:0
+4/27/2022 12:12:54: [G_Auto 2] :  Store Value (Shared) for market: price = 1.29
+4/27/2022 12:12:54: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 147.21
+4/27/2022 12:12:54: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 179.19
+4/27/2022 12:12:54: [G_Auto 2] :  Store Value (Shared) for market: stake = 26.67
+4/27/2022 12:12:54: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 326.4
+4/27/2022 12:12:54: [G_Auto 2] :  Store Value (Shared) for market: pl = 5
+4/27/2022 12:12:54: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.28
+4/27/2022 12:12:54: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.4
+4/27/2022 12:13:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 12:13:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 12:13:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 12:13:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 12:14:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 12:14:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 12:14:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 12:14:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 12:16:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 12:17:06: [G_Auto 1] :  Placed closure bet with greening on Egor Gerasimov by Backing 29.92 at 1.15
+4/27/2022 12:17:07: [G_Auto 2] :  Store Text Value (Shared) for Egor Gerasimov: aPoints = point: 0; games: 4; sets: 1 
+4/27/2022 12:17:07: [G_Auto 2] :  Store Text Value (Shared) for Egor Gerasimov: aServing = serving:0
+4/27/2022 12:17:07: [G_Auto 2] :  Store Text Value (Shared) for John Millman: bPoints = point: 0; games: 2; sets: 1 
+4/27/2022 12:17:07: [G_Auto 2] :  Store Text Value (Shared) for John Millman: bServing = serving:2
+4/27/2022 12:17:07: [G_Auto 2] :  Store Value (Shared) for market: price = 1.15
+4/27/2022 12:17:07: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 177.13
+4/27/2022 12:17:07: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 179.19
+4/27/2022 12:17:07: [G_Auto 2] :  Store Value (Shared) for market: stake = 29.92
+4/27/2022 12:17:07: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 356.32
+4/27/2022 12:17:07: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.02
+4/27/2022 12:17:07: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.16
+4/27/2022 12:17:07: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 7.6
+4/27/2022 12:17:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 12:17:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 12:17:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 12:17:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 12:19:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 12:19:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 12:19:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 12:19:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 12:20:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 12:20:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 12:20:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 12:20:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 12:21:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 12:21:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 12:21:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 12:22:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 12:22:56:  Guardian has detected that the market is suspended

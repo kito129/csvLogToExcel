@@ -1,0 +1,406 @@
+5/5/2022 09:35:21: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: info = marketName: Alexandrova v Jabeur - Match Odds; runnerA: Ekaterina Alexandrova; runnerB: Ons Jabeur 
+5/5/2022 09:35:21: [G_Auto 1] :  Store Value (Shared) for market: aId = 8681458
+5/5/2022 09:35:21: [G_Auto 1] :  Store Value (Shared) for market: bId = 6161111
+5/5/2022 13:59:47:  Guardian has detected that the market is in-play
+5/5/2022 13:59:47:  Guardian has detected that the market is suspended
+5/5/2022 13:59:49: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 2.88; bBsp: 1.53; volume: 117433.78 
+5/5/2022 13:59:49: [G_Auto 1] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 2.88; bBsp: 1.53; volume: 117433.78 
+5/5/2022 13:59:49:  Guardian has detected that the market is now unsuspended
+5/5/2022 13:59:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:00:03: [G_Auto 2] :  € 14.55 Lay bet placed on Ons Jabeur at 1.55. Entirely unmatched when it initially reached the market.   Ref: 10948          ( Fill or kill bet with 15 seconds delay.   )
+5/5/2022 14:00:05: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:00:09: [G_Auto 2] :  € 14.55 of unmatched bet (Ref:10948) was filled before remainder was killed.
+5/5/2022 14:00:09: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aPoints = point: 0; games: 0; sets: 0 
+5/5/2022 14:00:09: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aServing = serving:0
+5/5/2022 14:00:09: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: bPoints = point: 0; games: 0; sets: 0 
+5/5/2022 14:00:09: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: bServing = serving:2
+5/5/2022 14:00:09: [G_Auto 1] :  Store Value (Shared) for market: price = 1.55
+5/5/2022 14:00:09: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 0
+5/5/2022 14:00:09: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 14.55
+5/5/2022 14:00:09: [G_Auto 1] :  Store Value (Shared) for market: stake = 14.55
+5/5/2022 14:00:09: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 14.55
+5/5/2022 14:00:09: [G_Auto 1] :  Store Value (Shared) for market: pl = -0.29
+5/5/2022 14:00:09: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.88
+5/5/2022 14:00:09: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.53
+5/5/2022 14:00:10: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 14:00:25: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 14:00:40: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 14:02:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:02:36: [G_Auto 2] :  Placed closure bet with greening on Ons Jabeur by Backing 15.77 at 1.43
+5/5/2022 14:02:37: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aPoints = point: 0; games: 0; sets: 0 
+5/5/2022 14:02:37: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aServing = serving:1
+5/5/2022 14:02:37: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: bPoints = point: 0; games: 1; sets: 0 
+5/5/2022 14:02:37: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: bServing = serving:0
+5/5/2022 14:02:37: [G_Auto 1] :  Store Value (Shared) for market: price = 1.43
+5/5/2022 14:02:37: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 15.77
+5/5/2022 14:02:37: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 14.55
+5/5/2022 14:02:37: [G_Auto 1] :  Store Value (Shared) for market: stake = 15.77
+5/5/2022 14:02:37: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 30.32
+5/5/2022 14:02:37: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.22
+5/5/2022 14:02:37: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.25
+5/5/2022 14:02:37: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.44
+5/5/2022 14:02:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:02:43: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aPoints = point: 0; games: 0; sets: 0 
+5/5/2022 14:02:43: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aServing = serving:1
+5/5/2022 14:02:43: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: bPoints = point: 0; games: 1; sets: 0 
+5/5/2022 14:02:43: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: bServing = serving:0
+5/5/2022 14:02:43: [G_Auto 1] :  Store Value (Shared) for market: price = 1.43
+5/5/2022 14:02:43: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 15.77
+5/5/2022 14:02:43: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 14.55
+5/5/2022 14:02:43: [G_Auto 1] :  Store Value (Shared) for market: stake = 15.77
+5/5/2022 14:02:43: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 30.32
+5/5/2022 14:02:43: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.22
+5/5/2022 14:02:43: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.25
+5/5/2022 14:02:43: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.44
+5/5/2022 14:02:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:03:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:03:18: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 14:03:34: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 14:05:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:05:35: [G_Auto 2] :  € 14.04 Lay bet placed on Ons Jabeur at 1.57. Fully matched at 1.56.  Ref: 10951          ( Fill or kill bet with 15 seconds delay.   )
+5/5/2022 14:05:36: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aPoints = point: 0; games: 1; sets: 0 
+5/5/2022 14:05:36: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aServing = serving:0
+5/5/2022 14:05:36: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: bPoints = point: 0; games: 1; sets: 0 
+5/5/2022 14:05:36: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: bServing = serving:2
+5/5/2022 14:05:36: [G_Auto 1] :  Store Value (Shared) for market: price = 1.56
+5/5/2022 14:05:36: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 15.77
+5/5/2022 14:05:36: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 28.59
+5/5/2022 14:05:36: [G_Auto 1] :  Store Value (Shared) for market: stake = 14.04
+5/5/2022 14:05:36: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 44.36
+5/5/2022 14:05:36: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.31
+5/5/2022 14:05:36: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.78
+5/5/2022 14:05:36: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.55
+5/5/2022 14:05:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:05:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:06:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:06:15: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 14:06:30: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 14:08:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:08:13: [G_Auto 2] :  Placed closure bet with greening on Ons Jabeur by Backing 15.00 at 1.46
+5/5/2022 14:08:14: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aPoints = point: 0; games: 1; sets: 0 
+5/5/2022 14:08:14: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aServing = serving:1
+5/5/2022 14:08:14: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: bPoints = point: 0; games: 2; sets: 0 
+5/5/2022 14:08:14: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: bServing = serving:0
+5/5/2022 14:08:14: [G_Auto 1] :  Store Value (Shared) for market: price = 1.46
+5/5/2022 14:08:14: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 30.77
+5/5/2022 14:08:14: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 28.59
+5/5/2022 14:08:14: [G_Auto 1] :  Store Value (Shared) for market: stake = 15
+5/5/2022 14:08:14: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 59.36
+5/5/2022 14:08:14: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.18
+5/5/2022 14:08:14: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 3.15
+5/5/2022 14:08:14: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.46
+5/5/2022 14:08:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:08:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:08:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:09:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:09:19: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:09:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:09:49: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:10:03: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 14:10:18: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 14:10:33: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 14:12:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:13:07: [G_Auto 2] :  € 26.67 Lay bet placed on Ons Jabeur at 1.3. Fully matched at 1.29.  Ref: 10955          ( Fill or kill bet with 15 seconds delay.   )
+5/5/2022 14:13:07: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aPoints = point: 0; games: 1; sets: 0 
+5/5/2022 14:13:07: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aServing = serving:0
+5/5/2022 14:13:07: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: bPoints = point: 0; games: 3; sets: 0 
+5/5/2022 14:13:07: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: bServing = serving:2
+5/5/2022 14:13:07: [G_Auto 1] :  Store Value (Shared) for market: price = 1.29
+5/5/2022 14:13:07: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 30.77
+5/5/2022 14:13:07: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 55.26
+5/5/2022 14:13:07: [G_Auto 1] :  Store Value (Shared) for market: stake = 26.67
+5/5/2022 14:13:07: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 86.03
+5/5/2022 14:13:07: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.39
+5/5/2022 14:13:07: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 4.4
+5/5/2022 14:13:07: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.29
+5/5/2022 14:13:09: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:13:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:13:31: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 14:13:46: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 14:20:15: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:20:27: [G_Auto 2] :  Placed closure bet with greening on Ons Jabeur by Backing 22.06 at 1.56
+5/5/2022 14:20:28: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aPoints = point: 0; games: 2; sets: 0 
+5/5/2022 14:20:28: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aServing = serving:1
+5/5/2022 14:20:28: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: bPoints = point: 0; games: 3; sets: 0 
+5/5/2022 14:20:28: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: bServing = serving:0
+5/5/2022 14:20:28: [G_Auto 1] :  Store Value (Shared) for market: price = 1.56
+5/5/2022 14:20:28: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 52.83
+5/5/2022 14:20:28: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 55.26
+5/5/2022 14:20:28: [G_Auto 1] :  Store Value (Shared) for market: stake = 22.06
+5/5/2022 14:20:28: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 108.09
+5/5/2022 14:20:28: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.38
+5/5/2022 14:20:28: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.74
+5/5/2022 14:20:28: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.56
+5/5/2022 14:20:31: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:20:34: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aPoints = point: 0; games: 2; sets: 0 
+5/5/2022 14:20:34: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aServing = serving:1
+5/5/2022 14:20:34: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: bPoints = point: 0; games: 3; sets: 0 
+5/5/2022 14:20:34: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: bServing = serving:0
+5/5/2022 14:20:34: [G_Auto 1] :  Store Value (Shared) for market: price = 1.56
+5/5/2022 14:20:34: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 52.83
+5/5/2022 14:20:34: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 55.26
+5/5/2022 14:20:34: [G_Auto 1] :  Store Value (Shared) for market: stake = 22.06
+5/5/2022 14:20:34: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 108.09
+5/5/2022 14:20:34: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.38
+5/5/2022 14:20:34: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 2.8
+5/5/2022 14:20:34: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.56
+5/5/2022 14:20:47: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:21:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:21:20: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:21:35: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:21:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:22:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:22:10: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 14:22:26: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 14:27:12: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:27:25: [G_Auto 2] :  € 23.53 Lay bet placed on Ons Jabeur at 1.34. Fully matched at 1.33.  Ref: 10959          ( Fill or kill bet with 15 seconds delay.   )
+5/5/2022 14:27:26: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aPoints = point: 0; games: 2; sets: 0 
+5/5/2022 14:27:26: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aServing = serving:0
+5/5/2022 14:27:26: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: bPoints = point: 0; games: 4; sets: 0 
+5/5/2022 14:27:26: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: bServing = serving:2
+5/5/2022 14:27:26: [G_Auto 1] :  Store Value (Shared) for market: price = 1.33
+5/5/2022 14:27:26: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 52.83
+5/5/2022 14:27:26: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 78.79
+5/5/2022 14:27:26: [G_Auto 1] :  Store Value (Shared) for market: stake = 23.53
+5/5/2022 14:27:26: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 131.62
+5/5/2022 14:27:26: [G_Auto 1] :  Store Value (Shared) for market: pl = 2.21
+5/5/2022 14:27:26: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 4
+5/5/2022 14:27:26: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.33
+5/5/2022 14:27:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:27:45: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:27:58: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 14:28:15: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 14:29:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:30:06: [G_Auto 2] :  Placed closure bet with greening on Ons Jabeur by Backing 25.44 at 1.23
+5/5/2022 14:30:06: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aPoints = point: 0; games: 2; sets: 0 
+5/5/2022 14:30:06: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aServing = serving:1
+5/5/2022 14:30:06: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: bPoints = point: 0; games: 5; sets: 0 
+5/5/2022 14:30:06: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: bServing = serving:0
+5/5/2022 14:30:06: [G_Auto 1] :  Store Value (Shared) for market: price = 1.23
+5/5/2022 14:30:06: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 78.27
+5/5/2022 14:30:06: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 78.79
+5/5/2022 14:30:06: [G_Auto 1] :  Store Value (Shared) for market: stake = 25.44
+5/5/2022 14:30:06: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 157.06
+5/5/2022 14:30:06: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.51
+5/5/2022 14:30:06: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 5.1
+5/5/2022 14:30:06: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.24
+5/5/2022 14:30:08: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:30:23: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:30:39: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:30:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:31:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:31:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:31:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:31:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:32:00: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 14:32:15: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 14:34:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:34:47: [G_Auto 1] :  Store Value (Shared) for market: aFirstSetPrice = 6.4
+5/5/2022 14:34:47: [G_Auto 1] :  Store Value (Shared) for market: bFirstSetPrice = 1.19
+5/5/2022 14:34:51: [G_Auto 2] :  € 40.00 Lay bet placed on Ons Jabeur at 1.2. Fully matched at 1.19.  Ref: 10962          ( Fill or kill bet with 15 seconds delay.   )
+5/5/2022 14:34:52: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aPoints = point: 0; games: 0; sets: 0 
+5/5/2022 14:34:52: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aServing = serving:0
+5/5/2022 14:34:52: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: bPoints = point: 0; games: 0; sets: 1 
+5/5/2022 14:34:52: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: bServing = serving:2
+5/5/2022 14:34:52: [G_Auto 1] :  Store Value (Shared) for market: price = 1.19
+5/5/2022 14:34:52: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 78.27
+5/5/2022 14:34:52: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 118.79
+5/5/2022 14:34:52: [G_Auto 1] :  Store Value (Shared) for market: stake = 40
+5/5/2022 14:34:52: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 197.06
+5/5/2022 14:34:52: [G_Auto 1] :  Store Value (Shared) for market: pl = 0.18
+5/5/2022 14:34:52: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 6.4
+5/5/2022 14:34:52: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.19
+5/5/2022 14:34:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:35:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:35:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:35:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:36:00: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:36:16: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:36:33: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:36:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:37:04: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:37:07: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 14:37:22: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 14:38:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:38:54: [G_Auto 2] :  Placed closure bet with greening on Ons Jabeur by Backing 42.50 at 1.12
+5/5/2022 14:38:55: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aPoints = point: 0; games: 0; sets: 0 
+5/5/2022 14:38:55: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aServing = serving:1
+5/5/2022 14:38:55: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: bPoints = point: 0; games: 1; sets: 1 
+5/5/2022 14:38:55: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: bServing = serving:0
+5/5/2022 14:38:55: [G_Auto 1] :  Store Value (Shared) for market: price = 1.12
+5/5/2022 14:38:55: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 120.77
+5/5/2022 14:38:55: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 118.79
+5/5/2022 14:38:55: [G_Auto 1] :  Store Value (Shared) for market: stake = 42.5
+5/5/2022 14:38:55: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 239.56
+5/5/2022 14:38:55: [G_Auto 1] :  Store Value (Shared) for market: pl = -1.98
+5/5/2022 14:38:55: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 8.8
+5/5/2022 14:38:55: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.13
+5/5/2022 14:38:58: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:39:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:39:29: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:39:37: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 14:39:54: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 14:40:52: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:41:05: [G_Auto 2] :  € 38.10 Lay bet placed on Ons Jabeur at 1.21. Fully matched at 1.2.  Ref: 10965          ( Fill or kill bet with 15 seconds delay.   )
+5/5/2022 14:41:05: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aPoints = point: 0; games: 1; sets: 0 
+5/5/2022 14:41:05: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aServing = serving:0
+5/5/2022 14:41:05: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: bPoints = point: 0; games: 1; sets: 1 
+5/5/2022 14:41:05: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: bServing = serving:2
+5/5/2022 14:41:05: [G_Auto 1] :  Store Value (Shared) for market: price = 1.2
+5/5/2022 14:41:05: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 120.77
+5/5/2022 14:41:05: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 156.89
+5/5/2022 14:41:05: [G_Auto 1] :  Store Value (Shared) for market: stake = 38.1
+5/5/2022 14:41:05: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 277.66
+5/5/2022 14:41:05: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.3
+5/5/2022 14:41:05: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 6
+5/5/2022 14:41:05: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.19
+5/5/2022 14:41:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:41:12: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aPoints = point: 0; games: 1; sets: 0 
+5/5/2022 14:41:12: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aServing = serving:0
+5/5/2022 14:41:12: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: bPoints = point: 0; games: 1; sets: 1 
+5/5/2022 14:41:12: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: bServing = serving:2
+5/5/2022 14:41:12: [G_Auto 1] :  Store Value (Shared) for market: price = 1.2
+5/5/2022 14:41:12: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 120.77
+5/5/2022 14:41:12: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 156.89
+5/5/2022 14:41:12: [G_Auto 1] :  Store Value (Shared) for market: stake = 38.1
+5/5/2022 14:41:12: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 277.66
+5/5/2022 14:41:12: [G_Auto 1] :  Store Value (Shared) for market: pl = -2.3
+5/5/2022 14:41:12: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 6.2
+5/5/2022 14:41:12: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.19
+5/5/2022 14:41:16: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 14:42:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:42:14: [G_Auto 2] :  Placed closure bet with greening on Ons Jabeur by Backing 40.46 at 1.13
+5/5/2022 14:42:14: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aPoints = point: 0; games: 1; sets: 0 
+5/5/2022 14:42:14: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aServing = serving:1
+5/5/2022 14:42:14: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: bPoints = point: 0; games: 2; sets: 1 
+5/5/2022 14:42:14: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: bServing = serving:0
+5/5/2022 14:42:14: [G_Auto 1] :  Store Value (Shared) for market: price = 1.13
+5/5/2022 14:42:14: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 161.23
+5/5/2022 14:42:14: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 156.89
+5/5/2022 14:42:14: [G_Auto 1] :  Store Value (Shared) for market: stake = 40.46
+5/5/2022 14:42:14: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 318.12
+5/5/2022 14:42:14: [G_Auto 1] :  Store Value (Shared) for market: pl = -4.34
+5/5/2022 14:42:14: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 8.2
+5/5/2022 14:42:14: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.14
+5/5/2022 14:42:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:42:34: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:42:50: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:43:07: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:43:22: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:43:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:43:53: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:44:01: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 14:44:17: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 14:44:32: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 14:45:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:45:53: [G_Auto 2] :  € 38.10 Lay bet placed on Ons Jabeur at 1.21. Fully matched at 1.2.  Ref: 10967          ( Fill or kill bet with 15 seconds delay.   )
+5/5/2022 14:45:53: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aPoints = point: 0; games: 2; sets: 0 
+5/5/2022 14:45:53: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aServing = serving:0
+5/5/2022 14:45:53: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: bPoints = point: 0; games: 2; sets: 1 
+5/5/2022 14:45:53: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: bServing = serving:2
+5/5/2022 14:45:53: [G_Auto 1] :  Store Value (Shared) for market: price = 1.2
+5/5/2022 14:45:53: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 161.23
+5/5/2022 14:45:53: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 194.99
+5/5/2022 14:45:53: [G_Auto 1] :  Store Value (Shared) for market: stake = 38.1
+5/5/2022 14:45:53: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 356.22
+5/5/2022 14:45:53: [G_Auto 1] :  Store Value (Shared) for market: pl = -4.66
+5/5/2022 14:45:53: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 6.2
+5/5/2022 14:45:53: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.19
+5/5/2022 14:45:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:46:08: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 14:46:23: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 14:48:54: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:49:07: [G_Auto 2] :  Placed closure bet with greening on Ons Jabeur by Backing 39.76 at 1.15
+5/5/2022 14:49:08: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aPoints = point: 0; games: 2; sets: 0 
+5/5/2022 14:49:08: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aServing = serving:1
+5/5/2022 14:49:08: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: bPoints = point: 0; games: 3; sets: 1 
+5/5/2022 14:49:08: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: bServing = serving:0
+5/5/2022 14:49:08: [G_Auto 1] :  Store Value (Shared) for market: price = 1.16
+5/5/2022 14:49:08: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 200.99
+5/5/2022 14:49:08: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 194.99
+5/5/2022 14:49:08: [G_Auto 1] :  Store Value (Shared) for market: stake = 39.76
+5/5/2022 14:49:08: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 395.98
+5/5/2022 14:49:08: [G_Auto 1] :  Store Value (Shared) for market: pl = -5.66
+5/5/2022 14:49:08: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 7.4
+5/5/2022 14:49:08: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.16
+5/5/2022 14:49:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:49:13: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aPoints = point: 0; games: 2; sets: 0 
+5/5/2022 14:49:13: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aServing = serving:1
+5/5/2022 14:49:13: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: bPoints = point: 0; games: 3; sets: 1 
+5/5/2022 14:49:13: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: bServing = serving:0
+5/5/2022 14:49:13: [G_Auto 1] :  Store Value (Shared) for market: price = 1.16
+5/5/2022 14:49:13: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 200.99
+5/5/2022 14:49:13: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 194.99
+5/5/2022 14:49:13: [G_Auto 1] :  Store Value (Shared) for market: stake = 39.76
+5/5/2022 14:49:13: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 395.98
+5/5/2022 14:49:13: [G_Auto 1] :  Store Value (Shared) for market: pl = -5.66
+5/5/2022 14:49:13: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 7.2
+5/5/2022 14:49:13: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.17
+5/5/2022 14:49:25: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:49:40: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:49:55: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:50:10: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:50:26: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:50:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:50:49: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 14:51:05: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 14:52:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:52:31: [G_Auto 2] :  € 30.77 Lay bet placed on Ons Jabeur at 1.26. Fully matched at 1.25.  Ref: 10969          ( Fill or kill bet with 15 seconds delay.   )
+5/5/2022 14:52:31: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aPoints = point: 0; games: 3; sets: 0 
+5/5/2022 14:52:31: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aServing = serving:0
+5/5/2022 14:52:31: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: bPoints = point: 0; games: 3; sets: 1 
+5/5/2022 14:52:31: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: bServing = serving:2
+5/5/2022 14:52:31: [G_Auto 1] :  Store Value (Shared) for market: price = 1.25
+5/5/2022 14:52:31: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 200.99
+5/5/2022 14:52:31: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 225.76
+5/5/2022 14:52:31: [G_Auto 1] :  Store Value (Shared) for market: stake = 30.77
+5/5/2022 14:52:31: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 426.75
+5/5/2022 14:52:31: [G_Auto 1] :  Store Value (Shared) for market: pl = -5.92
+5/5/2022 14:52:31: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 5
+5/5/2022 14:52:31: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.25
+5/5/2022 14:52:32: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:52:36: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aPoints = point: 0; games: 3; sets: 0 
+5/5/2022 14:52:36: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aServing = serving:0
+5/5/2022 14:52:36: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: bPoints = point: 0; games: 3; sets: 1 
+5/5/2022 14:52:36: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: bServing = serving:2
+5/5/2022 14:52:36: [G_Auto 1] :  Store Value (Shared) for market: price = 1.25
+5/5/2022 14:52:36: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 200.99
+5/5/2022 14:52:36: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 225.76
+5/5/2022 14:52:36: [G_Auto 1] :  Store Value (Shared) for market: stake = 30.77
+5/5/2022 14:52:36: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 426.75
+5/5/2022 14:52:36: [G_Auto 1] :  Store Value (Shared) for market: pl = -5.92
+5/5/2022 14:52:36: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 5.1
+5/5/2022 14:52:36: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.24
+5/5/2022 14:52:48: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:53:00: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 14:53:15: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 14:54:24: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:54:37: [G_Auto 2] :  Placed closure bet with greening on Ons Jabeur by Backing 32.81 at 1.16
+5/5/2022 14:54:37: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aPoints = point: 0; games: 3; sets: 0 
+5/5/2022 14:54:37: [G_Auto 1] :  Store Text Value (Shared) for Ekaterina Alexandrova: aServing = serving:1
+5/5/2022 14:54:37: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: bPoints = point: 0; games: 4; sets: 1 
+5/5/2022 14:54:37: [G_Auto 1] :  Store Text Value (Shared) for Ons Jabeur: bServing = serving:0
+5/5/2022 14:54:37: [G_Auto 1] :  Store Value (Shared) for market: price = 1.16
+5/5/2022 14:54:37: [G_Auto 1] :  Store Value (Shared) for market: totalBack = 233.8
+5/5/2022 14:54:37: [G_Auto 1] :  Store Value (Shared) for market: totalLay = 225.76
+5/5/2022 14:54:37: [G_Auto 1] :  Store Value (Shared) for market: stake = 32.81
+5/5/2022 14:54:37: [G_Auto 1] :  Store Value (Shared) for market: totalStake = 459.56
+5/5/2022 14:54:37: [G_Auto 1] :  Store Value (Shared) for market: pl = -8.04
+5/5/2022 14:54:37: [G_Auto 1] :  Store Value (Shared) for market: currentOddsA = 7
+5/5/2022 14:54:37: [G_Auto 1] :  Store Value (Shared) for market: currentOddsB = 1.17
+5/5/2022 14:54:41: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:54:56: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:55:11: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:55:27: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:55:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:55:59: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:56:14: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:56:20: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 14:56:35: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 14:58:44: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:59:01: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:59:17: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 14:59:24: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 14:59:40: [G_Auto 2] :  Automation Signal for market: delay - Cleared
+5/5/2022 15:00:38: [G_Auto 2] :  Automation Signal for market: delay = 1
+5/5/2022 15:00:45:  Guardian has detected that the market is suspended
