@@ -1,0 +1,646 @@
+5/29/2022 10:00:39: [G_Auto 2] :  Store Text Value (Shared) for Martina Trevisan: info = marketName: Trevisan v A Sasnovich - Match Odds; runnerA: Martina Trevisan; runnerB: Aliaksandra Sasnovich 
+5/29/2022 10:00:39: [G_Auto 2] :  Store Value (Shared) for market: aId = 9345630
+5/29/2022 10:00:39: [G_Auto 2] :  Store Value (Shared) for market: bId = 7283310
+5/29/2022 10:07:58:  Guardian has detected that the market is in-play
+5/29/2022 10:07:58:  Guardian has detected that the market is suspended
+5/29/2022 10:07:59: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.98; bBsp: 2.02; volume: 149756.02 
+5/29/2022 10:07:59: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.98; bBsp: 2.02; volume: 149756.02 
+5/29/2022 10:07:59:  Guardian has detected that the market is now unsuspended
+5/29/2022 10:08:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 10:08:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 10:09:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 10:10:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 10:10:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 10:10:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 10:10:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 10:11:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 10:11:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 10:11:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 10:11:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 10:14:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 10:14:14: [G_Auto 1] :  € 16.00 Lay bet placed on Martina Trevisan at 1.5. Fully matched at 1.49.  Ref: 10000          ( Fill or kill bet with 15 seconds delay.   )
+5/29/2022 10:14:15: [G_Auto 2] :  Store Text Value (Shared) for Martina Trevisan: aPoints = point: 0; games: 2; sets: 0 
+5/29/2022 10:14:15: [G_Auto 2] :  Store Text Value (Shared) for Martina Trevisan: aServing = serving:1
+5/29/2022 10:14:15: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bPoints = point: 0; games: 0; sets: 0 
+5/29/2022 10:14:15: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bServing = serving:0
+5/29/2022 10:14:15: [G_Auto 2] :  Store Value (Shared) for market: price = 1.49
+5/29/2022 10:14:15: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+5/29/2022 10:14:15: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 16
+5/29/2022 10:14:15: [G_Auto 2] :  Store Value (Shared) for market: stake = 16
+5/29/2022 10:14:15: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 16
+5/29/2022 10:14:15: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.11
+5/29/2022 10:14:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.49
+5/29/2022 10:14:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3
+5/29/2022 10:14:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 10:14:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 10:14:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 10:14:55: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 10:15:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 10:17:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 10:17:38: [G_Auto 1] :  Placed closure bet with greening on Martina Trevisan by Backing 14.19 at 1.68
+5/29/2022 10:17:39: [G_Auto 2] :  Store Text Value (Shared) for Martina Trevisan: aPoints = point: 0; games: 2; sets: 0 
+5/29/2022 10:17:39: [G_Auto 2] :  Store Text Value (Shared) for Martina Trevisan: aServing = serving:0
+5/29/2022 10:17:39: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bPoints = point: 0; games: 1; sets: 0 
+5/29/2022 10:17:39: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bServing = serving:2
+5/29/2022 10:17:39: [G_Auto 2] :  Store Value (Shared) for market: price = 1.68
+5/29/2022 10:17:39: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 14.19
+5/29/2022 10:17:39: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 16
+5/29/2022 10:17:39: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.19
+5/29/2022 10:17:39: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 30.19
+5/29/2022 10:17:39: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.77
+5/29/2022 10:17:39: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.68
+5/29/2022 10:17:39: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.46
+5/29/2022 10:17:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 10:17:44: [G_Auto 2] :  Store Text Value (Shared) for Martina Trevisan: aPoints = point: 0; games: 2; sets: 0 
+5/29/2022 10:17:44: [G_Auto 2] :  Store Text Value (Shared) for Martina Trevisan: aServing = serving:0
+5/29/2022 10:17:44: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bPoints = point: 0; games: 1; sets: 0 
+5/29/2022 10:17:44: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bServing = serving:2
+5/29/2022 10:17:44: [G_Auto 2] :  Store Value (Shared) for market: price = 1.68
+5/29/2022 10:17:44: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 14.19
+5/29/2022 10:17:44: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 16
+5/29/2022 10:17:44: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.19
+5/29/2022 10:17:44: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 30.19
+5/29/2022 10:17:44: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.77
+5/29/2022 10:17:44: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.69
+5/29/2022 10:17:44: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.44
+5/29/2022 10:17:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 10:18:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 10:18:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 10:18:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 10:19:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 10:19:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 10:19:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 10:19:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 10:21:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 10:22:00: [G_Auto 1] :  € 17.02 Lay bet placed on Martina Trevisan at 1.47. Fully matched at 1.46.  Ref: 10002          ( Fill or kill bet with 15 seconds delay.   )
+5/29/2022 10:22:00: [G_Auto 2] :  Store Text Value (Shared) for Martina Trevisan: aPoints = point: 0; games: 3; sets: 0 
+5/29/2022 10:22:00: [G_Auto 2] :  Store Text Value (Shared) for Martina Trevisan: aServing = serving:1
+5/29/2022 10:22:00: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bPoints = point: 0; games: 1; sets: 0 
+5/29/2022 10:22:00: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bServing = serving:0
+5/29/2022 10:22:00: [G_Auto 2] :  Store Value (Shared) for market: price = 1.46
+5/29/2022 10:22:00: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 14.19
+5/29/2022 10:22:00: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 33.02
+5/29/2022 10:22:00: [G_Auto 2] :  Store Value (Shared) for market: stake = 17.02
+5/29/2022 10:22:00: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 47.21
+5/29/2022 10:22:00: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.66
+5/29/2022 10:22:00: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.46
+5/29/2022 10:22:00: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.15
+5/29/2022 10:22:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 10:22:05: [G_Auto 2] :  Store Text Value (Shared) for Martina Trevisan: aPoints = point: 0; games: 3; sets: 0 
+5/29/2022 10:22:05: [G_Auto 2] :  Store Text Value (Shared) for Martina Trevisan: aServing = serving:1
+5/29/2022 10:22:05: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bPoints = point: 0; games: 1; sets: 0 
+5/29/2022 10:22:05: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bServing = serving:0
+5/29/2022 10:22:05: [G_Auto 2] :  Store Value (Shared) for market: price = 1.46
+5/29/2022 10:22:05: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 14.19
+5/29/2022 10:22:05: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 33.02
+5/29/2022 10:22:05: [G_Auto 2] :  Store Value (Shared) for market: stake = 17.02
+5/29/2022 10:22:05: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 47.21
+5/29/2022 10:22:05: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.66
+5/29/2022 10:22:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.46
+5/29/2022 10:22:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.15
+5/29/2022 10:22:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 10:22:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 10:22:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 10:22:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 10:23:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 10:24:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 10:24:51: [G_Auto 1] :  Placed closure bet with greening on Martina Trevisan by Backing 14.88 at 1.67
+5/29/2022 10:24:51: [G_Auto 2] :  Store Text Value (Shared) for Martina Trevisan: aPoints = point: 0; games: 3; sets: 0 
+5/29/2022 10:24:51: [G_Auto 2] :  Store Text Value (Shared) for Martina Trevisan: aServing = serving:0
+5/29/2022 10:24:51: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bPoints = point: 0; games: 2; sets: 0 
+5/29/2022 10:24:51: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bServing = serving:2
+5/29/2022 10:24:51: [G_Auto 2] :  Store Value (Shared) for market: price = 1.67
+5/29/2022 10:24:51: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 29.07
+5/29/2022 10:24:51: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 33.02
+5/29/2022 10:24:51: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.88
+5/29/2022 10:24:51: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 62.09
+5/29/2022 10:24:51: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.87
+5/29/2022 10:24:51: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.67
+5/29/2022 10:24:51: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.6
+5/29/2022 10:24:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 10:25:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 10:25:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 10:25:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 10:25:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 10:26:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 10:26:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 10:26:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 10:26:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 10:27:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 10:31:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 10:32:11: [G_Auto 1] :  € 8.25 Lay bet placed on Martina Trevisan at 1.97. Entirely unmatched when it initially reached the market.   Ref: 10004          ( Fill or kill bet with 15 seconds delay.   )
+5/29/2022 10:32:12: [G_Auto 1] :  € 8.25 of unmatched bet (Ref:10004) was filled before remainder was killed.
+5/29/2022 10:32:12: [G_Auto 2] :  Store Text Value (Shared) for Martina Trevisan: aPoints = point: 0; games: 3; sets: 0 
+5/29/2022 10:32:12: [G_Auto 2] :  Store Text Value (Shared) for Martina Trevisan: aServing = serving:1
+5/29/2022 10:32:12: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bPoints = point: 0; games: 3; sets: 0 
+5/29/2022 10:32:12: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bServing = serving:0
+5/29/2022 10:32:12: [G_Auto 2] :  Store Value (Shared) for market: price = 1.97
+5/29/2022 10:32:12: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 29.07
+5/29/2022 10:32:12: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 41.27
+5/29/2022 10:32:12: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.25
+5/29/2022 10:32:12: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 70.34
+5/29/2022 10:32:12: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.87
+5/29/2022 10:32:12: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.97
+5/29/2022 10:32:12: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.02
+5/29/2022 10:32:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 10:32:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 10:32:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 10:32:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 10:33:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 10:34:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 10:34:12: [G_Auto 1] :  Placed closure bet with greening on Martina Trevisan by Backing 9.91 at 1.64
+5/29/2022 10:34:13: [G_Auto 2] :  Store Text Value (Shared) for Martina Trevisan: aPoints = point: 0; games: 4; sets: 0 
+5/29/2022 10:34:13: [G_Auto 2] :  Store Text Value (Shared) for Martina Trevisan: aServing = serving:0
+5/29/2022 10:34:13: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bPoints = point: 0; games: 3; sets: 0 
+5/29/2022 10:34:13: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bServing = serving:2
+5/29/2022 10:34:13: [G_Auto 2] :  Store Value (Shared) for market: price = 1.64
+5/29/2022 10:34:13: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 38.98
+5/29/2022 10:34:13: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 41.27
+5/29/2022 10:34:13: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.91
+5/29/2022 10:34:13: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 80.25
+5/29/2022 10:34:13: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.24
+5/29/2022 10:34:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.65
+5/29/2022 10:34:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.52
+5/29/2022 10:34:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 10:34:19: [G_Auto 2] :  Store Text Value (Shared) for Martina Trevisan: aPoints = point: 0; games: 4; sets: 0 
+5/29/2022 10:34:19: [G_Auto 2] :  Store Text Value (Shared) for Martina Trevisan: aServing = serving:0
+5/29/2022 10:34:19: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bPoints = point: 0; games: 3; sets: 0 
+5/29/2022 10:34:19: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bServing = serving:2
+5/29/2022 10:34:19: [G_Auto 2] :  Store Value (Shared) for market: price = 1.64
+5/29/2022 10:34:19: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 38.98
+5/29/2022 10:34:19: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 41.27
+5/29/2022 10:34:19: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.91
+5/29/2022 10:34:19: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 80.25
+5/29/2022 10:34:19: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.24
+5/29/2022 10:34:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.64
+5/29/2022 10:34:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.54
+5/29/2022 10:34:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 10:34:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 10:35:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 10:35:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 10:35:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 10:35:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 10:35:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 10:36:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 10:36:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 10:36:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 10:42:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 10:43:09: [G_Auto 1] :  € 9.20 Lay bet placed on Martina Trevisan at 1.87. Fully matched at 1.87.  Ref: 10006          ( Fill or kill bet with 15 seconds delay.   )
+5/29/2022 10:43:09: [G_Auto 2] :  Store Text Value (Shared) for Martina Trevisan: aPoints = point: 0; games: 4; sets: 0 
+5/29/2022 10:43:09: [G_Auto 2] :  Store Text Value (Shared) for Martina Trevisan: aServing = serving:1
+5/29/2022 10:43:09: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bPoints = point: 0; games: 4; sets: 0 
+5/29/2022 10:43:09: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bServing = serving:0
+5/29/2022 10:43:09: [G_Auto 2] :  Store Value (Shared) for market: price = 1.87
+5/29/2022 10:43:09: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 38.98
+5/29/2022 10:43:09: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 50.47
+5/29/2022 10:43:09: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.2
+5/29/2022 10:43:09: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 89.45
+5/29/2022 10:43:09: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.2
+5/29/2022 10:43:09: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.86
+5/29/2022 10:43:09: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.18
+5/29/2022 10:43:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 10:43:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 10:43:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 10:43:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 10:44:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 10:45:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 10:46:03: [G_Auto 1] :  Placed closure bet with greening on Martina Trevisan by Backing 11.32 at 1.52
+5/29/2022 10:46:04: [G_Auto 2] :  Store Text Value (Shared) for Martina Trevisan: aPoints = point: 0; games: 5; sets: 0 
+5/29/2022 10:46:04: [G_Auto 2] :  Store Text Value (Shared) for Martina Trevisan: aServing = serving:0
+5/29/2022 10:46:04: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bPoints = point: 0; games: 4; sets: 0 
+5/29/2022 10:46:04: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bServing = serving:2
+5/29/2022 10:46:04: [G_Auto 2] :  Store Value (Shared) for market: price = 1.52
+5/29/2022 10:46:04: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 50.3
+5/29/2022 10:46:04: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 50.47
+5/29/2022 10:46:04: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.32
+5/29/2022 10:46:04: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 100.77
+5/29/2022 10:46:04: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.17
+5/29/2022 10:46:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.53
+5/29/2022 10:46:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.88
+5/29/2022 10:46:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 10:46:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 10:46:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 10:46:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 10:47:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 10:47:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 10:47:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 10:47:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 10:48:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 10:48:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 10:50:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 10:51:09: [G_Auto 1] :  € 9.64 Lay bet placed on Martina Trevisan at 1.83. Entirely unmatched when it initially reached the market.   Ref: 10008          ( Fill or kill bet with 15 seconds delay.   )
+5/29/2022 10:51:10: [G_Auto 2] :  Store Text Value (Shared) for Martina Trevisan: aPoints = point: 0; games: 5; sets: 0 
+5/29/2022 10:51:10: [G_Auto 2] :  Store Text Value (Shared) for Martina Trevisan: aServing = serving:1
+5/29/2022 10:51:10: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bPoints = point: 0; games: 5; sets: 0 
+5/29/2022 10:51:10: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bServing = serving:0
+5/29/2022 10:51:10: [G_Auto 2] :  Store Value (Shared) for market: price = 1.83
+5/29/2022 10:51:10: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 50.3
+5/29/2022 10:51:10: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 60.11
+5/29/2022 10:51:10: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.64
+5/29/2022 10:51:10: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 110.41
+5/29/2022 10:51:10: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.12
+5/29/2022 10:51:10: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.82
+5/29/2022 10:51:10: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.22
+5/29/2022 10:51:10: [G_Auto 1] :  € 9.64 of unmatched bet (Ref:10008) was filled before remainder was killed.
+5/29/2022 10:51:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 10:51:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 10:51:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 10:51:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 10:55:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 10:55:59: [G_Auto 1] :  € 13.11 Lay bet placed on Aliaksandra Sasnovich at 1.61. Fully matched at 1.61.  Ref: 10009          ( Fill or kill bet with 15 seconds delay.   )
+5/29/2022 10:55:59: [G_Auto 1] :  Placed closure bet with greening on Martina Trevisan by Backing 6.63 at 2.66
+5/29/2022 10:55:59: [G_Auto 2] :  Store Text Value (Shared) for Martina Trevisan: aPoints = point: 0; games: 5; sets: 0 
+5/29/2022 10:55:59: [G_Auto 2] :  Store Text Value (Shared) for Martina Trevisan: aServing = serving:0
+5/29/2022 10:55:59: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bPoints = point: 0; games: 6; sets: 0 
+5/29/2022 10:55:59: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bServing = serving:2
+5/29/2022 10:55:59: [G_Auto 2] :  Store Value (Shared) for market: price = 1.61
+5/29/2022 10:55:59: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 50.3
+5/29/2022 10:55:59: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 73.22
+5/29/2022 10:55:59: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.11
+5/29/2022 10:55:59: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 123.52
+5/29/2022 10:55:59: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.99
+5/29/2022 10:55:59: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.64
+5/29/2022 10:55:59: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.6
+5/29/2022 10:56:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 10:56:04: [G_Auto 2] :  Store Text Value (Shared) for Martina Trevisan: aPoints = point: 0; games: 5; sets: 0 
+5/29/2022 10:56:04: [G_Auto 2] :  Store Text Value (Shared) for Martina Trevisan: aServing = serving:0
+5/29/2022 10:56:04: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bPoints = point: 0; games: 6; sets: 0 
+5/29/2022 10:56:04: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bServing = serving:2
+5/29/2022 10:56:04: [G_Auto 2] :  Store Value (Shared) for market: price = 1.61
+5/29/2022 10:56:04: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 50.3
+5/29/2022 10:56:04: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 73.22
+5/29/2022 10:56:04: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.11
+5/29/2022 10:56:04: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 123.52
+5/29/2022 10:56:04: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.95
+5/29/2022 10:56:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.66
+5/29/2022 10:56:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.6
+5/29/2022 10:56:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 10:56:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 10:56:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 10:57:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 10:57:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 10:57:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 10:57:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 10:58:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 10:58:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:02:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:02:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:03:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:03:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:03:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:03:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:03:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:04:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:04:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:04:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:05:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:05:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:05:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:05:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:06:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:06:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:06:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:06:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:07:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:07:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:07:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:07:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:08:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:08:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:08:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:08:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:09:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:09:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:09:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:09:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:10:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:10:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:10:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:10:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:11:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:11:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:11:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:12:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:12:16: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:12:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:12:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:13:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:13:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:13:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:13:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:14:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:14:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:14:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:14:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:15:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:15:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:15:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:15:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:16:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:16:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:16:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:16:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:17:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:17:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:17:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:17:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:18:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:18:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:18:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:19:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:19:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:19:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:19:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:20:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:20:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:20:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:20:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:20:48: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 1.31
+5/29/2022 11:20:48: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 4.3
+5/29/2022 11:20:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:21:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:21:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:21:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:21:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:22:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:22:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:22:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:23:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:23:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:23:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:23:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:24:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:27:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:27:14: [G_Auto 1] :  Placed closure bet with greening on Aliaksandra Sasnovich by Backing 6.49 at 3.25
+5/29/2022 11:27:14: [G_Auto 1] :  € 17.78 Lay bet placed on Martina Trevisan at 1.45. Fully matched at 1.44.  Ref: 10016          ( Fill or kill bet with 15 seconds delay.   )
+5/29/2022 11:27:14: [G_Auto 2] :  Store Text Value (Shared) for Martina Trevisan: aPoints = point: 0; games: 0; sets: 1 
+5/29/2022 11:27:14: [G_Auto 2] :  Store Text Value (Shared) for Martina Trevisan: aServing = serving:1
+5/29/2022 11:27:14: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bPoints = point: 0; games: 1; sets: 0 
+5/29/2022 11:27:14: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bServing = serving:0
+5/29/2022 11:27:14: [G_Auto 2] :  Store Value (Shared) for market: price = 3.25
+5/29/2022 11:27:14: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 63.42
+5/29/2022 11:27:14: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 91
+5/29/2022 11:27:14: [G_Auto 2] :  Store Value (Shared) for market: stake = 6.49
+5/29/2022 11:27:14: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 154.42
+5/29/2022 11:27:14: [G_Auto 2] :  Store Value (Shared) for market: pl = 9.36
+5/29/2022 11:27:14: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.43
+5/29/2022 11:27:14: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.3
+5/29/2022 11:27:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:27:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:27:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:28:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:28:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:28:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:28:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:30:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:30:12: [G_Auto 1] :  Placed closure bet with greening on Martina Trevisan by Backing 19.70 at 1.3
+5/29/2022 11:30:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:30:15: [G_Auto 2] :  Store Text Value (Shared) for Martina Trevisan: aPoints = point: 0; games: 1; sets: 1 
+5/29/2022 11:30:15: [G_Auto 2] :  Store Text Value (Shared) for Martina Trevisan: aServing = serving:0
+5/29/2022 11:30:15: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bPoints = point: 0; games: 1; sets: 0 
+5/29/2022 11:30:15: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bServing = serving:2
+5/29/2022 11:30:15: [G_Auto 2] :  Store Value (Shared) for market: price = 1.3
+5/29/2022 11:30:15: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 83.12
+5/29/2022 11:30:15: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 91
+5/29/2022 11:30:15: [G_Auto 2] :  Store Value (Shared) for market: stake = 19.7
+5/29/2022 11:30:15: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 174.12
+5/29/2022 11:30:15: [G_Auto 2] :  Store Value (Shared) for market: pl = 7.72
+5/29/2022 11:30:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.3
+5/29/2022 11:30:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.3
+5/29/2022 11:30:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:30:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:30:55: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:31:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:31:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:34:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:34:24: [G_Auto 1] :  € 44.44 Lay bet placed on Martina Trevisan at 1.18. Fully matched at 1.17.  Ref: 10020          ( Fill or kill bet with 15 seconds delay.   )
+5/29/2022 11:34:24: [G_Auto 2] :  Store Text Value (Shared) for Martina Trevisan: aPoints = point: 0; games: 2; sets: 1 
+5/29/2022 11:34:24: [G_Auto 2] :  Store Text Value (Shared) for Martina Trevisan: aServing = serving:1
+5/29/2022 11:34:24: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bPoints = point: 0; games: 1; sets: 0 
+5/29/2022 11:34:24: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bServing = serving:0
+5/29/2022 11:34:24: [G_Auto 2] :  Store Value (Shared) for market: price = 1.17
+5/29/2022 11:34:24: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 83.12
+5/29/2022 11:34:24: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 135.44
+5/29/2022 11:34:24: [G_Auto 2] :  Store Value (Shared) for market: stake = 44.44
+5/29/2022 11:34:24: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 218.56
+5/29/2022 11:34:24: [G_Auto 2] :  Store Value (Shared) for market: pl = 7.35
+5/29/2022 11:34:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.17
+5/29/2022 11:34:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 7
+5/29/2022 11:34:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:34:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:34:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:35:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:35:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:35:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:36:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:36:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:36:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:36:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:37:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:37:30: [G_Auto 1] :  Placed closure bet with greening on Martina Trevisan by Backing 39.39 at 1.32
+5/29/2022 11:37:31: [G_Auto 2] :  Store Text Value (Shared) for Martina Trevisan: aPoints = point: 0; games: 2; sets: 1 
+5/29/2022 11:37:31: [G_Auto 2] :  Store Text Value (Shared) for Martina Trevisan: aServing = serving:0
+5/29/2022 11:37:31: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bPoints = point: 0; games: 2; sets: 0 
+5/29/2022 11:37:31: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bServing = serving:2
+5/29/2022 11:37:31: [G_Auto 2] :  Store Value (Shared) for market: price = 1.32
+5/29/2022 11:37:31: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 122.51
+5/29/2022 11:37:31: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 135.44
+5/29/2022 11:37:31: [G_Auto 2] :  Store Value (Shared) for market: stake = 39.39
+5/29/2022 11:37:31: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 257.95
+5/29/2022 11:37:31: [G_Auto 2] :  Store Value (Shared) for market: pl = 12.67
+5/29/2022 11:37:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.32
+5/29/2022 11:37:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4
+5/29/2022 11:37:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:37:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:37:55: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:38:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:38:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:40:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:40:20: [G_Auto 1] :  € 15.69 Lay bet placed on Martina Trevisan at 1.51. Fully matched at 1.49.  Ref: 10023          ( Fill or kill bet with 15 seconds delay.   )
+5/29/2022 11:40:21: [G_Auto 2] :  Store Text Value (Shared) for Martina Trevisan: aPoints = point: 0; games: 2; sets: 1 
+5/29/2022 11:40:21: [G_Auto 2] :  Store Text Value (Shared) for Martina Trevisan: aServing = serving:1
+5/29/2022 11:40:21: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bPoints = point: 0; games: 3; sets: 0 
+5/29/2022 11:40:21: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bServing = serving:0
+5/29/2022 11:40:21: [G_Auto 2] :  Store Value (Shared) for market: price = 1.49
+5/29/2022 11:40:21: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 122.51
+5/29/2022 11:40:21: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 151.13
+5/29/2022 11:40:21: [G_Auto 2] :  Store Value (Shared) for market: stake = 15.69
+5/29/2022 11:40:21: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 273.64
+5/29/2022 11:40:21: [G_Auto 2] :  Store Value (Shared) for market: pl = 12.57
+5/29/2022 11:40:21: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.49
+5/29/2022 11:40:21: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3
+5/29/2022 11:40:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:40:27: [G_Auto 2] :  Store Text Value (Shared) for Martina Trevisan: aPoints = point: 0; games: 2; sets: 1 
+5/29/2022 11:40:27: [G_Auto 2] :  Store Text Value (Shared) for Martina Trevisan: aServing = serving:1
+5/29/2022 11:40:27: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bPoints = point: 0; games: 3; sets: 0 
+5/29/2022 11:40:27: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bServing = serving:0
+5/29/2022 11:40:27: [G_Auto 2] :  Store Value (Shared) for market: price = 1.49
+5/29/2022 11:40:27: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 122.51
+5/29/2022 11:40:27: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 151.13
+5/29/2022 11:40:27: [G_Auto 2] :  Store Value (Shared) for market: stake = 15.69
+5/29/2022 11:40:27: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 273.64
+5/29/2022 11:40:27: [G_Auto 2] :  Store Value (Shared) for market: pl = 12.57
+5/29/2022 11:40:27: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.48
+5/29/2022 11:40:27: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.05
+5/29/2022 11:40:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:40:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:41:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:41:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:41:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:41:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:42:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:42:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:42:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:42:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:45:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:45:36: [G_Auto 1] :  Placed closure bet with greening on Martina Trevisan by Backing 17.44 at 1.34
+5/29/2022 11:45:36: [G_Auto 2] :  Store Text Value (Shared) for Martina Trevisan: aPoints = point: 0; games: 3; sets: 1 
+5/29/2022 11:45:36: [G_Auto 2] :  Store Text Value (Shared) for Martina Trevisan: aServing = serving:0
+5/29/2022 11:45:36: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bPoints = point: 0; games: 3; sets: 0 
+5/29/2022 11:45:36: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bServing = serving:2
+5/29/2022 11:45:36: [G_Auto 2] :  Store Value (Shared) for market: price = 1.34
+5/29/2022 11:45:36: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 139.95
+5/29/2022 11:45:36: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 151.13
+5/29/2022 11:45:36: [G_Auto 2] :  Store Value (Shared) for market: stake = 17.44
+5/29/2022 11:45:36: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 291.08
+5/29/2022 11:45:36: [G_Auto 2] :  Store Value (Shared) for market: pl = 10.95
+5/29/2022 11:45:36: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.35
+5/29/2022 11:45:36: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.85
+5/29/2022 11:45:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:45:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:46:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:46:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:46:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:48:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:48:17: [G_Auto 1] :  € 15.09 Lay bet placed on Martina Trevisan at 1.53. Fully matched at 1.53.  Ref: 10027          ( Fill or kill bet with 15 seconds delay.   )
+5/29/2022 11:48:17: [G_Auto 2] :  Store Text Value (Shared) for Martina Trevisan: aPoints = point: 0; games: 3; sets: 1 
+5/29/2022 11:48:17: [G_Auto 2] :  Store Text Value (Shared) for Martina Trevisan: aServing = serving:1
+5/29/2022 11:48:17: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bPoints = point: 0; games: 4; sets: 0 
+5/29/2022 11:48:17: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bServing = serving:0
+5/29/2022 11:48:17: [G_Auto 2] :  Store Value (Shared) for market: price = 1.53
+5/29/2022 11:48:17: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 139.95
+5/29/2022 11:48:17: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 166.22
+5/29/2022 11:48:17: [G_Auto 2] :  Store Value (Shared) for market: stake = 15.09
+5/29/2022 11:48:17: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 306.17
+5/29/2022 11:48:17: [G_Auto 2] :  Store Value (Shared) for market: pl = 10.86
+5/29/2022 11:48:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.52
+5/29/2022 11:48:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.94
+5/29/2022 11:48:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:48:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:48:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:49:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:49:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:49:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:49:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:49:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:50:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:50:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:51:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:52:01: [G_Auto 1] :  Placed closure bet with greening on Martina Trevisan by Backing 11.97 at 1.93
+5/29/2022 11:52:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:52:07: [G_Auto 2] :  Store Text Value (Shared) for Martina Trevisan: aPoints = point: 0; games: 3; sets: 1 
+5/29/2022 11:52:07: [G_Auto 2] :  Store Text Value (Shared) for Martina Trevisan: aServing = serving:0
+5/29/2022 11:52:07: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bPoints = point: 0; games: 5; sets: 0 
+5/29/2022 11:52:07: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bServing = serving:2
+5/29/2022 11:52:07: [G_Auto 2] :  Store Value (Shared) for market: price = 1.93
+5/29/2022 11:52:07: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 151.92
+5/29/2022 11:52:07: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 166.22
+5/29/2022 11:52:07: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.97
+5/29/2022 11:52:07: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 318.14
+5/29/2022 11:52:07: [G_Auto 2] :  Store Value (Shared) for market: pl = 14.02
+5/29/2022 11:52:07: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.94
+5/29/2022 11:52:07: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.06
+5/29/2022 11:52:12: [G_Auto 2] :  Store Text Value (Shared) for Martina Trevisan: aPoints = point: 0; games: 3; sets: 1 
+5/29/2022 11:52:12: [G_Auto 2] :  Store Text Value (Shared) for Martina Trevisan: aServing = serving:0
+5/29/2022 11:52:12: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bPoints = point: 0; games: 5; sets: 0 
+5/29/2022 11:52:12: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bServing = serving:2
+5/29/2022 11:52:12: [G_Auto 2] :  Store Value (Shared) for market: price = 1.93
+5/29/2022 11:52:12: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 151.92
+5/29/2022 11:52:12: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 166.22
+5/29/2022 11:52:12: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.97
+5/29/2022 11:52:12: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 318.14
+5/29/2022 11:52:12: [G_Auto 2] :  Store Value (Shared) for market: pl = 14.02
+5/29/2022 11:52:12: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.93
+5/29/2022 11:52:12: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.08
+5/29/2022 11:52:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:52:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:52:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:53:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:54:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:54:49: [G_Auto 1] :  € 13.79 Lay bet placed on Martina Trevisan at 1.58. Fully matched at 1.57.  Ref: 10030          ( Fill or kill bet with 15 seconds delay.   )
+5/29/2022 11:54:49: [G_Auto 2] :  Store Text Value (Shared) for Martina Trevisan: aPoints = point: 0; games: 4; sets: 1 
+5/29/2022 11:54:49: [G_Auto 2] :  Store Text Value (Shared) for Martina Trevisan: aServing = serving:1
+5/29/2022 11:54:49: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bPoints = point: 0; games: 5; sets: 0 
+5/29/2022 11:54:49: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bServing = serving:0
+5/29/2022 11:54:49: [G_Auto 2] :  Store Value (Shared) for market: price = 1.57
+5/29/2022 11:54:49: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 151.92
+5/29/2022 11:54:49: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 180.01
+5/29/2022 11:54:49: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.79
+5/29/2022 11:54:49: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 331.93
+5/29/2022 11:54:49: [G_Auto 2] :  Store Value (Shared) for market: pl = 13.94
+5/29/2022 11:54:49: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.57
+5/29/2022 11:54:49: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.78
+5/29/2022 11:54:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:55:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:55:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:55:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:55:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:56:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:56:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:56:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:58:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:58:19: [G_Auto 1] :  Placed closure bet with greening on Martina Trevisan by Backing 16.39 at 1.32
+5/29/2022 11:58:20: [G_Auto 2] :  Store Text Value (Shared) for Martina Trevisan: aPoints = point: 0; games: 5; sets: 1 
+5/29/2022 11:58:20: [G_Auto 2] :  Store Text Value (Shared) for Martina Trevisan: aServing = serving:0
+5/29/2022 11:58:20: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bPoints = point: 0; games: 5; sets: 0 
+5/29/2022 11:58:20: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bServing = serving:2
+5/29/2022 11:58:20: [G_Auto 2] :  Store Value (Shared) for market: price = 1.32
+5/29/2022 11:58:20: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 168.31
+5/29/2022 11:58:20: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 180.01
+5/29/2022 11:58:20: [G_Auto 2] :  Store Value (Shared) for market: stake = 16.39
+5/29/2022 11:58:20: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 348.32
+5/29/2022 11:58:20: [G_Auto 2] :  Store Value (Shared) for market: pl = 11.46
+5/29/2022 11:58:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.32
+5/29/2022 11:58:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.1
+5/29/2022 11:58:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:58:26: [G_Auto 2] :  Store Text Value (Shared) for Martina Trevisan: aPoints = point: 0; games: 5; sets: 1 
+5/29/2022 11:58:26: [G_Auto 2] :  Store Text Value (Shared) for Martina Trevisan: aServing = serving:0
+5/29/2022 11:58:26: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bPoints = point: 0; games: 5; sets: 0 
+5/29/2022 11:58:26: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bServing = serving:2
+5/29/2022 11:58:26: [G_Auto 2] :  Store Value (Shared) for market: price = 1.32
+5/29/2022 11:58:26: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 168.31
+5/29/2022 11:58:26: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 180.01
+5/29/2022 11:58:26: [G_Auto 2] :  Store Value (Shared) for market: stake = 16.39
+5/29/2022 11:58:26: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 348.32
+5/29/2022 11:58:26: [G_Auto 2] :  Store Value (Shared) for market: pl = 11.46
+5/29/2022 11:58:26: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.33
+5/29/2022 11:58:26: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.1
+5/29/2022 11:58:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 11:58:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:59:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 11:59:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 12:01:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 12:01:40: [G_Auto 1] :  € 66.67 Lay bet placed on Martina Trevisan at 1.12. Fully matched at 1.11.  Ref: 10036          ( Fill or kill bet with 15 seconds delay.   )
+5/29/2022 12:01:40: [G_Auto 2] :  Store Text Value (Shared) for Martina Trevisan: aPoints = point: 0; games: 6; sets: 1 
+5/29/2022 12:01:40: [G_Auto 2] :  Store Text Value (Shared) for Martina Trevisan: aServing = serving:1
+5/29/2022 12:01:40: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bPoints = point: 0; games: 5; sets: 0 
+5/29/2022 12:01:40: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bServing = serving:0
+5/29/2022 12:01:40: [G_Auto 2] :  Store Value (Shared) for market: price = 1.11
+5/29/2022 12:01:40: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 168.31
+5/29/2022 12:01:40: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 246.68
+5/29/2022 12:01:40: [G_Auto 2] :  Store Value (Shared) for market: stake = 66.67
+5/29/2022 12:01:40: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 414.99
+5/29/2022 12:01:40: [G_Auto 2] :  Store Value (Shared) for market: pl = 10.87
+5/29/2022 12:01:40: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.11
+5/29/2022 12:01:40: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 10
+5/29/2022 12:01:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 12:01:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 12:02:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 12:02:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 12:02:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 12:03:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 12:03:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 12:03:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 12:03:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/29/2022 12:06:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/29/2022 12:06:41:  Guardian has detected that the market is suspended
