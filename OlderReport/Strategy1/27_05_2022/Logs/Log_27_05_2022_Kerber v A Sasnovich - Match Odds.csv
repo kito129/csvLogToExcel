@@ -1,0 +1,598 @@
+5/27/2022 12:47:30: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: info = marketName: Kerber v A Sasnovich - Match Odds; runnerA: Angelique Kerber; runnerB: Aliaksandra Sasnovich 
+5/27/2022 12:47:30: [G_Auto 2] :  Store Value (Shared) for market: aId = 2411840
+5/27/2022 12:47:30: [G_Auto 2] :  Store Value (Shared) for market: bId = 7283310
+5/27/2022 13:52:40:  Guardian has detected that the market is in-play
+5/27/2022 13:52:40:  Guardian has detected that the market is suspended
+5/27/2022 13:52:41: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 2.02; bBsp: 1.98; volume: 83179.71 
+5/27/2022 13:52:41: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 2.02; bBsp: 1.98; volume: 83179.71 
+5/27/2022 13:52:41:  Guardian has detected that the market is now unsuspended
+5/27/2022 13:52:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 13:52:55: [G_Auto 1] :  € 8.51 Lay bet placed on Aliaksandra Sasnovich at 1.94. Entirely unmatched when it initially reached the market.   Ref: 10013          ( Fill or kill bet with 15 seconds delay.   )
+5/27/2022 13:52:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 13:53:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 13:53:10: [G_Auto 1] :  € 8.51 unmatched bet (Ref:10013) was killed.
+5/27/2022 13:53:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 13:53:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 13:55:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 13:55:58: [G_Auto 1] :  € 11.27 Lay bet placed on Angelique Kerber at 1.71. Fully matched at 1.71.  Ref: 10015          ( Fill or kill bet with 15 seconds delay.   )
+5/27/2022 13:55:59: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: aPoints = point: 0; games: 1; sets: 0 
+5/27/2022 13:55:59: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: aServing = serving:1
+5/27/2022 13:55:59: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bPoints = point: 0; games: 0; sets: 0 
+5/27/2022 13:55:59: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bServing = serving:0
+5/27/2022 13:55:59: [G_Auto 2] :  Store Value (Shared) for market: price = 1.71
+5/27/2022 13:55:59: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+5/27/2022 13:55:59: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 11.27
+5/27/2022 13:55:59: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.27
+5/27/2022 13:55:59: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 11.27
+5/27/2022 13:55:59: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.27
+5/27/2022 13:55:59: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.71
+5/27/2022 13:55:59: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.4
+5/27/2022 13:56:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 13:56:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 13:56:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 13:56:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 13:56:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 13:59:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 13:59:26: [G_Auto 1] :  € 8.16 Lay bet placed on Aliaksandra Sasnovich at 1.98. Entirely unmatched when it initially reached the market.   Ref: 10017          ( Fill or kill bet with 15 seconds delay.   )
+5/27/2022 13:59:26: [G_Auto 1] :  Placed closure bet with greening on Angelique Kerber by Backing 9.54 at 2.02
+5/27/2022 13:59:26: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: aPoints = point: 0; games: 1; sets: 0 
+5/27/2022 13:59:26: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: aServing = serving:0
+5/27/2022 13:59:26: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bPoints = point: 0; games: 1; sets: 0 
+5/27/2022 13:59:26: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bServing = serving:2
+5/27/2022 13:59:26: [G_Auto 2] :  Store Value (Shared) for market: price = 2.02
+5/27/2022 13:59:26: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 9.54
+5/27/2022 13:59:26: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 11.27
+5/27/2022 13:59:26: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.54
+5/27/2022 13:59:26: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 20.81
+5/27/2022 13:59:26: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.7
+5/27/2022 13:59:26: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.02
+5/27/2022 13:59:26: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.96
+5/27/2022 13:59:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 13:59:31: [G_Auto 1] :  € 8.16 of unmatched bet (Ref:10017) was filled before remainder was killed.
+5/27/2022 13:59:33: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: aPoints = point: 0; games: 1; sets: 0 
+5/27/2022 13:59:33: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: aServing = serving:0
+5/27/2022 13:59:33: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bPoints = point: 0; games: 1; sets: 0 
+5/27/2022 13:59:33: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bServing = serving:2
+5/27/2022 13:59:33: [G_Auto 2] :  Store Value (Shared) for market: price = 1.98
+5/27/2022 13:59:33: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 9.54
+5/27/2022 13:59:33: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 19.43
+5/27/2022 13:59:33: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.16
+5/27/2022 13:59:33: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 28.97
+5/27/2022 13:59:33: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.57
+5/27/2022 13:59:33: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.02
+5/27/2022 13:59:33: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.97
+5/27/2022 13:59:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 13:59:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 14:00:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 14:02:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:02:37: [G_Auto 1] :  Placed closure bet with greening on Aliaksandra Sasnovich by Backing 9.45 at 1.71
+5/27/2022 14:02:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:02:48: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: aPoints = point: 0; games: 1; sets: 0 
+5/27/2022 14:02:48: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: aServing = serving:1
+5/27/2022 14:02:48: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bPoints = point: 0; games: 2; sets: 0 
+5/27/2022 14:02:48: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bServing = serving:0
+5/27/2022 14:02:48: [G_Auto 2] :  Store Value (Shared) for market: price = 1.71
+5/27/2022 14:02:48: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 18.99
+5/27/2022 14:02:48: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 19.43
+5/27/2022 14:02:48: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.45
+5/27/2022 14:02:48: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 38.42
+5/27/2022 14:02:48: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.43
+5/27/2022 14:02:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.4
+5/27/2022 14:02:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.71
+5/27/2022 14:02:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:03:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:03:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:03:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:03:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:04:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 14:05:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:05:55: [G_Auto 1] :  € 8.79 Lay bet placed on Aliaksandra Sasnovich at 1.91. Entirely unmatched when it initially reached the market.   Ref: 10023          ( Fill or kill bet with 15 seconds delay.   )
+5/27/2022 14:05:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:06:04: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: aPoints = point: 0; games: 2; sets: 0 
+5/27/2022 14:06:04: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: aServing = serving:0
+5/27/2022 14:06:04: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bPoints = point: 0; games: 2; sets: 0 
+5/27/2022 14:06:04: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bServing = serving:2
+5/27/2022 14:06:04: [G_Auto 2] :  Store Value (Shared) for market: price = 1.91
+5/27/2022 14:06:04: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 18.99
+5/27/2022 14:06:04: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 20.715
+5/27/2022 14:06:04: [G_Auto 2] :  Store Value (Shared) for market: stake = 1.285
+5/27/2022 14:06:04: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 39.705
+5/27/2022 14:06:04: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.42
+5/27/2022 14:06:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.08
+5/27/2022 14:06:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.9
+5/27/2022 14:06:05: [G_Auto 1] :  € 8.79 of unmatched bet (Ref:10023) was filled before remainder was killed.
+5/27/2022 14:06:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:06:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 14:06:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 14:06:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 14:10:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:10:24: [G_Auto 1] :  Placed closure bet with greening on Aliaksandra Sasnovich by Backing 9.99 at 1.68
+5/27/2022 14:10:25: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: aPoints = point: 0; games: 2; sets: 0 
+5/27/2022 14:10:25: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: aServing = serving:1
+5/27/2022 14:10:25: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bPoints = point: 0; games: 3; sets: 0 
+5/27/2022 14:10:25: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bServing = serving:0
+5/27/2022 14:10:25: [G_Auto 2] :  Store Value (Shared) for market: price = 1.68
+5/27/2022 14:10:25: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 28.98
+5/27/2022 14:10:25: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 28.22
+5/27/2022 14:10:25: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.99
+5/27/2022 14:10:25: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 57.2
+5/27/2022 14:10:25: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.76
+5/27/2022 14:10:25: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.44
+5/27/2022 14:10:25: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.68
+5/27/2022 14:10:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:10:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:10:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:11:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:11:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:11:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:11:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 14:12:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 14:14:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:14:19: [G_Auto 1] :  € 8.33 Lay bet placed on Aliaksandra Sasnovich at 1.96. Fully matched at 1.96.  Ref: 10028          ( Fill or kill bet with 15 seconds delay.   )
+5/27/2022 14:14:20: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: aPoints = point: 0; games: 3; sets: 0 
+5/27/2022 14:14:20: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: aServing = serving:0
+5/27/2022 14:14:20: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bPoints = point: 0; games: 3; sets: 0 
+5/27/2022 14:14:20: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bServing = serving:2
+5/27/2022 14:14:20: [G_Auto 2] :  Store Value (Shared) for market: price = 1.96
+5/27/2022 14:14:20: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 28.98
+5/27/2022 14:14:20: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 36.55
+5/27/2022 14:14:20: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.33
+5/27/2022 14:14:20: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 65.53
+5/27/2022 14:14:20: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.85
+5/27/2022 14:14:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.06
+5/27/2022 14:14:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.94
+5/27/2022 14:14:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:14:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:14:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 14:15:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 14:16:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:17:04: [G_Auto 1] :  Placed closure bet with greening on Aliaksandra Sasnovich by Backing 9.78 at 1.67
+5/27/2022 14:17:05: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: aPoints = point: 0; games: 3; sets: 0 
+5/27/2022 14:17:05: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: aServing = serving:1
+5/27/2022 14:17:05: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bPoints = point: 0; games: 4; sets: 0 
+5/27/2022 14:17:05: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bServing = serving:0
+5/27/2022 14:17:05: [G_Auto 2] :  Store Value (Shared) for market: price = 1.67
+5/27/2022 14:17:05: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 38.76
+5/27/2022 14:17:05: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 36.55
+5/27/2022 14:17:05: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.78
+5/27/2022 14:17:05: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 75.31
+5/27/2022 14:17:05: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.21
+5/27/2022 14:17:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.46
+5/27/2022 14:17:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.69
+5/27/2022 14:17:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:17:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:17:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:17:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:18:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:18:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:18:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 14:21:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:22:09: [G_Auto 1] :  € 19.05 Lay bet placed on Aliaksandra Sasnovich at 1.42. Fully matched at 1.41.  Ref: 10034          ( Fill or kill bet with 15 seconds delay.   )
+5/27/2022 14:22:10: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: aPoints = point: 0; games: 3; sets: 0 
+5/27/2022 14:22:10: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: aServing = serving:0
+5/27/2022 14:22:10: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bPoints = point: 0; games: 5; sets: 0 
+5/27/2022 14:22:10: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bServing = serving:2
+5/27/2022 14:22:10: [G_Auto 2] :  Store Value (Shared) for market: price = 1.41
+5/27/2022 14:22:10: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 38.76
+5/27/2022 14:22:10: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 55.6
+5/27/2022 14:22:10: [G_Auto 2] :  Store Value (Shared) for market: stake = 19.05
+5/27/2022 14:22:10: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 94.36
+5/27/2022 14:22:10: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.34
+5/27/2022 14:22:10: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.5
+5/27/2022 14:22:10: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.41
+5/27/2022 14:22:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:22:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:22:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:22:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 14:22:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 14:23:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 14:25:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:25:42: [G_Auto 1] :  Placed closure bet with greening on Aliaksandra Sasnovich by Backing 16.18 at 1.66
+5/27/2022 14:25:42: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: aPoints = point: 0; games: 4; sets: 0 
+5/27/2022 14:25:42: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: aServing = serving:1
+5/27/2022 14:25:42: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bPoints = point: 0; games: 5; sets: 0 
+5/27/2022 14:25:42: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bServing = serving:0
+5/27/2022 14:25:42: [G_Auto 2] :  Store Value (Shared) for market: price = 1.66
+5/27/2022 14:25:42: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 54.94
+5/27/2022 14:25:42: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 55.6
+5/27/2022 14:25:42: [G_Auto 2] :  Store Value (Shared) for market: stake = 16.18
+5/27/2022 14:25:42: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 110.54
+5/27/2022 14:25:42: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.65
+5/27/2022 14:25:42: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.66
+5/27/2022 14:25:42: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.66
+5/27/2022 14:25:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:25:47: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: aPoints = point: 0; games: 4; sets: 0 
+5/27/2022 14:25:47: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: aServing = serving:1
+5/27/2022 14:25:47: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bPoints = point: 0; games: 5; sets: 0 
+5/27/2022 14:25:47: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bServing = serving:0
+5/27/2022 14:25:47: [G_Auto 2] :  Store Value (Shared) for market: price = 1.66
+5/27/2022 14:25:47: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 54.94
+5/27/2022 14:25:47: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 55.6
+5/27/2022 14:25:47: [G_Auto 2] :  Store Value (Shared) for market: stake = 16.18
+5/27/2022 14:25:47: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 110.54
+5/27/2022 14:25:47: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.65
+5/27/2022 14:25:47: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.5
+5/27/2022 14:25:47: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.66
+5/27/2022 14:26:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:26:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:26:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:26:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:27:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:27:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 14:27:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 14:28:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:28:30: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 4.1
+5/27/2022 14:28:30: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 1.31
+5/27/2022 14:28:35: [G_Auto 1] :  € 25.00 Lay bet placed on Aliaksandra Sasnovich at 1.32. Fully matched at 1.31.  Ref: 10038          ( Fill or kill bet with 15 seconds delay.   )
+5/27/2022 14:28:35: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: aPoints = point: 0; games: 0; sets: 0 
+5/27/2022 14:28:35: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: aServing = serving:0
+5/27/2022 14:28:35: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bPoints = point: 0; games: 0; sets: 1 
+5/27/2022 14:28:35: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bServing = serving:2
+5/27/2022 14:28:35: [G_Auto 2] :  Store Value (Shared) for market: price = 1.31
+5/27/2022 14:28:35: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 54.94
+5/27/2022 14:28:35: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 80.6
+5/27/2022 14:28:35: [G_Auto 2] :  Store Value (Shared) for market: stake = 25
+5/27/2022 14:28:35: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 135.54
+5/27/2022 14:28:35: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.46
+5/27/2022 14:28:35: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.2
+5/27/2022 14:28:35: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.3
+5/27/2022 14:28:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:28:40: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: aPoints = point: 0; games: 0; sets: 0 
+5/27/2022 14:28:40: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: aServing = serving:0
+5/27/2022 14:28:40: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bPoints = point: 0; games: 0; sets: 1 
+5/27/2022 14:28:40: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bServing = serving:2
+5/27/2022 14:28:40: [G_Auto 2] :  Store Value (Shared) for market: price = 1.31
+5/27/2022 14:28:40: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 54.94
+5/27/2022 14:28:40: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 80.6
+5/27/2022 14:28:40: [G_Auto 2] :  Store Value (Shared) for market: stake = 25
+5/27/2022 14:28:40: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 135.54
+5/27/2022 14:28:40: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.46
+5/27/2022 14:28:40: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.2
+5/27/2022 14:28:40: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.31
+5/27/2022 14:28:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:29:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:29:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:29:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:29:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:30:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:30:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:30:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:30:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:31:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:31:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:31:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:31:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 14:32:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 14:34:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:34:16: [G_Auto 1] :  Placed closure bet with greening on Aliaksandra Sasnovich by Backing 27.29 at 1.2
+5/27/2022 14:34:16: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: aPoints = point: 0; games: 0; sets: 0 
+5/27/2022 14:34:16: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: aServing = serving:1
+5/27/2022 14:34:16: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bPoints = point: 0; games: 1; sets: 1 
+5/27/2022 14:34:16: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bServing = serving:0
+5/27/2022 14:34:16: [G_Auto 2] :  Store Value (Shared) for market: price = 1.2
+5/27/2022 14:34:16: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 82.23
+5/27/2022 14:34:16: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 80.6
+5/27/2022 14:34:16: [G_Auto 2] :  Store Value (Shared) for market: stake = 27.29
+5/27/2022 14:34:16: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 162.83
+5/27/2022 14:34:16: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.63
+5/27/2022 14:34:16: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 5.7
+5/27/2022 14:34:16: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.2
+5/27/2022 14:34:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:34:22: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: aPoints = point: 0; games: 0; sets: 0 
+5/27/2022 14:34:22: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: aServing = serving:1
+5/27/2022 14:34:22: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bPoints = point: 0; games: 1; sets: 1 
+5/27/2022 14:34:22: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bServing = serving:0
+5/27/2022 14:34:22: [G_Auto 2] :  Store Value (Shared) for market: price = 1.2
+5/27/2022 14:34:22: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 82.23
+5/27/2022 14:34:22: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 80.6
+5/27/2022 14:34:22: [G_Auto 2] :  Store Value (Shared) for market: stake = 27.29
+5/27/2022 14:34:22: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 162.83
+5/27/2022 14:34:22: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.63
+5/27/2022 14:34:22: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 5.7
+5/27/2022 14:34:22: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.21
+5/27/2022 14:34:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:34:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:34:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 14:35:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 14:38:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:38:28: [G_Auto 1] :  € 25.81 Lay bet placed on Aliaksandra Sasnovich at 1.31. Fully matched at 1.3.  Ref: 10045          ( Fill or kill bet with 15 seconds delay.   )
+5/27/2022 14:38:28: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: aPoints = point: 0; games: 1; sets: 0 
+5/27/2022 14:38:28: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: aServing = serving:0
+5/27/2022 14:38:28: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bPoints = point: 0; games: 1; sets: 1 
+5/27/2022 14:38:28: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bServing = serving:2
+5/27/2022 14:38:28: [G_Auto 2] :  Store Value (Shared) for market: price = 1.3
+5/27/2022 14:38:28: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 82.23
+5/27/2022 14:38:28: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 106.41
+5/27/2022 14:38:28: [G_Auto 2] :  Store Value (Shared) for market: stake = 25.81
+5/27/2022 14:38:28: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 188.64
+5/27/2022 14:38:28: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.83
+5/27/2022 14:38:28: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 5.1
+5/27/2022 14:38:28: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.29
+5/27/2022 14:38:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:38:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:38:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 14:39:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 14:39:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 14:41:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:41:57: [G_Auto 1] :  Placed closure bet with greening on Aliaksandra Sasnovich by Backing 22.22 at 1.51
+5/27/2022 14:41:57: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: aPoints = point: 0; games: 2; sets: 0 
+5/27/2022 14:41:57: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: aServing = serving:1
+5/27/2022 14:41:57: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bPoints = point: 0; games: 1; sets: 1 
+5/27/2022 14:41:57: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bServing = serving:0
+5/27/2022 14:41:57: [G_Auto 2] :  Store Value (Shared) for market: price = 1.51
+5/27/2022 14:41:57: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 104.45
+5/27/2022 14:41:57: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 106.41
+5/27/2022 14:41:57: [G_Auto 2] :  Store Value (Shared) for market: stake = 22.22
+5/27/2022 14:41:57: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 210.86
+5/27/2022 14:41:57: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.92
+5/27/2022 14:41:57: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3
+5/27/2022 14:41:57: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.51
+5/27/2022 14:42:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:42:02: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: aPoints = point: 0; games: 2; sets: 0 
+5/27/2022 14:42:02: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: aServing = serving:1
+5/27/2022 14:42:02: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bPoints = point: 0; games: 1; sets: 1 
+5/27/2022 14:42:02: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bServing = serving:0
+5/27/2022 14:42:02: [G_Auto 2] :  Store Value (Shared) for market: price = 1.51
+5/27/2022 14:42:02: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 104.45
+5/27/2022 14:42:02: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 106.41
+5/27/2022 14:42:02: [G_Auto 2] :  Store Value (Shared) for market: stake = 22.22
+5/27/2022 14:42:02: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 210.86
+5/27/2022 14:42:02: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.92
+5/27/2022 14:42:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.96
+5/27/2022 14:42:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.51
+5/27/2022 14:42:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:42:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:42:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:43:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:43:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:43:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 14:43:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 14:44:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:44:58: [G_Auto 1] :  € 25.81 Lay bet placed on Aliaksandra Sasnovich at 1.31. Fully matched at 1.31.  Ref: 10047          ( Fill or kill bet with 15 seconds delay.   )
+5/27/2022 14:44:59: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: aPoints = point: 0; games: 2; sets: 0 
+5/27/2022 14:44:59: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: aServing = serving:0
+5/27/2022 14:44:59: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bPoints = point: 0; games: 2; sets: 1 
+5/27/2022 14:44:59: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bServing = serving:2
+5/27/2022 14:44:59: [G_Auto 2] :  Store Value (Shared) for market: price = 1.31
+5/27/2022 14:44:59: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 104.45
+5/27/2022 14:44:59: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 132.22
+5/27/2022 14:44:59: [G_Auto 2] :  Store Value (Shared) for market: stake = 25.81
+5/27/2022 14:44:59: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 236.67
+5/27/2022 14:44:59: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.72
+5/27/2022 14:44:59: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.2
+5/27/2022 14:44:59: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.3
+5/27/2022 14:45:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:45:04: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: aPoints = point: 0; games: 2; sets: 0 
+5/27/2022 14:45:04: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: aServing = serving:0
+5/27/2022 14:45:04: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bPoints = point: 0; games: 2; sets: 1 
+5/27/2022 14:45:04: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bServing = serving:2
+5/27/2022 14:45:04: [G_Auto 2] :  Store Value (Shared) for market: price = 1.31
+5/27/2022 14:45:04: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 104.45
+5/27/2022 14:45:04: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 132.22
+5/27/2022 14:45:04: [G_Auto 2] :  Store Value (Shared) for market: stake = 25.81
+5/27/2022 14:45:04: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 236.67
+5/27/2022 14:45:04: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.72
+5/27/2022 14:45:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.3
+5/27/2022 14:45:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.31
+5/27/2022 14:45:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:45:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:45:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 14:46:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 14:46:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 14:50:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:50:31: [G_Auto 1] :  Placed closure bet with greening on Aliaksandra Sasnovich by Backing 22.39 at 1.51
+5/27/2022 14:50:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:50:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:50:57: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: aPoints = point: 0; games: 3; sets: 0 
+5/27/2022 14:50:57: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: aServing = serving:1
+5/27/2022 14:50:57: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bPoints = point: 0; games: 2; sets: 1 
+5/27/2022 14:50:57: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bServing = serving:0
+5/27/2022 14:50:57: [G_Auto 2] :  Store Value (Shared) for market: price = 1.51
+5/27/2022 14:50:57: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 126.84
+5/27/2022 14:50:57: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 132.22
+5/27/2022 14:50:57: [G_Auto 2] :  Store Value (Shared) for market: stake = 22.39
+5/27/2022 14:50:57: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 259.06
+5/27/2022 14:50:57: [G_Auto 2] :  Store Value (Shared) for market: pl = 5.27
+5/27/2022 14:50:57: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.96
+5/27/2022 14:50:57: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.51
+5/27/2022 14:51:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:51:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:51:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:51:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 14:52:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 14:54:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:54:34: [G_Auto 1] :  € 25.81 Lay bet placed on Aliaksandra Sasnovich at 1.31. Fully matched at 1.31.  Ref: 10049          ( Fill or kill bet with 15 seconds delay.   )
+5/27/2022 14:54:34: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: aPoints = point: 0; games: 3; sets: 0 
+5/27/2022 14:54:34: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: aServing = serving:0
+5/27/2022 14:54:34: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bPoints = point: 0; games: 3; sets: 1 
+5/27/2022 14:54:34: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bServing = serving:2
+5/27/2022 14:54:34: [G_Auto 2] :  Store Value (Shared) for market: price = 1.31
+5/27/2022 14:54:34: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 126.84
+5/27/2022 14:54:34: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 158.03
+5/27/2022 14:54:34: [G_Auto 2] :  Store Value (Shared) for market: stake = 25.81
+5/27/2022 14:54:34: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 284.87
+5/27/2022 14:54:34: [G_Auto 2] :  Store Value (Shared) for market: pl = 5.08
+5/27/2022 14:54:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.2
+5/27/2022 14:54:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.3
+5/27/2022 14:54:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:54:40: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: aPoints = point: 0; games: 3; sets: 0 
+5/27/2022 14:54:40: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: aServing = serving:0
+5/27/2022 14:54:40: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bPoints = point: 0; games: 3; sets: 1 
+5/27/2022 14:54:40: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bServing = serving:2
+5/27/2022 14:54:40: [G_Auto 2] :  Store Value (Shared) for market: price = 1.31
+5/27/2022 14:54:40: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 126.84
+5/27/2022 14:54:40: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 158.03
+5/27/2022 14:54:40: [G_Auto 2] :  Store Value (Shared) for market: stake = 25.81
+5/27/2022 14:54:40: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 284.87
+5/27/2022 14:54:40: [G_Auto 2] :  Store Value (Shared) for market: pl = 5.27
+5/27/2022 14:54:40: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.3
+5/27/2022 14:54:40: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.32
+5/27/2022 14:54:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:55:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:55:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 14:55:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 14:57:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:58:00: [G_Auto 1] :  Placed closure bet with greening on Aliaksandra Sasnovich by Backing 28.66 at 1.18
+5/27/2022 14:58:01: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: aPoints = point: 0; games: 3; sets: 0 
+5/27/2022 14:58:01: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: aServing = serving:1
+5/27/2022 14:58:01: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bPoints = point: 0; games: 4; sets: 1 
+5/27/2022 14:58:01: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bServing = serving:0
+5/27/2022 14:58:01: [G_Auto 2] :  Store Value (Shared) for market: price = 1.18
+5/27/2022 14:58:01: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 155.5
+5/27/2022 14:58:01: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 158.03
+5/27/2022 14:58:01: [G_Auto 2] :  Store Value (Shared) for market: stake = 28.66
+5/27/2022 14:58:01: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 313.53
+5/27/2022 14:58:01: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.48
+5/27/2022 14:58:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 6.2
+5/27/2022 14:58:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.19
+5/27/2022 14:58:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:58:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:58:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:58:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:59:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:59:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 15:00:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 15:00:23: [G_Auto 1] :  € 22.86 Lay bet placed on Aliaksandra Sasnovich at 1.35. Fully matched at 1.34.  Ref: 10054          ( Fill or kill bet with 15 seconds delay.   )
+5/27/2022 15:00:24: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: aPoints = point: 0; games: 4; sets: 0 
+5/27/2022 15:00:24: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: aServing = serving:0
+5/27/2022 15:00:24: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bPoints = point: 0; games: 4; sets: 1 
+5/27/2022 15:00:24: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bServing = serving:2
+5/27/2022 15:00:24: [G_Auto 2] :  Store Value (Shared) for market: price = 1.34
+5/27/2022 15:00:24: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 155.5
+5/27/2022 15:00:24: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 180.89
+5/27/2022 15:00:24: [G_Auto 2] :  Store Value (Shared) for market: stake = 22.86
+5/27/2022 15:00:24: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 336.39
+5/27/2022 15:00:24: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.31
+5/27/2022 15:00:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.95
+5/27/2022 15:00:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.33
+5/27/2022 15:00:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 15:00:29: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: aPoints = point: 0; games: 4; sets: 0 
+5/27/2022 15:00:29: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: aServing = serving:0
+5/27/2022 15:00:29: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bPoints = point: 0; games: 4; sets: 1 
+5/27/2022 15:00:29: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bServing = serving:2
+5/27/2022 15:00:29: [G_Auto 2] :  Store Value (Shared) for market: price = 1.34
+5/27/2022 15:00:29: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 155.5
+5/27/2022 15:00:29: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 180.89
+5/27/2022 15:00:29: [G_Auto 2] :  Store Value (Shared) for market: stake = 22.86
+5/27/2022 15:00:29: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 336.39
+5/27/2022 15:00:29: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.31
+5/27/2022 15:00:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.95
+5/27/2022 15:00:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.34
+5/27/2022 15:00:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 15:00:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 15:01:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 15:01:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 15:01:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 15:04:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 15:04:12: [G_Auto 1] :  Placed closure bet with greening on Aliaksandra Sasnovich by Backing 26.40 at 1.16
+5/27/2022 15:04:12: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: aPoints = point: 0; games: 4; sets: 0 
+5/27/2022 15:04:12: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: aServing = serving:1
+5/27/2022 15:04:12: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bPoints = point: 0; games: 5; sets: 1 
+5/27/2022 15:04:12: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bServing = serving:0
+5/27/2022 15:04:12: [G_Auto 2] :  Store Value (Shared) for market: price = 1.16
+5/27/2022 15:04:12: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 181.9
+5/27/2022 15:04:12: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 180.89
+5/27/2022 15:04:12: [G_Auto 2] :  Store Value (Shared) for market: stake = 26.4
+5/27/2022 15:04:12: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 362.79
+5/27/2022 15:04:12: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.01
+5/27/2022 15:04:12: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 7
+5/27/2022 15:04:12: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.17
+5/27/2022 15:04:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 15:04:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 15:04:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 15:05:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 15:05:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 15:05:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 15:05:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 15:06:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 15:07:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 15:07:38: [G_Auto 1] :  € 21.05 Lay bet placed on Aliaksandra Sasnovich at 1.38. Fully matched at 1.37.  Ref: 10057          ( Fill or kill bet with 15 seconds delay.   )
+5/27/2022 15:07:38: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: aPoints = point: 0; games: 5; sets: 0 
+5/27/2022 15:07:38: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: aServing = serving:0
+5/27/2022 15:07:38: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bPoints = point: 0; games: 5; sets: 1 
+5/27/2022 15:07:38: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bServing = serving:2
+5/27/2022 15:07:38: [G_Auto 2] :  Store Value (Shared) for market: price = 1.37
+5/27/2022 15:07:38: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 181.9
+5/27/2022 15:07:38: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 201.94
+5/27/2022 15:07:38: [G_Auto 2] :  Store Value (Shared) for market: stake = 21.05
+5/27/2022 15:07:38: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 383.84
+5/27/2022 15:07:38: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.17
+5/27/2022 15:07:38: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.8
+5/27/2022 15:07:38: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.36
+5/27/2022 15:07:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 15:07:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 15:08:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 15:08:16: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 15:08:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 15:08:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 15:09:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 15:10:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 15:10:35: [G_Auto 1] :  Placed closure bet with greening on Aliaksandra Sasnovich by Backing 24.44 at 1.18
+5/27/2022 15:10:35: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: aPoints = point: 0; games: 5; sets: 0 
+5/27/2022 15:10:35: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: aServing = serving:1
+5/27/2022 15:10:35: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bPoints = point: 0; games: 6; sets: 1 
+5/27/2022 15:10:35: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bServing = serving:0
+5/27/2022 15:10:35: [G_Auto 2] :  Store Value (Shared) for market: price = 1.18
+5/27/2022 15:10:35: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 206.34
+5/27/2022 15:10:35: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 201.94
+5/27/2022 15:10:35: [G_Auto 2] :  Store Value (Shared) for market: stake = 24.44
+5/27/2022 15:10:35: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 408.28
+5/27/2022 15:10:35: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.4
+5/27/2022 15:10:35: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 6.2
+5/27/2022 15:10:35: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.19
+5/27/2022 15:10:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 15:10:40: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: aPoints = point: 0; games: 5; sets: 0 
+5/27/2022 15:10:40: [G_Auto 2] :  Store Text Value (Shared) for Angelique Kerber: aServing = serving:1
+5/27/2022 15:10:40: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bPoints = point: 0; games: 6; sets: 1 
+5/27/2022 15:10:40: [G_Auto 2] :  Store Text Value (Shared) for Aliaksandra Sasnovich: bServing = serving:0
+5/27/2022 15:10:40: [G_Auto 2] :  Store Value (Shared) for market: price = 1.18
+5/27/2022 15:10:40: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 206.34
+5/27/2022 15:10:40: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 201.94
+5/27/2022 15:10:40: [G_Auto 2] :  Store Value (Shared) for market: stake = 24.44
+5/27/2022 15:10:40: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 408.28
+5/27/2022 15:10:40: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.4
+5/27/2022 15:10:40: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 6.2
+5/27/2022 15:10:40: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.19
+5/27/2022 15:10:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 15:11:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 15:11:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 15:11:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 15:11:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 15:12:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 15:12:16: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 15:13:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 15:13:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 15:14:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 15:14:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 15:14:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 15:14:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 15:15:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 15:15:16: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 15:15:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 15:15:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 15:16:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 15:16:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 15:16:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 15:16:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 15:17:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 15:17:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 15:17:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 15:17:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 15:18:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 15:18:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 15:18:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 15:18:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 15:19:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 15:19:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 15:19:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 15:19:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 15:20:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 15:20:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 15:20:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 15:20:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 15:21:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 15:21:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 15:21:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 15:21:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 15:22:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 15:22:03:  Guardian has detected that the market is suspended

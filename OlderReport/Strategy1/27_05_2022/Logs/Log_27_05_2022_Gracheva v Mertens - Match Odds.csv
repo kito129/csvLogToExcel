@@ -1,0 +1,341 @@
+5/27/2022 12:47:31: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: info = marketName: Gracheva v Mertens - Match Odds; runnerA: Varvara Gracheva; runnerB: Elise Mertens 
+5/27/2022 12:47:31: [G_Auto 2] :  Store Value (Shared) for market: aId = 10942984
+5/27/2022 12:47:31: [G_Auto 2] :  Store Value (Shared) for market: bId = 9002334
+5/27/2022 13:51:54:  Guardian has detected that the market is in-play
+5/27/2022 13:51:54:  Guardian has detected that the market is suspended
+5/27/2022 13:51:55: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 3.2; bBsp: 1.45; volume: 14058.01 
+5/27/2022 13:51:55: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 3.2; bBsp: 1.45; volume: 14058.01 
+5/27/2022 13:51:55:  Guardian has detected that the market is now unsuspended
+5/27/2022 13:51:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 13:52:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 13:52:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 13:52:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 13:52:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 13:53:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 13:56:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 13:56:27: [G_Auto 1] :  € 25.81 Lay bet placed on Elise Mertens at 1.31. Fully matched at 1.31.  Ref: 10016          ( Fill or kill bet with 15 seconds delay.   )
+5/27/2022 13:56:28: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: aPoints = point: 0; games: 0; sets: 0 
+5/27/2022 13:56:28: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: aServing = serving:0
+5/27/2022 13:56:28: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: bPoints = point: 0; games: 1; sets: 0 
+5/27/2022 13:56:28: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: bServing = serving:2
+5/27/2022 13:56:28: [G_Auto 2] :  Store Value (Shared) for market: price = 1.31
+5/27/2022 13:56:28: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+5/27/2022 13:56:28: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 25.81
+5/27/2022 13:56:28: [G_Auto 2] :  Store Value (Shared) for market: stake = 25.81
+5/27/2022 13:56:28: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 25.81
+5/27/2022 13:56:28: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.4
+5/27/2022 13:56:28: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.2
+5/27/2022 13:56:28: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.31
+5/27/2022 13:56:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 13:56:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 13:57:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 13:57:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 13:57:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 13:57:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 13:57:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 13:59:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 13:59:38: [G_Auto 1] :  Placed closure bet with greening on Elise Mertens by Backing 27.94 at 1.21
+5/27/2022 13:59:39: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: aPoints = point: 0; games: 0; sets: 0 
+5/27/2022 13:59:39: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: aServing = serving:1
+5/27/2022 13:59:39: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: bPoints = point: 0; games: 2; sets: 0 
+5/27/2022 13:59:39: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: bServing = serving:0
+5/27/2022 13:59:39: [G_Auto 2] :  Store Value (Shared) for market: price = 1.21
+5/27/2022 13:59:39: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 27.94
+5/27/2022 13:59:39: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 25.81
+5/27/2022 13:59:39: [G_Auto 2] :  Store Value (Shared) for market: stake = 27.94
+5/27/2022 13:59:39: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 53.75
+5/27/2022 13:59:39: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.13
+5/27/2022 13:59:39: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 5.5
+5/27/2022 13:59:39: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.21
+5/27/2022 13:59:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 13:59:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:00:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:00:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:00:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 14:00:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 14:07:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:07:29: [G_Auto 1] :  € 29.63 Lay bet placed on Elise Mertens at 1.27. Fully matched at 1.26.  Ref: 10024          ( Fill or kill bet with 15 seconds delay.   )
+5/27/2022 14:07:30: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: aPoints = point: 0; games: 1; sets: 0 
+5/27/2022 14:07:30: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: aServing = serving:0
+5/27/2022 14:07:30: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: bPoints = point: 0; games: 2; sets: 0 
+5/27/2022 14:07:30: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: bServing = serving:2
+5/27/2022 14:07:30: [G_Auto 2] :  Store Value (Shared) for market: price = 1.26
+5/27/2022 14:07:30: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 27.94
+5/27/2022 14:07:30: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 55.44
+5/27/2022 14:07:30: [G_Auto 2] :  Store Value (Shared) for market: stake = 29.63
+5/27/2022 14:07:30: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 83.38
+5/27/2022 14:07:30: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.61
+5/27/2022 14:07:30: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 5
+5/27/2022 14:07:30: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.24
+5/27/2022 14:07:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:07:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:08:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:08:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:08:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:08:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:09:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:09:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:09:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:09:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 14:10:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 14:13:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:13:48: [G_Auto 1] :  Placed closure bet with greening on Elise Mertens by Backing 26.86 at 1.39
+5/27/2022 14:13:49: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: aPoints = point: 0; games: 2; sets: 0 
+5/27/2022 14:13:49: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: aServing = serving:1
+5/27/2022 14:13:49: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: bPoints = point: 0; games: 2; sets: 0 
+5/27/2022 14:13:49: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: bServing = serving:0
+5/27/2022 14:13:49: [G_Auto 2] :  Store Value (Shared) for market: price = 1.39
+5/27/2022 14:13:49: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 54.8
+5/27/2022 14:13:49: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 55.44
+5/27/2022 14:13:49: [G_Auto 2] :  Store Value (Shared) for market: stake = 26.86
+5/27/2022 14:13:49: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 110.24
+5/27/2022 14:13:49: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.63
+5/27/2022 14:13:49: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.85
+5/27/2022 14:13:49: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.4
+5/27/2022 14:13:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:14:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:14:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:14:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 14:14:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 14:15:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 14:24:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:24:59: [G_Auto 1] :  € 34.78 Lay bet placed on Elise Mertens at 1.23. Fully matched at 1.22.  Ref: 10035          ( Fill or kill bet with 15 seconds delay.   )
+5/27/2022 14:25:00: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: aPoints = point: 0; games: 2; sets: 0 
+5/27/2022 14:25:00: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: aServing = serving:0
+5/27/2022 14:25:00: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: bPoints = point: 0; games: 3; sets: 0 
+5/27/2022 14:25:00: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: bServing = serving:2
+5/27/2022 14:25:00: [G_Auto 2] :  Store Value (Shared) for market: price = 1.22
+5/27/2022 14:25:00: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 54.8
+5/27/2022 14:25:00: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 90.22
+5/27/2022 14:25:00: [G_Auto 2] :  Store Value (Shared) for market: stake = 34.78
+5/27/2022 14:25:00: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 145.02
+5/27/2022 14:25:00: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.34
+5/27/2022 14:25:00: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 5.5
+5/27/2022 14:25:00: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.23
+5/27/2022 14:25:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:25:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:25:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:25:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:26:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:26:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:26:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 14:26:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 14:27:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 14:29:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:29:38: [G_Auto 1] :  Placed closure bet with greening on Elise Mertens by Backing 36.58 at 1.16
+5/27/2022 14:29:38: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: aPoints = point: 0; games: 2; sets: 0 
+5/27/2022 14:29:38: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: aServing = serving:1
+5/27/2022 14:29:38: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: bPoints = point: 0; games: 4; sets: 0 
+5/27/2022 14:29:38: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: bServing = serving:0
+5/27/2022 14:29:38: [G_Auto 2] :  Store Value (Shared) for market: price = 1.17
+5/27/2022 14:29:38: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 91.38
+5/27/2022 14:29:38: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 90.22
+5/27/2022 14:29:38: [G_Auto 2] :  Store Value (Shared) for market: stake = 36.58
+5/27/2022 14:29:38: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 181.6
+5/27/2022 14:29:38: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.85
+5/27/2022 14:29:38: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 6.8
+5/27/2022 14:29:38: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.17
+5/27/2022 14:29:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:29:43: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: aPoints = point: 0; games: 2; sets: 0 
+5/27/2022 14:29:43: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: aServing = serving:1
+5/27/2022 14:29:43: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: bPoints = point: 0; games: 4; sets: 0 
+5/27/2022 14:29:43: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: bServing = serving:0
+5/27/2022 14:29:43: [G_Auto 2] :  Store Value (Shared) for market: price = 1.17
+5/27/2022 14:29:43: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 91.38
+5/27/2022 14:29:43: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 90.22
+5/27/2022 14:29:43: [G_Auto 2] :  Store Value (Shared) for market: stake = 36.58
+5/27/2022 14:29:43: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 181.6
+5/27/2022 14:29:43: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.85
+5/27/2022 14:29:43: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 6.8
+5/27/2022 14:29:43: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.17
+5/27/2022 14:29:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:30:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 14:30:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 14:30:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 14:33:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:33:15: [G_Auto 1] :  € 66.67 Lay bet placed on Elise Mertens at 1.12. Fully matched at 1.11.  Ref: 10042          ( Fill or kill bet with 15 seconds delay.   )
+5/27/2022 14:33:15: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: aPoints = point: 0; games: 2; sets: 0 
+5/27/2022 14:33:15: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: aServing = serving:0
+5/27/2022 14:33:15: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: bPoints = point: 0; games: 5; sets: 0 
+5/27/2022 14:33:15: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: bServing = serving:2
+5/27/2022 14:33:15: [G_Auto 2] :  Store Value (Shared) for market: price = 1.11
+5/27/2022 14:33:15: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 91.38
+5/27/2022 14:33:15: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 156.89
+5/27/2022 14:33:15: [G_Auto 2] :  Store Value (Shared) for market: stake = 66.67
+5/27/2022 14:33:15: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 248.27
+5/27/2022 14:33:15: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.43
+5/27/2022 14:33:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 8
+5/27/2022 14:33:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.1
+5/27/2022 14:33:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:33:20: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: aPoints = point: 0; games: 2; sets: 0 
+5/27/2022 14:33:20: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: aServing = serving:0
+5/27/2022 14:33:20: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: bPoints = point: 0; games: 5; sets: 0 
+5/27/2022 14:33:20: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: bServing = serving:2
+5/27/2022 14:33:20: [G_Auto 2] :  Store Value (Shared) for market: price = 1.11
+5/27/2022 14:33:20: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 91.38
+5/27/2022 14:33:20: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 156.89
+5/27/2022 14:33:20: [G_Auto 2] :  Store Value (Shared) for market: stake = 66.67
+5/27/2022 14:33:20: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 248.27
+5/27/2022 14:33:20: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.43
+5/27/2022 14:33:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 8
+5/27/2022 14:33:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.11
+5/27/2022 14:33:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:33:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:34:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:34:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:34:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:34:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:35:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:35:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 14:35:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 14:37:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:37:32: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 11
+5/27/2022 14:37:32: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 1.09
+5/27/2022 14:37:37: [G_Auto 1] :  Placed closure bet with greening on Elise Mertens by Backing 67.56 at 1.09
+5/27/2022 14:37:37: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: aPoints = point: 0; games: 0; sets: 0 
+5/27/2022 14:37:37: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: aServing = serving:1
+5/27/2022 14:37:37: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: bPoints = point: 0; games: 0; sets: 1 
+5/27/2022 14:37:37: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: bServing = serving:0
+5/27/2022 14:37:37: [G_Auto 2] :  Store Value (Shared) for market: price = 1.09
+5/27/2022 14:37:37: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 158.94
+5/27/2022 14:37:37: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 156.89
+5/27/2022 14:37:37: [G_Auto 2] :  Store Value (Shared) for market: stake = 67.56
+5/27/2022 14:37:37: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 315.83
+5/27/2022 14:37:37: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.05
+5/27/2022 14:37:37: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 11
+5/27/2022 14:37:37: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.1
+5/27/2022 14:37:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:37:43: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: aPoints = point: 0; games: 0; sets: 0 
+5/27/2022 14:37:43: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: aServing = serving:1
+5/27/2022 14:37:43: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: bPoints = point: 0; games: 0; sets: 1 
+5/27/2022 14:37:43: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: bServing = serving:0
+5/27/2022 14:37:43: [G_Auto 2] :  Store Value (Shared) for market: price = 1.09
+5/27/2022 14:37:43: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 158.94
+5/27/2022 14:37:43: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 156.89
+5/27/2022 14:37:43: [G_Auto 2] :  Store Value (Shared) for market: stake = 67.56
+5/27/2022 14:37:43: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 315.83
+5/27/2022 14:37:43: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.05
+5/27/2022 14:37:43: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 11
+5/27/2022 14:37:43: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.1
+5/27/2022 14:37:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:38:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:38:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:38:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:38:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:39:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:39:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:39:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:40:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:40:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:40:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:40:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:41:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:41:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:41:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:41:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 14:41:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 14:42:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 14:44:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:45:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:45:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:45:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:45:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:46:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:46:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 14:46:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 14:46:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 14:52:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:53:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:53:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:53:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:53:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 14:54:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 14:56:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:56:50: [G_Auto 1] :  € 47.06 Lay bet placed on Elise Mertens at 1.17. Fully matched at 1.17.  Ref: 10051          ( Fill or kill bet with 15 seconds delay.   )
+5/27/2022 14:56:51: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: aPoints = point: 0; games: 2; sets: 0 
+5/27/2022 14:56:51: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: aServing = serving:0
+5/27/2022 14:56:51: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: bPoints = point: 0; games: 1; sets: 1 
+5/27/2022 14:56:51: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: bServing = serving:2
+5/27/2022 14:56:51: [G_Auto 2] :  Store Value (Shared) for market: price = 1.17
+5/27/2022 14:56:51: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 158.94
+5/27/2022 14:56:51: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 203.95
+5/27/2022 14:56:51: [G_Auto 2] :  Store Value (Shared) for market: stake = 47.06
+5/27/2022 14:56:51: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 362.89
+5/27/2022 14:56:51: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.45
+5/27/2022 14:56:51: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 7.2
+5/27/2022 14:56:51: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.16
+5/27/2022 14:56:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:57:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:57:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:57:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:57:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:58:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:58:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 14:58:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 14:58:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 15:02:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 15:02:17: [G_Auto 1] :  Placed closure bet with greening on Elise Mertens by Backing 49.60 at 1.11
+5/27/2022 15:02:17: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: aPoints = point: 0; games: 2; sets: 0 
+5/27/2022 15:02:17: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: aServing = serving:1
+5/27/2022 15:02:17: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: bPoints = point: 0; games: 2; sets: 1 
+5/27/2022 15:02:17: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: bServing = serving:0
+5/27/2022 15:02:17: [G_Auto 2] :  Store Value (Shared) for market: price = 1.11
+5/27/2022 15:02:17: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 208.54
+5/27/2022 15:02:17: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 203.95
+5/27/2022 15:02:17: [G_Auto 2] :  Store Value (Shared) for market: stake = 49.6
+5/27/2022 15:02:17: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 412.49
+5/27/2022 15:02:17: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.59
+5/27/2022 15:02:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 7.6
+5/27/2022 15:02:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.12
+5/27/2022 15:02:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 15:02:22: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: aPoints = point: 0; games: 2; sets: 0 
+5/27/2022 15:02:22: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: aServing = serving:1
+5/27/2022 15:02:22: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: bPoints = point: 0; games: 2; sets: 1 
+5/27/2022 15:02:22: [G_Auto 2] :  Store Text Value (Shared) for Elise Mertens: bServing = serving:0
+5/27/2022 15:02:22: [G_Auto 2] :  Store Value (Shared) for market: price = 1.11
+5/27/2022 15:02:22: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 208.54
+5/27/2022 15:02:22: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 203.95
+5/27/2022 15:02:22: [G_Auto 2] :  Store Value (Shared) for market: stake = 49.6
+5/27/2022 15:02:22: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 412.49
+5/27/2022 15:02:22: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.59
+5/27/2022 15:02:22: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 7.6
+5/27/2022 15:02:22: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.12
+5/27/2022 15:02:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 15:02:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 15:03:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 15:08:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 15:08:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 15:08:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 15:08:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 15:09:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 15:09:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 15:09:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 15:09:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 15:10:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 15:10:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 15:10:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 15:12:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 15:12:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 15:13:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 15:13:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 15:13:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 15:13:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 15:17:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 15:17:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 15:18:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 15:18:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 15:18:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 15:18:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 15:19:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 15:19:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 15:19:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 15:19:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 15:25:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 15:26:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 15:26:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 15:26:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 15:26:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 15:27:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 15:27:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/27/2022 15:29:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/27/2022 15:29:24:  Guardian has detected that the market is suspended

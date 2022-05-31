@@ -1,0 +1,222 @@
+5/24/2022 09:59:00: [G_Auto 2] :  Store Text Value (Shared) for Alize Cornet: info = marketName: A. Cornet v Doi - Match Odds; runnerA: Alize Cornet; runnerB: Misaki Doi 
+5/24/2022 09:59:00: [G_Auto 2] :  Store Value (Shared) for market: aId = 2263692
+5/24/2022 09:59:00: [G_Auto 2] :  Store Value (Shared) for market: bId = 4729711
+5/24/2022 12:08:02:  Guardian has detected that the market is in-play
+5/24/2022 12:08:02:  Guardian has detected that the market is suspended
+5/24/2022 12:08:07: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.21; bBsp: 5.4; volume: 16162.34 
+5/24/2022 12:08:07: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.21; bBsp: 5.4; volume: 16162.34 
+5/24/2022 12:08:07:  Guardian has detected that the market is now unsuspended
+5/24/2022 12:08:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/24/2022 12:08:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/24/2022 12:08:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/24/2022 12:10:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:10:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:11:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:11:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:11:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/24/2022 12:11:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/24/2022 12:16:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:17:02: [G_Auto 1] :  € 32.00 Lay bet placed on Alize Cornet at 1.25. Fully matched at 1.25.  Ref: 10031          ( Fill or kill bet with 15 seconds delay.   )
+5/24/2022 12:17:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:17:03: [G_Auto 2] :  Store Text Value (Shared) for Alize Cornet: aPoints = point: 0; games: 1; sets: 0 
+5/24/2022 12:17:03: [G_Auto 2] :  Store Text Value (Shared) for Alize Cornet: aServing = serving:1
+5/24/2022 12:17:03: [G_Auto 2] :  Store Text Value (Shared) for Misaki Doi: bPoints = point: 0; games: 1; sets: 0 
+5/24/2022 12:17:03: [G_Auto 2] :  Store Text Value (Shared) for Misaki Doi: bServing = serving:0
+5/24/2022 12:17:03: [G_Auto 2] :  Store Value (Shared) for market: price = 1.25
+5/24/2022 12:17:03: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+5/24/2022 12:17:03: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 32
+5/24/2022 12:17:03: [G_Auto 2] :  Store Value (Shared) for market: stake = 32
+5/24/2022 12:17:03: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 32
+5/24/2022 12:17:03: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.52
+5/24/2022 12:17:03: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.25
+5/24/2022 12:17:03: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 6.2
+5/24/2022 12:17:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:17:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/24/2022 12:17:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/24/2022 12:19:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:19:49: [G_Auto 1] :  Placed closure bet with greening on Alize Cornet by Backing 33.90 at 1.18
+5/24/2022 12:19:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:19:50: [G_Auto 2] :  Store Text Value (Shared) for Alize Cornet: aPoints = point: 0; games: 2; sets: 0 
+5/24/2022 12:19:50: [G_Auto 2] :  Store Text Value (Shared) for Alize Cornet: aServing = serving:0
+5/24/2022 12:19:50: [G_Auto 2] :  Store Text Value (Shared) for Misaki Doi: bPoints = point: 0; games: 1; sets: 0 
+5/24/2022 12:19:50: [G_Auto 2] :  Store Text Value (Shared) for Misaki Doi: bServing = serving:2
+5/24/2022 12:19:50: [G_Auto 2] :  Store Value (Shared) for market: price = 1.18
+5/24/2022 12:19:50: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 33.9
+5/24/2022 12:19:50: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 32
+5/24/2022 12:19:50: [G_Auto 2] :  Store Value (Shared) for market: stake = 33.9
+5/24/2022 12:19:50: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 65.9
+5/24/2022 12:19:50: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.9
+5/24/2022 12:19:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.19
+5/24/2022 12:19:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.3
+5/24/2022 12:20:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:20:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:20:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:20:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:21:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:21:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:21:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/24/2022 12:21:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/24/2022 12:22:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/24/2022 12:24:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:25:03: [G_Auto 1] :  € 66.67 Lay bet placed on Alize Cornet at 1.12. Fully matched at 1.11.  Ref: 10037          ( Fill or kill bet with 15 seconds delay.   )
+5/24/2022 12:25:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:25:04: [G_Auto 2] :  Store Text Value (Shared) for Alize Cornet: aPoints = point: 0; games: 3; sets: 0 
+5/24/2022 12:25:04: [G_Auto 2] :  Store Text Value (Shared) for Alize Cornet: aServing = serving:1
+5/24/2022 12:25:04: [G_Auto 2] :  Store Text Value (Shared) for Misaki Doi: bPoints = point: 0; games: 1; sets: 0 
+5/24/2022 12:25:04: [G_Auto 2] :  Store Text Value (Shared) for Misaki Doi: bServing = serving:0
+5/24/2022 12:25:04: [G_Auto 2] :  Store Value (Shared) for market: price = 1.11
+5/24/2022 12:25:04: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 33.9
+5/24/2022 12:25:04: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 98.67
+5/24/2022 12:25:04: [G_Auto 2] :  Store Value (Shared) for market: stake = 66.67
+5/24/2022 12:25:04: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 132.57
+5/24/2022 12:25:04: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.9
+5/24/2022 12:25:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.11
+5/24/2022 12:25:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 7.6
+5/24/2022 12:25:12: [G_Auto 2] :  Store Text Value (Shared) for Alize Cornet: aPoints = point: 0; games: 3; sets: 0 
+5/24/2022 12:25:12: [G_Auto 2] :  Store Text Value (Shared) for Alize Cornet: aServing = serving:1
+5/24/2022 12:25:12: [G_Auto 2] :  Store Text Value (Shared) for Misaki Doi: bPoints = point: 0; games: 1; sets: 0 
+5/24/2022 12:25:12: [G_Auto 2] :  Store Text Value (Shared) for Misaki Doi: bServing = serving:0
+5/24/2022 12:25:12: [G_Auto 2] :  Store Value (Shared) for market: price = 1.11
+5/24/2022 12:25:12: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 33.9
+5/24/2022 12:25:12: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 98.67
+5/24/2022 12:25:12: [G_Auto 2] :  Store Value (Shared) for market: stake = 66.67
+5/24/2022 12:25:12: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 132.57
+5/24/2022 12:25:12: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.9
+5/24/2022 12:25:12: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.11
+5/24/2022 12:25:12: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 7.6
+5/24/2022 12:25:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:25:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:25:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/24/2022 12:25:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/24/2022 12:27:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:27:54: [G_Auto 1] :  Placed closure bet with greening on Alize Cornet by Backing 68.52 at 1.08
+5/24/2022 12:27:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:27:55: [G_Auto 2] :  Store Text Value (Shared) for Alize Cornet: aPoints = point: 0; games: 4; sets: 0 
+5/24/2022 12:27:55: [G_Auto 2] :  Store Text Value (Shared) for Alize Cornet: aServing = serving:0
+5/24/2022 12:27:55: [G_Auto 2] :  Store Text Value (Shared) for Misaki Doi: bPoints = point: 0; games: 1; sets: 0 
+5/24/2022 12:27:55: [G_Auto 2] :  Store Text Value (Shared) for Misaki Doi: bServing = serving:2
+5/24/2022 12:27:55: [G_Auto 2] :  Store Value (Shared) for market: price = 1.08
+5/24/2022 12:27:55: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 102.42
+5/24/2022 12:27:55: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 98.67
+5/24/2022 12:27:55: [G_Auto 2] :  Store Value (Shared) for market: stake = 68.52
+5/24/2022 12:27:55: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 201.09
+5/24/2022 12:27:55: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.75
+5/24/2022 12:27:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.09
+5/24/2022 12:27:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 12
+5/24/2022 12:28:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:28:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:28:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:28:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:29:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:29:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:29:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/24/2022 12:29:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/24/2022 12:32:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:32:53: [G_Auto 1] :  € 66.67 Lay bet placed on Alize Cornet at 1.12. Fully matched at 1.11.  Ref: 10041          ( Fill or kill bet with 15 seconds delay.   )
+5/24/2022 12:32:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:32:54: [G_Auto 2] :  Store Text Value (Shared) for Alize Cornet: aPoints = point: 0; games: 4; sets: 0 
+5/24/2022 12:32:54: [G_Auto 2] :  Store Text Value (Shared) for Alize Cornet: aServing = serving:1
+5/24/2022 12:32:54: [G_Auto 2] :  Store Text Value (Shared) for Misaki Doi: bPoints = point: 0; games: 2; sets: 0 
+5/24/2022 12:32:54: [G_Auto 2] :  Store Text Value (Shared) for Misaki Doi: bServing = serving:0
+5/24/2022 12:32:54: [G_Auto 2] :  Store Value (Shared) for market: price = 1.11
+5/24/2022 12:32:54: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 102.42
+5/24/2022 12:32:54: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 165.34
+5/24/2022 12:32:54: [G_Auto 2] :  Store Value (Shared) for market: stake = 66.67
+5/24/2022 12:32:54: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 267.76
+5/24/2022 12:32:54: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.36
+5/24/2022 12:32:54: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.11
+5/24/2022 12:32:54: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 12
+5/24/2022 12:33:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:33:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:33:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/24/2022 12:33:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/24/2022 12:34:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/24/2022 12:35:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:35:30: [G_Auto 1] :  Placed closure bet with greening on Alize Cornet by Backing 69.16 at 1.07
+5/24/2022 12:35:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:35:31: [G_Auto 2] :  Store Text Value (Shared) for Alize Cornet: aPoints = point: 0; games: 5; sets: 0 
+5/24/2022 12:35:31: [G_Auto 2] :  Store Text Value (Shared) for Alize Cornet: aServing = serving:0
+5/24/2022 12:35:31: [G_Auto 2] :  Store Text Value (Shared) for Misaki Doi: bPoints = point: 0; games: 2; sets: 0 
+5/24/2022 12:35:31: [G_Auto 2] :  Store Text Value (Shared) for Misaki Doi: bServing = serving:2
+5/24/2022 12:35:31: [G_Auto 2] :  Store Value (Shared) for market: price = 1.07
+5/24/2022 12:35:31: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 171.58
+5/24/2022 12:35:31: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 165.34
+5/24/2022 12:35:31: [G_Auto 2] :  Store Value (Shared) for market: stake = 69.16
+5/24/2022 12:35:31: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 336.92
+5/24/2022 12:35:31: [G_Auto 2] :  Store Value (Shared) for market: pl = -6.24
+5/24/2022 12:35:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.08
+5/24/2022 12:35:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 14
+5/24/2022 12:35:39: [G_Auto 2] :  Store Text Value (Shared) for Alize Cornet: aPoints = point: 0; games: 5; sets: 0 
+5/24/2022 12:35:39: [G_Auto 2] :  Store Text Value (Shared) for Alize Cornet: aServing = serving:0
+5/24/2022 12:35:39: [G_Auto 2] :  Store Text Value (Shared) for Misaki Doi: bPoints = point: 0; games: 2; sets: 0 
+5/24/2022 12:35:39: [G_Auto 2] :  Store Text Value (Shared) for Misaki Doi: bServing = serving:2
+5/24/2022 12:35:39: [G_Auto 2] :  Store Value (Shared) for market: price = 1.07
+5/24/2022 12:35:39: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 171.58
+5/24/2022 12:35:39: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 165.34
+5/24/2022 12:35:39: [G_Auto 2] :  Store Value (Shared) for market: stake = 69.16
+5/24/2022 12:35:39: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 336.92
+5/24/2022 12:35:39: [G_Auto 2] :  Store Value (Shared) for market: pl = -6.24
+5/24/2022 12:35:39: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.08
+5/24/2022 12:35:39: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 14
+5/24/2022 12:35:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:36:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:36:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:36:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:36:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:37:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:37:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/24/2022 12:37:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/24/2022 12:39:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:40:00: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 1.06
+5/24/2022 12:40:00: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 17.5
+5/24/2022 12:40:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:40:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:40:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:40:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:41:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:41:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:41:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:41:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:42:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:42:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:42:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/24/2022 12:42:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/24/2022 12:47:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:47:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:47:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:48:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:48:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:48:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/24/2022 12:48:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/24/2022 12:51:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:52:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:52:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:52:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/24/2022 12:52:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/24/2022 12:54:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:54:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:55:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:55:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:55:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:55:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:56:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:56:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:56:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/24/2022 12:56:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/24/2022 12:57:16: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/24/2022 12:58:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:58:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:59:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 12:59:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/24/2022 12:59:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/24/2022 13:00:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/24/2022 13:02:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 13:02:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 13:03:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 13:03:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 13:03:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 13:03:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 13:04:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/24/2022 13:04:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/24/2022 13:04:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/24/2022 13:06:34:  Guardian has detected that the market is suspended
