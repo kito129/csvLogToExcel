@@ -1,0 +1,103 @@
+5/30/2022 09:30:38: [G_Auto 2] :  Store Text Value (Shared) for Federico Coria: info = marketName: Coria v Svrcina - Match Odds; runnerA: Federico Coria; runnerB: Dalibor Svrcina 
+5/30/2022 09:30:38: [G_Auto 2] :  Store Value (Shared) for market: aId = 8326752
+5/30/2022 09:30:38: [G_Auto 2] :  Store Value (Shared) for market: bId = 13714711
+5/30/2022 12:11:08:  Guardian has detected that the market is in-play
+5/30/2022 12:11:08:  Guardian has detected that the market is suspended
+5/30/2022 12:11:14: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.3; bBsp: 3.8; volume: 1738.31 
+5/30/2022 12:11:14: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.3; bBsp: 3.8; volume: 1738.31 
+5/30/2022 12:11:14:  Guardian has detected that the market is now unsuspended
+5/30/2022 12:54:39: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 2.5
+5/30/2022 12:54:39: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 1.56
+5/30/2022 12:54:42: [G_Auto 1] :  € 10.00 Back bet placed on Federico Coria at 2.74. Fully matched at 2.78.  Ref: 10000
+5/30/2022 12:54:45: [G_Auto 2] :  Store Text Value (Shared) for Federico Coria: aPoints = point: 0; games: 0; sets: 0 
+5/30/2022 12:54:45: [G_Auto 2] :  Store Text Value (Shared) for Federico Coria: aServing = serving:1
+5/30/2022 12:54:45: [G_Auto 2] :  Store Text Value (Shared) for Dalibor Svrcina: bPoints = point: 0; games: 0; sets: 1 
+5/30/2022 12:54:45: [G_Auto 2] :  Store Text Value (Shared) for Dalibor Svrcina: bServing = serving:0
+5/30/2022 12:54:45: [G_Auto 2] :  Store Value (Shared) for market: price = 2.78
+5/30/2022 12:54:45: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 10
+5/30/2022 12:54:45: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 0
+5/30/2022 12:54:45: [G_Auto 2] :  Store Value (Shared) for market: stake = 10
+5/30/2022 12:54:45: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 10
+5/30/2022 12:54:45: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.07
+5/30/2022 12:54:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.78
+5/30/2022 12:54:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.57
+5/30/2022 13:03:18: [G_Auto 1] :  € 3.00 Back bet placed on Federico Coria at 4. Fully matched at 4.1.  Ref: 10001
+5/30/2022 13:03:21: [G_Auto 2] :  Store Text Value (Shared) for Federico Coria: aPoints = point: 0; games: 0; sets: 0 
+5/30/2022 13:03:21: [G_Auto 2] :  Store Text Value (Shared) for Federico Coria: aServing = serving:0
+5/30/2022 13:03:21: [G_Auto 2] :  Store Text Value (Shared) for Dalibor Svrcina: bPoints = point: 0; games: 1; sets: 1 
+5/30/2022 13:03:21: [G_Auto 2] :  Store Text Value (Shared) for Dalibor Svrcina: bServing = serving:2
+5/30/2022 13:03:21: [G_Auto 2] :  Store Value (Shared) for market: price = 4.1
+5/30/2022 13:03:21: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 13
+5/30/2022 13:03:21: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 0
+5/30/2022 13:03:21: [G_Auto 2] :  Store Value (Shared) for market: stake = 3
+5/30/2022 13:03:21: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 13
+5/30/2022 13:03:21: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.67
+5/30/2022 13:03:21: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.1
+5/30/2022 13:03:21: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.31
+5/30/2022 13:06:08: [G_Auto 1] :  € 1.50 Lay bet placed on Federico Coria at 2.74. Fully matched at 2.68.  Ref: 10003
+5/30/2022 13:06:14: [G_Auto 2] :  Store Text Value (Shared) for Federico Coria: aPoints = point: 0; games: 1; sets: 0 
+5/30/2022 13:06:14: [G_Auto 2] :  Store Text Value (Shared) for Federico Coria: aServing = serving:1
+5/30/2022 13:06:14: [G_Auto 2] :  Store Text Value (Shared) for Dalibor Svrcina: bPoints = point: 0; games: 1; sets: 1 
+5/30/2022 13:06:14: [G_Auto 2] :  Store Text Value (Shared) for Dalibor Svrcina: bServing = serving:0
+5/30/2022 13:06:14: [G_Auto 2] :  Store Value (Shared) for market: price = 2.68
+5/30/2022 13:06:14: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 13
+5/30/2022 13:06:14: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 1.5
+5/30/2022 13:06:14: [G_Auto 2] :  Store Value (Shared) for market: stake = 1.5
+5/30/2022 13:06:14: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 14.5
+5/30/2022 13:06:14: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.92
+5/30/2022 13:06:14: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.68
+5/30/2022 13:06:14: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.6
+5/30/2022 13:13:44: [G_Auto 1] :  € 2.50 Lay bet placed on Federico Coria at 1.83. Fully matched at 1.82.  Ref: 10004
+5/30/2022 13:13:47: [G_Auto 2] :  Store Text Value (Shared) for Federico Coria: aPoints = point: 0; games: 3; sets: 0 
+5/30/2022 13:13:47: [G_Auto 2] :  Store Text Value (Shared) for Federico Coria: aServing = serving:1
+5/30/2022 13:13:47: [G_Auto 2] :  Store Text Value (Shared) for Dalibor Svrcina: bPoints = point: 0; games: 1; sets: 1 
+5/30/2022 13:13:47: [G_Auto 2] :  Store Text Value (Shared) for Dalibor Svrcina: bServing = serving:0
+5/30/2022 13:13:47: [G_Auto 2] :  Store Value (Shared) for market: price = 1.82
+5/30/2022 13:13:47: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 13
+5/30/2022 13:13:47: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 4
+5/30/2022 13:13:47: [G_Auto 2] :  Store Value (Shared) for market: stake = 2.5
+5/30/2022 13:13:47: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 17
+5/30/2022 13:13:47: [G_Auto 2] :  Store Value (Shared) for market: pl = 8.07
+5/30/2022 13:13:47: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.82
+5/30/2022 13:13:47: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.2
+5/30/2022 13:13:52: [G_Auto 2] :  Store Text Value (Shared) for Federico Coria: aPoints = point: 0; games: 3; sets: 0 
+5/30/2022 13:13:52: [G_Auto 2] :  Store Text Value (Shared) for Federico Coria: aServing = serving:1
+5/30/2022 13:13:52: [G_Auto 2] :  Store Text Value (Shared) for Dalibor Svrcina: bPoints = point: 0; games: 1; sets: 1 
+5/30/2022 13:13:52: [G_Auto 2] :  Store Text Value (Shared) for Dalibor Svrcina: bServing = serving:0
+5/30/2022 13:13:52: [G_Auto 2] :  Store Value (Shared) for market: price = 1.82
+5/30/2022 13:13:52: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 13
+5/30/2022 13:13:52: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 4
+5/30/2022 13:13:52: [G_Auto 2] :  Store Value (Shared) for market: stake = 2.5
+5/30/2022 13:13:52: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 17
+5/30/2022 13:13:52: [G_Auto 2] :  Store Value (Shared) for market: pl = 8.07
+5/30/2022 13:13:52: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.83
+5/30/2022 13:13:52: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.24
+5/30/2022 13:15:56: [G_Auto 1] :  Greened up Federico Coria by Laying 19.71 at 1.6
+5/30/2022 13:15:59: [G_Auto 2] :  Store Text Value (Shared) for Federico Coria: aPoints = point: 0; games: 4; sets: 0 
+5/30/2022 13:15:59: [G_Auto 2] :  Store Text Value (Shared) for Federico Coria: aServing = serving:0
+5/30/2022 13:15:59: [G_Auto 2] :  Store Text Value (Shared) for Dalibor Svrcina: bPoints = point: 0; games: 1; sets: 1 
+5/30/2022 13:15:59: [G_Auto 2] :  Store Text Value (Shared) for Dalibor Svrcina: bServing = serving:2
+5/30/2022 13:15:59: [G_Auto 2] :  Store Value (Shared) for market: price = 1.6
+5/30/2022 13:15:59: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 13
+5/30/2022 13:15:59: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 23.71
+5/30/2022 13:15:59: [G_Auto 2] :  Store Value (Shared) for market: stake = 19.71
+5/30/2022 13:15:59: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 36.71
+5/30/2022 13:15:59: [G_Auto 2] :  Store Value (Shared) for market: pl = 10.49
+5/30/2022 13:15:59: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.59
+5/30/2022 13:15:59: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.68
+5/30/2022 13:20:55: [G_Auto 1] :  € 3.00 Lay bet placed on Federico Coria at 1.5. Fully matched at 1.49.  Ref: 10006
+5/30/2022 13:20:59: [G_Auto 2] :  Store Text Value (Shared) for Federico Coria: aPoints = point: 0; games: 5; sets: 0 
+5/30/2022 13:20:59: [G_Auto 2] :  Store Text Value (Shared) for Federico Coria: aServing = serving:1
+5/30/2022 13:20:59: [G_Auto 2] :  Store Text Value (Shared) for Dalibor Svrcina: bPoints = point: 0; games: 1; sets: 1 
+5/30/2022 13:20:59: [G_Auto 2] :  Store Text Value (Shared) for Dalibor Svrcina: bServing = serving:0
+5/30/2022 13:20:59: [G_Auto 2] :  Store Value (Shared) for market: price = 1.49
+5/30/2022 13:20:59: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 13
+5/30/2022 13:20:59: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 26.71
+5/30/2022 13:20:59: [G_Auto 2] :  Store Value (Shared) for market: stake = 3
+5/30/2022 13:20:59: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 39.71
+5/30/2022 13:20:59: [G_Auto 2] :  Store Value (Shared) for market: pl = 10.39
+5/30/2022 13:20:59: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.47
+5/30/2022 13:20:59: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.1
+5/30/2022 13:22:43: [G_Auto 2] :  Store Value (Shared) for market: aSecondSetPrice = 1.45
+5/30/2022 13:22:43: [G_Auto 2] :  Store Value (Shared) for market: bSecondSetPrice = 3.25
+5/30/2022 14:08:12:  Guardian has detected that the market is suspended
