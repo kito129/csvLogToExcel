@@ -1,0 +1,867 @@
+5/31/2022 10:12:16: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: info = marketName: Oks Selekhmeteva v Tomova - Match Odds; runnerA: Oksana Selekhmeteva; runnerB: Viktoriya Tomova 
+5/31/2022 10:12:16: [G_Auto 2] :  Store Value (Shared) for market: aId = 21651917
+5/31/2022 10:12:16: [G_Auto 2] :  Store Value (Shared) for market: bId = 4597116
+5/31/2022 13:34:19:  Guardian has detected that the market is in-play
+5/31/2022 13:34:19:  Guardian has detected that the market is suspended
+5/31/2022 13:34:20: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 2.12; bBsp: 1.85; volume: 53157.18 
+5/31/2022 13:34:20: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 2.12; bBsp: 1.85; volume: 53157.18 
+5/31/2022 13:34:20:  Guardian has detected that the market is now unsuspended
+5/31/2022 13:34:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 13:34:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 13:34:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 13:40:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 13:40:55: [G_Auto 1] :  € 12.12 Lay bet placed on Viktoriya Tomova at 1.66. Fully matched at 1.65.  Ref: 10038          ( Fill or kill bet with 15 seconds delay.   )
+5/31/2022 13:40:55: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aPoints = point: 0; games: 0; sets: 0 
+5/31/2022 13:40:55: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aServing = serving:0
+5/31/2022 13:40:55: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bPoints = point: 0; games: 1; sets: 0 
+5/31/2022 13:40:55: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bServing = serving:2
+5/31/2022 13:40:55: [G_Auto 2] :  Store Value (Shared) for market: price = 1.65
+5/31/2022 13:40:55: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+5/31/2022 13:40:55: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 12.12
+5/31/2022 13:40:55: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.12
+5/31/2022 13:40:55: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 12.12
+5/31/2022 13:40:55: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.07
+5/31/2022 13:40:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.5
+5/31/2022 13:40:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.65
+5/31/2022 13:40:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 13:41:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 13:41:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 13:41:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 13:42:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 13:42:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 13:42:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 13:42:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 13:42:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 13:44:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 13:44:48: [G_Auto 1] :  Placed closure bet with greening on Viktoriya Tomova by Backing 10.20 at 1.96
+5/31/2022 13:44:49: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aPoints = point: 0; games: 1; sets: 0 
+5/31/2022 13:44:49: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aServing = serving:1
+5/31/2022 13:44:49: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bPoints = point: 0; games: 1; sets: 0 
+5/31/2022 13:44:49: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bServing = serving:0
+5/31/2022 13:44:49: [G_Auto 2] :  Store Value (Shared) for market: price = 1.96
+5/31/2022 13:44:49: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 10.2
+5/31/2022 13:44:49: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 12.12
+5/31/2022 13:44:49: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.2
+5/31/2022 13:44:49: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 22.32
+5/31/2022 13:44:49: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.88
+5/31/2022 13:44:49: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.04
+5/31/2022 13:44:49: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.96
+5/31/2022 13:44:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 13:45:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 13:45:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 13:45:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 13:48:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 13:48:30: [G_Auto 1] :  € 11.76 Lay bet placed on Viktoriya Tomova at 1.68. Fully matched at 1.68.  Ref: 10040          ( Fill or kill bet with 15 seconds delay.   )
+5/31/2022 13:48:31: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aPoints = point: 0; games: 1; sets: 0 
+5/31/2022 13:48:31: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aServing = serving:0
+5/31/2022 13:48:31: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bPoints = point: 0; games: 2; sets: 0 
+5/31/2022 13:48:31: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bServing = serving:2
+5/31/2022 13:48:31: [G_Auto 2] :  Store Value (Shared) for market: price = 1.68
+5/31/2022 13:48:31: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 10.2
+5/31/2022 13:48:31: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 23.88
+5/31/2022 13:48:31: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.76
+5/31/2022 13:48:31: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 34.08
+5/31/2022 13:48:31: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.81
+5/31/2022 13:48:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.4
+5/31/2022 13:48:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.68
+5/31/2022 13:48:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 13:48:37: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aPoints = point: 0; games: 1; sets: 0 
+5/31/2022 13:48:37: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aServing = serving:0
+5/31/2022 13:48:37: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bPoints = point: 0; games: 2; sets: 0 
+5/31/2022 13:48:37: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bServing = serving:2
+5/31/2022 13:48:37: [G_Auto 2] :  Store Value (Shared) for market: price = 1.68
+5/31/2022 13:48:37: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 10.2
+5/31/2022 13:48:37: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 23.88
+5/31/2022 13:48:37: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.76
+5/31/2022 13:48:37: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 34.08
+5/31/2022 13:48:37: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.81
+5/31/2022 13:48:37: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.4
+5/31/2022 13:48:37: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.68
+5/31/2022 13:48:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 13:49:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 13:49:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 13:49:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 13:49:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 13:50:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 13:50:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 13:50:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 13:53:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 13:53:25: [G_Auto 1] :  Placed closure bet with greening on Viktoriya Tomova by Backing 10.08 at 1.96
+5/31/2022 13:53:26: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aPoints = point: 0; games: 2; sets: 0 
+5/31/2022 13:53:26: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aServing = serving:1
+5/31/2022 13:53:26: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bPoints = point: 0; games: 2; sets: 0 
+5/31/2022 13:53:26: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bServing = serving:0
+5/31/2022 13:53:26: [G_Auto 2] :  Store Value (Shared) for market: price = 1.97
+5/31/2022 13:53:26: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 20.28
+5/31/2022 13:53:26: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 23.88
+5/31/2022 13:53:26: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.08
+5/31/2022 13:53:26: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 44.16
+5/31/2022 13:53:26: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.58
+5/31/2022 13:53:26: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.1
+5/31/2022 13:53:26: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.96
+5/31/2022 13:53:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 13:53:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 13:53:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 13:54:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 13:55:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 13:55:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 13:55:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 13:56:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 13:56:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 13:56:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 13:56:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 13:57:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 13:57:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 13:57:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 14:02:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:02:46: [G_Auto 1] :  € 8.42 Lay bet placed on Oksana Selekhmeteva at 1.95. Fully matched at 1.94.  Ref: 10046          ( Fill or kill bet with 15 seconds delay.   )
+5/31/2022 14:02:47: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aPoints = point: 0; games: 3; sets: 0 
+5/31/2022 14:02:47: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aServing = serving:1
+5/31/2022 14:02:47: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bPoints = point: 0; games: 3; sets: 0 
+5/31/2022 14:02:47: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bServing = serving:0
+5/31/2022 14:02:47: [G_Auto 2] :  Store Value (Shared) for market: price = 1.94
+5/31/2022 14:02:47: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 20.28
+5/31/2022 14:02:47: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 32.3
+5/31/2022 14:02:47: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.42
+5/31/2022 14:02:47: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 52.58
+5/31/2022 14:02:47: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.53
+5/31/2022 14:02:47: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.93
+5/31/2022 14:02:47: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.08
+5/31/2022 14:02:49: [G_Auto 1] :  Placed closure bet with greening on Viktoriya Tomova by Laying 0.05 at 2.08
+5/31/2022 14:02:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:02:52: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aPoints = point: 0; games: 3; sets: 0 
+5/31/2022 14:02:52: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aServing = serving:1
+5/31/2022 14:02:52: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bPoints = point: 0; games: 3; sets: 0 
+5/31/2022 14:02:52: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bServing = serving:0
+5/31/2022 14:02:52: [G_Auto 2] :  Store Value (Shared) for market: price = 2.08
+5/31/2022 14:02:52: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 20.28
+5/31/2022 14:02:52: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 32.35
+5/31/2022 14:02:52: [G_Auto 2] :  Store Value (Shared) for market: stake = 0.05
+5/31/2022 14:02:52: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 52.63
+5/31/2022 14:02:52: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.54
+5/31/2022 14:02:52: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.93
+5/31/2022 14:02:52: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.08
+5/31/2022 14:02:57: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aPoints = point: 0; games: 3; sets: 0 
+5/31/2022 14:02:57: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aServing = serving:1
+5/31/2022 14:02:57: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bPoints = point: 0; games: 3; sets: 0 
+5/31/2022 14:02:57: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bServing = serving:0
+5/31/2022 14:02:57: [G_Auto 2] :  Store Value (Shared) for market: price = 2.08
+5/31/2022 14:02:57: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 20.28
+5/31/2022 14:02:57: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 32.35
+5/31/2022 14:02:57: [G_Auto 2] :  Store Value (Shared) for market: stake = 0.05
+5/31/2022 14:02:57: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 52.63
+5/31/2022 14:02:57: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.49
+5/31/2022 14:02:57: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.93
+5/31/2022 14:02:57: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.08
+5/31/2022 14:03:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:03:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:03:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 14:03:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 14:08:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:09:04: [G_Auto 1] :  Placed closure bet with greening on Oksana Selekhmeteva by Backing 10.02 at 1.63
+5/31/2022 14:09:05: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aPoints = point: 0; games: 4; sets: 0 
+5/31/2022 14:09:05: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aServing = serving:0
+5/31/2022 14:09:05: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bPoints = point: 0; games: 3; sets: 0 
+5/31/2022 14:09:05: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bServing = serving:2
+5/31/2022 14:09:05: [G_Auto 2] :  Store Value (Shared) for market: price = 1.64
+5/31/2022 14:09:05: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 30.3
+5/31/2022 14:09:05: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 32.35
+5/31/2022 14:09:05: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.02
+5/31/2022 14:09:05: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 62.65
+5/31/2022 14:09:05: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.07
+5/31/2022 14:09:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.63
+5/31/2022 14:09:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.28
+5/31/2022 14:09:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:09:10: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aPoints = point: 0; games: 4; sets: 0 
+5/31/2022 14:09:10: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aServing = serving:0
+5/31/2022 14:09:10: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bPoints = point: 0; games: 3; sets: 0 
+5/31/2022 14:09:10: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bServing = serving:2
+5/31/2022 14:09:10: [G_Auto 2] :  Store Value (Shared) for market: price = 1.64
+5/31/2022 14:09:10: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 30.3
+5/31/2022 14:09:10: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 32.35
+5/31/2022 14:09:10: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.02
+5/31/2022 14:09:10: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 62.65
+5/31/2022 14:09:10: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.07
+5/31/2022 14:09:10: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.66
+5/31/2022 14:09:10: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.5
+5/31/2022 14:09:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:09:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:09:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:10:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:10:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:10:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 14:10:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 14:12:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:13:05: [G_Auto 1] :  € 8.25 Lay bet placed on Oksana Selekhmeteva at 1.97. Entirely unmatched when it initially reached the market.   Ref: 10052          ( Fill or kill bet with 15 seconds delay.   )
+5/31/2022 14:13:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:13:20: [G_Auto 1] :  € 8.25 unmatched bet (Ref:10052) was killed.
+5/31/2022 14:13:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:13:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:13:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 14:14:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 14:16:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:16:57: [G_Auto 1] :  Placed closure bet with greening on Oksana Selekhmeteva by Laying 0.06 at 1.61
+5/31/2022 14:16:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:16:57: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aPoints = point: 0; games: 5; sets: 0 
+5/31/2022 14:16:57: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aServing = serving:0
+5/31/2022 14:16:57: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bPoints = point: 0; games: 4; sets: 0 
+5/31/2022 14:16:57: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bServing = serving:2
+5/31/2022 14:16:57: [G_Auto 2] :  Store Value (Shared) for market: price = 1.61
+5/31/2022 14:16:57: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 30.3
+5/31/2022 14:16:57: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 32.41
+5/31/2022 14:16:57: [G_Auto 2] :  Store Value (Shared) for market: stake = 0.06
+5/31/2022 14:16:57: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 62.71
+5/31/2022 14:16:57: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.07
+5/31/2022 14:16:57: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.58
+5/31/2022 14:16:57: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.36
+5/31/2022 14:17:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:17:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:17:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:17:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:18:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:18:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 14:18:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 14:21:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:22:10: [G_Auto 1] :  € 8.42 Lay bet placed on Oksana Selekhmeteva at 1.95. Entirely unmatched when it initially reached the market.   Ref: 10056          ( Fill or kill bet with 15 seconds delay.   )
+5/31/2022 14:22:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:22:26: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aPoints = point: 0; games: 5; sets: 0 
+5/31/2022 14:22:26: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aServing = serving:1
+5/31/2022 14:22:26: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bPoints = point: 0; games: 5; sets: 0 
+5/31/2022 14:22:26: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bServing = serving:0
+5/31/2022 14:22:26: [G_Auto 2] :  Store Value (Shared) for market: price = 1.95
+5/31/2022 14:22:26: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 30.3
+5/31/2022 14:22:26: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 40.83
+5/31/2022 14:22:26: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.42
+5/31/2022 14:22:26: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 71.13
+5/31/2022 14:22:26: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.94
+5/31/2022 14:22:26: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.92
+5/31/2022 14:22:26: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.02
+5/31/2022 14:22:26: [G_Auto 1] :  € 8.42 of unmatched bet (Ref:10056) was filled before remainder was killed.
+5/31/2022 14:22:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:22:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:22:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 14:23:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 14:23:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 14:27:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:28:04: [G_Auto 1] :  Placed closure bet with greening on Oksana Selekhmeteva by Backing 10.26 at 1.6
+5/31/2022 14:28:04: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aPoints = point: 0; games: 6; sets: 0 
+5/31/2022 14:28:04: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aServing = serving:0
+5/31/2022 14:28:04: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bPoints = point: 0; games: 5; sets: 0 
+5/31/2022 14:28:04: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bServing = serving:2
+5/31/2022 14:28:04: [G_Auto 2] :  Store Value (Shared) for market: price = 1.6
+5/31/2022 14:28:04: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 40.56
+5/31/2022 14:28:04: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 40.83
+5/31/2022 14:28:04: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.26
+5/31/2022 14:28:04: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 81.39
+5/31/2022 14:28:04: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.26
+5/31/2022 14:28:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.63
+5/31/2022 14:28:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.26
+5/31/2022 14:28:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:28:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:28:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:28:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:29:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:29:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:29:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 14:30:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:30:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:31:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:31:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:31:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 14:31:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 14:32:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 14:32:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 14:32:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 14:32:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 14:33:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 14:33:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 14:33:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 14:33:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 14:34:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 14:34:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 14:34:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 14:34:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 14:35:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 14:35:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 14:35:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 14:35:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 14:36:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 14:36:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 14:36:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 14:36:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 14:37:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 14:37:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 14:37:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 14:37:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:37:59: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 3.9
+5/31/2022 14:37:59: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 1.35
+5/31/2022 14:38:03: [G_Auto 1] :  € 24.24 Lay bet placed on Viktoriya Tomova at 1.33. Entirely unmatched when it initially reached the market.   Ref: 10064          ( Fill or kill bet with 15 seconds delay.   )
+5/31/2022 14:38:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:38:11: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aPoints = point: 0; games: 0; sets: 0 
+5/31/2022 14:38:11: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aServing = serving:0
+5/31/2022 14:38:11: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bPoints = point: 0; games: 0; sets: 1 
+5/31/2022 14:38:11: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bServing = serving:2
+5/31/2022 14:38:11: [G_Auto 2] :  Store Value (Shared) for market: price = 1.33
+5/31/2022 14:38:11: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 40.56
+5/31/2022 14:38:11: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 58.99
+5/31/2022 14:38:11: [G_Auto 2] :  Store Value (Shared) for market: stake = 18.16
+5/31/2022 14:38:11: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 99.55
+5/31/2022 14:38:11: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.25
+5/31/2022 14:38:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4
+5/31/2022 14:38:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.34
+5/31/2022 14:38:17: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aPoints = point: 0; games: 0; sets: 0 
+5/31/2022 14:38:17: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aServing = serving:0
+5/31/2022 14:38:17: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bPoints = point: 0; games: 0; sets: 1 
+5/31/2022 14:38:17: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bServing = serving:2
+5/31/2022 14:38:17: [G_Auto 2] :  Store Value (Shared) for market: price = 1.33
+5/31/2022 14:38:17: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 40.56
+5/31/2022 14:38:17: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 58.99
+5/31/2022 14:38:17: [G_Auto 2] :  Store Value (Shared) for market: stake = 18.16
+5/31/2022 14:38:17: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 99.55
+5/31/2022 14:38:17: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.25
+5/31/2022 14:38:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.95
+5/31/2022 14:38:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.34
+5/31/2022 14:38:19: [G_Auto 1] :  € 18.16 of unmatched bet (Ref:10064) was filled before remainder was killed.
+5/31/2022 14:38:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:38:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:38:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:39:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:39:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:39:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:39:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:40:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:40:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:40:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:40:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:41:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:41:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:41:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:41:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:42:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:42:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:42:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 14:42:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 14:43:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:43:56: [G_Auto 1] :  Placed closure bet with greening on Viktoriya Tomova by Backing 15.90 at 1.52
+5/31/2022 14:43:57: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aPoints = point: 0; games: 1; sets: 0 
+5/31/2022 14:43:57: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aServing = serving:1
+5/31/2022 14:43:57: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bPoints = point: 0; games: 0; sets: 1 
+5/31/2022 14:43:57: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bServing = serving:0
+5/31/2022 14:43:57: [G_Auto 2] :  Store Value (Shared) for market: price = 1.52
+5/31/2022 14:43:57: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 56.46
+5/31/2022 14:43:57: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 58.99
+5/31/2022 14:43:57: [G_Auto 2] :  Store Value (Shared) for market: stake = 15.9
+5/31/2022 14:43:57: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 115.45
+5/31/2022 14:43:57: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.48
+5/31/2022 14:43:57: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.92
+5/31/2022 14:43:57: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.52
+5/31/2022 14:44:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:44:03: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aPoints = point: 0; games: 1; sets: 0 
+5/31/2022 14:44:03: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aServing = serving:1
+5/31/2022 14:44:03: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bPoints = point: 0; games: 0; sets: 1 
+5/31/2022 14:44:03: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bServing = serving:0
+5/31/2022 14:44:03: [G_Auto 2] :  Store Value (Shared) for market: price = 1.52
+5/31/2022 14:44:03: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 56.46
+5/31/2022 14:44:03: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 58.99
+5/31/2022 14:44:03: [G_Auto 2] :  Store Value (Shared) for market: stake = 15.9
+5/31/2022 14:44:03: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 115.45
+5/31/2022 14:44:03: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.48
+5/31/2022 14:44:03: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.92
+5/31/2022 14:44:03: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.5
+5/31/2022 14:44:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:44:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:44:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:44:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 14:45:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 14:45:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 14:48:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:48:20: [G_Auto 1] :  € 23.53 Lay bet placed on Viktoriya Tomova at 1.34. Fully matched at 1.34.  Ref: 10069          ( Fill or kill bet with 15 seconds delay.   )
+5/31/2022 14:48:20: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aPoints = point: 0; games: 1; sets: 0 
+5/31/2022 14:48:20: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aServing = serving:0
+5/31/2022 14:48:20: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bPoints = point: 0; games: 1; sets: 1 
+5/31/2022 14:48:20: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bServing = serving:2
+5/31/2022 14:48:20: [G_Auto 2] :  Store Value (Shared) for market: price = 1.34
+5/31/2022 14:48:20: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 56.46
+5/31/2022 14:48:20: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 82.52
+5/31/2022 14:48:20: [G_Auto 2] :  Store Value (Shared) for market: stake = 23.53
+5/31/2022 14:48:20: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 138.98
+5/31/2022 14:48:20: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.14
+5/31/2022 14:48:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4
+5/31/2022 14:48:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.34
+5/31/2022 14:48:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:48:25: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aPoints = point: 0; games: 1; sets: 0 
+5/31/2022 14:48:25: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aServing = serving:0
+5/31/2022 14:48:25: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bPoints = point: 0; games: 1; sets: 1 
+5/31/2022 14:48:25: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bServing = serving:2
+5/31/2022 14:48:25: [G_Auto 2] :  Store Value (Shared) for market: price = 1.34
+5/31/2022 14:48:25: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 56.46
+5/31/2022 14:48:25: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 82.52
+5/31/2022 14:48:25: [G_Auto 2] :  Store Value (Shared) for market: stake = 23.53
+5/31/2022 14:48:25: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 138.98
+5/31/2022 14:48:25: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.14
+5/31/2022 14:48:25: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.9
+5/31/2022 14:48:25: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.34
+5/31/2022 14:48:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:48:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 14:48:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 14:49:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 14:52:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:52:55: [G_Auto 1] :  Placed closure bet with greening on Viktoriya Tomova by Backing 25.84 at 1.22
+5/31/2022 14:52:55: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aPoints = point: 0; games: 1; sets: 0 
+5/31/2022 14:52:55: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aServing = serving:1
+5/31/2022 14:52:55: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bPoints = point: 0; games: 2; sets: 1 
+5/31/2022 14:52:55: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bServing = serving:0
+5/31/2022 14:52:55: [G_Auto 2] :  Store Value (Shared) for market: price = 1.22
+5/31/2022 14:52:55: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 82.3
+5/31/2022 14:52:55: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 82.52
+5/31/2022 14:52:55: [G_Auto 2] :  Store Value (Shared) for market: stake = 25.84
+5/31/2022 14:52:55: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 164.82
+5/31/2022 14:52:55: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.22
+5/31/2022 14:52:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 5.3
+5/31/2022 14:52:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.23
+5/31/2022 14:52:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:53:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:53:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:53:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:54:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:54:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:54:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:54:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:54:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 14:55:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 14:57:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:57:29: [G_Auto 1] :  € 21.62 Lay bet placed on Viktoriya Tomova at 1.37. Fully matched at 1.36.  Ref: 10077          ( Fill or kill bet with 15 seconds delay.   )
+5/31/2022 14:57:30: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aPoints = point: 0; games: 2; sets: 0 
+5/31/2022 14:57:30: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aServing = serving:0
+5/31/2022 14:57:30: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bPoints = point: 0; games: 2; sets: 1 
+5/31/2022 14:57:30: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bServing = serving:2
+5/31/2022 14:57:30: [G_Auto 2] :  Store Value (Shared) for market: price = 1.36
+5/31/2022 14:57:30: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 82.3
+5/31/2022 14:57:30: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 104.14
+5/31/2022 14:57:30: [G_Auto 2] :  Store Value (Shared) for market: stake = 21.62
+5/31/2022 14:57:30: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 186.44
+5/31/2022 14:57:30: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.1
+5/31/2022 14:57:30: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.3
+5/31/2022 14:57:30: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.35
+5/31/2022 14:57:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:57:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:58:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 14:58:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 14:58:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 15:01:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:01:54: [G_Auto 1] :  Placed closure bet with greening on Viktoriya Tomova by Backing 18.38 at 1.6
+5/31/2022 15:01:54: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aPoints = point: 0; games: 3; sets: 0 
+5/31/2022 15:01:54: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aServing = serving:1
+5/31/2022 15:01:54: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bPoints = point: 0; games: 2; sets: 1 
+5/31/2022 15:01:54: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bServing = serving:0
+5/31/2022 15:01:54: [G_Auto 2] :  Store Value (Shared) for market: price = 1.6
+5/31/2022 15:01:54: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 100.68
+5/31/2022 15:01:54: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 104.14
+5/31/2022 15:01:54: [G_Auto 2] :  Store Value (Shared) for market: stake = 18.38
+5/31/2022 15:01:54: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 204.82
+5/31/2022 15:01:54: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.39
+5/31/2022 15:01:54: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.7
+5/31/2022 15:01:54: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.6
+5/31/2022 15:01:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:02:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:02:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:02:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:02:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:03:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:03:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:03:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 15:06:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:06:17: [G_Auto 1] :  € 9.20 Lay bet placed on Viktoriya Tomova at 1.87. Fully matched at 1.86.  Ref: 10085          ( Fill or kill bet with 15 seconds delay.   )
+5/31/2022 15:06:18: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aPoints = point: 0; games: 4; sets: 0 
+5/31/2022 15:06:18: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aServing = serving:0
+5/31/2022 15:06:18: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bPoints = point: 0; games: 2; sets: 1 
+5/31/2022 15:06:18: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bServing = serving:2
+5/31/2022 15:06:18: [G_Auto 2] :  Store Value (Shared) for market: price = 1.86
+5/31/2022 15:06:18: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 100.68
+5/31/2022 15:06:18: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 113.34
+5/31/2022 15:06:18: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.2
+5/31/2022 15:06:18: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 214.02
+5/31/2022 15:06:18: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.34
+5/31/2022 15:06:18: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.18
+5/31/2022 15:06:18: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.85
+5/31/2022 15:06:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:06:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:06:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 15:07:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 15:07:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 15:12:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:12:18: [G_Auto 1] :  Placed closure bet with greening on Viktoriya Tomova by Backing 10.63 at 1.61
+5/31/2022 15:12:19: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aPoints = point: 0; games: 4; sets: 0 
+5/31/2022 15:12:19: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aServing = serving:1
+5/31/2022 15:12:19: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bPoints = point: 0; games: 3; sets: 1 
+5/31/2022 15:12:19: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bServing = serving:0
+5/31/2022 15:12:19: [G_Auto 2] :  Store Value (Shared) for market: price = 1.64
+5/31/2022 15:12:19: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 111.31
+5/31/2022 15:12:19: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 113.34
+5/31/2022 15:12:19: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.63
+5/31/2022 15:12:19: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 224.65
+5/31/2022 15:12:19: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.19
+5/31/2022 15:12:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.64
+5/31/2022 15:12:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.63
+5/31/2022 15:12:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:12:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:12:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:13:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:13:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:13:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:13:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:14:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 15:14:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 15:14:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 15:14:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 15:16:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:16:19: [G_Auto 1] :  € 24.24 Lay bet placed on Viktoriya Tomova at 1.33. Fully matched at 1.33.  Ref: 10092          ( Fill or kill bet with 15 seconds delay.   )
+5/31/2022 15:16:19: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aPoints = point: 0; games: 4; sets: 0 
+5/31/2022 15:16:19: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aServing = serving:0
+5/31/2022 15:16:19: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bPoints = point: 0; games: 4; sets: 1 
+5/31/2022 15:16:19: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bServing = serving:2
+5/31/2022 15:16:19: [G_Auto 2] :  Store Value (Shared) for market: price = 1.33
+5/31/2022 15:16:19: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 111.31
+5/31/2022 15:16:19: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 137.58
+5/31/2022 15:16:19: [G_Auto 2] :  Store Value (Shared) for market: stake = 24.24
+5/31/2022 15:16:19: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 248.89
+5/31/2022 15:16:19: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.05
+5/31/2022 15:16:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.75
+5/31/2022 15:16:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.33
+5/31/2022 15:16:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:16:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:16:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:17:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 15:17:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 15:17:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 15:20:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:21:08: [G_Auto 1] :  Placed closure bet with greening on Viktoriya Tomova by Backing 19.00 at 1.68
+5/31/2022 15:21:08: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aPoints = point: 0; games: 5; sets: 0 
+5/31/2022 15:21:08: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aServing = serving:1
+5/31/2022 15:21:08: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bPoints = point: 0; games: 4; sets: 1 
+5/31/2022 15:21:08: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bServing = serving:0
+5/31/2022 15:21:08: [G_Auto 2] :  Store Value (Shared) for market: price = 1.69
+5/31/2022 15:21:08: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 130.31
+5/31/2022 15:21:08: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 137.58
+5/31/2022 15:21:08: [G_Auto 2] :  Store Value (Shared) for market: stake = 19
+5/31/2022 15:21:08: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 267.89
+5/31/2022 15:21:08: [G_Auto 2] :  Store Value (Shared) for market: pl = 7.23
+5/31/2022 15:21:08: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.46
+5/31/2022 15:21:08: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.69
+5/31/2022 15:21:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:21:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:21:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:21:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:22:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:22:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:22:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:22:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 15:23:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 15:23:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 15:25:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:25:49: [G_Auto 2] :  Store Value (Shared) for market: aSecondSetPrice = 1.89
+5/31/2022 15:25:49: [G_Auto 2] :  Store Value (Shared) for market: bSecondSetPrice = 2.12
+5/31/2022 15:25:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:26:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:26:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:26:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:26:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:27:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:27:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:27:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:27:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:28:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:28:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:28:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:29:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:29:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:29:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:29:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:30:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:30:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:30:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:30:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 15:30:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 15:31:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 15:35:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:35:19: [G_Auto 1] :  € 16.67 Lay bet placed on Oksana Selekhmeteva at 1.48. Fully matched at 1.48.  Ref: 10104          ( Fill or kill bet with 15 seconds delay.   )
+5/31/2022 15:35:19: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aPoints = point: 0; games: 1; sets: 1 
+5/31/2022 15:35:19: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aServing = serving:1
+5/31/2022 15:35:19: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bPoints = point: 0; games: 0; sets: 1 
+5/31/2022 15:35:19: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bServing = serving:0
+5/31/2022 15:35:19: [G_Auto 2] :  Store Value (Shared) for market: price = 1.48
+5/31/2022 15:35:19: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 130.31
+5/31/2022 15:35:19: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 154.25
+5/31/2022 15:35:19: [G_Auto 2] :  Store Value (Shared) for market: stake = 16.67
+5/31/2022 15:35:19: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 284.56
+5/31/2022 15:35:19: [G_Auto 2] :  Store Value (Shared) for market: pl = 6.96
+5/31/2022 15:35:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.48
+5/31/2022 15:35:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.1
+5/31/2022 15:35:22: [G_Auto 1] :  Placed closure bet with greening on Viktoriya Tomova by Laying 0.06 at 3.2
+5/31/2022 15:35:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:35:24: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aPoints = point: 0; games: 1; sets: 1 
+5/31/2022 15:35:24: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aServing = serving:1
+5/31/2022 15:35:24: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bPoints = point: 0; games: 0; sets: 1 
+5/31/2022 15:35:24: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bServing = serving:0
+5/31/2022 15:35:24: [G_Auto 2] :  Store Value (Shared) for market: price = 3.2
+5/31/2022 15:35:24: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 130.31
+5/31/2022 15:35:24: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 154.31
+5/31/2022 15:35:24: [G_Auto 2] :  Store Value (Shared) for market: stake = 0.06
+5/31/2022 15:35:24: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 284.62
+5/31/2022 15:35:24: [G_Auto 2] :  Store Value (Shared) for market: pl = 7.08
+5/31/2022 15:35:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.48
+5/31/2022 15:35:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.1
+5/31/2022 15:35:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:35:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:36:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:36:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:36:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:36:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 15:37:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 15:41:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:41:23: [G_Auto 1] :  Placed closure bet with greening on Oksana Selekhmeteva by Backing 12.85 at 1.92
+5/31/2022 15:41:24: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aPoints = point: 0; games: 1; sets: 1 
+5/31/2022 15:41:24: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aServing = serving:0
+5/31/2022 15:41:24: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bPoints = point: 0; games: 1; sets: 1 
+5/31/2022 15:41:24: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bServing = serving:2
+5/31/2022 15:41:24: [G_Auto 2] :  Store Value (Shared) for market: price = 1.92
+5/31/2022 15:41:24: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 143.16
+5/31/2022 15:41:24: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 154.31
+5/31/2022 15:41:24: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.85
+5/31/2022 15:41:24: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 297.47
+5/31/2022 15:41:24: [G_Auto 2] :  Store Value (Shared) for market: pl = 10.93
+5/31/2022 15:41:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.92
+5/31/2022 15:41:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.12
+5/31/2022 15:41:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:41:29: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aPoints = point: 0; games: 1; sets: 1 
+5/31/2022 15:41:29: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aServing = serving:0
+5/31/2022 15:41:29: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bPoints = point: 0; games: 1; sets: 1 
+5/31/2022 15:41:29: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bServing = serving:2
+5/31/2022 15:41:29: [G_Auto 2] :  Store Value (Shared) for market: price = 1.92
+5/31/2022 15:41:29: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 143.16
+5/31/2022 15:41:29: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 154.31
+5/31/2022 15:41:29: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.85
+5/31/2022 15:41:29: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 297.47
+5/31/2022 15:41:29: [G_Auto 2] :  Store Value (Shared) for market: pl = 10.93
+5/31/2022 15:41:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.91
+5/31/2022 15:41:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.1
+5/31/2022 15:41:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:41:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:42:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:42:16: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 15:42:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 15:44:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:44:34: [G_Auto 1] :  € 16.33 Lay bet placed on Oksana Selekhmeteva at 1.49. Fully matched at 1.49.  Ref: 10108          ( Fill or kill bet with 15 seconds delay.   )
+5/31/2022 15:44:34: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aPoints = point: 0; games: 2; sets: 1 
+5/31/2022 15:44:34: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aServing = serving:1
+5/31/2022 15:44:34: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bPoints = point: 0; games: 1; sets: 1 
+5/31/2022 15:44:34: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bServing = serving:0
+5/31/2022 15:44:34: [G_Auto 2] :  Store Value (Shared) for market: price = 1.49
+5/31/2022 15:44:34: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 143.16
+5/31/2022 15:44:34: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 170.64
+5/31/2022 15:44:34: [G_Auto 2] :  Store Value (Shared) for market: stake = 16.33
+5/31/2022 15:44:34: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 313.8
+5/31/2022 15:44:34: [G_Auto 2] :  Store Value (Shared) for market: pl = 10.71
+5/31/2022 15:44:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.49
+5/31/2022 15:44:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3
+5/31/2022 15:44:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:44:40: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aPoints = point: 0; games: 2; sets: 1 
+5/31/2022 15:44:40: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aServing = serving:1
+5/31/2022 15:44:40: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bPoints = point: 0; games: 1; sets: 1 
+5/31/2022 15:44:40: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bServing = serving:0
+5/31/2022 15:44:40: [G_Auto 2] :  Store Value (Shared) for market: price = 1.49
+5/31/2022 15:44:40: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 143.16
+5/31/2022 15:44:40: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 170.64
+5/31/2022 15:44:40: [G_Auto 2] :  Store Value (Shared) for market: stake = 16.33
+5/31/2022 15:44:40: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 313.8
+5/31/2022 15:44:40: [G_Auto 2] :  Store Value (Shared) for market: pl = 10.71
+5/31/2022 15:44:40: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.49
+5/31/2022 15:44:40: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3
+5/31/2022 15:44:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:45:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:45:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:45:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:45:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:46:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:46:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 15:46:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 15:46:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 15:47:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:48:05: [G_Auto 1] :  Placed closure bet with greening on Oksana Selekhmeteva by Backing 12.35 at 1.97
+5/31/2022 15:48:05: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aPoints = point: 0; games: 2; sets: 1 
+5/31/2022 15:48:05: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aServing = serving:0
+5/31/2022 15:48:05: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bPoints = point: 0; games: 2; sets: 1 
+5/31/2022 15:48:05: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bServing = serving:2
+5/31/2022 15:48:05: [G_Auto 2] :  Store Value (Shared) for market: price = 1.97
+5/31/2022 15:48:05: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 155.51
+5/31/2022 15:48:05: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 170.64
+5/31/2022 15:48:05: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.35
+5/31/2022 15:48:05: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 326.15
+5/31/2022 15:48:05: [G_Auto 2] :  Store Value (Shared) for market: pl = 14.83
+5/31/2022 15:48:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.98
+5/31/2022 15:48:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.02
+5/31/2022 15:48:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:48:11: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aPoints = point: 0; games: 2; sets: 1 
+5/31/2022 15:48:11: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aServing = serving:0
+5/31/2022 15:48:11: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bPoints = point: 0; games: 2; sets: 1 
+5/31/2022 15:48:11: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bServing = serving:2
+5/31/2022 15:48:11: [G_Auto 2] :  Store Value (Shared) for market: price = 1.97
+5/31/2022 15:48:11: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 155.51
+5/31/2022 15:48:11: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 170.64
+5/31/2022 15:48:11: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.35
+5/31/2022 15:48:11: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 326.15
+5/31/2022 15:48:11: [G_Auto 2] :  Store Value (Shared) for market: pl = 14.83
+5/31/2022 15:48:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.98
+5/31/2022 15:48:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.02
+5/31/2022 15:48:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:48:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 15:48:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 15:49:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:50:06: [G_Auto 1] :  € 17.02 Lay bet placed on Oksana Selekhmeteva at 1.47. Fully matched at 1.46.  Ref: 10113          ( Fill or kill bet with 15 seconds delay.   )
+5/31/2022 15:50:06: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aPoints = point: 0; games: 3; sets: 1 
+5/31/2022 15:50:06: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aServing = serving:1
+5/31/2022 15:50:06: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bPoints = point: 0; games: 2; sets: 1 
+5/31/2022 15:50:06: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bServing = serving:0
+5/31/2022 15:50:06: [G_Auto 2] :  Store Value (Shared) for market: price = 1.46
+5/31/2022 15:50:06: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 155.51
+5/31/2022 15:50:06: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 187.66
+5/31/2022 15:50:06: [G_Auto 2] :  Store Value (Shared) for market: stake = 17.02
+5/31/2022 15:50:06: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 343.17
+5/31/2022 15:50:06: [G_Auto 2] :  Store Value (Shared) for market: pl = 14.71
+5/31/2022 15:50:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.46
+5/31/2022 15:50:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.15
+5/31/2022 15:50:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:50:11: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aPoints = point: 0; games: 3; sets: 1 
+5/31/2022 15:50:11: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aServing = serving:1
+5/31/2022 15:50:11: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bPoints = point: 0; games: 2; sets: 1 
+5/31/2022 15:50:11: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bServing = serving:0
+5/31/2022 15:50:11: [G_Auto 2] :  Store Value (Shared) for market: price = 1.46
+5/31/2022 15:50:11: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 155.51
+5/31/2022 15:50:11: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 187.66
+5/31/2022 15:50:11: [G_Auto 2] :  Store Value (Shared) for market: stake = 17.02
+5/31/2022 15:50:11: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 343.17
+5/31/2022 15:50:11: [G_Auto 2] :  Store Value (Shared) for market: pl = 14.59
+5/31/2022 15:50:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.46
+5/31/2022 15:50:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.15
+5/31/2022 15:50:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:50:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:50:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:51:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:51:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:51:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 15:51:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 15:54:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:54:48: [G_Auto 1] :  Placed closure bet with greening on Oksana Selekhmeteva by Backing 20.88 at 1.19
+5/31/2022 15:54:48: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aPoints = point: 0; games: 4; sets: 1 
+5/31/2022 15:54:48: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aServing = serving:0
+5/31/2022 15:54:48: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bPoints = point: 0; games: 2; sets: 1 
+5/31/2022 15:54:48: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bServing = serving:2
+5/31/2022 15:54:48: [G_Auto 2] :  Store Value (Shared) for market: price = 1.19
+5/31/2022 15:54:48: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 176.39
+5/31/2022 15:54:48: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 187.66
+5/31/2022 15:54:48: [G_Auto 2] :  Store Value (Shared) for market: stake = 20.88
+5/31/2022 15:54:48: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 364.05
+5/31/2022 15:54:48: [G_Auto 2] :  Store Value (Shared) for market: pl = 11.03
+5/31/2022 15:54:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.2
+5/31/2022 15:54:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 6
+5/31/2022 15:54:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:55:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:55:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:55:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 15:55:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 15:56:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 15:57:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:58:02: [G_Auto 1] :  € 19.51 Lay bet placed on Oksana Selekhmeteva at 1.41. Fully matched at 1.41.  Ref: 10116          ( Fill or kill bet with 15 seconds delay.   )
+5/31/2022 15:58:02: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aPoints = point: 0; games: 4; sets: 1 
+5/31/2022 15:58:02: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aServing = serving:1
+5/31/2022 15:58:02: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bPoints = point: 0; games: 3; sets: 1 
+5/31/2022 15:58:02: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bServing = serving:0
+5/31/2022 15:58:02: [G_Auto 2] :  Store Value (Shared) for market: price = 1.41
+5/31/2022 15:58:02: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 176.39
+5/31/2022 15:58:02: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 207.17
+5/31/2022 15:58:02: [G_Auto 2] :  Store Value (Shared) for market: stake = 19.51
+5/31/2022 15:58:02: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 383.56
+5/31/2022 15:58:02: [G_Auto 2] :  Store Value (Shared) for market: pl = 10.91
+5/31/2022 15:58:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.4
+5/31/2022 15:58:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.4
+5/31/2022 15:58:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:58:08: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aPoints = point: 0; games: 4; sets: 1 
+5/31/2022 15:58:08: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aServing = serving:1
+5/31/2022 15:58:08: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bPoints = point: 0; games: 3; sets: 1 
+5/31/2022 15:58:08: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bServing = serving:0
+5/31/2022 15:58:08: [G_Auto 2] :  Store Value (Shared) for market: price = 1.41
+5/31/2022 15:58:08: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 176.39
+5/31/2022 15:58:08: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 207.17
+5/31/2022 15:58:08: [G_Auto 2] :  Store Value (Shared) for market: stake = 19.51
+5/31/2022 15:58:08: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 383.56
+5/31/2022 15:58:08: [G_Auto 2] :  Store Value (Shared) for market: pl = 10.77
+5/31/2022 15:58:08: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.4
+5/31/2022 15:58:08: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.5
+5/31/2022 15:58:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:58:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:58:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:59:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:59:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:59:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 15:59:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 15:59:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 16:02:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 16:02:44: [G_Auto 1] :  Placed closure bet with greening on Oksana Selekhmeteva by Backing 14.11 at 1.95
+5/31/2022 16:02:44: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aPoints = point: 0; games: 4; sets: 1 
+5/31/2022 16:02:44: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aServing = serving:0
+5/31/2022 16:02:44: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bPoints = point: 0; games: 4; sets: 1 
+5/31/2022 16:02:44: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bServing = serving:2
+5/31/2022 16:02:44: [G_Auto 2] :  Store Value (Shared) for market: price = 1.96
+5/31/2022 16:02:44: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 190.5
+5/31/2022 16:02:44: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 207.17
+5/31/2022 16:02:44: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.11
+5/31/2022 16:02:44: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 397.67
+5/31/2022 16:02:44: [G_Auto 2] :  Store Value (Shared) for market: pl = 16.41
+5/31/2022 16:02:44: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.96
+5/31/2022 16:02:44: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.04
+5/31/2022 16:02:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 16:03:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 16:03:16: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 16:03:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 16:06:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 16:06:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 16:06:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 16:06:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 16:07:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 16:07:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 16:07:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 16:07:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 16:08:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 16:08:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 16:10:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 16:10:48: [G_Auto 1] :  Placed closure bet with greening on Oksana Selekhmeteva by Laying 0.07 at 1.99
+5/31/2022 16:10:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 16:10:48: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aPoints = point: 0; games: 5; sets: 1 
+5/31/2022 16:10:48: [G_Auto 2] :  Store Text Value (Shared) for Oksana Selekhmeteva: aServing = serving:0
+5/31/2022 16:10:48: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bPoints = point: 0; games: 5; sets: 1 
+5/31/2022 16:10:48: [G_Auto 2] :  Store Text Value (Shared) for Viktoriya Tomova: bServing = serving:2
+5/31/2022 16:10:48: [G_Auto 2] :  Store Value (Shared) for market: price = 1.98
+5/31/2022 16:10:48: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 190.5
+5/31/2022 16:10:48: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 207.24
+5/31/2022 16:10:48: [G_Auto 2] :  Store Value (Shared) for market: stake = 0.07
+5/31/2022 16:10:48: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 397.74
+5/31/2022 16:10:48: [G_Auto 2] :  Store Value (Shared) for market: pl = 16.41
+5/31/2022 16:10:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.98
+5/31/2022 16:10:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.02
+5/31/2022 16:11:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 16:11:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 16:11:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 16:11:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 16:13:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 16:14:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 16:14:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 16:14:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 16:14:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 16:15:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 16:15:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 16:15:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 16:15:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 16:16:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/31/2022 16:19:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 16:20:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/31/2022 16:20:17:  Guardian has detected that the market is suspended
