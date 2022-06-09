@@ -1,0 +1,308 @@
+5/23/2022 09:06:52: [G_Auto 2] :  Store Text Value (Shared) for Anna Bondar: info = marketName: Bondar v Kvitova - Match Odds; runnerA: Anna Bondar; runnerB: Petra Kvitova 
+5/23/2022 09:06:52: [G_Auto 2] :  Store Value (Shared) for market: aId = 9304685
+5/23/2022 09:06:52: [G_Auto 2] :  Store Value (Shared) for market: bId = 2497008
+5/23/2022 10:13:52:  Guardian has detected that the market is in-play
+5/23/2022 10:13:52:  Guardian has detected that the market is suspended
+5/23/2022 10:13:58: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 2.28; bBsp: 1.78; volume: 18879 
+5/23/2022 10:13:58: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 2.28; bBsp: 1.78; volume: 18879 
+5/23/2022 10:13:58:  Guardian has detected that the market is now unsuspended
+5/23/2022 10:14:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 10:14:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 10:14:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 10:14:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 10:16:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 10:16:45: [G_Auto 1] :  € 8.42 Lay bet placed on Petra Kvitova at 1.95. Entirely unmatched when it initially reached the market.   Ref: 10002          ( Fill or kill bet with 15 seconds delay.   )
+5/23/2022 10:16:52: [G_Auto 1] :  € 8.42 of unmatched bet (Ref:10002) was filled before remainder was killed.
+5/23/2022 10:16:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 10:16:52: [G_Auto 2] :  Store Text Value (Shared) for Anna Bondar: aPoints = point: 0; games: 1; sets: 0 
+5/23/2022 10:16:52: [G_Auto 2] :  Store Text Value (Shared) for Anna Bondar: aServing = serving:0
+5/23/2022 10:16:52: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bPoints = point: 0; games: 0; sets: 0 
+5/23/2022 10:16:52: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bServing = serving:2
+5/23/2022 10:16:52: [G_Auto 2] :  Store Value (Shared) for market: price = 1.95
+5/23/2022 10:16:52: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+5/23/2022 10:16:52: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 8.42
+5/23/2022 10:16:52: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.42
+5/23/2022 10:16:52: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 8.42
+5/23/2022 10:16:52: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.13
+5/23/2022 10:16:52: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.1
+5/23/2022 10:16:52: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.91
+5/23/2022 10:17:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 10:17:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 10:17:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 10:17:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 10:18:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 10:19:09: [G_Auto 1] :  Placed closure bet with greening on Petra Kvitova by Backing 9.44 at 1.74
+5/23/2022 10:19:11: [G_Auto 2] :  Store Text Value (Shared) for Anna Bondar: aPoints = point: 0; games: 1; sets: 0 
+5/23/2022 10:19:11: [G_Auto 2] :  Store Text Value (Shared) for Anna Bondar: aServing = serving:1
+5/23/2022 10:19:11: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bPoints = point: 0; games: 1; sets: 0 
+5/23/2022 10:19:11: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bServing = serving:0
+5/23/2022 10:19:11: [G_Auto 2] :  Store Value (Shared) for market: price = 1.74
+5/23/2022 10:19:11: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 9.44
+5/23/2022 10:19:11: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 8.42
+5/23/2022 10:19:11: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.44
+5/23/2022 10:19:11: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 17.86
+5/23/2022 10:19:11: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.02
+5/23/2022 10:19:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.32
+5/23/2022 10:19:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.73
+5/23/2022 10:19:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 10:19:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 10:19:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 10:20:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 10:23:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 10:23:44: [G_Auto 1] :  € 9.30 Lay bet placed on Petra Kvitova at 1.86. Fully matched at 1.85.  Ref: 10010          ( Fill or kill bet with 15 seconds delay.   )
+5/23/2022 10:23:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 10:23:46: [G_Auto 2] :  Store Text Value (Shared) for Anna Bondar: aPoints = point: 0; games: 2; sets: 0 
+5/23/2022 10:23:46: [G_Auto 2] :  Store Text Value (Shared) for Anna Bondar: aServing = serving:0
+5/23/2022 10:23:46: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bPoints = point: 0; games: 1; sets: 0 
+5/23/2022 10:23:46: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bServing = serving:2
+5/23/2022 10:23:46: [G_Auto 2] :  Store Value (Shared) for market: price = 1.85
+5/23/2022 10:23:46: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 9.44
+5/23/2022 10:23:46: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 17.72
+5/23/2022 10:23:46: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.3
+5/23/2022 10:23:46: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 27.16
+5/23/2022 10:23:46: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.07
+5/23/2022 10:23:46: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.2
+5/23/2022 10:23:46: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.84
+5/23/2022 10:23:51: [G_Auto 2] :  Store Text Value (Shared) for Anna Bondar: aPoints = point: 0; games: 2; sets: 0 
+5/23/2022 10:23:51: [G_Auto 2] :  Store Text Value (Shared) for Anna Bondar: aServing = serving:0
+5/23/2022 10:23:51: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bPoints = point: 0; games: 1; sets: 0 
+5/23/2022 10:23:51: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bServing = serving:2
+5/23/2022 10:23:51: [G_Auto 2] :  Store Value (Shared) for market: price = 1.85
+5/23/2022 10:23:51: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 9.44
+5/23/2022 10:23:51: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 17.72
+5/23/2022 10:23:51: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.3
+5/23/2022 10:23:51: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 27.16
+5/23/2022 10:23:51: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.07
+5/23/2022 10:23:51: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.16
+5/23/2022 10:23:51: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.84
+5/23/2022 10:24:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 10:24:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 10:24:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 10:24:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 10:25:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 10:25:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 10:25:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 10:29:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 10:29:38: [G_Auto 1] :  Placed closure bet with greening on Petra Kvitova by Backing 10.06 at 1.71
+5/23/2022 10:29:40: [G_Auto 2] :  Store Text Value (Shared) for Anna Bondar: aPoints = point: 0; games: 2; sets: 0 
+5/23/2022 10:29:40: [G_Auto 2] :  Store Text Value (Shared) for Anna Bondar: aServing = serving:1
+5/23/2022 10:29:40: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bPoints = point: 0; games: 2; sets: 0 
+5/23/2022 10:29:40: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bServing = serving:0
+5/23/2022 10:29:40: [G_Auto 2] :  Store Value (Shared) for market: price = 1.71
+5/23/2022 10:29:40: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 19.5
+5/23/2022 10:29:40: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 17.72
+5/23/2022 10:29:40: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.06
+5/23/2022 10:29:40: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 37.22
+5/23/2022 10:29:40: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.78
+5/23/2022 10:29:40: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.36
+5/23/2022 10:29:40: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.71
+5/23/2022 10:29:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 10:30:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 10:31:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 10:31:33: [G_Auto 1] :  € 8.16 Lay bet placed on Petra Kvitova at 1.98. Fully matched at 1.98.  Ref: 10022          ( Fill or kill bet with 15 seconds delay.   )
+5/23/2022 10:31:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 10:31:35: [G_Auto 2] :  Store Text Value (Shared) for Anna Bondar: aPoints = point: 0; games: 3; sets: 0 
+5/23/2022 10:31:35: [G_Auto 2] :  Store Text Value (Shared) for Anna Bondar: aServing = serving:0
+5/23/2022 10:31:35: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bPoints = point: 0; games: 2; sets: 0 
+5/23/2022 10:31:35: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bServing = serving:2
+5/23/2022 10:31:35: [G_Auto 2] :  Store Value (Shared) for market: price = 1.98
+5/23/2022 10:31:35: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 19.5
+5/23/2022 10:31:35: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 25.88
+5/23/2022 10:31:35: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.16
+5/23/2022 10:31:35: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 45.38
+5/23/2022 10:31:35: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.86
+5/23/2022 10:31:35: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.02
+5/23/2022 10:31:35: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.98
+5/23/2022 10:31:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 10:32:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 10:32:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 10:32:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 10:32:55: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 10:33:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 10:35:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 10:35:45: [G_Auto 1] :  Placed closure bet with greening on Petra Kvitova by Backing 5.61 at 2.88
+5/23/2022 10:35:45: [G_Auto 1] :  € 14.55 Lay bet placed on Anna Bondar at 1.55. Fully matched at 1.54.  Ref: 10031          ( Fill or kill bet with 15 seconds delay.   )
+5/23/2022 10:35:47: [G_Auto 2] :  Store Text Value (Shared) for Anna Bondar: aPoints = point: 0; games: 4; sets: 0 
+5/23/2022 10:35:47: [G_Auto 2] :  Store Text Value (Shared) for Anna Bondar: aServing = serving:1
+5/23/2022 10:35:47: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bPoints = point: 0; games: 2; sets: 0 
+5/23/2022 10:35:47: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bServing = serving:0
+5/23/2022 10:35:47: [G_Auto 2] :  Store Value (Shared) for market: price = 2.88
+5/23/2022 10:35:47: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 25.11
+5/23/2022 10:35:47: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 40.43
+5/23/2022 10:35:47: [G_Auto 2] :  Store Value (Shared) for market: stake = 5.61
+5/23/2022 10:35:47: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 65.54
+5/23/2022 10:35:47: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.66
+5/23/2022 10:35:47: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.54
+5/23/2022 10:35:47: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.88
+5/23/2022 10:35:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 10:36:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 10:36:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 10:36:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 10:38:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 10:38:51: [G_Auto 1] :  Placed closure bet with greening on Anna Bondar by Backing 16.01 at 1.4
+5/23/2022 10:38:53: [G_Auto 2] :  Store Text Value (Shared) for Anna Bondar: aPoints = point: 0; games: 5; sets: 0 
+5/23/2022 10:38:53: [G_Auto 2] :  Store Text Value (Shared) for Anna Bondar: aServing = serving:0
+5/23/2022 10:38:53: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bPoints = point: 0; games: 2; sets: 0 
+5/23/2022 10:38:53: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bServing = serving:2
+5/23/2022 10:38:53: [G_Auto 2] :  Store Value (Shared) for market: price = 1.4
+5/23/2022 10:38:53: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 41.12
+5/23/2022 10:38:53: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 40.43
+5/23/2022 10:38:53: [G_Auto 2] :  Store Value (Shared) for market: stake = 16.01
+5/23/2022 10:38:53: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 81.55
+5/23/2022 10:38:53: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.68
+5/23/2022 10:38:53: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.41
+5/23/2022 10:38:53: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.45
+5/23/2022 10:38:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 10:39:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 10:39:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 10:39:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 10:40:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 10:40:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 10:43:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 10:43:17: [G_Auto 1] :  € 17.39 Lay bet placed on Anna Bondar at 1.46. Fully matched at 1.45.  Ref: 10045          ( Fill or kill bet with 15 seconds delay.   )
+5/23/2022 10:43:19: [G_Auto 2] :  Store Text Value (Shared) for Anna Bondar: aPoints = point: 0; games: 5; sets: 0 
+5/23/2022 10:43:19: [G_Auto 2] :  Store Text Value (Shared) for Anna Bondar: aServing = serving:1
+5/23/2022 10:43:19: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bPoints = point: 0; games: 3; sets: 0 
+5/23/2022 10:43:19: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bServing = serving:0
+5/23/2022 10:43:19: [G_Auto 2] :  Store Value (Shared) for market: price = 1.45
+5/23/2022 10:43:19: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 41.12
+5/23/2022 10:43:19: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 57.82
+5/23/2022 10:43:19: [G_Auto 2] :  Store Value (Shared) for market: stake = 17.39
+5/23/2022 10:43:19: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 98.94
+5/23/2022 10:43:19: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.93
+5/23/2022 10:43:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.45
+5/23/2022 10:43:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.3
+5/23/2022 10:43:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 10:43:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 10:43:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 10:44:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 10:48:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 10:48:14: [G_Auto 1] :  Placed closure bet with greening on Anna Bondar by Backing 13.06 at 1.93
+5/23/2022 10:48:15: [G_Auto 2] :  Store Text Value (Shared) for Anna Bondar: aPoints = point: 0; games: 5; sets: 0 
+5/23/2022 10:48:15: [G_Auto 2] :  Store Text Value (Shared) for Anna Bondar: aServing = serving:0
+5/23/2022 10:48:15: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bPoints = point: 0; games: 4; sets: 0 
+5/23/2022 10:48:15: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bServing = serving:2
+5/23/2022 10:48:15: [G_Auto 2] :  Store Value (Shared) for market: price = 1.93
+5/23/2022 10:48:15: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 54.18
+5/23/2022 10:48:15: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 57.82
+5/23/2022 10:48:15: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.06
+5/23/2022 10:48:15: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 112
+5/23/2022 10:48:15: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.57
+5/23/2022 10:48:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.93
+5/23/2022 10:48:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.08
+5/23/2022 10:48:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 10:48:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 10:48:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 10:49:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 10:49:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 10:49:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 10:50:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 10:51:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 10:51:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 10:52:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 10:52:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 10:52:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 10:53:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 10:54:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 10:54:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 10:54:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 10:55:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 10:55:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 10:55:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 10:55:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 10:56:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 10:56:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 10:58:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 10:58:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 10:58:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 10:58:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 10:59:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 10:59:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 10:59:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 11:00:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 11:00:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 11:00:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 11:01:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 11:01:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 11:01:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 11:02:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 11:02:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 11:02:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 11:03:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 11:03:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 11:03:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 11:03:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 11:03:56: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 5.5
+5/23/2022 11:03:56: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 1.23
+5/23/2022 11:03:59: [G_Auto 1] :  € 33.33 Lay bet placed on Petra Kvitova at 1.24. Fully matched at 1.23.  Ref: 10065          ( Fill or kill bet with 15 seconds delay.   )
+5/23/2022 11:04:01: [G_Auto 2] :  Store Text Value (Shared) for Anna Bondar: aPoints = point: 0; games: 0; sets: 0 
+5/23/2022 11:04:01: [G_Auto 2] :  Store Text Value (Shared) for Anna Bondar: aServing = serving:0
+5/23/2022 11:04:01: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bPoints = point: 0; games: 0; sets: 1 
+5/23/2022 11:04:01: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bServing = serving:2
+5/23/2022 11:04:01: [G_Auto 2] :  Store Value (Shared) for market: price = 1.23
+5/23/2022 11:04:01: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 54.18
+5/23/2022 11:04:01: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 91.15
+5/23/2022 11:04:01: [G_Auto 2] :  Store Value (Shared) for market: stake = 33.33
+5/23/2022 11:04:01: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 145.33
+5/23/2022 11:04:01: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.3
+5/23/2022 11:04:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 5.5
+5/23/2022 11:04:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.22
+5/23/2022 11:04:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 11:04:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 11:04:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 11:05:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 11:05:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 11:05:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 11:06:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 11:06:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 11:06:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 11:07:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 11:08:05: [G_Auto 1] :  Placed closure bet with greening on Petra Kvitova by Backing 34.74 at 1.18
+5/23/2022 11:08:07: [G_Auto 2] :  Store Text Value (Shared) for Anna Bondar: aPoints = point: 0; games: 0; sets: 0 
+5/23/2022 11:08:07: [G_Auto 2] :  Store Text Value (Shared) for Anna Bondar: aServing = serving:1
+5/23/2022 11:08:07: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bPoints = point: 0; games: 1; sets: 1 
+5/23/2022 11:08:07: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bServing = serving:0
+5/23/2022 11:08:07: [G_Auto 2] :  Store Value (Shared) for market: price = 1.18
+5/23/2022 11:08:07: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 88.92
+5/23/2022 11:08:07: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 91.15
+5/23/2022 11:08:07: [G_Auto 2] :  Store Value (Shared) for market: stake = 34.74
+5/23/2022 11:08:07: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 180.07
+5/23/2022 11:08:07: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.19
+5/23/2022 11:08:07: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 6.2
+5/23/2022 11:08:07: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.2
+5/23/2022 11:08:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 11:08:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 11:08:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 11:09:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 11:11:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 11:11:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 11:12:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 11:12:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 11:13:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 11:13:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 11:13:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 11:14:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 11:14:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 11:14:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 11:15:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 11:15:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 11:19:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 11:19:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 11:19:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 11:19:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 11:20:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 11:22:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 11:22:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 11:22:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 11:23:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 11:23:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 11:23:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 11:24:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 11:24:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 11:26:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 11:26:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 11:26:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 11:27:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 11:27:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 11:27:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 11:35:59:  Guardian has detected that the market is suspended

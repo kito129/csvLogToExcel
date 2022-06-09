@@ -1,0 +1,710 @@
+5/22/2022 09:10:16: [G_Auto 2] :  Store Text Value (Shared) for Olga Danilovic: info = marketName: O Danilovic v Galfi - Match Odds; runnerA: Olga Danilovic; runnerB: Dalma Galfi 
+5/22/2022 09:10:16: [G_Auto 2] :  Store Value (Shared) for market: aId = 10350258
+5/22/2022 09:10:16: [G_Auto 2] :  Store Value (Shared) for market: bId = 9304691
+5/22/2022 15:03:41:  Guardian has detected that the market is in-play
+5/22/2022 15:03:41:  Guardian has detected that the market is suspended
+5/22/2022 15:03:43: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 2.22; bBsp: 1.83; volume: 14776.32 
+5/22/2022 15:03:43: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 2.22; bBsp: 1.83; volume: 14776.32 
+5/22/2022 15:03:43:  Guardian has detected that the market is now unsuspended
+5/22/2022 15:03:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:03:57: [G_Auto 1] :  € 9.41 Lay bet placed on Dalma Galfi at 1.85. Entirely unmatched when it initially reached the market.   Ref: 10149          ( Fill or kill bet with 15 seconds delay.   )
+5/22/2022 15:04:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 15:04:06: [G_Auto 1] :  € 9.41 of unmatched bet (Ref:10149) was filled before remainder was killed.
+5/22/2022 15:04:06: [G_Auto 2] :  Store Text Value (Shared) for Olga Danilovic: aPoints = point: 0; games: 0; sets: 0 
+5/22/2022 15:04:06: [G_Auto 2] :  Store Text Value (Shared) for Olga Danilovic: aServing = serving:0
+5/22/2022 15:04:06: [G_Auto 2] :  Store Text Value (Shared) for Dalma Galfi: bPoints = point: 15; games: 0; sets: 0 
+5/22/2022 15:04:06: [G_Auto 2] :  Store Text Value (Shared) for Dalma Galfi: bServing = serving:2
+5/22/2022 15:04:06: [G_Auto 2] :  Store Value (Shared) for market: price = 1.85
+5/22/2022 15:04:06: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+5/22/2022 15:04:06: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 9.41
+5/22/2022 15:04:06: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.41
+5/22/2022 15:04:06: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 9.41
+5/22/2022 15:04:06: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.37
+5/22/2022 15:04:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.22
+5/22/2022 15:04:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.8
+5/22/2022 15:04:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 15:04:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 15:07:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:08:09: [G_Auto 1] :  Placed closure bet with greening on Dalma Galfi by Backing 10.12 at 1.72
+5/22/2022 15:08:10: [G_Auto 2] :  Store Text Value (Shared) for Olga Danilovic: aPoints = point: 0; games: 0; sets: 0 
+5/22/2022 15:08:10: [G_Auto 2] :  Store Text Value (Shared) for Olga Danilovic: aServing = serving:1
+5/22/2022 15:08:10: [G_Auto 2] :  Store Text Value (Shared) for Dalma Galfi: bPoints = point: 0; games: 1; sets: 0 
+5/22/2022 15:08:10: [G_Auto 2] :  Store Text Value (Shared) for Dalma Galfi: bServing = serving:0
+5/22/2022 15:08:10: [G_Auto 2] :  Store Value (Shared) for market: price = 1.72
+5/22/2022 15:08:10: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 10.12
+5/22/2022 15:08:10: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 9.41
+5/22/2022 15:08:10: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.12
+5/22/2022 15:08:10: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 19.53
+5/22/2022 15:08:10: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.71
+5/22/2022 15:08:10: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.42
+5/22/2022 15:08:10: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.71
+5/22/2022 15:08:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:08:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:08:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:09:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:09:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 15:09:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 15:12:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:12:55: [G_Auto 1] :  € 17.02 Lay bet placed on Dalma Galfi at 1.47. Fully matched at 1.47.  Ref: 10153          ( Fill or kill bet with 15 seconds delay.   )
+5/22/2022 15:12:57: [G_Auto 2] :  Store Text Value (Shared) for Olga Danilovic: aPoints = point: 0; games: 0; sets: 0 
+5/22/2022 15:12:57: [G_Auto 2] :  Store Text Value (Shared) for Olga Danilovic: aServing = serving:0
+5/22/2022 15:12:57: [G_Auto 2] :  Store Text Value (Shared) for Dalma Galfi: bPoints = point: 0; games: 2; sets: 0 
+5/22/2022 15:12:57: [G_Auto 2] :  Store Text Value (Shared) for Dalma Galfi: bServing = serving:2
+5/22/2022 15:12:57: [G_Auto 2] :  Store Value (Shared) for market: price = 1.47
+5/22/2022 15:12:57: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 10.12
+5/22/2022 15:12:57: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 26.43
+5/22/2022 15:12:57: [G_Auto 2] :  Store Value (Shared) for market: stake = 17.02
+5/22/2022 15:12:57: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 36.55
+5/22/2022 15:12:57: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.83
+5/22/2022 15:12:57: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.72
+5/22/2022 15:12:57: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.47
+5/22/2022 15:12:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:13:03: [G_Auto 2] :  Store Text Value (Shared) for Olga Danilovic: aPoints = point: 0; games: 0; sets: 0 
+5/22/2022 15:13:03: [G_Auto 2] :  Store Text Value (Shared) for Olga Danilovic: aServing = serving:0
+5/22/2022 15:13:03: [G_Auto 2] :  Store Text Value (Shared) for Dalma Galfi: bPoints = point: 0; games: 2; sets: 0 
+5/22/2022 15:13:03: [G_Auto 2] :  Store Text Value (Shared) for Dalma Galfi: bServing = serving:2
+5/22/2022 15:13:03: [G_Auto 2] :  Store Value (Shared) for market: price = 1.47
+5/22/2022 15:13:03: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 10.12
+5/22/2022 15:13:03: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 26.43
+5/22/2022 15:13:03: [G_Auto 2] :  Store Value (Shared) for market: stake = 17.02
+5/22/2022 15:13:03: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 36.55
+5/22/2022 15:13:03: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.83
+5/22/2022 15:13:03: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.1
+5/22/2022 15:13:03: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.47
+5/22/2022 15:13:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:13:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 15:13:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 15:14:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:14:59: [G_Auto 1] :  Placed closure bet with greening on Dalma Galfi by Backing 18.67 at 1.34
+5/22/2022 15:15:01: [G_Auto 2] :  Store Text Value (Shared) for Olga Danilovic: aPoints = point: 0; games: 0; sets: 0 
+5/22/2022 15:15:01: [G_Auto 2] :  Store Text Value (Shared) for Olga Danilovic: aServing = serving:1
+5/22/2022 15:15:01: [G_Auto 2] :  Store Text Value (Shared) for Dalma Galfi: bPoints = point: 0; games: 3; sets: 0 
+5/22/2022 15:15:01: [G_Auto 2] :  Store Text Value (Shared) for Dalma Galfi: bServing = serving:0
+5/22/2022 15:15:01: [G_Auto 2] :  Store Value (Shared) for market: price = 1.34
+5/22/2022 15:15:01: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 28.79
+5/22/2022 15:15:01: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 26.43
+5/22/2022 15:15:01: [G_Auto 2] :  Store Value (Shared) for market: stake = 18.67
+5/22/2022 15:15:01: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 55.22
+5/22/2022 15:15:01: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.36
+5/22/2022 15:15:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.9
+5/22/2022 15:15:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.36
+5/22/2022 15:15:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:15:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:15:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:15:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:16:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:16:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:16:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:16:55: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 15:17:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 15:18:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:18:17: [G_Auto 1] :  € 18.18 Lay bet placed on Dalma Galfi at 1.44. Fully matched at 1.43.  Ref: 10156          ( Fill or kill bet with 15 seconds delay.   )
+5/22/2022 15:18:18: [G_Auto 2] :  Store Text Value (Shared) for Olga Danilovic: aPoints = point: 0; games: 1; sets: 0 
+5/22/2022 15:18:18: [G_Auto 2] :  Store Text Value (Shared) for Olga Danilovic: aServing = serving:0
+5/22/2022 15:18:18: [G_Auto 2] :  Store Text Value (Shared) for Dalma Galfi: bPoints = point: 0; games: 3; sets: 0 
+5/22/2022 15:18:18: [G_Auto 2] :  Store Text Value (Shared) for Dalma Galfi: bServing = serving:2
+5/22/2022 15:18:18: [G_Auto 2] :  Store Value (Shared) for market: price = 1.43
+5/22/2022 15:18:18: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 28.79
+5/22/2022 15:18:18: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 44.61
+5/22/2022 15:18:18: [G_Auto 2] :  Store Value (Shared) for market: stake = 18.18
+5/22/2022 15:18:18: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 73.4
+5/22/2022 15:18:18: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.49
+5/22/2022 15:18:18: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.3
+5/22/2022 15:18:18: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.43
+5/22/2022 15:18:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:18:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:18:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 15:18:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 15:20:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:21:00: [G_Auto 1] :  Placed closure bet with greening on Dalma Galfi by Backing 19.55 at 1.33
+5/22/2022 15:21:02: [G_Auto 2] :  Store Text Value (Shared) for Olga Danilovic: aPoints = point: 0; games: 1; sets: 0 
+5/22/2022 15:21:02: [G_Auto 2] :  Store Text Value (Shared) for Olga Danilovic: aServing = serving:1
+5/22/2022 15:21:02: [G_Auto 2] :  Store Text Value (Shared) for Dalma Galfi: bPoints = point: 0; games: 4; sets: 0 
+5/22/2022 15:21:02: [G_Auto 2] :  Store Text Value (Shared) for Dalma Galfi: bServing = serving:0
+5/22/2022 15:21:02: [G_Auto 2] :  Store Value (Shared) for market: price = 1.33
+5/22/2022 15:21:02: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 48.34
+5/22/2022 15:21:02: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 44.61
+5/22/2022 15:21:02: [G_Auto 2] :  Store Value (Shared) for market: stake = 19.55
+5/22/2022 15:21:02: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 92.95
+5/22/2022 15:21:02: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.73
+5/22/2022 15:21:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.95
+5/22/2022 15:21:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.33
+5/22/2022 15:21:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:21:08: [G_Auto 2] :  Store Text Value (Shared) for Olga Danilovic: aPoints = point: 0; games: 1; sets: 0 
+5/22/2022 15:21:08: [G_Auto 2] :  Store Text Value (Shared) for Olga Danilovic: aServing = serving:1
+5/22/2022 15:21:08: [G_Auto 2] :  Store Text Value (Shared) for Dalma Galfi: bPoints = point: 0; games: 4; sets: 0 
+5/22/2022 15:21:08: [G_Auto 2] :  Store Text Value (Shared) for Dalma Galfi: bServing = serving:0
+5/22/2022 15:21:08: [G_Auto 2] :  Store Value (Shared) for market: price = 1.33
+5/22/2022 15:21:08: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 48.34
+5/22/2022 15:21:08: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 44.61
+5/22/2022 15:21:08: [G_Auto 2] :  Store Value (Shared) for market: stake = 19.55
+5/22/2022 15:21:08: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 92.95
+5/22/2022 15:21:08: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.73
+5/22/2022 15:21:08: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.95
+5/22/2022 15:21:08: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.33
+5/22/2022 15:21:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:21:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:21:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:22:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:22:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:22:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 15:22:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 15:23:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 15:23:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 15:27:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:27:18: [G_Auto 1] :  € 30.77 Lay bet placed on Dalma Galfi at 1.26. Fully matched at 1.25.  Ref: 10161          ( Fill or kill bet with 15 seconds delay.   )
+5/22/2022 15:27:20: [G_Auto 2] :  Store Text Value (Shared) for Olga Danilovic: aPoints = point: 0; games: 1; sets: 0 
+5/22/2022 15:27:20: [G_Auto 2] :  Store Text Value (Shared) for Olga Danilovic: aServing = serving:0
+5/22/2022 15:27:20: [G_Auto 2] :  Store Text Value (Shared) for Dalma Galfi: bPoints = point: 0; games: 5; sets: 0 
+5/22/2022 15:27:20: [G_Auto 2] :  Store Text Value (Shared) for Dalma Galfi: bServing = serving:2
+5/22/2022 15:27:20: [G_Auto 2] :  Store Value (Shared) for market: price = 1.25
+5/22/2022 15:27:20: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 48.34
+5/22/2022 15:27:20: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 75.38
+5/22/2022 15:27:20: [G_Auto 2] :  Store Value (Shared) for market: stake = 30.77
+5/22/2022 15:27:20: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 123.72
+5/22/2022 15:27:20: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.98
+5/22/2022 15:27:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.4
+5/22/2022 15:27:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.25
+5/22/2022 15:27:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:27:26: [G_Auto 2] :  Store Text Value (Shared) for Olga Danilovic: aPoints = point: 0; games: 1; sets: 0 
+5/22/2022 15:27:26: [G_Auto 2] :  Store Text Value (Shared) for Olga Danilovic: aServing = serving:0
+5/22/2022 15:27:26: [G_Auto 2] :  Store Text Value (Shared) for Dalma Galfi: bPoints = point: 0; games: 5; sets: 0 
+5/22/2022 15:27:26: [G_Auto 2] :  Store Text Value (Shared) for Dalma Galfi: bServing = serving:2
+5/22/2022 15:27:26: [G_Auto 2] :  Store Value (Shared) for market: price = 1.25
+5/22/2022 15:27:26: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 48.34
+5/22/2022 15:27:26: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 75.38
+5/22/2022 15:27:26: [G_Auto 2] :  Store Value (Shared) for market: stake = 30.77
+5/22/2022 15:27:26: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 123.72
+5/22/2022 15:27:26: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.98
+5/22/2022 15:27:26: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.4
+5/22/2022 15:27:26: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.25
+5/22/2022 15:27:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:27:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 15:29:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:30:04: [G_Auto 1] :  Placed closure bet with greening on Dalma Galfi by Backing 29.59 at 1.3
+5/22/2022 15:30:05: [G_Auto 2] :  Store Text Value (Shared) for Olga Danilovic: aPoints = point: 0; games: 2; sets: 0 
+5/22/2022 15:30:05: [G_Auto 2] :  Store Text Value (Shared) for Olga Danilovic: aServing = serving:1
+5/22/2022 15:30:05: [G_Auto 2] :  Store Text Value (Shared) for Dalma Galfi: bPoints = point: 0; games: 5; sets: 0 
+5/22/2022 15:30:05: [G_Auto 2] :  Store Text Value (Shared) for Dalma Galfi: bServing = serving:0
+5/22/2022 15:30:05: [G_Auto 2] :  Store Value (Shared) for market: price = 1.3
+5/22/2022 15:30:05: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 77.93
+5/22/2022 15:30:05: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 75.38
+5/22/2022 15:30:05: [G_Auto 2] :  Store Value (Shared) for market: stake = 29.59
+5/22/2022 15:30:05: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 153.31
+5/22/2022 15:30:05: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.55
+5/22/2022 15:30:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.6
+5/22/2022 15:30:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.31
+5/22/2022 15:30:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:30:12: [G_Auto 2] :  Store Text Value (Shared) for Olga Danilovic: aPoints = point: 0; games: 2; sets: 0 
+5/22/2022 15:30:12: [G_Auto 2] :  Store Text Value (Shared) for Olga Danilovic: aServing = serving:1
+5/22/2022 15:30:12: [G_Auto 2] :  Store Text Value (Shared) for Dalma Galfi: bPoints = point: 0; games: 5; sets: 0 
+5/22/2022 15:30:12: [G_Auto 2] :  Store Text Value (Shared) for Dalma Galfi: bServing = serving:0
+5/22/2022 15:30:12: [G_Auto 2] :  Store Value (Shared) for market: price = 1.3
+5/22/2022 15:30:12: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 77.93
+5/22/2022 15:30:12: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 75.38
+5/22/2022 15:30:12: [G_Auto 2] :  Store Value (Shared) for market: stake = 29.59
+5/22/2022 15:30:12: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 153.31
+5/22/2022 15:30:12: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.55
+5/22/2022 15:30:12: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.3
+5/22/2022 15:30:12: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.3
+5/22/2022 15:30:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:30:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:30:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:31:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:31:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:31:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 15:31:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 15:33:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:33:47: [G_Auto 1] :  € 20.00 Lay bet placed on Dalma Galfi at 1.4. Fully matched at 1.39.  Ref: 10164          ( Fill or kill bet with 15 seconds delay.   )
+5/22/2022 15:33:48: [G_Auto 2] :  Store Text Value (Shared) for Olga Danilovic: aPoints = point: 0; games: 3; sets: 0 
+5/22/2022 15:33:48: [G_Auto 2] :  Store Text Value (Shared) for Olga Danilovic: aServing = serving:0
+5/22/2022 15:33:48: [G_Auto 2] :  Store Text Value (Shared) for Dalma Galfi: bPoints = point: 0; games: 5; sets: 0 
+5/22/2022 15:33:48: [G_Auto 2] :  Store Text Value (Shared) for Dalma Galfi: bServing = serving:2
+5/22/2022 15:33:48: [G_Auto 2] :  Store Value (Shared) for market: price = 1.39
+5/22/2022 15:33:48: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 77.93
+5/22/2022 15:33:48: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 95.38
+5/22/2022 15:33:48: [G_Auto 2] :  Store Value (Shared) for market: stake = 20
+5/22/2022 15:33:48: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 173.31
+5/22/2022 15:33:48: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.69
+5/22/2022 15:33:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.4
+5/22/2022 15:33:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.39
+5/22/2022 15:33:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:33:54: [G_Auto 2] :  Store Text Value (Shared) for Olga Danilovic: aPoints = point: 0; games: 3; sets: 0 
+5/22/2022 15:33:54: [G_Auto 2] :  Store Text Value (Shared) for Olga Danilovic: aServing = serving:0
+5/22/2022 15:33:54: [G_Auto 2] :  Store Text Value (Shared) for Dalma Galfi: bPoints = point: 0; games: 5; sets: 0 
+5/22/2022 15:33:54: [G_Auto 2] :  Store Text Value (Shared) for Dalma Galfi: bServing = serving:2
+5/22/2022 15:33:54: [G_Auto 2] :  Store Value (Shared) for market: price = 1.39
+5/22/2022 15:33:54: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 77.93
+5/22/2022 15:33:54: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 95.38
+5/22/2022 15:33:54: [G_Auto 2] :  Store Value (Shared) for market: stake = 20
+5/22/2022 15:33:54: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 173.31
+5/22/2022 15:33:54: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.84
+5/22/2022 15:33:54: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.4
+5/22/2022 15:33:54: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.38
+5/22/2022 15:34:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:34:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 15:34:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 15:34:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 15:36:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:37:07: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 4.5
+5/22/2022 15:37:07: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 1.29
+5/22/2022 15:37:12: [G_Auto 1] :  Placed closure bet with greening on Dalma Galfi by Backing 21.71 at 1.28
+5/22/2022 15:37:13: [G_Auto 2] :  Store Text Value (Shared) for Olga Danilovic: aPoints = point: 0; games: 0; sets: 0 
+5/22/2022 15:37:13: [G_Auto 2] :  Store Text Value (Shared) for Olga Danilovic: aServing = serving:1
+5/22/2022 15:37:13: [G_Auto 2] :  Store Text Value (Shared) for Dalma Galfi: bPoints = point: 0; games: 0; sets: 1 
+5/22/2022 15:37:13: [G_Auto 2] :  Store Text Value (Shared) for Dalma Galfi: bServing = serving:0
+5/22/2022 15:37:13: [G_Auto 2] :  Store Value (Shared) for market: price = 1.28
+5/22/2022 15:37:13: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 99.64
+5/22/2022 15:37:13: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 95.38
+5/22/2022 15:37:13: [G_Auto 2] :  Store Value (Shared) for market: stake = 21.71
+5/22/2022 15:37:13: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 195.02
+5/22/2022 15:37:13: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.26
+5/22/2022 15:37:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.5
+5/22/2022 15:37:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.29
+5/22/2022 15:37:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:37:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:37:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:38:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:38:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:38:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:38:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:39:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:39:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:39:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:39:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:40:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 15:40:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 15:42:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:42:29: [G_Auto 1] :  € 20.00 Lay bet placed on Dalma Galfi at 1.4. Fully matched at 1.39.  Ref: 10168          ( Fill or kill bet with 15 seconds delay.   )
+5/22/2022 15:42:30: [G_Auto 2] :  Store Text Value (Shared) for Olga Danilovic: aPoints = point: 0; games: 1; sets: 0 
+5/22/2022 15:42:30: [G_Auto 2] :  Store Text Value (Shared) for Olga Danilovic: aServing = serving:0
+5/22/2022 15:42:30: [G_Auto 2] :  Store Text Value (Shared) for Dalma Galfi: bPoints = point: 0; games: 0; sets: 1 
+5/22/2022 15:42:30: [G_Auto 2] :  Store Text Value (Shared) for Dalma Galfi: bServing = serving:2
+5/22/2022 15:42:30: [G_Auto 2] :  Store Value (Shared) for market: price = 1.39
+5/22/2022 15:42:30: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 99.64
+5/22/2022 15:42:30: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 115.38
+5/22/2022 15:42:30: [G_Auto 2] :  Store Value (Shared) for market: stake = 20
+5/22/2022 15:42:30: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 215.02
+5/22/2022 15:42:30: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.41
+5/22/2022 15:42:30: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.65
+5/22/2022 15:42:30: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.38
+5/22/2022 15:42:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:42:36: [G_Auto 2] :  Store Text Value (Shared) for Olga Danilovic: aPoints = point: 0; games: 1; sets: 0 
+5/22/2022 15:42:36: [G_Auto 2] :  Store Text Value (Shared) for Olga Danilovic: aServing = serving:0
+5/22/2022 15:42:36: [G_Auto 2] :  Store Text Value (Shared) for Dalma Galfi: bPoints = point: 0; games: 0; sets: 1 
+5/22/2022 15:42:36: [G_Auto 2] :  Store Text Value (Shared) for Dalma Galfi: bServing = serving:2
+5/22/2022 15:42:36: [G_Auto 2] :  Store Value (Shared) for market: price = 1.39
+5/22/2022 15:42:36: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 99.64
+5/22/2022 15:42:36: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 115.38
+5/22/2022 15:42:36: [G_Auto 2] :  Store Value (Shared) for market: stake = 20
+5/22/2022 15:42:36: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 215.02
+5/22/2022 15:42:36: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.41
+5/22/2022 15:42:36: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.65
+5/22/2022 15:42:36: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.39
+5/22/2022 15:42:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:43:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:43:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:43:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 15:43:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 15:46:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:46:14: [G_Auto 1] :  Placed closure bet with greening on Dalma Galfi by Backing 21.39 at 1.3
+5/22/2022 15:46:15: [G_Auto 2] :  Store Text Value (Shared) for Olga Danilovic: aPoints = point: 0; games: 1; sets: 0 
+5/22/2022 15:46:15: [G_Auto 2] :  Store Text Value (Shared) for Olga Danilovic: aServing = serving:1
+5/22/2022 15:46:15: [G_Auto 2] :  Store Text Value (Shared) for Dalma Galfi: bPoints = point: 0; games: 1; sets: 1 
+5/22/2022 15:46:15: [G_Auto 2] :  Store Text Value (Shared) for Dalma Galfi: bServing = serving:0
+5/22/2022 15:46:15: [G_Auto 2] :  Store Value (Shared) for market: price = 1.3
+5/22/2022 15:46:15: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 121.03
+5/22/2022 15:46:15: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 115.38
+5/22/2022 15:46:15: [G_Auto 2] :  Store Value (Shared) for market: stake = 21.39
+5/22/2022 15:46:15: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 236.41
+5/22/2022 15:46:15: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.65
+5/22/2022 15:46:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.2
+5/22/2022 15:46:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.31
+5/22/2022 15:46:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:46:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:46:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 15:47:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 15:47:16: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 15:48:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:48:24: [G_Auto 1] :  € 50.00 Lay bet placed on Dalma Galfi at 1.16. Fully matched at 1.15.  Ref: 10172          ( Fill or kill bet with 15 seconds delay.   )
+5/22/2022 15:48:25: [G_Auto 2] :  Store Text Value (Shared) for Olga Danilovic: aPoints = point: 0; games: 1; sets: 0 
+5/22/2022 15:48:25: [G_Auto 2] :  Store Text Value (Shared) for Olga Danilovic: aServing = serving:0
+5/22/2022 15:48:25: [G_Auto 2] :  Store Text Value (Shared) for Dalma Galfi: bPoints = point: 0; games: 2; sets: 1 
+5/22/2022 15:48:25: [G_Auto 2] :  Store Text Value (Shared) for Dalma Galfi: bServing = serving:2
+5/22/2022 15:48:25: [G_Auto 2] :  Store Value (Shared) for market: price = 1.15
+5/22/2022 15:48:25: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 121.03
+5/22/2022 15:48:25: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 165.38
+5/22/2022 15:48:25: [G_Auto 2] :  Store Value (Shared) for market: stake = 50
+5/22/2022 15:48:25: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 286.41
+5/22/2022 15:48:25: [G_Auto 2] :  Store Value (Shared) for market: pl = -6.09
+5/22/2022 15:48:25: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 7.8
+5/22/2022 15:48:25: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.14
+5/22/2022 15:48:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:48:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:48:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:49:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:49:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:49:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:50:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:50:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 15:50:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 15:50:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 15:53:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:53:54: [G_Auto 1] :  Placed closure bet with greening on Dalma Galfi by Backing 44.23 at 1.3
+5/22/2022 15:53:54: [G_Auto 2] :  Store Text Value (Shared) for Olga Danilovic: aPoints = point: 0; games: 2; sets: 0 
+5/22/2022 15:53:54: [G_Auto 2] :  Store Text Value (Shared) for Olga Danilovic: aServing = serving:1
+5/22/2022 15:53:54: [G_Auto 2] :  Store Text Value (Shared) for Dalma Galfi: bPoints = point: 0; games: 2; sets: 1 
+5/22/2022 15:53:54: [G_Auto 2] :  Store Text Value (Shared) for Dalma Galfi: bServing = serving:0
+5/22/2022 15:53:54: [G_Auto 2] :  Store Value (Shared) for market: price = 1.3
+5/22/2022 15:53:54: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 165.26
+5/22/2022 15:53:54: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 165.38
+5/22/2022 15:53:54: [G_Auto 2] :  Store Value (Shared) for market: stake = 44.23
+5/22/2022 15:53:54: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 330.64
+5/22/2022 15:53:54: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.12
+5/22/2022 15:53:54: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.2
+5/22/2022 15:53:54: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.3
+5/22/2022 15:53:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:54:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:54:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 15:54:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 15:56:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:56:19: [G_Auto 1] :  € 17.78 Lay bet placed on Dalma Galfi at 1.45. Entirely unmatched when it initially reached the market.   Ref: 10177          ( Fill or kill bet with 15 seconds delay.   )
+5/22/2022 15:56:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:56:24: [G_Auto 2] :  Store Text Value (Shared) for Olga Danilovic: aPoints = point: 0; games: 3; sets: 0 
+5/22/2022 15:56:24: [G_Auto 2] :  Store Text Value (Shared) for Olga Danilovic: aServing = serving:0
+5/22/2022 15:56:24: [G_Auto 2] :  Store Text Value (Shared) for Dalma Galfi: bPoints = point: 0; games: 2; sets: 1 
+5/22/2022 15:56:24: [G_Auto 2] :  Store Text Value (Shared) for Dalma Galfi: bServing = serving:2
+5/22/2022 15:56:24: [G_Auto 2] :  Store Value (Shared) for market: price = 1.45
+5/22/2022 15:56:24: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 165.26
+5/22/2022 15:56:24: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 175.89
+5/22/2022 15:56:24: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.51
+5/22/2022 15:56:24: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 341.15
+5/22/2022 15:56:24: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.12
+5/22/2022 15:56:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.15
+5/22/2022 15:56:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.46
+5/22/2022 15:56:28: [G_Auto 1] :  € 17.78 of unmatched bet (Ref:10177) was filled before remainder was killed.
+5/22/2022 15:56:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:56:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:57:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:57:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:57:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:57:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 15:57:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 15:59:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:59:38: [G_Auto 1] :  Placed closure bet with greening on Dalma Galfi by Backing 19.68 at 1.31
+5/22/2022 15:59:39: [G_Auto 2] :  Store Text Value (Shared) for Olga Danilovic: aPoints = point: 0; games: 3; sets: 0 
+5/22/2022 15:59:39: [G_Auto 2] :  Store Text Value (Shared) for Olga Danilovic: aServing = serving:1
+5/22/2022 15:59:39: [G_Auto 2] :  Store Text Value (Shared) for Dalma Galfi: bPoints = point: 0; games: 3; sets: 1 
+5/22/2022 15:59:39: [G_Auto 2] :  Store Text Value (Shared) for Dalma Galfi: bServing = serving:0
+5/22/2022 15:59:39: [G_Auto 2] :  Store Value (Shared) for market: price = 1.31
+5/22/2022 15:59:39: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 184.94
+5/22/2022 15:59:39: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 183.16
+5/22/2022 15:59:39: [G_Auto 2] :  Store Value (Shared) for market: stake = 19.68
+5/22/2022 15:59:39: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 368.1
+5/22/2022 15:59:39: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.78
+5/22/2022 15:59:39: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.2
+5/22/2022 15:59:39: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.32
+5/22/2022 15:59:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:59:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:00:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:00:16: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:00:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:00:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:02:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:02:17: [G_Auto 1] :  € 16.00 Lay bet placed on Dalma Galfi at 1.5. Fully matched at 1.5.  Ref: 10180          ( Fill or kill bet with 15 seconds delay.   )
+5/22/2022 16:02:18: [G_Auto 2] :  Store Text Value (Shared) for Olga Danilovic: aPoints = point: 0; games: 4; sets: 0 
+5/22/2022 16:02:18: [G_Auto 2] :  Store Text Value (Shared) for Olga Danilovic: aServing = serving:0
+5/22/2022 16:02:18: [G_Auto 2] :  Store Text Value (Shared) for Dalma Galfi: bPoints = point: 0; games: 3; sets: 1 
+5/22/2022 16:02:18: [G_Auto 2] :  Store Text Value (Shared) for Dalma Galfi: bServing = serving:2
+5/22/2022 16:02:18: [G_Auto 2] :  Store Value (Shared) for market: price = 1.5
+5/22/2022 16:02:18: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 184.94
+5/22/2022 16:02:18: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 199.16
+5/22/2022 16:02:18: [G_Auto 2] :  Store Value (Shared) for market: stake = 16
+5/22/2022 16:02:18: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 384.1
+5/22/2022 16:02:18: [G_Auto 2] :  Store Value (Shared) for market: pl = -2
+5/22/2022 16:02:18: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3
+5/22/2022 16:02:18: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.5
+5/22/2022 16:02:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:02:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:02:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:03:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:03:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:03:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:03:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:04:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:04:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:13:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:13:31: [G_Auto 1] :  Placed closure bet with greening on Dalma Galfi by Backing 17.78 at 1.35
+5/22/2022 16:13:32: [G_Auto 2] :  Store Text Value (Shared) for Olga Danilovic: aPoints = point: 0; games: 4; sets: 0 
+5/22/2022 16:13:32: [G_Auto 2] :  Store Text Value (Shared) for Olga Danilovic: aServing = serving:1
+5/22/2022 16:13:32: [G_Auto 2] :  Store Text Value (Shared) for Dalma Galfi: bPoints = point: 0; games: 4; sets: 1 
+5/22/2022 16:13:32: [G_Auto 2] :  Store Text Value (Shared) for Dalma Galfi: bServing = serving:0
+5/22/2022 16:13:32: [G_Auto 2] :  Store Value (Shared) for market: price = 1.35
+5/22/2022 16:13:32: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 202.72
+5/22/2022 16:13:32: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 199.16
+5/22/2022 16:13:32: [G_Auto 2] :  Store Value (Shared) for market: stake = 17.78
+5/22/2022 16:13:32: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 401.88
+5/22/2022 16:13:32: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.56
+5/22/2022 16:13:32: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.8
+5/22/2022 16:13:32: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.35
+5/22/2022 16:13:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:13:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:14:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:14:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:14:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:17:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:17:23: [G_Auto 1] :  € 14.04 Lay bet placed on Dalma Galfi at 1.57. Fully matched at 1.56.  Ref: 10190          ( Fill or kill bet with 15 seconds delay.   )
+5/22/2022 16:17:24: [G_Auto 2] :  Store Text Value (Shared) for Olga Danilovic: aPoints = point: 0; games: 5; sets: 0 
+5/22/2022 16:17:24: [G_Auto 2] :  Store Text Value (Shared) for Olga Danilovic: aServing = serving:0
+5/22/2022 16:17:24: [G_Auto 2] :  Store Text Value (Shared) for Dalma Galfi: bPoints = point: 0; games: 4; sets: 1 
+5/22/2022 16:17:24: [G_Auto 2] :  Store Text Value (Shared) for Dalma Galfi: bServing = serving:2
+5/22/2022 16:17:24: [G_Auto 2] :  Store Value (Shared) for market: price = 1.56
+5/22/2022 16:17:24: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 202.72
+5/22/2022 16:17:24: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 213.2
+5/22/2022 16:17:24: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.04
+5/22/2022 16:17:24: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 415.92
+5/22/2022 16:17:24: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.65
+5/22/2022 16:17:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.86
+5/22/2022 16:17:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.55
+5/22/2022 16:17:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:17:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:17:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:18:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:18:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:18:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:18:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:21:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:21:24: [G_Auto 1] :  Placed closure bet with greening on Dalma Galfi by Backing 16.22 at 1.35
+5/22/2022 16:21:25: [G_Auto 2] :  Store Text Value (Shared) for Olga Danilovic: aPoints = point: 0; games: 5; sets: 0 
+5/22/2022 16:21:25: [G_Auto 2] :  Store Text Value (Shared) for Olga Danilovic: aServing = serving:1
+5/22/2022 16:21:25: [G_Auto 2] :  Store Text Value (Shared) for Dalma Galfi: bPoints = point: 0; games: 5; sets: 1 
+5/22/2022 16:21:25: [G_Auto 2] :  Store Text Value (Shared) for Dalma Galfi: bServing = serving:0
+5/22/2022 16:21:25: [G_Auto 2] :  Store Value (Shared) for market: price = 1.35
+5/22/2022 16:21:25: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 218.94
+5/22/2022 16:21:25: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 213.2
+5/22/2022 16:21:25: [G_Auto 2] :  Store Value (Shared) for market: stake = 16.22
+5/22/2022 16:21:25: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 432.14
+5/22/2022 16:21:25: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.74
+5/22/2022 16:21:25: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.75
+5/22/2022 16:21:25: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.36
+5/22/2022 16:21:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:21:31: [G_Auto 2] :  Store Text Value (Shared) for Olga Danilovic: aPoints = point: 0; games: 5; sets: 0 
+5/22/2022 16:21:31: [G_Auto 2] :  Store Text Value (Shared) for Olga Danilovic: aServing = serving:1
+5/22/2022 16:21:31: [G_Auto 2] :  Store Text Value (Shared) for Dalma Galfi: bPoints = point: 0; games: 5; sets: 1 
+5/22/2022 16:21:31: [G_Auto 2] :  Store Text Value (Shared) for Dalma Galfi: bServing = serving:0
+5/22/2022 16:21:31: [G_Auto 2] :  Store Value (Shared) for market: price = 1.35
+5/22/2022 16:21:31: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 218.94
+5/22/2022 16:21:31: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 213.2
+5/22/2022 16:21:31: [G_Auto 2] :  Store Value (Shared) for market: stake = 16.22
+5/22/2022 16:21:31: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 432.14
+5/22/2022 16:21:31: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.74
+5/22/2022 16:21:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.75
+5/22/2022 16:21:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.35
+5/22/2022 16:21:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:21:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:22:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:22:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:27:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:28:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:28:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:28:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:28:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:29:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:29:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:29:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:29:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:33:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:33:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:33:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:33:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:34:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:34:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:34:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:34:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:35:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:35:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:35:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:35:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:36:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:36:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:36:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:37:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:37:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:37:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:37:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:38:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:38:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:38:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:38:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:39:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:39:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:39:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:39:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:40:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:40:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:40:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:40:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:41:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:41:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:41:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:41:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:42:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:42:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:42:24: [G_Auto 2] :  Store Value (Shared) for market: aSecondSetPrice = 1.88
+5/22/2022 16:42:24: [G_Auto 2] :  Store Value (Shared) for market: bSecondSetPrice = 2.14
+5/22/2022 16:42:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:42:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:43:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:43:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:43:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:43:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:44:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:44:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:44:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:44:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:45:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:45:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:45:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:45:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:46:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:46:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:46:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:46:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:47:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:47:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:47:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:47:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:47:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:48:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:48:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:50:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:50:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:50:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:51:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:51:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:51:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:51:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:52:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:59:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:59:49: [G_Auto 1] :  € 8.16 Lay bet placed on Dalma Galfi at 1.98. Fully matched at 1.97.  Ref: 10212          ( Fill or kill bet with 15 seconds delay.   )
+5/22/2022 16:59:50: [G_Auto 2] :  Store Text Value (Shared) for Olga Danilovic: aPoints = point: 0; games: 1; sets: 1 
+5/22/2022 16:59:50: [G_Auto 2] :  Store Text Value (Shared) for Olga Danilovic: aServing = serving:0
+5/22/2022 16:59:50: [G_Auto 2] :  Store Text Value (Shared) for Dalma Galfi: bPoints = point: 0; games: 1; sets: 1 
+5/22/2022 16:59:50: [G_Auto 2] :  Store Text Value (Shared) for Dalma Galfi: bServing = serving:2
+5/22/2022 16:59:50: [G_Auto 2] :  Store Value (Shared) for market: price = 1.97
+5/22/2022 16:59:50: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 218.94
+5/22/2022 16:59:50: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 221.36
+5/22/2022 16:59:50: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.16
+5/22/2022 16:59:50: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 440.3
+5/22/2022 16:59:50: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.78
+5/22/2022 16:59:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.04
+5/22/2022 16:59:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.96
+5/22/2022 16:59:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:59:56: [G_Auto 2] :  Store Text Value (Shared) for Olga Danilovic: aPoints = point: 0; games: 1; sets: 1 
+5/22/2022 16:59:56: [G_Auto 2] :  Store Text Value (Shared) for Olga Danilovic: aServing = serving:0
+5/22/2022 16:59:56: [G_Auto 2] :  Store Text Value (Shared) for Dalma Galfi: bPoints = point: 0; games: 1; sets: 1 
+5/22/2022 16:59:56: [G_Auto 2] :  Store Text Value (Shared) for Dalma Galfi: bServing = serving:2
+5/22/2022 16:59:56: [G_Auto 2] :  Store Value (Shared) for market: price = 1.97
+5/22/2022 16:59:56: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 218.94
+5/22/2022 16:59:56: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 221.36
+5/22/2022 16:59:56: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.16
+5/22/2022 16:59:56: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 440.3
+5/22/2022 16:59:56: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.74
+5/22/2022 16:59:56: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.04
+5/22/2022 16:59:56: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.97
+5/22/2022 17:00:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:00:16: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 17:00:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 17:02:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:03:06: [G_Auto 1] :  Placed closure bet with greening on Dalma Galfi by Backing 5.10 at 3.15
+5/22/2022 17:03:06: [G_Auto 1] :  € 17.02 Lay bet placed on Olga Danilovic at 1.47. Fully matched at 1.46.  Ref: 10214          ( Fill or kill bet with 15 seconds delay.   )
+5/22/2022 17:03:07: [G_Auto 2] :  Store Text Value (Shared) for Olga Danilovic: aPoints = point: 0; games: 2; sets: 1 
+5/22/2022 17:03:07: [G_Auto 2] :  Store Text Value (Shared) for Olga Danilovic: aServing = serving:1
+5/22/2022 17:03:07: [G_Auto 2] :  Store Text Value (Shared) for Dalma Galfi: bPoints = point: 0; games: 1; sets: 1 
+5/22/2022 17:03:07: [G_Auto 2] :  Store Text Value (Shared) for Dalma Galfi: bServing = serving:0
+5/22/2022 17:03:07: [G_Auto 2] :  Store Value (Shared) for market: price = 3.2
+5/22/2022 17:03:07: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 224.04
+5/22/2022 17:03:07: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 238.38
+5/22/2022 17:03:07: [G_Auto 2] :  Store Value (Shared) for market: stake = 5.1
+5/22/2022 17:03:07: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 462.42
+5/22/2022 17:03:07: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.72
+5/22/2022 17:03:07: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.46
+5/22/2022 17:03:07: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.15
+5/22/2022 17:03:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:03:13: [G_Auto 2] :  Store Text Value (Shared) for Olga Danilovic: aPoints = point: 0; games: 2; sets: 1 
+5/22/2022 17:03:13: [G_Auto 2] :  Store Text Value (Shared) for Olga Danilovic: aServing = serving:1
+5/22/2022 17:03:13: [G_Auto 2] :  Store Text Value (Shared) for Dalma Galfi: bPoints = point: 0; games: 1; sets: 1 
+5/22/2022 17:03:13: [G_Auto 2] :  Store Text Value (Shared) for Dalma Galfi: bServing = serving:0
+5/22/2022 17:03:13: [G_Auto 2] :  Store Value (Shared) for market: price = 3.2
+5/22/2022 17:03:13: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 224.04
+5/22/2022 17:03:13: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 238.38
+5/22/2022 17:03:13: [G_Auto 2] :  Store Value (Shared) for market: stake = 5.1
+5/22/2022 17:03:13: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 462.42
+5/22/2022 17:03:13: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.84
+5/22/2022 17:03:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.45
+5/22/2022 17:03:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.15
+5/22/2022 17:03:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:03:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:03:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:04:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:04:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:04:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:04:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 17:05:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 17:06:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:07:00: [G_Auto 1] :  Placed closure bet with greening on Olga Danilovic by Backing 20.37 at 1.22
+5/22/2022 17:07:00: [G_Auto 2] :  Store Text Value (Shared) for Olga Danilovic: aPoints = point: 0; games: 3; sets: 1 
+5/22/2022 17:07:00: [G_Auto 2] :  Store Text Value (Shared) for Olga Danilovic: aServing = serving:0
+5/22/2022 17:07:00: [G_Auto 2] :  Store Text Value (Shared) for Dalma Galfi: bPoints = point: 0; games: 1; sets: 1 
+5/22/2022 17:07:00: [G_Auto 2] :  Store Text Value (Shared) for Dalma Galfi: bServing = serving:2
+5/22/2022 17:07:00: [G_Auto 2] :  Store Value (Shared) for market: price = 1.22
+5/22/2022 17:07:00: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 244.41
+5/22/2022 17:07:00: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 238.38
+5/22/2022 17:07:00: [G_Auto 2] :  Store Value (Shared) for market: stake = 20.37
+5/22/2022 17:07:00: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 482.79
+5/22/2022 17:07:00: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.98
+5/22/2022 17:07:00: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.23
+5/22/2022 17:07:00: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.3
+5/22/2022 17:07:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:07:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:07:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 17:07:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 17:09:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:09:38: [G_Auto 1] :  Placed closure bet with greening on Dalma Galfi by Laying 0.01 at 21
+5/22/2022 17:09:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:09:38: [G_Auto 2] :  Store Text Value (Shared) for Olga Danilovic: aPoints = point: 0; games: 4; sets: 1 
+5/22/2022 17:09:38: [G_Auto 2] :  Store Text Value (Shared) for Olga Danilovic: aServing = serving:1
+5/22/2022 17:09:38: [G_Auto 2] :  Store Text Value (Shared) for Dalma Galfi: bPoints = point: 0; games: 1; sets: 1 
+5/22/2022 17:09:38: [G_Auto 2] :  Store Text Value (Shared) for Dalma Galfi: bServing = serving:0
+5/22/2022 17:09:38: [G_Auto 2] :  Store Value (Shared) for market: price = 21
+5/22/2022 17:09:38: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 244.41
+5/22/2022 17:09:38: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 238.39
+5/22/2022 17:09:38: [G_Auto 2] :  Store Value (Shared) for market: stake = 0.01
+5/22/2022 17:09:38: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 482.8
+5/22/2022 17:09:38: [G_Auto 2] :  Store Value (Shared) for market: pl = -6.02
+5/22/2022 17:09:38: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.06
+5/22/2022 17:09:38: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 15
+5/22/2022 17:09:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:10:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:10:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:10:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:10:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 17:11:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 17:13:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:13:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:13:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:14:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 17:14:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 17:14:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 17:18:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:19:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:19:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:19:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:19:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:20:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:20:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:20:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:20:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 17:20:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 17:25:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:26:00:  Guardian has detected that the market is suspended

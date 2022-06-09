@@ -1,0 +1,811 @@
+5/22/2022 09:10:12: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: info = marketName: Sharma v Gracheva - Match Odds; runnerA: Astra Sharma; runnerB: Varvara Gracheva 
+5/22/2022 09:10:12: [G_Auto 2] :  Store Value (Shared) for market: aId = 9628460
+5/22/2022 09:10:12: [G_Auto 2] :  Store Value (Shared) for market: bId = 10942984
+5/22/2022 15:20:12:  Guardian has detected that the market is in-play
+5/22/2022 15:20:12:  Guardian has detected that the market is suspended
+5/22/2022 15:20:14: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 3.2; bBsp: 1.43; volume: 6120.97 
+5/22/2022 15:20:14: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 3.2; bBsp: 1.43; volume: 6120.97 
+5/22/2022 15:20:14:  Guardian has detected that the market is now unsuspended
+5/22/2022 15:20:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 15:20:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 15:20:55: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 15:22:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:22:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:23:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:23:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:23:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:24:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:24:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 15:24:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 15:24:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 15:25:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:26:01: [G_Auto 1] :  € 8.16 Lay bet placed on Varvara Gracheva at 1.98. Entirely unmatched when it initially reached the market.   Ref: 10160          ( Fill or kill bet with 15 seconds delay.   )
+5/22/2022 15:26:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:26:08: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aPoints = point: 0; games: 2; sets: 0 
+5/22/2022 15:26:08: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aServing = serving:0
+5/22/2022 15:26:08: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bPoints = point: 0; games: 0; sets: 0 
+5/22/2022 15:26:08: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bServing = serving:2
+5/22/2022 15:26:08: [G_Auto 2] :  Store Value (Shared) for market: price = 1.98
+5/22/2022 15:26:08: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+5/22/2022 15:26:08: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 0.905
+5/22/2022 15:26:08: [G_Auto 2] :  Store Value (Shared) for market: stake = 0.905
+5/22/2022 15:26:08: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 0.905
+5/22/2022 15:26:08: [G_Auto 2] :  Store Value (Shared) for market: pl = 0
+5/22/2022 15:26:08: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2
+5/22/2022 15:26:08: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.99
+5/22/2022 15:26:12: [G_Auto 1] :  € 8.16 of unmatched bet (Ref:10160) was filled before remainder was killed.
+5/22/2022 15:26:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:26:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 15:26:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 15:28:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:28:35: [G_Auto 1] :  Placed closure bet with greening on Varvara Gracheva by Backing 9.08 at 1.78
+5/22/2022 15:28:36: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aPoints = point: 0; games: 2; sets: 0 
+5/22/2022 15:28:36: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aServing = serving:1
+5/22/2022 15:28:36: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bPoints = point: 0; games: 1; sets: 0 
+5/22/2022 15:28:36: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bServing = serving:0
+5/22/2022 15:28:36: [G_Auto 2] :  Store Value (Shared) for market: price = 1.78
+5/22/2022 15:28:36: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 9.08
+5/22/2022 15:28:36: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 8.16
+5/22/2022 15:28:36: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.08
+5/22/2022 15:28:36: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 17.24
+5/22/2022 15:28:36: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.92
+5/22/2022 15:28:36: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.24
+5/22/2022 15:28:36: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.78
+5/22/2022 15:28:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:28:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:29:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:29:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:29:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:29:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:30:16: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 15:30:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 15:34:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:34:55: [G_Auto 1] :  € 8.25 Lay bet placed on Varvara Gracheva at 1.97. Entirely unmatched when it initially reached the market.   Ref: 10165          ( Fill or kill bet with 15 seconds delay.   )
+5/22/2022 15:34:58: [G_Auto 1] :  € 8.25 of unmatched bet (Ref:10165) was filled before remainder was killed.
+5/22/2022 15:34:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:34:58: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aPoints = point: 0; games: 3; sets: 0 
+5/22/2022 15:34:58: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aServing = serving:0
+5/22/2022 15:34:58: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bPoints = point: 0; games: 1; sets: 0 
+5/22/2022 15:34:58: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bServing = serving:2
+5/22/2022 15:34:58: [G_Auto 2] :  Store Value (Shared) for market: price = 1.97
+5/22/2022 15:34:58: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 9.08
+5/22/2022 15:34:58: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 16.41
+5/22/2022 15:34:58: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.25
+5/22/2022 15:34:58: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 25.49
+5/22/2022 15:34:58: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.96
+5/22/2022 15:34:58: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2
+5/22/2022 15:34:58: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.95
+5/22/2022 15:35:05: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aPoints = point: 0; games: 3; sets: 0 
+5/22/2022 15:35:05: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aServing = serving:0
+5/22/2022 15:35:05: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bPoints = point: 0; games: 1; sets: 0 
+5/22/2022 15:35:05: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bServing = serving:2
+5/22/2022 15:35:05: [G_Auto 2] :  Store Value (Shared) for market: price = 1.97
+5/22/2022 15:35:05: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 9.08
+5/22/2022 15:35:05: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 16.41
+5/22/2022 15:35:05: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.25
+5/22/2022 15:35:05: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 25.49
+5/22/2022 15:35:05: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.96
+5/22/2022 15:35:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.02
+5/22/2022 15:35:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.98
+5/22/2022 15:35:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:35:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 15:35:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 15:35:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 15:37:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:37:24: [G_Auto 1] :  Placed closure bet with greening on Varvara Gracheva by Backing 9.34 at 1.74
+5/22/2022 15:37:25: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aPoints = point: 0; games: 3; sets: 0 
+5/22/2022 15:37:25: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aServing = serving:1
+5/22/2022 15:37:25: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bPoints = point: 0; games: 2; sets: 0 
+5/22/2022 15:37:25: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bServing = serving:0
+5/22/2022 15:37:25: [G_Auto 2] :  Store Value (Shared) for market: price = 1.74
+5/22/2022 15:37:25: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 18.42
+5/22/2022 15:37:25: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 16.41
+5/22/2022 15:37:25: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.34
+5/22/2022 15:37:25: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 34.83
+5/22/2022 15:37:25: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.01
+5/22/2022 15:37:25: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.32
+5/22/2022 15:37:25: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.74
+5/22/2022 15:37:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:37:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:37:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:38:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:38:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:38:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:38:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 15:39:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 15:43:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:43:25: [G_Auto 1] :  € 8.16 Lay bet placed on Varvara Gracheva at 1.98. Entirely unmatched when it initially reached the market.   Ref: 10169          ( Fill or kill bet with 15 seconds delay.   )
+5/22/2022 15:43:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:43:30: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aPoints = point: 0; games: 4; sets: 0 
+5/22/2022 15:43:30: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aServing = serving:0
+5/22/2022 15:43:30: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bPoints = point: 0; games: 2; sets: 0 
+5/22/2022 15:43:30: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bServing = serving:2
+5/22/2022 15:43:30: [G_Auto 2] :  Store Value (Shared) for market: price = 1.98
+5/22/2022 15:43:30: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 18.42
+5/22/2022 15:43:30: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 18.985
+5/22/2022 15:43:30: [G_Auto 2] :  Store Value (Shared) for market: stake = 2.575
+5/22/2022 15:43:30: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 37.405
+5/22/2022 15:43:30: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.98
+5/22/2022 15:43:30: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2
+5/22/2022 15:43:30: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2
+5/22/2022 15:43:36: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aPoints = point: 0; games: 4; sets: 0 
+5/22/2022 15:43:36: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aServing = serving:0
+5/22/2022 15:43:36: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bPoints = point: 0; games: 2; sets: 0 
+5/22/2022 15:43:36: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bServing = serving:2
+5/22/2022 15:43:36: [G_Auto 2] :  Store Value (Shared) for market: price = 1.98
+5/22/2022 15:43:36: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 18.42
+5/22/2022 15:43:36: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 18.985
+5/22/2022 15:43:36: [G_Auto 2] :  Store Value (Shared) for market: stake = 2.575
+5/22/2022 15:43:36: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 37.405
+5/22/2022 15:43:36: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.01
+5/22/2022 15:43:36: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.02
+5/22/2022 15:43:36: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.98
+5/22/2022 15:43:37: [G_Auto 1] :  € 8.16 of unmatched bet (Ref:10169) was filled before remainder was killed.
+5/22/2022 15:43:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:44:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:44:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 15:44:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 15:44:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 15:46:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:46:50: [G_Auto 1] :  Placed closure bet with greening on Varvara Gracheva by Backing 8.92 at 1.81
+5/22/2022 15:46:51: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aPoints = point: 0; games: 4; sets: 0 
+5/22/2022 15:46:51: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aServing = serving:1
+5/22/2022 15:46:51: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bPoints = point: 0; games: 3; sets: 0 
+5/22/2022 15:46:51: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bServing = serving:0
+5/22/2022 15:46:51: [G_Auto 2] :  Store Value (Shared) for market: price = 1.81
+5/22/2022 15:46:51: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 27.34
+5/22/2022 15:46:51: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 24.57
+5/22/2022 15:46:51: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.92
+5/22/2022 15:46:51: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 51.91
+5/22/2022 15:46:51: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.77
+5/22/2022 15:46:51: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.22
+5/22/2022 15:46:51: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.81
+5/22/2022 15:46:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:47:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:47:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:47:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:47:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:48:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:48:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:48:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 15:48:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 15:51:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:51:37: [G_Auto 1] :  € 18.18 Lay bet placed on Varvara Gracheva at 1.44. Fully matched at 1.44.  Ref: 10173          ( Fill or kill bet with 15 seconds delay.   )
+5/22/2022 15:51:37: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aPoints = point: 0; games: 4; sets: 0 
+5/22/2022 15:51:37: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aServing = serving:0
+5/22/2022 15:51:37: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bPoints = point: 0; games: 4; sets: 0 
+5/22/2022 15:51:37: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bServing = serving:2
+5/22/2022 15:51:37: [G_Auto 2] :  Store Value (Shared) for market: price = 1.44
+5/22/2022 15:51:37: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 27.34
+5/22/2022 15:51:37: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 42.75
+5/22/2022 15:51:37: [G_Auto 2] :  Store Value (Shared) for market: stake = 18.18
+5/22/2022 15:51:37: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 70.09
+5/22/2022 15:51:37: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.9
+5/22/2022 15:51:37: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.3
+5/22/2022 15:51:37: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.43
+5/22/2022 15:51:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:51:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:52:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:52:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 15:52:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 15:54:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:54:23: [G_Auto 1] :  Placed closure bet with greening on Varvara Gracheva by Backing 13.16 at 1.99
+5/22/2022 15:54:24: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aPoints = point: 0; games: 5; sets: 0 
+5/22/2022 15:54:24: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aServing = serving:1
+5/22/2022 15:54:24: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bPoints = point: 0; games: 4; sets: 0 
+5/22/2022 15:54:24: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bServing = serving:0
+5/22/2022 15:54:24: [G_Auto 2] :  Store Value (Shared) for market: price = 1.99
+5/22/2022 15:54:24: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 40.5
+5/22/2022 15:54:24: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 42.75
+5/22/2022 15:54:24: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.16
+5/22/2022 15:54:24: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 83.25
+5/22/2022 15:54:24: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.21
+5/22/2022 15:54:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.02
+5/22/2022 15:54:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.99
+5/22/2022 15:54:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:54:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:55:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:55:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:55:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:55:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:55:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 15:56:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 15:58:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:58:43: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 1.65
+5/22/2022 15:58:43: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 2.56
+5/22/2022 15:58:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:59:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:59:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:59:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:59:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:00:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:00:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:00:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:00:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:01:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:01:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:02:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:02:34: [G_Auto 1] :  € 9.09 Lay bet placed on Astra Sharma at 1.88. Entirely unmatched when it initially reached the market.   Ref: 10181          ( Fill or kill bet with 15 seconds delay.   )
+5/22/2022 16:02:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:02:39: [G_Auto 1] :  € 9.09 of unmatched bet (Ref:10181) was filled before remainder was killed.
+5/22/2022 16:02:39: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aPoints = point: 0; games: 0; sets: 1 
+5/22/2022 16:02:39: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aServing = serving:1
+5/22/2022 16:02:39: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bPoints = point: 0; games: 1; sets: 0 
+5/22/2022 16:02:39: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bServing = serving:0
+5/22/2022 16:02:39: [G_Auto 2] :  Store Value (Shared) for market: price = 1.88
+5/22/2022 16:02:39: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 40.5
+5/22/2022 16:02:39: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 51.84
+5/22/2022 16:02:39: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.09
+5/22/2022 16:02:39: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 92.34
+5/22/2022 16:02:39: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.16
+5/22/2022 16:02:39: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.87
+5/22/2022 16:02:39: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.16
+5/22/2022 16:02:44: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aPoints = point: 0; games: 0; sets: 1 
+5/22/2022 16:02:44: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aServing = serving:1
+5/22/2022 16:02:44: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bPoints = point: 0; games: 1; sets: 0 
+5/22/2022 16:02:44: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bServing = serving:0
+5/22/2022 16:02:44: [G_Auto 2] :  Store Value (Shared) for market: price = 1.88
+5/22/2022 16:02:44: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 40.5
+5/22/2022 16:02:44: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 51.84
+5/22/2022 16:02:44: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.09
+5/22/2022 16:02:44: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 92.34
+5/22/2022 16:02:44: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.11
+5/22/2022 16:02:44: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.86
+5/22/2022 16:02:44: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.14
+5/22/2022 16:02:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:03:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:03:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:03:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:05:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:05:44: [G_Auto 1] :  Placed closure bet with greening on Astra Sharma by Backing 10.29 at 1.66
+5/22/2022 16:05:45: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aPoints = point: 0; games: 1; sets: 1 
+5/22/2022 16:05:45: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aServing = serving:0
+5/22/2022 16:05:45: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bPoints = point: 0; games: 1; sets: 0 
+5/22/2022 16:05:45: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bServing = serving:2
+5/22/2022 16:05:45: [G_Auto 2] :  Store Value (Shared) for market: price = 1.67
+5/22/2022 16:05:45: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 50.79
+5/22/2022 16:05:45: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 51.84
+5/22/2022 16:05:45: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.29
+5/22/2022 16:05:45: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 102.63
+5/22/2022 16:05:45: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.09
+5/22/2022 16:05:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.69
+5/22/2022 16:05:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.44
+5/22/2022 16:05:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:05:51: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aPoints = point: 0; games: 1; sets: 1 
+5/22/2022 16:05:51: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aServing = serving:0
+5/22/2022 16:05:51: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bPoints = point: 0; games: 1; sets: 0 
+5/22/2022 16:05:51: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bServing = serving:2
+5/22/2022 16:05:51: [G_Auto 2] :  Store Value (Shared) for market: price = 1.67
+5/22/2022 16:05:51: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 50.79
+5/22/2022 16:05:51: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 51.84
+5/22/2022 16:05:51: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.29
+5/22/2022 16:05:51: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 102.63
+5/22/2022 16:05:51: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.09
+5/22/2022 16:05:51: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.71
+5/22/2022 16:05:51: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.4
+5/22/2022 16:06:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:06:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:06:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:06:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:07:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:07:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:09:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:10:10: [G_Auto 1] :  € 9.09 Lay bet placed on Astra Sharma at 1.88. Fully matched at 1.87.  Ref: 10185          ( Fill or kill bet with 15 seconds delay.   )
+5/22/2022 16:10:11: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aPoints = point: 0; games: 1; sets: 1 
+5/22/2022 16:10:11: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aServing = serving:1
+5/22/2022 16:10:11: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bPoints = point: 0; games: 2; sets: 0 
+5/22/2022 16:10:11: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bServing = serving:0
+5/22/2022 16:10:11: [G_Auto 2] :  Store Value (Shared) for market: price = 1.87
+5/22/2022 16:10:11: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 50.79
+5/22/2022 16:10:11: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 60.93
+5/22/2022 16:10:11: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.09
+5/22/2022 16:10:11: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 111.72
+5/22/2022 16:10:11: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.08
+5/22/2022 16:10:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.87
+5/22/2022 16:10:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.16
+5/22/2022 16:10:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:10:16: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aPoints = point: 0; games: 1; sets: 1 
+5/22/2022 16:10:16: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aServing = serving:1
+5/22/2022 16:10:16: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bPoints = point: 0; games: 2; sets: 0 
+5/22/2022 16:10:16: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bServing = serving:0
+5/22/2022 16:10:16: [G_Auto 2] :  Store Value (Shared) for market: price = 1.87
+5/22/2022 16:10:16: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 50.79
+5/22/2022 16:10:16: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 60.93
+5/22/2022 16:10:16: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.09
+5/22/2022 16:10:16: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 111.72
+5/22/2022 16:10:16: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.18
+5/22/2022 16:10:16: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.89
+5/22/2022 16:10:16: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.12
+5/22/2022 16:10:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:10:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:11:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:11:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:11:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:11:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:11:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:13:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:13:33: [G_Auto 1] :  Placed closure bet with greening on Astra Sharma by Backing 10.50 at 1.61
+5/22/2022 16:13:34: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aPoints = point: 0; games: 2; sets: 1 
+5/22/2022 16:13:34: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aServing = serving:0
+5/22/2022 16:13:34: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bPoints = point: 0; games: 2; sets: 0 
+5/22/2022 16:13:34: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bServing = serving:2
+5/22/2022 16:13:34: [G_Auto 2] :  Store Value (Shared) for market: price = 1.61
+5/22/2022 16:13:34: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 61.29
+5/22/2022 16:13:34: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 60.93
+5/22/2022 16:13:34: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.5
+5/22/2022 16:13:34: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 122.22
+5/22/2022 16:13:34: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.36
+5/22/2022 16:13:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.63
+5/22/2022 16:13:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.6
+5/22/2022 16:13:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:13:40: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aPoints = point: 0; games: 2; sets: 1 
+5/22/2022 16:13:40: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aServing = serving:0
+5/22/2022 16:13:40: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bPoints = point: 0; games: 2; sets: 0 
+5/22/2022 16:13:40: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bServing = serving:2
+5/22/2022 16:13:40: [G_Auto 2] :  Store Value (Shared) for market: price = 1.61
+5/22/2022 16:13:40: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 61.29
+5/22/2022 16:13:40: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 60.93
+5/22/2022 16:13:40: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.5
+5/22/2022 16:13:40: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 122.22
+5/22/2022 16:13:40: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.36
+5/22/2022 16:13:40: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.64
+5/22/2022 16:13:40: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.6
+5/22/2022 16:13:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:14:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:14:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:14:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:16:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:16:26: [G_Auto 1] :  € 9.41 Lay bet placed on Astra Sharma at 1.85. Fully matched at 1.85.  Ref: 10189          ( Fill or kill bet with 15 seconds delay.   )
+5/22/2022 16:16:27: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aPoints = point: 0; games: 2; sets: 1 
+5/22/2022 16:16:27: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aServing = serving:1
+5/22/2022 16:16:27: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bPoints = point: 0; games: 3; sets: 0 
+5/22/2022 16:16:27: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bServing = serving:0
+5/22/2022 16:16:27: [G_Auto 2] :  Store Value (Shared) for market: price = 1.85
+5/22/2022 16:16:27: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 61.29
+5/22/2022 16:16:27: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 70.34
+5/22/2022 16:16:27: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.41
+5/22/2022 16:16:27: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 131.63
+5/22/2022 16:16:27: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.62
+5/22/2022 16:16:27: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.8
+5/22/2022 16:16:27: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.22
+5/22/2022 16:16:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:16:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:17:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:17:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:17:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:17:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:17:55: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:18:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:20:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:20:28: [G_Auto 1] :  Placed closure bet with greening on Astra Sharma by Backing 10.74 at 1.62
+5/22/2022 16:20:29: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aPoints = point: 0; games: 3; sets: 1 
+5/22/2022 16:20:29: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aServing = serving:0
+5/22/2022 16:20:29: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bPoints = point: 0; games: 3; sets: 0 
+5/22/2022 16:20:29: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bServing = serving:2
+5/22/2022 16:20:29: [G_Auto 2] :  Store Value (Shared) for market: price = 1.62
+5/22/2022 16:20:29: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 72.03
+5/22/2022 16:20:29: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 70.34
+5/22/2022 16:20:29: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.74
+5/22/2022 16:20:29: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 142.37
+5/22/2022 16:20:29: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.7
+5/22/2022 16:20:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.64
+5/22/2022 16:20:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.56
+5/22/2022 16:20:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:20:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:21:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:21:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:21:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:21:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:21:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:27:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:27:13: [G_Auto 1] :  € 9.76 Lay bet placed on Astra Sharma at 1.82. Fully matched at 1.82.  Ref: 10195          ( Fill or kill bet with 15 seconds delay.   )
+5/22/2022 16:27:14: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aPoints = point: 0; games: 3; sets: 1 
+5/22/2022 16:27:14: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aServing = serving:1
+5/22/2022 16:27:14: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bPoints = point: 0; games: 4; sets: 0 
+5/22/2022 16:27:14: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bServing = serving:0
+5/22/2022 16:27:14: [G_Auto 2] :  Store Value (Shared) for market: price = 1.82
+5/22/2022 16:27:14: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 72.03
+5/22/2022 16:27:14: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 80.1
+5/22/2022 16:27:14: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.76
+5/22/2022 16:27:14: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 152.13
+5/22/2022 16:27:14: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.8
+5/22/2022 16:27:14: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.8
+5/22/2022 16:27:14: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.26
+5/22/2022 16:27:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:27:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:27:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:28:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:28:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:28:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:28:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:28:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:29:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:30:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:30:49: [G_Auto 1] :  € 13.11 Lay bet placed on Varvara Gracheva at 1.61. Fully matched at 1.61.  Ref: 10197          ( Fill or kill bet with 15 seconds delay.   )
+5/22/2022 16:30:49: [G_Auto 1] :  Placed closure bet with greening on Astra Sharma by Backing 6.68 at 2.66
+5/22/2022 16:30:50: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aPoints = point: 0; games: 3; sets: 1 
+5/22/2022 16:30:50: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aServing = serving:0
+5/22/2022 16:30:50: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bPoints = point: 0; games: 5; sets: 0 
+5/22/2022 16:30:50: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bServing = serving:2
+5/22/2022 16:30:50: [G_Auto 2] :  Store Value (Shared) for market: price = 2.66
+5/22/2022 16:30:50: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 78.71
+5/22/2022 16:30:50: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 93.21
+5/22/2022 16:30:50: [G_Auto 2] :  Store Value (Shared) for market: stake = 6.68
+5/22/2022 16:30:50: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 171.92
+5/22/2022 16:30:50: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.28
+5/22/2022 16:30:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.7
+5/22/2022 16:30:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.6
+5/22/2022 16:30:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:31:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:31:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:31:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:31:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:34:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:34:54: [G_Auto 1] :  Placed closure bet with greening on Varvara Gracheva by Backing 10.15 at 2.08
+5/22/2022 16:34:54: [G_Auto 1] :  € 8.99 Lay bet placed on Astra Sharma at 1.89. Entirely unmatched when it initially reached the market.   Ref: 10200          ( Fill or kill bet with 15 seconds delay.   )
+5/22/2022 16:34:55: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aPoints = point: 0; games: 4; sets: 1 
+5/22/2022 16:34:55: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aServing = serving:1
+5/22/2022 16:34:55: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bPoints = point: 0; games: 5; sets: 0 
+5/22/2022 16:34:55: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bServing = serving:0
+5/22/2022 16:34:55: [G_Auto 2] :  Store Value (Shared) for market: price = 2.08
+5/22/2022 16:34:55: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 88.86
+5/22/2022 16:34:55: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 93.21
+5/22/2022 16:34:55: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.15
+5/22/2022 16:34:55: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 182.07
+5/22/2022 16:34:55: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.26
+5/22/2022 16:34:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.87
+5/22/2022 16:34:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.08
+5/22/2022 16:34:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:35:09: [G_Auto 1] :  € 8.99 unmatched bet (Ref:10200) was killed.
+5/22/2022 16:35:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:35:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:35:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:35:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:36:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:36:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:36:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:36:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:38:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:38:41: [G_Auto 2] :  Store Value (Shared) for market: aSecondSetPrice = 3
+5/22/2022 16:38:41: [G_Auto 2] :  Store Value (Shared) for market: bSecondSetPrice = 1.5
+5/22/2022 16:38:45: [G_Auto 1] :  € 15.69 Lay bet placed on Varvara Gracheva at 1.51. Fully matched at 1.5.  Ref: 10202          ( Fill or kill bet with 15 seconds delay.   )
+5/22/2022 16:38:46: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aPoints = point: 0; games: 0; sets: 1 
+5/22/2022 16:38:46: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aServing = serving:0
+5/22/2022 16:38:46: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bPoints = point: 0; games: 0; sets: 1 
+5/22/2022 16:38:46: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bServing = serving:2
+5/22/2022 16:38:46: [G_Auto 2] :  Store Value (Shared) for market: price = 1.5
+5/22/2022 16:38:46: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 88.86
+5/22/2022 16:38:46: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 108.9
+5/22/2022 16:38:46: [G_Auto 2] :  Store Value (Shared) for market: stake = 15.69
+5/22/2022 16:38:46: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 197.76
+5/22/2022 16:38:46: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.17
+5/22/2022 16:38:46: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3
+5/22/2022 16:38:46: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.5
+5/22/2022 16:38:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:39:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:39:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:39:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:39:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:40:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:40:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:40:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:40:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:41:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:41:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:41:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:41:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:42:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:42:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:42:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:42:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:43:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:43:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:43:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:43:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:44:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:44:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:44:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:45:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:45:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:45:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:45:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:45:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:46:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:50:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:50:20: [G_Auto 1] :  Placed closure bet with greening on Varvara Gracheva by Backing 11.20 at 2.1
+5/22/2022 16:50:20: [G_Auto 1] :  € 8.70 Lay bet placed on Astra Sharma at 1.92. Fully matched at 1.91.  Ref: 10207          ( Fill or kill bet with 15 seconds delay.   )
+5/22/2022 16:50:20: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aPoints = point: 0; games: 1; sets: 1 
+5/22/2022 16:50:20: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aServing = serving:1
+5/22/2022 16:50:20: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bPoints = point: 0; games: 0; sets: 1 
+5/22/2022 16:50:20: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bServing = serving:0
+5/22/2022 16:50:20: [G_Auto 2] :  Store Value (Shared) for market: price = 2.1
+5/22/2022 16:50:20: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 100.06
+5/22/2022 16:50:20: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 117.6
+5/22/2022 16:50:20: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.2
+5/22/2022 16:50:20: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 217.66
+5/22/2022 16:50:20: [G_Auto 2] :  Store Value (Shared) for market: pl = 8.57
+5/22/2022 16:50:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.9
+5/22/2022 16:50:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.1
+5/22/2022 16:50:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:50:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:50:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:51:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:51:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:51:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:51:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:55:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:55:41: [G_Auto 1] :  Placed closure bet with greening on Astra Sharma by Backing 10.79 at 1.54
+5/22/2022 16:55:41: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aPoints = point: 0; games: 2; sets: 1 
+5/22/2022 16:55:41: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aServing = serving:0
+5/22/2022 16:55:41: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bPoints = point: 0; games: 0; sets: 1 
+5/22/2022 16:55:41: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bServing = serving:2
+5/22/2022 16:55:41: [G_Auto 2] :  Store Value (Shared) for market: price = 1.54
+5/22/2022 16:55:41: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 110.85
+5/22/2022 16:55:41: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 117.6
+5/22/2022 16:55:41: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.79
+5/22/2022 16:55:41: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 228.45
+5/22/2022 16:55:41: [G_Auto 2] :  Store Value (Shared) for market: pl = 6.61
+5/22/2022 16:55:41: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.56
+5/22/2022 16:55:41: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.78
+5/22/2022 16:55:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:55:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:56:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 16:56:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 16:56:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 17:03:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:03:21: [G_Auto 1] :  € 10.26 Lay bet placed on Astra Sharma at 1.78. Fully matched at 1.78.  Ref: 10216          ( Fill or kill bet with 15 seconds delay.   )
+5/22/2022 17:03:22: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aPoints = point: 0; games: 2; sets: 1 
+5/22/2022 17:03:22: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aServing = serving:1
+5/22/2022 17:03:22: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bPoints = point: 0; games: 1; sets: 1 
+5/22/2022 17:03:22: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bServing = serving:0
+5/22/2022 17:03:22: [G_Auto 2] :  Store Value (Shared) for market: price = 1.78
+5/22/2022 17:03:22: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 110.85
+5/22/2022 17:03:22: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 127.86
+5/22/2022 17:03:22: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.26
+5/22/2022 17:03:22: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 238.71
+5/22/2022 17:03:22: [G_Auto 2] :  Store Value (Shared) for market: pl = 6.5
+5/22/2022 17:03:22: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.76
+5/22/2022 17:03:22: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.28
+5/22/2022 17:03:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:03:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:03:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:04:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:04:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:04:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:04:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:05:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 17:05:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 17:07:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:07:57: [G_Auto 1] :  Placed closure bet with greening on Astra Sharma by Backing 12.86 at 1.42
+5/22/2022 17:07:58: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aPoints = point: 0; games: 3; sets: 1 
+5/22/2022 17:07:58: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aServing = serving:0
+5/22/2022 17:07:58: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bPoints = point: 0; games: 1; sets: 1 
+5/22/2022 17:07:58: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bServing = serving:2
+5/22/2022 17:07:58: [G_Auto 2] :  Store Value (Shared) for market: price = 1.42
+5/22/2022 17:07:58: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 123.71
+5/22/2022 17:07:58: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 127.86
+5/22/2022 17:07:58: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.86
+5/22/2022 17:07:58: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 251.57
+5/22/2022 17:07:58: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.07
+5/22/2022 17:07:58: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.44
+5/22/2022 17:07:58: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.3
+5/22/2022 17:08:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:08:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:08:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:08:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 17:08:55: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 17:11:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:12:09: [G_Auto 1] :  € 12.90 Lay bet placed on Astra Sharma at 1.62. Fully matched at 1.62.  Ref: 10221          ( Fill or kill bet with 15 seconds delay.   )
+5/22/2022 17:12:09: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aPoints = point: 0; games: 3; sets: 1 
+5/22/2022 17:12:09: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aServing = serving:1
+5/22/2022 17:12:09: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bPoints = point: 0; games: 2; sets: 1 
+5/22/2022 17:12:09: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bServing = serving:0
+5/22/2022 17:12:09: [G_Auto 2] :  Store Value (Shared) for market: price = 1.62
+5/22/2022 17:12:09: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 123.71
+5/22/2022 17:12:09: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 140.76
+5/22/2022 17:12:09: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.9
+5/22/2022 17:12:09: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 264.47
+5/22/2022 17:12:09: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.91
+5/22/2022 17:12:09: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.6
+5/22/2022 17:12:09: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.68
+5/22/2022 17:12:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:12:16: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aPoints = point: 0; games: 3; sets: 1 
+5/22/2022 17:12:16: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aServing = serving:1
+5/22/2022 17:12:16: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bPoints = point: 0; games: 2; sets: 1 
+5/22/2022 17:12:16: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bServing = serving:0
+5/22/2022 17:12:16: [G_Auto 2] :  Store Value (Shared) for market: price = 1.62
+5/22/2022 17:12:16: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 123.71
+5/22/2022 17:12:16: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 140.76
+5/22/2022 17:12:16: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.9
+5/22/2022 17:12:16: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 264.47
+5/22/2022 17:12:16: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.91
+5/22/2022 17:12:16: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.6
+5/22/2022 17:12:16: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.64
+5/22/2022 17:12:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:12:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:12:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:13:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:13:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:13:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 17:14:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 17:14:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 17:16:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:16:47: [G_Auto 1] :  Placed closure bet with greening on Astra Sharma by Backing 15.96 at 1.31
+5/22/2022 17:16:47: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aPoints = point: 0; games: 4; sets: 1 
+5/22/2022 17:16:47: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aServing = serving:0
+5/22/2022 17:16:47: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bPoints = point: 0; games: 2; sets: 1 
+5/22/2022 17:16:47: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bServing = serving:2
+5/22/2022 17:16:47: [G_Auto 2] :  Store Value (Shared) for market: price = 1.31
+5/22/2022 17:16:47: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 139.67
+5/22/2022 17:16:47: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 140.76
+5/22/2022 17:16:47: [G_Auto 2] :  Store Value (Shared) for market: stake = 15.96
+5/22/2022 17:16:47: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 280.43
+5/22/2022 17:16:47: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.08
+5/22/2022 17:16:47: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.31
+5/22/2022 17:16:47: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4
+5/22/2022 17:16:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:16:54: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aPoints = point: 0; games: 4; sets: 1 
+5/22/2022 17:16:54: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aServing = serving:0
+5/22/2022 17:16:54: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bPoints = point: 0; games: 2; sets: 1 
+5/22/2022 17:16:54: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bServing = serving:2
+5/22/2022 17:16:54: [G_Auto 2] :  Store Value (Shared) for market: price = 1.31
+5/22/2022 17:16:54: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 139.67
+5/22/2022 17:16:54: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 140.76
+5/22/2022 17:16:54: [G_Auto 2] :  Store Value (Shared) for market: stake = 15.96
+5/22/2022 17:16:54: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 280.43
+5/22/2022 17:16:54: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.08
+5/22/2022 17:16:54: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.33
+5/22/2022 17:16:54: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4
+5/22/2022 17:17:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:17:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:17:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 17:17:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 17:17:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 17:20:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:20:37: [G_Auto 1] :  € 17.39 Lay bet placed on Astra Sharma at 1.46. Fully matched at 1.45.  Ref: 10225          ( Fill or kill bet with 15 seconds delay.   )
+5/22/2022 17:20:37: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aPoints = point: 0; games: 4; sets: 1 
+5/22/2022 17:20:37: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aServing = serving:1
+5/22/2022 17:20:37: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bPoints = point: 0; games: 3; sets: 1 
+5/22/2022 17:20:37: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bServing = serving:0
+5/22/2022 17:20:37: [G_Auto 2] :  Store Value (Shared) for market: price = 1.45
+5/22/2022 17:20:37: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 139.67
+5/22/2022 17:20:37: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 158.15
+5/22/2022 17:20:37: [G_Auto 2] :  Store Value (Shared) for market: stake = 17.39
+5/22/2022 17:20:37: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 297.82
+5/22/2022 17:20:37: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.95
+5/22/2022 17:20:37: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.44
+5/22/2022 17:20:37: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.2
+5/22/2022 17:20:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:20:42: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aPoints = point: 0; games: 4; sets: 1 
+5/22/2022 17:20:42: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aServing = serving:1
+5/22/2022 17:20:42: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bPoints = point: 0; games: 3; sets: 1 
+5/22/2022 17:20:42: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bServing = serving:0
+5/22/2022 17:20:42: [G_Auto 2] :  Store Value (Shared) for market: price = 1.45
+5/22/2022 17:20:42: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 139.67
+5/22/2022 17:20:42: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 158.15
+5/22/2022 17:20:42: [G_Auto 2] :  Store Value (Shared) for market: stake = 17.39
+5/22/2022 17:20:42: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 297.82
+5/22/2022 17:20:42: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.95
+5/22/2022 17:20:42: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.45
+5/22/2022 17:20:42: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.2
+5/22/2022 17:20:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:21:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:21:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:21:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:21:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:22:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 17:22:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 17:22:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 17:23:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:23:43: [G_Auto 1] :  Placed closure bet with greening on Astra Sharma by Backing 21.73 at 1.16
+5/22/2022 17:23:43: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aPoints = point: 0; games: 5; sets: 1 
+5/22/2022 17:23:43: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aServing = serving:0
+5/22/2022 17:23:43: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bPoints = point: 0; games: 3; sets: 1 
+5/22/2022 17:23:43: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bServing = serving:2
+5/22/2022 17:23:43: [G_Auto 2] :  Store Value (Shared) for market: price = 1.16
+5/22/2022 17:23:43: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 161.4
+5/22/2022 17:23:43: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 158.15
+5/22/2022 17:23:43: [G_Auto 2] :  Store Value (Shared) for market: stake = 21.73
+5/22/2022 17:23:43: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 319.55
+5/22/2022 17:23:43: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.25
+5/22/2022 17:23:43: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.15
+5/22/2022 17:23:43: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 7
+5/22/2022 17:23:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:23:48: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aPoints = point: 0; games: 5; sets: 1 
+5/22/2022 17:23:48: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aServing = serving:0
+5/22/2022 17:23:48: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bPoints = point: 0; games: 3; sets: 1 
+5/22/2022 17:23:48: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bServing = serving:2
+5/22/2022 17:23:48: [G_Auto 2] :  Store Value (Shared) for market: price = 1.16
+5/22/2022 17:23:48: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 161.4
+5/22/2022 17:23:48: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 158.15
+5/22/2022 17:23:48: [G_Auto 2] :  Store Value (Shared) for market: stake = 21.73
+5/22/2022 17:23:48: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 319.55
+5/22/2022 17:23:48: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.25
+5/22/2022 17:23:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.16
+5/22/2022 17:23:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 7.2
+5/22/2022 17:24:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:24:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 17:24:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 17:24:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 17:31:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:31:25: [G_Auto 1] :  € 30.77 Lay bet placed on Astra Sharma at 1.26. Fully matched at 1.26.  Ref: 10229          ( Fill or kill bet with 15 seconds delay.   )
+5/22/2022 17:31:27: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aPoints = point: 0; games: 5; sets: 1 
+5/22/2022 17:31:27: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aServing = serving:1
+5/22/2022 17:31:27: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bPoints = point: 0; games: 4; sets: 1 
+5/22/2022 17:31:27: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bServing = serving:0
+5/22/2022 17:31:27: [G_Auto 2] :  Store Value (Shared) for market: price = 1.26
+5/22/2022 17:31:27: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 161.4
+5/22/2022 17:31:27: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 188.92
+5/22/2022 17:31:27: [G_Auto 2] :  Store Value (Shared) for market: stake = 30.77
+5/22/2022 17:31:27: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 350.32
+5/22/2022 17:31:27: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.5
+5/22/2022 17:31:27: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.25
+5/22/2022 17:31:27: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.1
+5/22/2022 17:31:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:31:33: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aPoints = point: 0; games: 5; sets: 1 
+5/22/2022 17:31:33: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aServing = serving:1
+5/22/2022 17:31:33: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bPoints = point: 0; games: 4; sets: 1 
+5/22/2022 17:31:33: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bServing = serving:0
+5/22/2022 17:31:33: [G_Auto 2] :  Store Value (Shared) for market: price = 1.26
+5/22/2022 17:31:33: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 161.4
+5/22/2022 17:31:33: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 188.92
+5/22/2022 17:31:33: [G_Auto 2] :  Store Value (Shared) for market: stake = 30.77
+5/22/2022 17:31:33: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 350.32
+5/22/2022 17:31:33: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.75
+5/22/2022 17:31:33: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.24
+5/22/2022 17:31:33: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.1
+5/22/2022 17:31:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:32:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:32:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:32:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:32:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:33:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:33:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:33:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 17:33:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 17:35:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:36:10: [G_Auto 1] :  Placed closure bet with greening on Astra Sharma by Backing 16.43 at 2.36
+5/22/2022 17:36:10: [G_Auto 1] :  € 10.96 Lay bet placed on Varvara Gracheva at 1.73. Entirely unmatched when it initially reached the market.   Ref: 10232          ( Fill or kill bet with 15 seconds delay.   )
+5/22/2022 17:36:11: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aPoints = point: 0; games: 5; sets: 1 
+5/22/2022 17:36:11: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aServing = serving:0
+5/22/2022 17:36:11: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bPoints = point: 0; games: 5; sets: 1 
+5/22/2022 17:36:11: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bServing = serving:2
+5/22/2022 17:36:11: [G_Auto 2] :  Store Value (Shared) for market: price = 2.36
+5/22/2022 17:36:11: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 177.83
+5/22/2022 17:36:11: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 188.92
+5/22/2022 17:36:11: [G_Auto 2] :  Store Value (Shared) for market: stake = 16.43
+5/22/2022 17:36:11: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 366.75
+5/22/2022 17:36:11: [G_Auto 2] :  Store Value (Shared) for market: pl = 10.87
+5/22/2022 17:36:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.34
+5/22/2022 17:36:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.75
+5/22/2022 17:36:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:36:17: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aPoints = point: 0; games: 5; sets: 1 
+5/22/2022 17:36:17: [G_Auto 2] :  Store Text Value (Shared) for Astra Sharma: aServing = serving:0
+5/22/2022 17:36:17: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bPoints = point: 0; games: 5; sets: 1 
+5/22/2022 17:36:17: [G_Auto 2] :  Store Text Value (Shared) for Varvara Gracheva: bServing = serving:2
+5/22/2022 17:36:17: [G_Auto 2] :  Store Value (Shared) for market: price = 2.36
+5/22/2022 17:36:17: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 177.83
+5/22/2022 17:36:17: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 188.92
+5/22/2022 17:36:17: [G_Auto 2] :  Store Value (Shared) for market: stake = 16.43
+5/22/2022 17:36:17: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 366.75
+5/22/2022 17:36:17: [G_Auto 2] :  Store Value (Shared) for market: pl = 10.87
+5/22/2022 17:36:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.36
+5/22/2022 17:36:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.73
+5/22/2022 17:36:25: [G_Auto 1] :  € 10.96 unmatched bet (Ref:10232) was killed.
+5/22/2022 17:36:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:36:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:36:55: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 17:37:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 17:37:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 17:39:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:39:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:40:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:40:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:40:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:41:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:41:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:41:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 17:41:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 17:42:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 17:43:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 17:43:53:  Guardian has detected that the market is suspended

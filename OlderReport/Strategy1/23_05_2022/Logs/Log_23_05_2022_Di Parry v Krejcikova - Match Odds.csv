@@ -1,0 +1,436 @@
+5/23/2022 09:06:49: [G_Auto 2] :  Store Text Value (Shared) for Diane Parry: info = marketName: Di Parry v Krejcikova - Match Odds; runnerA: Diane Parry; runnerB: Barbora Krejcikova 
+5/23/2022 09:06:49: [G_Auto 2] :  Store Value (Shared) for market: aId = 12737413
+5/23/2022 09:06:49: [G_Auto 2] :  Store Value (Shared) for market: bId = 8784972
+5/23/2022 12:26:41:  Guardian has detected that the market is in-play
+5/23/2022 12:26:41:  Guardian has detected that the market is suspended
+5/23/2022 12:26:45: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 5; bBsp: 1.25; volume: 18906.23 
+5/23/2022 12:26:45: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 5; bBsp: 1.25; volume: 18906.23 
+5/23/2022 12:26:45:  Guardian has detected that the market is now unsuspended
+5/23/2022 12:26:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 12:27:02: [G_Auto 1] :  € 29.63 Lay bet placed on Barbora Krejcikova at 1.27. Entirely unmatched when it initially reached the market.   Ref: 10099          ( Fill or kill bet with 15 seconds delay.   )
+5/23/2022 12:27:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 12:27:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 12:27:17: [G_Auto 1] :  € 29.63 unmatched bet (Ref:10099) was killed.
+5/23/2022 12:27:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 12:30:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 12:30:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 12:30:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 12:30:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 12:31:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 12:31:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 12:31:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 12:32:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 12:33:10: [G_Auto 1] :  € 66.67 Lay bet placed on Barbora Krejcikova at 1.12. Fully matched at 1.11.  Ref: 10100          ( Fill or kill bet with 15 seconds delay.   )
+5/23/2022 12:33:10: [G_Auto 2] :  Store Text Value (Shared) for Diane Parry: aPoints = point: 0; games: 0; sets: 0 
+5/23/2022 12:33:10: [G_Auto 2] :  Store Text Value (Shared) for Diane Parry: aServing = serving:0
+5/23/2022 12:33:10: [G_Auto 2] :  Store Text Value (Shared) for Barbora Krejcikova: bPoints = point: 0; games: 2; sets: 0 
+5/23/2022 12:33:10: [G_Auto 2] :  Store Text Value (Shared) for Barbora Krejcikova: bServing = serving:2
+5/23/2022 12:33:10: [G_Auto 2] :  Store Value (Shared) for market: price = 1.11
+5/23/2022 12:33:10: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+5/23/2022 12:33:10: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 66.67
+5/23/2022 12:33:10: [G_Auto 2] :  Store Value (Shared) for market: stake = 66.67
+5/23/2022 12:33:10: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 66.67
+5/23/2022 12:33:10: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.61
+5/23/2022 12:33:10: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 11.5
+5/23/2022 12:33:10: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.1
+5/23/2022 12:33:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 12:33:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 12:33:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 12:33:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 12:34:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 12:35:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 12:35:41: [G_Auto 1] :  Placed closure bet with greening on Barbora Krejcikova by Backing 68.52 at 1.08
+5/23/2022 12:35:41: [G_Auto 2] :  Store Text Value (Shared) for Diane Parry: aPoints = point: 0; games: 0; sets: 0 
+5/23/2022 12:35:41: [G_Auto 2] :  Store Text Value (Shared) for Diane Parry: aServing = serving:1
+5/23/2022 12:35:41: [G_Auto 2] :  Store Text Value (Shared) for Barbora Krejcikova: bPoints = point: 0; games: 3; sets: 0 
+5/23/2022 12:35:41: [G_Auto 2] :  Store Text Value (Shared) for Barbora Krejcikova: bServing = serving:0
+5/23/2022 12:35:41: [G_Auto 2] :  Store Value (Shared) for market: price = 1.08
+5/23/2022 12:35:41: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 68.52
+5/23/2022 12:35:41: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 66.67
+5/23/2022 12:35:41: [G_Auto 2] :  Store Value (Shared) for market: stake = 68.52
+5/23/2022 12:35:41: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 135.19
+5/23/2022 12:35:41: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.85
+5/23/2022 12:35:41: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 13
+5/23/2022 12:35:41: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.09
+5/23/2022 12:35:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 12:36:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 12:36:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 12:36:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 12:36:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 12:37:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 12:37:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 12:37:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 12:38:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 12:38:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 12:40:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 12:40:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 12:41:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 12:41:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 12:41:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 12:44:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 12:45:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 12:45:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 12:45:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 12:45:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 12:46:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 12:46:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 12:46:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 12:46:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 12:47:16: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 12:47:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 12:47:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 12:48:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 12:51:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 12:51:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 12:51:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 12:52:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 12:52:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 12:52:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 12:59:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 12:59:16: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 17.5
+5/23/2022 12:59:16: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 1.05
+5/23/2022 12:59:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 12:59:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 12:59:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:00:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:00:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:00:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:01:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:01:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:01:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:01:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 13:02:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 13:04:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:04:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:05:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:05:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:05:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:06:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 13:06:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 13:11:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:11:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:11:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:12:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 13:12:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 13:12:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 13:15:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:15:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:16:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:16:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:16:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:16:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:17:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:17:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:17:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:18:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:18:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:18:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:18:55: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 13:19:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 13:19:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 13:23:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:24:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:24:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:24:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 13:24:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 13:28:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:28:35: [G_Auto 1] :  € 57.14 Lay bet placed on Barbora Krejcikova at 1.14. Fully matched at 1.13.  Ref: 10102          ( Fill or kill bet with 15 seconds delay.   )
+5/23/2022 13:28:36: [G_Auto 2] :  Store Text Value (Shared) for Diane Parry: aPoints = point: 0; games: 3; sets: 0 
+5/23/2022 13:28:36: [G_Auto 2] :  Store Text Value (Shared) for Diane Parry: aServing = serving:0
+5/23/2022 13:28:36: [G_Auto 2] :  Store Text Value (Shared) for Barbora Krejcikova: bPoints = point: 0; games: 2; sets: 1 
+5/23/2022 13:28:36: [G_Auto 2] :  Store Text Value (Shared) for Barbora Krejcikova: bServing = serving:2
+5/23/2022 13:28:36: [G_Auto 2] :  Store Value (Shared) for market: price = 1.13
+5/23/2022 13:28:36: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 68.52
+5/23/2022 13:28:36: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 123.81
+5/23/2022 13:28:36: [G_Auto 2] :  Store Value (Shared) for market: stake = 57.14
+5/23/2022 13:28:36: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 192.33
+5/23/2022 13:28:36: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.36
+5/23/2022 13:28:36: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 10
+5/23/2022 13:28:36: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.12
+5/23/2022 13:28:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:28:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:29:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:29:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:29:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:30:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:30:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:30:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 13:30:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 13:33:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:33:14: [G_Auto 1] :  Placed closure bet with greening on Barbora Krejcikova by Backing 51.25 at 1.26
+5/23/2022 13:33:14: [G_Auto 2] :  Store Text Value (Shared) for Diane Parry: aPoints = point: 0; games: 4; sets: 0 
+5/23/2022 13:33:14: [G_Auto 2] :  Store Text Value (Shared) for Diane Parry: aServing = serving:1
+5/23/2022 13:33:14: [G_Auto 2] :  Store Text Value (Shared) for Barbora Krejcikova: bPoints = point: 0; games: 2; sets: 1 
+5/23/2022 13:33:14: [G_Auto 2] :  Store Text Value (Shared) for Barbora Krejcikova: bServing = serving:0
+5/23/2022 13:33:14: [G_Auto 2] :  Store Value (Shared) for market: price = 1.26
+5/23/2022 13:33:14: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 119.77
+5/23/2022 13:33:14: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 123.81
+5/23/2022 13:33:14: [G_Auto 2] :  Store Value (Shared) for market: stake = 51.25
+5/23/2022 13:33:14: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 243.58
+5/23/2022 13:33:14: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.96
+5/23/2022 13:33:14: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.7
+5/23/2022 13:33:14: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.27
+5/23/2022 13:33:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:33:21: [G_Auto 2] :  Store Text Value (Shared) for Diane Parry: aPoints = point: 0; games: 4; sets: 0 
+5/23/2022 13:33:21: [G_Auto 2] :  Store Text Value (Shared) for Diane Parry: aServing = serving:1
+5/23/2022 13:33:21: [G_Auto 2] :  Store Text Value (Shared) for Barbora Krejcikova: bPoints = point: 0; games: 2; sets: 1 
+5/23/2022 13:33:21: [G_Auto 2] :  Store Text Value (Shared) for Barbora Krejcikova: bServing = serving:0
+5/23/2022 13:33:21: [G_Auto 2] :  Store Value (Shared) for market: price = 1.26
+5/23/2022 13:33:21: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 119.77
+5/23/2022 13:33:21: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 123.81
+5/23/2022 13:33:21: [G_Auto 2] :  Store Value (Shared) for market: stake = 51.25
+5/23/2022 13:33:21: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 243.58
+5/23/2022 13:33:21: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.96
+5/23/2022 13:33:21: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.7
+5/23/2022 13:33:21: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.26
+5/23/2022 13:33:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:33:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 13:34:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 13:34:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:35:09: [G_Auto 1] :  € 19.05 Lay bet placed on Barbora Krejcikova at 1.42. Fully matched at 1.41.  Ref: 10104          ( Fill or kill bet with 15 seconds delay.   )
+5/23/2022 13:35:09: [G_Auto 2] :  Store Text Value (Shared) for Diane Parry: aPoints = point: 0; games: 5; sets: 0 
+5/23/2022 13:35:09: [G_Auto 2] :  Store Text Value (Shared) for Diane Parry: aServing = serving:0
+5/23/2022 13:35:09: [G_Auto 2] :  Store Text Value (Shared) for Barbora Krejcikova: bPoints = point: 0; games: 2; sets: 1 
+5/23/2022 13:35:09: [G_Auto 2] :  Store Text Value (Shared) for Barbora Krejcikova: bServing = serving:2
+5/23/2022 13:35:09: [G_Auto 2] :  Store Value (Shared) for market: price = 1.41
+5/23/2022 13:35:09: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 119.77
+5/23/2022 13:35:09: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 142.86
+5/23/2022 13:35:09: [G_Auto 2] :  Store Value (Shared) for market: stake = 19.05
+5/23/2022 13:35:09: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 262.63
+5/23/2022 13:35:09: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.96
+5/23/2022 13:35:09: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.45
+5/23/2022 13:35:09: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.41
+5/23/2022 13:35:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:35:15: [G_Auto 2] :  Store Text Value (Shared) for Diane Parry: aPoints = point: 0; games: 5; sets: 0 
+5/23/2022 13:35:15: [G_Auto 2] :  Store Text Value (Shared) for Diane Parry: aServing = serving:0
+5/23/2022 13:35:15: [G_Auto 2] :  Store Text Value (Shared) for Barbora Krejcikova: bPoints = point: 0; games: 2; sets: 1 
+5/23/2022 13:35:15: [G_Auto 2] :  Store Text Value (Shared) for Barbora Krejcikova: bServing = serving:2
+5/23/2022 13:35:15: [G_Auto 2] :  Store Value (Shared) for market: price = 1.41
+5/23/2022 13:35:15: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 119.77
+5/23/2022 13:35:15: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 142.86
+5/23/2022 13:35:15: [G_Auto 2] :  Store Value (Shared) for market: stake = 19.05
+5/23/2022 13:35:15: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 262.63
+5/23/2022 13:35:15: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.96
+5/23/2022 13:35:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.45
+5/23/2022 13:35:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.41
+5/23/2022 13:35:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:35:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:36:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:36:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:36:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:37:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:37:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 13:37:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 13:39:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:39:34: [G_Auto 2] :  Store Value (Shared) for market: aSecondSetPrice = 2.68
+5/23/2022 13:39:34: [G_Auto 2] :  Store Value (Shared) for market: bSecondSetPrice = 1.6
+5/23/2022 13:39:41: [G_Auto 1] :  Placed closure bet with greening on Barbora Krejcikova by Backing 16.78 at 1.6
+5/23/2022 13:39:41: [G_Auto 2] :  Store Text Value (Shared) for Diane Parry: aPoints = point: 0; games: 0; sets: 1 
+5/23/2022 13:39:41: [G_Auto 2] :  Store Text Value (Shared) for Diane Parry: aServing = serving:1
+5/23/2022 13:39:41: [G_Auto 2] :  Store Text Value (Shared) for Barbora Krejcikova: bPoints = point: 0; games: 0; sets: 1 
+5/23/2022 13:39:41: [G_Auto 2] :  Store Text Value (Shared) for Barbora Krejcikova: bServing = serving:0
+5/23/2022 13:39:41: [G_Auto 2] :  Store Value (Shared) for market: price = 1.6
+5/23/2022 13:39:41: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 136.55
+5/23/2022 13:39:41: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 142.86
+5/23/2022 13:39:41: [G_Auto 2] :  Store Value (Shared) for market: stake = 16.78
+5/23/2022 13:39:41: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 279.41
+5/23/2022 13:39:41: [G_Auto 2] :  Store Value (Shared) for market: pl = 6.18
+5/23/2022 13:39:41: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.62
+5/23/2022 13:39:41: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.6
+5/23/2022 13:39:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:39:48: [G_Auto 2] :  Store Text Value (Shared) for Diane Parry: aPoints = point: 0; games: 0; sets: 1 
+5/23/2022 13:39:48: [G_Auto 2] :  Store Text Value (Shared) for Diane Parry: aServing = serving:1
+5/23/2022 13:39:48: [G_Auto 2] :  Store Text Value (Shared) for Barbora Krejcikova: bPoints = point: 0; games: 0; sets: 1 
+5/23/2022 13:39:48: [G_Auto 2] :  Store Text Value (Shared) for Barbora Krejcikova: bServing = serving:0
+5/23/2022 13:39:48: [G_Auto 2] :  Store Value (Shared) for market: price = 1.6
+5/23/2022 13:39:48: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 136.55
+5/23/2022 13:39:48: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 142.86
+5/23/2022 13:39:48: [G_Auto 2] :  Store Value (Shared) for market: stake = 16.78
+5/23/2022 13:39:48: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 279.41
+5/23/2022 13:39:48: [G_Auto 2] :  Store Value (Shared) for market: pl = 6.18
+5/23/2022 13:39:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.68
+5/23/2022 13:39:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.6
+5/23/2022 13:40:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:40:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:40:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:40:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:41:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:41:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:41:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:42:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:42:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:42:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:42:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:43:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:43:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:43:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:44:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:44:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:44:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:45:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:45:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:45:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:45:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:46:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:46:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:46:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:47:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 13:53:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:53:28: [G_Auto 1] :  € 30.77 Lay bet placed on Barbora Krejcikova at 1.26. Fully matched at 1.25.  Ref: 10106          ( Fill or kill bet with 15 seconds delay.   )
+5/23/2022 13:53:29: [G_Auto 2] :  Store Text Value (Shared) for Diane Parry: aPoints = point: 0; games: 0; sets: 1 
+5/23/2022 13:53:29: [G_Auto 2] :  Store Text Value (Shared) for Diane Parry: aServing = serving:0
+5/23/2022 13:53:29: [G_Auto 2] :  Store Text Value (Shared) for Barbora Krejcikova: bPoints = point: 0; games: 1; sets: 1 
+5/23/2022 13:53:29: [G_Auto 2] :  Store Text Value (Shared) for Barbora Krejcikova: bServing = serving:2
+5/23/2022 13:53:29: [G_Auto 2] :  Store Value (Shared) for market: price = 1.25
+5/23/2022 13:53:29: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 136.55
+5/23/2022 13:53:29: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 173.63
+5/23/2022 13:53:29: [G_Auto 2] :  Store Value (Shared) for market: stake = 30.77
+5/23/2022 13:53:29: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 310.18
+5/23/2022 13:53:29: [G_Auto 2] :  Store Value (Shared) for market: pl = 5.94
+5/23/2022 13:53:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 5.1
+5/23/2022 13:53:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.24
+5/23/2022 13:53:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:53:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:54:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:54:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:54:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 13:54:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 13:55:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 14:05:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 14:05:33: [G_Auto 1] :  Placed closure bet with greening on Barbora Krejcikova by Backing 33.75 at 1.14
+5/23/2022 14:05:33: [G_Auto 2] :  Store Text Value (Shared) for Diane Parry: aPoints = point: 0; games: 0; sets: 1 
+5/23/2022 14:05:33: [G_Auto 2] :  Store Text Value (Shared) for Diane Parry: aServing = serving:1
+5/23/2022 14:05:33: [G_Auto 2] :  Store Text Value (Shared) for Barbora Krejcikova: bPoints = point: 0; games: 2; sets: 1 
+5/23/2022 14:05:33: [G_Auto 2] :  Store Text Value (Shared) for Barbora Krejcikova: bServing = serving:0
+5/23/2022 14:05:33: [G_Auto 2] :  Store Value (Shared) for market: price = 1.14
+5/23/2022 14:05:33: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 170.3
+5/23/2022 14:05:33: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 173.63
+5/23/2022 14:05:33: [G_Auto 2] :  Store Value (Shared) for market: stake = 33.75
+5/23/2022 14:05:33: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 343.93
+5/23/2022 14:05:33: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.26
+5/23/2022 14:05:33: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 7.8
+5/23/2022 14:05:33: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.14
+5/23/2022 14:05:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 14:05:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 14:06:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 14:06:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 14:06:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 14:07:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 14:09:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 14:10:09: [G_Auto 1] :  € 32.00 Lay bet placed on Barbora Krejcikova at 1.25. Fully matched at 1.24.  Ref: 10109          ( Fill or kill bet with 15 seconds delay.   )
+5/23/2022 14:10:10: [G_Auto 2] :  Store Text Value (Shared) for Diane Parry: aPoints = point: 0; games: 1; sets: 1 
+5/23/2022 14:10:10: [G_Auto 2] :  Store Text Value (Shared) for Diane Parry: aServing = serving:0
+5/23/2022 14:10:10: [G_Auto 2] :  Store Text Value (Shared) for Barbora Krejcikova: bPoints = point: 0; games: 2; sets: 1 
+5/23/2022 14:10:10: [G_Auto 2] :  Store Text Value (Shared) for Barbora Krejcikova: bServing = serving:2
+5/23/2022 14:10:10: [G_Auto 2] :  Store Value (Shared) for market: price = 1.24
+5/23/2022 14:10:10: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 170.3
+5/23/2022 14:10:10: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 205.63
+5/23/2022 14:10:10: [G_Auto 2] :  Store Value (Shared) for market: stake = 32
+5/23/2022 14:10:10: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 375.93
+5/23/2022 14:10:10: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.01
+5/23/2022 14:10:10: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 5.4
+5/23/2022 14:10:10: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.23
+5/23/2022 14:10:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 14:10:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 14:10:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 14:11:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 14:11:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 14:11:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 14:11:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 14:12:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 14:12:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 14:12:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 14:13:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 14:14:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 14:14:45: [G_Auto 1] :  Placed closure bet with greening on Barbora Krejcikova by Backing 23.20 at 1.71
+5/23/2022 14:14:46: [G_Auto 2] :  Store Text Value (Shared) for Diane Parry: aPoints = point: 0; games: 2; sets: 1 
+5/23/2022 14:14:46: [G_Auto 2] :  Store Text Value (Shared) for Diane Parry: aServing = serving:1
+5/23/2022 14:14:46: [G_Auto 2] :  Store Text Value (Shared) for Barbora Krejcikova: bPoints = point: 0; games: 2; sets: 1 
+5/23/2022 14:14:46: [G_Auto 2] :  Store Text Value (Shared) for Barbora Krejcikova: bServing = serving:0
+5/23/2022 14:14:46: [G_Auto 2] :  Store Value (Shared) for market: price = 1.71
+5/23/2022 14:14:46: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 193.5
+5/23/2022 14:14:46: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 205.63
+5/23/2022 14:14:46: [G_Auto 2] :  Store Value (Shared) for market: stake = 23.2
+5/23/2022 14:14:46: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 399.13
+5/23/2022 14:14:46: [G_Auto 2] :  Store Value (Shared) for market: pl = 11.89
+5/23/2022 14:14:46: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.36
+5/23/2022 14:14:46: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.71
+5/23/2022 14:14:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 14:14:53: [G_Auto 2] :  Store Text Value (Shared) for Diane Parry: aPoints = point: 0; games: 2; sets: 1 
+5/23/2022 14:14:53: [G_Auto 2] :  Store Text Value (Shared) for Diane Parry: aServing = serving:1
+5/23/2022 14:14:53: [G_Auto 2] :  Store Text Value (Shared) for Barbora Krejcikova: bPoints = point: 0; games: 2; sets: 1 
+5/23/2022 14:14:53: [G_Auto 2] :  Store Text Value (Shared) for Barbora Krejcikova: bServing = serving:0
+5/23/2022 14:14:53: [G_Auto 2] :  Store Value (Shared) for market: price = 1.71
+5/23/2022 14:14:53: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 193.5
+5/23/2022 14:14:53: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 205.63
+5/23/2022 14:14:53: [G_Auto 2] :  Store Value (Shared) for market: stake = 23.2
+5/23/2022 14:14:53: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 399.13
+5/23/2022 14:14:53: [G_Auto 2] :  Store Value (Shared) for market: pl = 11.89
+5/23/2022 14:14:53: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 2.38
+5/23/2022 14:14:53: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.73
+5/23/2022 14:15:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 14:15:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 14:15:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 14:15:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 14:16:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 14:16:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 14:17:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 14:17:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 14:17:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 14:18:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 14:18:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 14:18:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 14:18:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 14:18:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 14:19:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 14:19:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 14:21:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 14:21:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 14:21:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 14:21:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 14:22:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 14:22:16: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 14:22:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 14:23:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 14:24:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 14:24:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 14:24:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 14:24:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 14:25:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 14:25:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 14:25:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 14:25:55: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 14:29:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 14:29:25: [G_Auto 1] :  € 40.00 Lay bet placed on Diane Parry at 1.2. Fully matched at 1.19.  Ref: 10114          ( Fill or kill bet with 15 seconds delay.   )
+5/23/2022 14:29:26: [G_Auto 2] :  Store Text Value (Shared) for Diane Parry: aPoints = point: 0; games: 5; sets: 1 
+5/23/2022 14:29:26: [G_Auto 2] :  Store Text Value (Shared) for Diane Parry: aServing = serving:1
+5/23/2022 14:29:26: [G_Auto 2] :  Store Text Value (Shared) for Barbora Krejcikova: bPoints = point: 0; games: 3; sets: 1 
+5/23/2022 14:29:26: [G_Auto 2] :  Store Text Value (Shared) for Barbora Krejcikova: bServing = serving:0
+5/23/2022 14:29:26: [G_Auto 2] :  Store Value (Shared) for market: price = 1.19
+5/23/2022 14:29:26: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 193.5
+5/23/2022 14:29:26: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 245.63
+5/23/2022 14:29:26: [G_Auto 2] :  Store Value (Shared) for market: stake = 40
+5/23/2022 14:29:26: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 439.13
+5/23/2022 14:29:26: [G_Auto 2] :  Store Value (Shared) for market: pl = 11.55
+5/23/2022 14:29:26: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.19
+5/23/2022 14:29:26: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 6.6
+5/23/2022 14:29:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 14:29:32: [G_Auto 2] :  Store Text Value (Shared) for Diane Parry: aPoints = point: 0; games: 5; sets: 1 
+5/23/2022 14:29:32: [G_Auto 2] :  Store Text Value (Shared) for Diane Parry: aServing = serving:1
+5/23/2022 14:29:32: [G_Auto 2] :  Store Text Value (Shared) for Barbora Krejcikova: bPoints = point: 0; games: 3; sets: 1 
+5/23/2022 14:29:32: [G_Auto 2] :  Store Text Value (Shared) for Barbora Krejcikova: bServing = serving:0
+5/23/2022 14:29:32: [G_Auto 2] :  Store Value (Shared) for market: price = 1.19
+5/23/2022 14:29:32: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 193.5
+5/23/2022 14:29:32: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 245.63
+5/23/2022 14:29:32: [G_Auto 2] :  Store Value (Shared) for market: stake = 40
+5/23/2022 14:29:32: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 439.13
+5/23/2022 14:29:32: [G_Auto 2] :  Store Value (Shared) for market: pl = 11.89
+5/23/2022 14:29:32: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.19
+5/23/2022 14:29:32: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 6.2
+5/23/2022 14:29:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 14:30:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/23/2022 14:30:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 14:30:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 14:30:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 14:31:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/23/2022 14:34:58:  Guardian has detected that the market is suspended

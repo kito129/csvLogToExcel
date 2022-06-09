@@ -1,0 +1,300 @@
+5/22/2022 09:10:12: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: info = marketName: Pera v Teichmann - Match Odds; runnerA: Bernarda Pera; runnerB: Jil Teichmann 
+5/22/2022 09:10:12: [G_Auto 2] :  Store Value (Shared) for market: aId = 8784983
+5/22/2022 09:10:12: [G_Auto 2] :  Store Value (Shared) for market: bId = 9247812
+5/22/2022 14:13:02:  Guardian has detected that the market is in-play
+5/22/2022 14:13:02:  Guardian has detected that the market is suspended
+5/22/2022 14:13:05: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 3.25; bBsp: 1.45; volume: 10568.43 
+5/22/2022 14:13:05: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 3.25; bBsp: 1.45; volume: 10568.43 
+5/22/2022 14:13:05:  Guardian has detected that the market is now unsuspended
+5/22/2022 14:13:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 14:13:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 14:14:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 14:15:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 14:15:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 14:15:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 14:15:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 14:16:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 14:16:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 14:20:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 14:20:34: [G_Auto 1] :  € 36.36 Lay bet placed on Jil Teichmann at 1.22. Fully matched at 1.22.  Ref: 10122          ( Fill or kill bet with 15 seconds delay.   )
+5/22/2022 14:20:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 14:20:37: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: aPoints = point: 0; games: 0; sets: 0 
+5/22/2022 14:20:37: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: aServing = serving:0
+5/22/2022 14:20:37: [G_Auto 2] :  Store Text Value (Shared) for Jil Teichmann: bPoints = point: 0; games: 2; sets: 0 
+5/22/2022 14:20:37: [G_Auto 2] :  Store Text Value (Shared) for Jil Teichmann: bServing = serving:2
+5/22/2022 14:20:37: [G_Auto 2] :  Store Value (Shared) for market: price = 1.22
+5/22/2022 14:20:37: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+5/22/2022 14:20:37: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 36.36
+5/22/2022 14:20:37: [G_Auto 2] :  Store Value (Shared) for market: stake = 36.36
+5/22/2022 14:20:37: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 36.36
+5/22/2022 14:20:37: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.61
+5/22/2022 14:20:37: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 6
+5/22/2022 14:20:37: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.2
+5/22/2022 14:20:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 14:21:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 14:21:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 14:22:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 14:22:38: [G_Auto 1] :  Placed closure bet with greening on Jil Teichmann by Backing 33.35 at 1.33
+5/22/2022 14:22:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 14:22:41: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: aPoints = point: 0; games: 1; sets: 0 
+5/22/2022 14:22:41: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: aServing = serving:1
+5/22/2022 14:22:41: [G_Auto 2] :  Store Text Value (Shared) for Jil Teichmann: bPoints = point: 0; games: 2; sets: 0 
+5/22/2022 14:22:41: [G_Auto 2] :  Store Text Value (Shared) for Jil Teichmann: bServing = serving:0
+5/22/2022 14:22:41: [G_Auto 2] :  Store Value (Shared) for market: price = 1.33
+5/22/2022 14:22:41: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 33.35
+5/22/2022 14:22:41: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 36.36
+5/22/2022 14:22:41: [G_Auto 2] :  Store Value (Shared) for market: stake = 33.35
+5/22/2022 14:22:41: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 69.71
+5/22/2022 14:22:41: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.95
+5/22/2022 14:22:41: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 5.1
+5/22/2022 14:22:41: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.33
+5/22/2022 14:22:46: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: aPoints = point: 0; games: 1; sets: 0 
+5/22/2022 14:22:46: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: aServing = serving:1
+5/22/2022 14:22:46: [G_Auto 2] :  Store Text Value (Shared) for Jil Teichmann: bPoints = point: 0; games: 2; sets: 0 
+5/22/2022 14:22:46: [G_Auto 2] :  Store Text Value (Shared) for Jil Teichmann: bServing = serving:0
+5/22/2022 14:22:46: [G_Auto 2] :  Store Value (Shared) for market: price = 1.33
+5/22/2022 14:22:46: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 33.35
+5/22/2022 14:22:46: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 36.36
+5/22/2022 14:22:46: [G_Auto 2] :  Store Value (Shared) for market: stake = 33.35
+5/22/2022 14:22:46: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 69.71
+5/22/2022 14:22:46: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.95
+5/22/2022 14:22:46: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 5.1
+5/22/2022 14:22:46: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.34
+5/22/2022 14:22:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 14:23:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 14:23:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 14:23:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 14:24:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 14:24:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 14:24:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 14:24:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 14:28:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 14:29:06: [G_Auto 1] :  € 17.39 Lay bet placed on Jil Teichmann at 1.46. Fully matched at 1.45.  Ref: 10129          ( Fill or kill bet with 15 seconds delay.   )
+5/22/2022 14:29:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 14:29:08: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: aPoints = point: 0; games: 2; sets: 0 
+5/22/2022 14:29:08: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: aServing = serving:0
+5/22/2022 14:29:08: [G_Auto 2] :  Store Text Value (Shared) for Jil Teichmann: bPoints = point: 0; games: 2; sets: 0 
+5/22/2022 14:29:08: [G_Auto 2] :  Store Text Value (Shared) for Jil Teichmann: bServing = serving:2
+5/22/2022 14:29:08: [G_Auto 2] :  Store Value (Shared) for market: price = 1.45
+5/22/2022 14:29:08: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 33.35
+5/22/2022 14:29:08: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 53.75
+5/22/2022 14:29:08: [G_Auto 2] :  Store Value (Shared) for market: stake = 17.39
+5/22/2022 14:29:08: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 87.1
+5/22/2022 14:29:08: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.83
+5/22/2022 14:29:08: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.2
+5/22/2022 14:29:08: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.44
+5/22/2022 14:29:14: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: aPoints = point: 0; games: 2; sets: 0 
+5/22/2022 14:29:14: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: aServing = serving:0
+5/22/2022 14:29:14: [G_Auto 2] :  Store Text Value (Shared) for Jil Teichmann: bPoints = point: 0; games: 2; sets: 0 
+5/22/2022 14:29:14: [G_Auto 2] :  Store Text Value (Shared) for Jil Teichmann: bServing = serving:2
+5/22/2022 14:29:14: [G_Auto 2] :  Store Value (Shared) for market: price = 1.45
+5/22/2022 14:29:14: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 33.35
+5/22/2022 14:29:14: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 53.75
+5/22/2022 14:29:14: [G_Auto 2] :  Store Value (Shared) for market: stake = 17.39
+5/22/2022 14:29:14: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 87.1
+5/22/2022 14:29:14: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.83
+5/22/2022 14:29:14: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.2
+5/22/2022 14:29:14: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.44
+5/22/2022 14:29:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 14:29:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 14:29:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 14:32:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 14:32:30: [G_Auto 1] :  Placed closure bet with greening on Jil Teichmann by Backing 18.82 at 1.34
+5/22/2022 14:32:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 14:32:32: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: aPoints = point: 0; games: 2; sets: 0 
+5/22/2022 14:32:32: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: aServing = serving:1
+5/22/2022 14:32:32: [G_Auto 2] :  Store Text Value (Shared) for Jil Teichmann: bPoints = point: 0; games: 3; sets: 0 
+5/22/2022 14:32:32: [G_Auto 2] :  Store Text Value (Shared) for Jil Teichmann: bServing = serving:0
+5/22/2022 14:32:32: [G_Auto 2] :  Store Value (Shared) for market: price = 1.34
+5/22/2022 14:32:32: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 52.17
+5/22/2022 14:32:32: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 53.75
+5/22/2022 14:32:32: [G_Auto 2] :  Store Value (Shared) for market: stake = 18.82
+5/22/2022 14:32:32: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 105.92
+5/22/2022 14:32:32: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.55
+5/22/2022 14:32:32: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.5
+5/22/2022 14:32:32: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.35
+5/22/2022 14:32:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 14:33:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 14:33:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 14:33:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 14:33:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 14:34:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 14:34:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 14:34:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 14:34:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 14:35:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 14:39:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 14:39:40: [G_Auto 1] :  € 38.10 Lay bet placed on Jil Teichmann at 1.21. Fully matched at 1.2.  Ref: 10136          ( Fill or kill bet with 15 seconds delay.   )
+5/22/2022 14:39:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 14:39:43: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: aPoints = point: 0; games: 2; sets: 0 
+5/22/2022 14:39:43: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: aServing = serving:0
+5/22/2022 14:39:43: [G_Auto 2] :  Store Text Value (Shared) for Jil Teichmann: bPoints = point: 0; games: 4; sets: 0 
+5/22/2022 14:39:43: [G_Auto 2] :  Store Text Value (Shared) for Jil Teichmann: bServing = serving:2
+5/22/2022 14:39:43: [G_Auto 2] :  Store Value (Shared) for market: price = 1.2
+5/22/2022 14:39:43: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 52.17
+5/22/2022 14:39:43: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 91.85
+5/22/2022 14:39:43: [G_Auto 2] :  Store Value (Shared) for market: stake = 38.1
+5/22/2022 14:39:43: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 144.02
+5/22/2022 14:39:43: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.91
+5/22/2022 14:39:43: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 6.2
+5/22/2022 14:39:43: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.18
+5/22/2022 14:39:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 14:40:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 14:40:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 14:42:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 14:42:41: [G_Auto 1] :  Placed closure bet with greening on Jil Teichmann by Backing 40.11 at 1.14
+5/22/2022 14:42:42: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: aPoints = point: 0; games: 2; sets: 0 
+5/22/2022 14:42:42: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: aServing = serving:1
+5/22/2022 14:42:42: [G_Auto 2] :  Store Text Value (Shared) for Jil Teichmann: bPoints = point: 0; games: 5; sets: 0 
+5/22/2022 14:42:42: [G_Auto 2] :  Store Text Value (Shared) for Jil Teichmann: bServing = serving:0
+5/22/2022 14:42:42: [G_Auto 2] :  Store Value (Shared) for market: price = 1.14
+5/22/2022 14:42:42: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 92.28
+5/22/2022 14:42:42: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 91.85
+5/22/2022 14:42:42: [G_Auto 2] :  Store Value (Shared) for market: stake = 40.11
+5/22/2022 14:42:42: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 184.13
+5/22/2022 14:42:42: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.43
+5/22/2022 14:42:42: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 8
+5/22/2022 14:42:42: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.16
+5/22/2022 14:42:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 14:42:50: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: aPoints = point: 0; games: 2; sets: 0 
+5/22/2022 14:42:50: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: aServing = serving:1
+5/22/2022 14:42:50: [G_Auto 2] :  Store Text Value (Shared) for Jil Teichmann: bPoints = point: 0; games: 5; sets: 0 
+5/22/2022 14:42:50: [G_Auto 2] :  Store Text Value (Shared) for Jil Teichmann: bServing = serving:0
+5/22/2022 14:42:50: [G_Auto 2] :  Store Value (Shared) for market: price = 1.14
+5/22/2022 14:42:50: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 92.28
+5/22/2022 14:42:50: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 91.85
+5/22/2022 14:42:50: [G_Auto 2] :  Store Value (Shared) for market: stake = 40.11
+5/22/2022 14:42:50: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 184.13
+5/22/2022 14:42:50: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.43
+5/22/2022 14:42:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 7.4
+5/22/2022 14:42:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.16
+5/22/2022 14:43:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 14:43:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 14:43:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 14:43:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 14:44:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 14:44:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 14:46:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 14:46:56: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 7.6
+5/22/2022 14:46:56: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 1.11
+5/22/2022 14:47:02: [G_Auto 1] :  € 61.54 Lay bet placed on Jil Teichmann at 1.13. Fully matched at 1.12.  Ref: 10138          ( Fill or kill bet with 15 seconds delay.   )
+5/22/2022 14:47:03: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: aPoints = point: 0; games: 0; sets: 0 
+5/22/2022 14:47:03: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: aServing = serving:0
+5/22/2022 14:47:03: [G_Auto 2] :  Store Text Value (Shared) for Jil Teichmann: bPoints = point: 0; games: 0; sets: 1 
+5/22/2022 14:47:03: [G_Auto 2] :  Store Text Value (Shared) for Jil Teichmann: bServing = serving:2
+5/22/2022 14:47:03: [G_Auto 2] :  Store Value (Shared) for market: price = 1.12
+5/22/2022 14:47:03: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 92.28
+5/22/2022 14:47:03: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 153.39
+5/22/2022 14:47:03: [G_Auto 2] :  Store Value (Shared) for market: stake = 61.54
+5/22/2022 14:47:03: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 245.67
+5/22/2022 14:47:03: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.98
+5/22/2022 14:47:03: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 7.6
+5/22/2022 14:47:03: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.11
+5/22/2022 14:47:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 14:47:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 14:47:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 14:47:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 14:48:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 14:48:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 14:48:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 14:48:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 14:49:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 14:49:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 14:49:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 14:49:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 14:51:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 14:51:28: [G_Auto 1] :  Placed closure bet with greening on Jil Teichmann by Backing 63.81 at 1.08
+5/22/2022 14:51:29: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: aPoints = point: 0; games: 0; sets: 0 
+5/22/2022 14:51:29: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: aServing = serving:1
+5/22/2022 14:51:29: [G_Auto 2] :  Store Text Value (Shared) for Jil Teichmann: bPoints = point: 0; games: 1; sets: 1 
+5/22/2022 14:51:29: [G_Auto 2] :  Store Text Value (Shared) for Jil Teichmann: bServing = serving:0
+5/22/2022 14:51:29: [G_Auto 2] :  Store Value (Shared) for market: price = 1.08
+5/22/2022 14:51:29: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 156.09
+5/22/2022 14:51:29: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 153.39
+5/22/2022 14:51:29: [G_Auto 2] :  Store Value (Shared) for market: stake = 63.81
+5/22/2022 14:51:29: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 309.48
+5/22/2022 14:51:29: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.7
+5/22/2022 14:51:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 13.5
+5/22/2022 14:51:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.09
+5/22/2022 14:51:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 14:51:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 14:52:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 14:52:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 14:52:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 14:52:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 14:53:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 14:53:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 14:58:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 14:59:01: [G_Auto 1] :  € 57.14 Lay bet placed on Jil Teichmann at 1.14. Fully matched at 1.13.  Ref: 10145          ( Fill or kill bet with 15 seconds delay.   )
+5/22/2022 14:59:03: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: aPoints = point: 0; games: 1; sets: 0 
+5/22/2022 14:59:03: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: aServing = serving:0
+5/22/2022 14:59:03: [G_Auto 2] :  Store Text Value (Shared) for Jil Teichmann: bPoints = point: 0; games: 1; sets: 1 
+5/22/2022 14:59:03: [G_Auto 2] :  Store Text Value (Shared) for Jil Teichmann: bServing = serving:2
+5/22/2022 14:59:03: [G_Auto 2] :  Store Value (Shared) for market: price = 1.13
+5/22/2022 14:59:03: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 156.09
+5/22/2022 14:59:03: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 210.53
+5/22/2022 14:59:03: [G_Auto 2] :  Store Value (Shared) for market: stake = 57.14
+5/22/2022 14:59:03: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 366.62
+5/22/2022 14:59:03: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.21
+5/22/2022 14:59:03: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 10
+5/22/2022 14:59:03: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.12
+5/22/2022 14:59:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 14:59:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 14:59:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 14:59:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 15:02:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:02:23: [G_Auto 1] :  Placed closure bet with greening on Jil Teichmann by Backing 59.24 at 1.09
+5/22/2022 15:02:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:02:24: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: aPoints = point: 0; games: 1; sets: 0 
+5/22/2022 15:02:24: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: aServing = serving:1
+5/22/2022 15:02:24: [G_Auto 2] :  Store Text Value (Shared) for Jil Teichmann: bPoints = point: 0; games: 2; sets: 1 
+5/22/2022 15:02:24: [G_Auto 2] :  Store Text Value (Shared) for Jil Teichmann: bServing = serving:0
+5/22/2022 15:02:24: [G_Auto 2] :  Store Value (Shared) for market: price = 1.09
+5/22/2022 15:02:24: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 215.33
+5/22/2022 15:02:24: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 210.53
+5/22/2022 15:02:24: [G_Auto 2] :  Store Value (Shared) for market: stake = 59.24
+5/22/2022 15:02:24: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 425.86
+5/22/2022 15:02:24: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.8
+5/22/2022 15:02:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 11
+5/22/2022 15:02:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.1
+5/22/2022 15:02:31: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: aPoints = point: 0; games: 1; sets: 0 
+5/22/2022 15:02:31: [G_Auto 2] :  Store Text Value (Shared) for Bernarda Pera: aServing = serving:1
+5/22/2022 15:02:31: [G_Auto 2] :  Store Text Value (Shared) for Jil Teichmann: bPoints = point: 0; games: 2; sets: 1 
+5/22/2022 15:02:31: [G_Auto 2] :  Store Text Value (Shared) for Jil Teichmann: bServing = serving:0
+5/22/2022 15:02:31: [G_Auto 2] :  Store Value (Shared) for market: price = 1.09
+5/22/2022 15:02:31: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 215.33
+5/22/2022 15:02:31: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 210.53
+5/22/2022 15:02:31: [G_Auto 2] :  Store Value (Shared) for market: stake = 59.24
+5/22/2022 15:02:31: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 425.86
+5/22/2022 15:02:31: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.8
+5/22/2022 15:02:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 11
+5/22/2022 15:02:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.09
+5/22/2022 15:02:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:02:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:03:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:03:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:03:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:03:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:04:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 15:04:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 15:06:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:06:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:06:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:06:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 15:07:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 15:09:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:09:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:09:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:10:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:10:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:10:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:11:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:11:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:11:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 15:11:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 15:13:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:13:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:14:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 15:14:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+5/22/2022 15:15:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+5/22/2022 15:15:54:  Guardian has detected that the market is suspended

@@ -1,0 +1,50 @@
+4/25/2022 10:07:09: [G_Auto 2] :  Store Text Value (Shared) for Pablo Andujar: info = marketName: Andujar v Borges - Match Odds; runnerA: Pablo Andujar; runnerB: Nuno Borges 
+4/25/2022 10:07:09: [G_Auto 2] :  Store Value (Shared) for market: aId = 2303153
+4/25/2022 10:07:09: [G_Auto 2] :  Store Value (Shared) for market: bId = 9633043
+4/25/2022 15:14:52:  Guardian has detected that the market is in-play
+4/25/2022 15:14:52:  Guardian has detected that the market is suspended
+4/25/2022 15:15:23: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 2; bBsp: 2; volume: 46379.91 
+4/25/2022 15:15:23: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 2; bBsp: 2; volume: 46379.91 
+4/25/2022 15:15:23:  Guardian has detected that the market is now unsuspended
+4/25/2022 15:58:49: [G_Auto 2] :  Automation Signal for market: secondSet = 5
+4/25/2022 16:06:21:  € 106.25 Lay bet placed on Nuno Borges at 1.16. [Liability staking]. Entirely unmatched when it initially reached the market.   Ref: 266137886179
+4/25/2022 16:06:27:  Cancelling bets 266137886179  
+4/25/2022 16:06:33:  € 100.00 Lay bet placed on Nuno Borges at 1.17. [Liability staking]. Entirely unmatched when it initially reached the market.   Ref: 266137907156
+4/25/2022 16:07:12: [G_Auto 2] :  Store Text Value (Shared) for Pablo Andujar: aPoints = point: 0; games: 0; sets: 0 
+4/25/2022 16:07:12: [G_Auto 2] :  Store Text Value (Shared) for Pablo Andujar: aServing = serving:1
+4/25/2022 16:07:12: [G_Auto 2] :  Store Text Value (Shared) for Nuno Borges: bPoints = point: 0; games: 1; sets: 1 
+4/25/2022 16:07:12: [G_Auto 2] :  Store Text Value (Shared) for Nuno Borges: bServing = serving:0
+4/25/2022 16:07:12: [G_Auto 2] :  Store Value (Shared) for market: price = 1.17
+4/25/2022 16:07:12: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+4/25/2022 16:07:12: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 100
+4/25/2022 16:07:12: [G_Auto 2] :  Store Value (Shared) for market: stake = 100
+4/25/2022 16:07:12: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 100
+4/25/2022 16:07:12: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.83
+4/25/2022 16:07:12: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 6.6
+4/25/2022 16:07:12: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.17
+4/25/2022 16:07:54:  Placed closure bet on Nuno Borges by Backing 74.05 at 1.58
+4/25/2022 16:11:21: [G_Auto 2] :  Store Text Value (Shared) for Pablo Andujar: aPoints = point: 0; games: 0; sets: 0 
+4/25/2022 16:11:21: [G_Auto 2] :  Store Text Value (Shared) for Pablo Andujar: aServing = serving:0
+4/25/2022 16:11:21: [G_Auto 2] :  Store Text Value (Shared) for Nuno Borges: bPoints = point: 0; games: 2; sets: 1 
+4/25/2022 16:11:21: [G_Auto 2] :  Store Text Value (Shared) for Nuno Borges: bServing = serving:2
+4/25/2022 16:11:21: [G_Auto 2] :  Store Value (Shared) for market: price = 15
+4/25/2022 16:11:21: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 5
+4/25/2022 16:11:21: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 100
+4/25/2022 16:11:21: [G_Auto 2] :  Store Value (Shared) for market: stake = 5
+4/25/2022 16:11:21: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 105
+4/25/2022 16:11:21: [G_Auto 2] :  Store Value (Shared) for market: pl = -10.54
+4/25/2022 16:11:21: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 15
+4/25/2022 16:11:21: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.07
+4/25/2022 16:11:26: [G_Auto 2] :  Store Text Value (Shared) for Pablo Andujar: aPoints = point: 0; games: 0; sets: 0 
+4/25/2022 16:11:26: [G_Auto 2] :  Store Text Value (Shared) for Pablo Andujar: aServing = serving:0
+4/25/2022 16:11:26: [G_Auto 2] :  Store Text Value (Shared) for Nuno Borges: bPoints = point: 0; games: 2; sets: 1 
+4/25/2022 16:11:26: [G_Auto 2] :  Store Text Value (Shared) for Nuno Borges: bServing = serving:2
+4/25/2022 16:11:26: [G_Auto 2] :  Store Value (Shared) for market: price = 15
+4/25/2022 16:11:26: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 5
+4/25/2022 16:11:26: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 100
+4/25/2022 16:11:26: [G_Auto 2] :  Store Value (Shared) for market: stake = 5
+4/25/2022 16:11:26: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 105
+4/25/2022 16:11:26: [G_Auto 2] :  Store Value (Shared) for market: pl = -9.51
+4/25/2022 16:11:26: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 13.5
+4/25/2022 16:11:26: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.08
+4/25/2022 16:15:38:  Guardian has detected that the market is suspended
