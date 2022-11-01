@@ -104,8 +104,8 @@ for date in os.listdir(path):
                 bGame = getField(f'games', gameContent, 1)
                 bSet = getField(f'sets', gameContent, 1)
                 bServing = getField('bServing = serving', content, points)
-                serv = ['A', 'B'][0 if aServing else 1]
-                #serv = ['A', 'B'][0 if int(aServing) else 1]
+                #serv = ['A', 'B'][0 if aServing else 1]
+                serv = ['A', 'B'][0 if int(aServing) else 1]
                 sets = [[None, None]] * 5
                 if aSet == '1' and bSet == '1':
                     sets[0] = ['1', '1']
