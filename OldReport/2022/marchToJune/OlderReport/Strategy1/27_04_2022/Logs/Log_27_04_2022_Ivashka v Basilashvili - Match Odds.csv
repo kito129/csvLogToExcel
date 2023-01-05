@@ -1,0 +1,721 @@
+4/27/2022 09:19:47: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: info = marketName: Ivashka v Basilashvili - Match Odds; runnerA: Ilya Ivashka; runnerB: Nikoloz Basilashvili 
+4/27/2022 09:19:47: [G_Auto 2] :  Store Value (Shared) for market: aId = 19924837
+4/27/2022 09:19:47: [G_Auto 2] :  Store Value (Shared) for market: bId = 8257807
+4/27/2022 14:11:23:  Guardian has detected that the market is in-play
+4/27/2022 14:11:23:  Guardian has detected that the market is suspended
+4/27/2022 14:11:24: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.61; bBsp: 2.66; volume: 44900.71 
+4/27/2022 14:11:24: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.61; bBsp: 2.66; volume: 44900.71 
+4/27/2022 14:11:24:  Guardian has detected that the market is now unsuspended
+4/27/2022 14:11:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 14:11:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 14:11:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 14:13:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 14:13:56: [G_Auto 1] :  € 11.27 Lay bet placed on Ilya Ivashka at 1.71. Fully matched at 1.7.  Ref: 10417          ( Fill or kill bet with 15 seconds delay.   )
+4/27/2022 14:13:57: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 0; sets: 0 
+4/27/2022 14:13:57: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:1
+4/27/2022 14:13:57: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bPoints = point: 0; games: 1; sets: 0 
+4/27/2022 14:13:57: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bServing = serving:0
+4/27/2022 14:13:57: [G_Auto 2] :  Store Value (Shared) for market: price = 1.7
+4/27/2022 14:13:57: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+4/27/2022 14:13:57: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 11.27
+4/27/2022 14:13:57: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.27
+4/27/2022 14:13:57: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 11.27
+4/27/2022 14:13:57: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.07
+4/27/2022 14:13:57: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.69
+4/27/2022 14:13:57: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.56
+4/27/2022 14:14:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 14:14:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 14:14:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 14:14:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 14:14:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 14:15:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 14:21:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 14:21:24: [G_Auto 1] :  Placed closure bet with greening on Ilya Ivashka by Backing 11.40 at 1.68
+4/27/2022 14:21:26: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 1; sets: 0 
+4/27/2022 14:21:26: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:0
+4/27/2022 14:21:26: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bPoints = point: 0; games: 1; sets: 0 
+4/27/2022 14:21:26: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bServing = serving:2
+4/27/2022 14:21:26: [G_Auto 2] :  Store Value (Shared) for market: price = 1.68
+4/27/2022 14:21:26: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 1.92
+4/27/2022 14:21:26: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 11.27
+4/27/2022 14:21:26: [G_Auto 2] :  Store Value (Shared) for market: stake = 1.92
+4/27/2022 14:21:26: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 13.19
+4/27/2022 14:21:26: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.02
+4/27/2022 14:21:26: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.7
+4/27/2022 14:21:26: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.42
+4/27/2022 14:21:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 14:21:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 14:21:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 14:22:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 14:22:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 14:23:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 14:23:52: [G_Auto 1] :  € 22.22 Lay bet placed on Ilya Ivashka at 1.36. Fully matched at 1.36.  Ref: 10421          ( Fill or kill bet with 15 seconds delay.   )
+4/27/2022 14:23:53: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 2; sets: 0 
+4/27/2022 14:23:53: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:1
+4/27/2022 14:23:53: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bPoints = point: 0; games: 1; sets: 0 
+4/27/2022 14:23:53: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bServing = serving:0
+4/27/2022 14:23:53: [G_Auto 2] :  Store Value (Shared) for market: price = 1.36
+4/27/2022 14:23:53: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 11.4
+4/27/2022 14:23:53: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 33.49
+4/27/2022 14:23:53: [G_Auto 2] :  Store Value (Shared) for market: stake = 22.22
+4/27/2022 14:23:53: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 44.89
+4/27/2022 14:23:53: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.64
+4/27/2022 14:23:53: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.34
+4/27/2022 14:23:53: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.8
+4/27/2022 14:23:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 14:24:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 14:24:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 14:24:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 14:24:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 14:25:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 14:25:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 14:25:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 14:25:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 14:27:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 14:27:39: [G_Auto 1] :  Placed closure bet with greening on Ilya Ivashka by Backing 23.61 at 1.28
+4/27/2022 14:27:40: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 3; sets: 0 
+4/27/2022 14:27:40: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:0
+4/27/2022 14:27:40: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bPoints = point: 0; games: 1; sets: 0 
+4/27/2022 14:27:40: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bServing = serving:2
+4/27/2022 14:27:40: [G_Auto 2] :  Store Value (Shared) for market: price = 1.28
+4/27/2022 14:27:40: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 35.01
+4/27/2022 14:27:40: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 33.49
+4/27/2022 14:27:40: [G_Auto 2] :  Store Value (Shared) for market: stake = 23.61
+4/27/2022 14:27:40: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 68.5
+4/27/2022 14:27:40: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.53
+4/27/2022 14:27:40: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.29
+4/27/2022 14:27:40: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.5
+4/27/2022 14:27:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 14:27:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 14:28:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 14:28:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 14:28:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 14:29:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 14:29:57: [G_Auto 1] :  € 22.86 Lay bet placed on Ilya Ivashka at 1.35. Fully matched at 1.34.  Ref: 10424          ( Fill or kill bet with 15 seconds delay.   )
+4/27/2022 14:29:57: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 3; sets: 0 
+4/27/2022 14:29:57: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:1
+4/27/2022 14:29:57: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bPoints = point: 0; games: 2; sets: 0 
+4/27/2022 14:29:57: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bServing = serving:0
+4/27/2022 14:29:57: [G_Auto 2] :  Store Value (Shared) for market: price = 1.34
+4/27/2022 14:29:57: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 35.01
+4/27/2022 14:29:57: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 56.35
+4/27/2022 14:29:57: [G_Auto 2] :  Store Value (Shared) for market: stake = 22.86
+4/27/2022 14:29:57: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 91.36
+4/27/2022 14:29:57: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.7
+4/27/2022 14:29:57: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.33
+4/27/2022 14:29:57: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.1
+4/27/2022 14:30:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 14:30:02: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 3; sets: 0 
+4/27/2022 14:30:02: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:1
+4/27/2022 14:30:02: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bPoints = point: 0; games: 2; sets: 0 
+4/27/2022 14:30:02: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bServing = serving:0
+4/27/2022 14:30:02: [G_Auto 2] :  Store Value (Shared) for market: price = 1.34
+4/27/2022 14:30:02: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 35.01
+4/27/2022 14:30:02: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 56.35
+4/27/2022 14:30:02: [G_Auto 2] :  Store Value (Shared) for market: stake = 22.86
+4/27/2022 14:30:02: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 91.36
+4/27/2022 14:30:02: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.7
+4/27/2022 14:30:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.33
+4/27/2022 14:30:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.1
+4/27/2022 14:30:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 14:30:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 14:30:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 14:31:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 14:31:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 14:31:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 14:31:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 14:32:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 14:32:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 14:32:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 14:32:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 14:33:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 14:34:06: [G_Auto 1] :  Placed closure bet with greening on Ilya Ivashka by Backing 24.51 at 1.25
+4/27/2022 14:34:07: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 4; sets: 0 
+4/27/2022 14:34:07: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:0
+4/27/2022 14:34:07: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bPoints = point: 0; games: 2; sets: 0 
+4/27/2022 14:34:07: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bServing = serving:2
+4/27/2022 14:34:07: [G_Auto 2] :  Store Value (Shared) for market: price = 1.25
+4/27/2022 14:34:07: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 59.52
+4/27/2022 14:34:07: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 56.35
+4/27/2022 14:34:07: [G_Auto 2] :  Store Value (Shared) for market: stake = 24.51
+4/27/2022 14:34:07: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 115.87
+4/27/2022 14:34:07: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.17
+4/27/2022 14:34:07: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.26
+4/27/2022 14:34:07: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.8
+4/27/2022 14:34:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 14:34:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 14:34:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 14:34:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 14:35:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 14:36:01: [G_Auto 1] :  € 25.81 Lay bet placed on Ilya Ivashka at 1.31. Fully matched at 1.31.  Ref: 10427          ( Fill or kill bet with 15 seconds delay.   )
+4/27/2022 14:36:02: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 4; sets: 0 
+4/27/2022 14:36:02: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:1
+4/27/2022 14:36:02: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bPoints = point: 0; games: 3; sets: 0 
+4/27/2022 14:36:02: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bServing = serving:0
+4/27/2022 14:36:02: [G_Auto 2] :  Store Value (Shared) for market: price = 1.31
+4/27/2022 14:36:02: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 59.52
+4/27/2022 14:36:02: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 82.16
+4/27/2022 14:36:02: [G_Auto 2] :  Store Value (Shared) for market: stake = 25.81
+4/27/2022 14:36:02: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 141.68
+4/27/2022 14:36:02: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.37
+4/27/2022 14:36:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.3
+4/27/2022 14:36:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.3
+4/27/2022 14:36:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 14:36:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 14:36:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 14:36:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 14:37:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 14:37:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 14:37:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 14:37:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 14:38:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 14:38:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 14:39:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 14:39:54: [G_Auto 1] :  Placed closure bet with greening on Ilya Ivashka by Backing 27.49 at 1.23
+4/27/2022 14:39:55: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 5; sets: 0 
+4/27/2022 14:39:55: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:0
+4/27/2022 14:39:55: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bPoints = point: 0; games: 3; sets: 0 
+4/27/2022 14:39:55: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bServing = serving:2
+4/27/2022 14:39:55: [G_Auto 2] :  Store Value (Shared) for market: price = 1.23
+4/27/2022 14:39:55: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 87.01
+4/27/2022 14:39:55: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 82.16
+4/27/2022 14:39:55: [G_Auto 2] :  Store Value (Shared) for market: stake = 27.49
+4/27/2022 14:39:55: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 169.17
+4/27/2022 14:39:55: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.85
+4/27/2022 14:39:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.23
+4/27/2022 14:39:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.2
+4/27/2022 14:39:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 14:40:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 14:40:16: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 14:40:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 14:42:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 14:42:53: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 1.17
+4/27/2022 14:42:53: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 7
+4/27/2022 14:42:59: [G_Auto 1] :  € 44.44 Lay bet placed on Ilya Ivashka at 1.18. Fully matched at 1.17.  Ref: 10430          ( Fill or kill bet with 15 seconds delay.   )
+4/27/2022 14:42:59: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 0; sets: 1 
+4/27/2022 14:42:59: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:1
+4/27/2022 14:42:59: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bPoints = point: 0; games: 0; sets: 0 
+4/27/2022 14:42:59: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bServing = serving:0
+4/27/2022 14:42:59: [G_Auto 2] :  Store Value (Shared) for market: price = 1.17
+4/27/2022 14:42:59: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 87.01
+4/27/2022 14:42:59: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 126.6
+4/27/2022 14:42:59: [G_Auto 2] :  Store Value (Shared) for market: stake = 44.44
+4/27/2022 14:42:59: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 213.61
+4/27/2022 14:42:59: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.23
+4/27/2022 14:42:59: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.17
+4/27/2022 14:42:59: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 7
+4/27/2022 14:43:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 14:43:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 14:43:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 14:43:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 14:44:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 14:44:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 14:44:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 14:44:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 14:45:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 14:45:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 14:45:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 14:45:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 14:46:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 14:46:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 14:46:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 14:46:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 14:53:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 14:53:22: [G_Auto 1] :  Placed closure bet with greening on Ilya Ivashka by Backing 45.21 at 1.15
+4/27/2022 14:53:22: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 1; sets: 1 
+4/27/2022 14:53:22: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:0
+4/27/2022 14:53:22: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bPoints = point: 0; games: 0; sets: 0 
+4/27/2022 14:53:22: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bServing = serving:2
+4/27/2022 14:53:22: [G_Auto 2] :  Store Value (Shared) for market: price = 1.15
+4/27/2022 14:53:22: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 132.22
+4/27/2022 14:53:22: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 126.6
+4/27/2022 14:53:22: [G_Auto 2] :  Store Value (Shared) for market: stake = 45.21
+4/27/2022 14:53:22: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 258.82
+4/27/2022 14:53:22: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.62
+4/27/2022 14:53:22: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.16
+4/27/2022 14:53:22: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 7.2
+4/27/2022 14:53:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 14:53:27: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 1; sets: 1 
+4/27/2022 14:53:27: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:0
+4/27/2022 14:53:27: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bPoints = point: 0; games: 0; sets: 0 
+4/27/2022 14:53:27: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bServing = serving:2
+4/27/2022 14:53:27: [G_Auto 2] :  Store Value (Shared) for market: price = 1.15
+4/27/2022 14:53:27: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 132.22
+4/27/2022 14:53:27: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 126.6
+4/27/2022 14:53:27: [G_Auto 2] :  Store Value (Shared) for market: stake = 45.21
+4/27/2022 14:53:27: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 258.82
+4/27/2022 14:53:27: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.62
+4/27/2022 14:53:27: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.16
+4/27/2022 14:53:27: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 7.2
+4/27/2022 14:53:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 14:53:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 14:53:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 14:54:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 14:59:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 14:59:19: [G_Auto 1] :  € 38.10 Lay bet placed on Ilya Ivashka at 1.21. Fully matched at 1.21.  Ref: 10436          ( Fill or kill bet with 15 seconds delay.   )
+4/27/2022 14:59:20: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 1; sets: 1 
+4/27/2022 14:59:20: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:1
+4/27/2022 14:59:20: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bPoints = point: 0; games: 1; sets: 0 
+4/27/2022 14:59:20: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bServing = serving:0
+4/27/2022 14:59:20: [G_Auto 2] :  Store Value (Shared) for market: price = 1.21
+4/27/2022 14:59:20: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 132.22
+4/27/2022 14:59:20: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 164.7
+4/27/2022 14:59:20: [G_Auto 2] :  Store Value (Shared) for market: stake = 38.1
+4/27/2022 14:59:20: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 296.92
+4/27/2022 14:59:20: [G_Auto 2] :  Store Value (Shared) for market: pl = -6.26
+4/27/2022 14:59:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.21
+4/27/2022 14:59:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 6
+4/27/2022 14:59:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 14:59:26: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 1; sets: 1 
+4/27/2022 14:59:26: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:1
+4/27/2022 14:59:26: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bPoints = point: 0; games: 1; sets: 0 
+4/27/2022 14:59:26: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bServing = serving:0
+4/27/2022 14:59:26: [G_Auto 2] :  Store Value (Shared) for market: price = 1.21
+4/27/2022 14:59:26: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 132.22
+4/27/2022 14:59:26: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 164.7
+4/27/2022 14:59:26: [G_Auto 2] :  Store Value (Shared) for market: stake = 38.1
+4/27/2022 14:59:26: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 296.92
+4/27/2022 14:59:26: [G_Auto 2] :  Store Value (Shared) for market: pl = -5.94
+4/27/2022 14:59:26: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.2
+4/27/2022 14:59:26: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 6
+4/27/2022 14:59:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 14:59:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 14:59:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 15:01:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:02:04: [G_Auto 1] :  Placed closure bet with greening on Ilya Ivashka by Backing 39.74 at 1.16
+4/27/2022 15:02:05: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 2; sets: 1 
+4/27/2022 15:02:05: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:0
+4/27/2022 15:02:05: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bPoints = point: 0; games: 1; sets: 0 
+4/27/2022 15:02:05: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bServing = serving:2
+4/27/2022 15:02:05: [G_Auto 2] :  Store Value (Shared) for market: price = 1.16
+4/27/2022 15:02:05: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 171.96
+4/27/2022 15:02:05: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 164.7
+4/27/2022 15:02:05: [G_Auto 2] :  Store Value (Shared) for market: stake = 39.74
+4/27/2022 15:02:05: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 336.66
+4/27/2022 15:02:05: [G_Auto 2] :  Store Value (Shared) for market: pl = -7.26
+4/27/2022 15:02:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.17
+4/27/2022 15:02:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 7.4
+4/27/2022 15:02:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:02:11: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 2; sets: 1 
+4/27/2022 15:02:11: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:0
+4/27/2022 15:02:11: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bPoints = point: 0; games: 1; sets: 0 
+4/27/2022 15:02:11: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bServing = serving:2
+4/27/2022 15:02:11: [G_Auto 2] :  Store Value (Shared) for market: price = 1.16
+4/27/2022 15:02:11: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 171.96
+4/27/2022 15:02:11: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 164.7
+4/27/2022 15:02:11: [G_Auto 2] :  Store Value (Shared) for market: stake = 39.74
+4/27/2022 15:02:11: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 336.66
+4/27/2022 15:02:11: [G_Auto 2] :  Store Value (Shared) for market: pl = -7.26
+4/27/2022 15:02:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.17
+4/27/2022 15:02:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 6.8
+4/27/2022 15:02:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:02:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:02:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:03:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:03:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:03:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:03:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:03:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 15:04:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 15:04:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:05:12: [G_Auto 1] :  € 32.00 Lay bet placed on Ilya Ivashka at 1.25. Fully matched at 1.24.  Ref: 10438          ( Fill or kill bet with 15 seconds delay.   )
+4/27/2022 15:05:13: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 2; sets: 1 
+4/27/2022 15:05:13: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:1
+4/27/2022 15:05:13: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bPoints = point: 0; games: 2; sets: 0 
+4/27/2022 15:05:13: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bServing = serving:0
+4/27/2022 15:05:13: [G_Auto 2] :  Store Value (Shared) for market: price = 1.24
+4/27/2022 15:05:13: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 171.96
+4/27/2022 15:05:13: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 196.7
+4/27/2022 15:05:13: [G_Auto 2] :  Store Value (Shared) for market: stake = 32
+4/27/2022 15:05:13: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 368.66
+4/27/2022 15:05:13: [G_Auto 2] :  Store Value (Shared) for market: pl = -7.52
+4/27/2022 15:05:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.23
+4/27/2022 15:05:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.1
+4/27/2022 15:05:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:05:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:05:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 15:05:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 15:09:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:09:25: [G_Auto 1] :  Placed closure bet with greening on Ilya Ivashka by Backing 26.63 at 1.49
+4/27/2022 15:09:26: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 2; sets: 1 
+4/27/2022 15:09:26: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:0
+4/27/2022 15:09:26: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bPoints = point: 0; games: 3; sets: 0 
+4/27/2022 15:09:26: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bServing = serving:2
+4/27/2022 15:09:26: [G_Auto 2] :  Store Value (Shared) for market: price = 1.49
+4/27/2022 15:09:26: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 172.595
+4/27/2022 15:09:26: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 196.7
+4/27/2022 15:09:26: [G_Auto 2] :  Store Value (Shared) for market: stake = 0.635
+4/27/2022 15:09:26: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 369.295
+4/27/2022 15:09:26: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.61
+4/27/2022 15:09:26: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.47
+4/27/2022 15:09:26: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.2
+4/27/2022 15:09:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:09:31: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 2; sets: 1 
+4/27/2022 15:09:31: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:0
+4/27/2022 15:09:31: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bPoints = point: 0; games: 3; sets: 0 
+4/27/2022 15:09:31: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bServing = serving:2
+4/27/2022 15:09:31: [G_Auto 2] :  Store Value (Shared) for market: price = 1.49
+4/27/2022 15:09:31: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 172.595
+4/27/2022 15:09:31: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 196.7
+4/27/2022 15:09:31: [G_Auto 2] :  Store Value (Shared) for market: stake = 0.635
+4/27/2022 15:09:31: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 369.295
+4/27/2022 15:09:31: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.61
+4/27/2022 15:09:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.47
+4/27/2022 15:09:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.2
+4/27/2022 15:09:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:09:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:10:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:10:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:10:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:11:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:11:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 15:11:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 15:14:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:15:09: [G_Auto 1] :  € 14.29 Lay bet placed on Ilya Ivashka at 1.56. Fully matched at 1.55.  Ref: 10440          ( Fill or kill bet with 15 seconds delay.   )
+4/27/2022 15:15:09: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 2; sets: 1 
+4/27/2022 15:15:09: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:1
+4/27/2022 15:15:09: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bPoints = point: 0; games: 4; sets: 0 
+4/27/2022 15:15:09: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bServing = serving:0
+4/27/2022 15:15:09: [G_Auto 2] :  Store Value (Shared) for market: price = 1.55
+4/27/2022 15:15:09: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 198.59
+4/27/2022 15:15:09: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 210.99
+4/27/2022 15:15:09: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.29
+4/27/2022 15:15:09: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 409.58
+4/27/2022 15:15:09: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.99
+4/27/2022 15:15:09: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.54
+4/27/2022 15:15:09: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.86
+4/27/2022 15:15:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:15:15: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 2; sets: 1 
+4/27/2022 15:15:15: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:1
+4/27/2022 15:15:15: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bPoints = point: 0; games: 4; sets: 0 
+4/27/2022 15:15:15: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bServing = serving:0
+4/27/2022 15:15:15: [G_Auto 2] :  Store Value (Shared) for market: price = 1.55
+4/27/2022 15:15:15: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 198.59
+4/27/2022 15:15:15: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 210.99
+4/27/2022 15:15:15: [G_Auto 2] :  Store Value (Shared) for market: stake = 14.29
+4/27/2022 15:15:15: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 409.58
+4/27/2022 15:15:15: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.99
+4/27/2022 15:15:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.54
+4/27/2022 15:15:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.84
+4/27/2022 15:15:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 15:15:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 15:18:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:18:15: [G_Auto 1] :  Placed closure bet with greening on Ilya Ivashka by Backing 12.24 at 1.81
+4/27/2022 15:18:16: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 2; sets: 1 
+4/27/2022 15:18:16: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:0
+4/27/2022 15:18:16: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bPoints = point: 0; games: 5; sets: 0 
+4/27/2022 15:18:16: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bServing = serving:2
+4/27/2022 15:18:16: [G_Auto 2] :  Store Value (Shared) for market: price = 1.82
+4/27/2022 15:18:16: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 210.83
+4/27/2022 15:18:16: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 210.99
+4/27/2022 15:18:16: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.24
+4/27/2022 15:18:16: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 421.82
+4/27/2022 15:18:16: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.23
+4/27/2022 15:18:16: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.82
+4/27/2022 15:18:16: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.24
+4/27/2022 15:18:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:18:21: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 2; sets: 1 
+4/27/2022 15:18:21: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:0
+4/27/2022 15:18:21: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bPoints = point: 0; games: 5; sets: 0 
+4/27/2022 15:18:21: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bServing = serving:2
+4/27/2022 15:18:21: [G_Auto 2] :  Store Value (Shared) for market: price = 1.82
+4/27/2022 15:18:21: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 210.83
+4/27/2022 15:18:21: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 210.99
+4/27/2022 15:18:21: [G_Auto 2] :  Store Value (Shared) for market: stake = 12.24
+4/27/2022 15:18:21: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 421.82
+4/27/2022 15:18:21: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.23
+4/27/2022 15:18:21: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.82
+4/27/2022 15:18:21: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.22
+4/27/2022 15:18:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:18:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:19:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:19:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:19:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:19:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:20:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:20:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:20:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 15:20:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 15:21:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 15:21:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:21:52: [G_Auto 2] :  Store Value (Shared) for market: aSecondSetPrice = 1.95
+4/27/2022 15:21:52: [G_Auto 2] :  Store Value (Shared) for market: bSecondSetPrice = 2.08
+4/27/2022 15:21:57: [G_Auto 1] :  € 8.25 Lay bet placed on Ilya Ivashka at 1.97. Fully matched at 1.97.  Ref: 10442          ( Fill or kill bet with 15 seconds delay.   )
+4/27/2022 15:21:57: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 0; sets: 1 
+4/27/2022 15:21:57: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:1
+4/27/2022 15:21:57: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bPoints = point: 0; games: 0; sets: 1 
+4/27/2022 15:21:57: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bServing = serving:0
+4/27/2022 15:21:57: [G_Auto 2] :  Store Value (Shared) for market: price = 1.97
+4/27/2022 15:21:57: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 210.83
+4/27/2022 15:21:57: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 219.24
+4/27/2022 15:21:57: [G_Auto 2] :  Store Value (Shared) for market: stake = 8.25
+4/27/2022 15:21:57: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 430.07
+4/27/2022 15:21:57: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.14
+4/27/2022 15:21:57: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.96
+4/27/2022 15:21:57: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.04
+4/27/2022 15:22:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:22:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:22:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:22:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:23:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:23:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:23:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:23:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:24:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:24:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:24:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 15:24:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 15:25:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 15:27:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:27:39: [G_Auto 1] :  Placed closure bet with greening on Ilya Ivashka by Backing 4.96 at 3.25
+4/27/2022 15:27:39: [G_Auto 1] :  € 18.60 Lay bet placed on Nikoloz Basilashvili at 1.43. Fully matched at 1.43.  Ref: 10443          ( Fill or kill bet with 15 seconds delay.   )
+4/27/2022 15:27:39: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 0; sets: 1 
+4/27/2022 15:27:39: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:0
+4/27/2022 15:27:39: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bPoints = point: 0; games: 1; sets: 1 
+4/27/2022 15:27:39: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bServing = serving:2
+4/27/2022 15:27:39: [G_Auto 2] :  Store Value (Shared) for market: price = 3.3
+4/27/2022 15:27:39: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 215.79
+4/27/2022 15:27:39: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 237.84
+4/27/2022 15:27:39: [G_Auto 2] :  Store Value (Shared) for market: stake = 4.96
+4/27/2022 15:27:39: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 453.63
+4/27/2022 15:27:39: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.32
+4/27/2022 15:27:39: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.45
+4/27/2022 15:27:39: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.42
+4/27/2022 15:27:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:27:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:28:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:28:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 15:28:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 15:28:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 15:30:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:30:30: [G_Auto 1] :  Placed closure bet with greening on Nikoloz Basilashvili by Backing 20.94 at 1.27
+4/27/2022 15:30:30: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 0; sets: 1 
+4/27/2022 15:30:30: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:1
+4/27/2022 15:30:30: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bPoints = point: 0; games: 2; sets: 1 
+4/27/2022 15:30:30: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bServing = serving:0
+4/27/2022 15:30:30: [G_Auto 2] :  Store Value (Shared) for market: price = 1.28
+4/27/2022 15:30:30: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 236.73
+4/27/2022 15:30:30: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 237.84
+4/27/2022 15:30:30: [G_Auto 2] :  Store Value (Shared) for market: stake = 20.94
+4/27/2022 15:30:30: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 474.57
+4/27/2022 15:30:30: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.29
+4/27/2022 15:30:30: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.5
+4/27/2022 15:30:30: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.28
+4/27/2022 15:30:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:30:35: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 0; sets: 1 
+4/27/2022 15:30:35: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:1
+4/27/2022 15:30:35: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bPoints = point: 0; games: 2; sets: 1 
+4/27/2022 15:30:35: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bServing = serving:0
+4/27/2022 15:30:35: [G_Auto 2] :  Store Value (Shared) for market: price = 1.28
+4/27/2022 15:30:35: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 236.73
+4/27/2022 15:30:35: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 237.84
+4/27/2022 15:30:35: [G_Auto 2] :  Store Value (Shared) for market: stake = 20.94
+4/27/2022 15:30:35: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 474.57
+4/27/2022 15:30:35: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.29
+4/27/2022 15:30:35: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.5
+4/27/2022 15:30:35: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.28
+4/27/2022 15:30:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:30:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 15:31:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 15:32:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:33:01: [G_Auto 1] :  € 19.51 Lay bet placed on Nikoloz Basilashvili at 1.41. Fully matched at 1.4.  Ref: 10449          ( Fill or kill bet with 15 seconds delay.   )
+4/27/2022 15:33:01: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 1; sets: 1 
+4/27/2022 15:33:01: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:0
+4/27/2022 15:33:01: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bPoints = point: 0; games: 2; sets: 1 
+4/27/2022 15:33:01: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bServing = serving:2
+4/27/2022 15:33:01: [G_Auto 2] :  Store Value (Shared) for market: price = 1.4
+4/27/2022 15:33:01: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 236.73
+4/27/2022 15:33:01: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 257.35
+4/27/2022 15:33:01: [G_Auto 2] :  Store Value (Shared) for market: stake = 19.51
+4/27/2022 15:33:01: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 494.08
+4/27/2022 15:33:01: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.16
+4/27/2022 15:33:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.5
+4/27/2022 15:33:01: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.4
+4/27/2022 15:33:04: [G_Auto 1] :  Placed closure bet with greening on Ilya Ivashka by Laying 0.07 at 3.6
+4/27/2022 15:33:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:33:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:33:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:33:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:34:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:34:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:34:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:34:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:34:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 15:35:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 15:36:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:36:37: [G_Auto 1] :  Placed closure bet with greening on Nikoloz Basilashvili by Backing 21.69 at 1.25
+4/27/2022 15:36:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:36:41: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 1; sets: 1 
+4/27/2022 15:36:41: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:1
+4/27/2022 15:36:41: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bPoints = point: 0; games: 3; sets: 1 
+4/27/2022 15:36:41: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bServing = serving:0
+4/27/2022 15:36:41: [G_Auto 2] :  Store Value (Shared) for market: price = 1.25
+4/27/2022 15:36:41: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 258.42
+4/27/2022 15:36:41: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 257.42
+4/27/2022 15:36:41: [G_Auto 2] :  Store Value (Shared) for market: stake = 21.69
+4/27/2022 15:36:41: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 515.84
+4/27/2022 15:36:41: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.02
+4/27/2022 15:36:41: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.8
+4/27/2022 15:36:41: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.26
+4/27/2022 15:36:46: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 1; sets: 1 
+4/27/2022 15:36:46: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:1
+4/27/2022 15:36:46: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bPoints = point: 0; games: 3; sets: 1 
+4/27/2022 15:36:46: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bServing = serving:0
+4/27/2022 15:36:46: [G_Auto 2] :  Store Value (Shared) for market: price = 1.25
+4/27/2022 15:36:46: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 258.42
+4/27/2022 15:36:46: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 257.42
+4/27/2022 15:36:46: [G_Auto 2] :  Store Value (Shared) for market: stake = 21.69
+4/27/2022 15:36:46: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 515.84
+4/27/2022 15:36:46: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.02
+4/27/2022 15:36:46: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.8
+4/27/2022 15:36:46: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.26
+4/27/2022 15:36:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:36:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 15:37:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 15:37:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 15:39:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:39:52: [G_Auto 1] :  € 22.86 Lay bet placed on Nikoloz Basilashvili at 1.35. Fully matched at 1.34.  Ref: 10454          ( Fill or kill bet with 15 seconds delay.   )
+4/27/2022 15:39:52: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 2; sets: 1 
+4/27/2022 15:39:52: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:0
+4/27/2022 15:39:52: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bPoints = point: 0; games: 3; sets: 1 
+4/27/2022 15:39:52: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bServing = serving:2
+4/27/2022 15:39:52: [G_Auto 2] :  Store Value (Shared) for market: price = 1.34
+4/27/2022 15:39:52: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 258.42
+4/27/2022 15:39:52: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 280.28
+4/27/2022 15:39:52: [G_Auto 2] :  Store Value (Shared) for market: stake = 22.86
+4/27/2022 15:39:52: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 538.7
+4/27/2022 15:39:52: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.36
+4/27/2022 15:39:52: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4
+4/27/2022 15:39:52: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.32
+4/27/2022 15:39:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:40:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:40:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:40:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:40:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:41:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:41:30: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 15:41:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 15:44:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:44:53: [G_Auto 1] :  Placed closure bet with greening on Nikoloz Basilashvili by Backing 25.74 at 1.19
+4/27/2022 15:44:53: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 2; sets: 1 
+4/27/2022 15:44:53: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:1
+4/27/2022 15:44:53: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bPoints = point: 0; games: 4; sets: 1 
+4/27/2022 15:44:53: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bServing = serving:0
+4/27/2022 15:44:53: [G_Auto 2] :  Store Value (Shared) for market: price = 1.19
+4/27/2022 15:44:53: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 284.16
+4/27/2022 15:44:53: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 280.28
+4/27/2022 15:44:53: [G_Auto 2] :  Store Value (Shared) for market: stake = 25.74
+4/27/2022 15:44:53: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 564.44
+4/27/2022 15:44:53: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.9
+4/27/2022 15:44:53: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 6
+4/27/2022 15:44:53: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.2
+4/27/2022 15:44:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:44:58: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 2; sets: 1 
+4/27/2022 15:44:58: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:1
+4/27/2022 15:44:58: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bPoints = point: 0; games: 4; sets: 1 
+4/27/2022 15:44:58: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bServing = serving:0
+4/27/2022 15:44:58: [G_Auto 2] :  Store Value (Shared) for market: price = 1.19
+4/27/2022 15:44:58: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 284.16
+4/27/2022 15:44:58: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 280.28
+4/27/2022 15:44:58: [G_Auto 2] :  Store Value (Shared) for market: stake = 25.74
+4/27/2022 15:44:58: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 564.44
+4/27/2022 15:44:58: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.9
+4/27/2022 15:44:58: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 6
+4/27/2022 15:44:58: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.19
+4/27/2022 15:45:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:45:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:45:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 15:45:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 15:46:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 15:49:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:49:35: [G_Auto 1] :  € 30.77 Lay bet placed on Nikoloz Basilashvili at 1.26. Fully matched at 1.25.  Ref: 10457          ( Fill or kill bet with 15 seconds delay.   )
+4/27/2022 15:49:36: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 3; sets: 1 
+4/27/2022 15:49:36: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:0
+4/27/2022 15:49:36: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bPoints = point: 0; games: 4; sets: 1 
+4/27/2022 15:49:36: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bServing = serving:2
+4/27/2022 15:49:36: [G_Auto 2] :  Store Value (Shared) for market: price = 1.25
+4/27/2022 15:49:36: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 284.16
+4/27/2022 15:49:36: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 311.05
+4/27/2022 15:49:36: [G_Auto 2] :  Store Value (Shared) for market: stake = 30.77
+4/27/2022 15:49:36: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 595.21
+4/27/2022 15:49:36: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.14
+4/27/2022 15:49:36: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 5
+4/27/2022 15:49:36: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.24
+4/27/2022 15:49:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:49:41: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 3; sets: 1 
+4/27/2022 15:49:41: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:0
+4/27/2022 15:49:41: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bPoints = point: 0; games: 4; sets: 1 
+4/27/2022 15:49:41: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bServing = serving:2
+4/27/2022 15:49:41: [G_Auto 2] :  Store Value (Shared) for market: price = 1.25
+4/27/2022 15:49:41: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 284.16
+4/27/2022 15:49:41: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 311.05
+4/27/2022 15:49:41: [G_Auto 2] :  Store Value (Shared) for market: stake = 30.77
+4/27/2022 15:49:41: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 595.21
+4/27/2022 15:49:41: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.14
+4/27/2022 15:49:41: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 5.1
+4/27/2022 15:49:41: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.24
+4/27/2022 15:49:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:50:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:50:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:50:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:50:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:51:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:51:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:51:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 15:51:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 15:54:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:54:16: [G_Auto 1] :  Placed closure bet with greening on Nikoloz Basilashvili by Backing 34.96 at 1.1
+4/27/2022 15:54:17: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 3; sets: 1 
+4/27/2022 15:54:17: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:1
+4/27/2022 15:54:17: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bPoints = point: 0; games: 5; sets: 1 
+4/27/2022 15:54:17: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bServing = serving:0
+4/27/2022 15:54:17: [G_Auto 2] :  Store Value (Shared) for market: price = 1.1
+4/27/2022 15:54:17: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 319.12
+4/27/2022 15:54:17: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 311.05
+4/27/2022 15:54:17: [G_Auto 2] :  Store Value (Shared) for market: stake = 34.96
+4/27/2022 15:54:17: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 630.17
+4/27/2022 15:54:17: [G_Auto 2] :  Store Value (Shared) for market: pl = -8.09
+4/27/2022 15:54:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 10
+4/27/2022 15:54:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.11
+4/27/2022 15:54:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:54:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:54:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 15:54:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 15:58:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:58:30: [G_Auto 1] :  € 47.06 Lay bet placed on Nikoloz Basilashvili at 1.17. Fully matched at 1.17.  Ref: 10460          ( Fill or kill bet with 15 seconds delay.   )
+4/27/2022 15:58:30: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 4; sets: 1 
+4/27/2022 15:58:30: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:0
+4/27/2022 15:58:30: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bPoints = point: 0; games: 5; sets: 1 
+4/27/2022 15:58:30: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bServing = serving:2
+4/27/2022 15:58:30: [G_Auto 2] :  Store Value (Shared) for market: price = 1.17
+4/27/2022 15:58:30: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 319.12
+4/27/2022 15:58:30: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 358.11
+4/27/2022 15:58:30: [G_Auto 2] :  Store Value (Shared) for market: stake = 47.06
+4/27/2022 15:58:30: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 677.23
+4/27/2022 15:58:30: [G_Auto 2] :  Store Value (Shared) for market: pl = -8.49
+4/27/2022 15:58:30: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 7.4
+4/27/2022 15:58:30: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.16
+4/27/2022 15:58:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:58:35: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aPoints = point: 0; games: 4; sets: 1 
+4/27/2022 15:58:35: [G_Auto 2] :  Store Text Value (Shared) for Ilya Ivashka: aServing = serving:0
+4/27/2022 15:58:35: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bPoints = point: 0; games: 5; sets: 1 
+4/27/2022 15:58:35: [G_Auto 2] :  Store Text Value (Shared) for Nikoloz Basilashvili: bServing = serving:2
+4/27/2022 15:58:35: [G_Auto 2] :  Store Value (Shared) for market: price = 1.17
+4/27/2022 15:58:35: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 319.12
+4/27/2022 15:58:35: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 358.11
+4/27/2022 15:58:35: [G_Auto 2] :  Store Value (Shared) for market: stake = 47.06
+4/27/2022 15:58:35: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 677.23
+4/27/2022 15:58:35: [G_Auto 2] :  Store Value (Shared) for market: pl = -8.49
+4/27/2022 15:58:35: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 6.8
+4/27/2022 15:58:35: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.16
+4/27/2022 15:58:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:59:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:59:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:59:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 15:59:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 16:00:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 16:00:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 16:00:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 16:00:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/27/2022 16:02:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/27/2022 16:02:58:  Guardian has detected that the market is suspended

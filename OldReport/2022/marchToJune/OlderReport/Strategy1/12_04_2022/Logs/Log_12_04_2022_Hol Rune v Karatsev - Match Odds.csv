@@ -1,0 +1,708 @@
+4/12/2022 10:18:16: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: info = marketName: Hol Rune v Karatsev - Match Odds; runnerA: Holger Rune; runnerB: Aslan Karatsev 
+4/12/2022 10:18:16: [G_Auto 2] :  Store Value (Shared) for market: aId = 39127965
+4/12/2022 10:18:16: [G_Auto 2] :  Store Value (Shared) for market: bId = 7659748
+4/12/2022 14:56:06:  Guardian has detected that the market is in-play
+4/12/2022 14:56:06:  Guardian has detected that the market is suspended
+4/12/2022 14:56:07: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.85; bBsp: 2.1; volume: 62660.48 
+4/12/2022 14:56:07: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.85; bBsp: 2.1; volume: 62660.48 
+4/12/2022 14:56:07:  Guardian has detected that the market is now unsuspended
+4/12/2022 14:56:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 14:56:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 14:58:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 14:59:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 14:59:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 14:59:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 14:59:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 14:59:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 15:00:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 15:00:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 15:03:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:03:38: [G_Auto 1] :  € 19.05 Lay bet placed on Holger Rune at 1.42. Fully matched at 1.41.  Ref: 10145          ( Fill or kill bet with 15 seconds delay.   )
+4/12/2022 15:03:39: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: aPoints = point: 0; games: 2; sets: 0 
+4/12/2022 15:03:39: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: aServing = serving:1
+4/12/2022 15:03:39: [G_Auto 2] :  Store Text Value (Shared) for Aslan Karatsev: bPoints = point: 0; games: 0; sets: 0 
+4/12/2022 15:03:39: [G_Auto 2] :  Store Text Value (Shared) for Aslan Karatsev: bServing = serving:0
+4/12/2022 15:03:39: [G_Auto 2] :  Store Value (Shared) for market: price = 1.41
+4/12/2022 15:03:39: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+4/12/2022 15:03:39: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 19.05
+4/12/2022 15:03:39: [G_Auto 2] :  Store Value (Shared) for market: stake = 19.05
+4/12/2022 15:03:39: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 19.05
+4/12/2022 15:03:39: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.14
+4/12/2022 15:03:39: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.41
+4/12/2022 15:03:39: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.35
+4/12/2022 15:03:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:03:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:04:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 15:04:16: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 15:04:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 15:06:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:06:58: [G_Auto 1] :  Placed closure bet with greening on Holger Rune by Backing 20.20 at 1.33
+4/12/2022 15:06:58: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: aPoints = point: 0; games: 3; sets: 0 
+4/12/2022 15:06:58: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: aServing = serving:0
+4/12/2022 15:06:58: [G_Auto 2] :  Store Text Value (Shared) for Aslan Karatsev: bPoints = point: 0; games: 0; sets: 0 
+4/12/2022 15:06:58: [G_Auto 2] :  Store Text Value (Shared) for Aslan Karatsev: bServing = serving:2
+4/12/2022 15:06:58: [G_Auto 2] :  Store Value (Shared) for market: price = 1.33
+4/12/2022 15:06:58: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 20.2
+4/12/2022 15:06:58: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 19.05
+4/12/2022 15:06:58: [G_Auto 2] :  Store Value (Shared) for market: stake = 20.2
+4/12/2022 15:06:58: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 39.25
+4/12/2022 15:06:58: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.14
+4/12/2022 15:06:58: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.34
+4/12/2022 15:06:58: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4
+4/12/2022 15:07:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:07:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:07:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:07:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:08:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:08:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:08:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:08:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:08:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 15:09:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 15:09:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 15:12:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:13:03: [G_Auto 1] :  € 25.81 Lay bet placed on Holger Rune at 1.31. Fully matched at 1.3.  Ref: 10151          ( Fill or kill bet with 15 seconds delay.   )
+4/12/2022 15:13:03: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: aPoints = point: 0; games: 3; sets: 0 
+4/12/2022 15:13:03: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: aServing = serving:1
+4/12/2022 15:13:03: [G_Auto 2] :  Store Text Value (Shared) for Aslan Karatsev: bPoints = point: 0; games: 1; sets: 0 
+4/12/2022 15:13:03: [G_Auto 2] :  Store Text Value (Shared) for Aslan Karatsev: bServing = serving:0
+4/12/2022 15:13:03: [G_Auto 2] :  Store Value (Shared) for market: price = 1.3
+4/12/2022 15:13:03: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 20.2
+4/12/2022 15:13:03: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 44.86
+4/12/2022 15:13:03: [G_Auto 2] :  Store Value (Shared) for market: stake = 25.81
+4/12/2022 15:13:03: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 65.06
+4/12/2022 15:13:03: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.35
+4/12/2022 15:13:03: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.29
+4/12/2022 15:13:03: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.3
+4/12/2022 15:13:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:13:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:13:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:13:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 15:14:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 15:15:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:16:02: [G_Auto 1] :  Placed closure bet with greening on Holger Rune by Backing 27.50 at 1.22
+4/12/2022 15:16:02: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: aPoints = point: 0; games: 4; sets: 0 
+4/12/2022 15:16:02: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: aServing = serving:0
+4/12/2022 15:16:02: [G_Auto 2] :  Store Text Value (Shared) for Aslan Karatsev: bPoints = point: 0; games: 1; sets: 0 
+4/12/2022 15:16:02: [G_Auto 2] :  Store Text Value (Shared) for Aslan Karatsev: bServing = serving:2
+4/12/2022 15:16:02: [G_Auto 2] :  Store Value (Shared) for market: price = 1.22
+4/12/2022 15:16:02: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 47.7
+4/12/2022 15:16:02: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 44.86
+4/12/2022 15:16:02: [G_Auto 2] :  Store Value (Shared) for market: stake = 27.5
+4/12/2022 15:16:02: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 92.56
+4/12/2022 15:16:02: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.84
+4/12/2022 15:16:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.22
+4/12/2022 15:16:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.3
+4/12/2022 15:16:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:16:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:16:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:16:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:17:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:17:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:17:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:17:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:18:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:18:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 15:18:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 15:18:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 15:21:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:21:58: [G_Auto 1] :  € 32.00 Lay bet placed on Holger Rune at 1.25. Fully matched at 1.24.  Ref: 10156          ( Fill or kill bet with 15 seconds delay.   )
+4/12/2022 15:21:58: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: aPoints = point: 0; games: 4; sets: 0 
+4/12/2022 15:21:58: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: aServing = serving:1
+4/12/2022 15:21:58: [G_Auto 2] :  Store Text Value (Shared) for Aslan Karatsev: bPoints = point: 0; games: 2; sets: 0 
+4/12/2022 15:21:58: [G_Auto 2] :  Store Text Value (Shared) for Aslan Karatsev: bServing = serving:0
+4/12/2022 15:21:58: [G_Auto 2] :  Store Value (Shared) for market: price = 1.24
+4/12/2022 15:21:58: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 47.7
+4/12/2022 15:21:58: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 76.86
+4/12/2022 15:21:58: [G_Auto 2] :  Store Value (Shared) for market: stake = 32
+4/12/2022 15:21:58: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 124.56
+4/12/2022 15:21:58: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.1
+4/12/2022 15:21:58: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.24
+4/12/2022 15:21:58: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.2
+4/12/2022 15:22:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:22:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:22:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:22:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 15:22:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 15:23:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 15:23:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:24:08: [G_Auto 1] :  Placed closure bet with greening on Holger Rune by Backing 33.62 at 1.18
+4/12/2022 15:24:08: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: aPoints = point: 0; games: 5; sets: 0 
+4/12/2022 15:24:08: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: aServing = serving:0
+4/12/2022 15:24:08: [G_Auto 2] :  Store Text Value (Shared) for Aslan Karatsev: bPoints = point: 0; games: 2; sets: 0 
+4/12/2022 15:24:08: [G_Auto 2] :  Store Text Value (Shared) for Aslan Karatsev: bServing = serving:2
+4/12/2022 15:24:08: [G_Auto 2] :  Store Value (Shared) for market: price = 1.18
+4/12/2022 15:24:08: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 81.32
+4/12/2022 15:24:08: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 76.86
+4/12/2022 15:24:08: [G_Auto 2] :  Store Value (Shared) for market: stake = 33.62
+4/12/2022 15:24:08: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 158.18
+4/12/2022 15:24:08: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.47
+4/12/2022 15:24:08: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.18
+4/12/2022 15:24:08: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 6.2
+4/12/2022 15:24:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:24:13: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: aPoints = point: 0; games: 5; sets: 0 
+4/12/2022 15:24:13: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: aServing = serving:0
+4/12/2022 15:24:13: [G_Auto 2] :  Store Text Value (Shared) for Aslan Karatsev: bPoints = point: 0; games: 2; sets: 0 
+4/12/2022 15:24:13: [G_Auto 2] :  Store Text Value (Shared) for Aslan Karatsev: bServing = serving:2
+4/12/2022 15:24:13: [G_Auto 2] :  Store Value (Shared) for market: price = 1.18
+4/12/2022 15:24:13: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 81.32
+4/12/2022 15:24:13: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 76.86
+4/12/2022 15:24:13: [G_Auto 2] :  Store Value (Shared) for market: stake = 33.62
+4/12/2022 15:24:13: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 158.18
+4/12/2022 15:24:13: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.47
+4/12/2022 15:24:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.19
+4/12/2022 15:24:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 6.2
+4/12/2022 15:24:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:24:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:24:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:25:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:25:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:25:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:26:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:26:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 15:26:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 15:26:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 15:28:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:28:24: [G_Auto 1] :  € 36.36 Lay bet placed on Holger Rune at 1.22. Fully matched at 1.22.  Ref: 10160          ( Fill or kill bet with 15 seconds delay.   )
+4/12/2022 15:28:24: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: aPoints = point: 0; games: 5; sets: 0 
+4/12/2022 15:28:24: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: aServing = serving:1
+4/12/2022 15:28:24: [G_Auto 2] :  Store Text Value (Shared) for Aslan Karatsev: bPoints = point: 0; games: 3; sets: 0 
+4/12/2022 15:28:24: [G_Auto 2] :  Store Text Value (Shared) for Aslan Karatsev: bServing = serving:0
+4/12/2022 15:28:24: [G_Auto 2] :  Store Value (Shared) for market: price = 1.22
+4/12/2022 15:28:24: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 81.32
+4/12/2022 15:28:24: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 113.22
+4/12/2022 15:28:24: [G_Auto 2] :  Store Value (Shared) for market: stake = 36.36
+4/12/2022 15:28:24: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 194.54
+4/12/2022 15:28:24: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.77
+4/12/2022 15:28:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.21
+4/12/2022 15:28:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.8
+4/12/2022 15:28:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:28:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:28:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 15:29:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 15:29:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 15:31:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:31:29: [G_Auto 1] :  Placed closure bet with greening on Holger Rune by Backing 29.98 at 1.48
+4/12/2022 15:31:29: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: aPoints = point: 0; games: 5; sets: 0 
+4/12/2022 15:31:29: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: aServing = serving:0
+4/12/2022 15:31:29: [G_Auto 2] :  Store Text Value (Shared) for Aslan Karatsev: bPoints = point: 0; games: 4; sets: 0 
+4/12/2022 15:31:29: [G_Auto 2] :  Store Text Value (Shared) for Aslan Karatsev: bServing = serving:2
+4/12/2022 15:31:29: [G_Auto 2] :  Store Value (Shared) for market: price = 1.48
+4/12/2022 15:31:29: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 111.3
+4/12/2022 15:31:29: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 113.22
+4/12/2022 15:31:29: [G_Auto 2] :  Store Value (Shared) for market: stake = 29.98
+4/12/2022 15:31:29: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 224.52
+4/12/2022 15:31:29: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.89
+4/12/2022 15:31:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.49
+4/12/2022 15:31:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.05
+4/12/2022 15:31:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:31:35: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: aPoints = point: 0; games: 5; sets: 0 
+4/12/2022 15:31:35: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: aServing = serving:0
+4/12/2022 15:31:35: [G_Auto 2] :  Store Text Value (Shared) for Aslan Karatsev: bPoints = point: 0; games: 4; sets: 0 
+4/12/2022 15:31:35: [G_Auto 2] :  Store Text Value (Shared) for Aslan Karatsev: bServing = serving:2
+4/12/2022 15:31:35: [G_Auto 2] :  Store Value (Shared) for market: price = 1.48
+4/12/2022 15:31:35: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 111.3
+4/12/2022 15:31:35: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 113.22
+4/12/2022 15:31:35: [G_Auto 2] :  Store Value (Shared) for market: stake = 29.98
+4/12/2022 15:31:35: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 224.52
+4/12/2022 15:31:35: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.89
+4/12/2022 15:31:35: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.49
+4/12/2022 15:31:35: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.05
+4/12/2022 15:31:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:32:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:32:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:32:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:32:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:33:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:33:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:33:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 15:33:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 15:34:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 15:37:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:37:12: [G_Auto 1] :  € 11.94 Lay bet placed on Holger Rune at 1.67. Fully matched at 1.65.  Ref: 10166          ( Fill or kill bet with 15 seconds delay.   )
+4/12/2022 15:37:12: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: aPoints = point: 0; games: 5; sets: 0 
+4/12/2022 15:37:12: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: aServing = serving:1
+4/12/2022 15:37:12: [G_Auto 2] :  Store Text Value (Shared) for Aslan Karatsev: bPoints = point: 0; games: 5; sets: 0 
+4/12/2022 15:37:12: [G_Auto 2] :  Store Text Value (Shared) for Aslan Karatsev: bServing = serving:0
+4/12/2022 15:37:12: [G_Auto 2] :  Store Value (Shared) for market: price = 1.65
+4/12/2022 15:37:12: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 111.3
+4/12/2022 15:37:12: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 125.16
+4/12/2022 15:37:12: [G_Auto 2] :  Store Value (Shared) for market: stake = 11.94
+4/12/2022 15:37:12: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 236.46
+4/12/2022 15:37:12: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.74
+4/12/2022 15:37:12: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.63
+4/12/2022 15:37:12: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.54
+4/12/2022 15:37:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:37:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:37:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 15:37:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 15:39:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:39:55: [G_Auto 1] :  Placed closure bet with greening on Holger Rune by Backing 13.40 at 1.47
+4/12/2022 15:39:55: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: aPoints = point: 0; games: 6; sets: 0 
+4/12/2022 15:39:55: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: aServing = serving:0
+4/12/2022 15:39:55: [G_Auto 2] :  Store Text Value (Shared) for Aslan Karatsev: bPoints = point: 0; games: 5; sets: 0 
+4/12/2022 15:39:55: [G_Auto 2] :  Store Text Value (Shared) for Aslan Karatsev: bServing = serving:2
+4/12/2022 15:39:55: [G_Auto 2] :  Store Value (Shared) for market: price = 1.47
+4/12/2022 15:39:55: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 124.7
+4/12/2022 15:39:55: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 125.16
+4/12/2022 15:39:55: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.4
+4/12/2022 15:39:55: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 249.86
+4/12/2022 15:39:55: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.45
+4/12/2022 15:39:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.48
+4/12/2022 15:39:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.05
+4/12/2022 15:39:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:40:00: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: aPoints = point: 0; games: 6; sets: 0 
+4/12/2022 15:40:00: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: aServing = serving:0
+4/12/2022 15:40:00: [G_Auto 2] :  Store Text Value (Shared) for Aslan Karatsev: bPoints = point: 0; games: 5; sets: 0 
+4/12/2022 15:40:00: [G_Auto 2] :  Store Text Value (Shared) for Aslan Karatsev: bServing = serving:2
+4/12/2022 15:40:00: [G_Auto 2] :  Store Value (Shared) for market: price = 1.47
+4/12/2022 15:40:00: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 124.7
+4/12/2022 15:40:00: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 125.16
+4/12/2022 15:40:00: [G_Auto 2] :  Store Value (Shared) for market: stake = 13.4
+4/12/2022 15:40:00: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 249.86
+4/12/2022 15:40:00: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.45
+4/12/2022 15:40:00: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.47
+4/12/2022 15:40:00: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.1
+4/12/2022 15:40:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:40:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:40:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:41:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:41:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:41:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:41:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:42:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 15:42:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 15:42:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 15:42:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 15:47:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:47:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:47:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:47:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 15:47:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 15:48:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 15:48:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 15:48:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 15:48:55: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 15:49:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 15:49:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 15:49:41: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 15:49:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 15:50:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 15:50:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 15:50:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 15:50:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 15:51:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 15:51:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 15:51:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 15:51:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 15:52:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 15:52:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:52:24: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 1.19
+4/12/2022 15:52:24: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 6.4
+4/12/2022 15:52:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:52:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:53:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:53:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:53:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:53:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:54:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:54:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:54:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:54:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 15:55:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 15:55:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 15:55:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 15:55:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 16:01:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:01:15: [G_Auto 1] :  € 34.78 Lay bet placed on Holger Rune at 1.23. Fully matched at 1.22.  Ref: 10175          ( Fill or kill bet with 15 seconds delay.   )
+4/12/2022 16:01:15: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: aPoints = point: 0; games: 0; sets: 1 
+4/12/2022 16:01:15: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: aServing = serving:1
+4/12/2022 16:01:15: [G_Auto 2] :  Store Text Value (Shared) for Aslan Karatsev: bPoints = point: 0; games: 1; sets: 0 
+4/12/2022 16:01:15: [G_Auto 2] :  Store Text Value (Shared) for Aslan Karatsev: bServing = serving:0
+4/12/2022 16:01:15: [G_Auto 2] :  Store Value (Shared) for market: price = 1.22
+4/12/2022 16:01:15: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 124.7
+4/12/2022 16:01:15: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 159.94
+4/12/2022 16:01:15: [G_Auto 2] :  Store Value (Shared) for market: stake = 34.78
+4/12/2022 16:01:15: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 284.64
+4/12/2022 16:01:15: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.17
+4/12/2022 16:01:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.21
+4/12/2022 16:01:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.8
+4/12/2022 16:01:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:01:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:01:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:01:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 16:02:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 16:05:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:05:45: [G_Auto 1] :  Placed closure bet with greening on Holger Rune by Backing 35.96 at 1.18
+4/12/2022 16:05:45: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: aPoints = point: 0; games: 1; sets: 1 
+4/12/2022 16:05:45: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: aServing = serving:0
+4/12/2022 16:05:45: [G_Auto 2] :  Store Text Value (Shared) for Aslan Karatsev: bPoints = point: 0; games: 1; sets: 0 
+4/12/2022 16:05:45: [G_Auto 2] :  Store Text Value (Shared) for Aslan Karatsev: bServing = serving:2
+4/12/2022 16:05:45: [G_Auto 2] :  Store Value (Shared) for market: price = 1.18
+4/12/2022 16:05:45: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 160.66
+4/12/2022 16:05:45: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 159.94
+4/12/2022 16:05:45: [G_Auto 2] :  Store Value (Shared) for market: stake = 35.96
+4/12/2022 16:05:45: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 320.6
+4/12/2022 16:05:45: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.72
+4/12/2022 16:05:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.19
+4/12/2022 16:05:45: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 6.2
+4/12/2022 16:05:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:06:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:06:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 16:06:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 16:08:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:09:10: [G_Auto 1] :  € 32.00 Lay bet placed on Holger Rune at 1.25. Fully matched at 1.25.  Ref: 10181          ( Fill or kill bet with 15 seconds delay.   )
+4/12/2022 16:09:10: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: aPoints = point: 0; games: 1; sets: 1 
+4/12/2022 16:09:10: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: aServing = serving:1
+4/12/2022 16:09:10: [G_Auto 2] :  Store Text Value (Shared) for Aslan Karatsev: bPoints = point: 0; games: 2; sets: 0 
+4/12/2022 16:09:10: [G_Auto 2] :  Store Text Value (Shared) for Aslan Karatsev: bServing = serving:0
+4/12/2022 16:09:10: [G_Auto 2] :  Store Value (Shared) for market: price = 1.25
+4/12/2022 16:09:10: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 160.66
+4/12/2022 16:09:10: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 191.94
+4/12/2022 16:09:10: [G_Auto 2] :  Store Value (Shared) for market: stake = 32
+4/12/2022 16:09:10: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 352.6
+4/12/2022 16:09:10: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.98
+4/12/2022 16:09:10: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.24
+4/12/2022 16:09:10: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.2
+4/12/2022 16:09:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:09:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:09:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:10:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:10:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:10:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:10:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:11:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:11:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:11:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 16:11:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 16:16:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:16:43: [G_Auto 1] :  Placed closure bet with greening on Holger Rune by Backing 33.33 at 1.2
+4/12/2022 16:16:44: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: aPoints = point: 0; games: 2; sets: 1 
+4/12/2022 16:16:44: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: aServing = serving:0
+4/12/2022 16:16:44: [G_Auto 2] :  Store Text Value (Shared) for Aslan Karatsev: bPoints = point: 0; games: 2; sets: 0 
+4/12/2022 16:16:44: [G_Auto 2] :  Store Text Value (Shared) for Aslan Karatsev: bServing = serving:2
+4/12/2022 16:16:44: [G_Auto 2] :  Store Value (Shared) for market: price = 1.2
+4/12/2022 16:16:44: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 193.99
+4/12/2022 16:16:44: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 191.94
+4/12/2022 16:16:44: [G_Auto 2] :  Store Value (Shared) for market: stake = 33.33
+4/12/2022 16:16:44: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 385.93
+4/12/2022 16:16:44: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.05
+4/12/2022 16:16:44: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.21
+4/12/2022 16:16:44: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.2
+4/12/2022 16:16:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:16:49: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: aPoints = point: 0; games: 2; sets: 1 
+4/12/2022 16:16:49: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: aServing = serving:0
+4/12/2022 16:16:49: [G_Auto 2] :  Store Text Value (Shared) for Aslan Karatsev: bPoints = point: 0; games: 2; sets: 0 
+4/12/2022 16:16:49: [G_Auto 2] :  Store Text Value (Shared) for Aslan Karatsev: bServing = serving:2
+4/12/2022 16:16:49: [G_Auto 2] :  Store Value (Shared) for market: price = 1.2
+4/12/2022 16:16:49: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 193.99
+4/12/2022 16:16:49: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 191.94
+4/12/2022 16:16:49: [G_Auto 2] :  Store Value (Shared) for market: stake = 33.33
+4/12/2022 16:16:49: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 385.93
+4/12/2022 16:16:49: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.05
+4/12/2022 16:16:49: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.21
+4/12/2022 16:16:49: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.7
+4/12/2022 16:17:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:17:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:17:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:17:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:17:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 16:18:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 16:18:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 16:20:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:20:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:20:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:20:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:21:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:21:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:21:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:21:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:22:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:22:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:22:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:22:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:23:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:23:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:23:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:23:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:24:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:24:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:24:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 16:24:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 16:25:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 16:25:24: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 16:27:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:27:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:27:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:27:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 16:28:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 16:28:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 16:35:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:35:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:36:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:36:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:36:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:36:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:37:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:37:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:37:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:37:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:37:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 16:38:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 16:41:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:41:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:42:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:42:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:42:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:42:51: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 16:43:07: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 16:43:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 16:46:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:47:04: [G_Auto 1] :  € 22.86 Lay bet placed on Holger Rune at 1.35. Fully matched at 1.34.  Ref: 10189          ( Fill or kill bet with 15 seconds delay.   )
+4/12/2022 16:47:04: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: aPoints = point: 0; games: 4; sets: 1 
+4/12/2022 16:47:04: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: aServing = serving:1
+4/12/2022 16:47:04: [G_Auto 2] :  Store Text Value (Shared) for Aslan Karatsev: bPoints = point: 0; games: 5; sets: 0 
+4/12/2022 16:47:04: [G_Auto 2] :  Store Text Value (Shared) for Aslan Karatsev: bServing = serving:0
+4/12/2022 16:47:04: [G_Auto 2] :  Store Value (Shared) for market: price = 1.34
+4/12/2022 16:47:04: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 193.99
+4/12/2022 16:47:04: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 214.8
+4/12/2022 16:47:04: [G_Auto 2] :  Store Value (Shared) for market: stake = 22.86
+4/12/2022 16:47:04: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 408.79
+4/12/2022 16:47:04: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.22
+4/12/2022 16:47:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.33
+4/12/2022 16:47:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.2
+4/12/2022 16:47:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:47:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:47:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:47:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:48:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:48:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:48:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:48:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:49:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 16:49:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 16:49:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 16:51:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:52:04: [G_Auto 2] :  Store Value (Shared) for market: aSecondSetPrice = 1.76
+4/12/2022 16:52:04: [G_Auto 2] :  Store Value (Shared) for market: bSecondSetPrice = 2.32
+4/12/2022 16:52:09: [G_Auto 1] :  Placed closure bet with greening on Holger Rune by Backing 17.41 at 1.76
+4/12/2022 16:52:09: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: aPoints = point: 0; games: 0; sets: 1 
+4/12/2022 16:52:09: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: aServing = serving:0
+4/12/2022 16:52:09: [G_Auto 2] :  Store Text Value (Shared) for Aslan Karatsev: bPoints = point: 0; games: 0; sets: 1 
+4/12/2022 16:52:09: [G_Auto 2] :  Store Text Value (Shared) for Aslan Karatsev: bServing = serving:2
+4/12/2022 16:52:09: [G_Auto 2] :  Store Value (Shared) for market: price = 1.76
+4/12/2022 16:52:09: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 211.4
+4/12/2022 16:52:09: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 214.8
+4/12/2022 16:52:09: [G_Auto 2] :  Store Value (Shared) for market: stake = 17.41
+4/12/2022 16:52:09: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 426.2
+4/12/2022 16:52:09: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.34
+4/12/2022 16:52:09: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.76
+4/12/2022 16:52:09: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.28
+4/12/2022 16:52:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:52:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:52:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:52:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:53:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:53:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:53:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:53:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:54:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:54:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:54:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:54:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:55:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:55:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:55:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:56:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:56:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:56:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:56:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:57:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:57:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:57:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 16:57:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 16:57:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 16:58:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 17:00:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 17:00:21: [G_Auto 1] :  € 25.00 Lay bet placed on Holger Rune at 1.32. Fully matched at 1.31.  Ref: 10192          ( Fill or kill bet with 15 seconds delay.   )
+4/12/2022 17:00:22: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: aPoints = point: 0; games: 1; sets: 1 
+4/12/2022 17:00:22: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: aServing = serving:1
+4/12/2022 17:00:22: [G_Auto 2] :  Store Text Value (Shared) for Aslan Karatsev: bPoints = point: 0; games: 0; sets: 1 
+4/12/2022 17:00:22: [G_Auto 2] :  Store Text Value (Shared) for Aslan Karatsev: bServing = serving:0
+4/12/2022 17:00:22: [G_Auto 2] :  Store Value (Shared) for market: price = 1.31
+4/12/2022 17:00:22: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 211.4
+4/12/2022 17:00:22: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 239.8
+4/12/2022 17:00:22: [G_Auto 2] :  Store Value (Shared) for market: stake = 25
+4/12/2022 17:00:22: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 451.2
+4/12/2022 17:00:22: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.15
+4/12/2022 17:00:22: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.31
+4/12/2022 17:00:22: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.4
+4/12/2022 17:00:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 17:00:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 17:00:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 17:01:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 17:01:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 17:05:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 17:05:22: [G_Auto 1] :  Placed closure bet with greening on Holger Rune by Backing 27.28 at 1.2
+4/12/2022 17:05:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 17:05:26: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: aPoints = point: 0; games: 2; sets: 1 
+4/12/2022 17:05:26: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: aServing = serving:0
+4/12/2022 17:05:26: [G_Auto 2] :  Store Text Value (Shared) for Aslan Karatsev: bPoints = point: 0; games: 0; sets: 1 
+4/12/2022 17:05:26: [G_Auto 2] :  Store Text Value (Shared) for Aslan Karatsev: bServing = serving:2
+4/12/2022 17:05:26: [G_Auto 2] :  Store Value (Shared) for market: price = 1.2
+4/12/2022 17:05:26: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 238.68
+4/12/2022 17:05:26: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 239.8
+4/12/2022 17:05:26: [G_Auto 2] :  Store Value (Shared) for market: stake = 27.28
+4/12/2022 17:05:26: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 478.48
+4/12/2022 17:05:26: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.09
+4/12/2022 17:05:26: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.2
+4/12/2022 17:05:26: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 6
+4/12/2022 17:05:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 17:05:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 17:06:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 17:06:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 17:06:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 17:08:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 17:08:21: [G_Auto 1] :  € 24.24 Lay bet placed on Holger Rune at 1.33. Fully matched at 1.32.  Ref: 10194          ( Fill or kill bet with 15 seconds delay.   )
+4/12/2022 17:08:22: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: aPoints = point: 0; games: 2; sets: 1 
+4/12/2022 17:08:22: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: aServing = serving:1
+4/12/2022 17:08:22: [G_Auto 2] :  Store Text Value (Shared) for Aslan Karatsev: bPoints = point: 0; games: 1; sets: 1 
+4/12/2022 17:08:22: [G_Auto 2] :  Store Text Value (Shared) for Aslan Karatsev: bServing = serving:0
+4/12/2022 17:08:22: [G_Auto 2] :  Store Value (Shared) for market: price = 1.32
+4/12/2022 17:08:22: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 238.68
+4/12/2022 17:08:22: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 264.04
+4/12/2022 17:08:22: [G_Auto 2] :  Store Value (Shared) for market: stake = 24.24
+4/12/2022 17:08:22: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 502.72
+4/12/2022 17:08:22: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.91
+4/12/2022 17:08:22: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.31
+4/12/2022 17:08:22: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.3
+4/12/2022 17:08:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 17:08:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 17:08:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 17:09:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 17:09:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 17:09:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 17:09:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 17:09:58: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 17:10:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 17:10:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 17:10:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 17:12:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 17:12:17: [G_Auto 1] :  Placed closure bet with greening on Holger Rune by Backing 27.12 at 1.18
+4/12/2022 17:12:17: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: aPoints = point: 0; games: 3; sets: 1 
+4/12/2022 17:12:17: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: aServing = serving:0
+4/12/2022 17:12:17: [G_Auto 2] :  Store Text Value (Shared) for Aslan Karatsev: bPoints = point: 0; games: 1; sets: 1 
+4/12/2022 17:12:17: [G_Auto 2] :  Store Text Value (Shared) for Aslan Karatsev: bServing = serving:2
+4/12/2022 17:12:17: [G_Auto 2] :  Store Value (Shared) for market: price = 1.19
+4/12/2022 17:12:17: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 265.8
+4/12/2022 17:12:17: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 264.04
+4/12/2022 17:12:17: [G_Auto 2] :  Store Value (Shared) for market: stake = 27.12
+4/12/2022 17:12:17: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 529.84
+4/12/2022 17:12:17: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.53
+4/12/2022 17:12:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.18
+4/12/2022 17:12:17: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 6.2
+4/12/2022 17:12:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 17:12:22: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: aPoints = point: 0; games: 3; sets: 1 
+4/12/2022 17:12:22: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: aServing = serving:0
+4/12/2022 17:12:22: [G_Auto 2] :  Store Text Value (Shared) for Aslan Karatsev: bPoints = point: 0; games: 1; sets: 1 
+4/12/2022 17:12:22: [G_Auto 2] :  Store Text Value (Shared) for Aslan Karatsev: bServing = serving:2
+4/12/2022 17:12:22: [G_Auto 2] :  Store Value (Shared) for market: price = 1.19
+4/12/2022 17:12:22: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 265.8
+4/12/2022 17:12:22: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 264.04
+4/12/2022 17:12:22: [G_Auto 2] :  Store Value (Shared) for market: stake = 27.12
+4/12/2022 17:12:22: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 529.84
+4/12/2022 17:12:22: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.53
+4/12/2022 17:12:22: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.18
+4/12/2022 17:12:22: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 6.2
+4/12/2022 17:12:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 17:12:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 17:12:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 17:13:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 17:14:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 17:15:04: [G_Auto 1] :  € 28.57 Lay bet placed on Holger Rune at 1.28. Fully matched at 1.27.  Ref: 10196          ( Fill or kill bet with 15 seconds delay.   )
+4/12/2022 17:15:05: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: aPoints = point: 0; games: 3; sets: 1 
+4/12/2022 17:15:05: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: aServing = serving:1
+4/12/2022 17:15:05: [G_Auto 2] :  Store Text Value (Shared) for Aslan Karatsev: bPoints = point: 0; games: 2; sets: 1 
+4/12/2022 17:15:05: [G_Auto 2] :  Store Text Value (Shared) for Aslan Karatsev: bServing = serving:0
+4/12/2022 17:15:05: [G_Auto 2] :  Store Value (Shared) for market: price = 1.27
+4/12/2022 17:15:05: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 265.8
+4/12/2022 17:15:05: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 292.61
+4/12/2022 17:15:05: [G_Auto 2] :  Store Value (Shared) for market: stake = 28.57
+4/12/2022 17:15:05: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 558.41
+4/12/2022 17:15:05: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.77
+4/12/2022 17:15:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.27
+4/12/2022 17:15:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.6
+4/12/2022 17:15:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 17:15:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 17:15:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 17:15:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 17:16:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 17:16:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 17:16:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 17:16:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 17:17:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 17:17:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 17:19:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 17:19:39: [G_Auto 1] :  Placed closure bet with greening on Holger Rune by Backing 31.32 at 1.15
+4/12/2022 17:19:40: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: aPoints = point: 0; games: 4; sets: 1 
+4/12/2022 17:19:40: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: aServing = serving:0
+4/12/2022 17:19:40: [G_Auto 2] :  Store Text Value (Shared) for Aslan Karatsev: bPoints = point: 0; games: 2; sets: 1 
+4/12/2022 17:19:40: [G_Auto 2] :  Store Text Value (Shared) for Aslan Karatsev: bServing = serving:2
+4/12/2022 17:19:40: [G_Auto 2] :  Store Value (Shared) for market: price = 1.15
+4/12/2022 17:19:40: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 297.12
+4/12/2022 17:19:40: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 292.61
+4/12/2022 17:19:40: [G_Auto 2] :  Store Value (Shared) for market: stake = 31.32
+4/12/2022 17:19:40: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 589.73
+4/12/2022 17:19:40: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.51
+4/12/2022 17:19:40: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.16
+4/12/2022 17:19:40: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 7.2
+4/12/2022 17:19:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 17:19:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 17:20:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 17:20:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 17:20:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 17:20:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 17:22:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 17:22:56: [G_Auto 1] :  € 34.78 Lay bet placed on Holger Rune at 1.23. Fully matched at 1.22.  Ref: 10199          ( Fill or kill bet with 15 seconds delay.   )
+4/12/2022 17:22:56: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: aPoints = point: 0; games: 4; sets: 1 
+4/12/2022 17:22:56: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: aServing = serving:1
+4/12/2022 17:22:56: [G_Auto 2] :  Store Text Value (Shared) for Aslan Karatsev: bPoints = point: 0; games: 3; sets: 1 
+4/12/2022 17:22:56: [G_Auto 2] :  Store Text Value (Shared) for Aslan Karatsev: bServing = serving:0
+4/12/2022 17:22:56: [G_Auto 2] :  Store Value (Shared) for market: price = 1.22
+4/12/2022 17:22:56: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 297.12
+4/12/2022 17:22:56: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 327.39
+4/12/2022 17:22:56: [G_Auto 2] :  Store Value (Shared) for market: stake = 34.78
+4/12/2022 17:22:56: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 624.51
+4/12/2022 17:22:56: [G_Auto 2] :  Store Value (Shared) for market: pl = -4.79
+4/12/2022 17:22:56: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.22
+4/12/2022 17:22:56: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.5
+4/12/2022 17:22:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 17:23:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 17:23:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 17:23:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 17:24:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 17:24:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 17:24:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 17:24:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 17:25:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 17:26:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 17:26:13: [G_Auto 1] :  Placed closure bet with greening on Holger Rune by Backing 39.28 at 1.08
+4/12/2022 17:26:14: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: aPoints = point: 0; games: 5; sets: 1 
+4/12/2022 17:26:14: [G_Auto 2] :  Store Text Value (Shared) for Holger Rune: aServing = serving:0
+4/12/2022 17:26:14: [G_Auto 2] :  Store Text Value (Shared) for Aslan Karatsev: bPoints = point: 0; games: 3; sets: 1 
+4/12/2022 17:26:14: [G_Auto 2] :  Store Text Value (Shared) for Aslan Karatsev: bServing = serving:2
+4/12/2022 17:26:14: [G_Auto 2] :  Store Value (Shared) for market: price = 1.08
+4/12/2022 17:26:14: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 336.4
+4/12/2022 17:26:14: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 327.39
+4/12/2022 17:26:14: [G_Auto 2] :  Store Value (Shared) for market: stake = 39.28
+4/12/2022 17:26:14: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 663.79
+4/12/2022 17:26:14: [G_Auto 2] :  Store Value (Shared) for market: pl = -9.01
+4/12/2022 17:26:14: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.09
+4/12/2022 17:26:14: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 12.5
+4/12/2022 17:26:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 17:26:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 17:26:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 17:26:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 17:27:14: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+4/12/2022 17:29:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+4/12/2022 17:29:08:  Guardian has detected that the market is suspended

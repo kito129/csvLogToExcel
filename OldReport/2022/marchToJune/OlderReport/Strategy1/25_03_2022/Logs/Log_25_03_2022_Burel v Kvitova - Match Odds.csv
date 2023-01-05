@@ -1,0 +1,572 @@
+3/25/2022 14:38:55: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: info = marketName: Burel v Kvitova - Match Odds; runnerA: Clara Burel; runnerB: Petra Kvitova 
+3/25/2022 14:38:55: [G_Auto 2] :  Store Value (Shared) for market: aId = 10351066
+3/25/2022 14:38:55: [G_Auto 2] :  Store Value (Shared) for market: bId = 2497008
+3/25/2022 20:21:43:  Guardian has detected that the market is in-play
+3/25/2022 20:21:43:  Guardian has detected that the market is suspended
+3/25/2022 20:21:46: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 4.4; bBsp: 1.3; volume: 14923.35 
+3/25/2022 20:21:46: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 4.4; bBsp: 1.3; volume: 14923.35 
+3/25/2022 20:21:46:  Guardian has detected that the market is now unsuspended
+3/25/2022 20:21:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 20:22:00: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 20:22:18: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 20:26:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 20:26:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 20:26:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 20:27:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 20:27:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 20:27:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 20:27:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 20:29:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 20:29:23: [G_Auto 1] :  € 25.81 Lay bet placed on Petra Kvitova at 1.31. Fully matched at 1.3.  Ref: 12619          ( Fill or kill bet with 15 seconds delay.   )
+3/25/2022 20:29:24: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aPoints = point: 0; games: 1; sets: 0 
+3/25/2022 20:29:24: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aServing = serving:0
+3/25/2022 20:29:24: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bPoints = point: 0; games: 1; sets: 0 
+3/25/2022 20:29:24: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bServing = serving:2
+3/25/2022 20:29:24: [G_Auto 2] :  Store Value (Shared) for market: price = 1.3
+3/25/2022 20:29:24: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+3/25/2022 20:29:24: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 25.81
+3/25/2022 20:29:24: [G_Auto 2] :  Store Value (Shared) for market: stake = 25.81
+3/25/2022 20:29:24: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 25.81
+3/25/2022 20:29:24: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.2
+3/25/2022 20:29:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.6
+3/25/2022 20:29:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.29
+3/25/2022 20:29:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 20:29:31: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aPoints = point: 0; games: 1; sets: 0 
+3/25/2022 20:29:31: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aServing = serving:0
+3/25/2022 20:29:31: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bPoints = point: 0; games: 1; sets: 0 
+3/25/2022 20:29:31: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bServing = serving:2
+3/25/2022 20:29:31: [G_Auto 2] :  Store Value (Shared) for market: price = 1.3
+3/25/2022 20:29:31: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+3/25/2022 20:29:31: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 25.81
+3/25/2022 20:29:31: [G_Auto 2] :  Store Value (Shared) for market: stake = 25.81
+3/25/2022 20:29:31: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 25.81
+3/25/2022 20:29:31: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.2
+3/25/2022 20:29:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.3
+3/25/2022 20:29:31: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.29
+3/25/2022 20:29:45: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 20:30:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 20:32:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 20:32:20: [G_Auto 1] :  Placed closure bet with greening on Petra Kvitova by Backing 27.06 at 1.24
+3/25/2022 20:32:20: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aPoints = point: 0; games: 1; sets: 0 
+3/25/2022 20:32:20: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aServing = serving:1
+3/25/2022 20:32:20: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bPoints = point: 0; games: 2; sets: 0 
+3/25/2022 20:32:20: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bServing = serving:0
+3/25/2022 20:32:20: [G_Auto 2] :  Store Value (Shared) for market: price = 1.24
+3/25/2022 20:32:20: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 27.06
+3/25/2022 20:32:20: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 25.81
+3/25/2022 20:32:20: [G_Auto 2] :  Store Value (Shared) for market: stake = 27.06
+3/25/2022 20:32:20: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 52.87
+3/25/2022 20:32:20: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.25
+3/25/2022 20:32:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 5
+3/25/2022 20:32:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.25
+3/25/2022 20:32:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 20:32:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 20:32:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 20:33:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 20:33:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 20:33:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 20:34:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 20:34:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 20:35:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 20:36:03: [G_Auto 1] :  € 50.00 Lay bet placed on Petra Kvitova at 1.16. Fully matched at 1.15.  Ref: 12624          ( Fill or kill bet with 15 seconds delay.   )
+3/25/2022 20:36:04: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aPoints = point: 0; games: 1; sets: 0 
+3/25/2022 20:36:04: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aServing = serving:0
+3/25/2022 20:36:04: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bPoints = point: 0; games: 3; sets: 0 
+3/25/2022 20:36:04: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bServing = serving:2
+3/25/2022 20:36:04: [G_Auto 2] :  Store Value (Shared) for market: price = 1.15
+3/25/2022 20:36:04: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 27.06
+3/25/2022 20:36:04: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 75.81
+3/25/2022 20:36:04: [G_Auto 2] :  Store Value (Shared) for market: stake = 50
+3/25/2022 20:36:04: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 102.87
+3/25/2022 20:36:04: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.69
+3/25/2022 20:36:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 7.8
+3/25/2022 20:36:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.14
+3/25/2022 20:36:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 20:36:11: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aPoints = point: 0; games: 1; sets: 0 
+3/25/2022 20:36:11: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aServing = serving:0
+3/25/2022 20:36:11: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bPoints = point: 0; games: 3; sets: 0 
+3/25/2022 20:36:11: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bServing = serving:2
+3/25/2022 20:36:11: [G_Auto 2] :  Store Value (Shared) for market: price = 1.15
+3/25/2022 20:36:11: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 27.06
+3/25/2022 20:36:11: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 75.81
+3/25/2022 20:36:11: [G_Auto 2] :  Store Value (Shared) for market: stake = 50
+3/25/2022 20:36:11: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 102.87
+3/25/2022 20:36:11: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.69
+3/25/2022 20:36:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 7.8
+3/25/2022 20:36:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.14
+3/25/2022 20:36:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 20:36:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 20:36:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 20:39:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 20:39:19: [G_Auto 1] :  Placed closure bet with greening on Petra Kvitova by Backing 51.80 at 1.11
+3/25/2022 20:39:20: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aPoints = point: 0; games: 1; sets: 0 
+3/25/2022 20:39:20: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aServing = serving:1
+3/25/2022 20:39:20: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bPoints = point: 0; games: 4; sets: 0 
+3/25/2022 20:39:20: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bServing = serving:0
+3/25/2022 20:39:20: [G_Auto 2] :  Store Value (Shared) for market: price = 1.11
+3/25/2022 20:39:20: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 78.86
+3/25/2022 20:39:20: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 75.81
+3/25/2022 20:39:20: [G_Auto 2] :  Store Value (Shared) for market: stake = 51.8
+3/25/2022 20:39:20: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 154.67
+3/25/2022 20:39:20: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.05
+3/25/2022 20:39:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 9.2
+3/25/2022 20:39:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.12
+3/25/2022 20:39:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 20:39:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 20:39:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 20:40:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 20:40:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 20:40:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 20:41:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 20:41:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 20:43:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 20:43:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 20:43:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 20:43:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 20:44:06: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 20:45:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 20:45:37: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 14.5
+3/25/2022 20:45:37: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 1.08
+3/25/2022 20:45:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 20:46:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 20:46:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 20:46:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 20:46:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 20:47:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 20:47:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 20:47:47: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 20:48:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 20:51:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 20:51:18: [G_Auto 1] :  € 66.67 Lay bet placed on Petra Kvitova at 1.12. Fully matched at 1.12.  Ref: 12636          ( Fill or kill bet with 15 seconds delay.   )
+3/25/2022 20:51:19: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aPoints = point: 0; games: 1; sets: 0 
+3/25/2022 20:51:19: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aServing = serving:0
+3/25/2022 20:51:19: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bPoints = point: 0; games: 0; sets: 1 
+3/25/2022 20:51:19: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bServing = serving:2
+3/25/2022 20:51:19: [G_Auto 2] :  Store Value (Shared) for market: price = 1.12
+3/25/2022 20:51:19: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 78.86
+3/25/2022 20:51:19: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 142.48
+3/25/2022 20:51:19: [G_Auto 2] :  Store Value (Shared) for market: stake = 66.67
+3/25/2022 20:51:19: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 221.34
+3/25/2022 20:51:19: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.65
+3/25/2022 20:51:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 14
+3/25/2022 20:51:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.11
+3/25/2022 20:51:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 20:51:26: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aPoints = point: 0; games: 1; sets: 0 
+3/25/2022 20:51:26: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aServing = serving:0
+3/25/2022 20:51:26: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bPoints = point: 0; games: 0; sets: 1 
+3/25/2022 20:51:26: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bServing = serving:2
+3/25/2022 20:51:26: [G_Auto 2] :  Store Value (Shared) for market: price = 1.12
+3/25/2022 20:51:26: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 78.86
+3/25/2022 20:51:26: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 142.48
+3/25/2022 20:51:26: [G_Auto 2] :  Store Value (Shared) for market: stake = 66.67
+3/25/2022 20:51:26: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 221.34
+3/25/2022 20:51:26: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.65
+3/25/2022 20:51:26: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 10.5
+3/25/2022 20:51:26: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.11
+3/25/2022 20:51:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 20:51:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 20:52:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 20:52:28: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 20:55:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 20:55:49: [G_Auto 1] :  Placed closure bet with greening on Petra Kvitova by Backing 61.21 at 1.22
+3/25/2022 20:55:50: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aPoints = point: 0; games: 2; sets: 0 
+3/25/2022 20:55:50: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aServing = serving:1
+3/25/2022 20:55:50: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bPoints = point: 0; games: 0; sets: 1 
+3/25/2022 20:55:50: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bServing = serving:0
+3/25/2022 20:55:50: [G_Auto 2] :  Store Value (Shared) for market: price = 1.22
+3/25/2022 20:55:50: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 140.07
+3/25/2022 20:55:50: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 142.48
+3/25/2022 20:55:50: [G_Auto 2] :  Store Value (Shared) for market: stake = 61.21
+3/25/2022 20:55:50: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 282.55
+3/25/2022 20:55:50: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.36
+3/25/2022 20:55:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 5.4
+3/25/2022 20:55:50: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.22
+3/25/2022 20:55:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 20:55:56: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aPoints = point: 0; games: 2; sets: 0 
+3/25/2022 20:55:56: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aServing = serving:1
+3/25/2022 20:55:56: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bPoints = point: 0; games: 0; sets: 1 
+3/25/2022 20:55:56: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bServing = serving:0
+3/25/2022 20:55:56: [G_Auto 2] :  Store Value (Shared) for market: price = 1.22
+3/25/2022 20:55:56: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 140.07
+3/25/2022 20:55:56: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 142.48
+3/25/2022 20:55:56: [G_Auto 2] :  Store Value (Shared) for market: stake = 61.21
+3/25/2022 20:55:56: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 282.55
+3/25/2022 20:55:56: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.36
+3/25/2022 20:55:56: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 5.5
+3/25/2022 20:55:56: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.22
+3/25/2022 20:56:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 20:56:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 20:56:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 20:58:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 20:58:39: [G_Auto 1] :  € 57.14 Lay bet placed on Petra Kvitova at 1.14. Fully matched at 1.13.  Ref: 12641          ( Fill or kill bet with 15 seconds delay.   )
+3/25/2022 20:58:40: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aPoints = point: 0; games: 2; sets: 0 
+3/25/2022 20:58:40: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aServing = serving:0
+3/25/2022 20:58:40: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bPoints = point: 0; games: 1; sets: 1 
+3/25/2022 20:58:40: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bServing = serving:2
+3/25/2022 20:58:40: [G_Auto 2] :  Store Value (Shared) for market: price = 1.13
+3/25/2022 20:58:40: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 140.07
+3/25/2022 20:58:40: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 199.62
+3/25/2022 20:58:40: [G_Auto 2] :  Store Value (Shared) for market: stake = 57.14
+3/25/2022 20:58:40: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 339.69
+3/25/2022 20:58:40: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.86
+3/25/2022 20:58:40: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 8.8
+3/25/2022 20:58:40: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.13
+3/25/2022 20:58:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 20:58:46: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aPoints = point: 0; games: 2; sets: 0 
+3/25/2022 20:58:46: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aServing = serving:0
+3/25/2022 20:58:46: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bPoints = point: 0; games: 1; sets: 1 
+3/25/2022 20:58:46: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bServing = serving:2
+3/25/2022 20:58:46: [G_Auto 2] :  Store Value (Shared) for market: price = 1.13
+3/25/2022 20:58:46: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 140.07
+3/25/2022 20:58:46: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 199.62
+3/25/2022 20:58:46: [G_Auto 2] :  Store Value (Shared) for market: stake = 57.14
+3/25/2022 20:58:46: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 339.69
+3/25/2022 20:58:46: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.86
+3/25/2022 20:58:46: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 8.8
+3/25/2022 20:58:46: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.13
+3/25/2022 20:58:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 20:59:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 20:59:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 20:59:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:00:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:00:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:00:32: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 21:00:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 21:05:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:05:52: [G_Auto 1] :  Placed closure bet with greening on Petra Kvitova by Backing 59.23 at 1.09
+3/25/2022 21:05:53: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aPoints = point: 0; games: 2; sets: 0 
+3/25/2022 21:05:53: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aServing = serving:1
+3/25/2022 21:05:53: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bPoints = point: 0; games: 2; sets: 1 
+3/25/2022 21:05:53: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bServing = serving:0
+3/25/2022 21:05:53: [G_Auto 2] :  Store Value (Shared) for market: price = 1.09
+3/25/2022 21:05:53: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 199.3
+3/25/2022 21:05:53: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 199.62
+3/25/2022 21:05:53: [G_Auto 2] :  Store Value (Shared) for market: stake = 59.23
+3/25/2022 21:05:53: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 398.92
+3/25/2022 21:05:53: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.31
+3/25/2022 21:05:53: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 10
+3/25/2022 21:05:53: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.1
+3/25/2022 21:05:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:06:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:06:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:06:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 21:06:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 21:08:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:09:07: [G_Auto 1] :  € 50.00 Lay bet placed on Petra Kvitova at 1.16. Fully matched at 1.15.  Ref: 12647          ( Fill or kill bet with 15 seconds delay.   )
+3/25/2022 21:09:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:09:10: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aPoints = point: 0; games: 3; sets: 0 
+3/25/2022 21:09:10: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aServing = serving:0
+3/25/2022 21:09:10: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bPoints = point: 0; games: 2; sets: 1 
+3/25/2022 21:09:10: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bServing = serving:2
+3/25/2022 21:09:10: [G_Auto 2] :  Store Value (Shared) for market: price = 1.15
+3/25/2022 21:09:10: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 199.3
+3/25/2022 21:09:10: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 249.62
+3/25/2022 21:09:10: [G_Auto 2] :  Store Value (Shared) for market: stake = 50
+3/25/2022 21:09:10: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 448.92
+3/25/2022 21:09:10: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.31
+3/25/2022 21:09:10: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 7.6
+3/25/2022 21:09:10: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.15
+3/25/2022 21:09:16: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aPoints = point: 0; games: 3; sets: 0 
+3/25/2022 21:09:16: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aServing = serving:0
+3/25/2022 21:09:16: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bPoints = point: 0; games: 2; sets: 1 
+3/25/2022 21:09:16: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bServing = serving:2
+3/25/2022 21:09:16: [G_Auto 2] :  Store Value (Shared) for market: price = 1.15
+3/25/2022 21:09:16: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 199.3
+3/25/2022 21:09:16: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 249.62
+3/25/2022 21:09:16: [G_Auto 2] :  Store Value (Shared) for market: stake = 50
+3/25/2022 21:09:16: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 448.92
+3/25/2022 21:09:16: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.31
+3/25/2022 21:09:16: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 7.6
+3/25/2022 21:09:16: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.15
+3/25/2022 21:09:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:09:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:09:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:10:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:10:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:10:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:10:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:11:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 21:11:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 21:11:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 21:11:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 21:12:04: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 21:13:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:13:15: [G_Auto 1] :  Placed closure bet with greening on Petra Kvitova by Backing 44.23 at 1.3
+3/25/2022 21:13:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:13:19: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aPoints = point: 0; games: 4; sets: 0 
+3/25/2022 21:13:19: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aServing = serving:1
+3/25/2022 21:13:19: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bPoints = point: 0; games: 2; sets: 1 
+3/25/2022 21:13:19: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bServing = serving:0
+3/25/2022 21:13:19: [G_Auto 2] :  Store Value (Shared) for market: price = 1.3
+3/25/2022 21:13:19: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 243.53
+3/25/2022 21:13:19: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 249.62
+3/25/2022 21:13:19: [G_Auto 2] :  Store Value (Shared) for market: stake = 44.23
+3/25/2022 21:13:19: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 493.15
+3/25/2022 21:13:19: [G_Auto 2] :  Store Value (Shared) for market: pl = 5.97
+3/25/2022 21:13:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.2
+3/25/2022 21:13:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.3
+3/25/2022 21:13:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:13:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 21:13:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 21:18:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:18:13: [G_Auto 1] :  € 19.51 Lay bet placed on Petra Kvitova at 1.41. Fully matched at 1.41.  Ref: 12651          ( Fill or kill bet with 15 seconds delay.   )
+3/25/2022 21:18:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:18:16: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aPoints = point: 0; games: 5; sets: 0 
+3/25/2022 21:18:16: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aServing = serving:0
+3/25/2022 21:18:16: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bPoints = point: 0; games: 2; sets: 1 
+3/25/2022 21:18:16: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bServing = serving:2
+3/25/2022 21:18:16: [G_Auto 2] :  Store Value (Shared) for market: price = 1.41
+3/25/2022 21:18:16: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 243.53
+3/25/2022 21:18:16: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 269.13
+3/25/2022 21:18:16: [G_Auto 2] :  Store Value (Shared) for market: stake = 19.51
+3/25/2022 21:18:16: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 512.66
+3/25/2022 21:18:16: [G_Auto 2] :  Store Value (Shared) for market: pl = 5.69
+3/25/2022 21:18:16: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.6
+3/25/2022 21:18:16: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.39
+3/25/2022 21:18:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:18:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:19:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:19:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:19:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:19:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:20:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:20:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 21:20:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 21:20:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 21:22:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:22:22: [G_Auto 1] :  Placed closure bet with greening on Petra Kvitova by Backing 20.69 at 1.33
+3/25/2022 21:22:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:22:25: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aPoints = point: 0; games: 5; sets: 0 
+3/25/2022 21:22:25: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aServing = serving:1
+3/25/2022 21:22:25: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bPoints = point: 0; games: 3; sets: 1 
+3/25/2022 21:22:25: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bServing = serving:0
+3/25/2022 21:22:25: [G_Auto 2] :  Store Value (Shared) for market: price = 1.33
+3/25/2022 21:22:25: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 264.22
+3/25/2022 21:22:25: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 269.13
+3/25/2022 21:22:25: [G_Auto 2] :  Store Value (Shared) for market: stake = 20.69
+3/25/2022 21:22:25: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 533.35
+3/25/2022 21:22:25: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.81
+3/25/2022 21:22:25: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4
+3/25/2022 21:22:25: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.33
+3/25/2022 21:22:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:22:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 21:23:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 21:25:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:26:07: [G_Auto 2] :  Store Value (Shared) for market: aSecondSetPrice = 3.2
+3/25/2022 21:26:07: [G_Auto 2] :  Store Value (Shared) for market: bSecondSetPrice = 1.46
+3/25/2022 21:26:10: [G_Auto 1] :  € 17.02 Lay bet placed on Petra Kvitova at 1.47. Fully matched at 1.46.  Ref: 12657          ( Fill or kill bet with 15 seconds delay.   )
+3/25/2022 21:26:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:26:13: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aPoints = point: 0; games: 0; sets: 1 
+3/25/2022 21:26:13: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aServing = serving:0
+3/25/2022 21:26:13: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bPoints = point: 0; games: 0; sets: 1 
+3/25/2022 21:26:13: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bServing = serving:2
+3/25/2022 21:26:13: [G_Auto 2] :  Store Value (Shared) for market: price = 1.46
+3/25/2022 21:26:13: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 264.22
+3/25/2022 21:26:13: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 286.15
+3/25/2022 21:26:13: [G_Auto 2] :  Store Value (Shared) for market: stake = 17.02
+3/25/2022 21:26:13: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 550.37
+3/25/2022 21:26:13: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.59
+3/25/2022 21:26:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.3
+3/25/2022 21:26:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.44
+3/25/2022 21:26:19: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aPoints = point: 0; games: 0; sets: 1 
+3/25/2022 21:26:19: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aServing = serving:0
+3/25/2022 21:26:19: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bPoints = point: 0; games: 0; sets: 1 
+3/25/2022 21:26:19: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bServing = serving:2
+3/25/2022 21:26:19: [G_Auto 2] :  Store Value (Shared) for market: price = 1.46
+3/25/2022 21:26:19: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 264.22
+3/25/2022 21:26:19: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 286.15
+3/25/2022 21:26:19: [G_Auto 2] :  Store Value (Shared) for market: stake = 17.02
+3/25/2022 21:26:19: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 550.37
+3/25/2022 21:26:19: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.47
+3/25/2022 21:26:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.3
+3/25/2022 21:26:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.44
+3/25/2022 21:26:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:26:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:27:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:27:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:27:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:27:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:28:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:28:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:28:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:28:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:29:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:29:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:29:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:29:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:30:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:30:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:30:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 21:30:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 21:31:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 21:36:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:36:33: [G_Auto 1] :  Placed closure bet with greening on Petra Kvitova by Backing 18.96 at 1.31
+3/25/2022 21:36:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:36:36: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aPoints = point: 0; games: 0; sets: 1 
+3/25/2022 21:36:36: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aServing = serving:1
+3/25/2022 21:36:36: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bPoints = point: 0; games: 1; sets: 1 
+3/25/2022 21:36:36: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bServing = serving:0
+3/25/2022 21:36:36: [G_Auto 2] :  Store Value (Shared) for market: price = 1.31
+3/25/2022 21:36:36: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 283.18
+3/25/2022 21:36:36: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 286.15
+3/25/2022 21:36:36: [G_Auto 2] :  Store Value (Shared) for market: stake = 18.96
+3/25/2022 21:36:36: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 569.33
+3/25/2022 21:36:36: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.91
+3/25/2022 21:36:36: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4
+3/25/2022 21:36:36: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.33
+3/25/2022 21:36:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:37:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:37:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:37:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 21:37:42: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 21:37:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 21:39:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:39:56: [G_Auto 1] :  € 15.38 Lay bet placed on Petra Kvitova at 1.52. Fully matched at 1.51.  Ref: 12670          ( Fill or kill bet with 15 seconds delay.   )
+3/25/2022 21:39:56: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aPoints = point: 0; games: 1; sets: 1 
+3/25/2022 21:39:56: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aServing = serving:0
+3/25/2022 21:39:56: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bPoints = point: 0; games: 1; sets: 1 
+3/25/2022 21:39:56: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bServing = serving:2
+3/25/2022 21:39:56: [G_Auto 2] :  Store Value (Shared) for market: price = 1.51
+3/25/2022 21:39:56: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 283.18
+3/25/2022 21:39:56: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 301.53
+3/25/2022 21:39:56: [G_Auto 2] :  Store Value (Shared) for market: stake = 15.38
+3/25/2022 21:39:56: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 584.71
+3/25/2022 21:39:56: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.8
+3/25/2022 21:39:56: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 4.1
+3/25/2022 21:39:56: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.5
+3/25/2022 21:39:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:40:02: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aPoints = point: 0; games: 1; sets: 1 
+3/25/2022 21:40:02: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aServing = serving:0
+3/25/2022 21:40:02: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bPoints = point: 0; games: 1; sets: 1 
+3/25/2022 21:40:02: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bServing = serving:2
+3/25/2022 21:40:02: [G_Auto 2] :  Store Value (Shared) for market: price = 1.51
+3/25/2022 21:40:02: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 283.18
+3/25/2022 21:40:02: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 301.53
+3/25/2022 21:40:02: [G_Auto 2] :  Store Value (Shared) for market: stake = 15.38
+3/25/2022 21:40:02: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 584.71
+3/25/2022 21:40:02: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.8
+3/25/2022 21:40:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3
+3/25/2022 21:40:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.5
+3/25/2022 21:40:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:40:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:40:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 21:40:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 21:41:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 21:43:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:44:04: [G_Auto 1] :  Placed closure bet with greening on Petra Kvitova by Backing 17.34 at 1.34
+3/25/2022 21:44:04: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aPoints = point: 0; games: 1; sets: 1 
+3/25/2022 21:44:04: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aServing = serving:1
+3/25/2022 21:44:04: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bPoints = point: 0; games: 2; sets: 1 
+3/25/2022 21:44:04: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bServing = serving:0
+3/25/2022 21:44:04: [G_Auto 2] :  Store Value (Shared) for market: price = 1.34
+3/25/2022 21:44:04: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 300.52
+3/25/2022 21:44:04: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 301.53
+3/25/2022 21:44:04: [G_Auto 2] :  Store Value (Shared) for market: stake = 17.34
+3/25/2022 21:44:04: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 602.05
+3/25/2022 21:44:04: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.99
+3/25/2022 21:44:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.6
+3/25/2022 21:44:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.35
+3/25/2022 21:44:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:44:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:44:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:44:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:45:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:45:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:45:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:45:57: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 21:46:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 21:47:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:48:02: [G_Auto 1] :  € 57.14 Lay bet placed on Petra Kvitova at 1.14. Fully matched at 1.13.  Ref: 12681          ( Fill or kill bet with 15 seconds delay.   )
+3/25/2022 21:48:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:48:05: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aPoints = point: 0; games: 1; sets: 1 
+3/25/2022 21:48:05: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aServing = serving:0
+3/25/2022 21:48:05: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bPoints = point: 0; games: 3; sets: 1 
+3/25/2022 21:48:05: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bServing = serving:2
+3/25/2022 21:48:05: [G_Auto 2] :  Store Value (Shared) for market: price = 1.13
+3/25/2022 21:48:05: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 300.52
+3/25/2022 21:48:05: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 358.67
+3/25/2022 21:48:05: [G_Auto 2] :  Store Value (Shared) for market: stake = 57.14
+3/25/2022 21:48:05: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 659.19
+3/25/2022 21:48:05: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.49
+3/25/2022 21:48:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 8.8
+3/25/2022 21:48:05: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.13
+3/25/2022 21:48:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:48:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:48:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 21:48:55: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 21:49:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 21:51:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:51:31: [G_Auto 1] :  Placed closure bet with greening on Petra Kvitova by Backing 48.18 at 1.34
+3/25/2022 21:51:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:51:34: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aPoints = point: 0; games: 2; sets: 1 
+3/25/2022 21:51:34: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aServing = serving:1
+3/25/2022 21:51:34: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bPoints = point: 0; games: 3; sets: 1 
+3/25/2022 21:51:34: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bServing = serving:0
+3/25/2022 21:51:34: [G_Auto 2] :  Store Value (Shared) for market: price = 1.34
+3/25/2022 21:51:34: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 348.7
+3/25/2022 21:51:34: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 358.67
+3/25/2022 21:51:34: [G_Auto 2] :  Store Value (Shared) for market: stake = 48.18
+3/25/2022 21:51:34: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 707.37
+3/25/2022 21:51:34: [G_Auto 2] :  Store Value (Shared) for market: pl = 9.77
+3/25/2022 21:51:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 3.95
+3/25/2022 21:51:34: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.34
+3/25/2022 21:51:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:52:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:52:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:52:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:52:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:53:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:53:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:53:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 21:53:55: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 21:54:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 21:55:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:56:10: [G_Auto 1] :  € 66.67 Lay bet placed on Petra Kvitova at 1.12. Fully matched at 1.11.  Ref: 12691          ( Fill or kill bet with 15 seconds delay.   )
+3/25/2022 21:56:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:56:14: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aPoints = point: 0; games: 2; sets: 1 
+3/25/2022 21:56:14: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aServing = serving:0
+3/25/2022 21:56:14: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bPoints = point: 0; games: 4; sets: 1 
+3/25/2022 21:56:14: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bServing = serving:2
+3/25/2022 21:56:14: [G_Auto 2] :  Store Value (Shared) for market: price = 1.11
+3/25/2022 21:56:14: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 348.7
+3/25/2022 21:56:14: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 425.34
+3/25/2022 21:56:14: [G_Auto 2] :  Store Value (Shared) for market: stake = 66.67
+3/25/2022 21:56:14: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 774.04
+3/25/2022 21:56:14: [G_Auto 2] :  Store Value (Shared) for market: pl = 9.17
+3/25/2022 21:56:14: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 10
+3/25/2022 21:56:14: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.11
+3/25/2022 21:56:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:56:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 21:56:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 21:59:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:59:16: [G_Auto 1] :  Placed closure bet with greening on Petra Kvitova by Backing 71.85 at 1.03
+3/25/2022 21:59:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:59:19: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aPoints = point: 0; games: 2; sets: 1 
+3/25/2022 21:59:19: [G_Auto 2] :  Store Text Value (Shared) for Clara Burel: aServing = serving:1
+3/25/2022 21:59:19: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bPoints = point: 0; games: 5; sets: 1 
+3/25/2022 21:59:19: [G_Auto 2] :  Store Text Value (Shared) for Petra Kvitova: bServing = serving:0
+3/25/2022 21:59:19: [G_Auto 2] :  Store Value (Shared) for market: price = 1.03
+3/25/2022 21:59:19: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 420.55
+3/25/2022 21:59:19: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 425.34
+3/25/2022 21:59:19: [G_Auto 2] :  Store Value (Shared) for market: stake = 71.85
+3/25/2022 21:59:19: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 845.89
+3/25/2022 21:59:19: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.69
+3/25/2022 21:59:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 26
+3/25/2022 21:59:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 1.03
+3/25/2022 21:59:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 21:59:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 22:00:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 22:00:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 22:00:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 22:00:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 22:01:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 22:01:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 22:03:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 22:03:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 22:03:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 22:04:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 22:04:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 22:04:25: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 22:04:40: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/25/2022 22:07:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/25/2022 22:07:22:  Guardian has detected that the market is suspended

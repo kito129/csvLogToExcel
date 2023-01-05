@@ -1,0 +1,755 @@
+3/24/2022 13:41:39: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: info = marketName: Emm Raducanu v Siniakova - Match Odds; runnerA: Emma Raducanu; runnerB: Katerina Siniakova 
+3/24/2022 13:41:39: [G_Auto 2] :  Store Value (Shared) for market: aId = 18849246
+3/24/2022 13:41:39: [G_Auto 2] :  Store Value (Shared) for market: bId = 7137442
+3/24/2022 20:06:09:  Guardian has detected that the market is in-play
+3/24/2022 20:06:09:  Guardian has detected that the market is suspended
+3/24/2022 20:06:12: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.77; bBsp: 2.22; volume: 56340.56 
+3/24/2022 20:06:12: [G_Auto 2] :  Store Text Value (Shared) for market: inplayInfo = aBsp: 1.77; bBsp: 2.22; volume: 56340.56 
+3/24/2022 20:06:12:  Guardian has detected that the market is now unsuspended
+3/24/2022 20:06:16: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 20:06:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 20:10:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:11:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:11:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:11:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:11:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:12:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:12:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 20:12:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 20:21:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:21:47: [G_Auto 1] :  € 9.41 Lay bet placed on Emma Raducanu at 1.85. Fully matched at 1.84.  Ref: 12048          ( Fill or kill bet with 15 seconds delay.   )
+3/24/2022 20:21:48: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aPoints = point: 0; games: 1; sets: 0 
+3/24/2022 20:21:48: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aServing = serving:1
+3/24/2022 20:21:48: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bPoints = point: 0; games: 1; sets: 0 
+3/24/2022 20:21:48: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bServing = serving:0
+3/24/2022 20:21:48: [G_Auto 2] :  Store Value (Shared) for market: price = 1.84
+3/24/2022 20:21:48: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 0
+3/24/2022 20:21:48: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 9.41
+3/24/2022 20:21:48: [G_Auto 2] :  Store Value (Shared) for market: stake = 9.41
+3/24/2022 20:21:48: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 9.41
+3/24/2022 20:21:48: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.05
+3/24/2022 20:21:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.83
+3/24/2022 20:21:48: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.22
+3/24/2022 20:21:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:22:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:22:16: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 20:22:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 20:24:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:24:15: [G_Auto 1] :  Placed closure bet with greening on Emma Raducanu by Backing 10.56 at 1.64
+3/24/2022 20:24:15: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aPoints = point: 0; games: 2; sets: 0 
+3/24/2022 20:24:15: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aServing = serving:0
+3/24/2022 20:24:15: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bPoints = point: 0; games: 1; sets: 0 
+3/24/2022 20:24:15: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bServing = serving:2
+3/24/2022 20:24:15: [G_Auto 2] :  Store Value (Shared) for market: price = 1.64
+3/24/2022 20:24:15: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 10.56
+3/24/2022 20:24:15: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 9.41
+3/24/2022 20:24:15: [G_Auto 2] :  Store Value (Shared) for market: stake = 10.56
+3/24/2022 20:24:15: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 19.97
+3/24/2022 20:24:15: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.15
+3/24/2022 20:24:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.65
+3/24/2022 20:24:15: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.54
+3/24/2022 20:24:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:24:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:24:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:25:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:25:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:25:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:26:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:26:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:26:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:26:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 20:27:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 20:28:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:28:49: [G_Auto 1] :  € 22.22 Lay bet placed on Emma Raducanu at 1.36. Fully matched at 1.35.  Ref: 12056          ( Fill or kill bet with 15 seconds delay.   )
+3/24/2022 20:28:49: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aPoints = point: 0; games: 3; sets: 0 
+3/24/2022 20:28:49: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aServing = serving:1
+3/24/2022 20:28:49: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bPoints = point: 0; games: 1; sets: 0 
+3/24/2022 20:28:49: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bServing = serving:0
+3/24/2022 20:28:49: [G_Auto 2] :  Store Value (Shared) for market: price = 1.35
+3/24/2022 20:28:49: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 10.56
+3/24/2022 20:28:49: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 31.63
+3/24/2022 20:28:49: [G_Auto 2] :  Store Value (Shared) for market: stake = 22.22
+3/24/2022 20:28:49: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 42.19
+3/24/2022 20:28:49: [G_Auto 2] :  Store Value (Shared) for market: pl = -1.31
+3/24/2022 20:28:49: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.34
+3/24/2022 20:28:49: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.9
+3/24/2022 20:28:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:29:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:29:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 20:29:39: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 20:29:56: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 20:34:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:35:02: [G_Auto 1] :  Placed closure bet with greening on Emma Raducanu by Backing 23.62 at 1.27
+3/24/2022 20:35:02: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aPoints = point: 0; games: 4; sets: 0 
+3/24/2022 20:35:02: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aServing = serving:0
+3/24/2022 20:35:02: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bPoints = point: 0; games: 1; sets: 0 
+3/24/2022 20:35:02: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bServing = serving:2
+3/24/2022 20:35:02: [G_Auto 2] :  Store Value (Shared) for market: price = 1.27
+3/24/2022 20:35:02: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 34.18
+3/24/2022 20:35:02: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 31.63
+3/24/2022 20:35:02: [G_Auto 2] :  Store Value (Shared) for market: stake = 23.62
+3/24/2022 20:35:02: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 65.81
+3/24/2022 20:35:02: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.55
+3/24/2022 20:35:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.27
+3/24/2022 20:35:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.5
+3/24/2022 20:35:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:35:09: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aPoints = point: 0; games: 4; sets: 0 
+3/24/2022 20:35:09: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aServing = serving:0
+3/24/2022 20:35:09: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bPoints = point: 0; games: 1; sets: 0 
+3/24/2022 20:35:09: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bServing = serving:2
+3/24/2022 20:35:09: [G_Auto 2] :  Store Value (Shared) for market: price = 1.27
+3/24/2022 20:35:09: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 34.18
+3/24/2022 20:35:09: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 31.63
+3/24/2022 20:35:09: [G_Auto 2] :  Store Value (Shared) for market: stake = 23.62
+3/24/2022 20:35:09: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 65.81
+3/24/2022 20:35:09: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.55
+3/24/2022 20:35:09: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.26
+3/24/2022 20:35:09: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.8
+3/24/2022 20:35:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:35:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:35:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:36:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:36:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:36:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:37:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:37:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:37:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:38:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:38:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:38:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:38:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:39:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:39:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:39:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:40:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:40:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:40:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:40:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 20:41:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 20:41:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 20:48:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:49:08: [G_Auto 1] :  € 36.36 Lay bet placed on Emma Raducanu at 1.22. Fully matched at 1.21.  Ref: 12075          ( Fill or kill bet with 15 seconds delay.   )
+3/24/2022 20:49:09: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aPoints = point: 0; games: 4; sets: 0 
+3/24/2022 20:49:09: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aServing = serving:1
+3/24/2022 20:49:09: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bPoints = point: 0; games: 2; sets: 0 
+3/24/2022 20:49:09: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bServing = serving:0
+3/24/2022 20:49:09: [G_Auto 2] :  Store Value (Shared) for market: price = 1.21
+3/24/2022 20:49:09: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 34.18
+3/24/2022 20:49:09: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 67.99
+3/24/2022 20:49:09: [G_Auto 2] :  Store Value (Shared) for market: stake = 36.36
+3/24/2022 20:49:09: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 102.17
+3/24/2022 20:49:09: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.85
+3/24/2022 20:49:09: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.2
+3/24/2022 20:49:09: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 7
+3/24/2022 20:49:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:49:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:49:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 20:50:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 20:54:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:54:54: [G_Auto 1] :  Placed closure bet with greening on Emma Raducanu by Backing 31.20 at 1.41
+3/24/2022 20:54:55: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aPoints = point: 0; games: 4; sets: 0 
+3/24/2022 20:54:55: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aServing = serving:0
+3/24/2022 20:54:55: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bPoints = point: 0; games: 3; sets: 0 
+3/24/2022 20:54:55: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bServing = serving:2
+3/24/2022 20:54:55: [G_Auto 2] :  Store Value (Shared) for market: price = 1.41
+3/24/2022 20:54:55: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 65.38
+3/24/2022 20:54:55: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 67.99
+3/24/2022 20:54:55: [G_Auto 2] :  Store Value (Shared) for market: stake = 31.2
+3/24/2022 20:54:55: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 133.37
+3/24/2022 20:54:55: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.56
+3/24/2022 20:54:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.42
+3/24/2022 20:54:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.45
+3/24/2022 20:54:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:55:02: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aPoints = point: 0; games: 4; sets: 0 
+3/24/2022 20:55:02: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aServing = serving:0
+3/24/2022 20:55:02: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bPoints = point: 0; games: 3; sets: 0 
+3/24/2022 20:55:02: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bServing = serving:2
+3/24/2022 20:55:02: [G_Auto 2] :  Store Value (Shared) for market: price = 1.41
+3/24/2022 20:55:02: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 65.38
+3/24/2022 20:55:02: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 67.99
+3/24/2022 20:55:02: [G_Auto 2] :  Store Value (Shared) for market: stake = 31.2
+3/24/2022 20:55:02: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 133.37
+3/24/2022 20:55:02: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.56
+3/24/2022 20:55:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.4
+3/24/2022 20:55:02: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.35
+3/24/2022 20:55:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:55:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:55:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:56:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:56:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:56:45: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:57:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 20:57:20: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 20:57:37: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 21:01:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:01:47: [G_Auto 1] :  € 40.00 Lay bet placed on Emma Raducanu at 1.2. Fully matched at 1.19.  Ref: 12084          ( Fill or kill bet with 15 seconds delay.   )
+3/24/2022 21:01:47: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aPoints = point: 0; games: 5; sets: 0 
+3/24/2022 21:01:47: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aServing = serving:1
+3/24/2022 21:01:47: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bPoints = point: 0; games: 3; sets: 0 
+3/24/2022 21:01:47: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bServing = serving:0
+3/24/2022 21:01:47: [G_Auto 2] :  Store Value (Shared) for market: price = 1.19
+3/24/2022 21:01:47: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 65.38
+3/24/2022 21:01:47: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 107.99
+3/24/2022 21:01:47: [G_Auto 2] :  Store Value (Shared) for market: stake = 40
+3/24/2022 21:01:47: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 173.37
+3/24/2022 21:01:47: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.48
+3/24/2022 21:01:47: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.15
+3/24/2022 21:01:47: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 7.4
+3/24/2022 21:01:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:01:55: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aPoints = point: 0; games: 5; sets: 0 
+3/24/2022 21:01:55: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aServing = serving:1
+3/24/2022 21:01:55: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bPoints = point: 0; games: 3; sets: 0 
+3/24/2022 21:01:55: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bServing = serving:0
+3/24/2022 21:01:55: [G_Auto 2] :  Store Value (Shared) for market: price = 1.19
+3/24/2022 21:01:55: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 65.38
+3/24/2022 21:01:55: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 107.99
+3/24/2022 21:01:55: [G_Auto 2] :  Store Value (Shared) for market: stake = 40
+3/24/2022 21:01:55: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 173.37
+3/24/2022 21:01:55: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.2
+3/24/2022 21:01:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.16
+3/24/2022 21:01:55: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 7.4
+3/24/2022 21:02:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:02:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:02:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 21:03:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 21:04:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:05:08: [G_Auto 2] :  Store Value (Shared) for market: aFirstSetPrice = 1.12
+3/24/2022 21:05:08: [G_Auto 2] :  Store Value (Shared) for market: bFirstSetPrice = 8.6
+3/24/2022 21:05:11: [G_Auto 1] :  Placed closure bet with greening on Emma Raducanu by Backing 42.50 at 1.12
+3/24/2022 21:05:12: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aPoints = point: 0; games: 0; sets: 1 
+3/24/2022 21:05:12: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aServing = serving:0
+3/24/2022 21:05:12: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bPoints = point: 0; games: 0; sets: 0 
+3/24/2022 21:05:12: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bServing = serving:2
+3/24/2022 21:05:12: [G_Auto 2] :  Store Value (Shared) for market: price = 1.12
+3/24/2022 21:05:12: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 107.88
+3/24/2022 21:05:12: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 107.99
+3/24/2022 21:05:12: [G_Auto 2] :  Store Value (Shared) for market: stake = 42.5
+3/24/2022 21:05:12: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 215.87
+3/24/2022 21:05:12: [G_Auto 2] :  Store Value (Shared) for market: pl = 0.11
+3/24/2022 21:05:12: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.12
+3/24/2022 21:05:12: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 9
+3/24/2022 21:05:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:05:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:05:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:06:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:06:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:06:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:07:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:07:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:07:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:07:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:08:02: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 21:08:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 21:12:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:12:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:12:57: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:13:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:13:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:13:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 21:13:53: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 21:14:11: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 21:16:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:16:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:17:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:17:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:17:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 21:17:49: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 21:19:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:19:31: [G_Auto 1] :  € 61.54 Lay bet placed on Emma Raducanu at 1.13. Fully matched at 1.12.  Ref: 12103          ( Fill or kill bet with 15 seconds delay.   )
+3/24/2022 21:19:32: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aPoints = point: 0; games: 2; sets: 1 
+3/24/2022 21:19:32: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aServing = serving:1
+3/24/2022 21:19:32: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bPoints = point: 0; games: 1; sets: 0 
+3/24/2022 21:19:32: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bServing = serving:0
+3/24/2022 21:19:32: [G_Auto 2] :  Store Value (Shared) for market: price = 1.12
+3/24/2022 21:19:32: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 107.88
+3/24/2022 21:19:32: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 169.53
+3/24/2022 21:19:32: [G_Auto 2] :  Store Value (Shared) for market: stake = 61.54
+3/24/2022 21:19:32: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 277.41
+3/24/2022 21:19:32: [G_Auto 2] :  Store Value (Shared) for market: pl = -0.44
+3/24/2022 21:19:32: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.11
+3/24/2022 21:19:32: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 10
+3/24/2022 21:19:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:19:53: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:20:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:20:28: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:20:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:21:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:21:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:21:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:21:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:21:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 21:22:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 21:22:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 21:23:59: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:24:11: [G_Auto 1] :  Placed closure bet with greening on Emma Raducanu by Backing 64.41 at 1.07
+3/24/2022 21:24:11: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aPoints = point: 0; games: 3; sets: 1 
+3/24/2022 21:24:11: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aServing = serving:0
+3/24/2022 21:24:11: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bPoints = point: 0; games: 1; sets: 0 
+3/24/2022 21:24:11: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bServing = serving:2
+3/24/2022 21:24:11: [G_Auto 2] :  Store Value (Shared) for market: price = 1.07
+3/24/2022 21:24:11: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 172.29
+3/24/2022 21:24:11: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 169.53
+3/24/2022 21:24:11: [G_Auto 2] :  Store Value (Shared) for market: stake = 64.41
+3/24/2022 21:24:11: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 341.82
+3/24/2022 21:24:11: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.77
+3/24/2022 21:24:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.08
+3/24/2022 21:24:11: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 13.5
+3/24/2022 21:24:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:24:19: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aPoints = point: 0; games: 3; sets: 1 
+3/24/2022 21:24:19: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aServing = serving:0
+3/24/2022 21:24:19: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bPoints = point: 0; games: 1; sets: 0 
+3/24/2022 21:24:19: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bServing = serving:2
+3/24/2022 21:24:19: [G_Auto 2] :  Store Value (Shared) for market: price = 1.07
+3/24/2022 21:24:19: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 172.29
+3/24/2022 21:24:19: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 169.53
+3/24/2022 21:24:19: [G_Auto 2] :  Store Value (Shared) for market: stake = 64.41
+3/24/2022 21:24:19: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 341.82
+3/24/2022 21:24:19: [G_Auto 2] :  Store Value (Shared) for market: pl = -2.77
+3/24/2022 21:24:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.07
+3/24/2022 21:24:19: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 13.5
+3/24/2022 21:24:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:24:43: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 21:25:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 21:26:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:26:46: [G_Auto 1] :  € 61.54 Lay bet placed on Emma Raducanu at 1.13. Fully matched at 1.12.  Ref: 12113          ( Fill or kill bet with 15 seconds delay.   )
+3/24/2022 21:26:47: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aPoints = point: 0; games: 3; sets: 1 
+3/24/2022 21:26:47: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aServing = serving:1
+3/24/2022 21:26:47: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bPoints = point: 0; games: 2; sets: 0 
+3/24/2022 21:26:47: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bServing = serving:0
+3/24/2022 21:26:47: [G_Auto 2] :  Store Value (Shared) for market: price = 1.12
+3/24/2022 21:26:47: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 172.29
+3/24/2022 21:26:47: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 231.07
+3/24/2022 21:26:47: [G_Auto 2] :  Store Value (Shared) for market: stake = 61.54
+3/24/2022 21:26:47: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 403.36
+3/24/2022 21:26:47: [G_Auto 2] :  Store Value (Shared) for market: pl = -3.32
+3/24/2022 21:26:47: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.11
+3/24/2022 21:26:47: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 10.5
+3/24/2022 21:26:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:27:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:27:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:27:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:28:01: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:28:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:28:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:28:52: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 21:29:10: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 21:31:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:31:46: [G_Auto 1] :  Placed closure bet with greening on Emma Raducanu by Backing 54.28 at 1.27
+3/24/2022 21:31:47: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aPoints = point: 0; games: 3; sets: 1 
+3/24/2022 21:31:47: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aServing = serving:0
+3/24/2022 21:31:47: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bPoints = point: 0; games: 3; sets: 0 
+3/24/2022 21:31:47: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bServing = serving:2
+3/24/2022 21:31:47: [G_Auto 2] :  Store Value (Shared) for market: price = 1.27
+3/24/2022 21:31:47: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 226.57
+3/24/2022 21:31:47: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 231.07
+3/24/2022 21:31:47: [G_Auto 2] :  Store Value (Shared) for market: stake = 54.28
+3/24/2022 21:31:47: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 457.64
+3/24/2022 21:31:47: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.42
+3/24/2022 21:31:47: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.27
+3/24/2022 21:31:47: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.8
+3/24/2022 21:31:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:31:56: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aPoints = point: 0; games: 3; sets: 1 
+3/24/2022 21:31:56: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aServing = serving:0
+3/24/2022 21:31:56: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bPoints = point: 0; games: 3; sets: 0 
+3/24/2022 21:31:56: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bServing = serving:2
+3/24/2022 21:31:56: [G_Auto 2] :  Store Value (Shared) for market: price = 1.27
+3/24/2022 21:31:56: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 226.57
+3/24/2022 21:31:56: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 231.07
+3/24/2022 21:31:56: [G_Auto 2] :  Store Value (Shared) for market: stake = 54.28
+3/24/2022 21:31:56: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 457.64
+3/24/2022 21:31:56: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.42
+3/24/2022 21:31:56: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.27
+3/24/2022 21:31:56: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.5
+3/24/2022 21:32:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:32:17: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 21:32:35: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 21:35:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:36:09: [G_Auto 1] :  € 19.51 Lay bet placed on Emma Raducanu at 1.41. Fully matched at 1.4.  Ref: 12125          ( Fill or kill bet with 15 seconds delay.   )
+3/24/2022 21:36:09: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aPoints = point: 0; games: 3; sets: 1 
+3/24/2022 21:36:09: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aServing = serving:1
+3/24/2022 21:36:09: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bPoints = point: 0; games: 4; sets: 0 
+3/24/2022 21:36:09: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bServing = serving:0
+3/24/2022 21:36:09: [G_Auto 2] :  Store Value (Shared) for market: price = 1.4
+3/24/2022 21:36:09: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 226.57
+3/24/2022 21:36:09: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 250.58
+3/24/2022 21:36:09: [G_Auto 2] :  Store Value (Shared) for market: stake = 19.51
+3/24/2022 21:36:09: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 477.15
+3/24/2022 21:36:09: [G_Auto 2] :  Store Value (Shared) for market: pl = 4.27
+3/24/2022 21:36:09: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.39
+3/24/2022 21:36:09: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.55
+3/24/2022 21:36:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:36:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:36:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:37:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:37:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:37:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:37:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 21:38:16: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 21:38:34: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 21:39:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:40:05: [G_Auto 1] :  Placed closure bet with greening on Emma Raducanu by Backing 22.02 at 1.24
+3/24/2022 21:40:06: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aPoints = point: 0; games: 4; sets: 1 
+3/24/2022 21:40:06: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aServing = serving:0
+3/24/2022 21:40:06: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bPoints = point: 0; games: 4; sets: 0 
+3/24/2022 21:40:06: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bServing = serving:2
+3/24/2022 21:40:06: [G_Auto 2] :  Store Value (Shared) for market: price = 1.24
+3/24/2022 21:40:06: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 248.59
+3/24/2022 21:40:06: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 250.58
+3/24/2022 21:40:06: [G_Auto 2] :  Store Value (Shared) for market: stake = 22.02
+3/24/2022 21:40:06: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 499.17
+3/24/2022 21:40:06: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.95
+3/24/2022 21:40:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.24
+3/24/2022 21:40:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.7
+3/24/2022 21:40:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:40:13: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aPoints = point: 0; games: 4; sets: 1 
+3/24/2022 21:40:13: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aServing = serving:0
+3/24/2022 21:40:13: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bPoints = point: 0; games: 4; sets: 0 
+3/24/2022 21:40:13: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bServing = serving:2
+3/24/2022 21:40:13: [G_Auto 2] :  Store Value (Shared) for market: price = 1.24
+3/24/2022 21:40:13: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 248.59
+3/24/2022 21:40:13: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 250.58
+3/24/2022 21:40:13: [G_Auto 2] :  Store Value (Shared) for market: stake = 22.02
+3/24/2022 21:40:13: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 499.17
+3/24/2022 21:40:13: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.95
+3/24/2022 21:40:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.24
+3/24/2022 21:40:13: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5
+3/24/2022 21:40:27: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 21:40:44: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 21:44:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:45:05: [G_Auto 1] :  € 19.51 Lay bet placed on Emma Raducanu at 1.41. Fully matched at 1.4.  Ref: 12137          ( Fill or kill bet with 15 seconds delay.   )
+3/24/2022 21:45:06: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aPoints = point: 0; games: 4; sets: 1 
+3/24/2022 21:45:06: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aServing = serving:1
+3/24/2022 21:45:06: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bPoints = point: 0; games: 5; sets: 0 
+3/24/2022 21:45:06: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bServing = serving:0
+3/24/2022 21:45:06: [G_Auto 2] :  Store Value (Shared) for market: price = 1.4
+3/24/2022 21:45:06: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 248.59
+3/24/2022 21:45:06: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 270.09
+3/24/2022 21:45:06: [G_Auto 2] :  Store Value (Shared) for market: stake = 19.51
+3/24/2022 21:45:06: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 518.68
+3/24/2022 21:45:06: [G_Auto 2] :  Store Value (Shared) for market: pl = 1.67
+3/24/2022 21:45:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.38
+3/24/2022 21:45:06: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.65
+3/24/2022 21:45:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:45:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:45:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:46:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:46:19: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:46:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:46:54: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:47:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:47:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 21:47:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 21:55:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:55:23: [G_Auto 2] :  Store Value (Shared) for market: aSecondSetPrice = 1.78
+3/24/2022 21:55:23: [G_Auto 2] :  Store Value (Shared) for market: bSecondSetPrice = 2.22
+3/24/2022 21:55:26: [G_Auto 1] :  Placed closure bet with greening on Emma Raducanu by Backing 15.35 at 1.78
+3/24/2022 21:55:26: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aPoints = point: 0; games: 0; sets: 1 
+3/24/2022 21:55:26: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aServing = serving:0
+3/24/2022 21:55:26: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bPoints = point: 0; games: 0; sets: 1 
+3/24/2022 21:55:26: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bServing = serving:2
+3/24/2022 21:55:26: [G_Auto 2] :  Store Value (Shared) for market: price = 1.78
+3/24/2022 21:55:26: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 263.94
+3/24/2022 21:55:26: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 270.09
+3/24/2022 21:55:26: [G_Auto 2] :  Store Value (Shared) for market: stake = 15.35
+3/24/2022 21:55:26: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 534.03
+3/24/2022 21:55:26: [G_Auto 2] :  Store Value (Shared) for market: pl = 6.04
+3/24/2022 21:55:26: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.83
+3/24/2022 21:55:26: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.22
+3/24/2022 21:55:30: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:55:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:56:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:56:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:56:40: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:56:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:57:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:57:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:57:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:58:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:58:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:58:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:58:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:59:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:59:34: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 21:59:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:00:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:00:27: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:00:46: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:01:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:01:21: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:01:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:01:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:02:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:02:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:02:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:03:07: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:03:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:03:42: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:04:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:04:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:04:35: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:04:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:05:10: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:05:13: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 22:05:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 22:05:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 22:08:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:08:47: [G_Auto 1] :  € 18.60 Lay bet placed on Emma Raducanu at 1.43. Fully matched at 1.43.  Ref: 12161          ( Fill or kill bet with 15 seconds delay.   )
+3/24/2022 22:08:47: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aPoints = point: 0; games: 1; sets: 1 
+3/24/2022 22:08:47: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aServing = serving:1
+3/24/2022 22:08:47: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bPoints = point: 0; games: 0; sets: 1 
+3/24/2022 22:08:47: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bServing = serving:0
+3/24/2022 22:08:47: [G_Auto 2] :  Store Value (Shared) for market: price = 1.43
+3/24/2022 22:08:47: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 263.94
+3/24/2022 22:08:47: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 288.69
+3/24/2022 22:08:47: [G_Auto 2] :  Store Value (Shared) for market: stake = 18.6
+3/24/2022 22:08:47: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 552.63
+3/24/2022 22:08:47: [G_Auto 2] :  Store Value (Shared) for market: pl = 5.64
+3/24/2022 22:08:47: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.4
+3/24/2022 22:08:47: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 3.5
+3/24/2022 22:08:51: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:09:09: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:09:26: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:09:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:10:01: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 22:10:19: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 22:10:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 22:12:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:12:32: [G_Auto 1] :  Placed closure bet with greening on Emma Raducanu by Backing 21.98 at 1.21
+3/24/2022 22:12:32: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aPoints = point: 0; games: 2; sets: 1 
+3/24/2022 22:12:32: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aServing = serving:0
+3/24/2022 22:12:32: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bPoints = point: 0; games: 0; sets: 1 
+3/24/2022 22:12:32: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bServing = serving:2
+3/24/2022 22:12:32: [G_Auto 2] :  Store Value (Shared) for market: price = 1.21
+3/24/2022 22:12:32: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 285.92
+3/24/2022 22:12:32: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 288.69
+3/24/2022 22:12:32: [G_Auto 2] :  Store Value (Shared) for market: stake = 21.98
+3/24/2022 22:12:32: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 574.61
+3/24/2022 22:12:32: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.71
+3/24/2022 22:12:32: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.23
+3/24/2022 22:12:32: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 5.3
+3/24/2022 22:12:36: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:12:52: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:12:59: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 22:13:15: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 22:18:38: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:20:16: [G_Auto 1] :  € 21.62 Lay bet placed on Emma Raducanu at 1.37. Fully matched at 1.36.  Ref: 12171          ( Fill or kill bet with 15 seconds delay.   )
+3/24/2022 22:20:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:20:16: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aPoints = point: 0; games: 2; sets: 1 
+3/24/2022 22:20:16: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aServing = serving:1
+3/24/2022 22:20:16: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bPoints = point: 0; games: 1; sets: 1 
+3/24/2022 22:20:16: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bServing = serving:0
+3/24/2022 22:20:16: [G_Auto 2] :  Store Value (Shared) for market: price = 1.36
+3/24/2022 22:20:16: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 285.92
+3/24/2022 22:20:16: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 310.31
+3/24/2022 22:20:16: [G_Auto 2] :  Store Value (Shared) for market: stake = 21.62
+3/24/2022 22:20:16: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 596.23
+3/24/2022 22:20:16: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.56
+3/24/2022 22:20:16: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.35
+3/24/2022 22:20:16: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.1
+3/24/2022 22:20:32: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:20:49: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:21:05: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:21:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:21:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:21:55: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:22:12: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:22:22: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 22:22:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 22:24:44: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:24:57: [G_Auto 1] :  Placed closure bet with greening on Emma Raducanu by Backing 15.81 at 1.86
+3/24/2022 22:24:57: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aPoints = point: 0; games: 2; sets: 1 
+3/24/2022 22:24:57: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aServing = serving:0
+3/24/2022 22:24:57: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bPoints = point: 0; games: 2; sets: 1 
+3/24/2022 22:24:57: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bServing = serving:2
+3/24/2022 22:24:57: [G_Auto 2] :  Store Value (Shared) for market: price = 1.86
+3/24/2022 22:24:57: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 301.73
+3/24/2022 22:24:57: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 310.31
+3/24/2022 22:24:57: [G_Auto 2] :  Store Value (Shared) for market: stake = 15.81
+3/24/2022 22:24:57: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 612.04
+3/24/2022 22:24:57: [G_Auto 2] :  Store Value (Shared) for market: pl = 8.42
+3/24/2022 22:24:57: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.86
+3/24/2022 22:24:57: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.12
+3/24/2022 22:25:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:25:04: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aPoints = point: 0; games: 2; sets: 1 
+3/24/2022 22:25:04: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aServing = serving:0
+3/24/2022 22:25:04: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bPoints = point: 0; games: 2; sets: 1 
+3/24/2022 22:25:04: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bServing = serving:2
+3/24/2022 22:25:04: [G_Auto 2] :  Store Value (Shared) for market: price = 1.86
+3/24/2022 22:25:04: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 301.73
+3/24/2022 22:25:04: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 310.31
+3/24/2022 22:25:04: [G_Auto 2] :  Store Value (Shared) for market: stake = 15.81
+3/24/2022 22:25:04: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 612.04
+3/24/2022 22:25:04: [G_Auto 2] :  Store Value (Shared) for market: pl = 8.42
+3/24/2022 22:25:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.92
+3/24/2022 22:25:04: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.08
+3/24/2022 22:25:18: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:25:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 22:25:38: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 22:27:43: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:28:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:28:17: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:28:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:28:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:29:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:29:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:29:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:29:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:30:09: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 22:30:26: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 22:33:00: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:33:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:33:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:33:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:34:02: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:34:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 22:34:21: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 22:34:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 22:39:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:39:21: [G_Auto 1] :  € 25.81 Lay bet placed on Emma Raducanu at 1.31. Fully matched at 1.3.  Ref: 12184          ( Fill or kill bet with 15 seconds delay.   )
+3/24/2022 22:39:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:39:24: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aPoints = point: 0; games: 4; sets: 1 
+3/24/2022 22:39:24: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aServing = serving:1
+3/24/2022 22:39:24: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bPoints = point: 0; games: 3; sets: 1 
+3/24/2022 22:39:24: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bServing = serving:0
+3/24/2022 22:39:24: [G_Auto 2] :  Store Value (Shared) for market: price = 1.3
+3/24/2022 22:39:24: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 301.73
+3/24/2022 22:39:24: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 336.12
+3/24/2022 22:39:24: [G_Auto 2] :  Store Value (Shared) for market: stake = 25.81
+3/24/2022 22:39:24: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 637.85
+3/24/2022 22:39:24: [G_Auto 2] :  Store Value (Shared) for market: pl = 8.21
+3/24/2022 22:39:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.3
+3/24/2022 22:39:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.4
+3/24/2022 22:39:29: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aPoints = point: 0; games: 4; sets: 1 
+3/24/2022 22:39:29: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aServing = serving:1
+3/24/2022 22:39:29: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bPoints = point: 0; games: 3; sets: 1 
+3/24/2022 22:39:29: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bServing = serving:0
+3/24/2022 22:39:29: [G_Auto 2] :  Store Value (Shared) for market: price = 1.3
+3/24/2022 22:39:29: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 301.73
+3/24/2022 22:39:29: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 336.12
+3/24/2022 22:39:29: [G_Auto 2] :  Store Value (Shared) for market: stake = 25.81
+3/24/2022 22:39:29: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 637.85
+3/24/2022 22:39:29: [G_Auto 2] :  Store Value (Shared) for market: pl = 8.42
+3/24/2022 22:39:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.3
+3/24/2022 22:39:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 4.5
+3/24/2022 22:39:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:39:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:40:13: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:40:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:40:47: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:41:04: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:41:22: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:41:36: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 22:41:54: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 22:43:11: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:43:26: [G_Auto 1] :  Placed closure bet with greening on Emma Raducanu by Backing 31.06 at 1.08
+3/24/2022 22:43:29: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:43:29: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aPoints = point: 0; games: 5; sets: 1 
+3/24/2022 22:43:29: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aServing = serving:0
+3/24/2022 22:43:29: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bPoints = point: 0; games: 3; sets: 1 
+3/24/2022 22:43:29: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bServing = serving:2
+3/24/2022 22:43:29: [G_Auto 2] :  Store Value (Shared) for market: price = 1.08
+3/24/2022 22:43:29: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 332.79
+3/24/2022 22:43:29: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 336.12
+3/24/2022 22:43:29: [G_Auto 2] :  Store Value (Shared) for market: stake = 31.06
+3/24/2022 22:43:29: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 668.91
+3/24/2022 22:43:29: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.26
+3/24/2022 22:43:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.09
+3/24/2022 22:43:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 11
+3/24/2022 22:43:35: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aPoints = point: 0; games: 5; sets: 1 
+3/24/2022 22:43:35: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aServing = serving:0
+3/24/2022 22:43:35: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bPoints = point: 0; games: 3; sets: 1 
+3/24/2022 22:43:35: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bServing = serving:2
+3/24/2022 22:43:35: [G_Auto 2] :  Store Value (Shared) for market: price = 1.08
+3/24/2022 22:43:35: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 332.79
+3/24/2022 22:43:35: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 336.12
+3/24/2022 22:43:35: [G_Auto 2] :  Store Value (Shared) for market: stake = 31.06
+3/24/2022 22:43:35: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 668.91
+3/24/2022 22:43:35: [G_Auto 2] :  Store Value (Shared) for market: pl = 3.26
+3/24/2022 22:43:35: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.09
+3/24/2022 22:43:35: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 12
+3/24/2022 22:43:46: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 22:44:03: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 22:47:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:47:21: [G_Auto 1] :  € 44.44 Lay bet placed on Emma Raducanu at 1.18. Fully matched at 1.17.  Ref: 12195          ( Fill or kill bet with 15 seconds delay.   )
+3/24/2022 22:47:24: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:47:24: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aPoints = point: 0; games: 5; sets: 1 
+3/24/2022 22:47:24: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aServing = serving:1
+3/24/2022 22:47:24: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bPoints = point: 0; games: 4; sets: 1 
+3/24/2022 22:47:24: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bServing = serving:0
+3/24/2022 22:47:24: [G_Auto 2] :  Store Value (Shared) for market: price = 1.17
+3/24/2022 22:47:24: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 332.79
+3/24/2022 22:47:24: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 380.56
+3/24/2022 22:47:24: [G_Auto 2] :  Store Value (Shared) for market: stake = 44.44
+3/24/2022 22:47:24: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 713.35
+3/24/2022 22:47:24: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.89
+3/24/2022 22:47:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.16
+3/24/2022 22:47:24: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 7.2
+3/24/2022 22:47:29: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aPoints = point: 0; games: 5; sets: 1 
+3/24/2022 22:47:29: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aServing = serving:1
+3/24/2022 22:47:29: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bPoints = point: 0; games: 4; sets: 1 
+3/24/2022 22:47:29: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bServing = serving:0
+3/24/2022 22:47:29: [G_Auto 2] :  Store Value (Shared) for market: price = 1.17
+3/24/2022 22:47:29: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 332.79
+3/24/2022 22:47:29: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 380.56
+3/24/2022 22:47:29: [G_Auto 2] :  Store Value (Shared) for market: stake = 44.44
+3/24/2022 22:47:29: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 713.35
+3/24/2022 22:47:29: [G_Auto 2] :  Store Value (Shared) for market: pl = 2.89
+3/24/2022 22:47:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.16
+3/24/2022 22:47:29: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 7.2
+3/24/2022 22:47:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:47:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:48:16: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:48:33: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:48:50: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:49:08: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:49:25: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:49:31: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 22:49:48: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 22:50:05: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 22:50:23: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 22:53:03: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:53:17: [G_Auto 1] :  Placed closure bet with greening on Emma Raducanu by Backing 26.94 at 1.93
+3/24/2022 22:53:20: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:53:20: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aPoints = point: 0; games: 5; sets: 1 
+3/24/2022 22:53:20: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aServing = serving:0
+3/24/2022 22:53:20: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bPoints = point: 0; games: 5; sets: 1 
+3/24/2022 22:53:20: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bServing = serving:2
+3/24/2022 22:53:20: [G_Auto 2] :  Store Value (Shared) for market: price = 1.93
+3/24/2022 22:53:20: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 359.73
+3/24/2022 22:53:20: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 380.56
+3/24/2022 22:53:20: [G_Auto 2] :  Store Value (Shared) for market: stake = 26.94
+3/24/2022 22:53:20: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 740.29
+3/24/2022 22:53:20: [G_Auto 2] :  Store Value (Shared) for market: pl = 20.41
+3/24/2022 22:53:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.92
+3/24/2022 22:53:20: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.06
+3/24/2022 22:53:26: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aPoints = point: 0; games: 5; sets: 1 
+3/24/2022 22:53:26: [G_Auto 2] :  Store Text Value (Shared) for Emma Raducanu: aServing = serving:0
+3/24/2022 22:53:26: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bPoints = point: 0; games: 5; sets: 1 
+3/24/2022 22:53:26: [G_Auto 2] :  Store Text Value (Shared) for Katerina Siniakova: bServing = serving:2
+3/24/2022 22:53:26: [G_Auto 2] :  Store Value (Shared) for market: price = 1.93
+3/24/2022 22:53:26: [G_Auto 2] :  Store Value (Shared) for market: totalBack = 359.73
+3/24/2022 22:53:26: [G_Auto 2] :  Store Value (Shared) for market: totalLay = 380.56
+3/24/2022 22:53:26: [G_Auto 2] :  Store Value (Shared) for market: stake = 26.94
+3/24/2022 22:53:26: [G_Auto 2] :  Store Value (Shared) for market: totalStake = 740.29
+3/24/2022 22:53:26: [G_Auto 2] :  Store Value (Shared) for market: pl = 20.41
+3/24/2022 22:53:26: [G_Auto 2] :  Store Value (Shared) for market: currentOddsA = 1.92
+3/24/2022 22:53:26: [G_Auto 2] :  Store Value (Shared) for market: currentOddsB = 2.06
+3/24/2022 22:53:37: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:53:55: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 22:54:12: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 22:54:29: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 22:55:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:55:56: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:56:14: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:56:31: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:56:48: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:57:06: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:57:23: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:57:41: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:57:58: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:58:15: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 22:58:33: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 22:58:50: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 22:59:08: [G_Auto 1] :  Automation Signal for market: delay - Cleared
+3/24/2022 23:01:39: [G_Auto 1] :  Automation Signal for market: delay = 1
+3/24/2022 23:01:45:  Guardian has detected that the market is suspended
