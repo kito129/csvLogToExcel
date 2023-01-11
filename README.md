@@ -1,4 +1,4 @@
-# Csv Log To Excel
+# csvToExcel
 The main task of this project is to convert some logs in one excel files.
 
 I need a python script to run every day over some csv logs.
