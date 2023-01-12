@@ -1,3 +1,15 @@
+##
+# csvToExcel
+# AUTHOR: MARCO SELVA
+# DATE CREATION 02/12/2022
+# VERSION: 2.0
+# v2.0: 01/12/2023
+# v1.0: 03/06/2022
+# 
+# TODO
+# 
+# ##
+
 from openpyxl import Workbook
 from datetime import datetime, timedelta
 from itertools import zip_longest
