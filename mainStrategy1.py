@@ -177,6 +177,8 @@ for date in os.listdir(path):
                 sheet.append(row)
             if not final:
                 sheet.append(([None] * 28) + ['FINAL'])
+
+            
 dateOfRun = datetime.now().strftime('%d_%m_%Y_%H_%M')
 outFile = os.path.join(os.path.abspath(exportPath), f'REPORT_{dateOfRun}.xlsx')
 print("\nSaved to:", outFile)
